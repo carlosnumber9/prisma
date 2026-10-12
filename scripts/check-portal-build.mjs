@@ -9,6 +9,7 @@ import {
 import { UNAVAILABLE_LABEL } from '../src/lib/presentation.ts';
 import { partyAccent } from '../src/lib/themes.ts';
 import { siteOrigin, sitemapEntries } from '../src/lib/seo.ts';
+import { createPrerenderedArtifactReader } from './prerendered-artifacts.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const readJson = (path) => JSON.parse(readFileSync(join(root, path), 'utf8'));
@@ -23,6 +24,10 @@ const repository = createContentRepository(
   ),
 );
 const prerender = readJson('.next/prerender-manifest.json');
+const readArtifact = createPrerenderedArtifactReader(
+  join(root, '.next'),
+  prerender,
+);
 const paths = [
   '/',
   '/parties',
@@ -35,18 +40,7 @@ const htmlByPath = new Map();
 const origin = siteOrigin(process.env.SITE_URL);
 const validPaths = new Set(paths);
 for (const path of paths) {
-  assert.ok(
-    Object.hasOwn(prerender.routes, path),
-    `${path}: must be prerendered`,
-  );
-  const html = readFileSync(
-    join(
-      root,
-      '.next/server/app',
-      path === '/' ? 'index.html' : `${path.slice(1)}.html`,
-    ),
-    'utf8',
-  );
+  const html = readArtifact(path);
   htmlByPath.set(path, html);
   assert.match(html, /<html[^>]*lang="es"/);
   assert.match(html, /href="#main-content"/);
@@ -92,20 +86,14 @@ for (const party of repository.parties) {
   if (party.officialWebsite === null)
     assert.ok(!html.includes('Web oficial de'));
 }
-const sitemap = readFileSync(
-  join(root, '.next/server/app/sitemap.xml.body'),
-  'utf8',
-);
+const sitemap = readArtifact('/sitemap.xml', '.body');
 assert.equal(
   (sitemap.match(/<loc>/g) ?? []).length,
   sitemapEntries(repository, origin).length,
 );
 for (const entry of sitemapEntries(repository, origin))
   assert.ok(sitemap.includes(`<loc>${entry.url}</loc>`));
-const notFound = readFileSync(
-  join(root, '.next/server/app/_not-found.html'),
-  'utf8',
-);
+const notFound = readArtifact('/_not-found');
 assert.ok(notFound.includes('Página no encontrada'));
 // dynamicParams=false must also be reflected in the compiled route fallback.
 for (const route of Object.values(prerender.dynamicRoutes))

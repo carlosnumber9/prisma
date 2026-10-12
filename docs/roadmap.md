@@ -36,6 +36,8 @@ The maintainer supplies received suggestions to `triage-suggestion`. The skill d
 
 ## Delivery 5 — Vercel hosting and publication checks: pending
 
+The portal build checker supports both normal Next output and the source-scoped route cache emitted by Next 16.4 adapters, preserving HTML, sitemap and 404 checks during Vercel builds. Local verification does not establish a successful Vercel deployment; hosting settings and remote outcomes still require verification.
+
 Connect the intended repository and production branch `master`, configure domains/settings when authorised and verify build/deployment outcomes. Align the repository's remote default-branch setting with `master` through a separately authorised repository-settings action when needed; a local branch rename or push does not change that setting.
 
 Enable Vercel Deployment Checks requiring Quality before production promotion when explicitly configured. Verify that the setting is actually enabled; do not claim enforcement from the workflow file. Continue preparing editorial changes before consent, then publish agreed batches by local Git over SSH. Do not add a database or model service merely to justify client/server separation.

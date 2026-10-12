@@ -30,9 +30,13 @@ The light interface uses system fonts, semantic navigation, breadcrumbs, a skip 
 
 `npm run test` runs generator and application tests. `test:app` runs content, presentation and static reader markup tests; fixtures remain synthetic and outside the political corpus. Node's synchronous module hooks and the existing TypeScript 6 API transpile TSX for markup tests, replacing CSS imports with class names. These tests verify reviewed reader states without pretending to verify styles. Generator coverage is still diagnostic and has no global threshold. `npm run build` additionally inspects the emitted HTML and prerender manifest, covering every generated route, Spanish language, headings, skip links, pending metadata, accents, missing website links, stable point anchors, sitemap and 404 fallback. Quality CI includes these checks.
 
+The artifact reader uses the completed build's `required-server-files.json` configuration, not a hosting environment flag. Normal builds read `.next/server/app`; Next 16.4 adapter builds (including Vercel) read `.next/server/route-cache`, scoped by route kind and the SHA-256 hash of the source module path. The App Router manifest resolves dynamic instances to their original source module; sitemap bodies and the 404 use the same resolver. Checks remain mandatory in both layouts, and missing artifacts fail rather than falling back to stale output. Regression fixtures use the pinned Next cache-key implementation to verify the layout convention.
+
 No app server or browser is started for this delivery. Interactive accessibility, rendered mobile layout and visual quality remain unverified in a browser. Local checks do not prove remote CI or deployment. The initial implementation was reviewed locally before the maintainer authorised its commit and push. No tag or deployment is authorised; the package remains at 0.1.0.
 
 Local verification on 13 October 2026 used Node 24.18.0 and npm 10.8.2: locked `npm ci`, `npm run check`, all 50 tests, generator coverage and `npm run build` passed. The offline HTML check verified all 56 portal pages with no production domain configured. Generator coverage was 99.10% lines, 96.85% branches and 100% functions; these numbers describe this run only.
+
+The adapter-layout fix was verified on 13 October 2026 with the same toolchain: static checks, all 54 tests and two full portal builds passed. The second build set `NEXT_ADAPTER_PATH` to a temporary no-op adapter, exercising Next's actual scoped output and the full checker without deploying. Both builds verified all 56 portal pages, sitemap and 404. This verifies artifact resolution, not Vercel's packaging or a remote deployment.
 
 ## Logical implementation units
 
