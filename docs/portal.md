@@ -1,0 +1,47 @@
+# Prisma portal implementation
+
+## Architecture and delivery
+
+The first portal uses Next 16.4.0, React 19.3.0 and App Router, with statically prerendered pages and CSS Modules. It keeps the normal Next output compatible with future Vercel hosting; it is not an HTML export. There is no content API, database, model service, comparator or correction form.
+
+Node 24.x and npm 10.8.2 remain required. TypeScript 7.0.2 supplies `tsc`; the `typescript` npm alias points to the official TypeScript 6 API compatibility package needed by ESLint. [Microsoft documents this coexistence](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/). Application code has a strict configuration separate from checked JavaScript tooling. Dependencies are pinned and installed without forced peer resolution.
+
+The content adapter explicitly imports only the four files under `content/generated`. The reader accepts schema v2, checks envelope consistency and resolves stable IDs. The generator remains the authority for full input validation. Build runs `content:check` first and fails on invalid or stale content without regenerating it. Incorporating approved content later requires an editorial generation and a new build.
+
+## Routes and editorial states
+
+The catalogue initially has five formations and eight areas: 56 pages across `/`, `/parties`, `/parties/[party]`, `/parties/[party]/[topic]`, `/topics` and `/topics/[topic]`. Dynamic routes enumerate the generated catalogue with `generateStaticParams` and disallow unknown IDs. A dedicated 404 provides a return path.
+
+Home provides formation and area browsing immediately. Area pages list formation links and review states; they do not implement comparison. Formation pages omit the official website link when it is null. The catalogue's limits and [provenance](catalogue-provenance.md) are explicit.
+
+- `pending`: “Resumen todavía no disponible”, without inferring that a formation lacks proposals or has not published a programme.
+- `partial`: approved points, citations and the explicit partial-review notice.
+- `complete`: reviewed points, revision and review date. An empty complete review says no proposals were identified in the reviewed corpus and retains its reviewed sources.
+
+Points preserve their IDs as shareable anchors. Native disclosure controls expose source quotations without client-side state. PDF references retain physical and optional printed page numbers; HTML references use only actual source anchors. Dates are formatted in Spanish with UTC. Sources link to official URLs; local originals, extraction and review records are never copied into web assets.
+
+## Presentation and SEO
+
+The light interface uses system fonts, semantic navigation, breadcrumbs, a skip link, visible focus, readable contrast and explicit mobile layouts. Party sections apply page-wide CSS variables; colour configuration remains outside the editorial contract. PP and PSOE use evidenced accents, while other or new formations remain neutral. See [colour evidence](catalogue-provenance.md#interface-colour-evidence).
+
+`SITE_URL` is an optional public HTTP(S) origin without credentials, paths, queries or fragments. Empty configuration omits canonical links and produces a sitemap with no URLs; robots does not advertise it. Invalid values fail checks that load the site configuration or the build. Once configured, canonical and sitemap URLs use that origin. Pending synthesis pages remain `noindex, follow` and excluded from the sitemap; partial and complete pages, including complete empty reviews, become indexable automatically. Catalogue pages remain indexable. Sitemap modification dates come from editorial review, never build time.
+
+## Verification and remaining limits
+
+`npm run test` runs generator and application tests. `test:app` runs content, presentation and static reader markup tests; fixtures remain synthetic and outside the political corpus. Node's synchronous module hooks and the existing TypeScript 6 API transpile TSX for markup tests, replacing CSS imports with class names. These tests verify reviewed reader states without pretending to verify styles. Generator coverage is still diagnostic and has no global threshold. `npm run build` additionally inspects the emitted HTML and prerender manifest, covering every generated route, Spanish language, headings, skip links, pending metadata, accents, missing website links, stable point anchors, sitemap and 404 fallback. Quality CI includes these checks.
+
+No app server or browser is started for this delivery. Interactive accessibility, rendered mobile layout and visual quality remain unverified in a browser. Local checks do not prove remote CI or deployment. The initial implementation was reviewed locally before the maintainer authorised its commit and push. No tag or deployment is authorised; the package remains at 0.1.0.
+
+Local verification on 13 October 2026 used Node 24.18.0 and npm 10.8.2: locked `npm ci`, `npm run check`, all 50 tests, generator coverage and `npm run build` passed. The offline HTML check verified all 56 portal pages with no production domain configured. Generator coverage was 99.10% lines, 96.85% branches and 100% functions; these numbers describe this run only.
+
+## Logical implementation units
+
+The delivery follows the ordered reviewable units below. Related tests, generated files and current-state documentation belong to the same commit as their behaviour. Before publication, the original seven-unit plan was reduced to five commits: Next tooling, content queries and the portal belong together because package scripts and CI depend on their combined files. This avoids commits with missing test commands, missing route dependencies or artificial temporary scaffolding. The feature scope is unchanged.
+
+| Order | Proposed message                                                 | Purpose and scope                                                                      | Verification                                                                |
+| ----- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| 1     | `docs: Defined atomic implementation commit plans`               | Require ordered atomic plans and link Git authorisation.                               | Formatting and documentation links.                                         |
+| 2     | `feat: Added nullable formation websites to the public contract` | Migrate all public envelopes to v2, nullable required website, generator and contract. | Null/invalid website tests, schema assertions and deterministic generation. |
+| 3     | `feat: Added the initial electoral formation catalogue`          | Add five real formations, evidence and generated pending entries.                      | Content validation and catalogue combinations.                              |
+| 4     | `feat: Added the static programme browsing portal`               | Next tooling, public queries, all routes, reader, CSS themes, SEO and build CI.        | Locked installation, content/markup tests, static checks and full build.    |
+| 5     | `docs: Recorded comparator and theme transition follow-ups`      | Record future comparison and accessible theme motion.                                  | Roadmap consistency and local links.                                        |

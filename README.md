@@ -2,7 +2,7 @@
 
 Prisma will help Spanish citizens read reviewed summaries of official programmes for the general election on 29 November 2026, by electoral formation and policy area.
 
-The editorial foundation is implemented. The initial limited catalogue contains PP, PSOE, VOX, ERC and Frente Amplio, with eight policy areas and 40 pending summaries. No programme points have been incorporated; test fixtures are never published as political content. The Next.js portal, correction form, comparator, chat and Vercel integration remain future deliveries.
+The editorial foundation and statically prerendered Next.js portal are implemented. The initial limited catalogue contains PP, PSOE, VOX, ERC and Frente Amplio, with eight policy areas and 40 pending summaries. No programme points have been incorporated; test fixtures are never published as political content. The correction form, comparator, chat and Vercel integration remain future deliveries.
 
 ## Working in this repository
 
@@ -15,9 +15,12 @@ npm ci
 npm run check
 npm run test
 npm run test:coverage
+npm run build
 ```
 
-`check` runs type checking, lint, formatting, documentation checks and generated-content validation. It does not run tests or an application build. There is no app server or build command yet. Development tools are locked; the content generator uses only Node standard libraries at runtime.
+`check` runs tooling/application type checking, lint, formatting, documentation checks and generated-content validation. It does not run tests or an application build. `build` validates existing generated JSON, compiles Next and checks the prerendered portal HTML without starting a server. Development tools are locked; the content generator uses only Node standard libraries at runtime.
+
+`npm run dev` and `npm run start` are available for explicitly requested local runs; they are not incidental verification. Optional `SITE_URL` configures canonical URLs and the sitemap after a production domain is selected; see [.env.example](.env.example). See [portal implementation](docs/portal.md) for architecture, tests and the logical commit sequence.
 
 ## Editorial skills
 
@@ -31,7 +34,7 @@ npm run content:generate
 npm run content:check
 ```
 
-Editable content lives in `content/editorial`, snapshots and extractions in `content/sources`, and review records in `content/reviews`. Only the four JSON files in `content/generated` are intended for Next. Planned routes include `/parties/[party]/[topic]` and `/topics/[topic]`.
+Editable content lives in `content/editorial`, snapshots and extractions in `content/sources`, and review records in `content/reviews`. Only the four schema-v2 JSON files in `content/generated` are imported by Next. Routes include `/parties/[party]/[topic]` and `/topics/[topic]`. New approved editorial batches require regeneration and a new build; page loads never generate prose.
 
 ## Documentation
 
@@ -42,4 +45,4 @@ Editable content lives in `content/editorial`, snapshots and extractions in `con
 - [Roadmap](docs/roadmap.md): implemented foundation and future deliveries discussed with the maintainer.
 - [Editorial validation](docs/editorial-validation.md): generator tests and synthetic triage rehearsal.
 
-The local `Quality` workflow definition checks pushes to `master` and pull requests. Passing local checks or pushing a commit does not confirm a remote CI run, browser behaviour or deployment. Repository and deployment settings must be verified separately.
+The local `Quality` workflow definition checks pushes to `master` and pull requests, including application tests and a build. Passing local checks or pushing a commit does not confirm a remote CI run, browser behaviour or deployment. Repository and deployment settings must be verified separately.

@@ -16,15 +16,17 @@ Incorporate the first official 2026 programme using `document-program`. Verify o
 
 The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initial catalogue; see [catalogue provenance](catalogue-provenance.md). Revisit public coverage once official candidatures provide enough information. Distinguish formations and coalitions from constituency candidatures and shared programmes; do not silently equate the portal with all candidates.
 
-## Delivery 3 — Accessible Next portal: pending
+## Delivery 3 — Accessible Next portal: implemented; browser verification pending
 
-Build the smallest suitable Next.js application reading the approved JSON. Provide home, formation and topic indexes, formation pages, and shareable synthesis pages:
+The Next.js App Router portal reads schema-v2 approved JSON and prerenders home, formation and topic indexes, formation pages, and shareable synthesis pages:
 
 - `/`, `/parties`, `/parties/[party]`
 - `/parties/[party]/[topic]`, such as `/parties/psoe/housing`
 - `/topics`, `/topics/[topic]`, such as `/topics/housing`
 
-The home should expose both browsing paths immediately. Use Spanish citizen-facing language, semantic navigation, keyboard access, readable typography, sufficient contrast, mobile layouts and explicit review/source states. Topic pages initially organise links or summaries; a dedicated multi-formation comparator is a later delivery. Pages can be statically generated; there is no need for a running content-generation server.
+Home exposes both browsing paths immediately. Spanish labels, semantic navigation, skip links, focus styles, mobile layouts and explicit review/source states are implemented. Topic pages list formation links and availability. All 40 initial summaries show “Resumen todavía no disponible”; this does not establish programme publication status. The reader supports approved points, source citations, partial review and complete reviews with no identified proposals.
+
+CSS Modules apply page-wide official accents where verified, with a neutral fallback. Pending summaries are noindex and excluded from the sitemap; a public domain remains optional and unset. The separate build checks generated content, prerendered HTML and route fallback without a server. Interactive keyboard access, visual contrast and mobile rendering require browser verification. See [portal implementation](portal.md) for the logical implementation units and local checks. No deployment or remote CI success is claimed.
 
 ## Delivery 4 — Contextual correction form: pending
 

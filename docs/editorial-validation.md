@@ -27,4 +27,4 @@ An independent read-only rehearsal applied the triage skill and shared reference
 
 The rehearsal led to explicit repository-scoped duplicate searches with truncation handling and an explicit pending-consensus phase. Maintainer comments were not treated as automatic final approval. English technical wording retains these behaviours.
 
-The first real programme incorporation still needs original-capture and visual extraction validation. Application builds, browser checks, remote CI results and Vercel deployment must be verified when those capabilities exist; this record does not claim them.
+The first real programme incorporation still needs original-capture and visual extraction validation. The portal adds isolated content/presentation tests and an offline prerendered HTML check during build; see [portal verification](portal.md#verification-and-remaining-limits). Browser checks, remote CI results and Vercel deployment remain separate verification; this record does not claim them.

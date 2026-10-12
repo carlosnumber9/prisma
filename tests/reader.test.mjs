@@ -1,0 +1,120 @@
+import './rendering-loader.mjs';
+import assert from 'node:assert/strict';
+import test from 'node:test';
+import { createElement } from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import {
+  createContentRepository,
+  readPublicContent,
+} from '../src/lib/content.ts';
+const { SynthesisReader } = await import('../src/components/synthesis.tsx');
+
+function fixture(status, empty = false) {
+  const reviewed = status !== 'pending';
+  const envelope = (key, items) => ({
+    schemaVersion: 2,
+    electionDate: '2026-11-29',
+    [key]: items,
+  });
+  const source = {
+    id: 'fixture-source',
+    partyId: 'fixture-party',
+    electionDate: '2026-11-29',
+    title: 'Synthetic official document',
+    url: 'https://example.org/program.pdf',
+    format: 'pdf',
+    capturedAt: '2026-10-12T10:00:00Z',
+    sha256: '0'.repeat(64),
+    pageCount: 3,
+  };
+  const synthesis = {
+    id: 'fixture-party--housing',
+    partyId: 'fixture-party',
+    topicId: 'housing',
+    path: '/parties/fixture-party/housing',
+    reviewStatus: status,
+    revision: reviewed ? 2 : null,
+    reviewedAt: reviewed ? '2026-10-12T10:00:00Z' : null,
+    sourceIds: reviewed ? [source.id] : [],
+    points:
+      reviewed && !empty
+        ? [
+            {
+              id: 'stable-point',
+              title: 'Synthetic approved point',
+              text: 'Synthetic summary subject to a condition.',
+              citations: [
+                {
+                  sourceId: source.id,
+                  segmentId: 'page-3',
+                  page: 3,
+                  printedPage: 'i',
+                  quote: 'Synthetic source <text> with a condition.',
+                },
+              ],
+            },
+          ]
+        : [],
+  };
+  const repository = createContentRepository(
+    readPublicContent({
+      parties: envelope('parties', [
+        {
+          id: 'fixture-party',
+          name: 'Synthetic formation',
+          officialWebsite: null,
+        },
+      ]),
+      topics: envelope('topics', [
+        { id: 'housing', label: 'Vivienda', path: '/topics/housing' },
+      ]),
+      sources: envelope('sources', reviewed ? [source] : []),
+      syntheses: envelope('syntheses', [synthesis]),
+    }),
+  );
+  return { repository, synthesis };
+}
+
+test('pending markup states unavailability without a review, points or source section', () => {
+  const html = renderToStaticMarkup(
+    createElement(SynthesisReader, fixture('pending')),
+  );
+  assert.ok(html.includes('Resumen todavía no disponible'));
+  assert.ok(html.includes('no significa que el partido no tenga propuestas'));
+  assert.ok(!html.includes('Fuentes consultadas'));
+  assert.ok(!html.includes('Revisado el'));
+  assert.ok(!html.includes('<article'));
+});
+
+test('reviewed markup retains anchors, conditions, escaped quotes and physical source references', () => {
+  for (const status of ['partial', 'complete']) {
+    const html = renderToStaticMarkup(
+      createElement(SynthesisReader, fixture(status)),
+    );
+    assert.ok(html.includes('id="stable-point"'));
+    assert.ok(html.includes('href="#stable-point"'));
+    assert.ok(html.includes('Synthetic summary subject to a condition.'));
+    assert.ok(html.includes('Synthetic source &lt;text&gt; with a condition.'));
+    assert.ok(html.includes('href="https://example.org/program.pdf#page=3"'));
+    assert.ok(html.includes('Página 3 (numeración impresa: i)'));
+    assert.ok(html.includes('Revisión 2'));
+    assert.ok(html.includes('Fuentes consultadas'));
+    assert.equal(
+      html.includes('La revisión del resto del área sigue pendiente'),
+      status === 'partial',
+    );
+  }
+});
+
+test('a complete empty review renders its evidence rather than an unavailable message', () => {
+  const html = renderToStaticMarkup(
+    createElement(SynthesisReader, fixture('complete', true)),
+  );
+  assert.ok(
+    html.includes('Sin propuestas identificadas en el corpus revisado'),
+  );
+  assert.ok(html.includes('Synthetic official document'));
+  assert.ok(html.includes('Fuentes consultadas'));
+  assert.ok(!html.includes('Resumen todavía no disponible'));
+  assert.ok(!html.includes('<article'));
+});
