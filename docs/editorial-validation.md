@@ -12,7 +12,7 @@
 - Physical/printed PDF page references, HTML section/anchor references and whitespace-only quote differences.
 - Offline CLI use with a temporary root, invalid arguments, symlink rejection and harmless Finder metadata.
 
-The actual corpus is empty with eight areas; fixtures under `tests` are not projected. Human agreement and semantic fidelity cannot be established by the generator. Coverage measures the generator and is diagnostic, without a global threshold.
+The programme corpus remains empty. The initial catalogue contains five real formations, eight areas and 40 pending summaries; fixtures under `tests` are not projected. Tests also cover schema v2 and required nullable official websites, including invalid URL rejection. Human agreement and semantic fidelity cannot be established by the generator. Coverage measures the generator and is diagnostic, without a global threshold.
 
 ## Read-only triage rehearsal
 

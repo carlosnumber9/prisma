@@ -1,1 +1,15 @@
-[]
+[
+  { "id": "pp", "name": "PP", "officialWebsite": "https://www.pp.es/" },
+  { "id": "psoe", "name": "PSOE", "officialWebsite": "https://www.psoe.es/" },
+  {
+    "id": "vox",
+    "name": "VOX",
+    "officialWebsite": "https://www.voxespana.es/"
+  },
+  {
+    "id": "erc",
+    "name": "ERC",
+    "officialWebsite": "https://www.esquerra.cat/"
+  },
+  { "id": "frente-amplio", "name": "Frente Amplio", "officialWebsite": null }
+]

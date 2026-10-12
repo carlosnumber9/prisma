@@ -28,7 +28,7 @@ Examples below are templates: replace markers with verified values. They are not
 
 ## Catalogues and identifiers
 
-`parties.json` is an array of objects with exactly `id`, `name` and `officialWebsite`. IDs are stable slugs; the visible formation name retains its intended language. The website field is required and accepts either an HTTP(S) URL without credentials or `null` when no official website has been verified. Do not substitute a constituent party's website for a coalition's website.
+`parties.json` is an array of objects with exactly `id`, `name` and `officialWebsite`. IDs are stable slugs; the visible formation name retains its intended language. The website field is required and accepts either an HTTP(S) URL without credentials or `null` when no official website has been verified. Do not substitute a constituent party's website for a coalition's website. The initial limited catalogue and its evidence are documented in [catalogue provenance](catalogue-provenance.md).
 
 `topics.json` is an array with exactly `id` and `label` and is the sole definition of the eight initial areas. Catalogue IDs are unique lowercase ASCII letters/numbers separated by single hyphens, without leading or trailing hyphens. Unknown fields are rejected.
 

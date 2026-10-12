@@ -1,5 +1,31 @@
 {
   "schemaVersion": 2,
   "electionDate": "2026-11-29",
-  "parties": []
+  "parties": [
+    {
+      "id": "erc",
+      "name": "ERC",
+      "officialWebsite": "https://www.esquerra.cat/"
+    },
+    {
+      "id": "frente-amplio",
+      "name": "Frente Amplio",
+      "officialWebsite": null
+    },
+    {
+      "id": "pp",
+      "name": "PP",
+      "officialWebsite": "https://www.pp.es/"
+    },
+    {
+      "id": "psoe",
+      "name": "PSOE",
+      "officialWebsite": "https://www.psoe.es/"
+    },
+    {
+      "id": "vox",
+      "name": "VOX",
+      "officialWebsite": "https://www.voxespana.es/"
+    }
+  ]
 }
