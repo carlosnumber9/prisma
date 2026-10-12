@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+content/sources/
+content/generated/
+package-lock.json
+.next/
+out/
+.vercel/

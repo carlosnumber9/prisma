@@ -1,0 +1,13 @@
+[
+  { "id": "housing", "label": "Vivienda" },
+  { "id": "education", "label": "Educación" },
+  { "id": "healthcare", "label": "Sanidad" },
+  { "id": "economy-and-taxes", "label": "Economía e impuestos" },
+  { "id": "employment", "label": "Empleo" },
+  {
+    "id": "pensions-and-social-protection",
+    "label": "Pensiones y protección social"
+  },
+  { "id": "environment-and-energy", "label": "Medioambiente y energía" },
+  { "id": "institutions-and-rights", "label": "Instituciones y derechos" }
+]

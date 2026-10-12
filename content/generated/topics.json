@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "electionDate": "2026-11-29",
+  "topics": [
+    {
+      "id": "economy-and-taxes",
+      "label": "Economía e impuestos",
+      "path": "/topics/economy-and-taxes"
+    },
+    {
+      "id": "education",
+      "label": "Educación",
+      "path": "/topics/education"
+    },
+    {
+      "id": "employment",
+      "label": "Empleo",
+      "path": "/topics/employment"
+    },
+    {
+      "id": "environment-and-energy",
+      "label": "Medioambiente y energía",
+      "path": "/topics/environment-and-energy"
+    },
+    {
+      "id": "healthcare",
+      "label": "Sanidad",
+      "path": "/topics/healthcare"
+    },
+    {
+      "id": "housing",
+      "label": "Vivienda",
+      "path": "/topics/housing"
+    },
+    {
+      "id": "institutions-and-rights",
+      "label": "Instituciones y derechos",
+      "path": "/topics/institutions-and-rights"
+    },
+    {
+      "id": "pensions-and-social-protection",
+      "label": "Pensiones y protección social",
+      "path": "/topics/pensions-and-social-protection"
+    }
+  ]
+}

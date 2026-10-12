@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.vercel/
+coverage/
+*.log
+*.tsbuildinfo
+*.tmp
+.env
+.env.*
+!.env.example
+.DS_Store
+supabase/.temp/
+model-assets/
+sensitive-reports/

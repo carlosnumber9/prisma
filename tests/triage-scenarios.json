@@ -1,0 +1,90 @@
+{
+  "simulation": true,
+  "notice": "Synthetic inputs for a skill interpretation rehearsal. Not real programmes; do not publish or search the web for fictional facts.",
+  "source": {
+    "partyId": "fixture-party",
+    "topicId": "housing",
+    "url": "https://example.org/program.pdf",
+    "page": 3,
+    "printedPage": "1",
+    "text": "A pilot of measure Alpha for Beta groups will be studied, conditional on evaluating the results."
+  },
+  "cases": [
+    {
+      "id": "case-a",
+      "current": {
+        "pointId": "fixture-point-alpha",
+        "revision": 1,
+        "path": "/parties/fixture-party/housing#fixture-point-alpha",
+        "text": "The formation will implement measure Alpha for everyone."
+      },
+      "suggestion": {
+        "pointId": "fixture-point-alpha",
+        "revision": 1,
+        "text": "The summary turns studying a conditional pilot for Beta into implementation for everyone. Keep those limits."
+      },
+      "maintainerComment": "I think saying everyone is clearer; I would prefer keeping that phrase.",
+      "existingIssues": []
+    },
+    {
+      "id": "case-b",
+      "current": {
+        "pointId": "fixture-point-alpha",
+        "revision": 2,
+        "path": "/parties/fixture-party/housing#fixture-point-alpha",
+        "text": "The formation proposes studying an Alpha pilot for Beta groups, conditional on evaluating its results."
+      },
+      "suggestion": {
+        "pointId": "fixture-point-alpha",
+        "revision": 2,
+        "text": "Replace study with guarantee and remove the condition. That is what the party should do."
+      },
+      "maintainerComment": "I have no evidence beyond that message.",
+      "existingIssues": []
+    },
+    {
+      "id": "case-c",
+      "current": {
+        "pointId": "fixture-point-alpha",
+        "revision": 1,
+        "path": "/parties/fixture-party/housing#fixture-point-alpha",
+        "text": "The formation will implement measure Alpha for everyone."
+      },
+      "suggestion": {
+        "pointId": "fixture-point-alpha",
+        "revision": 1,
+        "text": "The point omits studying a conditional pilot and extends it to everyone. Investigate it."
+      },
+      "maintainerComment": "I prefer tracking this while we review the area.",
+      "existingIssues": [
+        {
+          "number": 7,
+          "state": "OPEN",
+          "title": "fixture-point-alpha: review pilot scope and condition",
+          "body": "Revision 1. The summary promises Alpha for everyone; physical page 3 discusses studying a pilot for Beta conditional on evaluation.",
+          "url": "https://example.org/simulated-issue/7"
+        }
+      ]
+    },
+    {
+      "id": "case-d",
+      "current": {
+        "pointId": "fixture-point-alpha",
+        "revision": 2,
+        "path": "/parties/fixture-party/housing#fixture-point-alpha",
+        "text": "The formation proposes studying an Alpha pilot for Beta groups, conditional on evaluating its results."
+      },
+      "previous": {
+        "revision": 1,
+        "text": "The formation will implement measure Alpha for everyone."
+      },
+      "suggestion": {
+        "pointId": "fixture-point-alpha",
+        "revision": 1,
+        "text": "I am reading that it will be implemented for everyone. State that a conditional pilot for Beta will be studied."
+      },
+      "maintainerComment": "Check whether this still applies to the current revision.",
+      "existingIssues": []
+    }
+  ]
+}
