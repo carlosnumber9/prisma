@@ -148,6 +148,51 @@ function outputSnapshot(root) {
     .map((name) => [name, readFileSync(join(directory, name), 'utf8')]);
 }
 
+test('publishes schema v2 in all envelopes and preserves a null official website', (t) => {
+  const { root } = fixture(t);
+  const path = join(root, 'content/editorial/parties.json');
+  const parties = readJson(path);
+  parties[0].officialWebsite = null;
+  writeJson(path, parties);
+  const output = buildContent(root);
+  for (const bytes of output.values())
+    assert.equal(JSON.parse(bytes).schemaVersion, 2);
+  assert.equal(publicData(root, 'parties')[0].officialWebsite, null);
+});
+
+test('publishes v2 for an empty formation catalogue', (t) => {
+  const f = fixture(t);
+  writeJson(join(f.root, 'content/editorial/parties.json'), []);
+  rmSync(join(f.root, 'content/editorial/syntheses/fixture-party'), {
+    recursive: true,
+  });
+  rmSync(f.sourceDirectory, { recursive: true });
+  for (const bytes of buildContent(f.root).values())
+    assert.equal(JSON.parse(bytes).schemaVersion, 2);
+  assert.deepEqual(publicData(f.root, 'parties'), []);
+  assert.deepEqual(publicData(f.root, 'syntheses'), []);
+});
+
+for (const value of [
+  undefined,
+  '',
+  false,
+  1,
+  {},
+  'invalid',
+  'ftp://example.org',
+  'https://user:secret@example.org',
+]) {
+  test(`rejects an invalid official website: ${JSON.stringify(value)}`, (t) => {
+    const { root } = fixture(t);
+    const path = join(root, 'content/editorial/parties.json');
+    const parties = readJson(path);
+    parties[0].officialWebsite = value;
+    writeJson(path, parties);
+    assert.throws(() => buildContent(root), /officialWebsite|HTTP\(S\)|URL/);
+  });
+}
+
 test('publishes only approved points with physical references and excludes draft and review material', (t) => {
   const { root } = fixture(t);
   const output = buildContent(root);

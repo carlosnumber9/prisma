@@ -137,7 +137,7 @@ function catalogue(path, kind) {
     );
     slug(value.id, `${path}.id`);
     string(kind === 'party' ? value.name : value.label, `${path}.${value.id}`);
-    if (kind === 'party')
+    if (kind === 'party' && value.officialWebsite !== null)
       webUrl(value.officialWebsite, `${path}.${value.id}.officialWebsite`);
     requireCondition(
       !byId.has(value.id),
@@ -568,7 +568,7 @@ export function buildContent(root) {
   );
   const envelope = (key, values) =>
     JSON.stringify(
-      { schemaVersion: 1, electionDate: ELECTION_DATE, [key]: values },
+      { schemaVersion: 2, electionDate: ELECTION_DATE, [key]: values },
       null,
       2,
     ) + '\n';

@@ -28,7 +28,7 @@ Examples below are templates: replace markers with verified values. They are not
 
 ## Catalogues and identifiers
 
-`parties.json` is an array of objects with exactly `id`, `name` and `officialWebsite`. It starts empty. IDs are stable slugs; the visible formation name retains its intended language. Website URLs must be HTTP(S) without credentials.
+`parties.json` is an array of objects with exactly `id`, `name` and `officialWebsite`. IDs are stable slugs; the visible formation name retains its intended language. The website field is required and accepts either an HTTP(S) URL without credentials or `null` when no official website has been verified. Do not substitute a constituent party's website for a coalition's website.
 
 `topics.json` is an array with exactly `id` and `label` and is the sole definition of the eight initial areas. Catalogue IDs are unique lowercase ASCII letters/numbers separated by single hyphens, without leading or trailing hyphens. Unknown fields are rejected.
 
@@ -133,7 +133,7 @@ Missing formation/area files generate empty pending entries, not placeholder pro
 
 ## Public projection
 
-Every generated file contains `schemaVersion: 1`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`.
+Every generated file contains `schemaVersion: 2`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`. Version 2 replaces version 1 in all four files together; the portal accepts only version 2. This breaking change admits a null official website while retaining the required field. There was no deployed v1 consumer to migrate.
 
 - Catalogues are sorted by ID; topics include their public path.
 - Syntheses contain `id`, `partyId`, `topicId`, `path`, `revision`, `reviewStatus`, `reviewedAt`, `sourceIds` and approved `points` in editorial order.
