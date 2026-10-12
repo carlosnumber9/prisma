@@ -10,6 +10,12 @@ Keep the generator deterministic and offline. Do not regenerate prose, consult a
 
 Use checked JavaScript for existing Node tooling and strict TypeScript for new application code when Next is introduced. Validate untrusted inputs at their boundary; static checks do not replace content validation or human editorial agreement. Add dependencies only for a concrete capability. Lock development tools exactly in `package-lock.json`; the generator itself has no runtime dependencies.
 
+## Atomic implementation plans
+
+Before implementing a delivery, present a numbered list of intended commits in logical dependency order. For each commit, state its proposed message, purpose, scope and verification. Use the message convention and publication authorisation in [Git workflow](git-workflow.md); planning commits does not authorise creating or pushing them.
+
+Each commit must be coherent and independently verifiable, without relying on a later commit to repair a failure. Include the tests, documentation and generated files belonging to its change in the same commit. Separate independent changes and keep unrelated refactoring out of the delivery. If the scope changes, update the sequence and explain why before continuing.
+
 ## Toolchain and checks
 
 Use Node.js 24.x (`.nvmrc`) and npm 10.8.2 (`packageManager`). Use `npm ci` for locked installation when dependencies are needed. Do not change a developer's global npm settings or registry as an incidental fix; an explicit per-command public registry override can be used for public dependencies.

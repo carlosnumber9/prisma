@@ -10,6 +10,8 @@ Ordinary commit, push, publish or upload requests mean: stage intended files, co
 
 ## Tools and transport
 
+Plan implementation as ordered atomic commits according to [engineering conventions](engineering-conventions.md). That sequence defines reviewable units; this document remains authoritative for permission to commit and publish.
+
 Use only the local `git` CLI for ordinary Git operations and the configured SSH remote for fetch, pull and push. SSH access is the source of truth; GitHub CLI authentication is not a prerequisite.
 
 Do not inspect or use `gh`, `github:yeet`, GitHub plugins, connectors, apps or generic publishing skills unless the user explicitly requests a GitHub or PR workflow. A skill preparing an agreed triage tracking issue is such a workflow for that issue only; it does not authorise a PR or replace local Git publication.
