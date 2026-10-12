@@ -44,6 +44,8 @@ Enable Vercel Deployment Checks requiring Quality before production promotion wh
 
 Add comparison of multiple formations within `/topics/[topic]`, based on the same reviewed summaries and source references. Define selection/sharing behaviour and handle uneven or partial programme availability before implementation. Avoid presenting a missing programme as a party having no proposals.
 
+Extend the existing page-wide theme variables to dynamic comparison navigation. Define which theme applies when comparing several formations and when moving from a formation's synthesis to the comparator. Use `ease-in-out` colour transitions, maintain legible text/focus throughout and disable nonessential transitions for `prefers-reduced-motion`. These transitions and comparator selection are future work, not part of the first portal.
+
 ## Delivery 7 — Grounded programme chat: exploratory
 
 Evaluate a Hugging Face model or another suitable option for Spanish questions about the programme corpus. Compare factual/source fidelity, citation quality, latency, resource requirements and cost using real documents. No model, hosting arrangement or budget has been selected.
