@@ -18,6 +18,8 @@ The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initia
 
 ## Delivery 3 — Accessible Next portal: implemented; browser verification pending
 
+All six localized homepages use the exact browser tab title `prisma`; interior page titles retain their existing localized format.
+
 The shared footer now shows Carlos Pinedo Sánchez's 2026 copyright and a locally bundled official GitHub icon linking to the project repository. The icon link has an accessible label in all six locales. The limited-catalogue notice has been removed from the interface in all six languages. The GitHub icon scales subtly on hover over 0.16 seconds, matching home links, with no container background and no animation under reduced motion. Browser verification of this footer change remains pending.
 
 The portal now trials Mako across all routes, including form controls, using a bundled local font and license with no Google Fonts requests during builds or visits. Existing sizes remain; bold and italic emphasis use browser synthesis because Mako provides only regular weight 400. Browser typography verification remains pending.

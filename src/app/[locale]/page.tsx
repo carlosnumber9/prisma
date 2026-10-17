@@ -12,7 +12,10 @@ type Props = { params: Promise<{ locale: Locale }> };
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
   const m = dictionaries[locale];
-  return pageSeo(m.programmes, m.homeMeta, '/', origin, true, locale);
+  return {
+    ...pageSeo(m.programmes, m.homeMeta, '/', origin, true, locale),
+    title: { absolute: 'prisma' },
+  };
 }
 
 export default async function HomePage({ params }: Props) {

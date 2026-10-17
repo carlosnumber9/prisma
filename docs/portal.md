@@ -36,6 +36,8 @@ When `SITE_URL` is configured, each localized page has a self canonical, six `hr
 
 ## Presentation and SEO
 
+Every localized homepage uses the exact browser tab title `prisma`, overriding the layout's title template. Interior pages retain their localized titles and ` · Prisma` suffix.
+
 The shared footer displays `© 2026 Carlos Pinedo Sánchez` on the left and a GitHub icon linking to `https://github.com/carlosnumber9/prisma` on the right. The black Invertocat SVG is bundled locally from the [official GitHub logo download](https://brand.github.com/foundations/logo), without an icon dependency or third-party image requests. The link has a localized accessible name and tooltip, a 44-pixel target at the default font size and the shared keyboard focus outline. On hover-capable devices, the icon scales to 1.08 over 0.16 seconds with `ease-in-out`, matching the home links' hover duration, without a container background. Reduced-motion preferences disable this animation. The limited-catalogue notice has been removed from all six interface dictionaries and both catalogue locations. Browser layout verification remains pending.
 
 The light interface uses Mako throughout, semantic navigation, breadcrumbs, a skip link, visible focus, readable contrast and explicit mobile layouts. Party sections apply page-wide CSS variables; colour configuration remains outside the editorial contract. PP and PSOE use evidenced accents, while other or new formations remain neutral. See [colour evidence](catalogue-provenance.md#interface-colour-evidence).
