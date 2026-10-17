@@ -6,6 +6,8 @@ The first portal uses Next 16.4.0, React 19.3.0 and App Router, with statically 
 
 Node 24.x and npm 10.8.2 remain required. TypeScript 7.0.2 supplies `tsc`; the `typescript` npm alias points to the official TypeScript 6 API compatibility package needed by ESLint. [Microsoft documents this coexistence](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/). Application code has a strict configuration separate from checked JavaScript tooling. Dependencies are pinned and installed without forced peer resolution.
 
+WGSL tooling is pinned to `vgpu` 0.6.0 and matching `@vgpu/wgsl`. The official Turbopack rule prepares and minifies shader imports at build time, and `src/wgsl-env.d.ts` declares their TypeScript module shape. Build-time reflection does not replace device-backed validation: use `npx vgpu check <shader.wgsl> --require-validation` on a compatible development machine.
+
 The content adapter explicitly imports only the four files under `content/generated`. The reader accepts schema v2, checks envelope consistency and resolves stable IDs. The generator remains the authority for full input validation. Build runs `content:check` first and fails on invalid or stale content without regenerating it. Incorporating approved content later requires an editorial generation and a new build.
 
 ## Routes and editorial states
