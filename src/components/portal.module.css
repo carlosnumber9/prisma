@@ -1,4 +1,5 @@
 .shell {
+  overflow-x: clip;
   min-height: 100dvh;
   display: flex;
   flex-direction: column;
@@ -98,25 +99,9 @@
   margin: 0;
   max-width: 80ch;
 }
-.browse {
-  display: grid;
-  grid-template-columns: 0.8fr 1.2fr;
-  gap: 4rem;
-}
-.browse h2,
 .main > h2 {
   font-size: 1.6rem;
   letter-spacing: -0.025em;
-}
-.browse h2 a {
-  text-decoration: none;
-}
-.browse h2 a:hover {
-  text-decoration: underline;
-}
-.sectionDescription {
-  color: #48555f;
-  margin-bottom: 1.5rem;
 }
 .directory,
 .topicGrid {
@@ -290,10 +275,6 @@
   transform: translateY(0);
 }
 @media (max-width: 768px) {
-  .browse {
-    grid-template-columns: 1fr;
-    gap: 2.5rem;
-  }
   .header,
   .main,
   .footer {

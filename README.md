@@ -4,6 +4,8 @@ Prisma will help Spanish citizens read reviewed summaries of official programmes
 
 The editorial foundation and statically prerendered Next.js portal are implemented. The initial limited catalogue contains PP, PSOE, VOX, ERC and Frente Amplio, with eight policy areas and 40 pending summaries. No programme points have been incorporated; test fixtures are never published as political content. The correction form, comparator, chat and Vercel integration remain future deliveries.
 
+Home navigation uses compact trapezoid links attached to the left viewport edge. Areas are followed by one “Lista de partidos” button. GSAP reveals links in order on scroll and moves text and background together on hover, with reduced-motion support. Browser verification remains pending. See [portal implementation](docs/portal.md).
+
 ## Working in this repository
 
 Read [AGENTS.md](AGENTS.md) for agent instructions, [the glossary](CONTEXT.md) for domain terms, and the relevant documents below. The primary working and publication branch is `master`.
