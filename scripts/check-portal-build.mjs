@@ -53,7 +53,10 @@ for (const path of paths) {
     !html.includes('http://localhost'),
     `${path}: no development canonical URLs`,
   );
-  for (const [, href] of html.matchAll(/href="(\/[^"#]*)(?:#[^"]*)?"/g)) {
+  // Resource preloads are not navigation routes (for example the hero poster).
+  for (const [, href] of html.matchAll(
+    /<a\b[^>]*\bhref="(\/[^"#]*)(?:#[^"]*)?"/g,
+  )) {
     if (!href.startsWith('/_next/'))
       assert.ok(validPaths.has(href), `${path}: broken internal link ${href}`);
   }
