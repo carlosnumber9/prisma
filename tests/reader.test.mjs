@@ -1,3 +1,4 @@
+import { localizedFixture } from './localized-fixture.mjs';
 import './rendering-loader.mjs';
 import assert from 'node:assert/strict';
 import test from 'node:test';
@@ -12,7 +13,7 @@ const { SynthesisReader } = await import('../src/components/synthesis.tsx');
 function fixture(status, empty = false) {
   const reviewed = status !== 'pending';
   const envelope = (key, items) => ({
-    schemaVersion: 2,
+    schemaVersion: 3,
     electionDate: '2026-11-29',
     [key]: items,
   });
@@ -41,8 +42,10 @@ function fixture(status, empty = false) {
         ? [
             {
               id: 'stable-point',
-              title: 'Synthetic approved point',
-              text: 'Synthetic summary subject to a condition.',
+              title: localizedFixture('Synthetic approved point'),
+              text: localizedFixture(
+                'Synthetic summary subject to a condition.',
+              ),
               citations: [
                 {
                   sourceId: source.id,
@@ -66,7 +69,11 @@ function fixture(status, empty = false) {
         },
       ]),
       topics: envelope('topics', [
-        { id: 'housing', label: 'Vivienda', path: '/topics/housing' },
+        {
+          id: 'housing',
+          label: localizedFixture('Vivienda'),
+          path: '/topics/housing',
+        },
       ]),
       sources: envelope('sources', reviewed ? [source] : []),
       syntheses: envelope('syntheses', [synthesis]),
@@ -117,4 +124,22 @@ test('a complete empty review renders its evidence rather than an unavailable me
   assert.ok(html.includes('Fuentes consultadas'));
   assert.ok(!html.includes('Resumen todavía no disponible'));
   assert.ok(!html.includes('<article'));
+});
+
+test('each language selects its own approved fields and retains original evidence', async () => {
+  const { locales } = await import('../src/lib/locales.mjs');
+  const { dictionaries } = await import('../src/lib/i18n.ts');
+  const { synthesis, repository } = fixture('partial');
+  for (const locale of locales) {
+    const html = renderToStaticMarkup(
+      createElement(SynthesisReader, { synthesis, repository, locale }),
+    );
+    assert.ok(html.includes(synthesis.points[0].text[locale]));
+    assert.ok(html.includes(dictionaries[locale].sources));
+    assert.ok(html.includes(dictionaries[locale].permalink));
+    assert.ok(html.includes('<blockquote lang="">'));
+    assert.ok(html.includes('Synthetic source &lt;text&gt; with a condition.'));
+    assert.ok(html.includes('id="stable-point"'));
+    if (locale !== 'es') assert.ok(!html.includes('aria-label="Enlace a'));
+  }
 });

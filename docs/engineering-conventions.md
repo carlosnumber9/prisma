@@ -4,7 +4,7 @@
 
 Inspect the existing implementation and Git status before editing. Make small changes within the request, preserve unrelated work and avoid speculative infrastructure or unrelated refactors. Use the [domain glossary](../CONTEXT.md), [content contract](content-contract.md) and accepted [decisions](decisions.md) consistently.
 
-Use English for code, comments, test descriptions and technical documentation. Preserve Spanish citizen-facing labels and source text in its original language. Explain intent when a comment prevents a likely misunderstanding; do not narrate obvious code. Follow the user's current conversation style rather than applying compressed prose to persisted files.
+Use English for code, comments, test descriptions and technical documentation. Write citizen-facing labels in the selected supported language and preserve source text in its original language. Explain intent when a comment prevents a likely misunderstanding; do not narrate obvious code. Follow the user's current conversation style rather than applying compressed prose to persisted files.
 
 Keep the generator deterministic and offline. Do not regenerate prose, consult a model or rewrite approved editorial inputs during a build. Public output uses explicit field allowlists. Original snapshots remain immutable by source version; review evidence and personal data must not leak into public JSON. Never copy the entire content tree into a public web directory.
 

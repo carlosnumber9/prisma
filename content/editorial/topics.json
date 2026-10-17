@@ -1,13 +1,90 @@
 [
-  { "id": "housing", "label": "Vivienda" },
-  { "id": "education", "label": "Educación" },
-  { "id": "healthcare", "label": "Sanidad" },
-  { "id": "economy-and-taxes", "label": "Economía e impuestos" },
-  { "id": "employment", "label": "Empleo" },
+  {
+    "id": "housing",
+    "label": {
+      "es": "Vivienda",
+      "ca": "Habitatge",
+      "gl": "Vivenda",
+      "eu": "Etxebizitza",
+      "oc": "Abitatge",
+      "en": "Housing"
+    }
+  },
+  {
+    "id": "education",
+    "label": {
+      "es": "Educación",
+      "ca": "Educació",
+      "gl": "Educación",
+      "eu": "Hezkuntza",
+      "oc": "Educacion",
+      "en": "Education"
+    }
+  },
+  {
+    "id": "healthcare",
+    "label": {
+      "es": "Sanidad",
+      "ca": "Sanitat",
+      "gl": "Sanidade",
+      "eu": "Osasuna",
+      "oc": "Sanitat",
+      "en": "Healthcare"
+    }
+  },
+  {
+    "id": "economy-and-taxes",
+    "label": {
+      "es": "Economía e impuestos",
+      "ca": "Economia i impostos",
+      "gl": "Economía e impostos",
+      "eu": "Ekonomia eta zergak",
+      "oc": "Economia e impòsti",
+      "en": "Economy and taxes"
+    }
+  },
+  {
+    "id": "employment",
+    "label": {
+      "es": "Empleo",
+      "ca": "Ocupació",
+      "gl": "Emprego",
+      "eu": "Enplegua",
+      "oc": "Emplec",
+      "en": "Employment"
+    }
+  },
   {
     "id": "pensions-and-social-protection",
-    "label": "Pensiones y protección social"
+    "label": {
+      "es": "Pensiones y protección social",
+      "ca": "Pensions i protecció social",
+      "gl": "Pensións e protección social",
+      "eu": "Pentsioak eta gizarte babesa",
+      "oc": "Pensions e proteccion sociau",
+      "en": "Pensions and social protection"
+    }
   },
-  { "id": "environment-and-energy", "label": "Medioambiente y energía" },
-  { "id": "institutions-and-rights", "label": "Instituciones y derechos" }
+  {
+    "id": "environment-and-energy",
+    "label": {
+      "es": "Medioambiente y energía",
+      "ca": "Medi ambient i energia",
+      "gl": "Medio ambiente e enerxía",
+      "eu": "Ingurumena eta energia",
+      "oc": "Miei ambient e energia",
+      "en": "Environment and energy"
+    }
+  },
+  {
+    "id": "institutions-and-rights",
+    "label": {
+      "es": "Instituciones y derechos",
+      "ca": "Institucions i drets",
+      "gl": "Institucións e dereitos",
+      "eu": "Erakundeak eta eskubideak",
+      "oc": "Institucions e drets",
+      "en": "Institutions and rights"
+    }
+  }
 ]

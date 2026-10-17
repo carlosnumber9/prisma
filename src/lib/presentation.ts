@@ -1,15 +1,16 @@
+import { dictionaries, text, type Locale } from './i18n.ts';
 import type { Citation, ReviewStatus, Source, Synthesis } from './content.ts';
 
-export const UNAVAILABLE_LABEL = 'Resumen todavía no disponible';
+export const UNAVAILABLE_LABEL = dictionaries.es.pending;
 
-export function reviewLabel(status: ReviewStatus) {
+export function reviewLabel(status: ReviewStatus, locale: Locale = 'es') {
   switch (status) {
     case 'pending':
-      return UNAVAILABLE_LABEL;
+      return dictionaries[locale].pending;
     case 'partial':
-      return 'Revisión parcial';
+      return dictionaries[locale].partial;
     case 'complete':
-      return 'Revisión completa';
+      return dictionaries[locale].complete;
   }
 }
 
@@ -20,19 +21,22 @@ export function synthesisState(synthesis: Synthesis) {
   return synthesis.reviewStatus;
 }
 
-export function formatDate(value: string) {
-  return new Intl.DateTimeFormat('es-ES', {
-    day: 'numeric',
-    month: 'long',
-    year: 'numeric',
-    timeZone: 'UTC',
-  }).format(new Date(value));
+export function formatDate(value: string, locale: Locale = 'es') {
+  const date = new Date(value);
+  const m = dictionaries[locale];
+  // Explicit month names also cover Aranese on runtimes without Occitan ICU data.
+  return text(m.date, {
+    day: date.getUTCDate(),
+    month: m.months.split('|')[date.getUTCMonth()]!,
+    year: date.getUTCFullYear(),
+  });
 }
 
-export function citationLocation(citation: Citation) {
+export function citationLocation(citation: Citation, locale: Locale = 'es') {
+  const m = dictionaries[locale];
   if (citation.page !== undefined)
-    return `Página ${citation.page}${citation.printedPage ? ` (numeración impresa: ${citation.printedPage})` : ''}`;
-  return `Sección: ${citation.section}`;
+    return `${m.page} ${citation.page}${citation.printedPage ? ` (${m.printedPage} ${citation.printedPage})` : ''}`;
+  return `${m.section} ${citation.section}`;
 }
 
 export function citationUrl(source: Source, citation: Citation) {

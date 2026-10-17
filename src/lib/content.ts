@@ -1,10 +1,14 @@
+import type { Locale } from './locales.mjs';
+export type { Locale } from './locales.mjs';
+export type LocalizedText = Record<Locale, string>;
+
 export type Party = {
   id: string;
   name: string;
   officialWebsite: string | null;
 };
 
-export type Topic = { id: string; label: string; path: string };
+export type Topic = { id: string; label: LocalizedText; path: string };
 export type ReviewStatus = 'pending' | 'partial' | 'complete';
 export type Citation = {
   sourceId: string;
@@ -16,8 +20,8 @@ export type Citation = {
 );
 export type Point = {
   id: string;
-  title: string;
-  text: string;
+  title: LocalizedText;
+  text: LocalizedText;
   citations: Citation[];
 };
 export type Synthesis = {
@@ -43,7 +47,7 @@ export type Source = {
   pageCount?: number;
 };
 export type Envelope<K extends string, T> = {
-  schemaVersion: 2;
+  schemaVersion: 3;
   electionDate: string;
 } & Record<K, T[]>;
 export type PublicContent = {
@@ -65,7 +69,7 @@ export function readPublicContent(input: unknown): PublicContent {
     if (!envelope || typeof envelope !== 'object')
       throw new Error(`Missing public envelope: ${key}`);
     const value = envelope as Record<string, unknown>;
-    if (value.schemaVersion !== 2)
+    if (value.schemaVersion !== 3)
       throw new Error(`Unsupported public schema: ${key}`);
     if (typeof value.electionDate !== 'string' || !Array.isArray(value[key]))
       throw new Error(`Invalid public envelope: ${key}`);

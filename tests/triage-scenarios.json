@@ -85,6 +85,37 @@
       },
       "maintainerComment": "Check whether this still applies to the current revision.",
       "existingIssues": []
+    },
+    {
+      "id": "case-e",
+      "source": {
+        "partyId": "fixture-party",
+        "topicId": "housing",
+        "url": "https://example.org/program.pdf",
+        "page": 3,
+        "text": "Synthetic pilot subject to funding."
+      },
+      "current": {
+        "pointId": "fixture-point-alpha",
+        "revision": 4,
+        "path": "/en/parties/fixture-party/housing#fixture-point-alpha",
+        "text": {
+          "es": "Proyecto piloto condicionado a financiación.",
+          "ca": "Projecte pilot condicionat al finançament.",
+          "gl": "Proxecto piloto condicionado ao financiamento.",
+          "eu": "Finantzaketaren baldintzapeko proiektu pilotua.",
+          "oc": "Projècte pilòt condicionat ath finançament.",
+          "en": "Unconditional pilot project."
+        }
+      },
+      "suggestion": {
+        "pointId": "fixture-point-alpha",
+        "revision": 4,
+        "locale": "en",
+        "text": "The English version says the pilot is unconditional, but the original quote makes it subject to funding. Please correct it."
+      },
+      "maintainerComment": "Prepare the proposed multilingual batch for review.",
+      "existingIssues": []
     }
   ]
 }

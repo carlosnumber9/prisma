@@ -11,6 +11,7 @@ import {
 } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { locales } from '../src/lib/locales.mjs';
 
 export const ELECTION_DATE = '2026-11-29';
 const PUBLIC_FILES = [
@@ -124,6 +125,17 @@ function readJson(path) {
   }
 }
 
+function localizedText(value, context, approved = true) {
+  fields(
+    value,
+    approved ? [...locales] : ['es'],
+    approved ? [] : [...locales],
+    context,
+  );
+  for (const [locale, text] of Object.entries(value))
+    string(text, `${context}.${locale}`);
+}
+
 function catalogue(path, kind) {
   const values = readJson(path);
   array(values, path);
@@ -136,7 +148,8 @@ function catalogue(path, kind) {
       path,
     );
     slug(value.id, `${path}.id`);
-    string(kind === 'party' ? value.name : value.label, `${path}.${value.id}`);
+    if (kind === 'party') string(value.name, `${path}.${value.id}`);
+    else localizedText(value.label, `${path}.${value.id}`);
     if (kind === 'party' && value.officialWebsite !== null)
       webUrl(value.officialWebsite, `${path}.${value.id}.officialWebsite`);
     requireCondition(
@@ -438,8 +451,16 @@ function loadSyntheses(root, parties, topics, sources) {
           `point: duplicate identifier ${point.id}`,
         );
         pointIds.add(point.id);
-        string(point.title, `point ${point.id}.title`);
-        string(point.text, `point ${point.id}.text`);
+        localizedText(
+          point.title,
+          `point ${point.id}.title`,
+          point.status === 'approved',
+        );
+        localizedText(
+          point.text,
+          `point ${point.id}.text`,
+          point.status === 'approved',
+        );
         requireCondition(
           ['draft', 'approved'].includes(point.status),
           `point ${point.id}: invalid status`,
@@ -568,7 +589,7 @@ export function buildContent(root) {
   );
   const envelope = (key, values) =>
     JSON.stringify(
-      { schemaVersion: 2, electionDate: ELECTION_DATE, [key]: values },
+      { schemaVersion: 3, electionDate: ELECTION_DATE, [key]: values },
       null,
       2,
     ) + '\n';

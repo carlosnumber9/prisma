@@ -20,15 +20,16 @@ Work from the repository root. Read the shared [editorial policy](../../../docs/
 - Use available extraction tools. Preserve every physical PDF page, including blank pages, and distinguish printed numbering. Preserve HTML sections and existing anchors while excluding navigation and unrelated material.
 - Check columns, tables, figures, negations and conditions against the original. Use available OCR for scanned sources and verify it. If reliable extraction is unavailable, record the limitation rather than inventing text.
 - Write extraction and metadata according to the contract. For other formats retain verifiable sections and record method/limits in review. The generator does not parse or summarise originals.
-- Draft concise points with individual references for each formation/area. Preserve existing IDs and editorial order. Agree on changes to the shared topic classification before applying them.
+- Draft concise Castilian reference points with individual references for each formation/area. Preserve existing IDs and editorial order. Agree on changes to the shared topic classification before applying them.
+- Prepare Catalan/Valencian, Galician, Basque, Aranese and English versions of each point. Compare figures, beneficiaries, conditions, deadlines, negations and commitment against the Castilian reference and original evidence. Keep quotations and official names/titles original; follow the shared multilingual approval policy.
 - Record the batch in `content/reviews`. Every point needs a localisable supporting quote checked against the original. New unagreed points remain `draft`.
 
 ## Debate and publish
 
-- Present proposed text, original evidence, ambiguity and fidelity questions by area. Consult relevant current external sources and express supported disagreement as required by the shared policy.
+- Present all six proposed language versions, original evidence, linguistic uncertainty, ambiguity and fidelity questions by area. Consult relevant current external sources and express supported disagreement as required by the shared policy.
 - While correcting published content, retain its approved version during debate and store alternatives in review. Do not withdraw existing points when generating another batch.
 - Apply agreed wording to prepare the final batch; update revision, citations and explicit area state. Partial publication excludes pending points.
-- Generate JSON, run the Git workflow's checks and show the final diff, evidence and verification before final publication agreement. Approved editorial text remains in the portal language; instructions and technical review records are English.
+- Generate JSON, run the Git workflow's checks and show the final diff, evidence and verification before final publication agreement. Require agreement on the complete six-language batch before marking points approved. Missing translations remain drafts and block publication of that point; instructions and technical review records are English.
 - If the same final batch and its publication are already approved, continue without routine reconfirmation. Otherwise leave reviewable changes prepared and explain outstanding disagreements.
 - Re-read publication rules before every commit/push, use local Git over SSH on `master`, and report the commit, push and any actually verified deployment. A successful push does not prove deployment.
 

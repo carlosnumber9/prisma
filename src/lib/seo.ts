@@ -1,3 +1,4 @@
+import { locales, localizedPath, type Locale } from './i18n.ts';
 import type { ContentRepository, Synthesis } from './content.ts';
 
 export function siteOrigin(value?: string) {
@@ -28,13 +29,25 @@ export function pageSeo(
   path: string,
   origin?: string,
   index = true,
+  locale: Locale = 'es',
 ) {
   return {
     title,
     description,
     robots: { index, follow: true },
     ...(origin
-      ? { alternates: { canonical: new URL(path, origin).href } }
+      ? {
+          alternates: {
+            canonical: new URL(localizedPath(path, locale), origin).href,
+            languages: Object.fromEntries([
+              ...locales.map((language) => [
+                language,
+                new URL(localizedPath(path, language), origin).href,
+              ]),
+              ['x-default', new URL(path, origin).href],
+            ]),
+          },
+        }
       : {}),
   };
 }
@@ -48,11 +61,13 @@ export function sitemapEntries(repository: ContentRepository, origin?: string) {
     ...repository.parties.map((party) => `/parties/${party.id}`),
     ...repository.topics.map((topic) => topic.path),
   ];
-  return [
-    ...paths.map((path) => ({ url: new URL(path, origin).href })),
+  return locales.flatMap((locale) => [
+    ...paths.map((path) => ({
+      url: new URL(localizedPath(path, locale), origin).href,
+    })),
     ...repository.syntheses.filter(isIndexable).map((synthesis) => ({
-      url: new URL(synthesis.path, origin).href,
+      url: new URL(localizedPath(synthesis.path, locale), origin).href,
       ...(synthesis.reviewedAt ? { lastModified: synthesis.reviewedAt } : {}),
     })),
-  ];
+  ]);
 }

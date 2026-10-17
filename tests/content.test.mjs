@@ -1,3 +1,4 @@
+import { localizedFixture } from './localized-fixture.mjs';
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import {
@@ -7,7 +8,7 @@ import {
 
 export function publicFixture() {
   const envelope = (key, values) => ({
-    schemaVersion: 2,
+    schemaVersion: 3,
     electionDate: '2026-11-29',
     [key]: values,
   });
@@ -34,8 +35,8 @@ export function publicFixture() {
     points: [
       {
         id: 'stable-point',
-        title: 'Synthetic point',
-        text: 'Synthetic approved text',
+        title: localizedFixture('Synthetic point'),
+        text: localizedFixture('Synthetic approved text'),
         citations: [
           {
             sourceId: source.id,
@@ -56,7 +57,11 @@ export function publicFixture() {
       },
     ]),
     topics: envelope('topics', [
-      { id: 'housing', label: 'Vivienda', path: '/topics/housing' },
+      {
+        id: 'housing',
+        label: localizedFixture('Vivienda'),
+        path: '/topics/housing',
+      },
     ]),
     sources: envelope('sources', [source]),
     syntheses: envelope('syntheses', [synthesis]),
@@ -70,7 +75,7 @@ test('queries preserve approved text, stable point IDs, source versions and a nu
   const synthesis = repository.getSynthesis('fixture-party', 'housing');
   assert.strictEqual(synthesis, input.syntheses.syntheses[0]);
   assert.equal(synthesis.points[0].id, 'stable-point');
-  assert.equal(synthesis.points[0].text, 'Synthetic approved text');
+  assert.equal(synthesis.points[0].text.es, 'Synthetic approved text');
   assert.equal(repository.getSources(synthesis)[0].sha256, '0'.repeat(64));
   assert.strictEqual(
     repository.getSource('synthetic-source'),
@@ -101,9 +106,11 @@ test('an empty catalogue retains its topic index without manufacturing formation
   assert.equal(repository.topics.length, 1);
 });
 
-test('rejects v1, missing envelopes and mixed election dates', () => {
+test('rejects obsolete schemas, missing envelopes and mixed election dates', () => {
   for (const key of ['parties', 'topics', 'sources', 'syntheses']) {
     const input = publicFixture();
+    input[key].schemaVersion = 2;
+    assert.throws(() => readPublicContent(input), /Unsupported public schema/);
     input[key].schemaVersion = 1;
     assert.throws(() => readPublicContent(input), /Unsupported public schema/);
     delete input[key];

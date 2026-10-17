@@ -367,3 +367,34 @@
     gap: 1rem;
   }
 }
+
+.language {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+.language select {
+  max-width: 100%;
+  padding: 0.35rem;
+  color: inherit;
+  background: #fff;
+  border: 1px solid #78858e;
+  border-radius: 0.2rem;
+}
+.language select:focus-visible {
+  outline: 3px solid #202d36;
+  outline-offset: 3px;
+}
+@media (max-width: 640px) {
+  .header {
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    padding-block: 0.75rem;
+  }
+  .header nav {
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 1rem;
+  }
+}

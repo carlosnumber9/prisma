@@ -1,3 +1,4 @@
+import { localizedFixture } from './localized-fixture.mjs';
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import {
@@ -22,7 +23,7 @@ import { NEUTRAL_ACCENT, partyAccent } from '../src/lib/themes.ts';
 
 function dataset(status = 'pending', points = []) {
   const envelope = (key, items) => ({
-    schemaVersion: 2,
+    schemaVersion: 3,
     electionDate: '2026-11-29',
     [key]: items,
   });
@@ -35,7 +36,11 @@ function dataset(status = 'pending', points = []) {
       },
     ]),
     topics: envelope('topics', [
-      { id: 'housing', label: 'Vivienda', path: '/topics/housing' },
+      {
+        id: 'housing',
+        label: localizedFixture('Vivienda'),
+        path: '/topics/housing',
+      },
     ]),
     sources: envelope('sources', []),
     syntheses: envelope('syntheses', [
@@ -133,7 +138,7 @@ test('does not emit canonical or sitemap URLs until a production origin is confi
 test('pending summaries are noindex and excluded; reviewed empty summaries are indexable', () => {
   const origin = 'https://example.org';
   const pending = createContentRepository(dataset());
-  assert.equal(sitemapEntries(pending, origin).length, 5);
+  assert.equal(sitemapEntries(pending, origin).length, 30);
   assert.ok(
     !sitemapEntries(pending, origin).some(
       (item) => item.url.endsWith('/housing') && item.url.includes('/parties/'),
@@ -149,12 +154,12 @@ test('pending summaries are noindex and excluded; reviewed empty summaries are i
   assert.deepEqual(metadata.robots, { index: false, follow: true });
   assert.equal(
     metadata.alternates.canonical,
-    `${origin}/parties/fixture-party/housing`,
+    `${origin}/es/parties/fixture-party/housing`,
   );
   for (const status of ['partial', 'complete']) {
     const reviewed = createContentRepository(dataset(status));
     const entry = sitemapEntries(reviewed, origin).find(
-      (item) => item.url === `${origin}/parties/fixture-party/housing`,
+      (item) => item.url === `${origin}/es/parties/fixture-party/housing`,
     );
     assert.equal(entry.lastModified, '2026-10-12T10:00:00Z');
   }

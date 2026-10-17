@@ -1,3 +1,4 @@
+import { localizedFixture } from './localized-fixture.mjs';
 import { createHash } from 'node:crypto';
 import { execFileSync, spawnSync } from 'node:child_process';
 import {
@@ -43,8 +44,8 @@ function fixture(t) {
     },
   ]);
   writeJson(join(root, 'content/editorial/topics.json'), [
-    { id: 'housing', label: 'Housing' },
-    { id: 'education', label: 'Education' },
+    { id: 'housing', label: localizedFixture('Housing') },
+    { id: 'education', label: localizedFixture('Education') },
   ]);
   // Synthetic snapshots exercise the data contract, not PDF parsing or real programmes.
   const original =
@@ -98,8 +99,8 @@ function fixture(t) {
     points: [
       {
         id: 'fixture-point-a',
-        title: 'Approved synthetic point',
-        text: 'Synthetic summary A preserving the condition.',
+        title: localizedFixture('Approved synthetic point'),
+        text: localizedFixture('Synthetic summary A preserving the condition.'),
         status: 'approved',
         internalNotes: 'INTERNAL_DEBATE_DO_NOT_PUBLISH',
         citations: [
@@ -112,8 +113,8 @@ function fixture(t) {
       },
       {
         id: 'fixture-point-b',
-        title: 'DRAFT_DO_NOT_PUBLISH',
-        text: 'PENDING_TEXT_DO_NOT_PUBLISH',
+        title: localizedFixture('DRAFT_DO_NOT_PUBLISH'),
+        text: localizedFixture('PENDING_TEXT_DO_NOT_PUBLISH'),
         status: 'draft',
         citations: [
           {
@@ -148,7 +149,7 @@ function outputSnapshot(root) {
     .map((name) => [name, readFileSync(join(directory, name), 'utf8')]);
 }
 
-test('publishes schema v2 in all envelopes and preserves a null official website', (t) => {
+test('publishes schema v3 in all envelopes and preserves a null official website', (t) => {
   const { root } = fixture(t);
   const path = join(root, 'content/editorial/parties.json');
   const parties = readJson(path);
@@ -156,11 +157,11 @@ test('publishes schema v2 in all envelopes and preserves a null official website
   writeJson(path, parties);
   const output = buildContent(root);
   for (const bytes of output.values())
-    assert.equal(JSON.parse(bytes).schemaVersion, 2);
+    assert.equal(JSON.parse(bytes).schemaVersion, 3);
   assert.equal(publicData(root, 'parties')[0].officialWebsite, null);
 });
 
-test('publishes v2 for an empty formation catalogue', (t) => {
+test('publishes v3 for an empty formation catalogue', (t) => {
   const f = fixture(t);
   writeJson(join(f.root, 'content/editorial/parties.json'), []);
   rmSync(join(f.root, 'content/editorial/syntheses/fixture-party'), {
@@ -168,7 +169,7 @@ test('publishes v2 for an empty formation catalogue', (t) => {
   });
   rmSync(f.sourceDirectory, { recursive: true });
   for (const bytes of buildContent(f.root).values())
-    assert.equal(JSON.parse(bytes).schemaVersion, 2);
+    assert.equal(JSON.parse(bytes).schemaVersion, 3);
   assert.deepEqual(publicData(f.root, 'parties'), []);
   assert.deepEqual(publicData(f.root, 'syntheses'), []);
 });
@@ -555,4 +556,72 @@ test('Finder metadata does not affect generation or public output', (t) => {
   generateContent(f.root);
   writeFileSync(join(f.root, 'content/generated/.DS_Store'), 'Finder metadata');
   generateContent(f.root, { check: true });
+});
+
+test('six-language approval preserves meaning fields, shared citations and point order', (t) => {
+  const f = fixture(t);
+  const expected = f.synthesis.points[0];
+  const point = publicData(f.root, 'syntheses').find(
+    (item) => item.topicId === 'housing',
+  ).points[0];
+  assert.deepEqual(point.title, expected.title);
+  assert.deepEqual(point.text, expected.text);
+  assert.equal(point.id, expected.id);
+  assert.equal(point.citations[0].quote, expected.citations[0].quote);
+});
+
+for (const [description, mutate] of [
+  ['missing approved translation', (point) => delete point.text.eu],
+  [
+    'blank approved translation',
+    (point) => {
+      point.title.oc = '  ';
+    },
+  ],
+  [
+    'unknown translation locale',
+    (point) => {
+      point.text.fr = 'Unexpected';
+    },
+  ],
+  [
+    'legacy scalar text',
+    (point) => {
+      point.text = 'Legacy text';
+    },
+  ],
+])
+  test(`rejects ${description} before replacing public output`, (t) => {
+    const f = fixture(t);
+    generateContent(f.root);
+    const before = outputSnapshot(f.root);
+    mutate(f.synthesis.points[0]);
+    writeJson(f.synthesisPath, f.synthesis);
+    assert.throws(() => generateContent(f.root));
+    assert.deepEqual(outputSnapshot(f.root), before);
+  });
+
+test('incomplete draft translations remain private and cannot be promoted unchanged', (t) => {
+  const f = fixture(t);
+  const draft = f.synthesis.points[1];
+  draft.title = { es: 'DRAFT_DO_NOT_PUBLISH' };
+  draft.text = { es: 'PENDING_TEXT_DO_NOT_PUBLISH' };
+  writeJson(f.synthesisPath, f.synthesis);
+  assert.equal(
+    publicData(f.root, 'syntheses').find((item) => item.topicId === 'housing')
+      .points.length,
+    1,
+  );
+  draft.status = 'approved';
+  writeJson(f.synthesisPath, f.synthesis);
+  assert.throws(() => buildContent(f.root), /missing/);
+});
+
+test('topic catalogues also require every supported language', (t) => {
+  const f = fixture(t);
+  const path = join(f.root, 'content/editorial/topics.json');
+  const topics = readJson(path);
+  delete topics[0].label.ca;
+  writeJson(path, topics);
+  assert.throws(() => buildContent(f.root), /missing ca/);
 });

@@ -12,7 +12,7 @@
 - Physical/printed PDF page references, HTML section/anchor references and whitespace-only quote differences.
 - Offline CLI use with a temporary root, invalid arguments, symlink rejection and harmless Finder metadata.
 
-The programme corpus remains empty. The initial catalogue contains five real formations, eight areas and 40 pending summaries; fixtures under `tests` are not projected. Tests also cover schema v2 and required nullable official websites, including invalid URL rejection. Human agreement and semantic fidelity cannot be established by the generator. Coverage measures the generator and is diagnostic, without a global threshold.
+The programme corpus remains empty. The initial catalogue contains five real formations, eight areas and 40 pending summaries; fixtures under `tests` are not projected. Tests also cover schema v3 and required nullable official websites, including invalid URL rejection. Human agreement and semantic fidelity cannot be established by the generator. Coverage measures the generator and is diagnostic, without a global threshold.
 
 ## Read-only triage rehearsal
 
@@ -28,3 +28,11 @@ An independent read-only rehearsal applied the triage skill and shared reference
 The rehearsal led to explicit repository-scoped duplicate searches with truncation handling and an explicit pending-consensus phase. Maintainer comments were not treated as automatic final approval. English technical wording retains these behaviours.
 
 The first real programme incorporation still needs original-capture and visual extraction validation. The portal adds isolated content/presentation tests and an offline prerendered HTML check during build; see [portal verification](portal.md#verification-and-remaining-limits). Browser checks, remote CI results and Vercel deployment remain separate verification; this record does not claim them.
+
+Multilingual tests require six approved translations, reject missing/blank/unknown locale fields, preserve previous output on validation failure, retain shared IDs/citations and exclude incomplete drafts. Synthetic markup checks select each locale while preserving original quotations. Semantic and language review remain human responsibilities.
+
+## Multilingual skill forward test
+
+An independent read-only forward test on 17 October 2026 used the translation-only scenario now preserved as case E. It identified an English-only meaning error, proposed “Pilot project subject to funding.”, retained original evidence and the other faithful versions, and kept approved revision 4 intact during debate. Agreement would create shared revision 5 with an actual review timestamp; no issue, external lookup, publication or repository mutation was performed by the evaluator. The supplied scenario was not a complete source corpus, so this exercise does not claim a successful content generation or human six-language approval. Cases A–D retain the original historical scalar rehearsal inputs.
+
+Repository documentation checks validate both skills and their metadata. The standalone skill-creator Python validator could not run with the host Python because PyYAML is unavailable; no global dependency installation was performed.

@@ -10,15 +10,15 @@ Work from the root. Read the shared [editorial policy](../../../docs/editorial-p
 ## Locate and evaluate
 
 1. Use the supplied suggestion; ask for it if missing. Do not read a mailbox or send a reply automatically.
-2. Locate the synthesis and point using ID, route, excerpt and revision. Search content and local history before asking about unresolved ambiguous candidates.
+2. Locate the synthesis and point using ID, localized route, excerpt, reported locale and shared revision. Search content and local history before asking about unresolved ambiguous candidates.
 3. Compare the cited revision, current wording and preserved sources. An old suggestion is not automatically invalid; determine whether the correction already happened.
-4. Check the original programme and relevant current external evidence. Distinguish summary/classification/reference/extraction errors from political preferences and feasibility analysis.
+4. Check the original programme and relevant current external evidence. Distinguish translation errors from changes to proposal interpretation, and summary/classification/reference/extraction errors from political preferences and feasibility analysis.
 5. Present evidence and a provisional conclusion. Disagree with the sender, maintainer or your own previous interpretation when warranted. Explain uncertainty and apply the same evidence standard to all.
 6. Record an anonymised argument and evidence in `content/reviews`, without personal information or complete mail. Preserve approved wording while debating an alternative.
 
 ## Agree on an outcome
 
-- **Correct:** prepare the specific editorial change, retain point ID, increment synthesis revision and follow source-preservation rules if extraction/source changes. Generate, validate and show the final diff before publication through the shared Git workflow.
+- **Correct:** prepare the specific editorial change, retain point ID, increment the shared synthesis revision, verify all six language versions and follow source-preservation rules if extraction/source changes. Show the complete multilingual batch for maintainer language review and agreement, preserving original citations. Missing translations block point approval. Generate, validate and show the final diff before publication through the shared Git workflow.
 - **Track:** prepare an issue with content ID/revision, route, problem, verified evidence and remaining task. Search duplicates with `gh issue list --repo carlosnumber9/prisma --state all --search '<point-id>' --limit 1000 --json number,title,url,state,body`, broadening by route/problem when relevant. If results reach the limit or coverage is uncertain, paginate `gh api --paginate 'repos/carlosnumber9/prisma/issues?state=all&per_page=100'`, excluding PR entries. Link an equivalent issue rather than duplicating or modifying it without authorisation.
 - **Dismiss or already resolved:** record the reason/evidence without changing wording or opening an unnecessary issue. Lack of proof can leave a suggestion pending; it does not establish that it is false.
 

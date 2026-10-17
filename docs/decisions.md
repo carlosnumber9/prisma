@@ -6,6 +6,7 @@ Accepted decisions explain durable trade-offs. They are not a substitute for the
 | ----------------------------------------------------------------------------------------------------------- | -------- | ---------------------------------------------------------------------------- |
 | [0001: Reviewed editorial content before delivery](adr/0001-reviewed-content-before-delivery.md)            | Accepted | Separate human review from runtime delivery and deterministic generation.    |
 | [0002: Preserved sources and stable public references](adr/0002-preserved-sources-and-stable-references.md) | Accepted | Keep evidence auditable when URLs change and correction links survive edits. |
+| [0003: One reviewed multilingual editorial batch](adr/0003-multilingual-editorial-batches.md)               | Accepted | Publish six translations with shared identifiers, evidence and approval.     |
 
 Add an ADR only when a real trade-off is durable and surprising without context. Number new files sequentially. When superseding a decision, retain its original text/history, label its status and link its replacement. Routine library choices belong in engineering documentation, not automatically in ADRs.
 

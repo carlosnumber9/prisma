@@ -8,7 +8,7 @@ Publish syntheses of official programmes for the general election on 29 November
 
 Accept verifiable PDF, HTML or other formats, including official programme sections and appendices. Record partial corpus coverage. A news report, campaign statement or programme from another election does not replace the programme. Missing documents remain missing; never attribute 2023 proposals to 2026.
 
-The formation list is not settled. An authorised programme incorporation may add its formation without claiming exhaustive electoral coverage. Preserve existing identifiers and distinguish coalitions, constituent parties, constituency candidatures and shared programmes. The eight initial areas and English slugs are maintained only in `content/editorial/topics.json`; Spanish labels are citizen-facing content. Agree on classification changes before applying them.
+The formation list is not settled. An authorised programme incorporation may add its formation without claiming exhaustive electoral coverage. Preserve existing identifiers and distinguish coalitions, constituent parties, constituency candidatures and shared programmes. The eight initial areas and English slugs are maintained only in `content/editorial/topics.json`; six-language labels are citizen-facing content. Agree on classification changes before applying them.
 
 ## Fidelity and external evidence
 
@@ -21,6 +21,14 @@ During each incorporation or triage, consult relevant current external sources f
 Separate what the programme says, whether its factual claims have support and what is known about feasibility. Represent the first faithfully. External conclusions stay in review records, not in programme summaries. Do not score parties or treat political preferences as factual findings. Preserve source quotations in their original language; write technical review instructions in English.
 
 Challenge interpretations by the sender, maintainer and agent alike when evidence contradicts them. Explain uncertainty and what would resolve a disagreement. Missing evidence does not establish falsity, and human agreement does not establish truth. Unagreed wording remains a draft.
+
+## Multilingual agreement
+
+The portal supports Castilian (`es`), Catalan/Valencian (`ca`), Galician (`gl`), Basque (`eu`), Aranese (`oc`) and English (`en`). Draft the Castilian reference against the original programme, then prepare five faithful translations. Review figures, beneficiaries, conditions, deadlines, negations and strength of commitment across all versions. Official names, document titles and source quotations remain in their original language.
+
+Show all six versions to the maintainer, together with evidence and unresolved linguistic questions. The agent proposes translations; the maintainer reviews or delegates language review before agreement. Approval covers one multilingual batch, never just the reference wording. Missing translations block approval and publication; incomplete drafts remain private. Builds and visits must not translate text.
+
+A synthesis has one shared revision, review state and timestamp. Corrections in any locale increment that revision and check all versions for consistency, including when only one translation changes. Distinguish translation errors from changes to the interpretation of a proposal. Preserve the approved multilingual batch during debate and record alternatives separately. See [the contract](content-contract.md) and [ADR 0003](adr/0003-multilingual-editorial-batches.md).
 
 ## Sources, reviews and publication
 

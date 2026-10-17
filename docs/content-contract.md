@@ -30,9 +30,9 @@ Examples below are templates: replace markers with verified values. They are not
 
 `parties.json` is an array of objects with exactly `id`, `name` and `officialWebsite`. IDs are stable slugs; the visible formation name retains its intended language. The website field is required and accepts either an HTTP(S) URL without credentials or `null` when no official website has been verified. Do not substitute a constituent party's website for a coalition's website. The initial limited catalogue and its evidence are documented in [catalogue provenance](catalogue-provenance.md).
 
-`topics.json` is an array with exactly `id` and `label` and is the sole definition of the eight initial areas. Catalogue IDs are unique lowercase ASCII letters/numbers separated by single hyphens, without leading or trailing hyphens. Unknown fields are rejected.
+`topics.json` is an array with exactly `id` and `label` and is the sole definition of the eight initial areas. Each label is a complete `LocalizedText` map. Catalogue IDs are unique lowercase ASCII letters/numbers separated by single hyphens, without leading or trailing hyphens. Unknown fields are rejected.
 
-Synthesis routes are `/parties/<partyId>/<topicId>`; topic routes are `/topics/<topicId>`. Changing labels does not change slugs. Do not silently rename published IDs or renumber points when reordering them. See [versioning](versioning.md) for compatibility rules.
+Generated base paths remain `/parties/<partyId>/<topicId>` and `/topics/<topicId>`. The portal prefixes these paths with `/es`, `/ca`, `/gl`, `/eu`, `/oc` or `/en`; editorial IDs and paths are locale-neutral. Changing labels does not change slugs. Do not silently rename published IDs or renumber points when reordering them. See [versioning](versioning.md) for compatibility rules.
 
 ## Source snapshots
 
@@ -102,8 +102,22 @@ Each `syntheses/<partyId>/<topicId>.json` has this structure:
   "points": [
     {
       "id": "<globally-stable-point-id>",
-      "title": "<short heading>",
-      "text": "<reviewed summary in the portal language>",
+      "title": {
+        "es": "<Castilian heading>",
+        "ca": "<Catalan/Valencian heading>",
+        "gl": "<Galician heading>",
+        "eu": "<Basque heading>",
+        "oc": "<Aranese heading>",
+        "en": "<English heading>"
+      },
+      "text": {
+        "es": "<Castilian synthesis>",
+        "ca": "<Catalan/Valencian translation>",
+        "gl": "<Galician translation>",
+        "eu": "<Basque translation>",
+        "oc": "<Aranese translation>",
+        "en": "<English translation>"
+      },
       "status": "approved",
       "citations": [
         {
@@ -116,6 +130,10 @@ Each `syntheses/<partyId>/<topicId>.json` has this structure:
   ]
 }
 ```
+
+`LocalizedText` is an object with exactly six nonempty string values keyed by `es`, `ca`, `gl`, `eu`, `oc` and `en`. Catalan/Valencian share `ca`; `oc` contains Aranese wording. All topic labels and approved point titles/texts require complete maps. Draft titles/texts require `es`, may omit other supported locales and reject unknown or blank values. Incomplete drafts never enter public output.
+
+Castilian is the editorial reference, checked against the original programme. All six versions publish as one agreed batch with shared IDs, order, citations, approval status, revision and review timestamp. Any change to public wording in any language increments the shared revision. A correction checks equivalence across all six versions before agreement; no automatic or stale-language fallback is published. Official formation names, source titles, section names and supporting quotations remain original.
 
 Point IDs are globally unique, including drafts. Every point needs a title, text, `draft` or `approved` status and at least one verifiable citation. Optional point and synthesis `internalNotes` never enter public JSON.
 
@@ -133,7 +151,7 @@ Missing formation/area files generate empty pending entries, not placeholder pro
 
 ## Public projection
 
-Every generated file contains `schemaVersion: 2`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`. Version 2 replaces version 1 in all four files together; the portal accepts only version 2. This breaking change admits a null official website while retaining the required field. There was no deployed v1 consumer to migrate.
+Every generated file contains `schemaVersion: 3`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`. Version 3 replaces scalar topic labels and point titles/texts with complete locale maps in all four envelopes together; the portal accepts only version 3. Version 2 introduced required nullable official websites; that behavior remains. The current real corpus has no points to migrate: catalogue labels are translated, pending syntheses retain their IDs and state, and synthetic fixtures exercise translated points. Older consumers must be rebuilt together with the regenerated envelopes.
 
 - Catalogues are sorted by ID; topics include their public path.
 - Syntheses contain `id`, `partyId`, `topicId`, `path`, `revision`, `reviewStatus`, `reviewedAt`, `sourceIds` and approved `points` in editorial order.

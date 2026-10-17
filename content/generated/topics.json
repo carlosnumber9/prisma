@@ -1,45 +1,101 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "electionDate": "2026-11-29",
   "topics": [
     {
       "id": "economy-and-taxes",
-      "label": "Economía e impuestos",
+      "label": {
+        "es": "Economía e impuestos",
+        "ca": "Economia i impostos",
+        "gl": "Economía e impostos",
+        "eu": "Ekonomia eta zergak",
+        "oc": "Economia e impòsti",
+        "en": "Economy and taxes"
+      },
       "path": "/topics/economy-and-taxes"
     },
     {
       "id": "education",
-      "label": "Educación",
+      "label": {
+        "es": "Educación",
+        "ca": "Educació",
+        "gl": "Educación",
+        "eu": "Hezkuntza",
+        "oc": "Educacion",
+        "en": "Education"
+      },
       "path": "/topics/education"
     },
     {
       "id": "employment",
-      "label": "Empleo",
+      "label": {
+        "es": "Empleo",
+        "ca": "Ocupació",
+        "gl": "Emprego",
+        "eu": "Enplegua",
+        "oc": "Emplec",
+        "en": "Employment"
+      },
       "path": "/topics/employment"
     },
     {
       "id": "environment-and-energy",
-      "label": "Medioambiente y energía",
+      "label": {
+        "es": "Medioambiente y energía",
+        "ca": "Medi ambient i energia",
+        "gl": "Medio ambiente e enerxía",
+        "eu": "Ingurumena eta energia",
+        "oc": "Miei ambient e energia",
+        "en": "Environment and energy"
+      },
       "path": "/topics/environment-and-energy"
     },
     {
       "id": "healthcare",
-      "label": "Sanidad",
+      "label": {
+        "es": "Sanidad",
+        "ca": "Sanitat",
+        "gl": "Sanidade",
+        "eu": "Osasuna",
+        "oc": "Sanitat",
+        "en": "Healthcare"
+      },
       "path": "/topics/healthcare"
     },
     {
       "id": "housing",
-      "label": "Vivienda",
+      "label": {
+        "es": "Vivienda",
+        "ca": "Habitatge",
+        "gl": "Vivenda",
+        "eu": "Etxebizitza",
+        "oc": "Abitatge",
+        "en": "Housing"
+      },
       "path": "/topics/housing"
     },
     {
       "id": "institutions-and-rights",
-      "label": "Instituciones y derechos",
+      "label": {
+        "es": "Instituciones y derechos",
+        "ca": "Institucions i drets",
+        "gl": "Institucións e dereitos",
+        "eu": "Erakundeak eta eskubideak",
+        "oc": "Institucions e drets",
+        "en": "Institutions and rights"
+      },
       "path": "/topics/institutions-and-rights"
     },
     {
       "id": "pensions-and-social-protection",
-      "label": "Pensiones y protección social",
+      "label": {
+        "es": "Pensiones y protección social",
+        "ca": "Pensions i protecció social",
+        "gl": "Pensións e protección social",
+        "eu": "Pentsioak eta gizarte babesa",
+        "oc": "Pensions e proteccion sociau",
+        "en": "Pensions and social protection"
+      },
       "path": "/topics/pensions-and-social-protection"
     }
   ]

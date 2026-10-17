@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
 import { useLayoutEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -9,11 +10,14 @@ import styles from './home-navigation.module.css';
 
 export function HomeNavigation({
   topics,
+  locale,
   parties,
 }: {
   topics: DirectoryEntry[];
+  locale: Locale;
   parties: DirectoryEntry[];
 }) {
+  const m = dictionaries[locale];
   const navigationRef = useRef<HTMLDivElement>(null);
 
   useLayoutEffect(() => {
@@ -107,21 +111,27 @@ export function HomeNavigation({
     <div ref={navigationRef} className={styles.navigation}>
       <section aria-labelledby="topics-heading" data-navigation-column="left">
         <h2 id="topics-heading" className={styles.heading}>
-          <Link href="/topics">Por área</Link>
+          <Link href={localizedPath('/topics', locale)}>{m.byTopic}</Link>
         </h2>
         <ul className={styles.links}>
           {topics.map((topic) => (
             <li key={topic.href}>
-              <Link href={topic.href} className={styles.link}>
+              <Link
+                href={localizedPath(topic.href, locale)}
+                className={styles.link}
+              >
                 <span className={styles.background} aria-hidden="true" />
                 {topic.label}
               </Link>
             </li>
           ))}
           <li className={styles.parties} data-compact-link>
-            <Link href="/parties" className={styles.link}>
+            <Link
+              href={localizedPath('/parties', locale)}
+              className={styles.link}
+            >
               <span className={styles.background} aria-hidden="true" />
-              Lista de partidos
+              {m.partyList}
             </Link>
           </li>
         </ul>
@@ -132,12 +142,15 @@ export function HomeNavigation({
         data-navigation-column="right"
       >
         <h2 id="parties-heading" className={styles.heading}>
-          <Link href="/parties">Por partidos</Link>
+          <Link href={localizedPath('/parties', locale)}>{m.byParty}</Link>
         </h2>
         <ul className={styles.links}>
           {parties.map((party) => (
             <li key={party.href}>
-              <Link href={party.href} className={styles.link}>
+              <Link
+                href={localizedPath(party.href, locale)}
+                className={styles.link}
+              >
                 <span className={styles.background} aria-hidden="true" />
                 {party.label}
               </Link>

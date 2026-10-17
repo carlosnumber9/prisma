@@ -1,16 +1,11 @@
-import Link from 'next/link';
-import { Shell, PageHeader } from '../components/shell';
+import { NotFoundContent } from '../components/not-found-content';
+import { mako } from './font';
+import './globals.css';
 
 export default function NotFoundPage() {
   return (
-    <Shell>
-      <PageHeader
-        title="Página no encontrada"
-        description="Esta dirección no corresponde a un partido o área del catálogo actual."
-      />
-      <p>
-        <Link href="/">Volver al inicio</Link>
-      </p>
-    </Shell>
+    <div lang="es" className={mako.className}>
+      <NotFoundContent locale="es" />
+    </div>
   );
 }

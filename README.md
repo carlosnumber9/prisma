@@ -8,6 +8,8 @@ Home navigation uses compact trapezoid links attached to the viewport edges. Bel
 
 The homepage now has a local vgpu visual prototype: a glass prism splits white light into four slowly moving coloured beams, with the existing browsing directories below. It preserves the light background and title, supports reduced motion, and provides a static fallback. Browser integration remains to be verified; Git publication does not establish deployment status. See [prototype details](docs/portal.md#local-prism-prototype).
 
+The portal supports Castilian, Catalan/Valencian, Galician, Basque, Aranese and English through 336 prerendered catalogue pages. A native navbar selector remembers manual choice for one year. Locale URLs are authoritative; neutral entries negotiate saved choice, browser preferences and Castilian fallback before rendering. All political points require six reviewed versions together; the real corpus still has no incorporated points. See [internationalization](docs/portal.md#internationalization). Language review of the proposed interface translations and browser verification remain pending; no server was started for this delivery.
+
 ## Working in this repository
 
 The portal uses Mako throughout, bundled locally with its SIL Open Font License and loaded through `next/font/local`. Browser verification of this typography trial remains pending. See [portal typography](docs/portal.md#presentation-and-seo).
@@ -40,7 +42,7 @@ npm run content:generate
 npm run content:check
 ```
 
-Editable content lives in `content/editorial`, snapshots and extractions in `content/sources`, and review records in `content/reviews`. Only the four schema-v2 JSON files in `content/generated` are imported by Next. Routes include `/parties/[party]/[topic]` and `/topics/[topic]`. New approved editorial batches require regeneration and a new build; page loads never generate prose.
+Editable content lives in `content/editorial`, snapshots and extractions in `content/sources`, and review records in `content/reviews`. Only the four schema-v3 JSON files in `content/generated` are imported by Next. Routes include `/[locale]/parties/[party]/[topic]` and `/[locale]/topics/[topic]`. New approved editorial batches require regeneration and a new build; page loads never generate prose.
 
 ## Documentation
 

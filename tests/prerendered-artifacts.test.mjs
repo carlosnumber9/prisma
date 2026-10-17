@@ -8,6 +8,20 @@ import pagePath from 'next/dist/shared/lib/page-path/normalize-page-path.js';
 import { createPrerenderedArtifactReader } from '../scripts/prerendered-artifacts.mjs';
 
 const cases = [
+  ['/ca', '/[locale]/page', '/[locale]', '.html'],
+  [
+    '/eu/parties/fixture/housing',
+    '/[locale]/parties/[party]/[topic]/page',
+    '/[locale]/parties/[party]/[topic]',
+    '.html',
+  ],
+  [
+    '/oc/topics/housing',
+    '/[locale]/topics/[topic]/page',
+    '/[locale]/topics/[topic]',
+    '.html',
+  ],
+  ['/_not-found', '/_not-found/page', '/_not-found', '.meta'],
   ['/', '/page', '/', '.html'],
   ['/parties', '/parties/page', '/parties', '.html'],
   [

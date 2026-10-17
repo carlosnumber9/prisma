@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
+import { LanguageSelect } from './language-select';
 import type { CSSProperties, ReactNode } from 'react';
 import { partyAccent } from '../lib/themes';
 import styles from './portal.module.css';
@@ -7,54 +9,63 @@ export type Crumb = { label: string; href?: string };
 
 export function Shell({
   children,
+  locale = 'es',
   background,
   partyId,
   section,
   crumbs = [],
 }: {
   children: ReactNode;
+  locale?: Locale;
   background?: ReactNode;
   partyId?: string;
   section?: 'parties' | 'topics';
   crumbs?: Crumb[];
 }) {
+  const m = dictionaries[locale];
+  const path = (value: string) => localizedPath(value, locale);
   const theme = { '--accent': partyAccent(partyId) } as CSSProperties;
   return (
     <div className={styles.shell} style={theme}>
       {background}
       <a className={styles.skip} href="#main-content">
-        Saltar al contenido
+        {m.skip}
       </a>
       <header className={styles.header}>
-        <Link href="/" className={styles.brand} aria-label="Prisma, inicio">
+        <Link
+          href={path('/')}
+          className={styles.brand}
+          aria-label={`Prisma, ${m.home}`}
+        >
           prisma<span aria-hidden="true">.</span>
         </Link>
-        <nav aria-label="Navegación principal">
+        <nav aria-label={m.nav}>
           <Link
-            href="/parties"
+            href={path('/parties')}
             aria-current={section === 'parties' ? 'true' : undefined}
           >
-            Partidos
+            {m.parties}
           </Link>
           <Link
-            href="/topics"
+            href={path('/topics')}
             aria-current={section === 'topics' ? 'true' : undefined}
           >
-            Áreas
+            {m.topics}
           </Link>
+          <LanguageSelect locale={locale} label={m.language} />
         </nav>
       </header>
       <main id="main-content" className={styles.main} tabIndex={-1}>
         {crumbs.length > 0 && (
-          <nav aria-label="Ruta de navegación" className={styles.breadcrumbs}>
+          <nav aria-label={m.breadcrumbs} className={styles.breadcrumbs}>
             <ol>
               <li>
-                <Link href="/">Inicio</Link>
+                <Link href={path('/')}>{m.home}</Link>
               </li>
               {crumbs.map((crumb, index) => (
                 <li key={index}>
                   {crumb.href ? (
-                    <Link href={crumb.href}>{crumb.label}</Link>
+                    <Link href={path(crumb.href)}>{crumb.label}</Link>
                   ) : (
                     <span aria-current="page">{crumb.label}</span>
                   )}
@@ -66,11 +77,8 @@ export function Shell({
         {children}
       </main>
       <footer className={styles.footer}>
-        <p>Prisma · Programas electorales, con fuentes y revisión.</p>
-        <p>
-          Selección inicial de cinco formaciones. No representa todas las
-          candidaturas.
-        </p>
+        <p>{m.footer}</p>
+        <p>{m.catalogueNote}</p>
       </footer>
     </div>
   );
