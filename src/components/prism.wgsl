@@ -196,16 +196,22 @@ fn addBeam(
   background: vec3f, origin: vec3f, direction: vec3f, interval: vec2f,
   start: vec3f, end: vec3f, tint: vec3f, radius: f32, white: bool,
 ) -> vec3f {
-  let halo = opticalDepth(origin, direction, interval, start, end, radius * 3.4);
   let body = opticalDepth(origin, direction, interval, start, end, radius);
-  let core = opticalDepth(origin, direction, interval, start, end, radius * 0.32);
-  var color = mix(background, tint, 1.0 - exp(-halo * 0.13 - body * 1.15));
-  color = mix(color, mix(tint, vec3f(1.0), 0.84), 1.0 - exp(-core * 1.3));
-  if (white) {
-    color = mix(background, vec3f(0.66, 0.73, 0.77), 1.0 - exp(-halo * 0.17));
-    color = mix(color, vec3f(1.0), 1.0 - exp(-body * 3.6 - core * 2.0));
+  if (!white) {
+    // Layer translucent scattering and coloured glow without a white highlight.
+    let glow = opticalDepth(origin, direction, interval, start, end, radius * 2.7);
+    let filament = opticalDepth(origin, direction, interval, start, end, radius * 0.45);
+    let glowOpacity = (1.0 - exp(-glow * 0.32)) * 0.32;
+    let bodyOpacity = (1.0 - exp(-body * 1.65)) * 0.64;
+    let filamentOpacity = (1.0 - exp(-filament * 1.4)) * 0.22;
+    let glowColor = mix(background, tint, glowOpacity);
+    let bodyColor = mix(glowColor, tint, bodyOpacity);
+    return mix(bodyColor, tint, filamentOpacity);
   }
-  return color;
+  let halo = opticalDepth(origin, direction, interval, start, end, radius * 3.4);
+  let core = opticalDepth(origin, direction, interval, start, end, radius * 0.32);
+  let color = mix(background, vec3f(0.66, 0.73, 0.77), 1.0 - exp(-halo * 0.17));
+  return mix(color, vec3f(1.0), 1.0 - exp(-body * 3.6 - core * 2.0));
 }
 
 fn externalLight(background: vec3f, origin: vec3f, direction: vec3f, interval: vec2f) -> vec3f {
