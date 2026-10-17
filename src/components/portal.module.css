@@ -1,5 +1,13 @@
 .shell {
   overflow-x: clip;
+  --prism-scale: 0.75;
+  --prism-center-y: clamp(230px, 35svh, 360px);
+  --prism-image-height: min(
+    calc(100svh * var(--prism-scale)),
+    calc(140.3846vw * var(--prism-scale))
+  );
+  position: relative;
+  isolation: isolate;
   min-height: 100dvh;
   display: flex;
   flex-direction: column;
@@ -50,6 +58,25 @@
 }
 .main:focus {
   outline: none;
+}
+.homeIntro {
+  --content-top: 121px;
+  min-height: min(850px, calc(100svh - 120px));
+  padding-block: calc(
+      var(--prism-center-y) + var(--prism-image-height) * 0.25 + 2rem -
+        var(--content-top)
+    )
+    4rem;
+}
+.homeIntro h1 {
+  margin: 0;
+  text-align: center;
+  font-size: clamp(2.4rem, 5vw, 4.25rem);
+  line-height: 1.1;
+  letter-spacing: -0.055em;
+  font-weight: 720;
+  -webkit-user-select: none;
+  user-select: none;
 }
 .pageHeader {
   padding-block: 1rem 1.5rem;
@@ -275,6 +302,15 @@
   transform: translateY(0);
 }
 @media (max-width: 768px) {
+  .homeIntro {
+    --content-top: 105px;
+    min-height: min(780px, calc(100svh - 105px));
+    padding-bottom: 3.5rem;
+  }
+  .homeIntro h1 {
+    max-width: 12ch;
+    margin-inline: auto;
+  }
   .header,
   .main,
   .footer {

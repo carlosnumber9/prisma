@@ -6,6 +6,8 @@ The editorial foundation and statically prerendered Next.js portal are implement
 
 Home navigation uses compact trapezoid links attached to the viewport edges. Below 1024 pixels wide, areas are followed by one “Lista de partidos” button; wider screens replace it with a mirrored party list on the right. GSAP reveals each list from its outer edge and moves text and background towards the centre on hover, with reduced-motion support. Browser verification remains pending. See [portal implementation](docs/portal.md).
 
+The homepage now has a local vgpu visual prototype: a glass prism splits white light into four slowly moving coloured beams, with the existing browsing directories below. It preserves the light background and title, supports reduced motion, and provides a static fallback. Browser integration remains to be verified; Git publication does not establish deployment status. See [prototype details](docs/portal.md#local-prism-prototype).
+
 ## Working in this repository
 
 Read [AGENTS.md](AGENTS.md) for agent instructions, [the glossary](CONTEXT.md) for domain terms, and the relevant documents below. The primary working and publication branch is `master`.

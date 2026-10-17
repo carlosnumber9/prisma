@@ -7,11 +7,13 @@ export type Crumb = { label: string; href?: string };
 
 export function Shell({
   children,
+  background,
   partyId,
   section,
   crumbs = [],
 }: {
   children: ReactNode;
+  background?: ReactNode;
   partyId?: string;
   section?: 'parties' | 'topics';
   crumbs?: Crumb[];
@@ -19,6 +21,7 @@ export function Shell({
   const theme = { '--accent': partyAccent(partyId) } as CSSProperties;
   return (
     <div className={styles.shell} style={theme}>
+      {background}
       <a className={styles.skip} href="#main-content">
         Saltar al contenido
       </a>

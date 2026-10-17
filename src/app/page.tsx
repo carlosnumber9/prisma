@@ -1,5 +1,6 @@
-import { Shell, PageHeader } from '../components/shell';
+import { Shell } from '../components/shell';
 import { HomeNavigation } from '../components/home-navigation';
+import { PrismBackground } from '../components/prism-background';
 import styles from '../components/portal.module.css';
 import { content } from '../lib/public-content';
 import { pageSeo } from '../lib/seo';
@@ -13,27 +14,11 @@ export const metadata = pageSeo(
 );
 
 export default function HomePage() {
-  const available = content.syntheses.some(
-    (synthesis) => synthesis.reviewStatus !== 'pending',
-  );
   return (
-    <Shell>
-      <PageHeader
-        title="Qué propone cada partido."
-        description="Consulta resúmenes revisados por partido o por área."
-      />
-      {!available && (
-        <aside
-          className={styles.notice}
-          aria-label="Disponibilidad de los resúmenes"
-        >
-          <p>
-            <strong>Todavía no hay resúmenes disponibles.</strong> Puedes
-            recorrer los apartados; el contenido se incorporará tras su
-            revisión.
-          </p>
-        </aside>
-      )}
+    <Shell background={<PrismBackground />}>
+      <section className={styles.homeIntro} aria-labelledby="prism-title">
+        <h1 id="prism-title">Qué propone cada partido.</h1>
+      </section>
       <HomeNavigation
         parties={content.parties.map((party) => ({
           label: party.name,

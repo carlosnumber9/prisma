@@ -1,0 +1,41 @@
+.scene {
+  position: absolute;
+  inset: 0;
+  /* Shell's isolated stacking context keeps the scene above its base colour. */
+  z-index: -1;
+  pointer-events: none;
+  user-select: none;
+}
+
+.viewport {
+  position: absolute;
+  top: calc(var(--prism-center-y) - 50svh * var(--prism-scale));
+  left: 0;
+  width: calc(100% * var(--prism-scale));
+  height: calc(100svh * var(--prism-scale));
+}
+
+.canvas {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+.canvas[data-ready='true'] {
+  opacity: 1;
+}
+
+.poster {
+  position: absolute;
+  top: var(--prism-center-y);
+  left: 50%;
+  display: block;
+  width: auto;
+  /* Match the shader's world scale, including its narrow-screen extent. */
+  height: var(--prism-image-height);
+  max-width: none;
+  transform: translate(-50%, -50%);
+}
