@@ -18,6 +18,8 @@ The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initia
 
 ## Delivery 3 — Accessible Next portal: implemented; browser verification pending
 
+The portal now trials Mako across all routes, including form controls, using a bundled local font and license with no Google Fonts requests during builds or visits. Existing sizes remain; bold and italic emphasis use browser synthesis because Mako provides only regular weight 400. Browser typography verification remains pending.
+
 The Next.js App Router portal reads schema-v2 approved JSON and prerenders home, formation and topic indexes, formation pages, and shareable synthesis pages:
 
 - `/`, `/parties`, `/parties/[party]`

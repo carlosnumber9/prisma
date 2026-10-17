@@ -10,6 +10,8 @@ The homepage now has a local vgpu visual prototype: a glass prism splits white l
 
 ## Working in this repository
 
+The portal uses Mako throughout, bundled locally with its SIL Open Font License and loaded through `next/font/local`. Browser verification of this typography trial remains pending. See [portal typography](docs/portal.md#presentation-and-seo).
+
 Read [AGENTS.md](AGENTS.md) for agent instructions, [the glossary](CONTEXT.md) for domain terms, and the relevant documents below. The primary working and publication branch is `master`.
 
 Use Node.js 24.x and npm 10.8.2:
