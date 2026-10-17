@@ -3,6 +3,10 @@
   padding-block: 1rem;
 }
 
+.partyColumn {
+  display: none;
+}
+
 .heading {
   margin-bottom: 1.5rem;
   font-size: 1.6rem;
@@ -84,5 +88,38 @@
 @media (max-width: 768px) {
   .navigation {
     --page-gutter: 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .navigation {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 4rem;
+  }
+
+  .parties {
+    display: none;
+  }
+
+  .partyColumn {
+    display: block;
+    text-align: right;
+  }
+
+  .partyColumn .links {
+    margin-left: auto;
+    margin-right: calc(-1 * var(--page-gutter));
+  }
+
+  .partyColumn .link {
+    justify-content: flex-end;
+    padding-left: 24px;
+    padding-right: var(--page-gutter);
+  }
+
+  .partyColumn .background {
+    inset: 0 -8px 0 0;
+    clip-path: polygon(10px 0, 100% 0, 100% 100%, 0 100%);
   }
 }

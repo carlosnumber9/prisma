@@ -35,6 +35,10 @@ export default function HomePage() {
         </aside>
       )}
       <HomeNavigation
+        parties={content.parties.map((party) => ({
+          label: party.name,
+          href: `/parties/${party.id}`,
+        }))}
         topics={content.topics.map((topic) => ({
           label: topic.label,
           href: topic.path,
