@@ -230,7 +230,8 @@ fn internalLight(background: vec3f, origin: vec3f, direction: vec3f, length: f32
   let interval = vec2f(0.0, length);
   let radius = 0.055;
   let body = opticalDepth(origin, direction, interval, ENTRY, path.exit, radius);
-  let halo = opticalDepth(origin, direction, interval, ENTRY, path.exit, radius * 2.0);
+  let glow = opticalDepth(origin, direction, interval, ENTRY, path.exit, radius * 2.7);
+  let filament = opticalDepth(origin, direction, interval, ENTRY, path.exit, radius * 0.45);
 
   // One continuous volume carries red-yellow-red bands in a 1:2:1 ratio.
   let relative = origin - ENTRY;
@@ -240,11 +241,14 @@ fn internalLight(background: vec3f, origin: vec3f, direction: vec3f, length: f32
   let closest = origin + direction * clamp(centre, 0.0, length);
   let bandUp = normalize(cross(vec3f(0.0, 0.0, 1.0), path.direction));
   let across = dot(closest - ENTRY, bandUp) / radius;
-  let redBand = smoothstep(0.46, 0.54, abs(across));
+  let redBand = smoothstep(0.38, 0.62, abs(across));
   let flagColor = mix(INTERIOR_FLAG_YELLOW, INTERIOR_FLAG_RED, redBand);
-  let tint = mix(vec3f(1.0), flagColor, 0.92);
-  let color = mix(background, tint, 1.0 - exp(-body * 2.6 - halo * 0.08));
-  return mix(color, vec3f(1.0), (1.0 - exp(-body)) * 0.10);
+  let glowOpacity = (1.0 - exp(-glow * 0.32)) * 0.32;
+  let bodyOpacity = (1.0 - exp(-body * 1.65)) * 0.64;
+  let filamentOpacity = (1.0 - exp(-filament * 1.4)) * 0.22;
+  let glowColor = mix(background, flagColor, glowOpacity);
+  let bodyColor = mix(glowColor, flagColor, bodyOpacity);
+  return mix(bodyColor, flagColor, filamentOpacity);
 }
 
 fn studioPanel(direction: vec3f, axis: vec3f, size: vec2f, softness: f32) -> f32 {
