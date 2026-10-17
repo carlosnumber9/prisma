@@ -1,7 +1,6 @@
 .shell {
   overflow-x: clip;
   --prism-scale: 0.75;
-  --prism-center-y: clamp(230px, 35svh, 360px);
   --prism-image-height: min(
     calc(100svh * var(--prism-scale)),
     calc(140.3846vw * var(--prism-scale))
@@ -61,12 +60,40 @@
 }
 .homeIntro {
   --content-top: 121px;
-  min-height: min(850px, calc(100svh - 120px));
-  padding-block: calc(
-      var(--prism-center-y) + var(--prism-image-height) * 0.25 + 2rem -
-        var(--content-top)
-    )
-    4rem;
+  min-height: calc(100dvh - var(--content-top));
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  padding-block: 0 2rem;
+}
+.homeComposition {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: clamp(1.25rem, 3svh, 2rem);
+  width: 100%;
+}
+.prismAnchor {
+  position: relative;
+  top: calc(-1 * clamp(0.5rem, 2svh, 1.5rem));
+  width: 100%;
+  height: calc(var(--prism-image-height) * 0.5);
+  margin-top: auto;
+}
+.prismPoster {
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  width: auto;
+  height: var(--prism-image-height);
+  max-width: none;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  user-select: none;
+}
+.shell:has(canvas[data-prism-ready='true']) .prismPoster {
+  opacity: 0;
 }
 .homeIntro h1 {
   margin: 0;
@@ -77,6 +104,14 @@
   font-weight: 720;
   -webkit-user-select: none;
   user-select: none;
+}
+.homeSubtitle {
+  max-width: 64ch;
+  margin: 0 0 auto;
+  color: #48555f;
+  font-size: clamp(1rem, 1.5vw, 1.15rem);
+  line-height: 1.6;
+  text-align: center;
 }
 .pageHeader {
   padding-block: 1rem 1.5rem;
@@ -304,8 +339,6 @@
 @media (max-width: 768px) {
   .homeIntro {
     --content-top: 105px;
-    min-height: min(780px, calc(100svh - 105px));
-    padding-bottom: 3.5rem;
   }
   .homeIntro h1 {
     max-width: 12ch;

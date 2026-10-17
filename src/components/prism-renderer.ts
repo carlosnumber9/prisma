@@ -10,7 +10,7 @@ type Callbacks = {
 
 export async function startPrism(
   canvas: HTMLCanvasElement,
-  viewport: HTMLDivElement,
+  anchor: HTMLElement,
   callbacks: Callbacks,
   signal: AbortSignal,
 ) {
@@ -43,17 +43,14 @@ export async function startPrism(
     const canvasSurface = surface(gpu, canvas, { dpr: [1, 1.5] });
     const measureScene = () => {
       const bounds = canvas.getBoundingClientRect();
-      const reference = viewport.getBoundingClientRect();
-      const viewportHeight = Math.max(reference.height, 1);
+      const reference = anchor.getBoundingClientRect();
       const height = Math.max(bounds.height, 1);
-      const worldUnitsPerPixel = Math.max(
-        3.65 / viewportHeight,
-        2.6 / Math.max(reference.width, 1),
-      );
+      // The layout anchor reserves the central half of the shader's image height.
+      const worldUnitsPerPixel = 3.65 / Math.max(reference.height * 2, 1);
       return {
         aspect: canvasSurface.size[0] / canvasSurface.size[1],
         worldHeight: height * worldUnitsPerPixel,
-        centerY: (reference.top + viewportHeight / 2 - bounds.top) / height,
+        centerY: (reference.top + reference.height / 2 - bounds.top) / height,
       };
     };
     const prism = effect(gpu, prismShader, {
@@ -138,7 +135,11 @@ export async function startPrism(
     if (disposed) return dispose;
     callbacks.onReady();
     resize.observe(canvas);
-    resize.observe(viewport);
+    resize.observe(anchor);
+    if (anchor.parentElement) {
+      resize.observe(anchor.parentElement);
+      for (const child of anchor.parentElement.children) resize.observe(child);
+    }
     intersection.observe(canvas);
     reducedMotion.addEventListener('change', updatePlayback);
     document.addEventListener('visibilitychange', updatePlayback);
