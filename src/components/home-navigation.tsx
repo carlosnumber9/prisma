@@ -6,6 +6,7 @@ import { useLayoutEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import type { DirectoryEntry } from './directory';
+import { NavigationLink } from './navigation-link';
 import styles from './home-navigation.module.css';
 
 export function HomeNavigation({
@@ -116,23 +117,22 @@ export function HomeNavigation({
         <ul className={styles.links}>
           {topics.map((topic) => (
             <li key={topic.href}>
-              <Link
+              <NavigationLink
                 href={localizedPath(topic.href, locale)}
                 className={styles.link}
               >
-                <span className={styles.background} aria-hidden="true" />
                 {topic.label}
-              </Link>
+              </NavigationLink>
             </li>
           ))}
           <li className={styles.parties} data-compact-link>
-            <Link
+            <NavigationLink
               href={localizedPath('/parties', locale)}
               className={styles.link}
+              tone="accent"
             >
-              <span className={styles.background} aria-hidden="true" />
               {m.partyList}
-            </Link>
+            </NavigationLink>
           </li>
         </ul>
       </section>
@@ -147,13 +147,12 @@ export function HomeNavigation({
         <ul className={styles.links}>
           {parties.map((party) => (
             <li key={party.href}>
-              <Link
+              <NavigationLink
                 href={localizedPath(party.href, locale)}
                 className={styles.link}
               >
-                <span className={styles.background} aria-hidden="true" />
                 {party.label}
-              </Link>
+              </NavigationLink>
             </li>
           ))}
         </ul>

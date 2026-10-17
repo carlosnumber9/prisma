@@ -28,76 +28,12 @@
 }
 
 .link {
-  position: relative;
-  isolation: isolate;
-  display: flex;
-  align-items: center;
-  min-height: 2.75rem;
-  padding: 0.3rem 24px 0.3rem var(--page-gutter);
-  font-size: clamp(1.15rem, 2.2vw, 1.55rem);
-  font-weight: 650;
-  line-height: 1.2;
-  text-decoration: none;
-  filter: drop-shadow(0 2px 2px rgb(32 45 54 / 10%))
-    drop-shadow(0 5px 8px rgb(32 45 54 / 6%));
-}
-
-.background {
-  position: absolute;
-  z-index: -1;
-  inset: 0 0 0 -8px;
-  pointer-events: none;
-  background: #e5eaed;
-  box-shadow:
-    inset 0 1px 0 rgb(255 255 255 / 65%),
-    inset 0 -1px 0 rgb(32 45 54 / 12%);
-  clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 100%, 0 100%);
-}
-
-.link:hover,
-.link:focus-visible {
-  filter: drop-shadow(0 3px 3px rgb(32 45 54 / 12%))
-    drop-shadow(0 8px 12px rgb(32 45 54 / 8%));
-}
-
-.link:hover .background,
-.link:focus-visible .background {
-  background: #d5dee4;
-}
-
-.link:focus-visible {
-  outline-offset: -5px;
+  --navigation-padding: 0.3rem 24px 0.3rem var(--page-gutter);
+  --navigation-background-inset: 0 0 0 -8px;
 }
 
 .parties {
   margin-top: 1.1rem;
-}
-
-.parties .link {
-  color: #fff;
-}
-
-.parties .background {
-  background: var(--accent);
-}
-
-.parties .link:hover .background,
-.parties .link:focus-visible .background {
-  background: #202d36;
-}
-
-.parties .link:focus-visible {
-  outline-color: #fff;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .link {
-    transition: filter 0.5s ease-in-out;
-  }
-
-  .background {
-    transition: background-color 0.16s ease-in-out;
-  }
 }
 
 @media (max-width: 768px) {
@@ -128,13 +64,9 @@
   }
 
   .partyColumn .link {
+    --navigation-padding: 0.3rem var(--page-gutter) 0.3rem 24px;
+    --navigation-background-inset: 0 -8px 0 0;
+    --navigation-clip: polygon(10px 0, 100% 0, 100% 100%, 0 100%);
     justify-content: flex-end;
-    padding-left: 24px;
-    padding-right: var(--page-gutter);
-  }
-
-  .partyColumn .background {
-    inset: 0 -8px 0 0;
-    clip-path: polygon(10px 0, 100% 0, 100% 100%, 0 100%);
   }
 }

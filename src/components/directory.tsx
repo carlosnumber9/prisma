@@ -1,5 +1,5 @@
 import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
-import Link from 'next/link';
+import { NavigationLink } from './navigation-link';
 import type { ReviewStatus } from '../lib/content';
 import { reviewLabel } from '../lib/presentation';
 import styles from './portal.module.css';
@@ -25,14 +25,14 @@ export function Directory({
     <ul className={columns ? styles.topicGrid : styles.directory}>
       {entries.map((entry) => (
         <li key={entry.href}>
-          <Link href={localizedPath(entry.href, locale)}>
+          <NavigationLink href={localizedPath(entry.href, locale)}>
             <span className={styles.entryTitle}>{entry.label}</span>
             {entry.status && (
               <span className={styles.entryStatus}>
                 {reviewLabel(entry.status, locale)}
               </span>
             )}
-          </Link>
+          </NavigationLink>
         </li>
       ))}
     </ul>

@@ -7,6 +7,7 @@ import ts from 'typescript';
 // and replace CSS imports with class names; no browser or app server is needed.
 registerHooks({
   resolve(specifier, context, nextResolve) {
+    if (specifier === 'next/link') return nextResolve('next/link.js', context);
     if (specifier.startsWith('.') && context.parentURL) {
       const url = new URL(specifier, context.parentURL);
       for (const extension of ['.ts', '.tsx']) {

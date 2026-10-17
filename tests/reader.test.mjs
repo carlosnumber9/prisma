@@ -8,7 +8,44 @@ import {
   createContentRepository,
   readPublicContent,
 } from '../src/lib/content.ts';
+import { dictionaries, locales } from '../src/lib/i18n.ts';
+import { reviewLabel } from '../src/lib/presentation.ts';
 const { SynthesisReader } = await import('../src/components/synthesis.tsx');
+const { Directory } = await import('../src/components/directory.tsx');
+
+test('directory buttons retain localized destinations, review states and empty-catalogue messages in both layouts', () => {
+  const statuses = ['pending', 'partial', 'complete'];
+  for (const locale of locales) {
+    for (const columns of [false, true]) {
+      const html = renderToStaticMarkup(
+        createElement(Directory, {
+          locale,
+          columns,
+          entries: statuses.map((status) => ({
+            label: `Synthetic ${status}`,
+            href: `/parties/fixture/${status}`,
+            status,
+          })),
+        }),
+      );
+      const anchors = [...html.matchAll(/<a\b[^>]*>[\s\S]*?<\/a>/g)];
+      assert.equal(anchors.length, statuses.length);
+      for (const [index, status] of statuses.entries()) {
+        const anchor = anchors[index][0];
+        assert.ok(
+          anchor.includes(`href="/${locale}/parties/fixture/${status}"`),
+        );
+        assert.ok(anchor.includes(`Synthetic ${status}`));
+        assert.ok(anchor.includes(reviewLabel(status, locale)));
+      }
+      const empty = renderToStaticMarkup(
+        createElement(Directory, { locale, columns, entries: [] }),
+      );
+      assert.ok(empty.includes(dictionaries[locale].emptyCatalogue));
+      assert.ok(!empty.includes('<a'));
+    }
+  }
+});
 
 function fixture(status, empty = false) {
   const reviewed = status !== 'pending';

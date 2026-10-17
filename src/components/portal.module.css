@@ -172,31 +172,16 @@
   padding: 0;
 }
 .directory {
+  display: grid;
+  gap: 0.85rem;
   max-width: 760px;
 }
-.directory li {
-  border-bottom: 1px solid #c7cdd1;
-}
-.directory a,
-.topicGrid a {
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  padding: 1.2rem 0;
-  text-decoration: none;
-  height: 100%;
-}
 .entryTitle {
-  font-size: 1.1rem;
   font-weight: 650;
-}
-.directory a:hover .entryTitle,
-.topicGrid a:hover .entryTitle {
-  text-decoration: underline;
-  text-decoration-color: var(--accent);
 }
 .entryStatus {
   font-size: 0.875rem;
+  font-weight: 400;
   line-height: 1.5;
   color: #48555f;
 }
@@ -204,15 +189,6 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.85rem;
-}
-.topicGrid a {
-  padding: 1.3rem 1.4rem;
-  background: #fff;
-  border: 1px solid #c7cdd1;
-  border-radius: 4px;
-}
-.topicGrid a:hover {
-  border-color: var(--accent);
 }
 .officialWebsite {
   margin-block: 0 2.5rem;
