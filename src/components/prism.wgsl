@@ -25,6 +25,8 @@ const GLASS_IOR = 1.645;
 const GLASS_REFLECTION_GAIN = 2.7;
 const GLASS_ABSORPTION = vec3f(0.025, 0.012, 0.006);
 const GLASS_BEVEL_RADIUS = 0.028;
+const INTERIOR_FLAG_RED = vec3f(0.84, 0.025, 0.075);
+const INTERIOR_FLAG_YELLOW = vec3f(1.0, 0.78, 0.015);
 const NORMALS = array<vec3f, 5>(
   vec3f(0.861934, 0.507020, 0.0),
   vec3f(-0.861934, 0.507020, 0.0),
@@ -224,7 +226,7 @@ fn internalLight(background: vec3f, origin: vec3f, direction: vec3f, length: f32
   let body = opticalDepth(origin, direction, interval, ENTRY, path.exit, radius);
   let halo = opticalDepth(origin, direction, interval, ENTRY, path.exit, radius * 2.0);
 
-  // One continuous volume carries a transverse spectrum, without separate paths.
+  // One continuous volume carries red-yellow-red bands in a 1:2:1 ratio.
   let relative = origin - ENTRY;
   let along = dot(direction, path.direction);
   let centre = (along * dot(relative, path.direction) - dot(relative, direction))
@@ -232,10 +234,9 @@ fn internalLight(background: vec3f, origin: vec3f, direction: vec3f, length: f32
   let closest = origin + direction * clamp(centre, 0.0, length);
   let bandUp = normalize(cross(vec3f(0.0, 0.0, 1.0), path.direction));
   let across = dot(closest - ENTRY, bandUp) / radius;
-  let wavelength = clamp(0.5 - across * 0.5, 0.0, 1.0);
-  let hue = wavelength * 0.79;
-  let rainbow = clamp(abs(fract(vec3f(hue) + vec3f(0.0, 0.666667, 0.333333)) * 6.0 - 3.0) - 1.0, vec3f(0.0), vec3f(1.0));
-  let tint = mix(vec3f(1.0), rainbow, 0.92);
+  let redBand = smoothstep(0.46, 0.54, abs(across));
+  let flagColor = mix(INTERIOR_FLAG_YELLOW, INTERIOR_FLAG_RED, redBand);
+  let tint = mix(vec3f(1.0), flagColor, 0.92);
   let color = mix(background, tint, 1.0 - exp(-body * 2.6 - halo * 0.08));
   return mix(color, vec3f(1.0), (1.0 - exp(-body)) * 0.10);
 }
