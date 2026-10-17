@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
 import { LanguageSelect } from './language-select';
 import type { CSSProperties, ReactNode } from 'react';
@@ -77,8 +78,15 @@ export function Shell({
         {children}
       </main>
       <footer className={styles.footer}>
-        <p>{m.footer}</p>
-        <p>{m.catalogueNote}</p>
+        <p>© 2026 Carlos Pinedo Sánchez</p>
+        <a
+          className={styles.repositoryLink}
+          href="https://github.com/carlosnumber9/prisma"
+          aria-label={m.repositoryLink}
+          title={m.repositoryLink}
+        >
+          <Image src="/github-mark.svg" alt="" width={49} height={48} />
+        </a>
       </footer>
     </div>
   );
