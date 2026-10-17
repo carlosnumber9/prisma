@@ -18,6 +18,10 @@ The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initia
 
 ## Delivery 3 — Accessible Next portal: implemented; browser verification pending
 
+Navbar selection now uses a transparent 1-pixel parallelogram outline instead of an underline. It slides horizontally and adapts its width over 280 milliseconds when client navigation changes section, preserving the last visible position across shell remounts. Home has no outline; reduced motion switches immediately. Localized links, current-section semantics, keyboard focus and the language selector remain available. Browser animation and responsive verification remain pending.
+
+Breadcrumbs now present each item inside a div with parallel 10-pixel slants on both sides, separated by a 10-pixel diagonal cut and no text separators to resemble one strip cut into pieces. They reuse the navigation buttons' neutral fill and soft depth, highlight the current page with the section accent, and retain upright labels, localized links, ordered navigation, keyboard focus, reduced-motion support and mobile wrapping. Browser verification remains pending.
+
 All six localized homepages use the exact browser tab title `prisma`; interior page titles retain their existing localized format.
 
 The shared footer now shows Carlos Pinedo Sánchez's 2026 copyright and a locally bundled official GitHub icon linking to the project repository. The icon link has an accessible label in all six locales. The limited-catalogue notice has been removed from the interface in all six languages. The GitHub icon scales subtly on hover over 0.16 seconds, matching home links, with no container background and no animation under reduced motion. Browser verification of this footer change remains pending.

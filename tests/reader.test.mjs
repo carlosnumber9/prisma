@@ -12,6 +12,31 @@ import { dictionaries, locales } from '../src/lib/i18n.ts';
 import { reviewLabel } from '../src/lib/presentation.ts';
 const { SynthesisReader } = await import('../src/components/synthesis.tsx');
 const { Directory } = await import('../src/components/directory.tsx');
+const { HeaderNavigation } =
+  await import('../src/components/header-navigation.tsx');
+
+test('navbar marks only its selected section and omits the outline on home in every locale', () => {
+  for (const locale of locales) {
+    for (const section of [undefined, 'parties', 'topics']) {
+      const html = renderToStaticMarkup(
+        createElement(HeaderNavigation, { locale, section }),
+      );
+      const anchors = [...html.matchAll(/<a\b[^>]*>[\s\S]*?<\/a>/g)];
+      assert.equal(anchors.length, 2);
+      for (const [index, item] of ['parties', 'topics'].entries()) {
+        const anchor = anchors[index][0];
+        assert.ok(anchor.includes(`href="/${locale}/${item}"`));
+        assert.ok(anchor.includes(dictionaries[locale][item]));
+        assert.equal(anchor.includes('aria-current="true"'), section === item);
+      }
+      assert.equal(
+        (html.match(/class="indicator" aria-hidden="true"/g) ?? []).length,
+        section ? 1 : 0,
+      );
+      assert.ok(html.includes(dictionaries[locale].language));
+    }
+  }
+});
 
 test('directory buttons retain localized destinations, review states and empty-catalogue messages in both layouts', () => {
   const statuses = ['pending', 'partial', 'complete'];

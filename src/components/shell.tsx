@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
-import { LanguageSelect } from './language-select';
+import { HeaderNavigation } from './header-navigation';
 import type { CSSProperties, ReactNode } from 'react';
 import { partyAccent } from '../lib/themes';
 import styles from './portal.module.css';
@@ -40,36 +40,26 @@ export function Shell({
         >
           prisma<span aria-hidden="true">.</span>
         </Link>
-        <nav aria-label={m.nav}>
-          <Link
-            href={path('/parties')}
-            aria-current={section === 'parties' ? 'true' : undefined}
-          >
-            {m.parties}
-          </Link>
-          <Link
-            href={path('/topics')}
-            aria-current={section === 'topics' ? 'true' : undefined}
-          >
-            {m.topics}
-          </Link>
-          <LanguageSelect locale={locale} label={m.language} />
-        </nav>
+        <HeaderNavigation locale={locale} section={section} />
       </header>
       <main id="main-content" className={styles.main} tabIndex={-1}>
         {crumbs.length > 0 && (
           <nav aria-label={m.breadcrumbs} className={styles.breadcrumbs}>
             <ol>
               <li>
-                <Link href={path('/')}>{m.home}</Link>
+                <div className={styles.breadcrumbPiece}>
+                  <Link href={path('/')}>{m.home}</Link>
+                </div>
               </li>
               {crumbs.map((crumb, index) => (
                 <li key={index}>
-                  {crumb.href ? (
-                    <Link href={path(crumb.href)}>{crumb.label}</Link>
-                  ) : (
-                    <span aria-current="page">{crumb.label}</span>
-                  )}
+                  <div className={styles.breadcrumbPiece}>
+                    {crumb.href ? (
+                      <Link href={path(crumb.href)}>{crumb.label}</Link>
+                    ) : (
+                      <span aria-current="page">{crumb.label}</span>
+                    )}
+                  </div>
                 </li>
               ))}
             </ol>
