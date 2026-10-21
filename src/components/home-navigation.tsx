@@ -106,7 +106,7 @@ export function HomeNavigation({
                   {
                     horizontal: 1,
                     duration: 0.45,
-                    ease: 'power2.out',
+                    ease: reveal.ease,
                     onUpdate: reveal.draw,
                   },
                   start + 0.2,

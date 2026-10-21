@@ -29,6 +29,7 @@ export function ribbonRevealGeometry({
     path: `M ${x(startX)} ${startY} L ${x(foldX)} ${centerY} L ${x(endX)} ${centerY}`,
     length: lateralLength + horizontalLength,
     horizontalLength,
+    visibleLength: width - foldX,
     strokeWidth,
     bounds: {
       x: -strokeWidth,
@@ -37,4 +38,29 @@ export function ribbonRevealGeometry({
       height: height + foldRise + strokeWidth * 2,
     },
   };
+}
+
+export function ribbonRevealEase(
+  time: number,
+  geometry: ReturnType<typeof ribbonRevealGeometry>,
+) {
+  const progress = 1 - (1 - time) ** 3;
+  const tip = geometry.visibleLength / geometry.horizontalLength;
+  const brakeSpan = Math.min(
+    8 / geometry.horizontalLength,
+    tip / 2,
+    (1 - tip) / 2,
+  );
+  const brakeStart = tip - brakeSpan;
+  const brakeEnd = tip + brakeSpan;
+  if (progress <= brakeStart) return progress;
+
+  if (progress < brakeEnd) {
+    const local = (progress - brakeStart) / (2 * brakeSpan);
+    return brakeStart + brakeSpan * local * (2 - local);
+  }
+
+  // Resume only beyond the visible tip to finish the original shadow extension.
+  const tail = (progress - brakeEnd) / (1 - brakeEnd);
+  return tip + (1 - tip) * tail ** 2 * (3 - 2 * tail);
 }

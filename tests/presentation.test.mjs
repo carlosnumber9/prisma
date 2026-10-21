@@ -20,7 +20,52 @@ import {
   sitemapEntries,
 } from '../src/lib/seo.ts';
 import { NEUTRAL_ACCENT, partyAccent } from '../src/lib/themes.ts';
-import { ribbonRevealGeometry } from '../src/lib/ribbon-reveal.ts';
+import {
+  ribbonRevealEase,
+  ribbonRevealGeometry,
+} from '../src/lib/ribbon-reveal.ts';
+
+test('ribbon reveal preserves the original speed until the final eight visible pixels', () => {
+  for (const [width, height, foldWidth] of [
+    [390, 44, 40],
+    [210, 44, 20],
+    [180, 76, 20],
+    [563, 44, 40],
+  ]) {
+    const geometry = ribbonRevealGeometry({
+      width,
+      height,
+      foldWidth,
+      foldRise: 12,
+      mirrored: false,
+    });
+    const ease = (time) => ribbonRevealEase(time, geometry);
+    const original = (time) => 1 - (1 - time) ** 3;
+    const tip = geometry.visibleLength / geometry.horizontalLength;
+    const brakeStart = (geometry.visibleLength - 8) / geometry.horizontalLength;
+    const brakeTime = 1 - Math.cbrt(1 - brakeStart);
+    for (let frame = 0; frame < 100; frame++) {
+      const time = (brakeTime * frame) / 100;
+      assert.equal(ease(time), original(time));
+    }
+    const originalTipTime = 1 - Math.cbrt(1 - tip);
+    const newTipTime = 1 - Math.cbrt(1 - tip - 8 / geometry.horizontalLength);
+    assert.ok(Math.abs(ease(newTipTime) - tip) < 1e-9);
+    assert.ok((newTipTime - originalTipTime) * 450 < 15);
+    const step = 0.00001;
+    const speed = (time) => (ease(time + step) - ease(time)) / step;
+    assert.ok(Math.abs(speed(brakeTime - step) - speed(brakeTime)) < 0.01);
+    assert.ok(Math.abs(speed(newTipTime)) < 0.01);
+    assert.equal(ease(0), 0);
+    assert.equal(ease(1), 1);
+    let previous = 0;
+    for (let frame = 0; frame <= 1000; frame++) {
+      const value = ease(frame / 1000);
+      assert.ok(value >= previous && value <= 1);
+      previous = value;
+    }
+  }
+});
 
 test('ribbon reveal follows the raised lateral plane before the horizontal face', () => {
   for (const [width, height, foldWidth] of [

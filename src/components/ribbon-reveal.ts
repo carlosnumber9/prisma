@@ -1,4 +1,4 @@
-import { ribbonRevealGeometry } from '../lib/ribbon-reveal';
+import { ribbonRevealEase, ribbonRevealGeometry } from '../lib/ribbon-reveal';
 
 export function createRibbonReveal(
   definitions: SVGSVGElement,
@@ -50,5 +50,11 @@ export function createRibbonReveal(
   };
   refresh();
 
-  return { progress, draw, refresh, remove: () => mask.remove() };
+  return {
+    progress,
+    draw,
+    refresh,
+    ease: (time: number) => ribbonRevealEase(time, geometry),
+    remove: () => mask.remove(),
+  };
 }
