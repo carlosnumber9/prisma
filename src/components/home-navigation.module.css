@@ -29,30 +29,27 @@
 
 .link {
   --navigation-fold-width: clamp(20px, 3vw, 40px);
+  --navigation-fold-rise: 12px;
   --navigation-fold-direction: to right;
   --navigation-outer-padding: max(
     var(--page-gutter),
     calc(var(--navigation-fold-width) + 4px)
   );
   --navigation-padding: 0.3rem 24px 0.3rem var(--navigation-outer-padding);
-  --navigation-background-inset: 0 0 0 -8px;
+  --navigation-background-inset: calc(-1 * var(--navigation-fold-rise)) 0 0 -8px;
   --navigation-clip: polygon(
-    0 7px,
-    var(--navigation-fold-width) 0,
-    calc(100% - 10px) 0,
+    0 0,
+    var(--navigation-fold-width) var(--navigation-fold-rise),
+    calc(100% - 10px) var(--navigation-fold-rise),
     100% 100%,
     var(--navigation-fold-width) 100%,
-    0 calc(100% - 7px)
+    0 calc(100% - var(--navigation-fold-rise))
   );
   --navigation-fold-shading: linear-gradient(
     var(--navigation-fold-direction),
     rgb(32 45 54 / 24%),
-    rgb(32 45 54 / 10%) calc(var(--navigation-fold-width) - 1px),
-    rgb(32 45 54 / 28%) calc(var(--navigation-fold-width) - 1px),
-    rgb(32 45 54 / 28%) var(--navigation-fold-width),
-    rgb(255 255 255 / 65%) var(--navigation-fold-width),
-    rgb(255 255 255 / 65%) calc(var(--navigation-fold-width) + 1px),
-    transparent calc(var(--navigation-fold-width) + 3px)
+    rgb(32 45 54 / 10%) var(--navigation-fold-width),
+    transparent var(--navigation-fold-width)
   );
 }
 
@@ -89,13 +86,14 @@
 
   .partyColumn .link {
     --navigation-padding: 0.3rem var(--navigation-outer-padding) 0.3rem 24px;
-    --navigation-background-inset: 0 -8px 0 0;
+    --navigation-background-inset: calc(-1 * var(--navigation-fold-rise)) -8px 0
+      0;
     --navigation-fold-direction: to left;
     --navigation-clip: polygon(
-      10px 0,
-      calc(100% - var(--navigation-fold-width)) 0,
-      100% 7px,
-      100% calc(100% - 7px),
+      10px var(--navigation-fold-rise),
+      calc(100% - var(--navigation-fold-width)) var(--navigation-fold-rise),
+      100% 0,
+      100% calc(100% - var(--navigation-fold-rise)),
       calc(100% - var(--navigation-fold-width)) 100%,
       0 100%
     );
