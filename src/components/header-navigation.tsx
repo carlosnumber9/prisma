@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { gsap } from 'gsap';
 import {
   useEffect,
   useId,
@@ -51,6 +52,8 @@ export function HeaderNavigation({
   const panelId = useId();
   const rootRef = useRef<HTMLElement>(null);
   const toggleRef = useRef<HTMLButtonElement>(null);
+  const panelSurfaceRef = useRef<HTMLDivElement>(null);
+  const panelContentRef = useRef<HTMLDivElement>(null);
   const navigationRef = useRef<HTMLUListElement>(null);
   const indicatorRef = useRef<HTMLDivElement>(null);
   const transitionRef = useRef<{
@@ -58,6 +61,48 @@ export function HeaderNavigation({
     section?: Section;
     previous?: Selection;
   } | null>(null);
+
+  useLayoutEffect(() => {
+    const surface = panelSurfaceRef.current;
+    const content = panelContentRef.current;
+    if (!mobile || !surface || !content) return;
+
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    let tween: gsap.core.Tween | undefined;
+    let targetHeight: number | undefined;
+    const fitHeight = (animate = true) => {
+      const next = content.getBoundingClientRect().height;
+      if (next <= 0) return;
+      if (next === targetHeight && animate) return;
+      targetHeight = next;
+      tween?.kill();
+      tween = gsap.to(surface, {
+        height: next,
+        duration: animate && !reducedMotion.matches ? 0.2 : 0,
+        ease: 'power1.inOut',
+        overwrite: true,
+      });
+    };
+    const resize = () => fitHeight();
+    const settle = () => fitHeight(false);
+    fitHeight(false);
+    const observer =
+      typeof ResizeObserver === 'undefined'
+        ? undefined
+        : new ResizeObserver(resize);
+    observer?.observe(content);
+    window.addEventListener('resize', resize);
+    document.fonts.addEventListener('loadingdone', resize);
+    reducedMotion.addEventListener('change', settle);
+    return () => {
+      observer?.disconnect();
+      window.removeEventListener('resize', resize);
+      document.fonts.removeEventListener('loadingdone', resize);
+      reducedMotion.removeEventListener('change', settle);
+      tween?.kill();
+      surface.style.removeProperty('height');
+    };
+  }, [mobile]);
 
   useEffect(() => {
     const mobile = window.matchMedia('(max-width: 768px)');
@@ -193,27 +238,34 @@ export function HeaderNavigation({
         data-open={menuOpen}
         inert={mobile && !menuOpen}
       >
-        <ul className={styles.sections} ref={navigationRef}>
-          {(['parties', 'topics'] as const).map((item) => (
-            <li className={styles.item} key={item} data-section={item}>
-              <Link
-                href={localizedPath(`/${item}`, locale)}
-                aria-current={section === item ? 'true' : undefined}
-                onClick={() => setMenuOpen(false)}
-              >
-                {m[item]}
-              </Link>
-              {section === item && (
-                <div
-                  ref={indicatorRef}
-                  className={styles.indicator}
-                  aria-hidden="true"
-                />
-              )}
-            </li>
-          ))}
-        </ul>
-        <LanguageSelect locale={locale} label={m.language} />
+        <div
+          ref={panelSurfaceRef}
+          className={styles.panelSurface}
+          aria-hidden="true"
+        />
+        <div className={styles.panelContent} ref={panelContentRef}>
+          <ul className={styles.sections} ref={navigationRef}>
+            {(['parties', 'topics'] as const).map((item) => (
+              <li className={styles.item} key={item} data-section={item}>
+                <Link
+                  href={localizedPath(`/${item}`, locale)}
+                  aria-current={section === item ? 'true' : undefined}
+                  onClick={() => setMenuOpen(false)}
+                >
+                  {m[item]}
+                </Link>
+                {section === item && (
+                  <div
+                    ref={indicatorRef}
+                    className={styles.indicator}
+                    aria-hidden="true"
+                  />
+                )}
+              </li>
+            ))}
+          </ul>
+          <LanguageSelect locale={locale} label={m.language} />
+        </div>
       </div>
     </nav>
   );

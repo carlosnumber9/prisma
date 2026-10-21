@@ -40,7 +40,9 @@ test('navbar retains section selection and a collapsed disclosure with all links
       const panelId = toggle.match(/aria-controls="([^"]+)"/)?.[1];
       assert.ok(panelId);
       const panel = html.slice(html.indexOf(`<div id="${panelId}"`));
-      assert.match(panel, /^<div[^>]*data-open="false"><ul/);
+      assert.match(panel, /^<div[^>]*data-open="false">/);
+      assert.ok(panel.includes('class="panelSurface" aria-hidden="true"'));
+      assert.ok(panel.includes('class="panelContent"><ul'));
       const sections = panel.match(
         /<ul class="sections"[^>]*>[\s\S]*?<\/ul>/,
       )?.[0];
