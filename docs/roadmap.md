@@ -16,6 +16,12 @@ Incorporate the first official 2026 programme using `document-program`. Verify o
 
 The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initial catalogue; see [catalogue provenance](catalogue-provenance.md). Revisit public coverage once official candidatures provide enough information. Distinguish formations and coalitions from constituency candidatures and shared programmes; do not silently equate the portal with all candidates.
 
+## Political reference documentation — skill implemented; corpus and app integration pending
+
+The repository now includes [`document-political-info`](../.agents/skills/document-political-info/SKILL.md) and a separate reference JSON contract. It accepts consumable user material or researches official sources directly, verifies claims online, preserves dated evidence and saves only explicitly accepted facts. The contract distinguishes formations, people, elections, institutions, territories and ordered constituency candidatures, with partial coverage and stable references. It is not limited to the programme pipeline's configured election.
+
+No real political-reference batch has been incorporated. Dedicated schema validation, deterministic generation if needed, app imports, public presentation and geographic matching remain future implementation. The existing programme generator and portal still consume only their four schema-v3 files. Creating this skill does not establish nationwide electoral coverage or approve any political facts.
+
 ## Delivery 3 — Accessible Next portal: implemented; browser verification pending
 
 All shared portal shells now trial travelling halftone regions over the existing light backgrounds. Two curved wave families grow and shrink points on a fixed grid, making previously empty regions visible and letting earlier crests disappear across the whole document. The original colour, 0.24 opacity and maximum point radius are preserved. A viewport-sized Canvas 2D layer replaces the static SVG only after drawing successfully; reduced motion and unavailable rendering retain that original fallback. Rendering is capped at 24 fps and DPR 1.5, pauses while the document is hidden and cleans up on unmount. Deterministic field tests and standalone time-separated renders cover region movement; browser verification of the complete composition and device performance remains pending. See [background tuning](portal.md#shared-halftone-background).

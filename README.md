@@ -44,8 +44,9 @@ npm run build
 
 - [`document-program`](.agents/skills/document-program/SKILL.md): preserve an official 2026 source, extract it, debate summaries and publish an agreed editorial batch. Example: `Use $document-program to incorporate this official 2026 programme: [URL]`.
 - [`triage-suggestion`](.agents/skills/triage-suggestion/SKILL.md): review a user-supplied suggestion and agree on a correction, a tracking issue or a reasoned dismissal. Example: `Use $triage-suggestion to review this suggestion: [anonymised text]`.
+- [`document-political-info`](.agents/skills/document-political-info/SKILL.md): verify supplied political reference material online or research official sources directly, then save an explicitly accepted JSON batch covering formations, politicians and constituency candidatures. Example: `Use $document-political-info to research the official candidatures of [formation] for [election and chamber] in [constituencies]`.
 
-Both skills share the [editorial policy](docs/editorial-policy.md), [content contract](docs/content-contract.md) and [Git publication workflow](docs/git-workflow.md). They do not read mail automatically or generate text during page loads.
+The programme and triage skills share the [editorial policy](docs/editorial-policy.md), [content contract](docs/content-contract.md) and [Git publication workflow](docs/git-workflow.md). Political reference research follows the same provenance and agreement principles with its own [data contract](.agents/skills/document-political-info/references/data-contract.md): evidence and reviews are separate from accepted files in `content/political-info/approved`. No political-reference records, dedicated validator/generator or portal consumer are implemented yet. These skills do not read mail automatically or generate text during page loads.
 
 ```sh
 npm run content:generate

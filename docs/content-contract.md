@@ -2,6 +2,8 @@
 
 Use Node.js 24.x. The generator uses standard libraries only: it does not fetch sources, parse originals, call models or redact prose.
 
+This contract covers programme summaries and their catalogues. Political reference information about formations, people and constituency candidatures uses the separate [political reference contract](../.agents/skills/document-political-info/references/data-contract.md) under `content/political-info`. The generator does not validate, generate or expose that tree; do not add its fields to the existing programme JSON.
+
 ## Layout and ownership
 
 ```text
