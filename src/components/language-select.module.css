@@ -50,7 +50,8 @@
 .options {
   position: absolute;
   top: calc(100% + 0.35rem);
-  right: 0;
+  left: 50%;
+  transform: translateX(-50%);
   z-index: 3;
   width: max-content;
   min-width: 100%;
@@ -125,6 +126,8 @@
 @media (max-width: 768px) {
   .options {
     position: static;
+    left: auto;
+    transform: none;
     width: 100%;
     min-width: 0;
     max-height: none;

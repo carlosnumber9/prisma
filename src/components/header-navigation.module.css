@@ -1,5 +1,6 @@
 .navigation {
   margin-left: auto;
+  margin-inline-end: 2.5rem;
 }
 .panel {
   display: flex;
@@ -51,6 +52,7 @@
   .navigation {
     position: relative;
     z-index: 2;
+    margin-inline-end: 0;
   }
   .toggle {
     display: flex;
