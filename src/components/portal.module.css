@@ -451,10 +451,3 @@
   outline: 3px solid #202d36;
   outline-offset: 3px;
 }
-@media (max-width: 640px) {
-  .header {
-    flex-wrap: wrap;
-    gap: 0.5rem 1rem;
-    padding-block: 0.75rem;
-  }
-}

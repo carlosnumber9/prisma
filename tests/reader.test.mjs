@@ -15,7 +15,7 @@ const { Directory } = await import('../src/components/directory.tsx');
 const { HeaderNavigation } =
   await import('../src/components/header-navigation.tsx');
 
-test('navbar marks only its selected section and omits the outline on home in every locale', () => {
+test('navbar retains section selection and a collapsed disclosure with all links and languages in every locale', () => {
   for (const locale of locales) {
     for (const section of [undefined, 'parties', 'topics']) {
       const html = renderToStaticMarkup(
@@ -34,6 +34,20 @@ test('navbar marks only its selected section and omits the outline on home in ev
         section ? 1 : 0,
       );
       assert.ok(html.includes(dictionaries[locale].language));
+      const toggle = html.match(/<button\b[^>]*>/)?.[0];
+      assert.ok(toggle?.includes(`aria-label="${dictionaries[locale].nav}"`));
+      assert.ok(toggle.includes('aria-expanded="false"'));
+      const panelId = toggle.match(/aria-controls="([^"]+)"/)?.[1];
+      assert.ok(panelId);
+      const panel = html.slice(html.indexOf(`<div id="${panelId}"`));
+      assert.match(panel, /^<div[^>]*data-open="false"><ul/);
+      const sections = panel.match(
+        /<ul class="sections"[^>]*>[\s\S]*?<\/ul>/,
+      )?.[0];
+      assert.equal((sections?.match(/<li\b/g) ?? []).length, 2);
+      assert.equal((panel.match(/<select\b/g) ?? []).length, 1);
+      assert.equal((panel.match(/<option\b/g) ?? []).length, 6);
+      assert.match(panel, new RegExp(`value="${locale}"[^>]*selected=""`));
     }
   }
 });
