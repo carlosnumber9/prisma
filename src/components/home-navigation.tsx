@@ -2,11 +2,12 @@
 
 import Link from 'next/link';
 import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
-import { useLayoutEffect, useRef } from 'react';
+import { useId, useLayoutEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import type { DirectoryEntry } from './directory';
 import { NavigationLink } from './navigation-link';
+import { createRibbonReveal } from './ribbon-reveal';
 import styles from './home-navigation.module.css';
 
 export function HomeNavigation({
@@ -20,10 +21,13 @@ export function HomeNavigation({
 }) {
   const m = dictionaries[locale];
   const navigationRef = useRef<HTMLDivElement>(null);
+  const definitionsRef = useRef<SVGSVGElement>(null);
+  const revealId = useId();
 
   useLayoutEffect(() => {
     const navigation = navigationRef.current;
-    if (!navigation) return;
+    const definitions = definitionsRef.current;
+    if (!navigation || !definitions) return;
 
     gsap.registerPlugin(ScrollTrigger);
     const media = gsap.matchMedia();
@@ -36,6 +40,7 @@ export function HomeNavigation({
         if (!context.conditions?.motion) return;
         const wide = context.conditions.wide;
         const cleanups: (() => void)[] = [];
+        let maskIndex = 0;
         navigation
           .querySelectorAll<HTMLElement>('[data-navigation-column]')
           .forEach((section) => {
@@ -53,24 +58,73 @@ export function HomeNavigation({
               },
             });
 
-            timeline
-              .from(heading, {
-                opacity: 0,
-                duration: 0.18,
-                clearProps: 'opacity',
-              })
-              .from(
-                items,
-                {
-                  xPercent: mirrored ? 100 : -100,
-                  opacity: 0,
-                  duration: 0.45,
-                  stagger: 0.07,
-                  ease: 'power3.out',
-                  clearProps: 'transform,opacity',
-                },
-                0.06,
+            timeline.from(heading, {
+              opacity: 0,
+              duration: 0.18,
+              clearProps: 'opacity',
+            });
+
+            const reveals = items.map((item, index) => {
+              const link = item.querySelector<HTMLAnchorElement>('a');
+              if (!link) return null;
+              const id = `${revealId}-ribbon-${maskIndex++}`;
+              const reveal = createRibbonReveal(
+                definitions,
+                link,
+                id,
+                mirrored,
               );
+              const masking = {
+                maskImage: `url("#${id}")`,
+                pointerEvents: 'none',
+              };
+              const start = 0.06 + index * 0.07;
+              timeline
+                .fromTo(
+                  item,
+                  masking,
+                  {
+                    ...masking,
+                    duration: start + 0.65,
+                    clearProps: 'maskImage,pointerEvents',
+                    ease: 'none',
+                  },
+                  0,
+                )
+                .to(
+                  reveal.progress,
+                  {
+                    lateral: 1,
+                    duration: 0.2,
+                    ease: 'power1.in',
+                    onUpdate: reveal.draw,
+                  },
+                  start,
+                )
+                .to(
+                  reveal.progress,
+                  {
+                    horizontal: 1,
+                    duration: 0.45,
+                    ease: 'power2.out',
+                    onUpdate: reveal.draw,
+                  },
+                  start + 0.2,
+                );
+              cleanups.push(reveal.remove);
+              return { link, refresh: reveal.refresh };
+            });
+
+            // Keep the same draw progress when resizing or font loading changes the path.
+            const observer = new ResizeObserver(() => {
+              if (timeline.progress() === 1) return;
+              reveals.forEach((reveal) => reveal?.refresh());
+            });
+            reveals.forEach((reveal) => {
+              if (reveal) observer.observe(reveal.link);
+            });
+            observer.observe(definitions);
+            cleanups.push(() => observer.disconnect());
 
             // Keyboard navigation must never wait for the scroll reveal.
             const revealOnFocus = () => timeline.progress(1);
@@ -106,10 +160,16 @@ export function HomeNavigation({
     );
 
     return () => media.revert();
-  }, []);
+  }, [revealId]);
 
   return (
     <div ref={navigationRef} className={styles.navigation}>
+      <svg
+        ref={definitionsRef}
+        className={styles.revealDefinitions}
+        aria-hidden="true"
+        focusable="false"
+      />
       <section aria-labelledby="topics-heading" data-navigation-column="left">
         <h2 id="topics-heading" className={styles.heading}>
           <Link href={localizedPath('/topics', locale)}>{m.byTopic}</Link>

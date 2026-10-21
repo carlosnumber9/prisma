@@ -20,6 +20,59 @@ import {
   sitemapEntries,
 } from '../src/lib/seo.ts';
 import { NEUTRAL_ACCENT, partyAccent } from '../src/lib/themes.ts';
+import { ribbonRevealGeometry } from '../src/lib/ribbon-reveal.ts';
+
+test('ribbon reveal follows the raised lateral plane before the horizontal face', () => {
+  for (const [width, height, foldWidth] of [
+    [390, 44, 40],
+    [210, 44, 20],
+    [180, 76, 20],
+  ]) {
+    const geometry = ribbonRevealGeometry({
+      width,
+      height,
+      foldWidth,
+      foldRise: 12,
+      mirrored: false,
+    });
+    const [startX, startY, foldX, foldY, endX, endY] = geometry.path
+      .match(/-?\d+(?:\.\d+)?/g)
+      .map(Number);
+    const slope = 12 / foldWidth;
+    const leadingReach =
+      (geometry.strokeWidth / 2) * (slope / Math.hypot(1, slope));
+    assert.ok(startX + leadingReach <= -8);
+    assert.equal(foldX, foldWidth - 8);
+    assert.equal(foldY, height / 2);
+    assert.equal(endY, foldY);
+    assert.ok(endX - geometry.strokeWidth / 2 > width);
+    assert.ok(
+      Math.abs((foldY - startY) / (foldX - startX) - 12 / foldWidth) < 1e-9,
+    );
+    assert.ok(geometry.length > geometry.horizontalLength);
+    assert.ok(geometry.bounds.y < -12);
+    assert.ok(geometry.bounds.y + geometry.bounds.height > height);
+  }
+});
+
+test('right ribbon reveal mirrors the complete path while preserving its timing distances', () => {
+  const dimensions = { width: 420, height: 44, foldWidth: 40, foldRise: 12 };
+  const left = ribbonRevealGeometry({ ...dimensions, mirrored: false });
+  const right = ribbonRevealGeometry({ ...dimensions, mirrored: true });
+  const coordinates = (geometry) =>
+    geometry.path.match(/-?\d+(?:\.\d+)?/g).map(Number);
+  const leftPoints = coordinates(left);
+  const rightPoints = coordinates(right);
+  leftPoints.forEach((value, index) => {
+    assert.equal(
+      rightPoints[index],
+      index % 2 ? value : dimensions.width - value,
+    );
+  });
+  assert.equal(right.length, left.length);
+  assert.equal(right.horizontalLength, left.horizontalLength);
+  assert.deepEqual(right.bounds, left.bounds);
+});
 
 function dataset(status = 'pending', points = []) {
   const envelope = (key, items) => ({

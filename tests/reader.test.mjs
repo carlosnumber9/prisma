@@ -14,6 +14,29 @@ const { SynthesisReader } = await import('../src/components/synthesis.tsx');
 const { Directory } = await import('../src/components/directory.tsx');
 const { HeaderNavigation } =
   await import('../src/components/header-navigation.tsx');
+const { HomeNavigation } =
+  await import('../src/components/home-navigation.tsx');
+
+test('home ribbons expose complete localized links before client animation is installed', () => {
+  for (const locale of locales) {
+    const html = renderToStaticMarkup(
+      createElement(HomeNavigation, {
+        locale,
+        topics: [{ label: 'Synthetic area', href: '/topics/fixture' }],
+        parties: [{ label: 'Synthetic party', href: '/parties/fixture' }],
+      }),
+    );
+    assert.ok(html.includes(`href="/${locale}/topics/fixture"`));
+    assert.ok(html.includes(`href="/${locale}/parties/fixture"`));
+    assert.ok(html.includes(dictionaries[locale].partyList));
+    assert.ok(html.includes('Synthetic area'));
+    assert.ok(html.includes('Synthetic party'));
+    assert.match(html, /<svg[^>]*aria-hidden="true"[^>]*focusable="false"/);
+    assert.ok(!html.includes('mask-image'));
+    assert.ok(!html.includes('pointer-events'));
+    assert.ok(!html.includes('<mask'));
+  }
+});
 
 test('navbar retains section selection and a collapsed disclosure with all links and languages in every locale', () => {
   for (const locale of locales) {

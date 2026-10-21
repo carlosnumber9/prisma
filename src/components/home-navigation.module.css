@@ -1,6 +1,15 @@
 .navigation {
   --page-gutter: max(1.5rem, calc((100vw - 1120px) / 2));
+  --navigation-fold-width: clamp(20px, 3vw, 40px);
+  --navigation-fold-rise: 12px;
   padding-block: 1rem;
+}
+
+.revealDefinitions {
+  position: absolute;
+  width: var(--navigation-fold-width);
+  height: var(--navigation-fold-rise);
+  pointer-events: none;
 }
 
 .partyColumn {
@@ -28,8 +37,6 @@
 }
 
 .link {
-  --navigation-fold-width: clamp(20px, 3vw, 40px);
-  --navigation-fold-rise: 12px;
   --navigation-fold-direction: to right;
   --navigation-outer-padding: max(
     var(--page-gutter),
