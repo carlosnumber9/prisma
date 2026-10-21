@@ -28,7 +28,8 @@
   z-index: -1;
   inset: var(--navigation-background-inset, 0);
   pointer-events: none;
-  background: #e5eaed;
+  background-color: #e5eaed;
+  background-image: var(--navigation-fold-shading, none);
   box-shadow:
     inset 0 1px 0 rgb(255 255 255 / 65%),
     inset 0 -1px 0 rgb(32 45 54 / 12%);
@@ -46,7 +47,7 @@
 
 .link:hover .background,
 .link:focus-visible .background {
-  background: #d5dee4;
+  background-color: #d5dee4;
 }
 
 .link:focus-visible {
@@ -58,12 +59,12 @@
 }
 
 .accent .background {
-  background: var(--accent);
+  background-color: var(--accent);
 }
 
 .accent:hover .background,
 .accent:focus-visible .background {
-  background: #202d36;
+  background-color: #202d36;
 }
 
 .accent:focus-visible {
