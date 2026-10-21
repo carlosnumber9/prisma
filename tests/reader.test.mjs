@@ -45,9 +45,9 @@ test('navbar retains section selection and a collapsed disclosure with all links
         /<ul class="sections"[^>]*>[\s\S]*?<\/ul>/,
       )?.[0];
       assert.equal((sections?.match(/<li\b/g) ?? []).length, 2);
-      assert.equal((panel.match(/<select\b/g) ?? []).length, 1);
-      assert.equal((panel.match(/<option\b/g) ?? []).length, 6);
-      assert.match(panel, new RegExp(`value="${locale}"[^>]*selected=""`));
+      assert.equal((panel.match(/role="listbox"/g) ?? []).length, 1);
+      assert.equal((panel.match(/role="option"/g) ?? []).length, 6);
+      assert.match(panel, new RegExp(`lang="${locale}" aria-selected="true"`));
     }
   }
 });

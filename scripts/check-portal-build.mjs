@@ -48,7 +48,19 @@ for (const path of paths) {
   const locale = path.split('/')[1];
   assert.match(html, new RegExp(`<html[^>]*lang="${locale}"`));
   assert.ok(html.includes(dictionaries[locale].language));
-  assert.equal((html.match(/<option /g) ?? []).length, locales.length);
+  const options = html.match(/<button\b[^>]*role="option"[^>]*>/g) ?? [];
+  assert.equal(options.length, locales.length);
+  assert.equal(
+    options.filter((option) => option.includes('aria-selected="true"')).length,
+    1,
+  );
+  assert.ok(
+    options.some(
+      (option) =>
+        option.includes(`lang="${locale}"`) &&
+        option.includes('aria-selected="true"'),
+    ),
+  );
   assert.match(html, /href="#main-content"/);
   assert.equal(
     (html.match(/<h1(?:\s|>)/g) ?? []).length,

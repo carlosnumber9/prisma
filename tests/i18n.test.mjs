@@ -2,6 +2,7 @@ import './rendering-loader.mjs';
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import { renderToStaticMarkup } from 'react-dom/server';
+import { createElement } from 'react';
 import {
   dictionaries,
   languageSelection,
@@ -76,50 +77,39 @@ test('language changes retain query, point anchor and stable slugs without nesti
   assert.equal(localizedPath('/', 'oc'), '/oc');
 });
 
-test('native select has an accessible label, six autonyms and the active option', (t) => {
-  const element = LanguageSelect({ locale: 'gl', label: 'Idioma' });
-  const html = renderToStaticMarkup(element);
-  assert.match(html, /<label[^>]*><span>Idioma<\/span><select/);
-  assert.equal((html.match(/<option /g) ?? []).length, 6);
-  assert.match(html, /value="gl"[^>]*selected=""/);
-  assert.ok(html.includes('Català / Valencià'));
-  const previousWindow = Object.getOwnPropertyDescriptor(globalThis, 'window');
-  const previousDocument = Object.getOwnPropertyDescriptor(
-    globalThis,
-    'document',
-  );
-  const assignments = [];
-  const document = { cookie: '' };
-  Object.defineProperty(globalThis, 'window', {
-    configurable: true,
-    value: {
-      location: {
-        href: 'https://example.org/gl/topics/housing?x=1#point',
-        assign: (url) => assignments.push(url),
-      },
-    },
-  });
-  Object.defineProperty(globalThis, 'document', {
-    configurable: true,
-    value: document,
-  });
-  t.after(() => {
-    for (const [name, descriptor] of [
-      ['window', previousWindow],
-      ['document', previousDocument],
-    ]) {
-      if (descriptor) Object.defineProperty(globalThis, name, descriptor);
-      else delete globalThis[name];
-    }
-  });
-  const select = element.props.children[1];
-  select.props.onChange({ currentTarget: { value: 'en' } });
-  assert.match(document.cookie, /^prisma-locale=en;/);
-  assert.deepEqual(assignments, [
-    'https://example.org/en/topics/housing?x=1#point',
-  ]);
-  select.props.onChange({ currentTarget: { value: 'invalid' } });
-  assert.equal(assignments.length, 1);
+test('language picker has an accessible name without a visible label and six localized options', () => {
+  for (const locale of locales) {
+    const label = dictionaries[locale].language;
+    const html = renderToStaticMarkup(
+      createElement(LanguageSelect, { locale, label }),
+    );
+    const trigger = html.match(
+      /<button[^>]*aria-haspopup="listbox"[^>]*>/,
+    )?.[0];
+    assert.ok(trigger);
+    assert.ok(trigger.includes(`aria-label="${label}: `));
+    assert.ok(trigger.includes('aria-expanded="false"'));
+    assert.ok(!html.includes(`<span>${label}</span>`));
+    assert.ok(!html.includes('<select'));
+    const listId = trigger.match(/aria-controls="([^"]+)"/)?.[1];
+    assert.ok(listId);
+    assert.ok(html.includes(`<ul id="${listId}"`));
+    assert.match(html, /role="listbox"[^>]*hidden=""/);
+    const options = html.match(/<button[^>]*role="option"[^>]*>/g) ?? [];
+    assert.equal(options.length, locales.length);
+    assert.equal(
+      options.filter((option) => option.includes('aria-selected="true"'))
+        .length,
+      1,
+    );
+    assert.ok(
+      options.some((option) =>
+        option.includes(`lang="${locale}" aria-selected="true"`),
+      ),
+    );
+    assert.ok(options.every((option) => option.includes('tabindex="-1"')));
+    assert.ok(html.includes('Català / Valencià'));
+  }
 });
 
 test('dates use translated month names and UTC even for Aranese without ICU support', () => {
