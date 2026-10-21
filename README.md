@@ -16,6 +16,8 @@ The homepage now has a local vgpu visual prototype: a glass prism splits white l
 
 The portal supports Castilian, Catalan/Valencian, Galician, Basque, Aranese and English through 336 prerendered catalogue pages. A custom navbar selector remembers manual choice for one year. It shows only the selected language, with a transparent background, a soft grey underline and a single chevron that rotates 180 degrees over 100 milliseconds when opening and reverses when closing; its six options unfold in a fast staggered card animation, completing in 100 milliseconds, and GSAP reverses the same timeline when closing. Locale URLs are authoritative; neutral entries negotiate saved choice, browser preferences and Castilian fallback before rendering. All political points require six reviewed versions together; the real corpus still has no incorporated points. See [internationalization](docs/portal.md#internationalization). Language review of the proposed interface translations and browser verification remain pending; no server was started for this delivery.
 
+The language-picker visual trial shapes its options as progressively wider trapezoids. Their diagonal sides follow two shared lines across the existing vertical gaps, while labels remain upright. Responsive shape calculation and keyboard borders are implemented; browser visual review remains pending.
+
 ## Working in this repository
 
 The shared footer credits Carlos Pinedo Sánchez and links to the GitHub repository with a locally bundled official SVG. Browser verification remains pending.

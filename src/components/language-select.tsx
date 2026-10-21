@@ -27,6 +27,7 @@ export function LanguageSelect({
   const arrowRef = useRef<HTMLSpanElement>(null);
   const optionRefs = useRef<(HTMLButtonElement | null)[]>([]);
   const timelineRef = useRef<gsap.core.Timeline | null>(null);
+  const measureOptionsRef = useRef<() => void>(() => {});
   const searchRef = useRef({ value: '', time: 0 });
 
   const close = (restoreFocus = false) => {
@@ -76,6 +77,59 @@ export function LanguageSelect({
   }, []);
 
   useLayoutEffect(() => {
+    const list = listRef.current;
+    if (!list) return;
+    const rows = Array.from(list.children);
+    const measure = () => {
+      if (list.hidden) return;
+      // Row boxes exclude the buttons' animated transforms and include gaps.
+      const bounds = rows.map((row) => row.getBoundingClientRect());
+      const first = bounds[0];
+      const last = bounds.at(-1);
+      if (!first || !last || first.width <= 0) return;
+      const height = last.bottom - first.top;
+      if (height <= 0) return;
+      const slope = Math.min(32, first.width * 0.14) / height;
+      const normal = Math.hypot(1, slope);
+      list.style.setProperty(
+        '--option-top-adjustment',
+        String(normal - slope - 1),
+      );
+      list.style.setProperty(
+        '--option-bottom-adjustment',
+        String(normal + slope - 1),
+      );
+      bounds.forEach((box, index) => {
+        const option = optionRefs.current[index];
+        if (!option) return;
+        option.style.setProperty(
+          '--option-top-inset',
+          `${(last.bottom - box.top) * slope}px`,
+        );
+        option.style.setProperty(
+          '--option-bottom-inset',
+          `${(last.bottom - box.bottom) * slope}px`,
+        );
+      });
+    };
+    measureOptionsRef.current = measure;
+    const observer =
+      typeof ResizeObserver === 'undefined'
+        ? undefined
+        : new ResizeObserver(measure);
+    observer?.observe(list);
+    rows.forEach((row) => observer?.observe(row));
+    window.addEventListener('resize', measure);
+    document.fonts.addEventListener('loadingdone', measure);
+    return () => {
+      measureOptionsRef.current = () => {};
+      observer?.disconnect();
+      window.removeEventListener('resize', measure);
+      document.fonts.removeEventListener('loadingdone', measure);
+    };
+  }, []);
+
+  useLayoutEffect(() => {
     const timeline = timelineRef.current;
     const list = listRef.current;
     if (!timeline || !list) return;
@@ -84,8 +138,10 @@ export function LanguageSelect({
       if (reducedMotion.matches) {
         timeline.pause().progress(open ? 1 : 0);
         list.hidden = !open;
+        if (open) measureOptionsRef.current();
       } else if (open) {
         list.hidden = false;
+        measureOptionsRef.current();
         timeline.play();
       } else if (timeline.progress() > 0) {
         timeline.reverse();
