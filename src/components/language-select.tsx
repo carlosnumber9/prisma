@@ -88,7 +88,6 @@ export function LanguageSelect({
         list.hidden = false;
         timeline.play();
       } else if (timeline.progress() > 0) {
-        list.hidden = true;
         timeline.reverse();
       } else {
         list.hidden = true;
