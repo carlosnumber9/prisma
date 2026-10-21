@@ -45,7 +45,10 @@
     drop-shadow(0 8px 12px rgb(32 45 54 / 8%));
 }
 
-.link:hover .background,
+.link:hover .background {
+  background-color: var(--navigation-hover-background, #d5dee4);
+}
+
 .link:focus-visible .background {
   background-color: #d5dee4;
 }
@@ -62,7 +65,10 @@
   background-color: var(--accent);
 }
 
-.accent:hover .background,
+.accent:hover .background {
+  background-color: var(--navigation-hover-accent-background, #202d36);
+}
+
 .accent:focus-visible .background {
   background-color: #202d36;
 }

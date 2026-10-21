@@ -37,6 +37,8 @@
 }
 
 .link {
+  --navigation-hover-background: #e5eaed;
+  --navigation-hover-accent-background: var(--accent);
   --navigation-fold-direction: to right;
   --navigation-outer-padding: max(
     var(--page-gutter),
