@@ -13,7 +13,7 @@
     "dev": "next dev",
     "start": "next start",
     "build": "npm run content:check && next build && node scripts/check-portal-build.mjs",
-    "test:app": "node --test tests/content.test.mjs tests/presentation.test.mjs tests/reader.test.mjs tests/i18n.test.mjs tests/proxy.test.mjs",
+    "test:app": "node --test tests/content.test.mjs tests/presentation.test.mjs tests/halftone.test.mjs tests/reader.test.mjs tests/i18n.test.mjs tests/proxy.test.mjs",
     "typecheck": "npm run typecheck:tools && npm run typecheck:app",
     "typecheck:tools": "tsc --project tsconfig.tools.json",
     "typecheck:app": "next typegen && tsc --project tsconfig.json",

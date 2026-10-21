@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
 import { HeaderNavigation } from './header-navigation';
+import { HalftoneBackground } from './halftone-background';
 import type { CSSProperties, ReactNode } from 'react';
 import { partyAccent } from '../lib/themes';
 import styles from './portal.module.css';
@@ -29,6 +30,7 @@ export function Shell({
   return (
     <div className={styles.shell} style={theme}>
       {background}
+      <HalftoneBackground />
       <a className={styles.skip} href="#main-content">
         {m.skip}
       </a>

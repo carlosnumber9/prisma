@@ -1,7 +1,8 @@
 .shell {
   overflow-x: clip;
   --dot-texture-opacity: 0.24;
-  --dot-texture-width: max(100%, 960px);
+  --dot-texture-min-width: 960px;
+  --dot-texture-width: max(100%, var(--dot-texture-min-width));
   --prism-scale: 0.75;
   --prism-image-height: min(
     calc(100svh * var(--prism-scale)),
@@ -26,6 +27,21 @@
   background: url('/dot-texture.svg') center top / var(--dot-texture-width) auto
     repeat-y;
   opacity: var(--dot-texture-opacity);
+}
+.halftoneCanvas {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  opacity: 0;
+}
+.halftoneCanvas[data-halftone-ready='true'] {
+  opacity: var(--dot-texture-opacity);
+}
+.shell:has(.halftoneCanvas[data-halftone-ready='true'])::after {
+  opacity: 0;
 }
 .header,
 .main,
