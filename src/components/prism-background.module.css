@@ -1,8 +1,8 @@
 .scene {
   position: absolute;
   inset: 0;
-  /* Shell's isolated stacking context keeps the scene above its base colour. */
-  z-index: -1;
+  /* Keep the opaque scene below the poster and shared halftone overlay. */
+  z-index: -3;
   pointer-events: none;
   user-select: none;
 }

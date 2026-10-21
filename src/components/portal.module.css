@@ -1,5 +1,7 @@
 .shell {
   overflow-x: clip;
+  --dot-texture-opacity: 0.24;
+  --dot-texture-width: max(100%, 960px);
   --prism-scale: 0.75;
   --prism-image-height: min(
     calc(100svh * var(--prism-scale)),
@@ -13,6 +15,17 @@
   background: #f8fafb;
   background: color-mix(in srgb, var(--accent) 5%, #fff);
   border-top: 5px solid var(--accent);
+}
+.shell::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  /* Overlay the opaque prism and poster, below all reading and navigation. */
+  z-index: -1;
+  pointer-events: none;
+  background: url('/dot-texture.svg') center top / var(--dot-texture-width) auto
+    repeat-y;
+  opacity: var(--dot-texture-opacity);
 }
 .header,
 .main,
@@ -68,7 +81,7 @@
 }
 .prismPoster {
   position: absolute;
-  z-index: -1;
+  z-index: -2;
   top: 50%;
   left: 50%;
   width: auto;

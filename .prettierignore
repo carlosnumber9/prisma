@@ -7,3 +7,4 @@ package-lock.json
 out/
 .vercel/
 next-env.d.ts
+public/dot-texture.svg

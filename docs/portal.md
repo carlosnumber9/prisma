@@ -58,6 +58,18 @@ GSAP and [ScrollTrigger](https://gsap.com/docs/v3/Plugins/ScrollTrigger/) reveal
 
 `SITE_URL` is an optional public HTTP(S) origin without credentials, paths, queries or fragments. Empty configuration omits canonical links and produces a sitemap with no URLs; robots does not advertise it. Invalid values fail checks that load the site configuration or the build. Once configured, canonical and sitemap URLs use that origin. Pending synthesis pages remain `noindex, follow` and excluded from the sitemap; partial and complete pages, including complete empty reviews, become indexable automatically. Catalogue pages remain indexable. Sitemap modification dates come from editorial review, never build time.
 
+## Shared halftone background
+
+The shared `Shell` adds a decorative pseudo-element across its full height, behind navigation and reading content. It uses the transparent local `public/dot-texture.svg` over the existing light, section-tinted background. Three smooth folds vary circle radii on a regular 20-pixel grid; most low-intensity points are omitted. A central attenuation keeps the reading area quieter. The texture has no animation, pointer interaction, accessible content, layout space or browser JavaScript.
+
+The 1440-pixel square tile repeats vertically. Its field is periodic so the repeat has no abrupt seam. It scales to the shell width with a 960-pixel minimum, cropping horizontally on narrow screens instead of shrinking the pattern to tiny dots. The shell's `--dot-texture-opacity` (initially `0.24`) and `--dot-texture-width` control contrast and scale. The circles use a neutral grey-blue independently of party accents.
+
+To change spacing, maximum radius or fold geometry, edit `scripts/generate-dot-texture.mjs` and run `node scripts/generate-dot-texture.mjs` with Node 24. Commit the regenerated SVG with its generator. The compact generated asset is excluded from Prettier. It is loaded as a CSS image, so its circles do not add nodes to the page DOM.
+
+The existing homepage shader paints an opaque background. The prism canvas, fallback poster and texture therefore use stacking levels `-3`, `-2` and `-1` within the shell's isolated context. This keeps the texture visible with or without WebGPU, including before hydration, while links and text remain above it. The texture also overlays the prism itself; the quieter centre limits this decorative overlap without changing the shader or pretending the dots are refracted by the glass.
+
+Standalone desktop and mobile texture renders were inspected. Browser verification of the complete page composition, navigation and reading contrast remains pending; no app server was started for this change.
+
 ## Verification and remaining limits
 
 ### Local prism prototype
