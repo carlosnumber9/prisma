@@ -253,7 +253,18 @@ export function LanguageSelect({
           setOpen((value) => !value);
         }}
       >
-        <span lang={locale}>{languageNames[locale]}</span>
+        <span className={styles.triggerLabel}>
+          {locales.map((value) => (
+            <span
+              key={value}
+              lang={value}
+              data-current={value === locale}
+              aria-hidden={value !== locale}
+            >
+              {languageNames[value]}
+            </span>
+          ))}
+        </span>
         <span ref={arrowRef} className={styles.arrow} aria-hidden="true" />
       </button>
       <ul
