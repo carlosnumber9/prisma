@@ -79,3 +79,7 @@ Introduce a server/API boundary only when this feature needs it. Ground answers 
 ## Internationalization
 
 Implemented six locale-prefixed route versions (336 catalogue pages), a custom navbar language picker, one-year manual preference, browser negotiation before rendering and Castilian fallback. Interface, areas, metadata and dates are localized; original documentary text remains unchanged. Schema v3 requires complete six-language approved points under one shared revision; both editorial skills follow this agreement model. The current real corpus still contains no political points. Static checks, all 84 deterministic tests, generator coverage and builds with and without a temporary origin passed locally. The maintainer approved the prepared batch for commit and push on 17 October 2026. No app server was started; browser verification and specialist language review remain pending. See [portal behavior](portal.md#internationalization) and [the decision](adr/0003-multilingual-editorial-batches.md).
+
+## Native electoral research pilot — in progress
+
+Project Research and QA agent definitions and a Builder procedure reuse the existing editorial skills. The PP nationwide pilot uses real delegated research and independent source checks. Technical configuration does not approve political data. Constituency coverage, preserved sources and candidate validation must be reported explicitly; a dedicated political-reference validator and portal integration remain pending. See [research team](research-factory.md).

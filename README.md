@@ -40,6 +40,10 @@ npm run build
 
 `npm run dev` and `npm run start` are available for explicitly requested local runs; they are not incidental verification. Optional `SITE_URL` configures canonical URLs and the sitemap after a production domain is selected; see [.env.example](.env.example). See [portal implementation](docs/portal.md) for architecture, tests and the logical commit sequence.
 
+## Electoral research team
+
+The native Codex [research team](docs/research-factory.md) coordinates scoped official-source discovery and independent QA using the existing editorial contracts. Candidate data stays outside the repository until reviewed; political-reference data still has no dedicated validator or portal consumer.
+
 ## Editorial skills
 
 - [`document-program`](.agents/skills/document-program/SKILL.md): preserve an official 2026 source, extract it, debate summaries and publish an agreed editorial batch. Example: `Use $document-program to incorporate this official 2026 programme: [URL]`.
