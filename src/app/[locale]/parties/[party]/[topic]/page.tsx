@@ -45,7 +45,7 @@ export default async function SynthesisPage({ params }: Props) {
   return (
     <Shell
       locale={locale}
-      partyId={party.id}
+      party={party}
       section="parties"
       crumbs={[
         { label: m.parties, href: '/parties' },

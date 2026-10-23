@@ -161,6 +161,69 @@ test('publishes schema v3 in all envelopes and preserves a null official website
   assert.equal(publicData(root, 'parties')[0].officialWebsite, null);
 });
 
+test('preserves optional branding and validates the local font asset', (t) => {
+  const { root } = fixture(t);
+  const path = join(root, 'content/editorial/parties.json');
+  const parties = readJson(path);
+  assert.ok(!Object.hasOwn(publicData(root, 'parties')[0], 'officialFont'));
+  parties[0].officialColor = null;
+  parties[0].officialFont = null;
+  writeJson(path, parties);
+  assert.equal(publicData(root, 'parties')[0].officialFont, null);
+  parties[0].officialColor = '#12ABef';
+  parties[0].officialFont = {
+    family: 'Synthetic font',
+    src: '/fonts/parties/fixture.woff2',
+    weight: 400,
+  };
+  writeJson(path, parties);
+  assert.throws(() => buildContent(root), /expected a regular file/);
+  mkdirSync(join(root, 'public/fonts/parties'), { recursive: true });
+  writeFileSync(
+    join(root, 'public/fonts/parties/fixture.woff2'),
+    'Synthetic font fixture',
+  );
+  assert.deepEqual(publicData(root, 'parties')[0], parties[0]);
+});
+
+test('rejects malformed branding, remote font URLs and CSS injection', (t) => {
+  const { root } = fixture(t);
+  const path = join(root, 'content/editorial/parties.json');
+  const [party] = readJson(path);
+  for (const officialColor of [
+    '',
+    '#abc',
+    '#12345678',
+    'red',
+    '#123456;display:none',
+    123,
+    {},
+  ]) {
+    writeJson(path, [{ ...party, officialColor }]);
+    assert.throws(() => buildContent(root), /officialColor/);
+  }
+  const font = {
+    family: 'Synthetic font',
+    src: '/fonts/parties/fixture.woff2',
+    weight: 400,
+  };
+  for (const officialFont of [
+    'Synthetic font',
+    {},
+    { ...font, family: '' },
+    { ...font, weight: 0 },
+    { ...font, weight: 1001 },
+    { ...font, weight: 400.5 },
+    { ...font, src: 'https://example.org/font.woff2' },
+    { ...font, src: '/fonts/parties/../secret.woff2' },
+    { ...font, src: '/fonts/parties/font.woff2\");}body{display:none}' },
+    { ...font, extra: true },
+  ]) {
+    writeJson(path, [{ ...party, officialFont }]);
+    assert.throws(() => buildContent(root), /officialFont/);
+  }
+});
+
 test('publishes v3 for an empty formation catalogue', (t) => {
   const f = fixture(t);
   writeJson(join(f.root, 'content/editorial/parties.json'), []);

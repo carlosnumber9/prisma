@@ -12,6 +12,7 @@ import { dictionaries, locales } from '../src/lib/i18n.ts';
 import { reviewLabel } from '../src/lib/presentation.ts';
 const { SynthesisReader } = await import('../src/components/synthesis.tsx');
 const { Directory } = await import('../src/components/directory.tsx');
+const { PartyBanner } = await import('../src/components/party-banner.tsx');
 const { HeaderNavigation } =
   await import('../src/components/header-navigation.tsx');
 const { HomeNavigation } =
@@ -74,6 +75,76 @@ test('navbar retains section selection and a collapsed disclosure with all links
       assert.equal((panel.match(/role="option"/g) ?? []).length, 6);
       assert.match(panel, new RegExp(`lang="${locale}" aria-selected="true"`));
     }
+  }
+});
+
+test('party banners retain localized official links, branding and neutral fallbacks', () => {
+  for (const locale of locales) {
+    const party = {
+      id: 'fixture-party',
+      name: 'Synthetic formation',
+      officialWebsite: 'https://example.org',
+      officialColor: '#ffff00',
+      officialFont: {
+        family: 'Synthetic font',
+        src: '/fonts/parties/fixture.woff2',
+        weight: 400,
+      },
+    };
+    const html = renderToStaticMarkup(
+      createElement(PartyBanner, { locale, party }),
+    );
+    assert.ok(html.includes('href="https://example.org"'));
+    assert.ok(html.includes(dictionaries[locale].officialWebsiteBadge));
+    assert.ok(html.includes('--party-color:#ffff00'));
+    assert.ok(html.includes('--party-foreground:#000000'));
+    assert.ok(html.includes('/fonts/parties/fixture.woff2'));
+    assert.ok(html.includes('font-display:swap'));
+    assert.match(html, /<h1[^>]*id="party-name"[^>]*font-weight:400/);
+    const fallback = renderToStaticMarkup(
+      createElement(PartyBanner, {
+        locale,
+        party: {
+          id: 'unknown',
+          name: 'Unknown formation',
+          officialWebsite: null,
+        },
+      }),
+    );
+    assert.ok(fallback.includes('--party-color:#e5eaed'));
+    assert.ok(fallback.includes('--party-badge-color:#364653'));
+    assert.ok(!fallback.includes('<a'));
+    assert.ok(!fallback.includes('@font-face'));
+    assert.ok(!fallback.includes('font-family:'));
+  }
+});
+
+test('disabled directory areas expose native disabled buttons without destinations or unavailable labels', () => {
+  for (const locale of locales) {
+    const html = renderToStaticMarkup(
+      createElement(Directory, {
+        locale,
+        columns: true,
+        entries: [
+          {
+            label: 'Empty area',
+            href: '/parties/fixture/empty',
+            disabled: true,
+          },
+          {
+            label: 'Available area',
+            href: '/parties/fixture/available',
+            status: 'partial',
+          },
+        ],
+      }),
+    );
+    assert.match(html, /<button type="button" disabled=""[^>]*>/);
+    assert.ok(html.includes('Empty area'));
+    assert.ok(!html.includes('/fixture/empty'));
+    assert.ok(!html.includes(dictionaries[locale].pending));
+    assert.ok(html.includes(`href="/${locale}/parties/fixture/available"`));
+    assert.ok(html.includes(reviewLabel('partial', locale)));
   }
 });
 

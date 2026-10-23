@@ -24,4 +24,4 @@ Only primary brand evidence is used. The interface applies subtle tints of the b
 - PSOE: `#E20025`, RGB 226/0/37 on page 6 of the [PSOE–CEF 2020 identity manual published by its Jaén federation](https://psoedejaen.com/wp-content/uploads/2020/12/MANUAL-IDENTIDAD-CORPORATIVA-PSOE-2020.pdf). No later manual was verified.
 - VOX, ERC and Frente Amplio: no current primary colour asset was verified in this review. Use the neutral theme, including for any newly added formation, until evidence is reviewed.
 
-Colour configuration belongs to the interface and is not added to public editorial JSON.
+The existing evidenced PP and PSOE colours are stored as `officialColor` in `content/editorial/parties.json` and projected to public JSON. Other formations omit the field: their banners use light grey and their breadcrumb/badge accents remain neutral. No official formation font has been verified or bundled; the party names retain the site font. Future official colour and typeface research follows the political documentation skill and requires evidence before catalogue incorporation.

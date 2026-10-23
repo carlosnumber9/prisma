@@ -19,7 +19,11 @@ import {
   siteOrigin,
   sitemapEntries,
 } from '../src/lib/seo.ts';
-import { NEUTRAL_ACCENT, partyAccent } from '../src/lib/themes.ts';
+import {
+  NEUTRAL_ACCENT,
+  partyAccent,
+  contrastingText,
+} from '../src/lib/themes.ts';
 import {
   ribbonRevealEase,
   ribbonRevealGeometry,
@@ -201,11 +205,14 @@ test('review dates use Spanish and UTC independent of the host timezone', () => 
   assert.equal(formatDate('2026-10-12T23:30:00Z'), '12 de octubre de 2026');
 });
 
-test('only evidenced brand accents are applied; unknown formations remain neutral', () => {
-  assert.equal(partyAccent('pp'), '#21599E');
-  assert.equal(partyAccent('psoe'), '#E20025');
-  for (const id of ['vox', 'erc', 'frente-amplio', 'new-formation', undefined])
-    assert.equal(partyAccent(id), NEUTRAL_ACCENT);
+test('uses documented colours independently of formation IDs and keeps missing colours neutral', () => {
+  assert.equal(partyAccent({ officialColor: '#21599E' }), '#21599E');
+  assert.equal(partyAccent({ officialColor: '#E20025' }), '#E20025');
+  for (const party of [{}, { officialColor: null }, undefined])
+    assert.equal(partyAccent(party), NEUTRAL_ACCENT);
+  assert.equal(contrastingText('#ffff00'), '#000000');
+  assert.equal(contrastingText('#000080'), '#ffffff');
+  assert.equal(contrastingText('#e5eaed'), '#000000');
 });
 
 test('does not emit canonical or sitemap URLs until a production origin is configured', () => {

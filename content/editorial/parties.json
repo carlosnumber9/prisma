@@ -1,6 +1,16 @@
 [
-  { "id": "pp", "name": "PP", "officialWebsite": "https://www.pp.es/" },
-  { "id": "psoe", "name": "PSOE", "officialWebsite": "https://www.psoe.es/" },
+  {
+    "id": "pp",
+    "name": "PP",
+    "officialWebsite": "https://www.pp.es/",
+    "officialColor": "#21599E"
+  },
+  {
+    "id": "psoe",
+    "name": "PSOE",
+    "officialWebsite": "https://www.psoe.es/",
+    "officialColor": "#E20025"
+  },
   {
     "id": "vox",
     "name": "VOX",

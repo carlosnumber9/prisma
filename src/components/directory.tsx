@@ -8,6 +8,7 @@ export type DirectoryEntry = {
   label: string;
   href: string;
   status?: ReviewStatus;
+  disabled?: boolean;
 };
 
 export function Directory({
@@ -25,7 +26,10 @@ export function Directory({
     <ul className={columns ? styles.topicGrid : styles.directory}>
       {entries.map((entry) => (
         <li key={entry.href}>
-          <NavigationLink href={localizedPath(entry.href, locale)}>
+          <NavigationLink
+            href={localizedPath(entry.href, locale)}
+            disabled={entry.disabled}
+          >
             <span className={styles.entryTitle}>{entry.label}</span>
             {entry.status && (
               <span className={styles.entryStatus}>

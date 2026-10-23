@@ -101,6 +101,12 @@ For common predicates use: `official-website` with credential-free HTTP(S) text;
 
 Future verified political information can use another precisely defined predicate within these shapes. New entity kinds, value shapes or structural fields require an agreed contract/version change; never silently add arbitrary JSON keys.
 
+## Formation branding
+
+Use `official-brand-colour` with a six-digit hexadecimal `text` value, `official-font-family` with the exact family name as `text`, and `official-font-url` with the credential-free HTTP(S) official asset URL as `text`. Support each fact with official brand evidence and record its consultation and validity dates under the existing fact rules. Record available weights and web-embedding rights in the review; a family name alone does not supply a usable webfont. Missing evidence is a review limitation, not a negative fact or an invented brand value.
+
+These facts remain in the separate approved reference dataset. They are not automatically consumed by the portal. An explicitly agreed catalogue update can copy verified branding into the optional `officialColor` and `officialFont` fields described in the [programme catalogue contract](../../../../docs/content-contract.md). Bundle authorised fonts locally with their licence; never put local paths or licence review notes in public reference facts.
+
 ## Candidatures and territorial coverage
 
 A candidature contains exactly `id`, `formationId`, `electionId`, `institutionId`, `constituencyId`, `status`, `asOf`, `listCoverage`, `candidates` and `citations`:

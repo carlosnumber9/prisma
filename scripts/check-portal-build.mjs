@@ -6,7 +6,7 @@ import {
   createContentRepository,
   readPublicContent,
 } from '../src/lib/content.ts';
-import { dictionaries, locales, localizedPath, text } from '../src/lib/i18n.ts';
+import { dictionaries, locales, localizedPath } from '../src/lib/i18n.ts';
 import { partyAccent } from '../src/lib/themes.ts';
 import { siteOrigin, sitemapEntries } from '../src/lib/seo.ts';
 import { createPrerenderedArtifactReader } from './prerendered-artifacts.mjs';
@@ -113,18 +113,42 @@ for (const locale of locales) {
       );
       assert.match(html, /<meta name="robots" content="noindex, follow"/);
     }
-    assert.ok(html.includes(`--accent:${partyAccent(synthesis.partyId)}`));
+    assert.ok(
+      html.includes(
+        `--accent:${partyAccent(repository.getParty(synthesis.partyId))}`,
+      ),
+    );
     for (const point of synthesis.points)
       assert.ok(html.includes(`id="${point.id}"`));
   }
   for (const party of repository.parties) {
     const html = htmlByPath.get(localizedPath(`/parties/${party.id}`, locale));
-    if (party.officialWebsite === null)
-      assert.ok(
-        !html.includes(
-          text(dictionaries[locale].officialWebsite, { party: party.name }),
-        ),
+    assert.ok(
+      html.includes(`--party-color:${party.officialColor ?? '#e5eaed'}`),
+    );
+    assert.match(html, /<h1[^>]*id="party-name"/);
+    const main = html.match(/<main\b[\s\S]*?<\/main>/)[0];
+    assert.equal(
+      main.includes(dictionaries[locale].officialWebsiteBadge),
+      !!party.officialWebsite,
+    );
+    assert.ok(!main.includes(dictionaries[locale].pending));
+    const emptyAreas = repository.topics.filter(
+      (topic) =>
+        repository.getSynthesis(party.id, topic.id)?.points.length === 0,
+    );
+    assert.equal(
+      (main.match(/<button\b[^>]*disabled=""/g) ?? []).length,
+      emptyAreas.length,
+    );
+    for (const topic of repository.topics) {
+      const synthesis = repository.getSynthesis(party.id, topic.id);
+      assert.ok(synthesis);
+      assert.equal(
+        main.includes(`href="${localizedPath(synthesis.path, locale)}"`),
+        synthesis.points.length > 0,
       );
+    }
   }
 }
 const sitemap = readArtifact('/sitemap.xml', '.body');

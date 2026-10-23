@@ -136,7 +136,7 @@ function localizedText(value, context, approved = true) {
     string(text, `${context}.${locale}`);
 }
 
-function catalogue(path, kind) {
+function catalogue(path, kind, root) {
   const values = readJson(path);
   array(values, path);
   const byId = new Map();
@@ -144,7 +144,7 @@ function catalogue(path, kind) {
     fields(
       value,
       kind === 'party' ? ['id', 'name', 'officialWebsite'] : ['id', 'label'],
-      [],
+      kind === 'party' ? ['officialColor', 'officialFont'] : [],
       path,
     );
     slug(value.id, `${path}.id`);
@@ -152,6 +152,39 @@ function catalogue(path, kind) {
     else localizedText(value.label, `${path}.${value.id}`);
     if (kind === 'party' && value.officialWebsite !== null)
       webUrl(value.officialWebsite, `${path}.${value.id}.officialWebsite`);
+    if (kind === 'party') {
+      const context = `${path}.${value.id}`;
+      if (value.officialColor != null)
+        requireCondition(
+          typeof value.officialColor === 'string' &&
+            /^#[0-9a-fA-F]{6}$/.test(value.officialColor),
+          `${context}.officialColor: use a six-digit hex colour`,
+        );
+      if (value.officialFont != null) {
+        const font = value.officialFont;
+        fields(
+          font,
+          ['family', 'src', 'weight'],
+          [],
+          `${context}.officialFont`,
+        );
+        string(font.family, `${context}.officialFont.family`);
+        requireCondition(
+          typeof font.src === 'string' &&
+            /^\/fonts\/parties\/[a-z0-9]+(?:-[a-z0-9]+)*\.(woff2?|ttf|otf)$/.test(
+              font.src,
+            ),
+          `${context}.officialFont.src: use a local /fonts/parties/ font path`,
+        );
+        requireCondition(
+          Number.isInteger(font.weight) &&
+            font.weight >= 1 &&
+            font.weight <= 1000,
+          `${context}.officialFont.weight: use an integer from 1 to 1000`,
+        );
+        regularFile(join(root, 'public', font.src));
+      }
+    }
     requireCondition(
       !byId.has(value.id),
       `${path}: duplicate identifier ${value.id}`,
@@ -545,10 +578,12 @@ export function buildContent(root) {
   const parties = catalogue(
     join(root, 'content/editorial/parties.json'),
     'party',
+    root,
   );
   const topics = catalogue(
     join(root, 'content/editorial/topics.json'),
     'topic',
+    root,
   );
   const sources = loadSources(root, parties);
   const syntheses = loadSyntheses(root, parties, topics, sources);

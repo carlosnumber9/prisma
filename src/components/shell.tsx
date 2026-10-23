@@ -4,7 +4,8 @@ import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
 import { HeaderNavigation } from './header-navigation';
 import { HalftoneBackground } from './halftone-background';
 import type { CSSProperties, ReactNode } from 'react';
-import { partyAccent } from '../lib/themes';
+import { contrastingText, partyAccent } from '../lib/themes';
+import type { Party } from '../lib/content';
 import styles from './portal.module.css';
 
 export type Crumb = { label: string; href?: string };
@@ -13,20 +14,24 @@ export function Shell({
   children,
   locale = 'es',
   background,
-  partyId,
+  party,
   section,
   crumbs = [],
 }: {
   children: ReactNode;
   locale?: Locale;
   background?: ReactNode;
-  partyId?: string;
+  party?: Party;
   section?: 'parties' | 'topics';
   crumbs?: Crumb[];
 }) {
   const m = dictionaries[locale];
   const path = (value: string) => localizedPath(value, locale);
-  const theme = { '--accent': partyAccent(partyId) } as CSSProperties;
+  const accent = partyAccent(party);
+  const theme = {
+    '--accent': accent,
+    '--accent-foreground': contrastingText(accent),
+  } as CSSProperties;
   return (
     <div className={styles.shell} style={theme}>
       {background}

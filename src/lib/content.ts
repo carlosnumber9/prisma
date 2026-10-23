@@ -6,6 +6,12 @@ export type Party = {
   id: string;
   name: string;
   officialWebsite: string | null;
+  officialColor?: string | null;
+  officialFont?: {
+    family: string;
+    src: string;
+    weight: number;
+  } | null;
 };
 
 export type Topic = { id: string; label: LocalizedText; path: string };

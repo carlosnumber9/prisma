@@ -1,8 +1,8 @@
 import { dictionaries, text, type Locale } from '../../../../lib/i18n';
 import { notFound } from 'next/navigation';
-import { Shell, PageHeader } from '../../../../components/shell';
+import { Shell } from '../../../../components/shell';
+import { PartyBanner } from '../../../../components/party-banner';
 import { Directory } from '../../../../components/directory';
-import styles from '../../../../components/portal.module.css';
 import { content } from '../../../../lib/public-content';
 import { pageSeo } from '../../../../lib/seo';
 import { origin } from '../../../../lib/site';
@@ -34,18 +34,11 @@ export default async function PartyPage({ params }: Props) {
   return (
     <Shell
       locale={locale}
-      partyId={party.id}
+      party={party}
       section="parties"
       crumbs={[{ label: m.parties, href: '/parties' }, { label: party.name }]}
     >
-      <PageHeader title={party.name} description={m.partyDescription} />
-      {party.officialWebsite && (
-        <p className={styles.officialWebsite}>
-          <a href={party.officialWebsite}>
-            {text(m.officialWebsite, { party: party.name })}
-          </a>
-        </p>
-      )}
+      <PartyBanner party={party} locale={locale} />
       <h2>{m.programmeTopics}</h2>
       <Directory
         locale={locale}
@@ -55,7 +48,11 @@ export default async function PartyPage({ params }: Props) {
           return {
             label: topic.label[locale],
             href: synthesis.path,
-            status: synthesis.reviewStatus,
+            status:
+              synthesis.reviewStatus === 'pending'
+                ? undefined
+                : synthesis.reviewStatus,
+            disabled: synthesis.points.length === 0,
           };
         })}
       />

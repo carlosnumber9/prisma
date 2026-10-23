@@ -15,12 +15,14 @@
     {
       "id": "pp",
       "name": "PP",
-      "officialWebsite": "https://www.pp.es/"
+      "officialWebsite": "https://www.pp.es/",
+      "officialColor": "#21599E"
     },
     {
       "id": "psoe",
       "name": "PSOE",
-      "officialWebsite": "https://www.psoe.es/"
+      "officialWebsite": "https://www.psoe.es/",
+      "officialColor": "#E20025"
     },
     {
       "id": "vox",
