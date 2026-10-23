@@ -44,7 +44,7 @@ npm run build
 
 ## Electoral research team
 
-The native Codex [research team](docs/research-factory.md) coordinates scoped official-source discovery and independent QA using the existing editorial contracts. Candidate data stays outside the repository until reviewed; political-reference data still has no dedicated validator or portal consumer.
+The native Codex [research team](docs/research-factory.md) coordinates scoped official-source discovery, cited editorial JSON synthesis and independent QA using the existing editorial contracts. Candidate data stays outside the repository until reviewed; political-reference data still has no dedicated validator or portal consumer.
 
 ## Editorial skills
 
