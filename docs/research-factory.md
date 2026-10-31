@@ -1,6 +1,10 @@
 # Electoral research team
 
-The primary Codex chat acts as Builder. Three project agents, [Research](../.codex/agents/prisma-research.toml), [Synthesis](../.codex/agents/prisma-synthesis.toml) and [QA](../.codex/agents/prisma-qa.toml), reuse the existing editorial skills. There is no model API, scheduler or custom orchestration service. The project [configuration](../.codex/config.toml) caps spawned threads at three; the host may impose a lower limit. Models, tools, connections and permissions inherit from the parent session. Instructions limiting writes do not create isolated sandboxes.
+The primary Codex chat acts as Builder. Three project agents, [Research](../.codex/agents/prisma-research.toml), [Synthesis](../.codex/agents/prisma-synthesis.toml) and [QA](../.codex/agents/prisma-qa.toml), reuse the existing editorial skills. There is no model API, scheduler or custom orchestration service. The project [configuration](../.codex/config.toml) caps spawned threads at three; the host may impose a lower limit. Models and reasoning are pinned by role; tools, connections and permissions inherit from the parent session. Instructions limiting writes do not create isolated sandboxes.
+
+## Consumption controls
+
+Follow the [research efficiency protocol](research-efficiency.md) for every factory run: Builder uses the project Sol/medium default, Research uses Luna/high, Synthesis uses Sol/medium and QA uses Sol/high. Spawn fresh children without the parent conversation, pass bounded source references, verify reusable evidence offline, record current-source checks and escalate only the failed issue. Local task/cache/metrics tools avoid model work for deterministic checks. Per-task usage remains unknown when native telemetry is unavailable; no savings percentage is assumed. These parent defaults also apply to other new chats in this project unless explicitly overridden.
 
 ## Run a scoped investigation
 

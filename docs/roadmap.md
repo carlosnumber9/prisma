@@ -91,3 +91,7 @@ The 23 October 2026 [PP programme run](../content/reviews/2026-10-23-pp-programm
 ## Programme synthesis agent — implemented, editorial incorporation pending
 
 The native `prisma-synthesis` profile turns eligible preserved programme evidence into cited editorial draft JSON and validates the existing four-file schema-v3 app projection through the deterministic generator. Independent QA checks both outputs. Draft points remain private until exact multilingual approval; absent sources produce only the existing pending availability state and cannot withdraw approved content. See [synthesis outputs](research-factory.md#synthesis-outputs-and-app-consumption). The PP research run still has no eligible programme proposals to summarise.
+
+## Research consumption optimisation — implemented, savings measurement pending
+
+Role-specific model/reasoning settings, fresh bounded handoffs, hash-verified source reuse, limited targeted escalation and per-task quality/usage records follow the [efficiency protocol](research-efficiency.md). A read-only offline helper validates task packets and cached bytes and aggregates known metrics without treating missing telemetry as zero. Local synthetic tests cover these mechanics. No new political investigation or model-cost comparison was performed; actual savings require equivalent frozen workloads, runtime usage evidence and independent QA.
