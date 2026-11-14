@@ -48,13 +48,15 @@ The native Codex [research team](docs/research-factory.md) coordinates scoped of
 
 The [11 November PP editorial review](content/reviews/2026-11-11-pp-programme-draft.md) records the preserved national programme and 24 approved proposals in all six languages. Comparison with the second official PDF remains pending.
 
+The election is permanently the Spanish general election of 29 November 2026. The [30 October PP candidature investigation](content/political-info/reviews/2026-10-30-pp-candidature-discovery.md) preserved 21 official source snapshots and independently audited 109 related submitted lists with 992 candidate entries. Full research previews remain outside the repository; no reference batch is approved. Coalition identities, personal identity reconciliation, Senate substitute associations and later proclamation remain explicit review boundaries.
+
 ## Editorial skills
 
 - [`document-program`](.agents/skills/document-program/SKILL.md): preserve an official 2026 source, extract it, debate summaries and publish an agreed editorial batch. Example: `Use $document-program to incorporate this official 2026 programme: [URL]`.
 - [`triage-suggestion`](.agents/skills/triage-suggestion/SKILL.md): review a user-supplied suggestion and agree on a correction, a tracking issue or a reasoned dismissal. Example: `Use $triage-suggestion to review this suggestion: [anonymised text]`.
 - [`document-political-info`](.agents/skills/document-political-info/SKILL.md): verify supplied political reference material online or research official sources directly, then save an explicitly accepted JSON batch covering formations, politicians and constituency candidatures. Example: `Use $document-political-info to research the official candidatures of [formation] for the general election of 29 November 2026, [chamber], in [constituencies]`.
 
-The programme and triage skills share the [editorial policy](docs/editorial-policy.md), [content contract](docs/content-contract.md) and [Git publication workflow](docs/git-workflow.md). Political reference research follows the same provenance and agreement principles with its own [data contract](.agents/skills/document-political-info/references/data-contract.md): evidence and reviews are separate from accepted files in `content/political-info/approved`. No political-reference records, dedicated validator/generator or portal consumer are implemented yet. These skills do not read mail automatically or generate text during page loads.
+The programme and triage skills share the [editorial policy](docs/editorial-policy.md), [content contract](docs/content-contract.md) and [Git publication workflow](docs/git-workflow.md). Political reference research follows the same provenance and agreement principles with its own [data contract](.agents/skills/document-political-info/references/data-contract.md): evidence and reviews are separate from accepted files in `content/political-info/approved`. Political-reference sources and candidature reviews are preserved; no approved reference dataset, dedicated validator/generator or portal consumer is implemented yet. These skills do not read mail automatically or generate text during page loads.
 
 ```sh
 npm run content:generate

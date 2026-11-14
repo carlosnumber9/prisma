@@ -1,0 +1,196 @@
+{
+  "sourceId": "source-0fd775c1604d",
+  "sourceSha256": "0fd775c1604d7377411892fbf5430663977326064155372fb7a15a2183fa3418",
+  "segments": [
+    {
+      "id": "block-00001",
+      "section": "DOM h1 block 1",
+      "text": "Agencia Estatal Boletín Oficial del Estado"
+    },
+    {
+      "id": "block-00002",
+      "section": "DOM p block 2",
+      "text": "Puede seleccionar otro idioma:"
+    },
+    {
+      "id": "block-00003",
+      "section": "DOM p block 3",
+      "text": "Diarios Oficiales"
+    },
+    {
+      "id": "block-00004",
+      "section": "DOM p block 4",
+      "text": "Información Jurídica"
+    },
+    {
+      "id": "block-00005",
+      "section": "DOM p block 5",
+      "text": "Otros servicios"
+    },
+    {
+      "id": "block-00006",
+      "section": "DOM h2 block 6",
+      "text": "Documento BOE-A-2026-14329"
+    },
+    {
+      "id": "block-00007",
+      "section": "DOM h3 block 7",
+      "text": "Ley Orgánica 2/2026, de 30 de junio, de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para adaptarla a la reforma del apartado 3 del artículo 69 de la Constitución."
+    },
+    {
+      "id": "block-00008",
+      "section": "DOM h4 block 8",
+      "text": "TEXTO ORIGINAL"
+    },
+    {
+      "id": "block-00009",
+      "section": "DOM p block 9",
+      "text": "FELIPE VI"
+    },
+    {
+      "id": "block-00010",
+      "section": "DOM p block 10",
+      "text": "REY DE ESPAÑA"
+    },
+    {
+      "id": "block-00011",
+      "section": "DOM p block 11",
+      "text": "A todos los que la presente vieren y entendieren."
+    },
+    {
+      "id": "block-00012",
+      "section": "DOM p block 12",
+      "text": "Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica:"
+    },
+    {
+      "id": "block-00013",
+      "section": "DOM p block 13",
+      "text": "PREÁMBULO"
+    },
+    {
+      "id": "block-00014",
+      "section": "DOM p block 14",
+      "text": "La reforma del artículo 69.3 de la Constitución Española, recientemente aprobada por las Cortes Generales siguiendo el procedimiento de reforma previsto en el artículo 167 de nuestra Constitución, reconoce la plena separación institucional y administrativa de las islas de Ibiza y Formentera, efectiva desde que la Ley Orgánica 1/2007, de 28 de febrero, de reforma del Estatuto de Autonomía de las Illes Balears, creara el Consejo Insular de Formentera. Así, en coherencia con el principio de autonomía y de autogobierno, la Constitución Española atribuye, tanto a Ibiza como a Formentera, la elección de un senador propio, lo que exige la correspondiente adecuación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, a fin de garantizar la plena efectividad del mandato constitucional, la coherencia interna del ordenamiento y la regularidad de futuros procesos electorales."
+    },
+    {
+      "id": "block-00015",
+      "section": "DOM p block 15",
+      "text": "Hasta la reciente reforma constitucional, las islas de Ibiza y Formentera constituían una única circunscripción a efectos de representación en el Senado, en consonancia con la estructura territorial prevista en el texto constitucional de 1978. La nueva configuración, que reconoce la singularidad institucional de Formentera y su derecho a una representación directa en el Senado, responde a criterios de proximidad democrática, equilibrio territorial y reconocimiento de las especificidades insulares, reforzando así tanto el principio de representación territorial que inspira la composición de la Cámara Alta como la efectividad del derecho de los ciudadanos a participar en los asuntos públicos por medio de representantes, reconocido en el artículo 23 de la Constitución."
+    },
+    {
+      "id": "block-00016",
+      "section": "DOM p block 16",
+      "text": "La Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, como norma que articula el procedimiento de elección de los miembros del Senado, debe reflejar fielmente la nueva delimitación de circunscripciones y escaños establecida en el artículo 69.3 de la Constitución. Resulta necesario, por tanto, modificar aquellos preceptos que regulan la elección de senadores y senadoras en las circunscripciones insulares con el fin de ajustar las referencias normativas que hasta ahora contemplaban conjuntamente a Ibiza y Formentera."
+    },
+    {
+      "id": "block-00017",
+      "section": "DOM p block 17",
+      "text": "Por tanto, la presente reforma tiene la finalidad de adecuar la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General al nuevo texto constitucional, sin alterar los principios que rigen nuestro sistema electoral, limitándose a adaptar la normativa a las nuevas circunscripciones electorales reconocidas en la Constitución. Con ello se asegura la plena vigencia del principio de seguridad jurídica y se garantiza que la ciudadanía de Ibiza y de Formentera pueda ejercer su derecho de participación política en igualdad de condiciones."
+    },
+    {
+      "id": "block-00018",
+      "section": "DOM p block 18",
+      "text": "En virtud de todo lo anterior, se procede a la modificación del apartado 2 del artículo ciento sesenta y uno y el apartado 2 del artículo ciento sesenta y cinco de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para incorporar expresamente a Formentera como circunscripción electoral propia y regular la elección del escaño que constitucionalmente le corresponde en el Senado, garantizando así la plena efectividad de la reforma constitucional y la correcta articulación del sistema de representación territorial."
+    },
+    {
+      "id": "block-00019",
+      "section": "DOM h5 block 19",
+      "text": "Artículo único. Modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General."
+    },
+    {
+      "id": "block-00020",
+      "section": "DOM p block 20",
+      "text": "Se modifica la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General en los siguientes términos:"
+    },
+    {
+      "id": "block-00021",
+      "section": "DOM p block 21",
+      "text": "Uno. Se modifica el apartado 2 del artículo ciento sesenta y uno, que queda redactado como sigue:"
+    },
+    {
+      "id": "block-00022",
+      "section": "DOM p block 22",
+      "text": "«2. Se exceptúa de lo dispuesto en el apartado anterior, para las elecciones de Senadores, a las provincias insulares, en las que a tales efectos se consideran circunscripciones cada una de las siguientes islas: Mallorca, Menorca, Ibiza, Formentera, Gran Canaria, Fuerteventura, Lanzarote, Tenerife, El Hierro, La Gomera y La Palma.»"
+    },
+    {
+      "id": "block-00023",
+      "section": "DOM p block 23",
+      "text": "Dos. Se modifica el apartado 2 del artículo ciento sesenta y cinco, que queda redactado como sigue:"
+    },
+    {
+      "id": "block-00024",
+      "section": "DOM p block 24",
+      "text": "«2. En cada circunscripción insular se elige el siguiente número de Senadores: tres en Gran Canaria, Mallorca y Tenerife; uno en Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma.»"
+    },
+    {
+      "id": "block-00025",
+      "section": "DOM h5 block 25",
+      "text": "Disposición final única. Entrada en vigor."
+    },
+    {
+      "id": "block-00026",
+      "section": "DOM p block 26",
+      "text": "La presente ley orgánica entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado»."
+    },
+    {
+      "id": "block-00027",
+      "section": "DOM p block 27",
+      "text": "Por tanto,"
+    },
+    {
+      "id": "block-00028",
+      "section": "DOM p block 28",
+      "text": "Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica."
+    },
+    {
+      "id": "block-00029",
+      "section": "DOM p block 29",
+      "text": "30 de junio de 2026."
+    },
+    {
+      "id": "block-00030",
+      "section": "DOM p block 30",
+      "text": "FELIPE R."
+    },
+    {
+      "id": "block-00031",
+      "section": "DOM p block 31",
+      "text": "El Presidente del Gobierno,"
+    },
+    {
+      "id": "block-00032",
+      "section": "DOM p block 32",
+      "text": "PEDRO SÁNCHEZ PÉREZ-CASTEJÓN"
+    },
+    {
+      "id": "block-00033",
+      "section": "DOM h4 block 33",
+      "text": "ANÁLISIS"
+    },
+    {
+      "id": "block-00034",
+      "section": "DOM h5 block 34",
+      "text": "Referencias anteriores"
+    },
+    {
+      "id": "block-00035",
+      "section": "DOM h5 block 35",
+      "text": "Materias"
+    },
+    {
+      "id": "block-00036",
+      "section": "DOM p block 36",
+      "text": "subir"
+    },
+    {
+      "id": "block-00037",
+      "section": "DOM p block 37",
+      "text": "Agencia Estatal Boletín Oficial del Estado"
+    },
+    {
+      "id": "block-00038",
+      "section": "DOM p block 38",
+      "text": "Avda. de Manoteras, 54 - 28050 Madrid"
+    }
+  ]
+}

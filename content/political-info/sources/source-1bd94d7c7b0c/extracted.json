@@ -1,0 +1,456 @@
+{
+  "sourceId": "source-1bd94d7c7b0c",
+  "sourceSha256": "1bd94d7c7b0c265e12e655906e8b9ccff1ffa5b88a2bd13d55b8b28a6d9f5e27",
+  "segments": [
+    {
+      "id": "block-00001",
+      "text": "Agencia Estatal Boletín Oficial del Estado",
+      "section": "DOM h1 block 1"
+    },
+    {
+      "id": "block-00002",
+      "text": "Puede seleccionar otro idioma:",
+      "section": "DOM p block 2"
+    },
+    {
+      "id": "block-00003",
+      "text": "Diarios Oficiales",
+      "section": "DOM p block 3"
+    },
+    {
+      "id": "block-00004",
+      "text": "Información Jurídica",
+      "section": "DOM p block 4"
+    },
+    {
+      "id": "block-00005",
+      "text": "Otros servicios",
+      "section": "DOM p block 5"
+    },
+    {
+      "id": "block-00006",
+      "text": "Documento BOE-A-2026-20742",
+      "section": "DOM h2 block 6"
+    },
+    {
+      "id": "block-00007",
+      "text": "Real Decreto 806/2026, de 5 de octubre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones.",
+      "section": "DOM h3 block 7"
+    },
+    {
+      "id": "block-00008",
+      "text": "TEXTO ORIGINAL",
+      "section": "DOM h4 block 8"
+    },
+    {
+      "id": "block-00009",
+      "text": "De acuerdo con lo dispuesto en el artículo 115 de la Constitución y de conformidad con lo previsto en el artículo 42.1 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, a propuesta del Presidente del Gobierno, y previa deliberación del Consejo de Ministros en su reunión del día 5 de octubre de 2026,",
+      "section": "DOM p block 9"
+    },
+    {
+      "id": "block-00010",
+      "text": "DISPONGO:",
+      "section": "DOM p block 10"
+    },
+    {
+      "id": "block-00011",
+      "text": "Artículo 1. Disolución del Congreso de los Diputados y del Senado.",
+      "section": "DOM h5 block 11"
+    },
+    {
+      "id": "block-00012",
+      "text": "Quedan disueltos el Congreso de los Diputados y el Senado elegidos el día 23 de julio de 2023.",
+      "section": "DOM p block 12"
+    },
+    {
+      "id": "block-00013",
+      "text": "Artículo 2. Convocatoria de elecciones.",
+      "section": "DOM h5 block 13"
+    },
+    {
+      "id": "block-00014",
+      "text": "Se convocan elecciones a ambas Cámaras, que se celebrarán el domingo 29 de noviembre de 2026.",
+      "section": "DOM p block 14"
+    },
+    {
+      "id": "block-00015",
+      "text": "Artículo 3. Diputados y Senadores que corresponden a cada circunscripción.",
+      "section": "DOM h5 block 15"
+    },
+    {
+      "id": "block-00016",
+      "text": "1. En aplicación del artículo 162 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, el número de Diputados correspondiente a cada circunscripción es el que se detalla en el anexo.",
+      "section": "DOM p block 16"
+    },
+    {
+      "id": "block-00017",
+      "text": "2. En aplicación del artículo 165 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en cada circunscripción provincial se eligen cuatro Senadores; en las circunscripciones insulares se eligen tres en Gran Canaria, Mallorca y Tenerife; y uno en Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma.",
+      "section": "DOM p block 17"
+    },
+    {
+      "id": "block-00018",
+      "text": "Las ciudades de Ceuta y Melilla eligen cada una de ellas dos Senadores.",
+      "section": "DOM p block 18"
+    },
+    {
+      "id": "block-00019",
+      "text": "Artículo 4. Campaña electoral.",
+      "section": "DOM h5 block 19"
+    },
+    {
+      "id": "block-00020",
+      "text": "La campaña electoral durará quince días, comenzando a las cero horas del viernes 13 de noviembre y finalizando a las veinticuatro horas del viernes 27 de noviembre.",
+      "section": "DOM p block 20"
+    },
+    {
+      "id": "block-00021",
+      "text": "Artículo 5. Reunión constitutiva de las Cámaras.",
+      "section": "DOM h5 block 21"
+    },
+    {
+      "id": "block-00022",
+      "text": "Celebradas las elecciones convocadas por este real decreto, las Cámaras resultantes se reunirán, en sesiones constitutivas, el día 23 de diciembre, a las diez horas.",
+      "section": "DOM p block 22"
+    },
+    {
+      "id": "block-00023",
+      "text": "Artículo 6. Normas por las que se rigen estas elecciones.",
+      "section": "DOM h5 block 23"
+    },
+    {
+      "id": "block-00024",
+      "text": "Las elecciones convocadas por el presente real decreto se regirán por la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, y su normativa de desarrollo.",
+      "section": "DOM p block 24"
+    },
+    {
+      "id": "block-00025",
+      "text": "Disposición final única. Entrada en vigor.",
+      "section": "DOM h5 block 25"
+    },
+    {
+      "id": "block-00026",
+      "text": "El presente real decreto entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».",
+      "section": "DOM p block 26"
+    },
+    {
+      "id": "block-00027",
+      "text": "Dado el 5 de octubre de 2026.",
+      "section": "DOM p block 27"
+    },
+    {
+      "id": "block-00028",
+      "text": "FELIPE R.",
+      "section": "DOM p block 28"
+    },
+    {
+      "id": "block-00029",
+      "text": "El Presidente del Gobierno,",
+      "section": "DOM p block 29"
+    },
+    {
+      "id": "block-00030",
+      "text": "PEDRO SÁNCHEZ PÉREZ-CASTEJÓN",
+      "section": "DOM p block 30"
+    },
+    {
+      "id": "block-00031",
+      "text": "ANEXO",
+      "section": "DOM h5 block 31"
+    },
+    {
+      "id": "block-00032",
+      "text": "Circunscripción Diputados",
+      "section": "DOM tr block 32"
+    },
+    {
+      "id": "block-00033",
+      "text": "Albacete. Cuatro.",
+      "section": "DOM tr block 33"
+    },
+    {
+      "id": "block-00034",
+      "text": "Alicante/Alacant. Doce.",
+      "section": "DOM tr block 34"
+    },
+    {
+      "id": "block-00035",
+      "text": "Almería. Seis.",
+      "section": "DOM tr block 35"
+    },
+    {
+      "id": "block-00036",
+      "text": "Araba/Álava. Cuatro.",
+      "section": "DOM tr block 36"
+    },
+    {
+      "id": "block-00037",
+      "text": "Asturias. Siete.",
+      "section": "DOM tr block 37"
+    },
+    {
+      "id": "block-00038",
+      "text": "Ávila. Tres.",
+      "section": "DOM tr block 38"
+    },
+    {
+      "id": "block-00039",
+      "text": "Badajoz. Cinco.",
+      "section": "DOM tr block 39"
+    },
+    {
+      "id": "block-00040",
+      "text": "Balears (Illes). Ocho.",
+      "section": "DOM tr block 40"
+    },
+    {
+      "id": "block-00041",
+      "text": "Barcelona. Treinta y dos.",
+      "section": "DOM tr block 41"
+    },
+    {
+      "id": "block-00042",
+      "text": "Bizkaia. Ocho.",
+      "section": "DOM tr block 42"
+    },
+    {
+      "id": "block-00043",
+      "text": "Burgos. Cuatro.",
+      "section": "DOM tr block 43"
+    },
+    {
+      "id": "block-00044",
+      "text": "Cáceres. Cuatro.",
+      "section": "DOM tr block 44"
+    },
+    {
+      "id": "block-00045",
+      "text": "Cádiz. Ocho.",
+      "section": "DOM tr block 45"
+    },
+    {
+      "id": "block-00046",
+      "text": "Cantabria. Cinco.",
+      "section": "DOM tr block 46"
+    },
+    {
+      "id": "block-00047",
+      "text": "Castellón/Castelló. Cinco.",
+      "section": "DOM tr block 47"
+    },
+    {
+      "id": "block-00048",
+      "text": "Ciudad Real. Cinco.",
+      "section": "DOM tr block 48"
+    },
+    {
+      "id": "block-00049",
+      "text": "Córdoba. Seis.",
+      "section": "DOM tr block 49"
+    },
+    {
+      "id": "block-00050",
+      "text": "Coruña (A). Ocho.",
+      "section": "DOM tr block 50"
+    },
+    {
+      "id": "block-00051",
+      "text": "Cuenca. Tres.",
+      "section": "DOM tr block 51"
+    },
+    {
+      "id": "block-00052",
+      "text": "Gipuzkoa. Seis.",
+      "section": "DOM tr block 52"
+    },
+    {
+      "id": "block-00053",
+      "text": "Girona. Seis.",
+      "section": "DOM tr block 53"
+    },
+    {
+      "id": "block-00054",
+      "text": "Granada. Siete.",
+      "section": "DOM tr block 54"
+    },
+    {
+      "id": "block-00055",
+      "text": "Guadalajara. Tres.",
+      "section": "DOM tr block 55"
+    },
+    {
+      "id": "block-00056",
+      "text": "Huelva. Cinco.",
+      "section": "DOM tr block 56"
+    },
+    {
+      "id": "block-00057",
+      "text": "Huesca. Tres.",
+      "section": "DOM tr block 57"
+    },
+    {
+      "id": "block-00058",
+      "text": "Jaén. Cinco.",
+      "section": "DOM tr block 58"
+    },
+    {
+      "id": "block-00059",
+      "text": "León. Cuatro.",
+      "section": "DOM tr block 59"
+    },
+    {
+      "id": "block-00060",
+      "text": "Lleida. Cuatro.",
+      "section": "DOM tr block 60"
+    },
+    {
+      "id": "block-00061",
+      "text": "Lugo. Cuatro.",
+      "section": "DOM tr block 61"
+    },
+    {
+      "id": "block-00062",
+      "text": "Madrid. Treinta y ocho.",
+      "section": "DOM tr block 62"
+    },
+    {
+      "id": "block-00063",
+      "text": "Málaga. Once.",
+      "section": "DOM tr block 63"
+    },
+    {
+      "id": "block-00064",
+      "text": "Murcia. Diez.",
+      "section": "DOM tr block 64"
+    },
+    {
+      "id": "block-00065",
+      "text": "Navarra. Cinco.",
+      "section": "DOM tr block 65"
+    },
+    {
+      "id": "block-00066",
+      "text": "Ourense. Cuatro.",
+      "section": "DOM tr block 66"
+    },
+    {
+      "id": "block-00067",
+      "text": "Palencia. Tres.",
+      "section": "DOM tr block 67"
+    },
+    {
+      "id": "block-00068",
+      "text": "Palmas (Las). Ocho.",
+      "section": "DOM tr block 68"
+    },
+    {
+      "id": "block-00069",
+      "text": "Pontevedra. Siete.",
+      "section": "DOM tr block 69"
+    },
+    {
+      "id": "block-00070",
+      "text": "Rioja (La). Cuatro.",
+      "section": "DOM tr block 70"
+    },
+    {
+      "id": "block-00071",
+      "text": "Salamanca. Cuatro.",
+      "section": "DOM tr block 71"
+    },
+    {
+      "id": "block-00072",
+      "text": "Santa Cruz de Tenerife. Siete.",
+      "section": "DOM tr block 72"
+    },
+    {
+      "id": "block-00073",
+      "text": "Segovia. Tres.",
+      "section": "DOM tr block 73"
+    },
+    {
+      "id": "block-00074",
+      "text": "Sevilla. Doce.",
+      "section": "DOM tr block 74"
+    },
+    {
+      "id": "block-00075",
+      "text": "Soria. Dos.",
+      "section": "DOM tr block 75"
+    },
+    {
+      "id": "block-00076",
+      "text": "Tarragona. Seis.",
+      "section": "DOM tr block 76"
+    },
+    {
+      "id": "block-00077",
+      "text": "Teruel. Tres.",
+      "section": "DOM tr block 77"
+    },
+    {
+      "id": "block-00078",
+      "text": "Toledo. Seis.",
+      "section": "DOM tr block 78"
+    },
+    {
+      "id": "block-00079",
+      "text": "Valencia/València. Dieciséis.",
+      "section": "DOM tr block 79"
+    },
+    {
+      "id": "block-00080",
+      "text": "Valladolid. Cinco.",
+      "section": "DOM tr block 80"
+    },
+    {
+      "id": "block-00081",
+      "text": "Zamora. Tres.",
+      "section": "DOM tr block 81"
+    },
+    {
+      "id": "block-00082",
+      "text": "Zaragoza. Siete.",
+      "section": "DOM tr block 82"
+    },
+    {
+      "id": "block-00083",
+      "text": "Ceuta. Uno.",
+      "section": "DOM tr block 83"
+    },
+    {
+      "id": "block-00084",
+      "text": "Melilla. Uno.",
+      "section": "DOM tr block 84"
+    },
+    {
+      "id": "block-00085",
+      "text": "ANÁLISIS",
+      "section": "DOM h4 block 85"
+    },
+    {
+      "id": "block-00086",
+      "text": "Referencias anteriores",
+      "section": "DOM h5 block 86"
+    },
+    {
+      "id": "block-00087",
+      "text": "Materias",
+      "section": "DOM h5 block 87"
+    },
+    {
+      "id": "block-00088",
+      "text": "subir",
+      "section": "DOM p block 88"
+    },
+    {
+      "id": "block-00089",
+      "text": "Agencia Estatal Boletín Oficial del Estado",
+      "section": "DOM p block 89"
+    },
+    {
+      "id": "block-00090",
+      "text": "Avda. de Manoteras, 54 - 28050 Madrid",
+      "section": "DOM p block 90"
+    }
+  ]
+}
