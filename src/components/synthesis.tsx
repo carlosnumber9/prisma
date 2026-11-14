@@ -58,28 +58,23 @@ export function SynthesisReader({
                 {point.citations.map((citation, index) => {
                   const source = repository.getSource(citation.sourceId);
                   return (
-                    <figure
+                    <div
+                      className={styles.sourceReference}
                       key={`${citation.sourceId}/${citation.segmentId}/${index}`}
                     >
-                      <blockquote lang="">
-                        <p>{citation.quote}</p>
-                      </blockquote>
-                      <figcaption>
-                        <a href={citationUrl(source, citation)} lang="">
-                          {source.title}
-                        </a>
-                        <span>
-                          {citation.page !== undefined ? (
-                            citationLocation(citation, locale)
-                          ) : (
-                            <>
-                              {m.section}{' '}
-                              <span lang="">{citation.section}</span>
-                            </>
-                          )}
-                        </span>
-                      </figcaption>
-                    </figure>
+                      <a href={citationUrl(source, citation)} lang="">
+                        {source.title}
+                      </a>
+                      <span className={styles.sourceLocation}>
+                        {citation.page !== undefined ? (
+                          citationLocation(citation, locale)
+                        ) : (
+                          <>
+                            {m.section} <span lang="">{citation.section}</span>
+                          </>
+                        )}
+                      </span>
+                    </div>
                   );
                 })}
               </details>

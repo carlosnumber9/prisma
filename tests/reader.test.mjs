@@ -262,7 +262,7 @@ test('pending markup states unavailability without a review, points or source se
   assert.ok(!html.includes('<article'));
 });
 
-test('reviewed markup retains anchors, conditions, escaped quotes and physical source references', () => {
+test('reviewed markup retains anchors, conditions and physical source links without source quotations', () => {
   for (const status of ['partial', 'complete']) {
     const html = renderToStaticMarkup(
       createElement(SynthesisReader, fixture(status)),
@@ -270,7 +270,10 @@ test('reviewed markup retains anchors, conditions, escaped quotes and physical s
     assert.ok(html.includes('id="stable-point"'));
     assert.ok(html.includes('aria-label="Copiar enlace a'));
     assert.ok(html.includes('Synthetic summary subject to a condition.'));
-    assert.ok(html.includes('Synthetic source &lt;text&gt; with a condition.'));
+    assert.ok(
+      !html.includes('Synthetic source &lt;text&gt; with a condition.'),
+    );
+    assert.ok(!html.includes('<blockquote'));
     assert.ok(html.includes('href="https://example.org/program.pdf#page=3"'));
     assert.ok(html.includes('Página 3 (numeración impresa: i)'));
     assert.ok(!html.includes('Revisión 2'));
@@ -294,7 +297,7 @@ test('a complete empty review renders its evidence rather than an unavailable me
   assert.ok(!html.includes('<article'));
 });
 
-test('each language selects its own approved fields and retains original evidence', async () => {
+test('each language selects its own approved fields and links to original sources', async () => {
   const { locales } = await import('../src/lib/locales.mjs');
   const { dictionaries } = await import('../src/lib/i18n.ts');
   const { synthesis, repository } = fixture('partial');
@@ -313,8 +316,12 @@ test('each language selects its own approved fields and retains original evidenc
       ),
     );
     assert.ok(!html.includes('class="permalink"'));
-    assert.ok(html.includes('<blockquote lang="">'));
-    assert.ok(html.includes('Synthetic source &lt;text&gt; with a condition.'));
+    assert.ok(!html.includes('<blockquote'));
+    assert.ok(html.includes('Synthetic official document'));
+    assert.ok(
+      !html.includes('Synthetic source &lt;text&gt; with a condition.'),
+    );
+    assert.ok(!html.includes('<blockquote'));
     assert.ok(html.includes('id="stable-point"'));
     if (locale !== 'es') assert.ok(!html.includes('aria-label="Enlace a'));
   }

@@ -1,5 +1,7 @@
 # Prisma
 
+Proposal source disclosures now show only source links and their page or section locations, without literal quotations.
+
 Proposal titles now include an icon that copies their localized URL and stable anchor. It appears on hover or keyboard focus, stays visible on touch devices and confirms successful copying with an animated tick for two seconds. Clipboard errors expose a selectable URL for manual copying.
 
 Route content now fades out over 100 milliseconds and in over 120 milliseconds during same-locale client navigation. A persistent layout retains the navbar, halftone background and breadcrumb. Native Web Animations is preferred, with GSAP as the compatibility fallback; reduced motion skips the transitions. Browser verification remains pending.

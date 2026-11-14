@@ -1,5 +1,7 @@
 # Delivery roadmap
 
+Proposal source disclosures now omit literal quotations and retain the existing official links and physical page or section references. Supporting evidence remains preserved in editorial data.
+
 Proposal titles now offer icon-based URL copying with a two-second success tick, hover/focus appearance and persistent touch access. Clipboard failures retain a manual-copy path; reduced motion and localized feedback are implemented. Browser verification remains pending.
 
 The locale layout now keeps the shell persistent during client navigation. Route content uses a 100-millisecond exit followed by a 120-millisecond entrance, with outgoing visual copies excluded from interaction and accessibility. New animations prefer native browser APIs, with GSAP as a compatibility fallback and reduced-motion support. Browser verification remains pending.

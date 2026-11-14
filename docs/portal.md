@@ -30,7 +30,7 @@ Home opens with the existing title above an animated glass prism and a centred e
 - `partial`: approved points and citations, without a public review badge or notice.
 - `complete`: approved points and sources, without a public revision or review date. An empty complete synthesis says no proposals were identified in the consulted sources and retains those sources.
 
-Points preserve their IDs as shareable anchors. Native disclosure controls expose source quotations without client-side state. PDF references retain physical and optional printed page numbers; HTML references use only actual source anchors. Dates use the selected language and UTC, with explicit Aranese month names independent of runtime ICU support. Sources link to official URLs; local originals, extraction and review records are never copied into web assets.
+Points preserve their IDs as shareable anchors. Native disclosure controls expose source links and page or section locations; literal supporting quotations remain in editorial data and are not rendered. PDF references retain physical and optional printed page numbers; HTML references use only actual source anchors. Dates use the selected language and UTC, with explicit Aranese month names independent of runtime ICU support. Sources link to official URLs; local originals, extraction and review records are never copied into web assets.
 
 Review state, revision and review dates remain in editorial and generated records for validation and indexing. They are not presented in directory links, synthesis pages, accessible labels or metadata. Unavailable summaries retain a neutral availability explanation in all six languages; this never implies a formation has no proposals.
 
