@@ -249,7 +249,7 @@
   margin: 0;
   max-width: 80ch;
 }
-.main > h2 {
+.routeContent > h2 {
   font-size: 1.6rem;
   letter-spacing: -0.025em;
 }
@@ -450,4 +450,8 @@
   .header {
     gap: 1rem;
   }
+}
+
+.routeContent {
+  display: flow-root;
 }

@@ -22,10 +22,7 @@ export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   const m = dictionaries[locale];
   return (
-    <Shell
-      locale={locale}
-      background={<PrismBackground anchorId="prism-anchor" />}
-    >
+    <Shell background={<PrismBackground anchorId="prism-anchor" />}>
       <section className={styles.homeIntro} aria-labelledby="prism-title">
         <div className={styles.homeComposition}>
           <h1 id="prism-title">{m.hero}</h1>

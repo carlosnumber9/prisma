@@ -32,12 +32,7 @@ export default async function PartyPage({ params }: Props) {
   const party = content.getParty(id);
   if (!party) notFound();
   return (
-    <Shell
-      locale={locale}
-      party={party}
-      section="parties"
-      crumbs={[{ label: m.parties, href: '/parties' }, { label: party.name }]}
-    >
+    <Shell>
       <PartyBanner party={party} locale={locale} />
       <h2>{m.programmeTopics}</h2>
       <Directory

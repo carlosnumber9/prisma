@@ -43,16 +43,7 @@ export default async function SynthesisPage({ params }: Props) {
   const m = dictionaries[locale];
   const { party, topic, synthesis } = findPage(ids.party, ids.topic);
   return (
-    <Shell
-      locale={locale}
-      party={party}
-      section="parties"
-      crumbs={[
-        { label: m.parties, href: '/parties' },
-        { label: party.name, href: `/parties/${party.id}` },
-        { label: topic.label[locale] },
-      ]}
-    >
+    <Shell>
       <PageHeader
         title={topic.label[locale]}
         description={`${party.name} · ${m.areaSummary}`}

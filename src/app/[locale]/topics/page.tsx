@@ -16,7 +16,7 @@ export default async function TopicsPage({ params }: Props) {
   const { locale } = await params;
   const m = dictionaries[locale];
   return (
-    <Shell locale={locale} section="topics" crumbs={[{ label: m.topics }]}>
+    <Shell>
       <PageHeader title={m.topics} description={m.topicsDescription} />
       <Directory
         locale={locale}

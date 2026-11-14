@@ -31,14 +31,7 @@ export default async function TopicPage({ params }: Props) {
   const topic = content.getTopic(id);
   if (!topic) notFound();
   return (
-    <Shell
-      locale={locale}
-      section="topics"
-      crumbs={[
-        { label: m.topics, href: '/topics' },
-        { label: topic.label[locale] },
-      ]}
-    >
+    <Shell>
       <PageHeader
         title={topic.label[locale]}
         description={m.topicDescription}

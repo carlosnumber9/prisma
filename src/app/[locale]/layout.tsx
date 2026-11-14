@@ -5,6 +5,9 @@ import { dictionaries, isLocale, locales } from '../../lib/i18n';
 import { origin } from '../../lib/site';
 import { mako } from '../font';
 import '../globals.css';
+import { ShellFrame } from '../../components/shell-frame';
+import { shellRoutes } from '../../lib/shell-routes';
+import { content } from '../../lib/public-content';
 
 type Props = { params: Promise<{ locale: string }> };
 export const dynamicParams = false;
@@ -29,7 +32,14 @@ export default async function RootLayout({
   if (!isLocale(locale)) notFound();
   return (
     <html lang={locale} className={mako.variable}>
-      <body>{children}</body>
+      <body>
+        <ShellFrame
+          locale={locale}
+          routes={shellRoutes(locale, content.parties, content.topics)}
+        >
+          {children}
+        </ShellFrame>
+      </body>
     </html>
   );
 }

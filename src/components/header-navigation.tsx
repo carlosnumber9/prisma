@@ -21,10 +21,6 @@ type Selection = {
   bounds?: { left: number; width: number };
 };
 
-// Page-owned shells remount during navigation; retain only the last visible
-// selection in this browser session so its outline can continue moving.
-let lastSelection: Selection | undefined;
-
 function subscribeToMobileNavigation(listener: () => void) {
   const query = window.matchMedia('(max-width: 768px)');
   query.addEventListener('change', listener);
@@ -38,9 +34,11 @@ function isMobileNavigation() {
 export function HeaderNavigation({
   locale,
   section,
+  routePath = '',
 }: {
   locale: Locale;
   section?: Section;
+  routePath?: string;
 }) {
   const m = dictionaries[locale];
   const mobile = useSyncExternalStore(
@@ -48,7 +46,10 @@ export function HeaderNavigation({
     isMobileNavigation,
     () => false,
   );
-  const [menuOpen, setMenuOpen] = useState(false);
+  const [menu, setMenu] = useState({ path: routePath, open: false });
+  const menuOpen = menu.path === routePath && menu.open;
+  const setMenuOpen = (open: boolean) => setMenu({ path: routePath, open });
+  const lastSelection = useRef<Selection | undefined>(undefined);
   const panelId = useId();
   const rootRef = useRef<HTMLElement>(null);
   const toggleRef = useRef<HTMLButtonElement>(null);
@@ -107,7 +108,7 @@ export function HeaderNavigation({
   useEffect(() => {
     const mobile = window.matchMedia('(max-width: 768px)');
     const resetMenu = () => {
-      setMenuOpen(false);
+      setMenu({ path: routePath, open: false });
       if (mobile.matches && rootRef.current?.contains(document.activeElement)) {
         toggleRef.current?.focus();
       } else if (
@@ -119,7 +120,7 @@ export function HeaderNavigation({
     };
     mobile.addEventListener('change', resetMenu);
     return () => mobile.removeEventListener('change', resetMenu);
-  }, []);
+  }, [routePath]);
 
   useEffect(() => {
     if (!menuOpen) return;
@@ -129,13 +130,13 @@ export function HeaderNavigation({
         event.target instanceof Node &&
         !rootRef.current?.contains(event.target)
       ) {
-        setMenuOpen(false);
+        setMenu({ path: routePath, open: false });
       }
     };
     const dismissOnEscape = (event: KeyboardEvent) => {
       if (event.key !== 'Escape' || event.defaultPrevented) return;
       event.preventDefault();
-      setMenuOpen(false);
+      setMenu({ path: routePath, open: false });
       toggleRef.current?.focus();
     };
     document.addEventListener('pointerdown', dismissOutside);
@@ -144,16 +145,16 @@ export function HeaderNavigation({
       document.removeEventListener('pointerdown', dismissOutside);
       document.removeEventListener('keydown', dismissOnEscape);
     };
-  }, [menuOpen]);
+  }, [menuOpen, routePath]);
 
   useLayoutEffect(() => {
     const transition = transitionRef.current;
     const previous =
       transition?.locale === locale && transition.section === section
         ? transition.previous
-        : lastSelection;
+        : lastSelection.current;
     transitionRef.current = { locale, section, previous };
-    lastSelection = { locale, section };
+    lastSelection.current = { locale, section };
 
     const navigation = navigationRef.current;
     const indicator = indicatorRef.current;
@@ -198,7 +199,7 @@ export function HeaderNavigation({
     document.fonts.addEventListener('loadingdone', settle);
     return () => {
       const { left, width } = indicator.getBoundingClientRect();
-      lastSelection = {
+      lastSelection.current = {
         locale,
         section,
         bounds: width > 0 ? { left, width } : undefined,
@@ -217,7 +218,7 @@ export function HeaderNavigation({
       ref={rootRef}
       onBlur={(event) => {
         if (!event.currentTarget.contains(event.relatedTarget)) {
-          setMenuOpen(false);
+          setMenu({ path: routePath, open: false });
         }
       }}
     >
@@ -228,7 +229,7 @@ export function HeaderNavigation({
         aria-label={m.nav}
         aria-expanded={menuOpen}
         aria-controls={panelId}
-        onClick={() => setMenuOpen((open) => !open)}
+        onClick={() => setMenuOpen(!menuOpen)}
       >
         <span className={styles.burger} aria-hidden="true" />
       </button>

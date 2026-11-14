@@ -1,5 +1,7 @@
 # Prisma
 
+Route content now fades out over 100 milliseconds and in over 120 milliseconds during same-locale client navigation. A persistent layout retains the navbar, halftone background and breadcrumb. Native Web Animations is preferred, with GSAP as the compatibility fallback; reduced motion skips the transitions. Browser verification remains pending.
+
 Prisma will help Spanish citizens read reviewed summaries of official programmes for the general election on 29 November 2026, by electoral formation and policy area.
 
 The editorial foundation and statically prerendered Next.js portal are implemented. The initial limited catalogue contains PP, PSOE, VOX, ERC and Frente Amplio, with eight policy areas. The first approved batch gives the PP eight partial summaries and 24 proposals. The other 32 summaries are pending. The correction form, comparator, chat and Vercel integration remain future deliveries.

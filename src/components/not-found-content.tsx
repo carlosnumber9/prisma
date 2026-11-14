@@ -5,7 +5,7 @@ import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
 export function NotFoundContent({ locale }: { locale: Locale }) {
   const m = dictionaries[locale];
   return (
-    <Shell locale={locale}>
+    <Shell>
       <PageHeader title={m.notFound} description={m.notFoundDescription} />
       <p>
         <Link href={localizedPath('/', locale)}>{m.backHome}</Link>
