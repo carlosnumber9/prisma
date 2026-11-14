@@ -101,3 +101,7 @@ The native `prisma-synthesis` profile turns eligible preserved programme evidenc
 ## Research consumption optimisation — implemented, savings measurement pending
 
 Role-specific model/reasoning settings, fresh bounded handoffs, hash-verified source reuse, limited targeted escalation and per-task quality/usage records follow the [efficiency protocol](research-efficiency.md). A read-only offline helper validates task packets and cached bytes and aggregates known metrics without treating missing telemetry as zero. Local synthetic tests cover these mechanics. No new political investigation or model-cost comparison was performed; actual savings require equivalent frozen workloads, runtime usage evidence and independent QA.
+
+## Source credential screening — implemented
+
+A bounded offline `sources:check` command now scans programme and political-reference captures in `npm run check`, including raw byte streams, and reports locations without credential values. Synthetic tests cover token detection, redacted evidence, non-disclosure in CLI diagnostics and symlink rejection. It does not replace remote scanning or inspect Git history. Two PP Balears captures were replaced by explicitly redacted, hash-versioned derivatives before rebuilding the unpublished candidature commits; electoral extraction text is unchanged. See [credential handling](engineering-conventions.md#secrets-and-future-integrations).

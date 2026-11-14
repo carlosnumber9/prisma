@@ -20,19 +20,20 @@ Each commit must be coherent and independently verifiable, without relying on a 
 
 Use Node.js 24.x (`.nvmrc`) and npm 10.8.2 (`packageManager`). Use `npm ci` for locked installation when dependencies are needed. Do not change a developer's global npm settings or registry as an incidental fix; an explicit per-command public registry override can be used for public dependencies.
 
-| Command                    | Purpose                                                                                             |
-| -------------------------- | --------------------------------------------------------------------------------------------------- |
-| `npm run typecheck`        | Check Node tooling and the strict Next application; generate route types without starting a server. |
-| `npm run lint`             | Check tooling, tests and application code with ESLint and the Next presets.                         |
-| `npm run format:check`     | Check maintained files with Prettier; exclude source snapshots, generated output and reports.       |
-| `npm run docs:check`       | Validate local documentation links and skill metadata.                                              |
-| `npm run content:generate` | Validate inputs and generate approved public JSON.                                                  |
-| `npm run content:check`    | Validate and compare generated JSON without writing.                                                |
-| `npm run check`            | Run static checks and content validation, without tests or a build.                                 |
-| `npm run test`             | Run deterministic Node tests.                                                                       |
-| `npm run test:app`         | Run application content and presentation tests without a server.                                    |
-| `npm run test:coverage`    | Run tests and write diagnostic generator coverage to `coverage/lcov.info`.                          |
-| `npm run build`            | Check generated JSON, compile Next and verify prerendered HTML, SEO and routes without a server.    |
+| Command                    | Purpose                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `npm run typecheck`        | Check Node tooling and the strict Next application; generate route types without starting a server.        |
+| `npm run lint`             | Check tooling, tests and application code with ESLint and the Next presets.                                |
+| `npm run format:check`     | Check maintained files with Prettier; exclude source snapshots, generated output and reports.              |
+| `npm run sources:check`    | Scan programme and political-reference source trees for bounded credential signatures; never print values. |
+| `npm run docs:check`       | Validate local documentation links and skill metadata.                                                     |
+| `npm run content:generate` | Validate inputs and generate approved public JSON.                                                         |
+| `npm run content:check`    | Validate and compare generated JSON without writing.                                                       |
+| `npm run check`            | Run static checks and content validation, without tests or a build.                                        |
+| `npm run test`             | Run deterministic Node tests.                                                                              |
+| `npm run test:app`         | Run application content and presentation tests without a server.                                           |
+| `npm run test:coverage`    | Run tests and write diagnostic generator coverage to `coverage/lcov.info`.                                 |
+| `npm run build`            | Check generated JSON, compile Next and verify prerendered HTML, SEO and routes without a server.           |
 
 Use targeted tests while iterating, then relevant static checks and tests before publication. Add tests that reduce risk or clarify behaviour; do not write application tests that merely repeat documentation. Mock network, database and provider boundaries. Fixtures must remain synthetic and outside the real content corpus. Coverage has no global percentage threshold.
 
@@ -48,7 +49,13 @@ A workflow definition is executable evidence of configured triggers, not proof o
 
 ## Secrets and future integrations
 
-Never commit credentials, tokens, private keys, private environment files, sensitive generated reports or model assets. Use ignored local environment files and examples without real secret values. Preserve ignore rules for dependencies, build output, coverage, logs and temporary database files; ignoring a file does not make its contents safe.
+Never commit credentials, tokens, private keys, private environment files, sensitive generated reports or model assets.
+
+`npm run sources:check` scans all files in `content/sources` and `content/political-info/sources`, including raw byte streams, for Mapbox access tokens (both prefixes), GitHub token signatures, AWS access-key IDs and private-key headers. It runs in `npm run check` and reports paths, lines and signature types without matched values. It rejects symlinks. This bounded offline check does not validate credentials, decode compressed or encoded payloads, inspect Git history or replace remote push protection. Before publication after a blocked push, also inspect every unpublished commit: deleting a value only from the latest tree leaves it in earlier commits.
+
+Credential-bearing captures must use the political-reference contract's `redacted.<ext>` derivative convention: remove the value, set `redacted: true`, hash the derivative, assign its hash-derived source ID and update extraction metadata and citations together. Record what was removed and the comparison checks in review without reproducing credentials. Preserve relevant evidence and original capture dates; never claim a derivative hash authenticates the original. Reconstruct only explicitly authorised unpublished history; never bypass push protection or force-push shared history.
+
+Use ignored local environment files and examples without real secret values. Preserve ignore rules for dependencies, build output, coverage, logs and temporary database files; ignoring a file does not make its contents safe.
 
 There is no database, provider synchronisation, model service or deployment configuration in this delivery. If Supabase is introduced, schema changes belong in migrations, deployment remains manual until explicitly authorised, and remote migration state must be verified before application. Do not use production credentials in tests or edit remote schema outside the documented migration workflow.
 

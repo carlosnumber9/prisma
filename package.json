@@ -20,8 +20,9 @@
     "lint": "eslint scripts tests src next.config.ts eslint.config.mjs",
     "format:check": "prettier --check .",
     "docs:check": "node scripts/check-docs.mjs",
-    "check": "npm run typecheck && npm run lint && npm run format:check && npm run docs:check && npm run content:check",
-    "test:coverage": "node scripts/test-coverage.mjs"
+    "check": "npm run typecheck && npm run lint && npm run format:check && npm run docs:check && npm run content:check && npm run sources:check",
+    "test:coverage": "node scripts/test-coverage.mjs",
+    "sources:check": "node scripts/check-source-secrets.mjs"
   },
   "version": "0.1.0",
   "packageManager": "npm@10.8.2",

@@ -38,7 +38,7 @@ npm run test:coverage
 npm run build
 ```
 
-`check` runs tooling/application type checking, lint, formatting, documentation checks and generated-content validation. It does not run tests or an application build. `build` validates existing generated JSON, compiles Next and checks the prerendered portal HTML without starting a server. Development tools are locked; the content generator uses only Node standard libraries at runtime.
+`check` runs tooling/application type checking, lint, formatting, documentation checks, generated-content validation and bounded credential screening of source captures. It does not run tests or an application build. `build` validates existing generated JSON, compiles Next and checks the prerendered portal HTML without starting a server. Development tools are locked; the content generator uses only Node standard libraries at runtime.
 
 `npm run dev` and `npm run start` are available for explicitly requested local runs; they are not incidental verification. Optional `SITE_URL` configures canonical URLs and the sitemap after a production domain is selected; see [.env.example](.env.example). See [portal implementation](docs/portal.md) for architecture, tests and the logical commit sequence.
 
