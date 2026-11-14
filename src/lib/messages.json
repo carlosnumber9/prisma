@@ -33,8 +33,6 @@
     "pendingDescription": "Este apartado todavía no tiene un resumen disponible.",
     "absenceNote": "La ausencia de resumen no significa que el partido no tenga propuestas.",
     "noProposals": "Sin propuestas identificadas en las fuentes consultadas",
-    "linkTo": "Enlace a {title}",
-    "permalink": "Enlace a esta propuesta",
     "evidence": "Ver fuentes y citas ({count})",
     "sources": "Fuentes consultadas",
     "pdf": "Documento PDF",
@@ -50,7 +48,10 @@
     "months": "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre",
     "date": "{day} de {month} de {year}",
     "emptyDescription": "No se han identificado propuestas para esta área en las fuentes consultadas. Puedes consultar esas fuentes abajo.",
-    "proposals": "Propuestas"
+    "proposals": "Propuestas",
+    "copyLink": "Copiar enlace a {title}",
+    "linkCopied": "Enlace copiado",
+    "copyError": "No se pudo copiar el enlace. Selecciona el campo para copiarlo manualmente."
   },
   "ca": {
     "language": "Idioma",
@@ -86,8 +87,6 @@
     "pendingDescription": "Aquest apartat encara no té un resum disponible.",
     "absenceNote": "L’absència de resum no significa que el partit no tingui propostes.",
     "noProposals": "Sense propostes identificades en les fonts consultades",
-    "linkTo": "Enllaç a {title}",
-    "permalink": "Enllaç a aquesta proposta",
     "evidence": "Mostra les fonts i les cites ({count})",
     "sources": "Fonts consultades",
     "pdf": "Document PDF",
@@ -103,7 +102,10 @@
     "months": "de gener|de febrer|de març|d’abril|de maig|de juny|de juliol|d’agost|de setembre|d’octubre|de novembre|de desembre",
     "date": "{day} {month} de {year}",
     "emptyDescription": "No s’han identificat propostes per a aquesta àrea en les fonts consultades. Pots consultar aquestes fonts a continuació.",
-    "proposals": "Propostes"
+    "proposals": "Propostes",
+    "copyLink": "Copia l’enllaç a {title}",
+    "linkCopied": "Enllaç copiat",
+    "copyError": "No s’ha pogut copiar l’enllaç. Selecciona el camp per copiar-lo manualment."
   },
   "gl": {
     "language": "Idioma",
@@ -139,8 +141,6 @@
     "pendingDescription": "Este apartado aínda non ten un resumo dispoñible.",
     "absenceNote": "A ausencia de resumo non significa que o partido non teña propostas.",
     "noProposals": "Sen propostas identificadas nas fontes consultadas",
-    "linkTo": "Ligazón a {title}",
-    "permalink": "Ligazón a esta proposta",
     "evidence": "Ver fontes e citas ({count})",
     "sources": "Fontes consultadas",
     "pdf": "Documento PDF",
@@ -156,7 +156,10 @@
     "months": "xaneiro|febreiro|marzo|abril|maio|xuño|xullo|agosto|setembro|outubro|novembro|decembro",
     "date": "{day} de {month} de {year}",
     "emptyDescription": "Non se identificaron propostas para esta área nas fontes consultadas. Podes consultar esas fontes abaixo.",
-    "proposals": "Propostas"
+    "proposals": "Propostas",
+    "copyLink": "Copiar ligazón a {title}",
+    "linkCopied": "Ligazón copiada",
+    "copyError": "Non se puido copiar a ligazón. Selecciona o campo para copiala manualmente."
   },
   "eu": {
     "language": "Hizkuntza",
@@ -192,8 +195,6 @@
     "pendingDescription": "Atal honek ez du oraindik laburpenik eskuragarri.",
     "absenceNote": "Laburpenik ez egoteak ez du esan nahi alderdiak proposamenik ez duenik.",
     "noProposals": "Ez da proposamenik identifikatu kontsultatutako iturrietan",
-    "linkTo": "Esteka: {title}",
-    "permalink": "Proposamen honetarako esteka",
     "evidence": "Ikusi iturriak eta aipuak ({count})",
     "sources": "Kontsultatutako iturriak",
     "pdf": "PDF dokumentua",
@@ -209,7 +210,10 @@
     "months": "urtarril|otsail|martxo|apiril|maiatz|ekain|uztail|abuztu|irail|urri|azaro|abendu",
     "date": "{year}ko {month}aren {day}a",
     "emptyDescription": "Ez da arlo honetarako proposamenik identifikatu kontsultatutako iturrietan. Iturri horiek behean kontsulta ditzakezu.",
-    "proposals": "Proposamenak"
+    "proposals": "Proposamenak",
+    "copyLink": "Kopiatu {title} proposamenaren esteka",
+    "linkCopied": "Esteka kopiatuta",
+    "copyError": "Ezin izan da esteka kopiatu. Hautatu eremua eskuz kopiatzeko."
   },
   "oc": {
     "language": "Lengua",
@@ -245,8 +249,6 @@
     "pendingDescription": "Aguest apartat encara non a un resum disponible.",
     "absenceNote": "Era abséncia de resum non vò díder qu’eth partit non age prepauses.",
     "noProposals": "Sense prepauses identificades enes hònts consultades",
-    "linkTo": "Ligam a {title}",
-    "permalink": "Ligam ad aguesta prepausa",
     "evidence": "Veir hònts e cites ({count})",
     "sources": "Hònts consultades",
     "pdf": "Document PDF",
@@ -262,7 +264,10 @@
     "months": "gèr|hereuèr|març|abriu|mai|junh|junhsèga|agost|seteme|octobre|noveme|deseme",
     "date": "{day} de {month} de {year}",
     "emptyDescription": "Non s’an identificat prepauses entà aguest airau enes hònts consultades. Pòdes consultar aguestes hònts mès enjós.",
-    "proposals": "Prepauses"
+    "proposals": "Prepauses",
+    "copyLink": "Copiar eth ligam a {title}",
+    "linkCopied": "Ligam copiat",
+    "copyError": "Non s’a pogut copiar eth ligam. Selecciona eth camp entà copiar-lo manuaument."
   },
   "en": {
     "language": "Language",
@@ -298,8 +303,6 @@
     "pendingDescription": "This section does not yet have a summary available.",
     "absenceNote": "The absence of a summary does not mean the party has no proposals.",
     "noProposals": "No proposals identified in the consulted sources",
-    "linkTo": "Link to {title}",
-    "permalink": "Link to this proposal",
     "evidence": "View sources and quotations ({count})",
     "sources": "Sources consulted",
     "pdf": "PDF document",
@@ -315,6 +318,9 @@
     "months": "January|February|March|April|May|June|July|August|September|October|November|December",
     "date": "{month} {day}, {year}",
     "emptyDescription": "No proposals for this policy area were identified in the consulted sources. You can consult those sources below.",
-    "proposals": "Proposals"
+    "proposals": "Proposals",
+    "copyLink": "Copy link to {title}",
+    "linkCopied": "Link copied",
+    "copyError": "The link could not be copied. Select the field to copy it manually."
   }
 }

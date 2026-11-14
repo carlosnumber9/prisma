@@ -268,7 +268,7 @@ test('reviewed markup retains anchors, conditions, escaped quotes and physical s
       createElement(SynthesisReader, fixture(status)),
     );
     assert.ok(html.includes('id="stable-point"'));
-    assert.ok(html.includes('href="#stable-point"'));
+    assert.ok(html.includes('aria-label="Copiar enlace a'));
     assert.ok(html.includes('Synthetic summary subject to a condition.'));
     assert.ok(html.includes('Synthetic source &lt;text&gt; with a condition.'));
     assert.ok(html.includes('href="https://example.org/program.pdf#page=3"'));
@@ -304,7 +304,15 @@ test('each language selects its own approved fields and retains original evidenc
     );
     assert.ok(html.includes(synthesis.points[0].text[locale]));
     assert.ok(html.includes(dictionaries[locale].sources));
-    assert.ok(html.includes(dictionaries[locale].permalink));
+    assert.ok(
+      html.includes(
+        dictionaries[locale].copyLink.replace(
+          '{title}',
+          synthesis.points[0].title[locale],
+        ),
+      ),
+    );
+    assert.ok(!html.includes('class="permalink"'));
     assert.ok(html.includes('<blockquote lang="">'));
     assert.ok(html.includes('Synthetic source &lt;text&gt; with a condition.'));
     assert.ok(html.includes('id="stable-point"'));

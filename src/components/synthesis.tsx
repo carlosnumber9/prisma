@@ -7,6 +7,7 @@ import {
   synthesisState,
 } from '../lib/presentation';
 import styles from './portal.module.css';
+import { ProposalLink } from './proposal-link';
 
 export function SynthesisReader({
   synthesis,
@@ -41,15 +42,15 @@ export function SynthesisReader({
         <section aria-label={m.proposals} className={styles.points}>
           {synthesis.points.map((point) => (
             <article key={point.id} id={point.id} className={styles.point}>
-              <h2>{point.title[locale]}</h2>
+              <h2>
+                {point.title[locale]}{' '}
+                <ProposalLink
+                  id={point.id}
+                  title={point.title[locale]}
+                  locale={locale}
+                />
+              </h2>
               <p className={styles.pointText}>{point.text[locale]}</p>
-              <a
-                className={styles.permalink}
-                href={`#${point.id}`}
-                aria-label={text(m.linkTo, { title: point.title[locale] })}
-              >
-                {m.permalink}
-              </a>
               <details className={styles.evidence}>
                 <summary>
                   {text(m.evidence, { count: point.citations.length })}

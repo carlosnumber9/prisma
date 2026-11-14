@@ -1,0 +1,78 @@
+.control {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  font-size: 1rem;
+  opacity: 0;
+}
+:global(h2):hover .control,
+.control:focus-within,
+.control[data-phase='copied'],
+.control[data-phase='resetting'],
+.control[data-phase='error'] {
+  opacity: 1;
+}
+.button {
+  position: relative;
+  display: inline-grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  border-radius: 0.25rem;
+}
+.button:focus-visible {
+  outline: 3px solid #202d36;
+  outline-offset: 2px;
+}
+.button svg {
+  grid-area: 1 / 1;
+  width: 1.25rem;
+  height: 1.25rem;
+}
+.tick,
+.control[data-phase='copied'] .link {
+  opacity: 0;
+}
+.control[data-phase='copied'] .tick {
+  opacity: 1;
+}
+.status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.manualUrl {
+  width: min(45vw, 22rem);
+  font-size: 0.875rem;
+}
+@media (hover: none) {
+  .control {
+    opacity: 1;
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .control {
+    transition: opacity 100ms ease-in-out;
+  }
+  .link {
+    transition: opacity 60ms ease-in-out 40ms;
+  }
+  .tick {
+    transition: opacity 40ms ease-in-out;
+  }
+  .control[data-phase='copied'] .link {
+    transition: opacity 40ms ease-in-out;
+  }
+  .control[data-phase='copied'] .tick {
+    transition: opacity 60ms ease-in-out 40ms;
+  }
+}

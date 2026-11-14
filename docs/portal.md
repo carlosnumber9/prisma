@@ -1,5 +1,9 @@
 # Prisma portal implementation
 
+## Proposal links
+
+`ProposalLink` replaces the text permalink with a 44-pixel icon button beside each title. CSS fades it in over 100 milliseconds on title hover or keyboard focus; touch devices show it continuously. Clipboard copying preserves the current route and query, replacing only the fragment with the stable point ID. After a successful write, the link fades out over 40 milliseconds and the tick fades in over 60 milliseconds. The inverse sequence starts after two seconds. Repeated copies restart feedback, unmounting clears timers, and stale clipboard results are ignored. A localized live region announces success or failure; failures expose a selectable read-only URL and never show the tick. Reduced motion skips the fades. Browser verification remains pending.
+
 ## Route transitions and animation policy
 
 The locale layout owns a persistent `ShellFrame`; pages supply only their server-rendered content and optional background. A small server-created route table supplies navigation labels and colours without shipping programme records to the client. A visual outgoing content copy is inert, hidden from assistive technology and stripped of IDs. It fades out over 100 milliseconds before the current content fades in over 120 milliseconds. The header, footer and breadcrumb do not fade. Internal link clicks and history navigation prepare the outgoing layer; initial loads and fragment-only history changes remain immediate. Interrupted transitions cancel stale work, and a five-second recovery restores content if navigation never commits. Next retains navigation, prefetch, scroll and focus ownership.
