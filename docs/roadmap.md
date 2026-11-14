@@ -1,5 +1,7 @@
 # Delivery roadmap
 
+Source disclosures now animate height before content on opening, and content before height on closing. Native semantics, natural sizing after completion, interruption cleanup and reduced motion are implemented. Browser sequence verification remains pending.
+
 Proposal source disclosures now omit literal quotations and retain the existing official links and physical page or section references. Supporting evidence remains preserved in editorial data.
 
 Proposal titles now offer icon-based URL copying with a two-second success tick, hover/focus appearance and persistent touch access. Clipboard failures retain a manual-copy path; reduced motion and localized feedback are implemented. Browser verification remains pending.

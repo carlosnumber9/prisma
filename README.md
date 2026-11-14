@@ -1,5 +1,7 @@
 # Prisma
 
+Source disclosures now expand their measured height over 140 milliseconds, then fade their contents in over 80 milliseconds. Closing reverses that sequence; reduced motion keeps native disclosure changes immediate.
+
 Proposal source disclosures now show only source links and their page or section locations, without literal quotations.
 
 Proposal titles now include an icon that copies their localized URL and stable anchor. It appears on hover or keyboard focus, stays visible on touch devices and confirms successful copying with an animated tick for two seconds. Clipboard errors expose a selectable URL for manual copying.

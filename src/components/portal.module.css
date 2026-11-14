@@ -321,6 +321,9 @@
   font-weight: 600;
   padding: 0.25rem 0;
 }
+.disclosureBody {
+  display: flow-root;
+}
 .sourceReference {
   margin: 1.5rem 0 0.5rem;
   font-size: 0.9rem;

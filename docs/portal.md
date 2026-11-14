@@ -1,5 +1,9 @@
 # Prisma portal implementation
 
+## Animated source disclosures
+
+`SourceDisclosure` preserves native `<details>/<summary>` markup and works without JavaScript. After hydration, opening measures the natural open height, expands the container over 140 milliseconds and then fades its body in over 80 milliseconds. Closing first fades the body out, then collapses to the measured closed height. Closed and visually hidden bodies are inert and hidden from assistive technology. Repeated activation cancels stale work and continues from the measured current height and opacity. Completed effects restore natural sizing; width, font or motion-preference changes settle to the requested endpoint. Observers, listeners and animation handles are removed on unmount. Browser sequence verification remains pending.
+
 ## Proposal links
 
 `ProposalLink` replaces the text permalink with a 44-pixel icon button beside each title. CSS fades it in over 100 milliseconds on title hover or keyboard focus; touch devices show it continuously. Clipboard copying preserves the current route and query, replacing only the fragment with the stable point ID. After a successful write, the link fades out over 40 milliseconds and the tick fades in over 60 milliseconds. The inverse sequence starts after two seconds. Repeated copies restart feedback, unmounting clears timers, and stale clipboard results are ignored. A localized live region announces success or failure; failures expose a selectable read-only URL and never show the tick. Reduced motion skips the fades. Browser verification remains pending.

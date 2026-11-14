@@ -8,6 +8,7 @@ import {
 } from '../lib/presentation';
 import styles from './portal.module.css';
 import { ProposalLink } from './proposal-link';
+import { SourceDisclosure } from './source-disclosure';
 
 export function SynthesisReader({
   synthesis,
@@ -51,10 +52,9 @@ export function SynthesisReader({
                 />
               </h2>
               <p className={styles.pointText}>{point.text[locale]}</p>
-              <details className={styles.evidence}>
-                <summary>
-                  {text(m.evidence, { count: point.citations.length })}
-                </summary>
+              <SourceDisclosure
+                label={text(m.evidence, { count: point.citations.length })}
+              >
                 {point.citations.map((citation, index) => {
                   const source = repository.getSource(citation.sourceId);
                   return (
@@ -77,7 +77,7 @@ export function SynthesisReader({
                     </div>
                   );
                 })}
-              </details>
+              </SourceDisclosure>
             </article>
           ))}
         </section>

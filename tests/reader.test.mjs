@@ -276,6 +276,11 @@ test('reviewed markup retains anchors, conditions and physical source links with
     assert.ok(!html.includes('<blockquote'));
     assert.ok(html.includes('href="https://example.org/program.pdf#page=3"'));
     assert.ok(html.includes('Página 3 (numeración impresa: i)'));
+    assert.match(
+      html,
+      /<details[^>]*><summary>Ver fuentes \(1\)<\/summary><div class="disclosureBody">/,
+    );
+    assert.ok(!html.includes('style="height:'));
     assert.ok(!html.includes('Revisión 2'));
     assert.ok(!html.includes('Revisado el'));
     assert.ok(!html.includes('class="review"'));
