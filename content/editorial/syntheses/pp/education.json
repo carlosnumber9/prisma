@@ -1,0 +1,102 @@
+{
+  "id": "pp--education",
+  "partyId": "pp",
+  "topicId": "education",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-11T14:50:04Z",
+  "sourceIds": ["pp-2026-cea8f2a05227"],
+  "points": [
+    {
+      "id": "pp-education-primary-school-support",
+      "title": {
+        "es": "Nuevo marco educativo y refuerzo en primaria",
+        "ca": "Nou marc educatiu i reforç a primària",
+        "gl": "Novo marco educativo e reforzo en primaria",
+        "eu": "Hezkuntza-esparru berria eta laguntza lehen hezkuntzan",
+        "oc": "Nau marc educatiu e reforç en primària",
+        "en": "New education framework and primary school support"
+      },
+      "text": {
+        "es": "Acordar con docentes, inspectores, expertos y familias un marco educativo que sustituya a la LOMLOE. Detectar pronto las dificultades de lectura y cálculo y dar al alumnado de primaria que las tenga refuerzo específico en el mismo curso y dentro del horario escolar.",
+        "ca": "Acordar amb docents, inspectors, experts i famílies un marc educatiu que substitueixi la LOMLOE. Detectar aviat les dificultats de lectura i càlcul i oferir a l’alumnat de primària que les tingui un reforç específic en el mateix curs i dins de l’horari escolar.",
+        "gl": "Acordar co persoal docente, a inspección, os expertos e as familias un marco educativo que substitúa a LOMLOE. Detectar cedo as dificultades de lectura e cálculo e darlles aos alumnos de primaria que as teñan un reforzo específico no mesmo curso e dentro do horario escolar.",
+        "eu": "Irakasleekin, ikuskatzaileekin, adituekin eta familiekin LOMLOE ordeztuko duen hezkuntza-esparrua adostea. Irakurtzeko eta kalkulatzeko zailtasunak goiz antzematea eta zailtasun horiek dituzten lehen hezkuntzako ikasleei laguntza espezifikoa ematea ikasturte berean eta eskola-ordutegiaren barruan.",
+        "oc": "Acordar damb docents, inspectors, expèrts e familhes un marc educatiu que substituïsque era LOMLOE. Detectar lèu es dificultats de lectura e calcul e dar as escolans de primària que les agen un reforç especific en madeish cors e laguens der orari escolar.",
+        "en": "Agree on an education framework with teachers, inspectors, experts and families to replace the LOMLOE education law. Identify reading and arithmetic difficulties early and give affected primary pupils targeted support during school hours in the same school year."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-67",
+          "quote": "TODOS SALDRÁN DE PRIMARIA LEYENDO Y CALCULANDO BIEN."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-67",
+          "quote": "Acordaremos con docentes, inspectores, expertos y familias un nuevo marco educativo que sustituya a la LOMLOE. Detectaremos a tiempo las dificultades de lectura y cálculo y cada alumno que las tenga recibirá refuerzo específi- co en ese mismo curso dentro del horario escolar."
+        }
+      ]
+    },
+    {
+      "id": "pp-education-vocational-places",
+      "title": {
+        "es": "Más plazas de formación profesional",
+        "ca": "Més places de formació professional",
+        "gl": "Máis prazas de formación profesional",
+        "eu": "Lanbide Heziketako plaza gehiago",
+        "oc": "Mès places de formacion professionau",
+        "en": "More vocational training places"
+      },
+      "text": {
+        "es": "Ampliar con las comunidades autónomas las plazas de FP en los ciclos que más empleo generan, incluidos oficios con falta de personal como los de la construcción, con un mapa nacional como guía. Aplicar las mismas reglas de FP dual en toda España y extenderla a empresas de cualquier tamaño.",
+        "ca": "Ampliar amb les comunitats autònomes les places d’FP en els cicles que generen més ocupació, inclosos oficis amb manca de personal com els de la construcció, amb un mapa nacional com a guia. Aplicar les mateixes regles d’FP dual a tot Espanya i estendre-la a empreses de qualsevol mida.",
+        "gl": "Ampliar coas comunidades autónomas as prazas de FP nos ciclos que máis emprego xeran, incluídos oficios con falta de persoal como os da construción, cun mapa nacional como guía. Aplicar as mesmas regras de FP dual en toda España e estendela a empresas de calquera tamaño.",
+        "eu": "Autonomia-erkidegoekin batera, enplegu gehien sortzen duten Lanbide Heziketako zikloetan plaza gehiago eskaintzea, tartean langile falta duten lanbideetan, hala nola eraikuntzakoetan, mapa nazional bat gidari hartuta. Lanbide Heziketa dualerako arau berak Espainia osoan aplikatzea eta tamaina guztietako enpresetara zabaltzea.",
+        "oc": "Aumentar damb es comunitats autonòmes es places de formacion professionau enes cicles que genèren mès trabalh, includidi es oficis a on manque personau, coma es dera construccion, damb un mapa nacionau coma guida. Aplicar es madeishes règles ara formacion professionau duau en tota Espanha e estener-la a empreses de quinsevolh dimension.",
+        "en": "Work with the autonomous communities to expand places in vocational courses that generate the most employment, including trades facing staff shortages such as construction, using a national map as a guide. Apply the same dual vocational training rules throughout Spain and extend this training to businesses of all sizes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-68",
+          "quote": "Ampliaremos con las Comunidades Autó- nomas las plazas de FP en los ciclos que más empleo generan, guiados por un Mapa Nacional de la FP, también en los oficios que hoy faltan, como los de la construcción."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-68",
+          "quote": "La FP dual tendrá las mismas reglas en toda España y llegará a todo el tejido empresarial, con independencia del tamaño de cada empresa;"
+        }
+      ]
+    },
+    {
+      "id": "pp-education-free-early-childhood",
+      "title": {
+        "es": "Escuela infantil gratuita de cero a tres años",
+        "ca": "Escola bressol gratuïta de zero a tres anys",
+        "gl": "Escola infantil gratuíta de cero a tres anos",
+        "eu": "Doako haur-eskola zerotik hiru urtera",
+        "oc": "Escòla infantila gratuïta de zèro a tres ans",
+        "en": "Free early childhood education from birth to age three"
+      },
+      "text": {
+        "es": "Acordar que el Estado y las comunidades autónomas financien a partes iguales las plazas públicas y concertadas de cero a tres años. Al final de la legislatura, ofrecer esta etapa gratis a todas las familias que la soliciten.",
+        "ca": "Acordar que l’Estat i les comunitats autònomes financin a parts iguals les places públiques i concertades de zero a tres anys. Al final de la legislatura, oferir aquesta etapa gratuïtament a totes les famílies que la sol·licitin.",
+        "gl": "Acordar que o Estado e as comunidades autónomas financien a partes iguais as prazas públicas e concertadas de cero a tres anos. Ao final da lexislatura, ofrecer esta etapa de balde a todas as familias que a soliciten.",
+        "eu": "Estatuak eta autonomia-erkidegoek zerotik hiru urtera bitarteko plaza publikoak eta itunpekoak erdibana finantzatzea adostea. Legegintzaldiaren amaieran, etapa hori doan eskaintzea eskatzen duten familia guztiei.",
+        "oc": "Acordar qu’er Estat e es comunitats autonòmes financen a parts iguales es places publiques e concertades de zèro a tres ans. Ara fin dera legislatura, aufrir aguesta etapa gratuïtament a totes es familhes que la solliciten.",
+        "en": "Agree that the state and the autonomous communities will split the cost of places for children from birth to age three in public and publicly subsidised centres. By the end of the legislative term, provide this stage free of charge to all families who request it."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-57",
+          "quote": "Acordaremos con las Comunidades Autónomas que el Estado financie la mitad del coste de cada plaza de cero a tres años, pública o concertada, y las Comunidades, la otra mitad. Al terminar la legislatura, la etapa será gratuita para todas las familias que la soliciten."
+        }
+      ]
+    }
+  ]
+}

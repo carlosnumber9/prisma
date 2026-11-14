@@ -7,12 +7,14 @@ This roadmap records agreed direction, not permission to implement every item or
 - Repository skills for programme documentation and user-supplied suggestion triage, sharing policy and data contracts.
 - Versioned originals, extraction references, editable synthesis JSON and deterministic approved-only public projection.
 - Eight policy areas, stable formation/area/point IDs, explicit pending/partial/complete review states and partial publication.
-- Synthetic generator tests and four read-only triage rehearsal cases. The real programme corpus remains empty; the initial five-formation catalogue was added with the portal delivery.
+- Synthetic generator tests and four read-only triage rehearsal cases. The initial five-formation catalogue was added with the portal delivery. The first real source and approved batch are tracked in Delivery 2.
 - Agent guidance, glossary, versioning, Git publication conventions, local static checks and the Quality workflow definition. Remote CI success and deployment settings require separate verification.
 
-## Delivery 2 — First verified 2026 corpus: pending
+## Delivery 2 — First verified 2026 corpus: first batch incorporated
 
 Incorporate the first official 2026 programme using `document-program`. Verify official provenance, visual/text extraction fidelity, citations and the review process with real documents. Publish agreed summaries by area, with visible incompleteness when review is partial. Use only official programmes for this election.
+
+The [11 November PP editorial review](../content/reviews/2026-11-11-pp-programme-draft.md) records one preserved 82-page national programme edition and 24 approved multilingual proposals across all eight policy areas. These syntheses are partial while comparison with the second official link remains pending. No separate territorial or sectoral supplement was confirmed in the bounded search.
 
 The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initial catalogue; see [catalogue provenance](catalogue-provenance.md). Revisit public coverage once official candidatures provide enough information. Distinguish formations and coalitions from constituency candidatures and shared programmes; do not silently equate the portal with all candidates.
 
@@ -80,7 +82,7 @@ Introduce a server/API boundary only when this feature needs it. Ground answers 
 
 ## Internationalization
 
-Implemented six locale-prefixed route versions (336 catalogue pages), a custom navbar language picker, one-year manual preference, browser negotiation before rendering and Castilian fallback. Interface, areas, metadata and dates are localized; original documentary text remains unchanged. Schema v3 requires complete six-language approved points under one shared revision; both editorial skills follow this agreement model. The current real corpus still contains no political points. Static checks, all 84 deterministic tests, generator coverage and builds with and without a temporary origin passed locally. The maintainer approved the prepared batch for commit and push on 17 October 2026. No app server was started; browser verification and specialist language review remain pending. See [portal behavior](portal.md#internationalization) and [the decision](adr/0003-multilingual-editorial-batches.md).
+Implemented six locale-prefixed route versions (336 catalogue pages), a custom navbar language picker, one-year manual preference, browser negotiation before rendering and Castilian fallback. Interface, areas, metadata and dates are localized; original documentary text remains unchanged. Schema v3 requires complete six-language approved points under one shared revision; both editorial skills follow this agreement model. At the time of the locale migration, the real corpus contained no approved points. Static checks, all 84 deterministic tests, generator coverage and builds with and without a temporary origin passed locally. The maintainer approved the prepared batch for commit and push on 17 October 2026. No app server was started; browser verification and specialist language review remain pending. See [portal behavior](portal.md#internationalization) and [the decision](adr/0003-multilingual-editorial-batches.md).
 
 ## Native electoral research pilot — in progress
 
@@ -88,9 +90,9 @@ Project Research and QA agent definitions and a Builder procedure reuse the exis
 
 The 23 October 2026 [PP programme run](../content/reviews/2026-10-23-pp-programme-discovery.md) verified direct named-agent invocation, preserved evidence and independent QA. Nineteen territorial scopes were queried; eleven regional surfaces opened and eight remain unresolved. No eligible national programme or annex was located in the bounded scope, so no programme draft or approved data was manufactured. Research remains pending new evidence; no recurring run or publication was configured.
 
-## Programme synthesis agent — implemented, editorial incorporation pending
+## Programme synthesis agent — implemented and used for the first approved batch
 
-The native `prisma-synthesis` profile turns eligible preserved programme evidence into cited editorial draft JSON and validates the existing four-file schema-v3 app projection through the deterministic generator. Independent QA checks both outputs. Draft points remain private until exact multilingual approval; absent sources produce only the existing pending availability state and cannot withdraw approved content. See [synthesis outputs](research-factory.md#synthesis-outputs-and-app-consumption). The PP research run still has no eligible programme proposals to summarise.
+The native `prisma-synthesis` profile turns eligible preserved programme evidence into cited editorial draft JSON and validates the existing four-file schema-v3 app projection through the deterministic generator. Independent QA checks both outputs. Draft points remain private until exact multilingual approval; absent sources produce only the existing pending availability state and cannot withdraw approved content. See [synthesis outputs](research-factory.md#synthesis-outputs-and-app-consumption). The 11 November PP run resumed after the maintainer supplied the PDF and produced the first approved batch.
 
 ## Research consumption optimisation — implemented, savings measurement pending
 

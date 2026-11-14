@@ -157,7 +157,7 @@ Missing formation/area files generate empty pending entries, not placeholder pro
 
 ## Public projection
 
-Every generated file contains `schemaVersion: 3`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`. Version 3 replaces scalar topic labels and point titles/texts with complete locale maps in all four envelopes together; the portal accepts only version 3. Version 2 introduced required nullable official websites; that behavior remains. The current real corpus has no points to migrate: catalogue labels are translated, pending syntheses retain their IDs and state, and synthetic fixtures exercise translated points. Older consumers must be rebuilt together with the regenerated envelopes.
+Every generated file contains `schemaVersion: 3`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`. Version 3 replaces scalar topic labels and point titles/texts with complete locale maps in all four envelopes together; the portal accepts only version 3. Version 2 introduced required nullable official websites; that behavior remains. When schema v3 was introduced, the real corpus had no points to migrate: catalogue labels are translated, pending syntheses retain their IDs and state, and synthetic fixtures exercise translated points. Older consumers must be rebuilt together with the regenerated envelopes.
 
 - Catalogues are sorted by ID; topics include their public path.
 - Syntheses contain `id`, `partyId`, `topicId`, `path`, `revision`, `reviewStatus`, `reviewedAt`, `sourceIds` and approved `points` in editorial order.

@@ -183,88 +183,844 @@
       "partyId": "pp",
       "topicId": "economy-and-taxes",
       "path": "/parties/pp/economy-and-taxes",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-economy-and-taxes-income-tax-threshold",
+          "title": {
+            "es": "Rebaja del IRPF y exención para el salario mínimo",
+            "ca": "Rebaixa de l’IRPF i exempció per al salari mínim",
+            "gl": "Rebaixa do IRPF e exención para o salario mínimo",
+            "eu": "PFEZa jaistea eta gutxieneko soldata salbuestea",
+            "oc": "Reduccion der IRPF e exempcion entath salari minim",
+            "en": "Income tax cut and minimum-wage exemption"
+          },
+          "text": {
+            "es": "Elevar los mínimos personales y familiares del IRPF y reducir este impuesto a las rentas medias y bajas y a las familias. Eximir del IRPF a quien cobre el salario mínimo y hacer por ley que el umbral suba automáticamente cada vez que aumente el salario mínimo.",
+            "ca": "Elevar els mínims personals i familiars de l’IRPF i reduir aquest impost a les rendes mitjanes i baixes i a les famílies. Eximir de l’IRPF qui cobri el salari mínim i establir per llei que el llindar augmenti automàticament cada vegada que pugi el salari mínim.",
+            "gl": "Elevar os mínimos persoais e familiares do IRPF e reducir este imposto ás rendas medias e baixas e ás familias. Eximir do IRPF a quen cobre o salario mínimo e establecer por lei que o limiar aumente automaticamente cada vez que suba o salario mínimo.",
+            "eu": "PFEZko gutxieneko pertsonalak eta familiarrak igotzea eta zerga hori jaistea errenta ertain eta txikientzat eta familientzat. Gutxieneko soldata jasotzen duena PFEZa ordaintzetik salbuestea eta legez ezartzea atalasea automatikoki igoko dela gutxieneko soldata igotzen den bakoitzean.",
+            "oc": "Aumentar es minims personaus e familiaus der IRPF e redusir aguest impòst entàs rendes mejanes e baishes e entàs familhes. Eximir der IRPF a qui còbre eth salari minim e establir per lei qu’eth lindau puge automaticament cada viatge que puge eth salari minim.",
+            "en": "Raise personal and family income tax allowances and cut income tax for middle- and low-income earners and families. Exempt people on the minimum wage from income tax and require the threshold by law to rise automatically whenever the minimum wage rises."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-60",
+              "quote": "Elevaremos los míni- mos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias. Quien cobre el salario mínimo no pagará IRPF: por ley, el umbral subirá automáticamente cada vez que suba el SMI,",
+              "page": 60
+            }
+          ]
+        },
+        {
+          "id": "pp-economy-and-taxes-youth-income-tax",
+          "title": {
+            "es": "Rebaja del IRPF para jóvenes de 18 a 35 años",
+            "ca": "Rebaixa de l’IRPF per a joves de 18 a 35 anys",
+            "gl": "Rebaixa do IRPF para mozos de 18 a 35 anos",
+            "eu": "PFEZaren murrizketa 18 eta 35 urte bitarteko gazteentzat",
+            "oc": "Reduccion der IRPF entàs joeni de 18 a 35 ans",
+            "en": "Income tax cut for people aged 18 to 35"
+          },
+          "text": {
+            "es": "Reducir el IRPF a los trabajadores y autónomos de 18 a 35 años durante sus cuatro primeros años de pago del impuesto. La rebaja sería del 100 % el primer año, del 75 % el segundo, del 50 % el tercero y del 25 % el cuarto. Se aplicaría desde la primera declaración tras la aprobación de la ley.",
+            "ca": "Reduir l’IRPF als treballadors i autònoms de 18 a 35 anys durant els primers quatre anys que paguin l’impost. La rebaixa seria del 100 % el primer any, del 75 % el segon, del 50 % el tercer i del 25 % el quart. S’aplicaria des de la primera declaració després de l’aprovació de la llei.",
+            "gl": "Reducir o IRPF aos traballadores e autónomos de 18 a 35 anos durante os catro primeiros anos en que paguen o imposto. A rebaixa sería do 100 % o primeiro ano, do 75 % o segundo, do 50 % o terceiro e do 25 % o cuarto. Aplicaríase desde a primeira declaración tras a aprobación da lei.",
+            "eu": "18 eta 35 urte bitarteko langileei eta autonomoei PFEZa murriztea, zerga ordaintzen duten lehen lau urteetan. Murrizketa % 100ekoa litzateke lehen urtean, % 75ekoa bigarrenean, % 50ekoa hirugarrenean eta % 25ekoa laugarrenean. Legea onartu ondoko lehen aitorpenetik aurrera aplikatuko litzateke.",
+            "oc": "Redusir er IRPF as trabalhadors e autonòms de 18 a 35 ans pendent es quate prumèrs ans que paguen er impòst. Era reduccion serie deth 100 % eth prumèr an, deth 75 % eth dusau, deth 50 % eth tresau e deth 25 % eth quatau. S’aplicarie des dera prumèra declaracion dempús dera aprobacion dera lei.",
+            "en": "Cut income tax for employees and self-employed workers aged 18 to 35 in their first four years of paying it. The cuts would be 100% in the first year, 75% in the second, 50% in the third and 25% in the fourth. They would apply from the first tax return after the law is passed."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-60",
+              "quote": "Reduciremos el IRPF de los trabajadores y autónomos de 18 a 35 años durante los cuatro prime- ros años en que paguen IRPF. La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto. Se aplicará des- de la primera declaración tras la aprobación de la ley.",
+              "page": 60
+            }
+          ]
+        },
+        {
+          "id": "pp-economy-and-taxes-zero-vat-basic-foods",
+          "title": {
+            "es": "IVA del 0 % en alimentos básicos",
+            "ca": "IVA del 0 % en els aliments bàsics",
+            "gl": "IVE do 0 % nos alimentos básicos",
+            "eu": "% 0ko BEZa oinarrizko elikagaietan",
+            "oc": "IVA deth 0 % enes aliments basics",
+            "en": "0% VAT on basic foods"
+          },
+          "text": {
+            "es": "Aplicar un IVA del 0 % a los alimentos básicos, incluidos la carne, el pescado y las conservas, mientras dure la actual crisis de inflación y de poder adquisitivo.",
+            "ca": "Aplicar un IVA del 0 % als aliments bàsics, inclosos la carn, el peix i les conserves, mentre duri l’actual crisi d’inflació i de poder adquisitiu.",
+            "gl": "Aplicar un IVE do 0 % aos alimentos básicos, incluídos a carne, o peixe e as conservas, mentres dure a actual crise de inflación e de poder adquisitivo.",
+            "eu": "Oinarrizko elikagaiei, haragiari, arrainari eta kontserbei ere, % 0ko BEZa aplikatzea egungo inflazioaren eta erosteko ahalmenaren krisiak dirauen bitartean.",
+            "oc": "Aplicar un IVA deth 0 % as aliments basics, includidi era carn, eth peish e es consèrves, mentre dure era crisi actuau d’inflacion e de poder de crompa.",
+            "en": "Apply 0% VAT to basic foods, including meat, fish and canned or jarred foods, for as long as the current inflation and purchasing power crisis lasts."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-61",
+              "quote": "Mien- tras persista la actual crisis de inflación y de poder adquisitivo, aplicare- mos un IVA del 0% a los alimentos básicos, incluidos la carne, el pescado y las conservas.",
+              "page": 61
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--education",
       "partyId": "pp",
       "topicId": "education",
       "path": "/parties/pp/education",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-education-primary-school-support",
+          "title": {
+            "es": "Nuevo marco educativo y refuerzo en primaria",
+            "ca": "Nou marc educatiu i reforç a primària",
+            "gl": "Novo marco educativo e reforzo en primaria",
+            "eu": "Hezkuntza-esparru berria eta laguntza lehen hezkuntzan",
+            "oc": "Nau marc educatiu e reforç en primària",
+            "en": "New education framework and primary school support"
+          },
+          "text": {
+            "es": "Acordar con docentes, inspectores, expertos y familias un marco educativo que sustituya a la LOMLOE. Detectar pronto las dificultades de lectura y cálculo y dar al alumnado de primaria que las tenga refuerzo específico en el mismo curso y dentro del horario escolar.",
+            "ca": "Acordar amb docents, inspectors, experts i famílies un marc educatiu que substitueixi la LOMLOE. Detectar aviat les dificultats de lectura i càlcul i oferir a l’alumnat de primària que les tingui un reforç específic en el mateix curs i dins de l’horari escolar.",
+            "gl": "Acordar co persoal docente, a inspección, os expertos e as familias un marco educativo que substitúa a LOMLOE. Detectar cedo as dificultades de lectura e cálculo e darlles aos alumnos de primaria que as teñan un reforzo específico no mesmo curso e dentro do horario escolar.",
+            "eu": "Irakasleekin, ikuskatzaileekin, adituekin eta familiekin LOMLOE ordeztuko duen hezkuntza-esparrua adostea. Irakurtzeko eta kalkulatzeko zailtasunak goiz antzematea eta zailtasun horiek dituzten lehen hezkuntzako ikasleei laguntza espezifikoa ematea ikasturte berean eta eskola-ordutegiaren barruan.",
+            "oc": "Acordar damb docents, inspectors, expèrts e familhes un marc educatiu que substituïsque era LOMLOE. Detectar lèu es dificultats de lectura e calcul e dar as escolans de primària que les agen un reforç especific en madeish cors e laguens der orari escolar.",
+            "en": "Agree on an education framework with teachers, inspectors, experts and families to replace the LOMLOE education law. Identify reading and arithmetic difficulties early and give affected primary pupils targeted support during school hours in the same school year."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-67",
+              "quote": "TODOS SALDRÁN DE PRIMARIA LEYENDO Y CALCULANDO BIEN.",
+              "page": 67
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-67",
+              "quote": "Acordaremos con docentes, inspectores, expertos y familias un nuevo marco educativo que sustituya a la LOMLOE. Detectaremos a tiempo las dificultades de lectura y cálculo y cada alumno que las tenga recibirá refuerzo específi- co en ese mismo curso dentro del horario escolar.",
+              "page": 67
+            }
+          ]
+        },
+        {
+          "id": "pp-education-vocational-places",
+          "title": {
+            "es": "Más plazas de formación profesional",
+            "ca": "Més places de formació professional",
+            "gl": "Máis prazas de formación profesional",
+            "eu": "Lanbide Heziketako plaza gehiago",
+            "oc": "Mès places de formacion professionau",
+            "en": "More vocational training places"
+          },
+          "text": {
+            "es": "Ampliar con las comunidades autónomas las plazas de FP en los ciclos que más empleo generan, incluidos oficios con falta de personal como los de la construcción, con un mapa nacional como guía. Aplicar las mismas reglas de FP dual en toda España y extenderla a empresas de cualquier tamaño.",
+            "ca": "Ampliar amb les comunitats autònomes les places d’FP en els cicles que generen més ocupació, inclosos oficis amb manca de personal com els de la construcció, amb un mapa nacional com a guia. Aplicar les mateixes regles d’FP dual a tot Espanya i estendre-la a empreses de qualsevol mida.",
+            "gl": "Ampliar coas comunidades autónomas as prazas de FP nos ciclos que máis emprego xeran, incluídos oficios con falta de persoal como os da construción, cun mapa nacional como guía. Aplicar as mesmas regras de FP dual en toda España e estendela a empresas de calquera tamaño.",
+            "eu": "Autonomia-erkidegoekin batera, enplegu gehien sortzen duten Lanbide Heziketako zikloetan plaza gehiago eskaintzea, tartean langile falta duten lanbideetan, hala nola eraikuntzakoetan, mapa nazional bat gidari hartuta. Lanbide Heziketa dualerako arau berak Espainia osoan aplikatzea eta tamaina guztietako enpresetara zabaltzea.",
+            "oc": "Aumentar damb es comunitats autonòmes es places de formacion professionau enes cicles que genèren mès trabalh, includidi es oficis a on manque personau, coma es dera construccion, damb un mapa nacionau coma guida. Aplicar es madeishes règles ara formacion professionau duau en tota Espanha e estener-la a empreses de quinsevolh dimension.",
+            "en": "Work with the autonomous communities to expand places in vocational courses that generate the most employment, including trades facing staff shortages such as construction, using a national map as a guide. Apply the same dual vocational training rules throughout Spain and extend this training to businesses of all sizes."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-68",
+              "quote": "Ampliaremos con las Comunidades Autó- nomas las plazas de FP en los ciclos que más empleo generan, guiados por un Mapa Nacional de la FP, también en los oficios que hoy faltan, como los de la construcción.",
+              "page": 68
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-68",
+              "quote": "La FP dual tendrá las mismas reglas en toda España y llegará a todo el tejido empresarial, con independencia del tamaño de cada empresa;",
+              "page": 68
+            }
+          ]
+        },
+        {
+          "id": "pp-education-free-early-childhood",
+          "title": {
+            "es": "Escuela infantil gratuita de cero a tres años",
+            "ca": "Escola bressol gratuïta de zero a tres anys",
+            "gl": "Escola infantil gratuíta de cero a tres anos",
+            "eu": "Doako haur-eskola zerotik hiru urtera",
+            "oc": "Escòla infantila gratuïta de zèro a tres ans",
+            "en": "Free early childhood education from birth to age three"
+          },
+          "text": {
+            "es": "Acordar que el Estado y las comunidades autónomas financien a partes iguales las plazas públicas y concertadas de cero a tres años. Al final de la legislatura, ofrecer esta etapa gratis a todas las familias que la soliciten.",
+            "ca": "Acordar que l’Estat i les comunitats autònomes financin a parts iguals les places públiques i concertades de zero a tres anys. Al final de la legislatura, oferir aquesta etapa gratuïtament a totes les famílies que la sol·licitin.",
+            "gl": "Acordar que o Estado e as comunidades autónomas financien a partes iguais as prazas públicas e concertadas de cero a tres anos. Ao final da lexislatura, ofrecer esta etapa de balde a todas as familias que a soliciten.",
+            "eu": "Estatuak eta autonomia-erkidegoek zerotik hiru urtera bitarteko plaza publikoak eta itunpekoak erdibana finantzatzea adostea. Legegintzaldiaren amaieran, etapa hori doan eskaintzea eskatzen duten familia guztiei.",
+            "oc": "Acordar qu’er Estat e es comunitats autonòmes financen a parts iguales es places publiques e concertades de zèro a tres ans. Ara fin dera legislatura, aufrir aguesta etapa gratuïtament a totes es familhes que la solliciten.",
+            "en": "Agree that the state and the autonomous communities will split the cost of places for children from birth to age three in public and publicly subsidised centres. By the end of the legislative term, provide this stage free of charge to all families who request it."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-57",
+              "quote": "Acordaremos con las Comunidades Autónomas que el Estado financie la mitad del coste de cada plaza de cero a tres años, pública o concertada, y las Comunidades, la otra mitad. Al terminar la legislatura, la etapa será gratuita para todas las familias que la soliciten.",
+              "page": 57
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--employment",
       "partyId": "pp",
       "topicId": "employment",
       "path": "/parties/pp/employment",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-employment-ai-training-voucher",
+          "title": {
+            "es": "Cheque de formación en inteligencia artificial",
+            "ca": "Xec de formació en intel·ligència artificial",
+            "gl": "Cheque de formación en intelixencia artificial",
+            "eu": "Adimen artifizialean trebatzeko txekea",
+            "oc": "Chèc de formacion en intelligéncia artificiau",
+            "en": "Artificial intelligence training voucher"
+          },
+          "text": {
+            "es": "Dar a cada trabajador un cheque para formarse en inteligencia artificial donde elija y conservarlo aunque cambie de empresa. Dar más recursos a los trabajadores de mayor edad y a los de los sectores más expuestos. Financiarlo con las cuotas de formación vigentes, sin imponer nuevas cargas a empresas ni trabajadores.",
+            "ca": "Donar a cada treballador un xec per formar-se en intel·ligència artificial on triï i que conservi encara que canviï d’empresa. Donar més recursos als treballadors de més edat i als dels sectors més exposats. Finançar-lo amb les quotes de formació vigents, sense imposar noves càrregues a empreses ni treballadors.",
+            "gl": "Darlle a cada traballador un cheque para formarse en intelixencia artificial onde elixa e conservalo aínda que cambie de empresa. Dar máis recursos aos traballadores de máis idade e aos dos sectores máis expostos. Financialo coas cotas de formación vixentes, sen impoñer novas cargas ás empresas nin aos traballadores.",
+            "eu": "Langile bakoitzari txeke bat ematea adimen artifizialean berak aukeratutako lekuan trebatzeko eta enpresaz aldatu arren txekeari eusteko. Langile zaharragoei eta aldaketa horren eraginpean gehien dauden sektoreetako langileei baliabide gehiago ematea. Indarreko prestakuntza-kuoten bidez finantzatzea, enpresei edo langileei karga berririk ezarri gabe.",
+            "oc": "Dar a cada trabalhador un chèc entà formar-se en intelligéncia artificiau a on triguesque e poder conservar-lo encara que càmbie d’empresa. Dar mès recorsi as trabalhadors de mès edat e as des sectors mès expausadi. Finançar-lo damb es quotes de formacion vigentes, sense impausar naues cargues as empreses ne as trabalhadors.",
+            "en": "Give each worker a voucher for artificial intelligence training where they choose, which they keep if they change employer. Give more resources to older workers and those in the most exposed sectors. Use existing training contributions to fund it without imposing new costs on employers or workers."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-58",
+              "quote": "LA INTELIGENCIA ARTIFICIAL AMPLIARÁ LAS OPORTUNI- DADES DE TRABAJAR, Y CADA TRABAJADOR TENDRÁ UN CHE- QUE PARA FORMARSE EN ELLA.",
+              "page": 58
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-58",
+              "quote": "Cada trabajador ten- drá un cheque de formación, que conservará, aunque cambie de em- presa, para formarse donde elija. Los trabajadores mayores y los de los sectores más expuestos tendrán más recursos. Lo financiaremos con las cuotas de formación que ya pagan empresas y trabajadores, sin im- ponerles nuevas cargas.",
+              "page": 58
+            }
+          ]
+        },
+        {
+          "id": "pp-employment-new-self-employed-contributions",
+          "title": {
+            "es": "Cuota inicial para nuevos autónomos",
+            "ca": "Quota inicial per a nous autònoms",
+            "gl": "Cota inicial para novos autónomos",
+            "eu": "Autonomo berrien hasierako kuota",
+            "oc": "Quota iniciau entàs naui autonòms",
+            "en": "Initial contributions for newly self-employed workers"
+          },
+          "text": {
+            "es": "Eximir a los nuevos autónomos de la cuota de la Seguridad Social durante su primer año y también durante el segundo si sus ingresos no llegan al salario mínimo.",
+            "ca": "Eximir els nous autònoms de la quota de la Seguretat Social durant el primer any i també durant el segon si els seus ingressos no arriben al salari mínim.",
+            "gl": "Eximir os novos autónomos da cota da Seguridade Social durante o primeiro ano e tamén durante o segundo se os seus ingresos non chegan ao salario mínimo.",
+            "eu": "Autonomo berriak Gizarte Segurantzako kuota ordaintzetik salbuestea lehen urtean, eta bigarren urtean ere bai diru-sarrerak gutxieneko soldatara iristen ez badira.",
+            "oc": "Eximir es naui autonòms dera quota dera Seguretat Sociau pendent eth prumèr an e tanben pendent eth dusau se es sòns ingrèssi non arriben ath salari minim.",
+            "en": "Exempt newly self-employed workers from Social Security contributions in their first year and in their second year too if their income is below the minimum wage."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-59",
+              "quote": "Los nuevos autónomos no pagarán cuota a la Seguridad Social durante su primer año, ni durante el segundo si sus ingresos no llegan al salario mínimo.",
+              "page": 59
+            }
+          ]
+        },
+        {
+          "id": "pp-employment-stable-workforce-contributions",
+          "title": {
+            "es": "Menor cotización por desempleo para plantillas más estables",
+            "ca": "Cotització per desocupació més baixa per a plantilles més estables",
+            "gl": "Menor cotización por desemprego para cadros de persoal máis estables",
+            "eu": "Langile-talde egonkorragoak dituzten enpresentzako langabezia-kotizazio txikiagoa",
+            "oc": "Menor cotizacion per caumatge entàs plantilhes mès estables",
+            "en": "Lower unemployment contributions for more stable workforces"
+          },
+          "text": {
+            "es": "Reducir la cotización por desempleo de las empresas con plantillas más estables que la media de su sector. Publicar cada mes, junto al paro registrado, cuántos trabajadores con contrato fijo discontinuo no están trabajando.",
+            "ca": "Reduir la cotització per desocupació de les empreses amb plantilles més estables que la mitjana del seu sector. Publicar cada mes, juntament amb l’atur registrat, quants treballadors amb contracte fix discontinu no estan treballant.",
+            "gl": "Reducir a cotización por desemprego das empresas con cadros de persoal máis estables ca a media do seu sector. Publicar cada mes, xunto co paro rexistrado, cantas persoas con contrato fixo descontinuo non están a traballar.",
+            "eu": "Beren sektoreko batezbestekoa baino langile-talde egonkorragoak dituzten enpresen langabezia-kotizazioa murriztea. Hilero argitaratzea, erregistratutako langabeziarekin batera, aldizkako kontratu finkoa duten zenbat langile ari ez diren lanean.",
+            "oc": "Redusir era cotizacion per caumatge des empreses damb plantilhes mès estables qu’era mejana deth sòn sector. Publicar cada mes, amassa damb eth caumatge enregistrat, quanti trabalhadors damb contracte fixe discontinu non trabalhen en aqueth moment.",
+            "en": "Cut unemployment contributions for employers with more stable workforces than their sector average. Publish every month, alongside registered unemployment, how many workers on permanent intermittent contracts are currently not working."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-59",
+              "quote": "Las empresas que mantengan sus plan- tillas más estables que la media de su sector cotizarán menos por des- empleo. Y publicaremos cada mes, junto al paro registrado, cuántos fijos discontinuos no están trabajando,",
+              "page": 59
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--environment-and-energy",
       "partyId": "pp",
       "topicId": "environment-and-energy",
       "path": "/parties/pp/environment-and-energy",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-environment-and-energy-nuclear-closure-calendar",
+          "title": {
+            "es": "Calendario de cierre de cinco centrales nucleares",
+            "ca": "Calendari de tancament de cinc centrals nuclears",
+            "gl": "Calendario de peche de cinco centrais nucleares",
+            "eu": "Bost zentral nuklear ixteko egutegia",
+            "oc": "Calendari de barrament de cinc centraus nucleares",
+            "en": "Closure schedule for five nuclear power plants"
+          },
+          "text": {
+            "es": "Eliminar el calendario de cierre de Almaraz, Ascó, Vandellós, Cofrentes y Trillo. Tramitar la ampliación de su vida útil en los primeros cien días de Gobierno, con el visto bueno del Consejo de Seguridad Nuclear y garantizando la seguridad de las instalaciones.",
+            "ca": "Eliminar el calendari de tancament d’Almaraz, Ascó, Vandellós, Cofrentes i Trillo. Tramitar la prolongació de la seva vida útil en els primers cent dies de govern, amb el vistiplau del Consejo de Seguridad Nuclear i garantint la seguretat de les instal·lacions.",
+            "gl": "Eliminar o calendario de peche de Almaraz, Ascó, Vandellós, Cofrentes e Trillo. Tramitar a ampliación da súa vida útil nos primeiros cen días de Goberno, co visto e prace do Consejo de Seguridad Nuclear e garantindo a seguridade das instalacións.",
+            "eu": "Almaraz, Ascó, Vandellós, Cofrentes eta Trillo ixteko egutegia kentzea. Gobernuaren lehen ehun egunetan haien bizitza erabilgarria luzatzeko izapideak egitea, Consejo de Seguridad Nuclear erakundearen oniritziarekin eta instalazioen segurtasuna bermatuz.",
+            "oc": "Suprimir eth calendari de barrament d’Almaraz, Ascó, Vandellós, Cofrentes e Trillo. Tramitar er alongament dera sua vida util enes prumèrs cent dies de Govèrn, damb eth vist e platz deth Consejo de Seguridad Nuclear e en tot garantir era seguretat des installacions.",
+            "en": "Scrap the closure schedule for Almaraz, Ascó, Vandellós, Cofrentes and Trillo. Process extensions to their operating lives in the government’s first hundred days, with the approval of the Consejo de Seguridad Nuclear and while ensuring the facilities’ safety."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-71",
+              "quote": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO. En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil con el visto bue- no del Consejo de Seguridad Nuclear, garantizando la seguridad de las instalaciones.",
+              "page": 71
+            }
+          ]
+        },
+        {
+          "id": "pp-environment-and-energy-electricity-tax-social-tariff",
+          "title": {
+            "es": "Impuesto a la producción eléctrica y tarifa social única",
+            "ca": "Impost sobre la producció elèctrica i tarifa social única",
+            "gl": "Imposto á produción eléctrica e tarifa social única",
+            "eu": "Elektrizitate-ekoizpenaren gaineko zerga eta tarifa sozial bakarra",
+            "oc": "Impòst sus era produccion electrica e tarifa sociau unica",
+            "en": "Electricity generation tax and a single social tariff"
+          },
+          "text": {
+            "es": "Eliminar de inmediato el impuesto del 7 % a la producción eléctrica y reducir los impuestos de la factura de la luz. Crear una tarifa social única para los hogares más vulnerables que sustituya y mejore los bonos eléctrico y térmico y sea compatible con cualquier contrato de luz y gas.",
+            "ca": "Eliminar immediatament l’impost del 7 % sobre la producció elèctrica i reduir els impostos de la factura de la llum. Crear una tarifa social única per a les llars més vulnerables que substitueixi i millori els bons elèctric i tèrmic i sigui compatible amb qualsevol contracte de llum i gas.",
+            "gl": "Eliminar de inmediato o imposto do 7 % á produción eléctrica e reducir os impostos da factura da luz. Crear unha tarifa social única para os fogares máis vulnerables que substitúa e mellore os bonos eléctrico e térmico e sexa compatible con calquera contrato de luz e gas.",
+            "eu": "Elektrizitate-ekoizpenaren gaineko % 7ko zerga berehala kentzea eta argindarraren fakturako zergak murriztea. Etxe zaurgarrienentzako tarifa sozial bakarra sortzea, argindarraren eta berokuntzaren bonuak ordezkatu eta hobetzeko, eta edozein argindar- eta gas-kontraturekin bateragarria izateko.",
+            "oc": "Suprimir de seguit er impòst deth 7 % sus era produccion electrica e redusir es impòsti dera factura dera lum. Crear ua tarifa sociau unica entàs larèrs mès vulnerables que substituïsque e melhore es bons electric e termic e sigue compatible damb quinsevolh contracte de lum e gas.",
+            "en": "Immediately scrap the 7% tax on electricity generation and cut taxes on electricity bills. Create a single social tariff for the most vulnerable households to replace and improve the current electricity and heating benefits, compatible with any electricity or gas contract."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-71",
+              "quote": "Eliminaremos de inmedia- to el impuesto del 7% a la producción eléctrica y reduciremos la carga fis- cal del recibo.",
+              "page": 71
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-71",
+              "quote": "Los hogares más vulnerables tendrán una Tarifa Social Única que susti- tuirá y mejorará los actuales bonos eléctrico y térmico. La ayuda llegará a quienes la necesitan y será compatible con cualquier contrato de luz y gas.",
+              "page": 71
+            }
+          ]
+        },
+        {
+          "id": "pp-environment-and-energy-decarbonisation-timelines",
+          "title": {
+            "es": "Calendarios de descarbonización por sectores",
+            "ca": "Calendaris de descarbonització per sectors",
+            "gl": "Calendarios de descarbonización por sectores",
+            "eu": "Sektorekako deskarbonizazio-egutegiak",
+            "oc": "Calendaris de descarbonizacion per sectors",
+            "en": "Decarbonisation schedules by sector"
+          },
+          "text": {
+            "es": "Mantener la lucha contra el cambio climático y la descarbonización como objetivos para Europa y revisar el ritmo de cada sector según lo que ocurra en el resto del mundo, la tecnología disponible y la evolución de la demanda. No imponer obligaciones innecesarias y retirar las que perjudiquen a la competitividad, la industria o el empleo.",
+            "ca": "Mantenir la lluita contra el canvi climàtic i la descarbonització com a objectius per a Europa i revisar el ritme de cada sector segons el que passi a la resta del món, la tecnologia disponible i l’evolució de la demanda. No imposar obligacions innecessàries i retirar les que perjudiquin la competitivitat, la indústria o l’ocupació.",
+            "gl": "Manter a loita contra o cambio climático e a descarbonización como obxectivos para Europa e revisar o ritmo de cada sector segundo o que suceda no resto do mundo, a tecnoloxía dispoñible e a evolución da demanda. Non impoñer obrigas innecesarias e retirar as que prexudiquen a competitividade, a industria ou o emprego.",
+            "eu": "Klima-aldaketaren aurkako borrokari eta deskarbonizazioari Europarentzako helburu gisa eustea eta sektore bakoitzaren erritmoa berrikustea, munduko beste lekuetan gertatzen dena, eskuragarri dagoen teknologia eta eskariaren bilakaera kontuan hartuta. Beharrezkoak ez diren betebeharrik ez ezartzea eta lehiakortasunari, industriari edo enpleguari kalte egiten dietenak kentzea.",
+            "oc": "Mantier era luta contra eth cambi climatic e era descarbonizacion coma objectius entà Euròpa e revisar eth ritme de cada sector segontes çò que passe ena rèsta deth mon, era tecnologia disponibla e era evolucion dera demanda. Non impausar obligacions innecessàries e retirar es que perjudiquen era competitivitat, era indústria o eth trabalh.",
+            "en": "Keep tackling climate change and cutting carbon emissions as goals for Europe and review each sector’s pace of change in light of developments elsewhere in the world, available technology and changing demand. Refrain from imposing unnecessary obligations and remove those that harm competitiveness, industry or employment."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-72",
+              "quote": "La lucha contra el cambio climático y la descarbonización son objetivos irrenun- ciables para Europa por razones ambientales, geoestratégicas y econó- micas. Pero ha llegado el momento de revisar los ritmos de cada sector atendiendo a tres factores: lo que está ocurriendo en el resto del mundo, la tecnología realmente disponible y la evolución de la demanda.",
+              "page": 72
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-72",
+              "quote": "No impondremos obligaciones innecesarias y retiraremos las que perjudi- quen la competitividad, la industria o el empleo.",
+              "page": 72
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--healthcare",
       "partyId": "pp",
       "topicId": "healthcare",
       "path": "/parties/pp/healthcare",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-healthcare-waiting-lists",
+          "title": {
+            "es": "Plan urgente para reducir las listas de espera",
+            "ca": "Pla urgent per reduir les llistes d’espera",
+            "gl": "Plan urxente para reducir as listas de espera",
+            "eu": "Itxaron-zerrendak murrizteko premiazko plana",
+            "oc": "Plan urgent entà redusir es listes de demora",
+            "en": "Urgent plan to reduce waiting lists"
+          },
+          "text": {
+            "es": "Poner en marcha con las comunidades autónomas un plan urgente para reducir las listas de espera, respetando sus competencias de gestión. Asegurar recursos suficientes para la sanidad pública en el nuevo sistema de financiación autonómica.",
+            "ca": "Posar en marxa amb les comunitats autònomes un pla urgent per reduir les llistes d’espera, respectant-ne les competències de gestió. Assegurar recursos suficients per a la sanitat pública en el nou sistema de finançament autonòmic.",
+            "gl": "Poñer en marcha coas comunidades autónomas un plan urxente para reducir as listas de espera, respectando as súas competencias de xestión. Asegurar recursos suficientes para a sanidade pública no novo sistema de financiamento autonómico.",
+            "eu": "Autonomia-erkidegoekin batera itxaron-zerrendak murrizteko premiazko plan bat abian jartzea, haien kudeaketa-eskumenak errespetatuz. Autonomia-erkidegoak finantzatzeko sistema berrian osasun publikoarentzako baliabide nahikoak bermatzea.",
+            "oc": "Méter en marcha damb es comunitats autonòmes un plan urgent entà redusir es listes de demora, en tot respectar es sues competéncies de gestion. Assegurar recorsi sufisents entara sanitat publica en nau sistèma de finançament autonomic.",
+            "en": "Launch an urgent plan with the autonomous communities to reduce waiting lists, respecting their responsibility for managing health services. Ensure sufficient resources for public healthcare in the new regional funding system."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-69",
+              "quote": "pondremos en marcha, de acuerdo con las Comunidades Autónomas y respetando sus competencias de gestión, un plan urgen- te de reducción de listas de espera para asegurar una atención ágil y de calidad.",
+              "page": 69
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-69",
+              "quote": "El nuevo sistema de financiación autonómica tendrá en la sanidad uno de sus pilares y garantizará recursos suficientes para ase- gurar la sostenibilidad de la sanidad pública y una atención de calidad en condiciones de igualdad.",
+              "page": 69
+            }
+          ]
+        },
+        {
+          "id": "pp-healthcare-primary-care-doctors",
+          "title": {
+            "es": "Al menos 4.500 médicos más en atención primaria",
+            "ca": "Almenys 4.500 metges més a l’atenció primària",
+            "gl": "Polo menos 4.500 médicos máis en atención primaria",
+            "eu": "Gutxienez 4.500 mediku gehiago lehen mailako arretan",
+            "oc": "Aumens 4.500 mètges mès ena atencion primària",
+            "en": "At least 4,500 more primary care doctors"
+          },
+          "text": {
+            "es": "Incorporar a más profesionales al Sistema Nacional de Salud en coordinación con las comunidades autónomas, entre ellos al menos 4.500 médicos más en atención primaria.",
+            "ca": "Incorporar més professionals al Sistema Nacional de Salud en coordinació amb les comunitats autònomes, entre els quals almenys 4.500 metges més a l’atenció primària.",
+            "gl": "Incorporar máis profesionais ao Sistema Nacional de Salud en coordinación coas comunidades autónomas, entre eles polo menos 4.500 médicos máis en atención primaria.",
+            "eu": "Sistema Nacional de Salud osasun-sisteman profesional gehiago sartzea, autonomia-erkidegoekin koordinatuta, horien artean gutxienez 4.500 mediku gehiago lehen mailako arretan.",
+            "oc": "Incorporar mès professionaus ath Sistema Nacional de Salud en coordinacion damb es comunitats autonòmes, entre eri aumens 4.500 mètges mès ena atencion primària.",
+            "en": "Bring more staff into the Sistema Nacional de Salud in coordination with the autonomous communities, including at least 4,500 more primary care doctors."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-69",
+              "quote": "En Atención Primaria, al menos 4.500 médicos más.",
+              "page": 69
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-69",
+              "quote": "en coordinación con las Comunidades Autónomas, más profesio- nales al Sistema Nacional de Salud —médicos, enfermeras y resto de profesionales sanitarios— para contar con las plantillas que se necesi- tan hoy y en el futuro.",
+              "page": 69
+            }
+          ]
+        },
+        {
+          "id": "pp-healthcare-mental-health-plan",
+          "title": {
+            "es": "Plan Nacional de Salud Mental 2027–2037",
+            "ca": "Plan Nacional de Salud Mental 2027–2037",
+            "gl": "Plan Nacional de Salud Mental 2027–2037",
+            "eu": "Plan Nacional de Salud Mental 2027–2037",
+            "oc": "Plan Nacional de Salud Mental 2027–2037",
+            "en": "Plan Nacional de Salud Mental 2027–2037"
+          },
+          "text": {
+            "es": "Aprobar el Plan Nacional de Salud Mental 2027–2037 con financiación garantizada. Aumentar el número de profesionales y mejorar la prevención, la detección precoz y el acceso a la atención psicológica y psiquiátrica desde atención primaria, con prioridad para la infancia y la adolescencia, la prevención del suicidio y los trastornos mentales graves.",
+            "ca": "Aprovar el Plan Nacional de Salud Mental 2027–2037 amb finançament garantit. Augmentar el nombre de professionals i millorar la prevenció, la detecció precoç i l’accés a l’atenció psicològica i psiquiàtrica des de l’atenció primària, amb prioritat per a la infància i l’adolescència, la prevenció del suïcidi i els trastorns mentals greus.",
+            "gl": "Aprobar o Plan Nacional de Salud Mental 2027–2037 con financiamento garantido. Aumentar o número de profesionais e mellorar a prevención, a detección precoz e o acceso á atención psicolóxica e psiquiátrica desde a atención primaria, con prioridade para a infancia e a adolescencia, a prevención do suicidio e os trastornos mentais graves.",
+            "eu": "Plan Nacional de Salud Mental 2027–2037 izeneko plana onartzea, finantzaketa bermatuta. Profesional kopurua handitzea eta prebentzioa, detekzio goiztiarra eta lehen mailako arretatik arreta psikologikoa eta psikiatrikoa jasotzeko aukera hobetzea, haurtzaroari eta nerabezaroari, suizidioaren prebentzioari eta nahasmendu mental larriei lehentasuna emanez.",
+            "oc": "Aprovar eth Plan Nacional de Salud Mental 2027–2037 damb finançament garantit. Aumentar eth nombre de professionaus e melhorar era prevencion, era deteccion precòça e er accès ara atencion psicologica e psiquiatrica des dera atencion primària, en tot dar prioritat ara mainadèra e ara adolescéncia, ara prevencion deth suicidi e as trebolèris mentaus grèus.",
+            "en": "Approve the Plan Nacional de Salud Mental 2027–2037 with guaranteed funding. Increase staffing and improve prevention, early detection and access to psychological and psychiatric care through primary care, prioritising children and adolescents, suicide prevention and severe mental disorders."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-70",
+              "quote": "Aprobaremos un Plan Nacional de Salud Men- tal 2027-2037, con financiación garantizada,",
+              "page": 70
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-70",
+              "quote": "Aumentaremos el número de profesionales dedicados a la salud mental y mejoraremos la prevención, la detección precoz y el acceso a la atención psicológica y psiquiátrica desde Atención Primaria, con especial prioridad para la in- fancia y la adolescencia, la prevención del suicidio y los trastornos men- tales graves.",
+              "page": 70
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--housing",
       "partyId": "pp",
       "topicId": "housing",
       "path": "/parties/pp/housing",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-housing-one-million-homes",
+          "title": {
+            "es": "Construcción de un millón de viviendas",
+            "ca": "Construcció d’un milió d’habitatges",
+            "gl": "Construción dun millón de vivendas",
+            "eu": "Milioi bat etxebizitza eraikitzea",
+            "oc": "Construccion d’un milion d’abitatges",
+            "en": "Construction of one million homes"
+          },
+          "text": {
+            "es": "Construir un millón de viviendas movilizando suelo público y privado en colaboración con las comunidades autónomas y las entidades locales. Aprobar una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
+            "ca": "Construir un milió d’habitatges mobilitzant sòl públic i privat en col·laboració amb les comunitats autònomes i les entitats locals. Aprovar una nova Llei del sòl per agilitzar el planejament urbanístic i reforçar-ne la seguretat jurídica.",
+            "gl": "Construír un millón de vivendas mobilizando solo público e privado en colaboración coas comunidades autónomas e as entidades locais. Aprobar unha nova Lei do solo para axilizar o planeamento urbanístico e reforzar a súa seguridade xurídica.",
+            "eu": "Milioi bat etxebizitza eraikitzea, lurzoru publikoa eta pribatua mobilizatuz autonomia-erkidegoekin eta toki-erakundeekin elkarlanean. Lurzoruari buruzko lege berri bat onartzea, hirigintza-plangintza azkartzeko eta haren segurtasun juridikoa indartzeko.",
+            "oc": "Bastir un milion d’abitatges en tot mobilizar terren public e privat en collaboracion damb es comunitats autonòmes e es entitats locaus. Aprovar ua naua Lei deth solèr entà agilizar eth planejament urbanistic e reforçar-ne era seguretat juridica.",
+            "en": "Build one million homes by making public and private land available in cooperation with the autonomous communities and local authorities. Pass a new Land Act to speed up urban planning and strengthen its legal certainty."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-53",
+              "quote": "CONSTRUIREMOS UN MILLÓN DE VIVIENDAS. Movilizaremos suelo público y privado en colaboración con las Comunidades Autóno- mas y las entidades locales. Aprobaremos una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
+              "page": 53
+            }
+          ]
+        },
+        {
+          "id": "pp-housing-repeal-housing-law",
+          "title": {
+            "es": "Derogación de la Ley de Vivienda",
+            "ca": "Derogació de la Llei d’habitatge",
+            "gl": "Derrogación da Lei de vivenda",
+            "eu": "Etxebizitza Legea indargabetzea",
+            "oc": "Derogacion dera Lei d’abitatge",
+            "en": "Repeal of the Housing Act"
+          },
+          "text": {
+            "es": "Derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios del alquiler.",
+            "ca": "Derogar la Llei d’habitatge i eliminar les zones tensionades i l’índex de preus del lloguer.",
+            "gl": "Derrogar a Lei de vivenda e eliminar as zonas tensionadas e o índice de prezos do alugueiro.",
+            "eu": "Etxebizitza Legea indargabetzea eta tentsio handiko eremuak eta alokairuen prezioen indizea kentzea.",
+            "oc": "Derogar era Lei d’abitatge e suprimir es zònes tensionades e er indèx de prètzi deth loguèr.",
+            "en": "Repeal the Housing Act and remove designated high-pressure housing areas and the rental price index."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-53",
+              "quote": "DEROGAREMOS LA LEY DE VIVIENDA.",
+              "page": 53
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-53",
+              "quote": "Eliminaremos las zonas tensionadas y el índice de precios,",
+              "page": 53
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-53",
+              "quote": "en el mercado del al- quiler.",
+              "page": 53
+            }
+          ]
+        },
+        {
+          "id": "pp-housing-three-year-rental-renewals",
+          "title": {
+            "es": "Deducciones por el alquiler y su renovación",
+            "ca": "Deduccions pel lloguer i la seva renovació",
+            "gl": "Deducións polo alugueiro e a súa renovación",
+            "eu": "Alokairurako eta kontratua berritzeko kenkariak",
+            "oc": "Deduccions peth loguèr e era sua renovacion",
+            "en": "Tax deductions for rent and lease renewals"
+          },
+          "text": {
+            "es": "Dar a los inquilinos una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos y con más apoyo para quienes menos ganan. Dar una deducción en el IRPF o un crédito fiscal al propietario particular que, al vencimiento del contrato de alquiler de la vivienda habitual, lo renueve al mismo inquilino por tres años más y suba la renta por debajo del IPC.",
+            "ca": "Donar als llogaters una deducció en l’IRPF pel lloguer de l’habitatge habitual, graduada segons els ingressos i amb més suport per a qui menys guanya. Donar una deducció en l’IRPF o un crèdit fiscal al propietari particular que, quan venci el contracte de lloguer de l’habitatge habitual, el renovi al mateix llogater per tres anys més i apugi el lloguer per sota de l’IPC.",
+            "gl": "Darlles aos inquilinos unha dedución no IRPF polo alugueiro da súa vivenda habitual, graduada segundo os ingresos e con máis apoio para quen menos gaña. Darlle unha dedución no IRPF ou un crédito fiscal ao propietario particular que, ao vencer o contrato de alugueiro da vivenda habitual, llo renove ao mesmo inquilino por tres anos máis e suba a renda por debaixo do IPC.",
+            "eu": "Maizterrei ohiko etxebizitzaren alokairuagatik PFEZn kenkaria ematea, diru-sarreren arabera eta gutxien irabazten dutenei laguntza handiagoa emanez. Ohiko etxebizitzaren alokairu-kontratua amaitzean, maizter berari beste hiru urterako kontratua berritu eta errenta KPIaren azpitik igotzen duen jabe partikularrari PFEZn kenkaria edo zerga-kreditua ematea.",
+            "oc": "Dar as logataris ua deduccion en IRPF peth loguèr deth sòn abitatge abituau, graduada segontes es sòns ingrèssi e damb mès supòrt entà qui mens guanhe. Dar ua deduccion en IRPF o un crèdit fiscau ath proprietari particular que, en acabar eth contracte de loguèr der abitatge abituau, lo renauisque ath madeish logatari per tres ans mès e aumente eth loguèr per dejós der IPC.",
+            "en": "Give tenants an income tax deduction for renting their main home, based on income and with more support for lower earners. Give individual landlords an income tax deduction or tax credit if, when the lease for the tenant’s main home expires, they renew it with the same tenant for three more years and keep the rent increase below the consumer price index."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-55",
+              "quote": "Los inquilinos tendrán una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos, con más apoyo para quien menos gana. El propietario particular que, al vencer el contrato de una vivienda habi- tual, lo renueve a su inquilino por tres años más subiendo la renta por debajo del IPC tendrá una deducción en el IRPF o un crédito fiscal que compense ese esfuerzo.",
+              "page": 55
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--institutions-and-rights",
       "partyId": "pp",
       "topicId": "institutions-and-rights",
       "path": "/parties/pp/institutions-and-rights",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-institutions-and-rights-elections-after-budget-extensions",
+          "title": {
+            "es": "Elecciones tras dos prórrogas presupuestarias consecutivas",
+            "ca": "Eleccions després de dues pròrrogues pressupostàries consecutives",
+            "gl": "Eleccións tras dúas prórrogas orzamentarias consecutivas",
+            "eu": "Hauteskundeak aurrekontuak bi aldiz jarraian luzatu ondoren",
+            "oc": "Eleccions dempús de dues prorògues pressupostàries consecutives",
+            "en": "Elections after two consecutive budget extensions"
+          },
+          "text": {
+            "es": "Promover reformas para que una segunda prórroga consecutiva de los Presupuestos Generales del Estado provoque la disolución de las Cortes y la convocatoria de elecciones.",
+            "ca": "Promoure reformes perquè una segona pròrroga consecutiva dels pressupostos generals de l’Estat provoqui la dissolució de les Corts i la convocatòria d’eleccions.",
+            "gl": "Promover reformas para que unha segunda prórroga consecutiva dos orzamentos xerais do Estado provoque a disolución das Cortes e a convocatoria de eleccións.",
+            "eu": "Erreformak sustatzea Estatuko Aurrekontu Orokorrak bigarren aldiz jarraian luzatuz gero Gorteak desegin eta hauteskundeak deitzeko.",
+            "oc": "Promòir reformes entà qu’ua dusau proròga consecutiva des pressupòsti generaus der Estat provòque era dissolucion des Corts e era convocatòria d’eleccions.",
+            "en": "Promote reforms so that a second consecutive extension of the state budget triggers the dissolution of the Cortes and a call for elections."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-30",
+              "quote": "presentar cada año los Presupuestos Generales del Estado para que las Cortes los debatan. Promoveremos las reformas necesarias para que una segunda prórroga consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones.",
+              "page": 30
+            }
+          ]
+        },
+        {
+          "id": "pp-institutions-and-rights-judicial-council-election",
+          "title": {
+            "es": "Elección de los vocales del Consejo General del Poder Judicial",
+            "ca": "Elecció dels vocals del Consejo General del Poder Judicial",
+            "gl": "Elección dos vogais do Consejo General del Poder Judicial",
+            "eu": "Consejo General del Poder Judicial erakundeko kideak hautatzea",
+            "oc": "Eleccion des vocaus deth Consejo General del Poder Judicial",
+            "en": "Selection of members of the Consejo General del Poder Judicial"
+          },
+          "text": {
+            "es": "Hacer que los jueces y magistrados de todas las categorías elijan a los doce vocales judiciales del Consejo General del Poder Judicial. Mantener la evaluación pública de los méritos de los ocho juristas que designan las Cortes. Extender a todos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores a su elección.",
+            "ca": "Fer que els jutges i magistrats de totes les categories triïn els dotze vocals judicials del Consejo General del Poder Judicial. Mantenir l’avaluació pública dels mèrits dels vuit juristes que designen les Corts. Estendre a tots els vocals la incompatibilitat per haver ocupat càrrecs polítics en els cinc anys anteriors a l’elecció.",
+            "gl": "Facer que os xuíces e maxistrados de todas as categorías elixan os doce vogais xudiciais do Consejo General del Poder Judicial. Manter a avaliación pública dos méritos dos oito xuristas que designan as Cortes. Estender a todos os vogais a incompatibilidade por ocupar cargos políticos nos cinco anos anteriores á súa elección.",
+            "eu": "Kategoria guztietako epaile eta magistratuek Consejo General del Poder Judicial erakundeko hamabi kide judizialak hautatzea. Gorteek izendatzen dituzten zortzi legelarien merezimenduen ebaluazio publikoari eustea. Kide guztiei aplikatzea hautatu aurreko bost urteetan kargu politikoa izan dutenentzako bateraezintasuna.",
+            "oc": "Hèr qu’es jutges e magistrats de totes es categories causisquen es dotze vocaus judiciaus deth Consejo General del Poder Judicial. Mantier era avaloracion publica des merits des ueit juristes que designen es Corts. Estener a toti es vocaus era incompatibilitat per auer ocupat cargues politics enes cinc ans anteriors ara sua eleccion.",
+            "en": "Have judges and magistrates at all levels elect the twelve judicial members of the Consejo General del Poder Judicial. Keep the public assessment of the merits of the eight legal experts appointed by the Cortes. Extend to all members the ban on having held political office in the five years before their selection."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-32",
+              "quote": "Los jueces y magistra- dos de todas las categorías elegirán a los doce vocales judiciales del Con- sejo General del Poder Judicial. Mantendremos la evaluación pública de méritos de los ocho juristas que designan las Cortes.",
+              "page": 32
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-32",
+              "quote": "Extenderemos a to- dos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores a su elección.",
+              "page": 32
+            }
+          ]
+        },
+        {
+          "id": "pp-institutions-and-rights-public-lobbying-register",
+          "title": {
+            "es": "Registro público de grupos de interés",
+            "ca": "Registre públic de grups d’interès",
+            "gl": "Rexistro público de grupos de interese",
+            "eu": "Interes-taldeen erregistro publikoa",
+            "oc": "Registre public de grops d’interès",
+            "en": "Public register of lobby groups"
+          },
+          "text": {
+            "es": "Regular la actividad de los grupos de interés ante el Gobierno y las Cortes. Crear un registro nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, que indique a quién representa cada grupo.",
+            "ca": "Regular l’activitat dels grups d’interès davant del Govern i les Corts. Crear un registre nacional públic i obligatori, dependent de l’Autoridad Independiente de Transparencia, que indiqui a qui representa cada grup.",
+            "gl": "Regular a actividade dos grupos de interese ante o Goberno e as Cortes. Crear un rexistro nacional público e obrigatorio, dependente da Autoridad Independiente de Transparencia, que indique a quen representa cada grupo.",
+            "eu": "Interes-taldeek Gobernuaren eta Gorteen aurrean egiten duten jarduera arautzea. Nahitaezko erregistro nazional eta publiko bat sortzea, Autoridad Independiente de Transparencia erakundearen mende, talde bakoitzak nor ordezkatzen duen jasotzeko.",
+            "oc": "Regular era activitat des grops d’interès deuant deth Govèrn e des Corts. Crear un registre nacionau public e obligatòri, dependent dera Autoridad Independiente de Transparencia, qu’indique a qui represente cada grop.",
+            "en": "Regulate lobbying of the government and the Cortes. Create a mandatory public national register, overseen by the Autoridad Independiente de Transparencia, that identifies whom each interest group represents."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-36",
+              "quote": "Regularemos la actividad de los lobbies ante el Gobierno y las Cortes. Crearemos un Registro Nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, en el que conste a quién representa cada grupo de interés.",
+              "page": 36
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--pensions-and-social-protection",
       "partyId": "pp",
       "topicId": "pensions-and-social-protection",
       "path": "/parties/pp/pensions-and-social-protection",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-11T14:50:04Z",
+      "sourceIds": [
+        "pp-2026-cea8f2a05227"
+      ],
+      "points": [
+        {
+          "id": "pp-pensions-and-social-protection-pensions-cpi",
+          "title": {
+            "es": "Actualización anual de las pensiones con el IPC",
+            "ca": "Actualització anual de les pensions amb l’IPC",
+            "gl": "Actualización anual das pensións co IPC",
+            "eu": "Pentsioak urtero KPIaren arabera eguneratzea",
+            "oc": "Actualizacion annau des pensions damb er IPC",
+            "en": "Annual pension increases in line with the CPI"
+          },
+          "text": {
+            "es": "Reconstruir el Pacto de Toledo y subir las pensiones cada año con el índice de precios de consumo (IPC) para mantener su poder adquisitivo.",
+            "ca": "Reconstruir el Pacto de Toledo i apujar les pensions cada any d’acord amb l’índex de preus de consum (IPC) per mantenir-ne el poder adquisitiu.",
+            "gl": "Reconstruír o Pacto de Toledo e subir as pensións cada ano segundo o índice de prezos de consumo (IPC) para manter o seu poder adquisitivo.",
+            "eu": "Pacto de Toledo izeneko ituna berreraikitzea eta pentsioak urtero kontsumoko prezioen indizearen (KPI) arabera igotzea, erosteko ahalmenari eusteko.",
+            "oc": "Reconstruïr eth Pacto de Toledo e aumentar es pensions cada an d’acòrd damb er indèx de prètzi de consum (IPC) entà mantier eth sòn poder de crompa.",
+            "en": "Rebuild the Pacto de Toledo and raise pensions each year in line with the consumer price index (CPI) to maintain their purchasing power."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-42",
+              "quote": "Reconstruiremos el Pacto de Toledo sobre un principio claro: las pen- siones son un compromiso de Estado, por encima de la confrontación partidista.",
+              "page": 42
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-42",
+              "quote": "Aseguraremos que mantengan su poder adquisitivo y suban",
+              "page": 42
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-43",
+              "quote": "cada año con el IPC.",
+              "page": 43
+            }
+          ]
+        },
+        {
+          "id": "pp-pensions-and-social-protection-disability-pensions-work",
+          "title": {
+            "es": "Compatibilidad entre pensiones de discapacidad y empleo",
+            "ca": "Compatibilitat entre les pensions de discapacitat i l’ocupació",
+            "gl": "Compatibilidade entre as pensións de discapacidade e o emprego",
+            "eu": "Desgaitasun-pentsioak eta enplegua bateragarri egitea",
+            "oc": "Compatibilitat entre es pensions de discapacitat e eth trabalh",
+            "en": "Combining disability pensions with employment"
+          },
+          "text": {
+            "es": "Hacer compatibles las pensiones de discapacidad con el empleo. Ampliar los apoyos para adaptar los puestos de trabajo y facilitar el empleo con apoyo.",
+            "ca": "Fer compatibles les pensions de discapacitat amb l’ocupació. Ampliar els ajuts per adaptar els llocs de treball i facilitar el treball amb suport.",
+            "gl": "Facer compatibles as pensións de discapacidade co emprego. Ampliar os apoios para adaptar os postos de traballo e facilitar o emprego con apoio.",
+            "eu": "Desgaitasun-pentsioak enpleguarekin bateragarri egitea. Lanpostuak egokitzeko eta laguntzadun enplegua errazteko laguntzak zabaltzea.",
+            "oc": "Hèr compatibles es pensions de discapacitat damb eth trabalh. Aumentar es supòrts entà adaptar es lòcs de trabalh e facilitar eth trabalh damb supòrt.",
+            "en": "Allow people to receive disability pensions while working. Expand support for workplace adjustments and supported employment."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-44",
+              "quote": "Haremos compatibles las pen- siones de discapacidad con el empleo y ampliaremos los apoyos para adaptar los puestos de trabajo y favorecer el empleo con apoyo.",
+              "page": 44
+            }
+          ]
+        },
+        {
+          "id": "pp-pensions-and-social-protection-long-term-care-funding",
+          "title": {
+            "es": "Financiación de la dependencia y apoyo a quienes cuidan",
+            "ca": "Finançament de la dependència i suport a les persones cuidadores",
+            "gl": "Financiamento da dependencia e apoio a quen coida",
+            "eu": "Mendekotasunerako finantzaketa eta zaintzaileentzako laguntza",
+            "oc": "Finançament dera dependéncia e supòrt a qui suenhe",
+            "en": "Long-term care funding and support for carers"
+          },
+          "text": {
+            "es": "Impulsar un pacto estatal para asegurar financiación estable y plurianual de la dependencia de acuerdo con las comunidades autónomas. Hacer efectiva la aportación estatal del 50 % del coste público del sistema. Permitir a las familias deducir el 40 % de lo que paguen por atención profesional a una persona mayor dependiente. Hacer que el Estado cotice por quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente, cobre o no la prestación por cuidados en el entorno familiar.",
+            "ca": "Impulsar un pacte estatal per assegurar un finançament estable i pluriennal de la dependència d’acord amb les comunitats autònomes. Fer efectiva l’aportació estatal del 50 % del cost públic del sistema. Permetre que les famílies es dedueixin el 40 % del que paguin per l’atenció professional a una persona gran dependent. Fer que l’Estat cotitzi per qui deixi de treballar o es redueixi la jornada per cuidar un familiar dependent, tant si cobra la prestació per cures en l’entorn familiar com si no.",
+            "gl": "Impulsar un pacto estatal para asegurar un financiamento estable e plurianual da dependencia de acordo coas comunidades autónomas. Facer efectiva a achega estatal do 50 % do custo público do sistema. Permitir que as familias deduzan o 40 % do que paguen pola atención profesional a unha persoa maior dependente. Facer que o Estado cotice por quen deixe de traballar ou reduza a súa xornada para coidar un familiar dependente, cobre ou non a prestación por coidados na contorna familiar.",
+            "eu": "Autonomia-erkidegoekin adostuta, estatu-itun bat sustatzea mendekotasunerako finantzaketa egonkorra eta urte anitzekoa bermatzeko. Estatuak sistemaren kostu publikoaren % 50 benetan ordaintzea. Familiei aukera ematea mendekotasuna duen adineko baten arreta profesionalagatik ordaintzen dutenaren % 40 kentzeko. Estatuak kotizatzea mendekotasuna duen senide bat zaintzeko lana uzten edo lanaldia murrizten dutenen ordez, familia-inguruneko zaintzetarako prestazioa jaso ala ez.",
+            "oc": "Impulsar un pacte estatau entà assegurar un finançament estable e pluriennau dera dependéncia d’acòrd damb es comunitats autonòmes. Hèr efectiva era aportacion der Estat deth 50 % deth còst public deth sistèma. Perméter qu’es familhes dedusisquen eth 40 % de çò que paguen pera atencion professionau a ua persona grana dependenta. Hèr qu’er Estat cotize per qui dèishe de trabalhar o redusisque era sua jornada entà suenhar un familhau dependent, tant se còbre era prestacion pes suenhs en entorn familhau coma se non.",
+            "en": "Promote a state pact for stable, multi-year long-term care funding, agreed with the autonomous communities. Deliver a state contribution of 50% of the system’s public cost. Let families deduct 40% of what they pay for professional care for a dependent older person. Have the state pay contributions for people who stop working or reduce their hours to care for a dependent family member, whether or not they receive the family care benefit."
+          },
+          "citations": [
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-44",
+              "quote": "Impulsaremos un Pacto de Estado por la Dependencia para asegurar una financiación estable y plurianual de acuerdo con las Comunidades Autónomas y haremos efectiva la apor- tación estatal del 50% del coste público del sistema.",
+              "page": 44
+            },
+            {
+              "sourceId": "pp-2026-cea8f2a05227",
+              "segmentId": "page-44",
+              "quote": "Las familias se dedu- cirán el 40% de lo que paguen por la atención profesional de un mayor dependiente, y el Estado cotizará por quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente, cobre o no la prestación por cuidados en el entorno familiar.",
+              "page": 44
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--economy-and-taxes",

@@ -1,0 +1,102 @@
+{
+  "id": "pp--housing",
+  "partyId": "pp",
+  "topicId": "housing",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-11T14:50:04Z",
+  "sourceIds": ["pp-2026-cea8f2a05227"],
+  "points": [
+    {
+      "id": "pp-housing-one-million-homes",
+      "title": {
+        "es": "Construcción de un millón de viviendas",
+        "ca": "Construcció d’un milió d’habitatges",
+        "gl": "Construción dun millón de vivendas",
+        "eu": "Milioi bat etxebizitza eraikitzea",
+        "oc": "Construccion d’un milion d’abitatges",
+        "en": "Construction of one million homes"
+      },
+      "text": {
+        "es": "Construir un millón de viviendas movilizando suelo público y privado en colaboración con las comunidades autónomas y las entidades locales. Aprobar una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
+        "ca": "Construir un milió d’habitatges mobilitzant sòl públic i privat en col·laboració amb les comunitats autònomes i les entitats locals. Aprovar una nova Llei del sòl per agilitzar el planejament urbanístic i reforçar-ne la seguretat jurídica.",
+        "gl": "Construír un millón de vivendas mobilizando solo público e privado en colaboración coas comunidades autónomas e as entidades locais. Aprobar unha nova Lei do solo para axilizar o planeamento urbanístico e reforzar a súa seguridade xurídica.",
+        "eu": "Milioi bat etxebizitza eraikitzea, lurzoru publikoa eta pribatua mobilizatuz autonomia-erkidegoekin eta toki-erakundeekin elkarlanean. Lurzoruari buruzko lege berri bat onartzea, hirigintza-plangintza azkartzeko eta haren segurtasun juridikoa indartzeko.",
+        "oc": "Bastir un milion d’abitatges en tot mobilizar terren public e privat en collaboracion damb es comunitats autonòmes e es entitats locaus. Aprovar ua naua Lei deth solèr entà agilizar eth planejament urbanistic e reforçar-ne era seguretat juridica.",
+        "en": "Build one million homes by making public and private land available in cooperation with the autonomous communities and local authorities. Pass a new Land Act to speed up urban planning and strengthen its legal certainty."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-53",
+          "quote": "CONSTRUIREMOS UN MILLÓN DE VIVIENDAS. Movilizaremos suelo público y privado en colaboración con las Comunidades Autóno- mas y las entidades locales. Aprobaremos una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica."
+        }
+      ]
+    },
+    {
+      "id": "pp-housing-repeal-housing-law",
+      "title": {
+        "es": "Derogación de la Ley de Vivienda",
+        "ca": "Derogació de la Llei d’habitatge",
+        "gl": "Derrogación da Lei de vivenda",
+        "eu": "Etxebizitza Legea indargabetzea",
+        "oc": "Derogacion dera Lei d’abitatge",
+        "en": "Repeal of the Housing Act"
+      },
+      "text": {
+        "es": "Derogar la Ley de Vivienda y eliminar las zonas tensionadas y el índice de precios del alquiler.",
+        "ca": "Derogar la Llei d’habitatge i eliminar les zones tensionades i l’índex de preus del lloguer.",
+        "gl": "Derrogar a Lei de vivenda e eliminar as zonas tensionadas e o índice de prezos do alugueiro.",
+        "eu": "Etxebizitza Legea indargabetzea eta tentsio handiko eremuak eta alokairuen prezioen indizea kentzea.",
+        "oc": "Derogar era Lei d’abitatge e suprimir es zònes tensionades e er indèx de prètzi deth loguèr.",
+        "en": "Repeal the Housing Act and remove designated high-pressure housing areas and the rental price index."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-53",
+          "quote": "DEROGAREMOS LA LEY DE VIVIENDA."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-53",
+          "quote": "Eliminaremos las zonas tensionadas y el índice de precios,"
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-53",
+          "quote": "en el mercado del al- quiler."
+        }
+      ]
+    },
+    {
+      "id": "pp-housing-three-year-rental-renewals",
+      "title": {
+        "es": "Deducciones por el alquiler y su renovación",
+        "ca": "Deduccions pel lloguer i la seva renovació",
+        "gl": "Deducións polo alugueiro e a súa renovación",
+        "eu": "Alokairurako eta kontratua berritzeko kenkariak",
+        "oc": "Deduccions peth loguèr e era sua renovacion",
+        "en": "Tax deductions for rent and lease renewals"
+      },
+      "text": {
+        "es": "Dar a los inquilinos una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos y con más apoyo para quienes menos ganan. Dar una deducción en el IRPF o un crédito fiscal al propietario particular que, al vencimiento del contrato de alquiler de la vivienda habitual, lo renueve al mismo inquilino por tres años más y suba la renta por debajo del IPC.",
+        "ca": "Donar als llogaters una deducció en l’IRPF pel lloguer de l’habitatge habitual, graduada segons els ingressos i amb més suport per a qui menys guanya. Donar una deducció en l’IRPF o un crèdit fiscal al propietari particular que, quan venci el contracte de lloguer de l’habitatge habitual, el renovi al mateix llogater per tres anys més i apugi el lloguer per sota de l’IPC.",
+        "gl": "Darlles aos inquilinos unha dedución no IRPF polo alugueiro da súa vivenda habitual, graduada segundo os ingresos e con máis apoio para quen menos gaña. Darlle unha dedución no IRPF ou un crédito fiscal ao propietario particular que, ao vencer o contrato de alugueiro da vivenda habitual, llo renove ao mesmo inquilino por tres anos máis e suba a renda por debaixo do IPC.",
+        "eu": "Maizterrei ohiko etxebizitzaren alokairuagatik PFEZn kenkaria ematea, diru-sarreren arabera eta gutxien irabazten dutenei laguntza handiagoa emanez. Ohiko etxebizitzaren alokairu-kontratua amaitzean, maizter berari beste hiru urterako kontratua berritu eta errenta KPIaren azpitik igotzen duen jabe partikularrari PFEZn kenkaria edo zerga-kreditua ematea.",
+        "oc": "Dar as logataris ua deduccion en IRPF peth loguèr deth sòn abitatge abituau, graduada segontes es sòns ingrèssi e damb mès supòrt entà qui mens guanhe. Dar ua deduccion en IRPF o un crèdit fiscau ath proprietari particular que, en acabar eth contracte de loguèr der abitatge abituau, lo renauisque ath madeish logatari per tres ans mès e aumente eth loguèr per dejós der IPC.",
+        "en": "Give tenants an income tax deduction for renting their main home, based on income and with more support for lower earners. Give individual landlords an income tax deduction or tax credit if, when the lease for the tenant’s main home expires, they renew it with the same tenant for three more years and keep the rent increase below the consumer price index."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-55",
+          "quote": "Los inquilinos tendrán una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos, con más apoyo para quien menos gana. El propietario particular que, al vencer el contrato de una vivienda habi- tual, lo renueve a su inquilino por tres años más subiendo la renta por debajo del IPC tendrá una deducción en el IRPF o un crédito fiscal que compense ese esfuerzo."
+        }
+      ]
+    }
+  ]
+}

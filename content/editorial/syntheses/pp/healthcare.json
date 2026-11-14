@@ -1,0 +1,107 @@
+{
+  "id": "pp--healthcare",
+  "partyId": "pp",
+  "topicId": "healthcare",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-11T14:50:04Z",
+  "sourceIds": ["pp-2026-cea8f2a05227"],
+  "points": [
+    {
+      "id": "pp-healthcare-waiting-lists",
+      "title": {
+        "es": "Plan urgente para reducir las listas de espera",
+        "ca": "Pla urgent per reduir les llistes d’espera",
+        "gl": "Plan urxente para reducir as listas de espera",
+        "eu": "Itxaron-zerrendak murrizteko premiazko plana",
+        "oc": "Plan urgent entà redusir es listes de demora",
+        "en": "Urgent plan to reduce waiting lists"
+      },
+      "text": {
+        "es": "Poner en marcha con las comunidades autónomas un plan urgente para reducir las listas de espera, respetando sus competencias de gestión. Asegurar recursos suficientes para la sanidad pública en el nuevo sistema de financiación autonómica.",
+        "ca": "Posar en marxa amb les comunitats autònomes un pla urgent per reduir les llistes d’espera, respectant-ne les competències de gestió. Assegurar recursos suficients per a la sanitat pública en el nou sistema de finançament autonòmic.",
+        "gl": "Poñer en marcha coas comunidades autónomas un plan urxente para reducir as listas de espera, respectando as súas competencias de xestión. Asegurar recursos suficientes para a sanidade pública no novo sistema de financiamento autonómico.",
+        "eu": "Autonomia-erkidegoekin batera itxaron-zerrendak murrizteko premiazko plan bat abian jartzea, haien kudeaketa-eskumenak errespetatuz. Autonomia-erkidegoak finantzatzeko sistema berrian osasun publikoarentzako baliabide nahikoak bermatzea.",
+        "oc": "Méter en marcha damb es comunitats autonòmes un plan urgent entà redusir es listes de demora, en tot respectar es sues competéncies de gestion. Assegurar recorsi sufisents entara sanitat publica en nau sistèma de finançament autonomic.",
+        "en": "Launch an urgent plan with the autonomous communities to reduce waiting lists, respecting their responsibility for managing health services. Ensure sufficient resources for public healthcare in the new regional funding system."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-69",
+          "quote": "pondremos en marcha, de acuerdo con las Comunidades Autónomas y respetando sus competencias de gestión, un plan urgen- te de reducción de listas de espera para asegurar una atención ágil y de calidad."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-69",
+          "quote": "El nuevo sistema de financiación autonómica tendrá en la sanidad uno de sus pilares y garantizará recursos suficientes para ase- gurar la sostenibilidad de la sanidad pública y una atención de calidad en condiciones de igualdad."
+        }
+      ]
+    },
+    {
+      "id": "pp-healthcare-primary-care-doctors",
+      "title": {
+        "es": "Al menos 4.500 médicos más en atención primaria",
+        "ca": "Almenys 4.500 metges més a l’atenció primària",
+        "gl": "Polo menos 4.500 médicos máis en atención primaria",
+        "eu": "Gutxienez 4.500 mediku gehiago lehen mailako arretan",
+        "oc": "Aumens 4.500 mètges mès ena atencion primària",
+        "en": "At least 4,500 more primary care doctors"
+      },
+      "text": {
+        "es": "Incorporar a más profesionales al Sistema Nacional de Salud en coordinación con las comunidades autónomas, entre ellos al menos 4.500 médicos más en atención primaria.",
+        "ca": "Incorporar més professionals al Sistema Nacional de Salud en coordinació amb les comunitats autònomes, entre els quals almenys 4.500 metges més a l’atenció primària.",
+        "gl": "Incorporar máis profesionais ao Sistema Nacional de Salud en coordinación coas comunidades autónomas, entre eles polo menos 4.500 médicos máis en atención primaria.",
+        "eu": "Sistema Nacional de Salud osasun-sisteman profesional gehiago sartzea, autonomia-erkidegoekin koordinatuta, horien artean gutxienez 4.500 mediku gehiago lehen mailako arretan.",
+        "oc": "Incorporar mès professionaus ath Sistema Nacional de Salud en coordinacion damb es comunitats autonòmes, entre eri aumens 4.500 mètges mès ena atencion primària.",
+        "en": "Bring more staff into the Sistema Nacional de Salud in coordination with the autonomous communities, including at least 4,500 more primary care doctors."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-69",
+          "quote": "En Atención Primaria, al menos 4.500 médicos más."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-69",
+          "quote": "en coordinación con las Comunidades Autónomas, más profesio- nales al Sistema Nacional de Salud —médicos, enfermeras y resto de profesionales sanitarios— para contar con las plantillas que se necesi- tan hoy y en el futuro."
+        }
+      ]
+    },
+    {
+      "id": "pp-healthcare-mental-health-plan",
+      "title": {
+        "es": "Plan Nacional de Salud Mental 2027–2037",
+        "ca": "Plan Nacional de Salud Mental 2027–2037",
+        "gl": "Plan Nacional de Salud Mental 2027–2037",
+        "eu": "Plan Nacional de Salud Mental 2027–2037",
+        "oc": "Plan Nacional de Salud Mental 2027–2037",
+        "en": "Plan Nacional de Salud Mental 2027–2037"
+      },
+      "text": {
+        "es": "Aprobar el Plan Nacional de Salud Mental 2027–2037 con financiación garantizada. Aumentar el número de profesionales y mejorar la prevención, la detección precoz y el acceso a la atención psicológica y psiquiátrica desde atención primaria, con prioridad para la infancia y la adolescencia, la prevención del suicidio y los trastornos mentales graves.",
+        "ca": "Aprovar el Plan Nacional de Salud Mental 2027–2037 amb finançament garantit. Augmentar el nombre de professionals i millorar la prevenció, la detecció precoç i l’accés a l’atenció psicològica i psiquiàtrica des de l’atenció primària, amb prioritat per a la infància i l’adolescència, la prevenció del suïcidi i els trastorns mentals greus.",
+        "gl": "Aprobar o Plan Nacional de Salud Mental 2027–2037 con financiamento garantido. Aumentar o número de profesionais e mellorar a prevención, a detección precoz e o acceso á atención psicolóxica e psiquiátrica desde a atención primaria, con prioridade para a infancia e a adolescencia, a prevención do suicidio e os trastornos mentais graves.",
+        "eu": "Plan Nacional de Salud Mental 2027–2037 izeneko plana onartzea, finantzaketa bermatuta. Profesional kopurua handitzea eta prebentzioa, detekzio goiztiarra eta lehen mailako arretatik arreta psikologikoa eta psikiatrikoa jasotzeko aukera hobetzea, haurtzaroari eta nerabezaroari, suizidioaren prebentzioari eta nahasmendu mental larriei lehentasuna emanez.",
+        "oc": "Aprovar eth Plan Nacional de Salud Mental 2027–2037 damb finançament garantit. Aumentar eth nombre de professionaus e melhorar era prevencion, era deteccion precòça e er accès ara atencion psicologica e psiquiatrica des dera atencion primària, en tot dar prioritat ara mainadèra e ara adolescéncia, ara prevencion deth suicidi e as trebolèris mentaus grèus.",
+        "en": "Approve the Plan Nacional de Salud Mental 2027–2037 with guaranteed funding. Increase staffing and improve prevention, early detection and access to psychological and psychiatric care through primary care, prioritising children and adolescents, suicide prevention and severe mental disorders."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-70",
+          "quote": "Aprobaremos un Plan Nacional de Salud Men- tal 2027-2037, con financiación garantizada,"
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-70",
+          "quote": "Aumentaremos el número de profesionales dedicados a la salud mental y mejoraremos la prevención, la detección precoz y el acceso a la atención psicológica y psiquiátrica desde Atención Primaria, con especial prioridad para la in- fancia y la adolescencia, la prevención del suicidio y los trastornos men- tales graves."
+        }
+      ]
+    }
+  ]
+}

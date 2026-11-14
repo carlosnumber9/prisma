@@ -1,0 +1,107 @@
+{
+  "id": "pp--pensions-and-social-protection",
+  "partyId": "pp",
+  "topicId": "pensions-and-social-protection",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-11T14:50:04Z",
+  "sourceIds": ["pp-2026-cea8f2a05227"],
+  "points": [
+    {
+      "id": "pp-pensions-and-social-protection-pensions-cpi",
+      "title": {
+        "es": "Actualización anual de las pensiones con el IPC",
+        "ca": "Actualització anual de les pensions amb l’IPC",
+        "gl": "Actualización anual das pensións co IPC",
+        "eu": "Pentsioak urtero KPIaren arabera eguneratzea",
+        "oc": "Actualizacion annau des pensions damb er IPC",
+        "en": "Annual pension increases in line with the CPI"
+      },
+      "text": {
+        "es": "Reconstruir el Pacto de Toledo y subir las pensiones cada año con el índice de precios de consumo (IPC) para mantener su poder adquisitivo.",
+        "ca": "Reconstruir el Pacto de Toledo i apujar les pensions cada any d’acord amb l’índex de preus de consum (IPC) per mantenir-ne el poder adquisitiu.",
+        "gl": "Reconstruír o Pacto de Toledo e subir as pensións cada ano segundo o índice de prezos de consumo (IPC) para manter o seu poder adquisitivo.",
+        "eu": "Pacto de Toledo izeneko ituna berreraikitzea eta pentsioak urtero kontsumoko prezioen indizearen (KPI) arabera igotzea, erosteko ahalmenari eusteko.",
+        "oc": "Reconstruïr eth Pacto de Toledo e aumentar es pensions cada an d’acòrd damb er indèx de prètzi de consum (IPC) entà mantier eth sòn poder de crompa.",
+        "en": "Rebuild the Pacto de Toledo and raise pensions each year in line with the consumer price index (CPI) to maintain their purchasing power."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-42",
+          "quote": "Reconstruiremos el Pacto de Toledo sobre un principio claro: las pen- siones son un compromiso de Estado, por encima de la confrontación partidista."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-42",
+          "quote": "Aseguraremos que mantengan su poder adquisitivo y suban"
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-43",
+          "quote": "cada año con el IPC."
+        }
+      ]
+    },
+    {
+      "id": "pp-pensions-and-social-protection-disability-pensions-work",
+      "title": {
+        "es": "Compatibilidad entre pensiones de discapacidad y empleo",
+        "ca": "Compatibilitat entre les pensions de discapacitat i l’ocupació",
+        "gl": "Compatibilidade entre as pensións de discapacidade e o emprego",
+        "eu": "Desgaitasun-pentsioak eta enplegua bateragarri egitea",
+        "oc": "Compatibilitat entre es pensions de discapacitat e eth trabalh",
+        "en": "Combining disability pensions with employment"
+      },
+      "text": {
+        "es": "Hacer compatibles las pensiones de discapacidad con el empleo. Ampliar los apoyos para adaptar los puestos de trabajo y facilitar el empleo con apoyo.",
+        "ca": "Fer compatibles les pensions de discapacitat amb l’ocupació. Ampliar els ajuts per adaptar els llocs de treball i facilitar el treball amb suport.",
+        "gl": "Facer compatibles as pensións de discapacidade co emprego. Ampliar os apoios para adaptar os postos de traballo e facilitar o emprego con apoio.",
+        "eu": "Desgaitasun-pentsioak enpleguarekin bateragarri egitea. Lanpostuak egokitzeko eta laguntzadun enplegua errazteko laguntzak zabaltzea.",
+        "oc": "Hèr compatibles es pensions de discapacitat damb eth trabalh. Aumentar es supòrts entà adaptar es lòcs de trabalh e facilitar eth trabalh damb supòrt.",
+        "en": "Allow people to receive disability pensions while working. Expand support for workplace adjustments and supported employment."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-44",
+          "quote": "Haremos compatibles las pen- siones de discapacidad con el empleo y ampliaremos los apoyos para adaptar los puestos de trabajo y favorecer el empleo con apoyo."
+        }
+      ]
+    },
+    {
+      "id": "pp-pensions-and-social-protection-long-term-care-funding",
+      "title": {
+        "es": "Financiación de la dependencia y apoyo a quienes cuidan",
+        "ca": "Finançament de la dependència i suport a les persones cuidadores",
+        "gl": "Financiamento da dependencia e apoio a quen coida",
+        "eu": "Mendekotasunerako finantzaketa eta zaintzaileentzako laguntza",
+        "oc": "Finançament dera dependéncia e supòrt a qui suenhe",
+        "en": "Long-term care funding and support for carers"
+      },
+      "text": {
+        "es": "Impulsar un pacto estatal para asegurar financiación estable y plurianual de la dependencia de acuerdo con las comunidades autónomas. Hacer efectiva la aportación estatal del 50 % del coste público del sistema. Permitir a las familias deducir el 40 % de lo que paguen por atención profesional a una persona mayor dependiente. Hacer que el Estado cotice por quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente, cobre o no la prestación por cuidados en el entorno familiar.",
+        "ca": "Impulsar un pacte estatal per assegurar un finançament estable i pluriennal de la dependència d’acord amb les comunitats autònomes. Fer efectiva l’aportació estatal del 50 % del cost públic del sistema. Permetre que les famílies es dedueixin el 40 % del que paguin per l’atenció professional a una persona gran dependent. Fer que l’Estat cotitzi per qui deixi de treballar o es redueixi la jornada per cuidar un familiar dependent, tant si cobra la prestació per cures en l’entorn familiar com si no.",
+        "gl": "Impulsar un pacto estatal para asegurar un financiamento estable e plurianual da dependencia de acordo coas comunidades autónomas. Facer efectiva a achega estatal do 50 % do custo público do sistema. Permitir que as familias deduzan o 40 % do que paguen pola atención profesional a unha persoa maior dependente. Facer que o Estado cotice por quen deixe de traballar ou reduza a súa xornada para coidar un familiar dependente, cobre ou non a prestación por coidados na contorna familiar.",
+        "eu": "Autonomia-erkidegoekin adostuta, estatu-itun bat sustatzea mendekotasunerako finantzaketa egonkorra eta urte anitzekoa bermatzeko. Estatuak sistemaren kostu publikoaren % 50 benetan ordaintzea. Familiei aukera ematea mendekotasuna duen adineko baten arreta profesionalagatik ordaintzen dutenaren % 40 kentzeko. Estatuak kotizatzea mendekotasuna duen senide bat zaintzeko lana uzten edo lanaldia murrizten dutenen ordez, familia-inguruneko zaintzetarako prestazioa jaso ala ez.",
+        "oc": "Impulsar un pacte estatau entà assegurar un finançament estable e pluriennau dera dependéncia d’acòrd damb es comunitats autonòmes. Hèr efectiva era aportacion der Estat deth 50 % deth còst public deth sistèma. Perméter qu’es familhes dedusisquen eth 40 % de çò que paguen pera atencion professionau a ua persona grana dependenta. Hèr qu’er Estat cotize per qui dèishe de trabalhar o redusisque era sua jornada entà suenhar un familhau dependent, tant se còbre era prestacion pes suenhs en entorn familhau coma se non.",
+        "en": "Promote a state pact for stable, multi-year long-term care funding, agreed with the autonomous communities. Deliver a state contribution of 50% of the system’s public cost. Let families deduct 40% of what they pay for professional care for a dependent older person. Have the state pay contributions for people who stop working or reduce their hours to care for a dependent family member, whether or not they receive the family care benefit."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-44",
+          "quote": "Impulsaremos un Pacto de Estado por la Dependencia para asegurar una financiación estable y plurianual de acuerdo con las Comunidades Autónomas y haremos efectiva la apor- tación estatal del 50% del coste público del sistema."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-44",
+          "quote": "Las familias se dedu- cirán el 40% de lo que paguen por la atención profesional de un mayor dependiente, y el Estado cotizará por quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente, cobre o no la prestación por cuidados en el entorno familiar."
+        }
+      ]
+    }
+  ]
+}

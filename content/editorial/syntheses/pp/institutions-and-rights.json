@@ -1,0 +1,97 @@
+{
+  "id": "pp--institutions-and-rights",
+  "partyId": "pp",
+  "topicId": "institutions-and-rights",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-11T14:50:04Z",
+  "sourceIds": ["pp-2026-cea8f2a05227"],
+  "points": [
+    {
+      "id": "pp-institutions-and-rights-elections-after-budget-extensions",
+      "title": {
+        "es": "Elecciones tras dos prórrogas presupuestarias consecutivas",
+        "ca": "Eleccions després de dues pròrrogues pressupostàries consecutives",
+        "gl": "Eleccións tras dúas prórrogas orzamentarias consecutivas",
+        "eu": "Hauteskundeak aurrekontuak bi aldiz jarraian luzatu ondoren",
+        "oc": "Eleccions dempús de dues prorògues pressupostàries consecutives",
+        "en": "Elections after two consecutive budget extensions"
+      },
+      "text": {
+        "es": "Promover reformas para que una segunda prórroga consecutiva de los Presupuestos Generales del Estado provoque la disolución de las Cortes y la convocatoria de elecciones.",
+        "ca": "Promoure reformes perquè una segona pròrroga consecutiva dels pressupostos generals de l’Estat provoqui la dissolució de les Corts i la convocatòria d’eleccions.",
+        "gl": "Promover reformas para que unha segunda prórroga consecutiva dos orzamentos xerais do Estado provoque a disolución das Cortes e a convocatoria de eleccións.",
+        "eu": "Erreformak sustatzea Estatuko Aurrekontu Orokorrak bigarren aldiz jarraian luzatuz gero Gorteak desegin eta hauteskundeak deitzeko.",
+        "oc": "Promòir reformes entà qu’ua dusau proròga consecutiva des pressupòsti generaus der Estat provòque era dissolucion des Corts e era convocatòria d’eleccions.",
+        "en": "Promote reforms so that a second consecutive extension of the state budget triggers the dissolution of the Cortes and a call for elections."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-30",
+          "quote": "presentar cada año los Presupuestos Generales del Estado para que las Cortes los debatan. Promoveremos las reformas necesarias para que una segunda prórroga consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones."
+        }
+      ]
+    },
+    {
+      "id": "pp-institutions-and-rights-judicial-council-election",
+      "title": {
+        "es": "Elección de los vocales del Consejo General del Poder Judicial",
+        "ca": "Elecció dels vocals del Consejo General del Poder Judicial",
+        "gl": "Elección dos vogais do Consejo General del Poder Judicial",
+        "eu": "Consejo General del Poder Judicial erakundeko kideak hautatzea",
+        "oc": "Eleccion des vocaus deth Consejo General del Poder Judicial",
+        "en": "Selection of members of the Consejo General del Poder Judicial"
+      },
+      "text": {
+        "es": "Hacer que los jueces y magistrados de todas las categorías elijan a los doce vocales judiciales del Consejo General del Poder Judicial. Mantener la evaluación pública de los méritos de los ocho juristas que designan las Cortes. Extender a todos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores a su elección.",
+        "ca": "Fer que els jutges i magistrats de totes les categories triïn els dotze vocals judicials del Consejo General del Poder Judicial. Mantenir l’avaluació pública dels mèrits dels vuit juristes que designen les Corts. Estendre a tots els vocals la incompatibilitat per haver ocupat càrrecs polítics en els cinc anys anteriors a l’elecció.",
+        "gl": "Facer que os xuíces e maxistrados de todas as categorías elixan os doce vogais xudiciais do Consejo General del Poder Judicial. Manter a avaliación pública dos méritos dos oito xuristas que designan as Cortes. Estender a todos os vogais a incompatibilidade por ocupar cargos políticos nos cinco anos anteriores á súa elección.",
+        "eu": "Kategoria guztietako epaile eta magistratuek Consejo General del Poder Judicial erakundeko hamabi kide judizialak hautatzea. Gorteek izendatzen dituzten zortzi legelarien merezimenduen ebaluazio publikoari eustea. Kide guztiei aplikatzea hautatu aurreko bost urteetan kargu politikoa izan dutenentzako bateraezintasuna.",
+        "oc": "Hèr qu’es jutges e magistrats de totes es categories causisquen es dotze vocaus judiciaus deth Consejo General del Poder Judicial. Mantier era avaloracion publica des merits des ueit juristes que designen es Corts. Estener a toti es vocaus era incompatibilitat per auer ocupat cargues politics enes cinc ans anteriors ara sua eleccion.",
+        "en": "Have judges and magistrates at all levels elect the twelve judicial members of the Consejo General del Poder Judicial. Keep the public assessment of the merits of the eight legal experts appointed by the Cortes. Extend to all members the ban on having held political office in the five years before their selection."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-32",
+          "quote": "Los jueces y magistra- dos de todas las categorías elegirán a los doce vocales judiciales del Con- sejo General del Poder Judicial. Mantendremos la evaluación pública de méritos de los ocho juristas que designan las Cortes."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-32",
+          "quote": "Extenderemos a to- dos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores a su elección."
+        }
+      ]
+    },
+    {
+      "id": "pp-institutions-and-rights-public-lobbying-register",
+      "title": {
+        "es": "Registro público de grupos de interés",
+        "ca": "Registre públic de grups d’interès",
+        "gl": "Rexistro público de grupos de interese",
+        "eu": "Interes-taldeen erregistro publikoa",
+        "oc": "Registre public de grops d’interès",
+        "en": "Public register of lobby groups"
+      },
+      "text": {
+        "es": "Regular la actividad de los grupos de interés ante el Gobierno y las Cortes. Crear un registro nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, que indique a quién representa cada grupo.",
+        "ca": "Regular l’activitat dels grups d’interès davant del Govern i les Corts. Crear un registre nacional públic i obligatori, dependent de l’Autoridad Independiente de Transparencia, que indiqui a qui representa cada grup.",
+        "gl": "Regular a actividade dos grupos de interese ante o Goberno e as Cortes. Crear un rexistro nacional público e obrigatorio, dependente da Autoridad Independiente de Transparencia, que indique a quen representa cada grupo.",
+        "eu": "Interes-taldeek Gobernuaren eta Gorteen aurrean egiten duten jarduera arautzea. Nahitaezko erregistro nazional eta publiko bat sortzea, Autoridad Independiente de Transparencia erakundearen mende, talde bakoitzak nor ordezkatzen duen jasotzeko.",
+        "oc": "Regular era activitat des grops d’interès deuant deth Govèrn e des Corts. Crear un registre nacionau public e obligatòri, dependent dera Autoridad Independiente de Transparencia, qu’indique a qui represente cada grop.",
+        "en": "Regulate lobbying of the government and the Cortes. Create a mandatory public national register, overseen by the Autoridad Independiente de Transparencia, that identifies whom each interest group represents."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-36",
+          "quote": "Regularemos la actividad de los lobbies ante el Gobierno y las Cortes. Crearemos un Registro Nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, en el que conste a quién representa cada grupo de interés."
+        }
+      ]
+    }
+  ]
+}

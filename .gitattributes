@@ -1,4 +1,5 @@
 # Preserve source and extraction bytes used for hash verification.
 content/sources/** -text
+content/sources/**/*.pdf binary
 content/political-info/sources/** -text
 content/generated/*.json text eol=lf

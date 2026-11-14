@@ -1,0 +1,97 @@
+{
+  "id": "pp--employment",
+  "partyId": "pp",
+  "topicId": "employment",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-11T14:50:04Z",
+  "sourceIds": ["pp-2026-cea8f2a05227"],
+  "points": [
+    {
+      "id": "pp-employment-ai-training-voucher",
+      "title": {
+        "es": "Cheque de formación en inteligencia artificial",
+        "ca": "Xec de formació en intel·ligència artificial",
+        "gl": "Cheque de formación en intelixencia artificial",
+        "eu": "Adimen artifizialean trebatzeko txekea",
+        "oc": "Chèc de formacion en intelligéncia artificiau",
+        "en": "Artificial intelligence training voucher"
+      },
+      "text": {
+        "es": "Dar a cada trabajador un cheque para formarse en inteligencia artificial donde elija y conservarlo aunque cambie de empresa. Dar más recursos a los trabajadores de mayor edad y a los de los sectores más expuestos. Financiarlo con las cuotas de formación vigentes, sin imponer nuevas cargas a empresas ni trabajadores.",
+        "ca": "Donar a cada treballador un xec per formar-se en intel·ligència artificial on triï i que conservi encara que canviï d’empresa. Donar més recursos als treballadors de més edat i als dels sectors més exposats. Finançar-lo amb les quotes de formació vigents, sense imposar noves càrregues a empreses ni treballadors.",
+        "gl": "Darlle a cada traballador un cheque para formarse en intelixencia artificial onde elixa e conservalo aínda que cambie de empresa. Dar máis recursos aos traballadores de máis idade e aos dos sectores máis expostos. Financialo coas cotas de formación vixentes, sen impoñer novas cargas ás empresas nin aos traballadores.",
+        "eu": "Langile bakoitzari txeke bat ematea adimen artifizialean berak aukeratutako lekuan trebatzeko eta enpresaz aldatu arren txekeari eusteko. Langile zaharragoei eta aldaketa horren eraginpean gehien dauden sektoreetako langileei baliabide gehiago ematea. Indarreko prestakuntza-kuoten bidez finantzatzea, enpresei edo langileei karga berririk ezarri gabe.",
+        "oc": "Dar a cada trabalhador un chèc entà formar-se en intelligéncia artificiau a on triguesque e poder conservar-lo encara que càmbie d’empresa. Dar mès recorsi as trabalhadors de mès edat e as des sectors mès expausadi. Finançar-lo damb es quotes de formacion vigentes, sense impausar naues cargues as empreses ne as trabalhadors.",
+        "en": "Give each worker a voucher for artificial intelligence training where they choose, which they keep if they change employer. Give more resources to older workers and those in the most exposed sectors. Use existing training contributions to fund it without imposing new costs on employers or workers."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-58",
+          "quote": "LA INTELIGENCIA ARTIFICIAL AMPLIARÁ LAS OPORTUNI- DADES DE TRABAJAR, Y CADA TRABAJADOR TENDRÁ UN CHE- QUE PARA FORMARSE EN ELLA."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-58",
+          "quote": "Cada trabajador ten- drá un cheque de formación, que conservará, aunque cambie de em- presa, para formarse donde elija. Los trabajadores mayores y los de los sectores más expuestos tendrán más recursos. Lo financiaremos con las cuotas de formación que ya pagan empresas y trabajadores, sin im- ponerles nuevas cargas."
+        }
+      ]
+    },
+    {
+      "id": "pp-employment-new-self-employed-contributions",
+      "title": {
+        "es": "Cuota inicial para nuevos autónomos",
+        "ca": "Quota inicial per a nous autònoms",
+        "gl": "Cota inicial para novos autónomos",
+        "eu": "Autonomo berrien hasierako kuota",
+        "oc": "Quota iniciau entàs naui autonòms",
+        "en": "Initial contributions for newly self-employed workers"
+      },
+      "text": {
+        "es": "Eximir a los nuevos autónomos de la cuota de la Seguridad Social durante su primer año y también durante el segundo si sus ingresos no llegan al salario mínimo.",
+        "ca": "Eximir els nous autònoms de la quota de la Seguretat Social durant el primer any i també durant el segon si els seus ingressos no arriben al salari mínim.",
+        "gl": "Eximir os novos autónomos da cota da Seguridade Social durante o primeiro ano e tamén durante o segundo se os seus ingresos non chegan ao salario mínimo.",
+        "eu": "Autonomo berriak Gizarte Segurantzako kuota ordaintzetik salbuestea lehen urtean, eta bigarren urtean ere bai diru-sarrerak gutxieneko soldatara iristen ez badira.",
+        "oc": "Eximir es naui autonòms dera quota dera Seguretat Sociau pendent eth prumèr an e tanben pendent eth dusau se es sòns ingrèssi non arriben ath salari minim.",
+        "en": "Exempt newly self-employed workers from Social Security contributions in their first year and in their second year too if their income is below the minimum wage."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-59",
+          "quote": "Los nuevos autónomos no pagarán cuota a la Seguridad Social durante su primer año, ni durante el segundo si sus ingresos no llegan al salario mínimo."
+        }
+      ]
+    },
+    {
+      "id": "pp-employment-stable-workforce-contributions",
+      "title": {
+        "es": "Menor cotización por desempleo para plantillas más estables",
+        "ca": "Cotització per desocupació més baixa per a plantilles més estables",
+        "gl": "Menor cotización por desemprego para cadros de persoal máis estables",
+        "eu": "Langile-talde egonkorragoak dituzten enpresentzako langabezia-kotizazio txikiagoa",
+        "oc": "Menor cotizacion per caumatge entàs plantilhes mès estables",
+        "en": "Lower unemployment contributions for more stable workforces"
+      },
+      "text": {
+        "es": "Reducir la cotización por desempleo de las empresas con plantillas más estables que la media de su sector. Publicar cada mes, junto al paro registrado, cuántos trabajadores con contrato fijo discontinuo no están trabajando.",
+        "ca": "Reduir la cotització per desocupació de les empreses amb plantilles més estables que la mitjana del seu sector. Publicar cada mes, juntament amb l’atur registrat, quants treballadors amb contracte fix discontinu no estan treballant.",
+        "gl": "Reducir a cotización por desemprego das empresas con cadros de persoal máis estables ca a media do seu sector. Publicar cada mes, xunto co paro rexistrado, cantas persoas con contrato fixo descontinuo non están a traballar.",
+        "eu": "Beren sektoreko batezbestekoa baino langile-talde egonkorragoak dituzten enpresen langabezia-kotizazioa murriztea. Hilero argitaratzea, erregistratutako langabeziarekin batera, aldizkako kontratu finkoa duten zenbat langile ari ez diren lanean.",
+        "oc": "Redusir era cotizacion per caumatge des empreses damb plantilhes mès estables qu’era mejana deth sòn sector. Publicar cada mes, amassa damb eth caumatge enregistrat, quanti trabalhadors damb contracte fixe discontinu non trabalhen en aqueth moment.",
+        "en": "Cut unemployment contributions for employers with more stable workforces than their sector average. Publish every month, alongside registered unemployment, how many workers on permanent intermittent contracts are currently not working."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-59",
+          "quote": "Las empresas que mantengan sus plan- tillas más estables que la media de su sector cotizarán menos por des- empleo. Y publicaremos cada mes, junto al paro registrado, cuántos fijos discontinuos no están trabajando,"
+        }
+      ]
+    }
+  ]
+}

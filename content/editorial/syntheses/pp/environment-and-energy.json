@@ -1,0 +1,102 @@
+{
+  "id": "pp--environment-and-energy",
+  "partyId": "pp",
+  "topicId": "environment-and-energy",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-11T14:50:04Z",
+  "sourceIds": ["pp-2026-cea8f2a05227"],
+  "points": [
+    {
+      "id": "pp-environment-and-energy-nuclear-closure-calendar",
+      "title": {
+        "es": "Calendario de cierre de cinco centrales nucleares",
+        "ca": "Calendari de tancament de cinc centrals nuclears",
+        "gl": "Calendario de peche de cinco centrais nucleares",
+        "eu": "Bost zentral nuklear ixteko egutegia",
+        "oc": "Calendari de barrament de cinc centraus nucleares",
+        "en": "Closure schedule for five nuclear power plants"
+      },
+      "text": {
+        "es": "Eliminar el calendario de cierre de Almaraz, Ascó, Vandellós, Cofrentes y Trillo. Tramitar la ampliación de su vida útil en los primeros cien días de Gobierno, con el visto bueno del Consejo de Seguridad Nuclear y garantizando la seguridad de las instalaciones.",
+        "ca": "Eliminar el calendari de tancament d’Almaraz, Ascó, Vandellós, Cofrentes i Trillo. Tramitar la prolongació de la seva vida útil en els primers cent dies de govern, amb el vistiplau del Consejo de Seguridad Nuclear i garantint la seguretat de les instal·lacions.",
+        "gl": "Eliminar o calendario de peche de Almaraz, Ascó, Vandellós, Cofrentes e Trillo. Tramitar a ampliación da súa vida útil nos primeiros cen días de Goberno, co visto e prace do Consejo de Seguridad Nuclear e garantindo a seguridade das instalacións.",
+        "eu": "Almaraz, Ascó, Vandellós, Cofrentes eta Trillo ixteko egutegia kentzea. Gobernuaren lehen ehun egunetan haien bizitza erabilgarria luzatzeko izapideak egitea, Consejo de Seguridad Nuclear erakundearen oniritziarekin eta instalazioen segurtasuna bermatuz.",
+        "oc": "Suprimir eth calendari de barrament d’Almaraz, Ascó, Vandellós, Cofrentes e Trillo. Tramitar er alongament dera sua vida util enes prumèrs cent dies de Govèrn, damb eth vist e platz deth Consejo de Seguridad Nuclear e en tot garantir era seguretat des installacions.",
+        "en": "Scrap the closure schedule for Almaraz, Ascó, Vandellós, Cofrentes and Trillo. Process extensions to their operating lives in the government’s first hundred days, with the approval of the Consejo de Seguridad Nuclear and while ensuring the facilities’ safety."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-71",
+          "quote": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO. En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil con el visto bue- no del Consejo de Seguridad Nuclear, garantizando la seguridad de las instalaciones."
+        }
+      ]
+    },
+    {
+      "id": "pp-environment-and-energy-electricity-tax-social-tariff",
+      "title": {
+        "es": "Impuesto a la producción eléctrica y tarifa social única",
+        "ca": "Impost sobre la producció elèctrica i tarifa social única",
+        "gl": "Imposto á produción eléctrica e tarifa social única",
+        "eu": "Elektrizitate-ekoizpenaren gaineko zerga eta tarifa sozial bakarra",
+        "oc": "Impòst sus era produccion electrica e tarifa sociau unica",
+        "en": "Electricity generation tax and a single social tariff"
+      },
+      "text": {
+        "es": "Eliminar de inmediato el impuesto del 7 % a la producción eléctrica y reducir los impuestos de la factura de la luz. Crear una tarifa social única para los hogares más vulnerables que sustituya y mejore los bonos eléctrico y térmico y sea compatible con cualquier contrato de luz y gas.",
+        "ca": "Eliminar immediatament l’impost del 7 % sobre la producció elèctrica i reduir els impostos de la factura de la llum. Crear una tarifa social única per a les llars més vulnerables que substitueixi i millori els bons elèctric i tèrmic i sigui compatible amb qualsevol contracte de llum i gas.",
+        "gl": "Eliminar de inmediato o imposto do 7 % á produción eléctrica e reducir os impostos da factura da luz. Crear unha tarifa social única para os fogares máis vulnerables que substitúa e mellore os bonos eléctrico e térmico e sexa compatible con calquera contrato de luz e gas.",
+        "eu": "Elektrizitate-ekoizpenaren gaineko % 7ko zerga berehala kentzea eta argindarraren fakturako zergak murriztea. Etxe zaurgarrienentzako tarifa sozial bakarra sortzea, argindarraren eta berokuntzaren bonuak ordezkatu eta hobetzeko, eta edozein argindar- eta gas-kontraturekin bateragarria izateko.",
+        "oc": "Suprimir de seguit er impòst deth 7 % sus era produccion electrica e redusir es impòsti dera factura dera lum. Crear ua tarifa sociau unica entàs larèrs mès vulnerables que substituïsque e melhore es bons electric e termic e sigue compatible damb quinsevolh contracte de lum e gas.",
+        "en": "Immediately scrap the 7% tax on electricity generation and cut taxes on electricity bills. Create a single social tariff for the most vulnerable households to replace and improve the current electricity and heating benefits, compatible with any electricity or gas contract."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-71",
+          "quote": "Eliminaremos de inmedia- to el impuesto del 7% a la producción eléctrica y reduciremos la carga fis- cal del recibo."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-71",
+          "quote": "Los hogares más vulnerables tendrán una Tarifa Social Única que susti- tuirá y mejorará los actuales bonos eléctrico y térmico. La ayuda llegará a quienes la necesitan y será compatible con cualquier contrato de luz y gas."
+        }
+      ]
+    },
+    {
+      "id": "pp-environment-and-energy-decarbonisation-timelines",
+      "title": {
+        "es": "Calendarios de descarbonización por sectores",
+        "ca": "Calendaris de descarbonització per sectors",
+        "gl": "Calendarios de descarbonización por sectores",
+        "eu": "Sektorekako deskarbonizazio-egutegiak",
+        "oc": "Calendaris de descarbonizacion per sectors",
+        "en": "Decarbonisation schedules by sector"
+      },
+      "text": {
+        "es": "Mantener la lucha contra el cambio climático y la descarbonización como objetivos para Europa y revisar el ritmo de cada sector según lo que ocurra en el resto del mundo, la tecnología disponible y la evolución de la demanda. No imponer obligaciones innecesarias y retirar las que perjudiquen a la competitividad, la industria o el empleo.",
+        "ca": "Mantenir la lluita contra el canvi climàtic i la descarbonització com a objectius per a Europa i revisar el ritme de cada sector segons el que passi a la resta del món, la tecnologia disponible i l’evolució de la demanda. No imposar obligacions innecessàries i retirar les que perjudiquin la competitivitat, la indústria o l’ocupació.",
+        "gl": "Manter a loita contra o cambio climático e a descarbonización como obxectivos para Europa e revisar o ritmo de cada sector segundo o que suceda no resto do mundo, a tecnoloxía dispoñible e a evolución da demanda. Non impoñer obrigas innecesarias e retirar as que prexudiquen a competitividade, a industria ou o emprego.",
+        "eu": "Klima-aldaketaren aurkako borrokari eta deskarbonizazioari Europarentzako helburu gisa eustea eta sektore bakoitzaren erritmoa berrikustea, munduko beste lekuetan gertatzen dena, eskuragarri dagoen teknologia eta eskariaren bilakaera kontuan hartuta. Beharrezkoak ez diren betebeharrik ez ezartzea eta lehiakortasunari, industriari edo enpleguari kalte egiten dietenak kentzea.",
+        "oc": "Mantier era luta contra eth cambi climatic e era descarbonizacion coma objectius entà Euròpa e revisar eth ritme de cada sector segontes çò que passe ena rèsta deth mon, era tecnologia disponibla e era evolucion dera demanda. Non impausar obligacions innecessàries e retirar es que perjudiquen era competitivitat, era indústria o eth trabalh.",
+        "en": "Keep tackling climate change and cutting carbon emissions as goals for Europe and review each sector’s pace of change in light of developments elsewhere in the world, available technology and changing demand. Refrain from imposing unnecessary obligations and remove those that harm competitiveness, industry or employment."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-72",
+          "quote": "La lucha contra el cambio climático y la descarbonización son objetivos irrenun- ciables para Europa por razones ambientales, geoestratégicas y econó- micas. Pero ha llegado el momento de revisar los ritmos de cada sector atendiendo a tres factores: lo que está ocurriendo en el resto del mundo, la tecnología realmente disponible y la evolución de la demanda."
+        },
+        {
+          "sourceId": "pp-2026-cea8f2a05227",
+          "segmentId": "page-72",
+          "quote": "No impondremos obligaciones innecesarias y retiraremos las que perjudi- quen la competitividad, la industria o el empleo."
+        }
+      ]
+    }
+  ]
+}
