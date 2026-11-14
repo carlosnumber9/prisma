@@ -16,6 +16,8 @@ Incorporate the first official 2026 programme using `document-program`. Verify o
 
 The [11 November PP editorial review](../content/reviews/2026-11-11-pp-programme-draft.md) records one preserved 82-page national programme edition and 24 approved multilingual proposals across all eight policy areas. These syntheses are partial while comparison with the second official link remains pending. No separate territorial or sectoral supplement was confirmed in the bounded search.
 
+The [14 November PSOE programme review](../content/reviews/2026-11-14-psoe-programme-discovery.md) records a federal and territorial search across all 19 autonomous communities and cities for the November general election. No eligible federal programme or territorial supplement was located in the checked sources. Confirmation that the PSOE's 29N security brief belongs to its programme remains pending, as do the eight PSOE summaries.
+
 The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initial catalogue; see [catalogue provenance](catalogue-provenance.md). Revisit public coverage once official candidatures provide enough information. Distinguish formations and coalitions from constituency candidatures and shared programmes; do not silently equate the portal with all candidates.
 
 ## Political reference documentation — skill implemented; corpus and app integration pending
