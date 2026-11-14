@@ -20,6 +20,8 @@ Persist code, comments and technical docs in normal English. Keep citizen-facing
 
 ## Editorial work
 
+Prisma's permanent electoral scope is the Spanish general election of 29 November 2026. Unqualified references to elections, programmes, lists or candidatures always mean that election. Research both Congress and Senate nationwide unless a narrower chamber or territory is requested. Do not ask the maintainer to choose an election again or research another electoral process. Historical material may only help identify and exclude a mismatched source. This standing scope overrides the political-reference skill's generic support for other elections; still verify source identity, publication dates and candidature status.
+
 Use [document-program](.agents/skills/document-program/SKILL.md) for official 2026 programme incorporation and [triage-suggestion](.agents/skills/triage-suggestion/SKILL.md) for user-supplied corrections. Read their shared [policy](docs/editorial-policy.md) and [contract](docs/content-contract.md).
 
 Use [document-political-info](.agents/skills/document-political-info/SKILL.md) for supplied political reference material or official-source research about formations, politicians and constituency candidatures. Its [separate contract](.agents/skills/document-political-info/references/data-contract.md) keeps evidence and reviews apart from explicitly accepted JSON. The programme generator and portal do not consume that dataset yet.

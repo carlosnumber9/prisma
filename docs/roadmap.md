@@ -86,6 +86,8 @@ Implemented six locale-prefixed route versions (336 catalogue pages), a custom n
 
 ## Native electoral research pilot — in progress
 
+The standing election is permanently 29 November 2026; unqualified requests cover Congress and Senate nationwide unless narrowed.
+
 Project Research and QA agent definitions and a Builder procedure reuse the existing editorial skills. The PP nationwide pilot uses real delegated research and independent source checks. Technical configuration does not approve political data. Constituency coverage, preserved sources and candidate validation must be reported explicitly; a dedicated political-reference validator and portal integration remain pending. See [research team](research-factory.md).
 
 The 23 October 2026 [PP programme run](../content/reviews/2026-10-23-pp-programme-discovery.md) verified direct named-agent invocation, preserved evidence and independent QA. Nineteen territorial scopes were queried; eleven regional surfaces opened and eight remain unresolved. No eligible national programme or annex was located in the bounded scope, so no programme draft or approved data was manufactured. Research remains pending new evidence; no recurring run or publication was configured.

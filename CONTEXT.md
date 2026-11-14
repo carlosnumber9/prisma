@@ -2,6 +2,8 @@
 
 Prisma organises citizens' access to political programmes through reviewed summaries, with evidence and an explicit editorial review process.
 
+The electoral scope is permanently the Spanish general election of 29 November 2026. Unqualified programmes, lists and candidatures refer to that election, covering Congress and Senate nationwide unless the request narrows the scope.
+
 ## Language
 
 **Electoral formation**:
