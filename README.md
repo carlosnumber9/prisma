@@ -48,6 +48,8 @@ The native Codex [research team](docs/research-factory.md) coordinates scoped of
 
 The [11 November PP editorial review](content/reviews/2026-11-11-pp-programme-draft.md) records the preserved national programme and 24 approved proposals in all six languages. Comparison with the second official PDF remains pending.
 
+The [30 October PSOE list investigation](content/political-info/reviews/2026-10-30-psoe-lists-discovery.md) examines 52 Congress and 60 Senate candidatures, preserving 1,014 published candidate appearances and territorial announcement history. PSOE/PSC participation is established for 111 lists; the Ceuta Senate coalition's link to PSOE remains pending, including its six candidate appearances. These are submitted candidatures, not proclaimed lists or approved portal data. Senate substitute relationships remain in research evidence because the current public reference contract cannot represent them.
+
 The election is permanently the Spanish general election of 29 November 2026. The [30 October PP candidature investigation](content/political-info/reviews/2026-10-30-pp-candidature-discovery.md) preserved 21 official source snapshots and independently audited 109 related submitted lists with 992 candidate entries. Full research previews remain outside the repository; no reference batch is approved. Coalition identities, personal identity reconciliation, Senate substitute associations and later proclamation remain explicit review boundaries.
 
 ## Editorial skills

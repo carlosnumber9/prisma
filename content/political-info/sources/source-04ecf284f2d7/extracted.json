@@ -1,0 +1,871 @@
+{
+  "sourceId": "source-04ecf284f2d7",
+  "sourceSha256": "04ecf284f2d7f5b55eb8bd1143fa1cfae04970e023079df8afb8c4b7cc7dc8ac",
+  "segments": [
+    {
+      "id": "body-0001",
+      "text": "El Comité Autonómico del PSOE aprueba por unanimidad las listas al Congreso y al Senado encabezadas por Susana Herrán y Paz de la Cuesta - Partido Socialista Obrero Español | Cantabria",
+      "section": "HTML text block 1, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0002",
+      "text": "Facebook",
+      "section": "HTML text block 2, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0003",
+      "text": "RSS",
+      "section": "HTML text block 3, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0004",
+      "text": "Twitter",
+      "section": "HTML text block 4, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0005",
+      "text": "Youtube",
+      "section": "HTML text block 5, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0006",
+      "text": "Primarias 2027",
+      "section": "HTML text block 6, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0007",
+      "text": "Comunidad Autónoma",
+      "section": "HTML text block 7, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0008",
+      "text": "Santander",
+      "section": "HTML text block 8, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0009",
+      "text": "Torrelavega",
+      "section": "HTML text block 9, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0010",
+      "text": "15 Congreso regional",
+      "section": "HTML text block 10, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0011",
+      "text": "CANTABRIA SIEMPRE",
+      "section": "HTML text block 11, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0012",
+      "text": "Conócenos",
+      "section": "HTML text block 12, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0013",
+      "text": "Comisión Ejecutiva Autonómica",
+      "section": "HTML text block 13, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0014",
+      "text": "Diputados y Diputadas Autonómicos",
+      "section": "HTML text block 14, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0015",
+      "text": "Cortes Generales",
+      "section": "HTML text block 15, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0016",
+      "text": "Agenda Socialista",
+      "section": "HTML text block 16, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0017",
+      "text": "NUESTRA HISTORIA",
+      "section": "HTML text block 17, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0018",
+      "text": "AGRUPACIONES",
+      "section": "HTML text block 18, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0019",
+      "text": "Agrupaciones Arco de la Bahía",
+      "section": "HTML text block 19, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0020",
+      "text": "Agrupación Costa Oriental – Agüera",
+      "section": "HTML text block 20, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0021",
+      "text": "Agrupaciones Asón",
+      "section": "HTML text block 21, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0022",
+      "text": "Agrupaciones Trasmiera",
+      "section": "HTML text block 22, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0023",
+      "text": "Agrupaciones Valles Pasiegos: Pas – Miera – Pisueña",
+      "section": "HTML text block 23, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0024",
+      "text": "Agrupación de Campoo",
+      "section": "HTML text block 24, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0025",
+      "text": "Agrupación de Liébana",
+      "section": "HTML text block 25, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0026",
+      "text": "Agrupaciones Nansa",
+      "section": "HTML text block 26, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0027",
+      "text": "Agrupaciones Costa Occidental – Saja",
+      "section": "HTML text block 27, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0028",
+      "text": "Agrupaciones Besaya",
+      "section": "HTML text block 28, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0029",
+      "text": "Documentación PSOE",
+      "section": "HTML text block 29, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0030",
+      "text": "Actualidad",
+      "section": "HTML text block 30, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0031",
+      "text": "Notas de Prensa",
+      "section": "HTML text block 31, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0032",
+      "text": "PSC-PSOE",
+      "section": "HTML text block 32, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0033",
+      "text": "Pedro Casares",
+      "section": "HTML text block 33, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0034",
+      "text": "Transparencia",
+      "section": "HTML text block 34, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0035",
+      "text": "Resoluciones",
+      "section": "HTML text block 35, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0036",
+      "text": "Nuestro compromiso",
+      "section": "HTML text block 36, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0037",
+      "text": "Cuentas claras",
+      "section": "HTML text block 37, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0038",
+      "text": "Estatutos",
+      "section": "HTML text block 38, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0039",
+      "text": "Acuerdo de gobierno",
+      "section": "HTML text block 39, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0040",
+      "text": "Actúa",
+      "section": "HTML text block 40, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0041",
+      "text": "Afíliate",
+      "section": "HTML text block 41, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0042",
+      "text": "Redes Sociales",
+      "section": "HTML text block 42, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0043",
+      "text": "Whatsapp del PSOE",
+      "section": "HTML text block 43, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0044",
+      "text": "Tu tienda PSOE",
+      "section": "HTML text block 44, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0045",
+      "text": "Fundación Matilde de la Torre",
+      "section": "HTML text block 45, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0046",
+      "text": "Buscar",
+      "section": "HTML text block 46, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0047",
+      "text": "30/10/2026",
+      "section": "HTML text block 47, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0048",
+      "text": "Facebook",
+      "section": "HTML text block 48, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0049",
+      "text": "RSS",
+      "section": "HTML text block 49, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0050",
+      "text": "Twitter",
+      "section": "HTML text block 50, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0051",
+      "text": "Youtube",
+      "section": "HTML text block 51, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0052",
+      "text": "Registrarse",
+      "section": "HTML text block 52, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0053",
+      "text": "¡Bienvenido! Ingresa en tu cuenta",
+      "section": "HTML text block 53, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0054",
+      "text": "tu nombre de usuario",
+      "section": "HTML text block 54, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0055",
+      "text": "tu contraseña",
+      "section": "HTML text block 55, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0056",
+      "text": "Forgot your password? Get help",
+      "section": "HTML text block 56, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0057",
+      "text": "Recuperación de contraseña",
+      "section": "HTML text block 57, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0058",
+      "text": "Recupera tu contraseña",
+      "section": "HTML text block 58, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0059",
+      "text": "tu correo electrónico",
+      "section": "HTML text block 59, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0060",
+      "text": "Se te ha enviado una contraseña por correo electrónico.",
+      "section": "HTML text block 60, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0061",
+      "text": "Partido Socialista Obrero Español | Cantabria",
+      "section": "HTML text block 61, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0062",
+      "text": "Primarias 2027",
+      "section": "HTML text block 62, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0063",
+      "text": "Comunidad Autónoma",
+      "section": "HTML text block 63, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0064",
+      "text": "Santander",
+      "section": "HTML text block 64, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0065",
+      "text": "Torrelavega",
+      "section": "HTML text block 65, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0066",
+      "text": "15 Congreso regional",
+      "section": "HTML text block 66, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0067",
+      "text": "CANTABRIA SIEMPRE",
+      "section": "HTML text block 67, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0068",
+      "text": "Conócenos",
+      "section": "HTML text block 68, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0069",
+      "text": "Comisión Ejecutiva Autonómica",
+      "section": "HTML text block 69, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0070",
+      "text": "Diputados y Diputadas Autonómicos",
+      "section": "HTML text block 70, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0071",
+      "text": "Cortes Generales",
+      "section": "HTML text block 71, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0072",
+      "text": "Agenda Socialista",
+      "section": "HTML text block 72, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0073",
+      "text": "NUESTRA HISTORIA",
+      "section": "HTML text block 73, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0074",
+      "text": "AGRUPACIONES",
+      "section": "HTML text block 74, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0075",
+      "text": "Agrupaciones Arco de la Bahía",
+      "section": "HTML text block 75, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0076",
+      "text": "Agrupación Costa Oriental – Agüera",
+      "section": "HTML text block 76, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0077",
+      "text": "Agrupaciones Asón",
+      "section": "HTML text block 77, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0078",
+      "text": "Agrupaciones Trasmiera",
+      "section": "HTML text block 78, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0079",
+      "text": "Agrupaciones Valles Pasiegos: Pas – Miera – Pisueña",
+      "section": "HTML text block 79, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0080",
+      "text": "Agrupación de Campoo",
+      "section": "HTML text block 80, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0081",
+      "text": "Agrupación de Liébana",
+      "section": "HTML text block 81, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0082",
+      "text": "Agrupaciones Nansa",
+      "section": "HTML text block 82, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0083",
+      "text": "Agrupaciones Costa Occidental – Saja",
+      "section": "HTML text block 83, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0084",
+      "text": "Agrupaciones Besaya",
+      "section": "HTML text block 84, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0085",
+      "text": "Documentación PSOE",
+      "section": "HTML text block 85, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0086",
+      "text": "Actualidad",
+      "section": "HTML text block 86, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0087",
+      "text": "TodoNotas de PrensaPSC-PSOEPedro Casares",
+      "section": "HTML text block 87, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0088",
+      "text": "El PSOE denuncia que el Gobierno de Cantabria y el PP…",
+      "section": "HTML text block 88, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0089",
+      "text": "La Fundación Matilde de la Torre reconoce la trayectoria de Mariluz…",
+      "section": "HTML text block 89, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0090",
+      "text": "El PSOE acusa a Buruaga de convertir la política fiscal y…",
+      "section": "HTML text block 90, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0091",
+      "text": "Pedro Casares afirma que el PSOE seguirá apoyando al sector primario…",
+      "section": "HTML text block 91, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0092",
+      "text": "Transparencia",
+      "section": "HTML text block 92, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0093",
+      "text": "Resoluciones",
+      "section": "HTML text block 93, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0094",
+      "text": "Nuestro compromiso",
+      "section": "HTML text block 94, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0095",
+      "text": "Cuentas claras",
+      "section": "HTML text block 95, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0096",
+      "text": "Estatutos",
+      "section": "HTML text block 96, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0097",
+      "text": "Acuerdo de gobierno",
+      "section": "HTML text block 97, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0098",
+      "text": "Actúa",
+      "section": "HTML text block 98, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0099",
+      "text": "Afíliate",
+      "section": "HTML text block 99, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0100",
+      "text": "Redes Sociales",
+      "section": "HTML text block 100, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0101",
+      "text": "Whatsapp del PSOE",
+      "section": "HTML text block 101, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0102",
+      "text": "Tu tienda PSOE",
+      "section": "HTML text block 102, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0103",
+      "text": "Fundación Matilde de la Torre",
+      "section": "HTML text block 103, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0104",
+      "text": "El Comité Autonómico del PSOE aprueba por unanimidad las listas al Congreso y al Senado encabezadas por Susana Herrán y Paz de la Cuesta",
+      "section": "HTML text block 104, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0105",
+      "text": "Pedro Casares, ha destacado que son “muchos los hombres y mujeres” que ven en estas listas “al PSOE ganador, comprometido y valiente que sale a ganar el futuro y a seguir conquistando derechos y libertades para la mayoría social”",
+      "section": "HTML text block 105, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0106",
+      "text": "14/10/2026",
+      "section": "HTML text block 106, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0107",
+      "text": "Compartir",
+      "section": "HTML text block 107, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0108",
+      "text": "Facebook",
+      "section": "HTML text block 108, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0109",
+      "text": "Twitter",
+      "section": "HTML text block 109, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0110",
+      "text": "Pinterest",
+      "section": "HTML text block 110, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0111",
+      "text": "WhatsApp",
+      "section": "HTML text block 111, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0112",
+      "text": "Email",
+      "section": "HTML text block 112, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0113",
+      "text": "Impresión",
+      "section": "HTML text block 113, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0114",
+      "text": "Telegram",
+      "section": "HTML text block 114, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0115",
+      "text": "El Comité Autonómico del PSOE de Cantabria ha aprobado este miércoles las candidaturas al Congreso y el Senado para las Elecciones Generales del próximo 29 de noviembre.",
+      "section": "HTML text block 115, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0116",
+      "text": "Unas candidaturas, aprobadas por unanimidad, que encabezarán Susana Herrán a la Cámara Baja y Paz de la Cuesta a la Cámara Alta, y que serán ratificadas el viernes en la Comisión Federal de Listas y el sábado, 17 de octubre, en el Comité Federal del PSOE.",
+      "section": "HTML text block 116, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0117",
+      "text": "Junto a Herrán, completan la lista al Congreso, como número dos el sindicalista de UGT y fundador de RUGE, Eduardo Magaldi, la directora general de Atención a las Víctimas del Gobierno de España, Zoraida Hijosa, el concejal de Hazas de Cesto y secretario de Pequeños Municipios del PSOE cántabro, Alejandro Llano y la secretaria de Medio Rural, Gema Fernández.",
+      "section": "HTML text block 117, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0118",
+      "text": "Por su parte, De la Cuesta estará acompañada en la lista al Senado como número dos por el secretario general del PSOE de Torrelavega y primer teniente de alcalde del ayuntamiento de la capital de la comarca del Besaya, José Luis Urraca, y la concejala santoñesa, Paloma Palacio.",
+      "section": "HTML text block 118, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0119",
+      "text": "Al inicio de la celebración de este Comité Autonómico Extraordinario, el secretario general del PSOE de Cantabria, Pedro Casares, ha destacado que son unas candidaturas en las que la militancia ha apostado, en el voto en las agrupaciones, y el PSOE cántabro en el debate y aprobación en el Comité Autonómico “por la experiencia, el compromiso con el municipalismo, con lo público y con la defensa de los derechos de los trabajadores y trabajadoras”.",
+      "section": "HTML text block 119, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0120",
+      "text": "Casares ha afirmado que son “muchos los hombres y mujeres” que ven en estas listas “al PSOE ganador, comprometido y valiente” que “sale a ganar el futuro y a seguir conquistando derechos y libertades para la mayoría social”.",
+      "section": "HTML text block 120, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0121",
+      "text": "“Los socialistas de Cantabria salimos a ganar las elecciones generales en nuestra tierra”, ha enfatizado el líder del PSOE, que ha advertido que el 29 de noviembre es un “momento importante” para los españoles y los cántabros porque “no sólo estaremos decidiendo quién gobernará España los próximo cuatro años, sino que votaremos y decidiremos entre mirar al futuro o regresar al pasado, entre seguir avanzando en derechos y conquistas sociales o que vuelvan a estar en jaque”.",
+      "section": "HTML text block 121, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0122",
+      "text": "Mira al futuro o regresar al pasado",
+      "section": "HTML text block 122, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0123",
+      "text": "Además, Casares ha avisado que en las elecciones del 29N se decide “entre mirar al futuro o regresar al pasado”, es decir, un “enorme desafío de país” y ha reivindicado que “ante el reto de que España siga avanzando o se pare y retroceda, el único dique de contención” es el PSOE.",
+      "section": "HTML text block 123, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0124",
+      "text": "Un partido, ha enfatizado que concurre a estos comicios con “unas listas al Congreso y al Senado renovadas, lideradas por mujeres y llenas de gente joven que representa el futuro de bienestar, progreso y oportunidades que defendemos para España y para Cantabria”.",
+      "section": "HTML text block 124, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0125",
+      "text": "Así, ha insistido en que los socialistas cántabros saldrán a ganar las elecciones: “Salimos a ganar a las derechas y a ganar a ese PP que tanto daño está haciendo en Cantabria desde hace tres años en el Gobierno regional” y sobre el que ha advertido de lo que supondría su llegada al Ejecutivo nacional.",
+      "section": "HTML text block 125, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0126",
+      "text": "“Solo gobernando en Cantabria, todo ha ido a peor y, si llegan al Gobierno nacional, ya no habrá quien les pare en sus ansias por recortar, privatizar y especular con lo de todos”, ha remarcado Casares,",
+      "section": "HTML text block 126, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0127",
+      "text": "En este sentido, Casares, ha recordado que desde la llegada de María José Sáenz de Buruaga y el Partido Popular al Gobierno regional, “Cantabria es líder en listas de espera sanitarias o estamos a la cola en crecimiento económico o en emancipación juvenil”.",
+      "section": "HTML text block 127, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0128",
+      "text": "“Llevan tres años recortando la Sanidad Pública como nunca antes, con indecentes derivaciones de pacientes a la sanidad privada y somos la comunidad que ha comenzado el curso escolar cerrando 56 aulas y despidiendo 176 profesores”, ha denunciado.",
+      "section": "HTML text block 128, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0129",
+      "text": "Además, Casares ha recordado que “somos la tierra donde con Buruaga se recortan los derechos de las personas dependientes, que ya no podrán contar con cuidadores los fines de semana o los festivos; o somos la tierra en la que nos prometieron que esta iba a ser la legislatura de la vivienda y solo han construido 30 viviendas de alquiler asequible”.",
+      "section": "HTML text block 129, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0130",
+      "text": "“Todo eso, va a ir a peor si vuelven a ganar las derechas en mayo en Cantabria o si ganan las derechas este 29 de noviembre en España”, ha enfatizado Casares.",
+      "section": "HTML text block 130, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0131",
+      "text": "De la misma forma, el líder socialista ha reivindicado al PSOE como el único partido “que se ha comprometido y cumplido con Cantabria”.",
+      "section": "HTML text block 131, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0132",
+      "text": "Casares ha destacado los proyectos e inversiones materializados e impulsados por el Gobierno presidido por Pedro Sánchez “tras décadas de incumplimientos”. “Queremos que España y Cantabria sigan avanzando como estos años y no volver a las políticas en blanco y negro que discriminan y abren brechas de desigualdad”, ha apostillado.",
+      "section": "HTML text block 132, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0133",
+      "text": "El secretario general del PSOE ha insistido en que la revalorización de las pensiones, la subida del Salario Mínimo Interprofesional (SMI), la creación del ingreso mínimo vital, los derechos laborales y la creación de empleo o la igualdad real entre hombres y mujeres “que está en jaque” con las derechas y “pueden volver a ser moneda de cambio” en sus posibles pactos.",
+      "section": "HTML text block 133, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0134",
+      "text": "“Estamos decidiendo entre seguir modernizando el país, transformando la industria y luchando contra el cambio climático o que gobiernen los negacionistas; entre quieren queremos un país con una memoria digna que pueda mirar a su historia con decencia o que vuelvan los que quieren borrarnos de la historia; o que la vivienda vuelva a ser un derecho o siga siendo un negocio a merced de fondos buitre, fondos de inversión y especuladores. Todo eso y mucho más es lo que nos jugamos el 29 de noviembre”, ha señalado el líder socialista.",
+      "section": "HTML text block 134, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0135",
+      "text": "Por último, Pedro Casares ha pedido al conjunto de los socialistas de Cantabria “salir a ganar” porque “tenemos ante nosotros la oportunidad de ganar para que gane Cantabria y los cántabros y las cántabras” y ha agradecido el compromiso de todos y cada uno de los integrantes de las listas al Congreso y al Senado.",
+      "section": "HTML text block 135, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0136",
+      "text": "Compartir",
+      "section": "HTML text block 136, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0137",
+      "text": "Facebook",
+      "section": "HTML text block 137, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0138",
+      "text": "Twitter",
+      "section": "HTML text block 138, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0139",
+      "text": "Pinterest",
+      "section": "HTML text block 139, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0140",
+      "text": "WhatsApp",
+      "section": "HTML text block 140, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0141",
+      "text": "Email",
+      "section": "HTML text block 141, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0142",
+      "text": "Impresión",
+      "section": "HTML text block 142, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0143",
+      "text": "Telegram",
+      "section": "HTML text block 143, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0144",
+      "text": "Joaquín Jarrin",
+      "section": "HTML text block 144, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0145",
+      "text": "Artículos relacionadosMás del autor",
+      "section": "HTML text block 145, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0146",
+      "text": "El PSOE denuncia que el Gobierno de Cantabria y el PP “son incapaces de respetar el luto oficial”",
+      "section": "HTML text block 146, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0147",
+      "text": "La Fundación Matilde de la Torre reconoce la trayectoria de Mariluz Fernández por su “compromiso personal y colectivo” y su defensa de los “valores...",
+      "section": "HTML text block 147, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0148",
+      "text": "El PSOE acusa a Buruaga de convertir la política fiscal y los presupuestos en propaganda electoral",
+      "section": "HTML text block 148, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0149",
+      "text": "Partido Socialista Obrero Español | Cantabria",
+      "section": "HTML text block 149, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0150",
+      "text": "Contáctanos: cantabria@psc-psoe.es",
+      "section": "HTML text block 150, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0151",
+      "text": "SÍGUENOS",
+      "section": "HTML text block 151, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0152",
+      "text": "Facebook",
+      "section": "HTML text block 152, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0153",
+      "text": "RSS",
+      "section": "HTML text block 153, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0154",
+      "text": "Twitter",
+      "section": "HTML text block 154, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0155",
+      "text": "Youtube",
+      "section": "HTML text block 155, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0156",
+      "text": "© Copyright © 2023 | Política de confidencialidad | Política de cookies",
+      "section": "HTML text block 156, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0157",
+      "text": "Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.",
+      "section": "HTML text block 157, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0158",
+      "text": "Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los ajustes.",
+      "section": "HTML text block 158, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0159",
+      "text": "Aceptar",
+      "section": "HTML text block 159, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0160",
+      "text": "X",
+      "section": "HTML text block 160, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0161",
+      "text": "Cerrar los ajustes de cookies RGPD",
+      "section": "HTML text block 161, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0162",
+      "text": "Resumen de privacidad",
+      "section": "HTML text block 162, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0163",
+      "text": "Cookies estrictamente necesarias",
+      "section": "HTML text block 163, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0164",
+      "text": "Powered by GDPR Cookie Compliance",
+      "section": "HTML text block 164, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0165",
+      "text": "Resumen de privacidad",
+      "section": "HTML text block 165, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0166",
+      "text": "Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.",
+      "section": "HTML text block 166, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0167",
+      "text": "Cookies estrictamente necesarias",
+      "section": "HTML text block 167, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0168",
+      "text": "Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.",
+      "section": "HTML text block 168, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0169",
+      "text": "Activar o desactivar las cookies",
+      "section": "HTML text block 169, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0170",
+      "text": "Activado",
+      "section": "HTML text block 170, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0171",
+      "text": "Desactivado",
+      "section": "HTML text block 171, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0172",
+      "text": "Activar todo",
+      "section": "HTML text block 172, in document order, with script/style/noscript omitted"
+    },
+    {
+      "id": "body-0173",
+      "text": "Guardar cambios",
+      "section": "HTML text block 173, in document order, with script/style/noscript omitted"
+    }
+  ]
+}

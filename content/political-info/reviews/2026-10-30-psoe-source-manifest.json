@@ -1,0 +1,1514 @@
+[
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-036114eab2df",
+      "title": "Boletín Oficial del Estado: viernes 30 de octubre de 2026.",
+      "url": "https://www.boe.es/boe/dias/2026/10/30/",
+      "authority": "electoral",
+      "publishedAt": "2026-10-30",
+      "capturedAt": "2026-10-30T15:20:41.671298Z",
+      "originalFile": "original.html",
+      "sha256": "036114eab2dfe83294b553181b2ccd35f9c0fc457ab3453fbe8d863757fd4801",
+      "extractionSha256": "cf34a0404a3be8afc059a7cf81f7312db5f0c2b55c1574c40ca0798abb75a53d",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-036114eab2df",
+      "title": "BOE: sumario 30 octubre 2026",
+      "url": "https://www.boe.es/boe/dias/2026/10/30/index.php",
+      "authority": "electoral",
+      "publishedAt": "2026-10-30",
+      "capturedAt": "2026-10-30T15:14:31.947340Z",
+      "originalFile": "original.html",
+      "sha256": "036114eab2dfe83294b553181b2ccd35f9c0fc457ab3453fbe8d863757fd4801",
+      "extractionSha256": "6a2b3b0b1114d6f5ba41c5f33b4bde3cc85159a42c7436533eb6b26958729053",
+      "redacted": false
+    },
+    "existingSnapshotReused": true
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-1cc551056163",
+      "title": "Boletín Oficial del Estado: miércoles 28 de octubre de 2026, número 268 (extraordinary issue).",
+      "url": "https://www.boe.es/boe/dias/2026/10/28/index.php",
+      "authority": "electoral",
+      "publishedAt": "2026-10-28",
+      "capturedAt": "2026-10-30T15:20:41.576244Z",
+      "originalFile": "original.html",
+      "sha256": "1cc55105616376939bc5ed75dcffeafa4a4a5e6a6fffdff4255d1d546bb86a12",
+      "extractionSha256": "9b6b3e4587c6be4453d711ec5441b717a2894a72d7876acedabd0cdb23790122",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-1cc551056163",
+      "title": "BOE: sumario 28 octubre 2026",
+      "url": "https://www.boe.es/boe/dias/2026/10/28/index.php",
+      "authority": "electoral",
+      "publishedAt": "2026-10-28",
+      "capturedAt": "2026-10-30T15:14:31.723024Z",
+      "originalFile": "original.html",
+      "sha256": "1cc55105616376939bc5ed75dcffeafa4a4a5e6a6fffdff4255d1d546bb86a12",
+      "extractionSha256": "420240b380532a6e4227b07ddec3639a480b6b66c0ce2445d31dfba352585f4e",
+      "redacted": false
+    },
+    "existingSnapshotReused": true
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-32a35a63e5bb",
+      "title": "Boletín Oficial del Estado: jueves 29 de octubre de 2026.",
+      "url": "https://www.boe.es/boe/dias/2026/10/29/",
+      "authority": "electoral",
+      "publishedAt": "2026-10-29",
+      "capturedAt": "2026-10-30T15:20:41.611705Z",
+      "originalFile": "original.html",
+      "sha256": "32a35a63e5bb69b811a34955d75f6189dd565b76779998f874571fa9d33b2cbe",
+      "extractionSha256": "8ef1ee079b02aef5fafa7abf7a915c9197f093f0b1cd47b45080cbc0d7eebe33",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-32a35a63e5bb",
+      "title": "BOE: sumario 29 octubre 2026",
+      "url": "https://www.boe.es/boe/dias/2026/10/29/index.php",
+      "authority": "electoral",
+      "publishedAt": "2026-10-29",
+      "capturedAt": "2026-10-30T15:14:31.915732Z",
+      "originalFile": "original.html",
+      "sha256": "32a35a63e5bb69b811a34955d75f6189dd565b76779998f874571fa9d33b2cbe",
+      "extractionSha256": "bd6ebec5dab8175a8ca0bc0d44751d6af6c2663240593751a87177ac301e9426",
+      "redacted": false
+    },
+    "existingSnapshotReused": true
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-5e1616cbe927",
+      "title": "Real Decreto 806/2026, de 5 de octubre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones.",
+      "url": "https://boe.es/buscar/doc.php?id=BOE-A-2026-20742",
+      "authority": "electoral",
+      "publishedAt": "2026-10-06",
+      "capturedAt": "2026-10-30T15:18:35.714958Z",
+      "originalFile": "original.html",
+      "sha256": "5e1616cbe927dea3c6ed05e8931ebc924d1fd9cbe4f35e1effddbb2218b02bd9",
+      "extractionSha256": "0440fafa55f908b2a56fe338bc0169c77602be4e765753dfe296e5636cade12e",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-5e1616cbe927",
+      "title": "Real Decreto 806/2026, de 5 de octubre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones.",
+      "url": "https://boe.es/buscar/doc.php?id=BOE-A-2026-20742",
+      "authority": "electoral",
+      "publishedAt": "2026-10-06",
+      "capturedAt": "2026-10-30T15:18:35.714958Z",
+      "originalFile": "original.html",
+      "sha256": "5e1616cbe927dea3c6ed05e8931ebc924d1fd9cbe4f35e1effddbb2218b02bd9",
+      "extractionSha256": "0440fafa55f908b2a56fe338bc0169c77602be4e765753dfe296e5636cade12e",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-79102f03dbcb",
+      "title": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General. Texto consolidado actualizado el 02/07/2026.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+      "authority": "electoral",
+      "publishedAt": "1985-06-20",
+      "capturedAt": "2026-10-30T15:20:41.450167Z",
+      "originalFile": "original.html",
+      "sha256": "79102f03dbcb8b82963e41f587e7741088801d4b26ec2b410d5754f11e57cb04",
+      "extractionSha256": "b6dccf3b7cbe8aba337ceb82eb33d049aee369691d867f303e97cfa069f7df80",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-79102f03dbcb",
+      "title": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General. Texto consolidado actualizado el 02/07/2026.",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+      "authority": "electoral",
+      "publishedAt": "1985-06-20",
+      "capturedAt": "2026-10-30T15:20:41.450167Z",
+      "originalFile": "original.html",
+      "sha256": "79102f03dbcb8b82963e41f587e7741088801d4b26ec2b410d5754f11e57cb04",
+      "extractionSha256": "b6dccf3b7cbe8aba337ceb82eb33d049aee369691d867f303e97cfa069f7df80",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-7d208df514cd",
+      "title": "Ley Orgánica 2/2026, de 30 de junio, de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para adaptarla a la reforma del apartado 3 del artículo 69 de la Constitución.",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14329",
+      "authority": "electoral",
+      "publishedAt": "2026-07-02",
+      "capturedAt": "2026-10-30T15:20:40.833392Z",
+      "originalFile": "original.html",
+      "sha256": "7d208df514cd05615a46a45a5d055f61ddaf02b79c3581d7c71e165e75cb47f2",
+      "extractionSha256": "e528c47d0bea5a09d3cd6a1cb80a7a213d13c96c220671b76d03aa064f6e442b",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-7d208df514cd",
+      "title": "Ley Orgánica 2/2026, de 30 de junio, de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para adaptarla a la reforma del apartado 3 del artículo 69 de la Constitución.",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14329",
+      "authority": "electoral",
+      "publishedAt": "2026-07-02",
+      "capturedAt": "2026-10-30T15:20:40.833392Z",
+      "originalFile": "original.html",
+      "sha256": "7d208df514cd05615a46a45a5d055f61ddaf02b79c3581d7c71e165e75cb47f2",
+      "extractionSha256": "e528c47d0bea5a09d3cd6a1cb80a7a213d13c96c220671b76d03aa064f6e442b",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-bf486b747c0d",
+      "title": "Candidaturas presentadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre.",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-22607",
+      "authority": "electoral",
+      "publishedAt": "2026-10-28",
+      "capturedAt": "2026-10-30T15:18:35.407377Z",
+      "originalFile": "original.html",
+      "sha256": "bf486b747c0d543d035487c56d261a8637a693d6651fc60f5bd831858b662b91",
+      "extractionSha256": "0e674c20437bb10e75a3f46eb92870b30d06cbcb98bfaf027db33b7b4791f7bd",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-bf486b747c0d",
+      "title": "Candidaturas presentadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre.",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-22607",
+      "authority": "electoral",
+      "publishedAt": "2026-10-28",
+      "capturedAt": "2026-10-30T15:18:35.407377Z",
+      "originalFile": "original.html",
+      "sha256": "bf486b747c0d543d035487c56d261a8637a693d6651fc60f5bd831858b662b91",
+      "extractionSha256": "0e674c20437bb10e75a3f46eb92870b30d06cbcb98bfaf027db33b7b4791f7bd",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-c205685afd0a",
+      "title": "Candidaturas presentadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre.",
+      "url": "https://www.boe.es/boe/dias/2026/10/28/pdfs/BOE-A-2026-22607.pdf",
+      "authority": "electoral",
+      "publishedAt": "2026-10-28",
+      "capturedAt": "2026-10-30T15:18:35.532151Z",
+      "originalFile": "original.pdf",
+      "sha256": "c205685afd0ad2c41bb567a1a67901030d3ec757b2521a520ad20c8688a2e6e9",
+      "extractionSha256": "4a2841316098d18a597fe05c48c17f4765ff7ead5485482339fb0aa2561007ce",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-c205685afd0a",
+      "title": "Candidaturas presentadas: Congreso y Senado, 29 noviembre 2026 (PDF)",
+      "url": "https://www.boe.es/boe/dias/2026/10/28/pdfs/BOE-A-2026-22607.pdf",
+      "authority": "electoral",
+      "publishedAt": "2026-10-28",
+      "capturedAt": "2026-10-30T15:14:31.688455Z",
+      "originalFile": "original.pdf",
+      "sha256": "c205685afd0ad2c41bb567a1a67901030d3ec757b2521a520ad20c8688a2e6e9",
+      "extractionSha256": "4a2841316098d18a597fe05c48c17f4765ff7ead5485482339fb0aa2561007ce",
+      "redacted": false
+    },
+    "existingSnapshotReused": true
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-d304650e0398",
+      "title": "Elecciones a las Cortes Generales de 29 de noviembre de 2026",
+      "url": "https://www.exteriores.gob.es/es/Paginas/Elecciones.aspx",
+      "authority": "institutional",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:18:36.383127Z",
+      "originalFile": "original.html",
+      "sha256": "d304650e03988831db784ad3a56723ec6b494687ca596e61f313a15da1d781bf",
+      "extractionSha256": "18d4623bb2c955afa3ed9185470c0081fb26f85000aa84efe18ab8888e79bfae",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-d304650e0398",
+      "title": "Elecciones a las Cortes Generales de 29 de noviembre de 2026",
+      "url": "https://www.exteriores.gob.es/es/Paginas/Elecciones.aspx",
+      "authority": "institutional",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:18:36.383127Z",
+      "originalFile": "original.html",
+      "sha256": "d304650e03988831db784ad3a56723ec6b494687ca596e61f313a15da1d781bf",
+      "extractionSha256": "18d4623bb2c955afa3ed9185470c0081fb26f85000aa84efe18ab8888e79bfae",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "research",
+    "capturedVersion": {
+      "id": "source-ffb9da47295e",
+      "title": "Real Decreto 806/2026, de 5 de octubre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones.",
+      "url": "https://www.boe.es/boe/dias/2026/10/06/pdfs/BOE-A-2026-20742.pdf",
+      "authority": "electoral",
+      "publishedAt": "2026-10-06",
+      "capturedAt": "2026-10-30T15:18:36.138960Z",
+      "originalFile": "original.pdf",
+      "sha256": "ffb9da47295e6d9f4a75657428ad3ba755fb9e313a61f7d044f18f77fdf005d5",
+      "extractionSha256": "aec0f51ccd1c3a8f509fbb64a37eab5253804239bcb2cbf58561823c261fa117",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-ffb9da47295e",
+      "title": "Real Decreto 806/2026, de 5 de octubre (PDF)",
+      "url": "https://www.boe.es/eli/es/rd/2026/10/05/806/dof/spa/pdf",
+      "authority": "electoral",
+      "publishedAt": "2026-10-06",
+      "capturedAt": "2026-10-30T15:14:31.684335Z",
+      "originalFile": "original.pdf",
+      "sha256": "ffb9da47295e6d9f4a75657428ad3ba755fb9e313a61f7d044f18f77fdf005d5",
+      "extractionSha256": "aec0f51ccd1c3a8f509fbb64a37eab5253804239bcb2cbf58561823c261fa117",
+      "redacted": false
+    },
+    "existingSnapshotReused": true
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-021046f02155",
+      "title": "Senado de Progreso une a PSOE y Frente Amplio para impulsar un país con más derechos, más igualdad y más oportunidades el 29N | PSOE León",
+      "url": "https://psoeporleon.es/2026/10/26/senado-de-progreso-une-a-psoe-y-frente-amplio-para-impulsar-un-pais-con-mas-derechos-mas-igualdad-y-mas-oportunidades-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-26",
+      "capturedAt": "2026-10-30T15:19:29.353Z",
+      "originalFile": "original.html",
+      "sha256": "021046f02155c4e171bb558981cb250f03a981e2ab1acc0e7457685985658eb7",
+      "extractionSha256": "93da36de17d8e4cbac418e1ac24e107df57ee0968644acff56c71af0cc30eae2",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-021046f02155",
+      "title": "Senado de Progreso une a PSOE y Frente Amplio para impulsar un país con más derechos, más igualdad y más oportunidades el 29N | PSOE León",
+      "url": "https://psoeporleon.es/2026/10/26/senado-de-progreso-une-a-psoe-y-frente-amplio-para-impulsar-un-pais-con-mas-derechos-mas-igualdad-y-mas-oportunidades-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-26",
+      "capturedAt": "2026-10-30T15:19:29.353Z",
+      "originalFile": "original.html",
+      "sha256": "021046f02155c4e171bb558981cb250f03a981e2ab1acc0e7457685985658eb7",
+      "extractionSha256": "93da36de17d8e4cbac418e1ac24e107df57ee0968644acff56c71af0cc30eae2",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-04ecf284f2d7",
+      "title": "El Comité Autonómico del PSOE aprueba por unanimidad las listas al Congreso y al Senado encabezadas por Susana Herrán y Paz de la Cuesta - Partido Socialista Obrero Español | Cantabria",
+      "url": "https://www.psc-psoe.es/index.php/2026/10/14/el-comite-autonomico-del-psoe-aprueba-las-listas-al-congreso-y-al-senado-encabezadas-por-susana-herran-y-paz-de-la-cuesta/",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:19:29.827Z",
+      "originalFile": "original.html",
+      "sha256": "04ecf284f2d7f5b55eb8bd1143fa1cfae04970e023079df8afb8c4b7cc7dc8ac",
+      "extractionSha256": "140257b322f7c57384a08fc6a3297eafcc94e6a3aee3bf6c3246bf688b62535b",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-04ecf284f2d7",
+      "title": "El Comité Autonómico del PSOE aprueba por unanimidad las listas al Congreso y al Senado encabezadas por Susana Herrán y Paz de la Cuesta - Partido Socialista Obrero Español | Cantabria",
+      "url": "https://www.psc-psoe.es/index.php/2026/10/14/el-comite-autonomico-del-psoe-aprueba-las-listas-al-congreso-y-al-senado-encabezadas-por-susana-herran-y-paz-de-la-cuesta/",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:19:29.827Z",
+      "originalFile": "original.html",
+      "sha256": "04ecf284f2d7f5b55eb8bd1143fa1cfae04970e023079df8afb8c4b7cc7dc8ac",
+      "extractionSha256": "140257b322f7c57384a08fc6a3297eafcc94e6a3aee3bf6c3246bf688b62535b",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-0aa97e9b2d1c",
+      "title": "Resultat de la cerca per a “29N” – psibpsoe",
+      "url": "https://www.psib-psoe.org/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:50.305Z",
+      "originalFile": "original.html",
+      "sha256": "0aa97e9b2d1c9a7a5eb999e87084e73871f0502b416c1b953c4fe43277a51f4b",
+      "extractionSha256": "19c353360c3ece5d0946f901314c86ea4134eca81feb3dad6ad23f9dda4c72fd",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-0aa97e9b2d1c",
+      "title": "Resultat de la cerca per a “29N” – psibpsoe",
+      "url": "https://www.psib-psoe.org/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:50.305Z",
+      "originalFile": "original.html",
+      "sha256": "0aa97e9b2d1c9a7a5eb999e87084e73871f0502b416c1b953c4fe43277a51f4b",
+      "extractionSha256": "19c353360c3ece5d0946f901314c86ea4134eca81feb3dad6ad23f9dda4c72fd",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-0afd7e6d313a",
+      "title": "Has buscado candidaturas - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:44.466Z",
+      "originalFile": "original.html",
+      "sha256": "0afd7e6d313ab4164a6a56525bd876a739c5b6f17a39c4b01dd2e1966ab78479",
+      "extractionSha256": "5e47e643172621e80d1fe24967410ff9a3bff0dadc56cc4764e15aa1710cca41",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-0afd7e6d313a",
+      "title": "Has buscado candidaturas - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:44.466Z",
+      "originalFile": "original.html",
+      "sha256": "0afd7e6d313ab4164a6a56525bd876a739c5b6f17a39c4b01dd2e1966ab78479",
+      "extractionSha256": "5e47e643172621e80d1fe24967410ff9a3bff0dadc56cc4764e15aa1710cca41",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-13688149aefe",
+      "title": "Resultados de la búsqueda de «candidaturas» – PSOE La RiojaWhatsApp",
+      "url": "https://psoelarioja.es/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:43.957Z",
+      "originalFile": "original.html",
+      "sha256": "13688149aefeeb780cadfc9aa15d83266e2ea56bd02523fa5a2fe90638ce82d2",
+      "extractionSha256": "7dc3be55f3aa0473881f33f59cae4f9e5be794ed19a5efc217c3a9ff1f29b7f6",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-13688149aefe",
+      "title": "Resultados de la búsqueda de «candidaturas» – PSOE La RiojaWhatsApp",
+      "url": "https://psoelarioja.es/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:43.957Z",
+      "originalFile": "original.html",
+      "sha256": "13688149aefeeb780cadfc9aa15d83266e2ea56bd02523fa5a2fe90638ce82d2",
+      "extractionSha256": "7dc3be55f3aa0473881f33f59cae4f9e5be794ed19a5efc217c3a9ff1f29b7f6",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-165770db086d",
+      "title": "El Comité Autonómico de la FSA-PSOE aprueba por unanimidad las candidaturas al Congreso y el Senado - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/el-comite-autonomico-de-la-fsa-psoe-aprueba-por-unanimidad-las-candidaturas-al-congreso-y-el-senado/",
+      "authority": "formation",
+      "publishedAt": "2023-06-08",
+      "capturedAt": "2026-10-30T15:22:19.269Z",
+      "originalFile": "original.html",
+      "sha256": "165770db086d45fb7a62b580d1464091d4755080d7d8e918840861e85b0ce48e",
+      "extractionSha256": "e3b0406ca150d320a6fa948ae1eee6411fca51413f6f87f7121a552ba21cea8d",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-165770db086d",
+      "title": "El Comité Autonómico de la FSA-PSOE aprueba por unanimidad las candidaturas al Congreso y el Senado - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/el-comite-autonomico-de-la-fsa-psoe-aprueba-por-unanimidad-las-candidaturas-al-congreso-y-el-senado/",
+      "authority": "formation",
+      "publishedAt": "2023-06-08",
+      "capturedAt": "2026-10-30T15:22:19.269Z",
+      "originalFile": "original.html",
+      "sha256": "165770db086d45fb7a62b580d1464091d4755080d7d8e918840861e85b0ce48e",
+      "extractionSha256": "e3b0406ca150d320a6fa948ae1eee6411fca51413f6f87f7121a552ba21cea8d",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-1a53fcdcdedc",
+      "title": "SOCIALISTAS REGIÓN DE MURCIA",
+      "url": "https://www.psoe-regiondemurcia.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.080Z",
+      "originalFile": "original.html",
+      "sha256": "1a53fcdcdedc3c9292dabe84bddc284cf44bbf454d6076ee883310dce3696542",
+      "extractionSha256": "43ae944928dffa92cf848689fe979f270a541ce0de0f7279eed383cd881e7c05",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-1a53fcdcdedc",
+      "title": "SOCIALISTAS REGIÓN DE MURCIA",
+      "url": "https://www.psoe-regiondemurcia.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.080Z",
+      "originalFile": "original.html",
+      "sha256": "1a53fcdcdedc3c9292dabe84bddc284cf44bbf454d6076ee883310dce3696542",
+      "extractionSha256": "43ae944928dffa92cf848689fe979f270a541ce0de0f7279eed383cd881e7c05",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-28542508b3ad",
+      "title": "Has buscado candidaturas - PSPV PSOE",
+      "url": "https://www.pspvpsoe.es/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:43.671Z",
+      "originalFile": "original.html",
+      "sha256": "28542508b3ad17fc82cad69c9e43527cec0771ef0f230df0ccffda2fe2f3f99b",
+      "extractionSha256": "ff322ab3e6c23d7f1df28a4a00bd5dc96fe30a08b1895066b5d049ef4d251d3e",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-28542508b3ad",
+      "title": "Has buscado candidaturas - PSPV PSOE",
+      "url": "https://www.pspvpsoe.es/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:43.671Z",
+      "originalFile": "original.html",
+      "sha256": "28542508b3ad17fc82cad69c9e43527cec0771ef0f230df0ccffda2fe2f3f99b",
+      "extractionSha256": "ff322ab3e6c23d7f1df28a4a00bd5dc96fe30a08b1895066b5d049ef4d251d3e",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-290d4f841f6c",
+      "title": "Resultados de la búsqueda de «29N» – PSOE La RiojaWhatsApp",
+      "url": "https://psoelarioja.es/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:52.108Z",
+      "originalFile": "original.html",
+      "sha256": "290d4f841f6c14ec18c02bd950b3915d256a340f333f5a49e8e663008fc5de22",
+      "extractionSha256": "9206cbf1f75a3b54da4dfdd448b6b7dbae593bb621462b7a5b5a6c650e531a91",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-290d4f841f6c",
+      "title": "Resultados de la búsqueda de «29N» – PSOE La RiojaWhatsApp",
+      "url": "https://psoelarioja.es/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:52.108Z",
+      "originalFile": "original.html",
+      "sha256": "290d4f841f6c14ec18c02bd950b3915d256a340f333f5a49e8e663008fc5de22",
+      "extractionSha256": "9206cbf1f75a3b54da4dfdd448b6b7dbae593bb621462b7a5b5a6c650e531a91",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-298747072578",
+      "title": "PSE EUSKADI: Berriak: Patxi Lopez, Rafaela Romero eta Javier Hurtado izango dira PSE-EEren hautagaitzako buruak A29-ko hauteskunde orokorretan",
+      "url": "https://www.socialistasvascos.com/patxi-lopez-rafaela-romero-y-javier-hurtado-encabezaran-las-candidaturas-del-pse-ee-en-las-elecciones-generales-del-29n-eu.htm",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:19:28.883Z",
+      "originalFile": "original.html",
+      "sha256": "298747072578db1d4d6d0b5966b055a37e3c9bd9462536f301538ec3f1716a72",
+      "extractionSha256": "a88e502229a0955248ab6bfcccd2a0d0f3b0ba46481798e7641718db35c20955",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-298747072578",
+      "title": "PSE EUSKADI: Berriak: Patxi Lopez, Rafaela Romero eta Javier Hurtado izango dira PSE-EEren hautagaitzako buruak A29-ko hauteskunde orokorretan",
+      "url": "https://www.socialistasvascos.com/patxi-lopez-rafaela-romero-y-javier-hurtado-encabezaran-las-candidaturas-del-pse-ee-en-las-elecciones-generales-del-29n-eu.htm",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:19:28.883Z",
+      "originalFile": "original.html",
+      "sha256": "298747072578db1d4d6d0b5966b055a37e3c9bd9462536f301538ec3f1716a72",
+      "extractionSha256": "a88e502229a0955248ab6bfcccd2a0d0f3b0ba46481798e7641718db35c20955",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-2a151b9d3290",
+      "title": "SOCIALISTAS REGIÓN DE MURCIA",
+      "url": "https://www.psoe-regiondemurcia.com/Notas-de-Prensa",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:47.902Z",
+      "originalFile": "original.html",
+      "sha256": "2a151b9d3290707a48e6b55365136e95d4a741bc85721fe6c6715826baea1e40",
+      "extractionSha256": "a64792c685d50017cd81d4839977c7b9a14228f607b4a72343e0541cbccaac46",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-2a151b9d3290",
+      "title": "SOCIALISTAS REGIÓN DE MURCIA",
+      "url": "https://www.psoe-regiondemurcia.com/Notas-de-Prensa",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:47.902Z",
+      "originalFile": "original.html",
+      "sha256": "2a151b9d3290707a48e6b55365136e95d4a741bc85721fe6c6715826baea1e40",
+      "extractionSha256": "a64792c685d50017cd81d4839977c7b9a14228f607b4a72343e0541cbccaac46",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-2df911234358",
+      "title": "El PSOE de Segovia registra su candidatura al Congreso para el 29N con sello municipalista para defender los derechos frente a las derechas – PSOE Segovia",
+      "url": "https://www.psoesegovia.es/el-psoe-de-segovia-registra-su-candidatura-al-congreso-para-el-29n-con-sello-municipalista-para-defender-los-derechos-frente-a-las-derechas/",
+      "authority": "formation",
+      "publishedAt": "2026-10-22",
+      "capturedAt": "2026-10-30T15:21:44.554Z",
+      "originalFile": "original.html",
+      "sha256": "2df9112343582b5de6dc4077a1482ad846719c586c7d476c73178837c850c6c9",
+      "extractionSha256": "417863f8a4eb5d46dfca94d51ec4a675d4197e9561ca56e60df5c80536b72b44",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-2df911234358",
+      "title": "El PSOE de Segovia registra su candidatura al Congreso para el 29N con sello municipalista para defender los derechos frente a las derechas – PSOE Segovia",
+      "url": "https://www.psoesegovia.es/el-psoe-de-segovia-registra-su-candidatura-al-congreso-para-el-29n-con-sello-municipalista-para-defender-los-derechos-frente-a-las-derechas/",
+      "authority": "formation",
+      "publishedAt": "2026-10-22",
+      "capturedAt": "2026-10-30T15:21:44.554Z",
+      "originalFile": "original.html",
+      "sha256": "2df9112343582b5de6dc4077a1482ad846719c586c7d476c73178837c850c6c9",
+      "extractionSha256": "417863f8a4eb5d46dfca94d51ec4a675d4197e9561ca56e60df5c80536b72b44",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-30db5c887d38",
+      "title": "PSPV PSOE - Partit Socialista del País Valencià",
+      "url": "https://www.pspvpsoe.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.544Z",
+      "originalFile": "original.html",
+      "sha256": "30db5c887d388cacd1365a2a705e23936f092abd7dd3a12387b069790946c847",
+      "extractionSha256": "ee639a9d80460a008288144ebc5e0c6bfdc4e5e09c2758efa05a0788206aeff4",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-30db5c887d38",
+      "title": "PSPV PSOE - Partit Socialista del País Valencià",
+      "url": "https://www.pspvpsoe.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.544Z",
+      "originalFile": "original.html",
+      "sha256": "30db5c887d388cacd1365a2a705e23936f092abd7dd3a12387b069790946c847",
+      "extractionSha256": "ee639a9d80460a008288144ebc5e0c6bfdc4e5e09c2758efa05a0788206aeff4",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-36651e255133",
+      "title": "Alegría reivindica en Teruel los avances en salarios, pensiones y empleo y advierte del riesgo de perder derechos el 29N | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/25/alegria-reivindica-en-teruel-los-avances-en-salarios-pensiones-y-empleo-y-advierte-del-riesgo-de-perder-derechos-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-25",
+      "capturedAt": "2026-10-30T15:21:42.405Z",
+      "originalFile": "original.html",
+      "sha256": "36651e2551332717dc0efa8c6f2e9670cff0e9dc1c73871f35a36cc5c02b1897",
+      "extractionSha256": "dfc33d6d250f33233f0294c8602b7bd4fbbba2c859ce128117c61a324d8e2b64",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-36651e255133",
+      "title": "Alegría reivindica en Teruel los avances en salarios, pensiones y empleo y advierte del riesgo de perder derechos el 29N | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/25/alegria-reivindica-en-teruel-los-avances-en-salarios-pensiones-y-empleo-y-advierte-del-riesgo-de-perder-derechos-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-25",
+      "capturedAt": "2026-10-30T15:21:42.405Z",
+      "originalFile": "original.html",
+      "sha256": "36651e2551332717dc0efa8c6f2e9670cff0e9dc1c73871f35a36cc5c02b1897",
+      "extractionSha256": "dfc33d6d250f33233f0294c8602b7bd4fbbba2c859ce128117c61a324d8e2b64",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-40849c739e78",
+      "title": "Portada - Agrupación Socialista de Melilla",
+      "url": "https://agrupacionespsoe.es/melilla/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.536Z",
+      "originalFile": "original.html",
+      "sha256": "40849c739e78afd12e2125a1d1162541dc3e69a919da1f6901df4001fd115646",
+      "extractionSha256": "c03a5d629c097956f35969f618198554b474baa35959758e7d6198f904661f0c",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-40849c739e78",
+      "title": "Portada - Agrupación Socialista de Melilla",
+      "url": "https://agrupacionespsoe.es/melilla/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.536Z",
+      "originalFile": "original.html",
+      "sha256": "40849c739e78afd12e2125a1d1162541dc3e69a919da1f6901df4001fd115646",
+      "extractionSha256": "c03a5d629c097956f35969f618198554b474baa35959758e7d6198f904661f0c",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-4e21263e76cd",
+      "title": "Inicio - PSOE de Andalucía",
+      "url": "https://psoeandalucia.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:20.675Z",
+      "originalFile": "original.html",
+      "sha256": "4e21263e76cd85ff32dee366d86c49dbd03a57f60fc73efb8a968bb435e2dc78",
+      "extractionSha256": "7c5c3c7cdba90f28e2fa5967f7ccf1a5148cc1451fb77cfedbb1fb5183238a1c",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-4e21263e76cd",
+      "title": "Inicio - PSOE de Andalucía",
+      "url": "https://psoeandalucia.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:20.675Z",
+      "originalFile": "original.html",
+      "sha256": "4e21263e76cd85ff32dee366d86c49dbd03a57f60fc73efb8a968bb435e2dc78",
+      "extractionSha256": "7c5c3c7cdba90f28e2fa5967f7ccf1a5148cc1451fb77cfedbb1fb5183238a1c",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-5b519d30e6de",
+      "title": "Elma Saiz y Ángel Moleón, cabezas de lista al Congreso y al Senado respectivamente para las elecciones del 29N — Partido Socialista de Navarra",
+      "url": "https://www.psn-psoe.org/psn-psoe-candidaturas-congreso-senado-elecciones-generales/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:19:28.815Z",
+      "originalFile": "original.html",
+      "sha256": "5b519d30e6deac376e31a704dcec82205cbdb8db5c35f8104721c225af495ce0",
+      "extractionSha256": "acc80acf2e2be67a54b6ceee1d01864187337e72ec1794c3f2c48a5228418dd0",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-5b519d30e6de",
+      "title": "Elma Saiz y Ángel Moleón, cabezas de lista al Congreso y al Senado respectivamente para las elecciones del 29N — Partido Socialista de Navarra",
+      "url": "https://www.psn-psoe.org/psn-psoe-candidaturas-congreso-senado-elecciones-generales/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:19:28.815Z",
+      "originalFile": "original.html",
+      "sha256": "5b519d30e6deac376e31a704dcec82205cbdb8db5c35f8104721c225af495ce0",
+      "extractionSha256": "acc80acf2e2be67a54b6ceee1d01864187337e72ec1794c3f2c48a5228418dd0",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-6063a482b2df",
+      "title": "El PSOE de la provincia de Badajoz propone sus candidaturas al Congreso y al Senado para las elecciones generales del 29 de noviembre. - PSOE PROVINCIA DE BADAJOZ",
+      "url": "https://psoeprovinciabadajoz.es/el-psoe-de-la-provincia-de-badajoz-aprueba-sus-candidaturas-al-congreso-y-al-senado-para-las-elecciones-generales-del-29-de-noviembre/56/",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:19:29.773Z",
+      "originalFile": "original.html",
+      "sha256": "6063a482b2dfb33c3fe80a8cf0a61e2c8eba16b0d9dbbf72d209f6fac09c28ed",
+      "extractionSha256": "7ac95d1875b78a14c0747cd28b597386cdacba88b8d5583139c7914d0f0616fe",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-6063a482b2df",
+      "title": "El PSOE de la provincia de Badajoz propone sus candidaturas al Congreso y al Senado para las elecciones generales del 29 de noviembre. - PSOE PROVINCIA DE BADAJOZ",
+      "url": "https://psoeprovinciabadajoz.es/el-psoe-de-la-provincia-de-badajoz-aprueba-sus-candidaturas-al-congreso-y-al-senado-para-las-elecciones-generales-del-29-de-noviembre/56/",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:19:29.773Z",
+      "originalFile": "original.html",
+      "sha256": "6063a482b2dfb33c3fe80a8cf0a61e2c8eba16b0d9dbbf72d209f6fac09c28ed",
+      "extractionSha256": "7ac95d1875b78a14c0747cd28b597386cdacba88b8d5583139c7914d0f0616fe",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-6f00c2944331",
+      "title": "Inicio - PSOE Extremadura",
+      "url": "https://www.psoeextremadura.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:20.010Z",
+      "originalFile": "original.html",
+      "sha256": "6f00c2944331f1d963c572d406378011b836916a1979e2a44e5ab283cb05c516",
+      "extractionSha256": "9f1fa3c973b3a1ee1884d7f89fb960ce9115b4a073111ab8cad8679293207a3b",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-6f00c2944331",
+      "title": "Inicio - PSOE Extremadura",
+      "url": "https://www.psoeextremadura.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:20.010Z",
+      "originalFile": "original.html",
+      "sha256": "6f00c2944331f1d963c572d406378011b836916a1979e2a44e5ab283cb05c516",
+      "extractionSha256": "9f1fa3c973b3a1ee1884d7f89fb960ce9115b4a073111ab8cad8679293207a3b",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-73522e0aa58f",
+      "title": "El PSOE apuesta por la renovación y el compromiso con Melilla en sus candidaturas al Congreso y Senado - Agrupación Socialista de Melilla",
+      "url": "https://agrupacionespsoe.es/melilla/el-psoe-apuesta-por-la-renovacion-y-el-compromiso-con-melilla-en-sus-candidaturas-al-congreso-y-senado/",
+      "authority": "formation",
+      "publishedAt": "2026-10-16",
+      "capturedAt": "2026-10-30T15:21:41.838Z",
+      "originalFile": "original.html",
+      "sha256": "73522e0aa58f19e1e69d81fdf4c46eab3826eab0f0d868c3b2583cd8fea368ee",
+      "extractionSha256": "855ffd55781496e6816c93bf65ba3847343c1167501411cab677be07fbdd4cc3",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-73522e0aa58f",
+      "title": "El PSOE apuesta por la renovación y el compromiso con Melilla en sus candidaturas al Congreso y Senado - Agrupación Socialista de Melilla",
+      "url": "https://agrupacionespsoe.es/melilla/el-psoe-apuesta-por-la-renovacion-y-el-compromiso-con-melilla-en-sus-candidaturas-al-congreso-y-senado/",
+      "authority": "formation",
+      "publishedAt": "2026-10-16",
+      "capturedAt": "2026-10-30T15:21:41.838Z",
+      "originalFile": "original.html",
+      "sha256": "73522e0aa58f19e1e69d81fdf4c46eab3826eab0f0d868c3b2583cd8fea368ee",
+      "extractionSha256": "855ffd55781496e6816c93bf65ba3847343c1167501411cab677be07fbdd4cc3",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-794c899a7d15",
+      "title": "psibpsoe – Partit Socialista Illes Balears",
+      "url": "https://www.psib-psoe.org/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:19.542Z",
+      "originalFile": "original.html",
+      "sha256": "794c899a7d15d2f7aa8ea32db36e3b1e3e72e59aceeb90cad60bb0142a128e8b",
+      "extractionSha256": "84d0668ae6169ae3755983ca8f976ecd7f02f7d20666d160adb22e8630cefa41",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-794c899a7d15",
+      "title": "psibpsoe – Partit Socialista Illes Balears",
+      "url": "https://www.psib-psoe.org/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:19.542Z",
+      "originalFile": "original.html",
+      "sha256": "794c899a7d15d2f7aa8ea32db36e3b1e3e72e59aceeb90cad60bb0142a128e8b",
+      "extractionSha256": "84d0668ae6169ae3755983ca8f976ecd7f02f7d20666d160adb22e8630cefa41",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-7db8c9838359",
+      "title": "CANDIDATURAS PSE-EE - 29N",
+      "url": "https://www.socialistasvascos.com/documentos/noticias/CANDIDATURAS-29N.pdf",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:49.144Z",
+      "originalFile": "original.pdf",
+      "sha256": "7db8c9838359ca1e286d954930372dda2c2f8f7581582a2429664da91b688a92",
+      "extractionSha256": "5f06009bd4b514f22982ec5564470c46d896db58fefbec82c2789e58745d0823",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-7db8c9838359",
+      "title": "CANDIDATURAS PSE-EE - 29N",
+      "url": "https://www.socialistasvascos.com/documentos/noticias/CANDIDATURAS-29N.pdf",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:49.144Z",
+      "originalFile": "original.pdf",
+      "sha256": "7db8c9838359ca1e286d954930372dda2c2f8f7581582a2429664da91b688a92",
+      "extractionSha256": "5f06009bd4b514f22982ec5564470c46d896db58fefbec82c2789e58745d0823",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-8236c26a4b0e",
+      "title": "Actualidad | PSOE Aragón",
+      "url": "https://aragonpsoe.es/actualidad/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:17.877Z",
+      "originalFile": "original.html",
+      "sha256": "8236c26a4b0e495b58ff1d25e8e7775a2728b651976d3b64ffed5ca67289f571",
+      "extractionSha256": "43e6296ae433d27bafd274cb746ce4e5ad1202d4e9956e2f392d05045c963c9a",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-8236c26a4b0e",
+      "title": "Actualidad | PSOE Aragón",
+      "url": "https://aragonpsoe.es/actualidad/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:17.877Z",
+      "originalFile": "original.html",
+      "sha256": "8236c26a4b0e495b58ff1d25e8e7775a2728b651976d3b64ffed5ca67289f571",
+      "extractionSha256": "43e6296ae433d27bafd274cb746ce4e5ad1202d4e9956e2f392d05045c963c9a",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-83c1765d91f9",
+      "title": "Inicio - PSdeG Socialistas de Galicia",
+      "url": "https://www.psdeg-psoe.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.134Z",
+      "originalFile": "original.html",
+      "sha256": "83c1765d91f9bb007b18ff8fe397b0a8b141bddb53f75ad64af85880272976fe",
+      "extractionSha256": "e040d15de1186ad0ada86fa099888461eefdb8835a4ff10b4ea792f777b6fca5",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-83c1765d91f9",
+      "title": "Inicio - PSdeG Socialistas de Galicia",
+      "url": "https://www.psdeg-psoe.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.134Z",
+      "originalFile": "original.html",
+      "sha256": "83c1765d91f9bb007b18ff8fe397b0a8b141bddb53f75ad64af85880272976fe",
+      "extractionSha256": "e040d15de1186ad0ada86fa099888461eefdb8835a4ff10b4ea792f777b6fca5",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-86de44c3dfd8",
+      "title": "Alegría llama a ganar las elecciones del 29N para seguir mejorando la vida de las personas frente a los recortes y los insultos de la derecha | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/24/alegria-llama-a-ganar-las-elecciones-del-29n-para-seguir-mejorando-la-vida-de-las-personas-frente-a-los-recortes-y-los-insultos-de-la-derecha/",
+      "authority": "formation",
+      "publishedAt": "2026-10-24",
+      "capturedAt": "2026-10-30T15:21:42.325Z",
+      "originalFile": "original.html",
+      "sha256": "86de44c3dfd8588eaa83f9bbe1bc06e481668b4c68f8b0dc5ff64223e0f409af",
+      "extractionSha256": "86eb487fb8902740808f8b32ab56279c128f9748493ce786b3a53f1cb8d9b381",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-86de44c3dfd8",
+      "title": "Alegría llama a ganar las elecciones del 29N para seguir mejorando la vida de las personas frente a los recortes y los insultos de la derecha | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/24/alegria-llama-a-ganar-las-elecciones-del-29n-para-seguir-mejorando-la-vida-de-las-personas-frente-a-los-recortes-y-los-insultos-de-la-derecha/",
+      "authority": "formation",
+      "publishedAt": "2026-10-24",
+      "capturedAt": "2026-10-30T15:21:42.325Z",
+      "originalFile": "original.html",
+      "sha256": "86de44c3dfd8588eaa83f9bbe1bc06e481668b4c68f8b0dc5ff64223e0f409af",
+      "extractionSha256": "86eb487fb8902740808f8b32ab56279c128f9748493ce786b3a53f1cb8d9b381",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-895d82daa449",
+      "title": "PSOE de Castilla-La Mancha",
+      "url": "https://www.pscm-psoe.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.088Z",
+      "originalFile": "original.html",
+      "sha256": "895d82daa4493fae90daf6fee18051880e1b772bac6db00176b2cc3c935bcb5f",
+      "extractionSha256": "0286d4caf35d9b5537db5cf950f8bb9c907085387c92802167cc5b64fdc41fe8",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-895d82daa449",
+      "title": "PSOE de Castilla-La Mancha",
+      "url": "https://www.pscm-psoe.com/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.088Z",
+      "originalFile": "original.html",
+      "sha256": "895d82daa4493fae90daf6fee18051880e1b772bac6db00176b2cc3c935bcb5f",
+      "extractionSha256": "0286d4caf35d9b5537db5cf950f8bb9c907085387c92802167cc5b64fdc41fe8",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-987435ec6402",
+      "title": "Pilar Alegría celebra el acuerdo de las fuerzas progresistas para concurrir juntas al Senado y destaca que responde a la demanda de unidad de la ciudadanía | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/17/pilar-alegria-celebra-el-acuerdo-de-las-fuerzas-progresistas-para-concurrir-juntas-al-senado-y-destaca-que-responde-a-la-demanda-de-unidad-de-la-ciudadania/",
+      "authority": "formation",
+      "publishedAt": "2026-10-17",
+      "capturedAt": "2026-10-30T15:20:22.147Z",
+      "originalFile": "original.html",
+      "sha256": "987435ec64028a64fc8998e2b8823b36373f60c19c9abf2d7974a5fb2e34a375",
+      "extractionSha256": "ec52b1c63dfcd6021852fe5366abe9cb8dffe4d699d0cfad062bd7266a6bd499",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-987435ec6402",
+      "title": "Pilar Alegría celebra el acuerdo de las fuerzas progresistas para concurrir juntas al Senado y destaca que responde a la demanda de unidad de la ciudadanía | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/17/pilar-alegria-celebra-el-acuerdo-de-las-fuerzas-progresistas-para-concurrir-juntas-al-senado-y-destaca-que-responde-a-la-demanda-de-unidad-de-la-ciudadania/",
+      "authority": "formation",
+      "publishedAt": "2026-10-17",
+      "capturedAt": "2026-10-30T15:20:22.147Z",
+      "originalFile": "original.html",
+      "sha256": "987435ec64028a64fc8998e2b8823b36373f60c19c9abf2d7974a5fb2e34a375",
+      "extractionSha256": "ec52b1c63dfcd6021852fe5366abe9cb8dffe4d699d0cfad062bd7266a6bd499",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-a104e02d03b8",
+      "title": "PSOE La RiojaWhatsApp",
+      "url": "https://psoelarioja.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.737Z",
+      "originalFile": "original.html",
+      "sha256": "a104e02d03b85ea098b150c2f2382d942e8dde3d6259cee0fe38ae7f6c683003",
+      "extractionSha256": "6becf230bb56118ccb9fb27f96c517ec92a28e8ac2fb15c64b6c99bf6d361253",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-a104e02d03b8",
+      "title": "PSOE La RiojaWhatsApp",
+      "url": "https://psoelarioja.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.737Z",
+      "originalFile": "original.html",
+      "sha256": "a104e02d03b85ea098b150c2f2382d942e8dde3d6259cee0fe38ae7f6c683003",
+      "extractionSha256": "6becf230bb56118ccb9fb27f96c517ec92a28e8ac2fb15c64b6c99bf6d361253",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-b2ff28236462",
+      "title": "Has buscado 29N - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:47.512Z",
+      "originalFile": "original.html",
+      "sha256": "b2ff28236462f02a2977061f976ad7f9d8b308f86fbf3add72b9dd1cfe6ec260",
+      "extractionSha256": "5a788831f86a17347ef285b1bdb109498c5a80a2d1af4a6f6b114c305b5494a1",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-b2ff28236462",
+      "title": "Has buscado 29N - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:47.512Z",
+      "originalFile": "original.html",
+      "sha256": "b2ff28236462f02a2977061f976ad7f9d8b308f86fbf3add72b9dd1cfe6ec260",
+      "extractionSha256": "5a788831f86a17347ef285b1bdb109498c5a80a2d1af4a6f6b114c305b5494a1",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-b37a967c3832",
+      "title": "Has buscado 29N » PSOE de Castilla-La Mancha",
+      "url": "https://www.pscm-psoe.com/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:53.461Z",
+      "originalFile": "original.html",
+      "sha256": "b37a967c38323d58e9aadb18aa71c47c93964246c68205581f1e5e0d4c76bbef",
+      "extractionSha256": "03281827e5270c8c29d1a63bbd4e0851e31f578b02a0bf2cdc0be7d38f550029",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-b37a967c3832",
+      "title": "Has buscado 29N » PSOE de Castilla-La Mancha",
+      "url": "https://www.pscm-psoe.com/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:53.461Z",
+      "originalFile": "original.html",
+      "sha256": "b37a967c38323d58e9aadb18aa71c47c93964246c68205581f1e5e0d4c76bbef",
+      "extractionSha256": "03281827e5270c8c29d1a63bbd4e0851e31f578b02a0bf2cdc0be7d38f550029",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-b5ff34f46a17",
+      "title": "COMUNICADO PSOE CASTILLA Y LEÓN – PSOE de Castilla y León",
+      "url": "https://www.psoecyl.com/8w/2026/10/15/comunicado-psoe-castilla-y-leon/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:19:29.184Z",
+      "originalFile": "original.html",
+      "sha256": "b5ff34f46a172a9517953313ea4c2a0a68a461a5eeeadc1d0c489cc12ef37727",
+      "extractionSha256": "c66f32ace1456dba3fd2ca7c8e9d3f42180f9ad675952fb811385de945b5171f",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-b5ff34f46a17",
+      "title": "COMUNICADO PSOE CASTILLA Y LEÓN – PSOE de Castilla y León",
+      "url": "https://www.psoecyl.com/8w/2026/10/15/comunicado-psoe-castilla-y-leon/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:19:29.184Z",
+      "originalFile": "original.html",
+      "sha256": "b5ff34f46a172a9517953313ea4c2a0a68a461a5eeeadc1d0c489cc12ef37727",
+      "extractionSha256": "c66f32ace1456dba3fd2ca7c8e9d3f42180f9ad675952fb811385de945b5171f",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-b883ea124bb5",
+      "title": "Inicio - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:20.499Z",
+      "originalFile": "original.html",
+      "sha256": "b883ea124bb5a70adc965af128170f30f955d36d46ad756b817bafe85b761378",
+      "extractionSha256": "e84c2dc386a56bd155b234de4ab85b10f1742e55bcf0ef60769d1bd7c08f153b",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-b883ea124bb5",
+      "title": "Inicio - Federación Socialista AsturianaBlueskyBluesky",
+      "url": "https://fsa-psoe.org/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:20.499Z",
+      "originalFile": "original.html",
+      "sha256": "b883ea124bb5a70adc965af128170f30f955d36d46ad756b817bafe85b761378",
+      "extractionSha256": "e84c2dc386a56bd155b234de4ab85b10f1742e55bcf0ef60769d1bd7c08f153b",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-bc78ada01c0c",
+      "title": "Has buscado candidaturas » PSOE de Castilla-La Mancha",
+      "url": "https://www.pscm-psoe.com/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:46.492Z",
+      "originalFile": "original.html",
+      "sha256": "bc78ada01c0c45ee776b7ef798fd504535f661ad6d13aaa3761e47d2a6c1939f",
+      "extractionSha256": "54b464e3ef9d8f5bdfc95e0cf56839a0003b6258a08ffa33dfa3673ed57e9a00",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-bc78ada01c0c",
+      "title": "Has buscado candidaturas » PSOE de Castilla-La Mancha",
+      "url": "https://www.pscm-psoe.com/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:46.492Z",
+      "originalFile": "original.html",
+      "sha256": "bc78ada01c0c45ee776b7ef798fd504535f661ad6d13aaa3761e47d2a6c1939f",
+      "extractionSha256": "54b464e3ef9d8f5bdfc95e0cf56839a0003b6258a08ffa33dfa3673ed57e9a00",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-be7be9deeeaa",
+      "title": "Resultat de la cerca per a “candidatures” – psibpsoe",
+      "url": "https://www.psib-psoe.org/?s=candidatures",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:47.421Z",
+      "originalFile": "original.html",
+      "sha256": "be7be9deeeaab345351748871183f4caaafab0df737d0b4d9abd069dec6a4e3b",
+      "extractionSha256": "562ed2f2d4942cc8ac0bca32a09df4b42b42a7fc2ae1bb85c560aaadff667c01",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-be7be9deeeaa",
+      "title": "Resultat de la cerca per a “candidatures” – psibpsoe",
+      "url": "https://www.psib-psoe.org/?s=candidatures",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:47.421Z",
+      "originalFile": "original.html",
+      "sha256": "be7be9deeeaab345351748871183f4caaafab0df737d0b4d9abd069dec6a4e3b",
+      "extractionSha256": "562ed2f2d4942cc8ac0bca32a09df4b42b42a7fc2ae1bb85c560aaadff667c01",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-c55ccca853f7",
+      "title": "Registrada la candidatura ‘Senado de Progreso’ para impulsar una provincia con más derechos, igualdad y oportunidades el 29N – PSOE Segovia",
+      "url": "https://www.psoesegovia.es/registrada-la-candidatura-senado-de-progreso-para-impulsar-una-provincia-con-mas-derechos-igualdad-y-oportunidades-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-26",
+      "capturedAt": "2026-10-30T15:19:27.888Z",
+      "originalFile": "original.html",
+      "sha256": "c55ccca853f7b47baa8707a67d46a12efe0dc4a0724b73dfed408d3c6d2a75fb",
+      "extractionSha256": "539a0f1b19fdfcc13464519cc68e8040fbd49df5e769dc5ba3386e5ab662c549",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-c55ccca853f7",
+      "title": "Registrada la candidatura ‘Senado de Progreso’ para impulsar una provincia con más derechos, igualdad y oportunidades el 29N – PSOE Segovia",
+      "url": "https://www.psoesegovia.es/registrada-la-candidatura-senado-de-progreso-para-impulsar-una-provincia-con-mas-derechos-igualdad-y-oportunidades-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-26",
+      "capturedAt": "2026-10-30T15:19:27.888Z",
+      "originalFile": "original.html",
+      "sha256": "c55ccca853f7b47baa8707a67d46a12efe0dc4a0724b73dfed408d3c6d2a75fb",
+      "extractionSha256": "539a0f1b19fdfcc13464519cc68e8040fbd49df5e769dc5ba3386e5ab662c549",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-dba82987c72b",
+      "title": "Has buscado 29N - PSPV PSOE",
+      "url": "https://www.pspvpsoe.es/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:50.356Z",
+      "originalFile": "original.html",
+      "sha256": "dba82987c72bb97e9629e66bfc6daf035f1ea5633d774198d0af87f4ca647ee4",
+      "extractionSha256": "403739566c45a74c134f2ffc97048b8dbf9c8a1a95c349beb5afaad66e725cba",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-dba82987c72b",
+      "title": "Has buscado 29N - PSPV PSOE",
+      "url": "https://www.pspvpsoe.es/?s=29N",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:22:50.356Z",
+      "originalFile": "original.html",
+      "sha256": "dba82987c72bb97e9629e66bfc6daf035f1ea5633d774198d0af87f4ca647ee4",
+      "extractionSha256": "403739566c45a74c134f2ffc97048b8dbf9c8a1a95c349beb5afaad66e725cba",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-dbcc7fc49e6a",
+      "title": "candidaturas - PSOE de Andalucía",
+      "url": "https://psoeandalucia.es/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:44.820Z",
+      "originalFile": "original.html",
+      "sha256": "dbcc7fc49e6a6058c4218fd7f76edde47a8cc520e1139b30ab96d9d37cefbc0f",
+      "extractionSha256": "db2ef8c39d126732cfc4e6456fc470110617866eff0e4db45d973e999e83871a",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-dbcc7fc49e6a",
+      "title": "candidaturas - PSOE de Andalucía",
+      "url": "https://psoeandalucia.es/?s=candidaturas",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:21:44.820Z",
+      "originalFile": "original.html",
+      "sha256": "dbcc7fc49e6a6058c4218fd7f76edde47a8cc520e1139b30ab96d9d37cefbc0f",
+      "extractionSha256": "db2ef8c39d126732cfc4e6456fc470110617866eff0e4db45d973e999e83871a",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-e509e56c6915",
+      "title": "El PSIB-PSOE aprova les candidatures al Congrés dels Diputats i al Senat per Mallorca amb l’objectiu de “continuar avançant en drets i llibertats i aturar els retrocessos que l’extrema dreta i la dreta extrema volen implantar” – psibpsoe",
+      "url": "https://www.psib-psoe.org/el-psib-psoe-aprova-les-candidatures-al-congres-dels-diputats-i-al-senat-per-mallorca-amb-lobjectiu-de-continuar-avancant-en-drets-i-llibertats-i-aturar-els-retrocessos-que-l/",
+      "authority": "formation",
+      "publishedAt": "2023-06-07",
+      "capturedAt": "2026-10-30T15:22:19.062Z",
+      "originalFile": "original.html",
+      "sha256": "e509e56c691534a72951af4e7a376ba303669e06b775356f51355107efad3752",
+      "extractionSha256": "319ad9c77367e0b4f41e0f00ccd3c14ed6548b5b29ef4ce3aecf32718d1b4930",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-e509e56c6915",
+      "title": "El PSIB-PSOE aprova les candidatures al Congrés dels Diputats i al Senat per Mallorca amb l’objectiu de “continuar avançant en drets i llibertats i aturar els retrocessos que l’extrema dreta i la dreta extrema volen implantar” – psibpsoe",
+      "url": "https://www.psib-psoe.org/el-psib-psoe-aprova-les-candidatures-al-congres-dels-diputats-i-al-senat-per-mallorca-amb-lobjectiu-de-continuar-avancant-en-drets-i-llibertats-i-aturar-els-retrocessos-que-l/",
+      "authority": "formation",
+      "publishedAt": "2023-06-07",
+      "capturedAt": "2026-10-30T15:22:19.062Z",
+      "originalFile": "original.html",
+      "sha256": "e509e56c691534a72951af4e7a376ba303669e06b775356f51355107efad3752",
+      "extractionSha256": "319ad9c77367e0b4f41e0f00ccd3c14ed6548b5b29ef4ce3aecf32718d1b4930",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-eb8469ee58ef",
+      "title": "Besteiro presenta en Ferrol as candidaturas pola Coruña “como símbolo do xeito no que as políticas socialistas poden cambiar unha comarca” - PSdeG Socialistas de Galicia",
+      "url": "https://socialistas.gal/2026/10/besteiro-presenta-en-ferrol-as-candidaturas-pola-coruna-como-simbolo-do-xeito-no-que-as-politicas-socialistas-poden-cambiar-unha-comarca/",
+      "authority": "formation",
+      "publishedAt": "2026-10-27",
+      "capturedAt": "2026-10-30T15:21:45.869Z",
+      "originalFile": "original.html",
+      "sha256": "eb8469ee58ef288cdd50f4d898f6808f34d29510ca1261dfe075381db6a26f9a",
+      "extractionSha256": "6d518d8b1a29dd0aca6993e0571012345ccbb8a192a837dba9309f1ca5aeb015",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-eb8469ee58ef",
+      "title": "Besteiro presenta en Ferrol as candidaturas pola Coruña “como símbolo do xeito no que as políticas socialistas poden cambiar unha comarca” - PSdeG Socialistas de Galicia",
+      "url": "https://socialistas.gal/2026/10/besteiro-presenta-en-ferrol-as-candidaturas-pola-coruna-como-simbolo-do-xeito-no-que-as-politicas-socialistas-poden-cambiar-unha-comarca/",
+      "authority": "formation",
+      "publishedAt": "2026-10-27",
+      "capturedAt": "2026-10-30T15:21:45.869Z",
+      "originalFile": "original.html",
+      "sha256": "eb8469ee58ef288cdd50f4d898f6808f34d29510ca1261dfe075381db6a26f9a",
+      "extractionSha256": "6d518d8b1a29dd0aca6993e0571012345ccbb8a192a837dba9309f1ca5aeb015",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-ed5523a06c2e",
+      "title": "Alegría señala que la fuerza de la gente corriente será la que frene a la derecha el 29N | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/26/alegria-senala-que-la-fuerza-de-la-gente-corriente-sera-la-que-frene-a-la-derecha-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-26",
+      "capturedAt": "2026-10-30T15:21:45.429Z",
+      "originalFile": "original.html",
+      "sha256": "ed5523a06c2ec112b65aa446e9cc080e3afe7ce2c9ba4e01bd3e150a82d34c1a",
+      "extractionSha256": "fe01229d7c9cd245f8a05a1651a4d8ea6b840c3f63307c64adfaee4a7bff1bba",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-ed5523a06c2e",
+      "title": "Alegría señala que la fuerza de la gente corriente será la que frene a la derecha el 29N | PSOE Aragón",
+      "url": "https://aragonpsoe.es/blog/2026/10/26/alegria-senala-que-la-fuerza-de-la-gente-corriente-sera-la-que-frene-a-la-derecha-el-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-26",
+      "capturedAt": "2026-10-30T15:21:45.429Z",
+      "originalFile": "original.html",
+      "sha256": "ed5523a06c2ec112b65aa446e9cc080e3afe7ce2c9ba4e01bd3e150a82d34c1a",
+      "extractionSha256": "fe01229d7c9cd245f8a05a1651a4d8ea6b840c3f63307c64adfaee4a7bff1bba",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-edc83ce0cb3f",
+      "title": "incio - PSOE MADRID",
+      "url": "https://www.psoemadrid.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.323Z",
+      "originalFile": "original.html",
+      "sha256": "edc83ce0cb3f419cea602cf953856d62d013192c6911151f4c75c7895e70d7a3",
+      "extractionSha256": "e2c2d9500a3e84fb75790bd6d1310ca582019713a5067fb3436f397160cdfa3a",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-edc83ce0cb3f",
+      "title": "incio - PSOE MADRID",
+      "url": "https://www.psoemadrid.es/",
+      "authority": "formation",
+      "publishedAt": null,
+      "capturedAt": "2026-10-30T15:20:18.323Z",
+      "originalFile": "original.html",
+      "sha256": "edc83ce0cb3f419cea602cf953856d62d013192c6911151f4c75c7895e70d7a3",
+      "extractionSha256": "e2c2d9500a3e84fb75790bd6d1310ca582019713a5067fb3436f397160cdfa3a",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-f11582a61cfa",
+      "title": "Obdulia Taboadela encabezará a candidatura do PSdeG-PSOE na provincia da Coruña ás eleccións xerais do 29N - Agrupación Provincial da Coruña PSOE",
+      "url": "https://agrupacionespsoe.es/acoruna/obdulia-taboadela-encabezara-a-candidatura-do-psdeg-psoe-na-provincia-da-coruna-as-eleccions-xerais-do-29n-2/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:20:19.117Z",
+      "originalFile": "original.html",
+      "sha256": "f11582a61cfa900a83b240ab236fe316255fdbb162e6a44e3a3130edfa313747",
+      "extractionSha256": "c0f148fa052b405d382cbc9d7bc874542dceb8b980c5edaf6514b175a4178900",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-f11582a61cfa",
+      "title": "Obdulia Taboadela encabezará a candidatura do PSdeG-PSOE na provincia da Coruña ás eleccións xerais do 29N - Agrupación Provincial da Coruña PSOE",
+      "url": "https://agrupacionespsoe.es/acoruna/obdulia-taboadela-encabezara-a-candidatura-do-psdeg-psoe-na-provincia-da-coruna-as-eleccions-xerais-do-29n-2/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:20:19.117Z",
+      "originalFile": "original.html",
+      "sha256": "f11582a61cfa900a83b240ab236fe316255fdbb162e6a44e3a3130edfa313747",
+      "extractionSha256": "c0f148fa052b405d382cbc9d7bc874542dceb8b980c5edaf6514b175a4178900",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "territorial",
+    "capturedVersion": {
+      "id": "source-f2f2fa95388c",
+      "title": "PSE EUSKADI: Noticias: Patxi López, Rafaela Romero y Javier Hurtado encabezarán las candidaturas del PSE-EE en las elecciones generales del 29N",
+      "url": "https://www.socialistasvascos.com/patxi-lopez-rafaela-romero-y-javier-hurtado-encabezaran-las-candidaturas-del-pse-ee-en-las-elecciones-generales-del-29n.htm",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:22:46.695Z",
+      "originalFile": "original.html",
+      "sha256": "f2f2fa95388c58988c8fcdc12ed13954dbe5bff73c9e0f54248c525b2db75894",
+      "extractionSha256": "ae92fa776af410a03cf807c62c3e9ed736cb7ee24e0436813d1f86cec3af1203",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-f2f2fa95388c",
+      "title": "PSE EUSKADI: Noticias: Patxi López, Rafaela Romero y Javier Hurtado encabezarán las candidaturas del PSE-EE en las elecciones generales del 29N",
+      "url": "https://www.socialistasvascos.com/patxi-lopez-rafaela-romero-y-javier-hurtado-encabezaran-las-candidaturas-del-pse-ee-en-las-elecciones-generales-del-29n.htm",
+      "authority": "formation",
+      "publishedAt": "2026-10-14",
+      "capturedAt": "2026-10-30T15:22:46.695Z",
+      "originalFile": "original.html",
+      "sha256": "f2f2fa95388c58988c8fcdc12ed13954dbe5bff73c9e0f54248c525b2db75894",
+      "extractionSha256": "ae92fa776af410a03cf807c62c3e9ed736cb7ee24e0436813d1f86cec3af1203",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  },
+  {
+    "researchArea": "builder",
+    "capturedVersion": {
+      "id": "source-a3258033b34d",
+      "title": "El PSOE Canarias decide sus candidaturas a las Cortes para las elecciones del 29N",
+      "url": "https://psoecanarias.com/web/el-psoe-canarias-decide-sus-candidaturas-a-las-cortes-para-las-elecciones-del-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:18:52.754202Z",
+      "originalFile": "original.html",
+      "sha256": "a3258033b34d15c17cb94f79e82a96afd85d3e9c605de82b9639b4b4276eb420",
+      "extractionSha256": "977a0b0892cb38f4129c42d6f7d56b8e653f521e358eec9d2584eb8afbf5b643",
+      "redacted": false
+    },
+    "preservedMetadata": {
+      "id": "source-a3258033b34d",
+      "title": "El PSOE Canarias decide sus candidaturas a las Cortes para las elecciones del 29N",
+      "url": "https://psoecanarias.com/web/el-psoe-canarias-decide-sus-candidaturas-a-las-cortes-para-las-elecciones-del-29n/",
+      "authority": "formation",
+      "publishedAt": "2026-10-15",
+      "capturedAt": "2026-10-30T15:18:52.754202Z",
+      "originalFile": "original.html",
+      "sha256": "a3258033b34d15c17cb94f79e82a96afd85d3e9c605de82b9639b4b4276eb420",
+      "extractionSha256": "977a0b0892cb38f4129c42d6f7d56b8e653f521e358eec9d2584eb8afbf5b643",
+      "redacted": false
+    },
+    "existingSnapshotReused": false
+  }
+]
