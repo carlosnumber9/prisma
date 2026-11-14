@@ -1,14 +1,18 @@
 # Delivery roadmap
 
-Source disclosures now animate height before content on opening, and content before height on closing. Native semantics, natural sizing after completion, interruption cleanup and reduced motion are implemented. Browser sequence verification remains pending.
+This roadmap records agreed direction, not permission to implement every item or publish unreviewed content. Update statuses as deliveries are verified. Do not mark deployments, complete electoral coverage or model quality as achieved from a Git push alone.
+
+Breadcrumb transitions now preserve common route ancestors and animate only differing pieces with horizontal 160-millisecond slides. Backward and sibling navigation retain outgoing pieces until their exit completes. Reduced motion, interruption handling and responsive wrapping are implemented. Chromium and WebKit desktop/mobile checks pass.
+
+Source disclosures now animate height before content on opening, and content before height on closing. Native semantics, natural sizing after completion, interruption cleanup and reduced motion are implemented. Chromium and WebKit sequence checks pass.
 
 Proposal source disclosures now omit literal quotations and retain the existing official links and physical page or section references. Supporting evidence remains preserved in editorial data.
 
-Proposal titles now offer icon-based URL copying with a two-second success tick, hover/focus appearance and persistent touch access. Clipboard failures retain a manual-copy path; reduced motion and localized feedback are implemented. Browser verification remains pending.
+Proposal titles now offer icon-based URL copying with a two-second success tick, hover/focus appearance and persistent touch access. Clipboard failures retain a manual-copy path; reduced motion and localized feedback are implemented. Chromium and WebKit desktop/mobile checks pass.
 
-The locale layout now keeps the shell persistent during client navigation. Route content uses a 100-millisecond exit followed by a 120-millisecond entrance, with outgoing visual copies excluded from interaction and accessibility. New animations prefer native browser APIs, with GSAP as a compatibility fallback and reduced-motion support. Browser verification remains pending.
+The locale layout now keeps the shell persistent during client navigation. Route content uses a 100-millisecond exit followed by a 120-millisecond entrance, with outgoing visual copies excluded from interaction and accessibility. New animations prefer native browser APIs, with GSAP as a compatibility fallback and reduced-motion support. Chromium and WebKit desktop/mobile checks pass.
 
-This roadmap records agreed direction, not permission to implement every item or publish unreviewed content. Update statuses as deliveries are verified. Do not mark deployments, complete electoral coverage or model quality as achieved from a Git push alone.
+The visual-interaction batch passes 115 deterministic tests and the 336-page production build. Browser checks cover normal and interrupted navigation, keyboard, reduced motion and forced GSAP fallback; clipboard results were simulated. Firefox verification remains pending: the temporary Playwright Firefox could not start because the host rejected its sandbox extension and its software compositor failed to map the framebuffer. This happened before loading the app. Physical devices, real clipboard permissions and assistive technology remain unverified.
 
 ## Delivery 1 — Editorial foundation: implemented
 

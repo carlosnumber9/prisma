@@ -8,7 +8,9 @@ Use English for code, comments, test descriptions and technical documentation. W
 
 Keep the generator deterministic and offline. Do not regenerate prose, consult a model or rewrite approved editorial inputs during a build. Public output uses explicit field allowlists. Original snapshots remain immutable by source version; review evidence and personal data must not leak into public JSON. Never copy the entire content tree into a public web directory.
 
-Use checked JavaScript for existing Node tooling and strict TypeScript for new application code when Next is introduced. Validate untrusted inputs at their boundary; static checks do not replace content validation or human editorial agreement. Add dependencies only for a concrete capability. Lock development tools exactly in `package-lock.json`; the generator itself has no runtime dependencies.
+Use checked JavaScript for existing Node tooling and strict TypeScript for new application code when Next is introduced. Validate untrusted inputs at their boundary; static checks do not replace content validation or human editorial agreement. Animation work must prefer CSS and native browser APIs with broad desktop and mobile support. Use GSAP when the required behaviour or browser compatibility cannot be covered natively. Respect reduced-motion preferences and cancel animations, observers and timers on interruption or unmount. Existing animations do not require unrelated migrations.
+
+Add dependencies only for a concrete capability. Lock development tools exactly in `package-lock.json`; the generator itself has no runtime dependencies.
 
 ## Atomic implementation plans
 

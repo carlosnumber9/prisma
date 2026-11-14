@@ -15,6 +15,7 @@ import type { ShellRoute } from '../lib/shell-routes';
 import { installRouteFades } from '../lib/route-fades';
 import { HeaderNavigation } from './header-navigation';
 import { HalftoneBackground } from './halftone-background';
+import { Breadcrumbs } from './breadcrumbs';
 import styles from './portal.module.css';
 
 export function ShellFrame({
@@ -71,23 +72,7 @@ export function ShellFrame({
         />
       </header>
       <main id="main-content" className={styles.main} tabIndex={-1}>
-        {route.crumbs.length > 0 && (
-          <nav aria-label={m.breadcrumbs} className={styles.breadcrumbs}>
-            <ol>
-              {route.crumbs.map((crumb) => (
-                <li key={crumb.id}>
-                  <div className={styles.breadcrumbPiece}>
-                    {crumb.href ? (
-                      <Link href={crumb.href}>{crumb.label}</Link>
-                    ) : (
-                      <span aria-current="page">{crumb.label}</span>
-                    )}
-                  </div>
-                </li>
-              ))}
-            </ol>
-          </nav>
-        )}
+        <Breadcrumbs crumbs={route.crumbs} label={m.breadcrumbs} />
         {children}
       </main>
       <footer className={styles.footer}>

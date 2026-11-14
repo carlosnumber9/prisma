@@ -9,6 +9,17 @@ export type ShellRoute = {
   crumbs: Crumb[];
 };
 
+export function commonCrumbCount(previous: Crumb[], next: Crumb[]) {
+  let count = 0;
+  while (
+    count < previous.length &&
+    count < next.length &&
+    previous[count]!.id === next[count]!.id
+  )
+    count++;
+  return count;
+}
+
 /** Only navigation labels and colours cross the client boundary, never programme data. */
 export function shellRoutes(locale: Locale, parties: Party[], topics: Topic[]) {
   const m = dictionaries[locale];
