@@ -4,7 +4,6 @@ import {
   citationLocation,
   citationUrl,
   formatDate,
-  reviewLabel,
   synthesisState,
 } from '../lib/presentation';
 import styles from './portal.module.css';
@@ -30,31 +29,16 @@ export function SynthesisReader({
     );
   return (
     <>
-      <div className={styles.review}>
-        <p>
-          <strong>{reviewLabel(synthesis.reviewStatus, locale)}</strong> ·{' '}
-          {m.revision} {synthesis.revision}
-        </p>
-        {synthesis.reviewedAt && (
-          <p>
-            {m.reviewedOn}{' '}
-            <time dateTime={synthesis.reviewedAt}>
-              {formatDate(synthesis.reviewedAt, locale)}
-            </time>
-          </p>
-        )}
-        {state === 'partial' && <p>{m.partialNote}</p>}
-      </div>
       {state === 'reviewed-empty' ? (
         <section
           className={styles.empty}
           aria-labelledby="reviewed-empty-heading"
         >
           <h2 id="reviewed-empty-heading">{m.noProposals}</h2>
-          <p>{m.emptyReview}</p>
+          <p>{m.emptyDescription}</p>
         </section>
       ) : (
-        <section aria-label={m.reviewedProposals} className={styles.points}>
+        <section aria-label={m.proposals} className={styles.points}>
           {synthesis.points.map((point) => (
             <article key={point.id} id={point.id} className={styles.point}>
               <h2>{point.title[locale]}</h2>

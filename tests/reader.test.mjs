@@ -9,7 +9,6 @@ import {
   readPublicContent,
 } from '../src/lib/content.ts';
 import { dictionaries, locales } from '../src/lib/i18n.ts';
-import { reviewLabel } from '../src/lib/presentation.ts';
 const { SynthesisReader } = await import('../src/components/synthesis.tsx');
 const { Directory } = await import('../src/components/directory.tsx');
 const { PartyBanner } = await import('../src/components/party-banner.tsx');
@@ -134,7 +133,6 @@ test('disabled directory areas expose native disabled buttons without destinatio
           {
             label: 'Available area',
             href: '/parties/fixture/available',
-            status: 'partial',
           },
         ],
       }),
@@ -144,11 +142,11 @@ test('disabled directory areas expose native disabled buttons without destinatio
     assert.ok(!html.includes('/fixture/empty'));
     assert.ok(!html.includes(dictionaries[locale].pending));
     assert.ok(html.includes(`href="/${locale}/parties/fixture/available"`));
-    assert.ok(html.includes(reviewLabel('partial', locale)));
+    assert.ok(!html.includes('entryStatus'));
   }
 });
 
-test('directory buttons retain localized destinations, review states and empty-catalogue messages in both layouts', () => {
+test('directory buttons retain localized destinations, titles and empty-catalogue messages in both layouts', () => {
   const statuses = ['pending', 'partial', 'complete'];
   for (const locale of locales) {
     for (const columns of [false, true]) {
@@ -159,7 +157,6 @@ test('directory buttons retain localized destinations, review states and empty-c
           entries: statuses.map((status) => ({
             label: `Synthetic ${status}`,
             href: `/parties/fixture/${status}`,
-            status,
           })),
         }),
       );
@@ -171,7 +168,7 @@ test('directory buttons retain localized destinations, review states and empty-c
           anchor.includes(`href="/${locale}/parties/fixture/${status}"`),
         );
         assert.ok(anchor.includes(`Synthetic ${status}`));
-        assert.ok(anchor.includes(reviewLabel(status, locale)));
+        assert.ok(!anchor.includes('entryStatus'));
       }
       const empty = renderToStaticMarkup(
         createElement(Directory, { locale, columns, entries: [] }),
@@ -276,12 +273,11 @@ test('reviewed markup retains anchors, conditions, escaped quotes and physical s
     assert.ok(html.includes('Synthetic source &lt;text&gt; with a condition.'));
     assert.ok(html.includes('href="https://example.org/program.pdf#page=3"'));
     assert.ok(html.includes('Página 3 (numeración impresa: i)'));
-    assert.ok(html.includes('Revisión 2'));
+    assert.ok(!html.includes('Revisión 2'));
+    assert.ok(!html.includes('Revisado el'));
+    assert.ok(!html.includes('class="review"'));
     assert.ok(html.includes('Fuentes consultadas'));
-    assert.equal(
-      html.includes('La revisión del resto del área sigue pendiente'),
-      status === 'partial',
-    );
+    assert.ok(!html.includes('La revisión del resto del área sigue pendiente'));
   }
 });
 
@@ -290,7 +286,7 @@ test('a complete empty review renders its evidence rather than an unavailable me
     createElement(SynthesisReader, fixture('complete', true)),
   );
   assert.ok(
-    html.includes('Sin propuestas identificadas en el corpus revisado'),
+    html.includes('Sin propuestas identificadas en las fuentes consultadas'),
   );
   assert.ok(html.includes('Synthetic official document'));
   assert.ok(html.includes('Fuentes consultadas'));

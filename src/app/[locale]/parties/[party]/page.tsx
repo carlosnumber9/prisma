@@ -43,10 +43,6 @@ export default async function PartyPage({ params }: Props) {
           return {
             label: topic.label[locale],
             href: synthesis.path,
-            status:
-              synthesis.reviewStatus === 'pending'
-                ? undefined
-                : synthesis.reviewStatus,
             disabled: synthesis.points.length === 0,
           };
         })}

@@ -43,7 +43,6 @@ export default async function TopicPage({ params }: Props) {
           return {
             label: party.name,
             href: synthesis.path,
-            status: synthesis.reviewStatus,
           };
         })}
       />

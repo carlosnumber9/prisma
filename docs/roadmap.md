@@ -14,7 +14,7 @@ This roadmap records agreed direction, not permission to implement every item or
 
 ## Delivery 2 — First verified 2026 corpus: first batch incorporated
 
-Incorporate the first official 2026 programme using `document-program`. Verify official provenance, visual/text extraction fidelity, citations and the review process with real documents. Publish agreed summaries by area, with visible incompleteness when review is partial. Use only official programmes for this election.
+Incorporate the first official 2026 programme using `document-program`. Verify official provenance, visual/text extraction fidelity, citations and the review process with real documents. Publish agreed summaries by area, with partial coverage preserved in editorial records. The current interface omits editorial review details by maintainer decision. Use only official programmes for this election.
 
 The [11 November PP editorial review](../content/reviews/2026-11-11-pp-programme-draft.md) records one preserved 82-page national programme edition and 24 approved multilingual proposals across all eight policy areas. These syntheses are partial while comparison with the second official link remains pending. No separate territorial or sectoral supplement was confirmed in the bounded search.
 
@@ -57,6 +57,8 @@ A local visual prototype adds a vgpu glass prism, white incident light and four 
 CSS Modules apply page-wide official accents where verified, with a neutral fallback. Pending summaries are noindex and excluded from the sitemap; a public domain remains optional and unset. The separate build checks generated content, prerendered HTML and route fallback without a server. Interactive keyboard access, visual contrast and mobile rendering require browser verification. See [portal implementation](portal.md) for the logical implementation units and local checks. No deployment or remote CI success is claimed.
 
 Party pages now use viewport-wide banners after the breadcrumb, optional official fonts and colours from the validated catalogue JSON, and localized official-website badges. Pending captions and the introductory paragraph are removed from these pages; areas without points use native disabled buttons. Existing PP/PSOE colour evidence is preserved in JSON. The maintainer has supplied the shared photograph at `public/images/party-rally.webp`; no official formation fonts are verified yet. The political documentation skill now researches official typography and colour with provenance. All 98 tests, static checks and the 336-page build pass. Standalone Chrome captures at 1440 and 390 pixels verify the banner, badge and disabled grid without horizontal overflow; follow-up desktop/mobile checks against the existing local server verify the supplied photo. The latest treatment renders full-opacity black and white first, then applies a separate colour blend that preserves luminosity; it replaces the dark multiply treatment and limits the contrast gradient to the lower text region. Real official fonts and cross-browser verification remain pending. See [party banners](portal.md#party-banners).
+
+Directory and synthesis views now omit review badges, review dates, revision numbers and partial-review notices. All six interface dictionaries use neutral availability text and metadata. Editorial states, approved programme prose and pending-summary indexing remain unchanged.
 
 ## Delivery 4 — Contextual correction form: pending
 

@@ -1,18 +1,5 @@
 import { dictionaries, text, type Locale } from './i18n.ts';
-import type { Citation, ReviewStatus, Source, Synthesis } from './content.ts';
-
-export const UNAVAILABLE_LABEL = dictionaries.es.pending;
-
-export function reviewLabel(status: ReviewStatus, locale: Locale = 'es') {
-  switch (status) {
-    case 'pending':
-      return dictionaries[locale].pending;
-    case 'partial':
-      return dictionaries[locale].partial;
-    case 'complete':
-      return dictionaries[locale].complete;
-  }
-}
+import type { Citation, Source, Synthesis } from './content.ts';
 
 export function synthesisState(synthesis: Synthesis) {
   if (synthesis.reviewStatus === 'pending') return 'pending';

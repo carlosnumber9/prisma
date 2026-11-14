@@ -9,9 +9,7 @@ import {
   citationLocation,
   citationUrl,
   formatDate,
-  reviewLabel,
   synthesisState,
-  UNAVAILABLE_LABEL,
 } from '../src/lib/presentation.ts';
 import {
   isIndexable,
@@ -172,10 +170,6 @@ test('distinguishes unavailable summaries, partial review and a complete review 
     assert.equal(synthesisState(synthesis), expected);
     assert.equal(isIndexable(synthesis), status !== 'pending');
   }
-  assert.equal(reviewLabel('pending'), UNAVAILABLE_LABEL);
-  assert.equal(UNAVAILABLE_LABEL, 'Resumen todavía no disponible');
-  assert.equal(reviewLabel('partial'), 'Revisión parcial');
-  assert.equal(reviewLabel('complete'), 'Revisión completa');
 });
 
 test('keeps physical PDF pages and printed numbering distinct and resolves real HTML anchors', () => {

@@ -267,12 +267,6 @@
 .entryTitle {
   font-weight: 650;
 }
-.entryStatus {
-  font-size: 0.875rem;
-  font-weight: 400;
-  line-height: 1.5;
-  color: #48555f;
-}
 .topicGrid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -301,14 +295,6 @@
 .note {
   font-size: 0.925rem;
   color: #48555f;
-}
-.review {
-  border-left: 3px solid var(--accent);
-  padding: 0.25rem 0 0.25rem 1.25rem;
-  margin-bottom: 2.5rem;
-}
-.review p {
-  margin-block: 0.35rem;
 }
 .points {
   max-width: 850px;
