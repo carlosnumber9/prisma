@@ -1,0 +1,129 @@
+{
+  "id": "psoe--environment-and-energy",
+  "partyId": "psoe",
+  "topicId": "environment-and-energy",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-renewable-electricity-target",
+      "title": {
+        "es": "81 % de generación eléctrica renovable en 2030",
+        "ca": "81 % de generació elèctrica renovable el 2030",
+        "gl": "81 % de xeración eléctrica renovable en 2030",
+        "eu": "Elektrizitate-sorkuntzaren % 81 berriztagarria 2030ean",
+        "oc": "81 % de generacion electrica renovabla en 2030",
+        "en": "81% renewable electricity generation by 2030"
+      },
+      "text": {
+        "es": "Impulsar las energías renovables para que representen el 81 % de la generación eléctrica en 2030. Priorizar las Zonas de Aceleración Renovable para buscar el máximo consenso social y proteger la biodiversidad y la actividad agrícola y ganadera.",
+        "ca": "Impulsar les energies renovables perquè representin el 81 % de la generació elèctrica el 2030. Prioritzar les Zonas de Aceleración Renovable per buscar el màxim consens social i protegir la biodiversitat i l’activitat agrícola i ramadera.",
+        "gl": "Impulsar as enerxías renovables para que representen o 81 % da xeración eléctrica en 2030. Priorizar as Zonas de Aceleración Renovable para procurar o máximo consenso social e protexer a biodiversidade e a actividade agrícola e gandeira.",
+        "eu": "Energia berriztagarriak bultzatzea, 2030ean elektrizitate-sorkuntzaren % 81 izan daitezen. Zonas de Aceleración Renovable izeneko eremuak lehenestea, ahalik eta adostasun sozial handiena lortzeko eta biodibertsitatea, nekazaritza eta abeltzaintza babesteko.",
+        "oc": "Impulsar es energies renovables entà que representen eth 81 % dera generacion electrica en 2030. Priorizar es Zonas de Aceleración Renovable entà cercar eth maxim consens sociau e protegir era biodiversitat e era activitat agricòla e ramadèra.",
+        "en": "Expand renewable energy to reach 81% of electricity generation by 2030. Prioritise the Zonas de Aceleración Renovable to seek the broadest possible public agreement and protect biodiversity, farming and livestock production."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-65",
+          "quote": "Impulsar el despliegue de energías renovables, para alcanzar el 81% de generación eléctrica en 2030, priorizando su ubicación en las Zonas de Aceleración Renovable para garantizar el máximo consenso social y la compatibilidad con la preservación de la biodiversidad y la actividad agroganadera."
+        }
+      ]
+    },
+    {
+      "id": "psoe-nuclear-plant-closure-schedule",
+      "title": {
+        "es": "Calendario de cierre de las centrales nucleares",
+        "ca": "Calendari de tancament de les centrals nuclears",
+        "gl": "Calendario de peche das centrais nucleares",
+        "eu": "Zentral nuklearrak ixteko egutegia",
+        "oc": "Calendari de barrament des centraus nucleares",
+        "en": "Nuclear power plant closure schedule"
+      },
+      "text": {
+        "es": "Mantener el calendario de cierre de las centrales nucleares hasta 2035. Desarrollar proyectos de transición justa en las comarcas afectadas y conservar las capacidades tecnológicas y el conocimiento vinculados al sector.",
+        "ca": "Mantenir el calendari de tancament de les centrals nuclears fins al 2035. Desenvolupar projectes de transició justa a les comarques afectades i conservar les capacitats tecnològiques i el coneixement vinculats al sector.",
+        "gl": "Manter o calendario de peche das centrais nucleares ata 2035. Desenvolver proxectos de transición xusta nas comarcas afectadas e conservar as capacidades tecnolóxicas e o coñecemento vinculados ao sector.",
+        "eu": "Zentral nuklearrak ixteko egutegiari 2035era arte eustea. Trantsizio justurako proiektuak garatzea eragindako eskualdeetan eta sektoreari lotutako gaitasun teknologikoak eta ezagutza gordetzea.",
+        "oc": "Mantier eth calendari de barrament des centraus nucleares enquiar 2035. Desvolopar projèctes de transicion justa enes comarques afectades e conservar es capacitats tecnologiques e eth coneishement restacadi ath sector.",
+        "en": "Keep the schedule for closing nuclear power plants through 2035. Develop just transition projects in affected districts and preserve the technology capabilities and knowledge associated with the sector."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-66",
+          "quote": "Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas, preservando las capacidades tecnológicas y de conocimiento vinculadas al sector."
+        }
+      ]
+    },
+    {
+      "id": "psoe-climate-adaptation-and-emergency-response",
+      "title": {
+        "es": "Adaptación al cambio climático y respuesta a emergencias",
+        "ca": "Adaptació al canvi climàtic i resposta a emergències",
+        "gl": "Adaptación ao cambio climático e resposta a emerxencias",
+        "eu": "Klima-aldaketara egokitzea eta larrialdiei erantzutea",
+        "oc": "Adaptacion ath cambi climatic e responsa as emergéncies",
+        "en": "Climate adaptation and emergency response"
+      },
+      "text": {
+        "es": "Aprobar una Ley de Adaptación al Cambio Climático y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento. Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación y la respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas.",
+        "ca": "Aprovar una Ley de Adaptación al Cambio Climático i reforçar l’execució del Plan Nacional de Adaptación amb més recursos i mecanismes de seguiment. Crear l’Agencia Estatal de Protección Civil y Emergencias per millorar la coordinació i la resposta davant de riscos i catàstrofes, en col·laboració amb les comunitats autònomes.",
+        "gl": "Aprobar unha Ley de Adaptación al Cambio Climático e reforzar a execución do Plan Nacional de Adaptación con máis recursos e mecanismos de seguimento. Crear a Agencia Estatal de Protección Civil y Emergencias para mellorar a coordinación e a resposta ante riscos e catástrofes, en colaboración coas comunidades autónomas.",
+        "eu": "Ley de Adaptación al Cambio Climático izeneko legea onartzea eta Plan Nacional de Adaptación izeneko plana gauzatzeko lana indartzea, baliabide eta jarraipen-mekanismo gehiagorekin. Agencia Estatal de Protección Civil y Emergencias izeneko agentzia sortzea, arriskuen eta hondamendien aurreko koordinazioa eta erantzuna hobetzeko, autonomia-erkidegoekin elkarlanean.",
+        "oc": "Aprovar ua Ley de Adaptación al Cambio Climático e refortilhar era execucion deth Plan Nacional de Adaptación damb mès recorsi e mecanismes de seguiment. Crear era Agencia Estatal de Protección Civil y Emergencias entà melhorar era coordinacion e era responsa deuant de risqui e catastròfes, en collaboracion damb es comunitats autonòmes.",
+        "en": "Pass a Ley de Adaptación al Cambio Climático and strengthen implementation of the Plan Nacional de Adaptación with more resources and monitoring. Create the Agencia Estatal de Protección Civil y Emergencias to improve coordination and response to risks and disasters, working with the autonomous communities."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-67",
+          "quote": "Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación y la capacidad de respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-67",
+          "quote": "Aprobar una Ley de Adaptación al Cambio Climático y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento."
+        }
+      ]
+    },
+    {
+      "id": "psoe-biodiversity-and-ecosystem-protection",
+      "title": {
+        "es": "Protección de ecosistemas terrestres y marinos",
+        "ca": "Protecció dels ecosistemes terrestres i marins",
+        "gl": "Protección dos ecosistemas terrestres e mariños",
+        "eu": "Lehorreko eta itsasoko ekosistemen babesa",
+        "oc": "Proteccion des ecosistèmes terrèstres e marins",
+        "en": "Protection for land and marine ecosystems"
+      },
+      "text": {
+        "es": "Impulsar la restauración de ecosistemas terrestres y marinos degradados mediante el Plan Nacional de Restauración de la Naturaleza. Avanzar en la conservación efectiva de especies amenazadas y espacios de alto valor ecológico, con el objetivo de proteger al menos el 30 % de los ecosistemas y dar protección estricta a hasta el 10 % de las áreas marinas.",
+        "ca": "Impulsar la restauració d’ecosistemes terrestres i marins degradats mitjançant el Plan Nacional de Restauración de la Naturaleza. Avançar en la conservació efectiva d’espècies amenaçades i espais d’alt valor ecològic, amb l’objectiu de protegir almenys el 30 % dels ecosistemes i donar protecció estricta a fins al 10 % de les àrees marines.",
+        "gl": "Impulsar a restauración de ecosistemas terrestres e mariños degradados mediante o Plan Nacional de Restauración de la Naturaleza. Avanzar na conservación efectiva de especies ameazadas e espazos de alto valor ecolóxico, co obxectivo de protexer polo menos o 30 % dos ecosistemas e dar protección estrita ata ao 10 % das áreas mariñas.",
+        "eu": "Hondatutako lehorreko eta itsasoko ekosistemen lehengoratzea bultzatzea, Plan Nacional de Restauración de la Naturaleza izeneko planaren bidez. Mehatxatutako espezieen eta balio ekologiko handiko eremuen kontserbazio eraginkorrean aurrera egitea, ekosistemen % 30 gutxienez babesteko eta itsas eremuen % 10eraino babes zorrotza emateko helburuarekin.",
+        "oc": "Impulsar era restauracion des ecosistèmes terrèstres e marins degradadi a trauès deth Plan Nacional de Restauración de la Naturaleza. Auançar ena conservacion efectiva des espècies menaçades e des espacis de naut valor ecologic, damb er objectiu de protegir aumens eth 30 % des ecosistèmes e de dar proteccion estricta enquiar 10 % des airaus marins.",
+        "en": "Promote restoration of degraded land and marine ecosystems through the Plan Nacional de Restauración de la Naturaleza. Improve conservation of threatened species and areas of high ecological value, aiming to protect at least 30% of ecosystems and place up to 10% of marine areas under strict protection."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-72",
+          "quote": "Impulsar la restauración y recuperación de ecosistemas degradados, tanto marinos como terrestres, desarrollando el Plan Nacional de Restauración de la Naturaleza"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-72",
+          "quote": "avanzando hacia la conservación efectiva de las especies amenazadas y de los espacios de alto valor ecológico, protegiendo al menos el 30 % de los ecosistemas y hasta el 10% de las áreas marinas con protección estricta."
+        }
+      ]
+    }
+  ]
+}

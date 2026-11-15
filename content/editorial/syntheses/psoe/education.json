@@ -1,0 +1,134 @@
+{
+  "id": "psoe--education",
+  "partyId": "psoe",
+  "topicId": "education",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-universal-early-years-education",
+      "title": {
+        "es": "Educación universal de 0 a 3 años",
+        "ca": "Educació universal de 0 a 3 anys",
+        "gl": "Educación universal de 0 a 3 anos",
+        "eu": "0 eta 3 urte bitarteko hezkuntza unibertsala",
+        "oc": "Educacion universau de 0 a 3 ans",
+        "en": "Universal education from birth to age three"
+      },
+      "text": {
+        "es": "Universalizar la educación de 0 a 3 años, promover su plena incorporación al sistema educativo, ampliar progresivamente la oferta de escuelas infantiles públicas y reducir el número de alumnos por aula.",
+        "ca": "Universalitzar l’educació de 0 a 3 anys, promoure’n la plena incorporació al sistema educatiu, ampliar progressivament l’oferta d’escoles bressol públiques i reduir el nombre d’alumnes per aula.",
+        "gl": "Universalizar a educación de 0 a 3 anos, promover a súa plena incorporación ao sistema educativo, ampliar progresivamente a oferta de escolas infantís públicas e reducir o número de alumnos por aula.",
+        "eu": "0 eta 3 urte bitarteko hezkuntza unibertsalizatzea, hezkuntza-sisteman erabat txertatzea sustatuz, haur-eskola publikoen eskaintza pixkanaka handituz eta ikasgela bakoitzeko ikasle kopurua murriztuz.",
+        "oc": "Universalizar era educacion de 0 a 3 ans, promòir era sua incorporacion plea ath sistèma educatiu, aumentar progressivaments era aufèrta d’escòles infantiles publiques e redusir eth nombre d’escolans per aula.",
+        "en": "Make education from birth to age three universal, promote its full inclusion in the education system, gradually expand public nursery provision and reduce class sizes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-51",
+          "quote": "Universalizar la educación de 0 a 3 años, promoviendo su inclusión plena en el sistema, aumentando progresivamente la oferta de escuelas infantiles públicas,"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-52",
+          "quote": "reduciendo el número de alumnos por aula"
+        }
+      ]
+    },
+    {
+      "id": "psoe-early-school-leaving-target",
+      "title": {
+        "es": "Abandono escolar temprano por debajo del 10 %",
+        "ca": "Abandonament escolar prematur per sota del 10 %",
+        "gl": "Abandono escolar temperán por baixo do 10 %",
+        "eu": "Eskola-uzte goiztiarra % 10etik behera",
+        "oc": "Abandon escolar precòç per dejós deth 10 %",
+        "en": "Early school leaving below 10%"
+      },
+      "text": {
+        "es": "Reducir la tasa de abandono escolar temprano por debajo del 10 % antes de 2030. Reforzar la prevención, el apoyo, las segundas oportunidades y las unidades de acompañamiento y orientación familiar.",
+        "ca": "Reduir la taxa d’abandonament escolar prematur per sota del 10 % abans del 2030. Reforçar la prevenció, el suport, les segones oportunitats i les unitats d’acompanyament i orientació familiar.",
+        "gl": "Reducir a taxa de abandono escolar temperán por baixo do 10 % antes de 2030. Reforzar a prevención, o apoio, as segundas oportunidades e as unidades de acompañamento e orientación familiar.",
+        "eu": "Eskola-uzte goiztiarraren tasa % 10etik behera jaistea 2030 baino lehen. Prebentzioa, laguntza, bigarren aukerak eta familiei laguntzeko eta orientazioa emateko unitateak indartzea.",
+        "oc": "Redusir era taxa d’abandon escolar precòç per dejós deth 10 % abans de 2030. Reforçar era prevencion, eth supòrt, es segones oportunitats e es unitats d’acompanhament e orientacion familhau.",
+        "en": "Reduce the early school leaving rate to below 10% before 2030. Strengthen prevention, support, second-chance opportunities and units that support and advise families."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-52",
+          "quote": "Reducir la tasa de abandono escolar temprano por debajo del 10% antes de 2030"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-52",
+          "quote": "las segundas oportunidades y las unidades de acompañamiento y orientación familiar."
+        }
+      ]
+    },
+    {
+      "id": "psoe-public-vocational-education-places",
+      "title": {
+        "es": "Más plazas públicas de FP de grado medio y superior",
+        "ca": "Més places públiques d’FP de grau mitjà i superior",
+        "gl": "Máis prazas públicas de FP de grao medio e superior",
+        "eu": "Lanbide Heziketako erdi- eta goi-mailako plaza publiko gehiago",
+        "oc": "Mès places publiques de formacion professionau de grad mejan e superior",
+        "en": "More public places in intermediate and advanced vocational education"
+      },
+      "text": {
+        "es": "Fomentar la ampliación de las plazas públicas de Formación Profesional de grado medio y superior para que nadie se quede sin la formación que quiere cursar por falta de oferta.",
+        "ca": "Fomentar l’ampliació de les places públiques de formació professional de grau mitjà i superior perquè ningú es quedi sense la formació que vol cursar per manca d’oferta.",
+        "gl": "Fomentar a ampliación das prazas públicas de formación profesional de grao medio e superior para que ninguén quede sen a formación que quere cursar por falta de oferta.",
+        "eu": "Lanbide Heziketako erdi- eta goi-mailako plaza publikoen kopurua handitzea sustatzea, eskaintza faltagatik inor egin nahi duen prestakuntzarik gabe gera ez dadin.",
+        "oc": "Fomentar er aument des places publiques de formacion professionau de grad mejan e superior entà que degun se quede sense era formacion que vò cursar per manca d’aufèrta.",
+        "en": "Promote an increase in public places in intermediate and advanced vocational education so no one misses out on their preferred training because of a shortage of places."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-53",
+          "quote": "Fomentar la ampliación de las plazas públicas de Formación Profesional Media y Superior"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-53",
+          "quote": "asegurando que nadie quede sin acceso a la formación deseada por falta de oferta."
+        }
+      ]
+    },
+    {
+      "id": "psoe-first-year-public-university-tuition",
+      "title": {
+        "es": "Gratuidad de la matrícula del primer curso de grado",
+        "ca": "Gratuïtat de la matrícula del primer curs de grau",
+        "gl": "Gratuidade da matrícula do primeiro curso de grao",
+        "eu": "Graduko lehen ikasturteko doako matrikula",
+        "oc": "Matrícula gratuïta deth prumèr cors de grad",
+        "en": "Free first-year tuition at public universities"
+      },
+      "text": {
+        "es": "Impulsar que la matrícula del primer curso de grado sea gratuita en todas las universidades públicas del país.",
+        "ca": "Impulsar que la matrícula del primer curs de grau sigui gratuïta a totes les universitats públiques del país.",
+        "gl": "Impulsar que a matrícula do primeiro curso de grao sexa gratuíta en todas as universidades públicas do país.",
+        "eu": "Herrialdeko unibertsitate publiko guztietan graduko lehen ikasturteko matrikula doakoa izan dadin sustatzea.",
+        "oc": "Impulsar qu’era matrícula deth prumèr cors de grad sigue gratuïta en totes es universitats publiques deth país.",
+        "en": "Promote free tuition in the first year of undergraduate degrees at public universities nationwide."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-54",
+          "quote": "Impulsar la gratuidad de la matrícula del primer curso de grado en las universidades públicas de todo el país."
+        }
+      ]
+    }
+  ]
+}

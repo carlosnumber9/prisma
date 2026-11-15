@@ -1,0 +1,154 @@
+{
+  "id": "psoe--housing",
+  "partyId": "psoe",
+  "topicId": "housing",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-housing-access-funding",
+      "title": {
+        "es": "Un 1 % del PIB anual para garantizar el acceso a la vivienda",
+        "ca": "Un 1 % del PIB anual per garantir l’accés a l’habitatge",
+        "gl": "Un 1 % do PIB anual para garantir o acceso á vivenda",
+        "eu": "BPGaren % 1 urtero etxebizitza eskuratzea bermatzeko",
+        "oc": "Un 1 % deth PIB cada an entà garantir er accès ar abitatge",
+        "en": "1% of GDP each year to guarantee access to housing"
+      },
+      "text": {
+        "es": "Movilizar cada año un 1 % del PIB para garantizar el acceso a la vivienda. Se sumarían todas las administraciones públicas y el ICO a través del Fondo España Crece.",
+        "ca": "Mobilitzar cada any un 1 % del PIB per garantir l’accés a l’habitatge. S’hi sumarien totes les administracions públiques i l’ICO a través del Fondo España Crece.",
+        "gl": "Mobilizar cada ano un 1 % do PIB para garantir o acceso á vivenda. Sumaríanse todas as administracións públicas e o ICO a través do Fondo España Crece.",
+        "eu": "Urtero BPGaren % 1 mobilizatzea etxebizitza eskuratzea bermatzeko. Herri-administrazio guztiek eta ICOk bat egingo lukete ahalegin horrekin Fondo España Crece funtsaren bidez.",
+        "oc": "Mobilizar cada an un 1 % deth PIB entà garantir er accès ar abitatge. Se somarien ad aguest esfòrç totes es administracions publiques e er ICO a trauès deth Fondo España Crece.",
+        "en": "Mobilise 1% of GDP each year to guarantee access to housing. All public administrations and the ICO would join the effort through the Fondo España Crece."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-27",
+          "quote": "Movilizar anualmente un 1% del PIB para garantizar el acceso a la vivienda."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-27",
+          "quote": "Se unirán a este esfuerzo todas las administraciones públicas y el ICO a través del Fondo España Crece."
+        }
+      ]
+    },
+    {
+      "id": "psoe-state-affordable-housing-stock",
+      "title": {
+        "es": "Parque estatal de 100.000 viviendas asequibles",
+        "ca": "Parc estatal de 100.000 habitatges assequibles",
+        "gl": "Parque estatal de 100.000 vivendas accesibles",
+        "eu": "Prezio eskuragarriko 100.000 etxebizitzako estatu-parkea",
+        "oc": "Parc estatau de 100.000 abitatges a prètz assequible",
+        "en": "State stock of 100,000 affordable homes"
+      },
+      "text": {
+        "es": "Constituir, a través de CASA 47, un parque público estatal de 100.000 viviendas mediante la construcción y la compra. Se destinarían a la venta o al alquiler estable a precios asequibles y se sumarían a las viviendas que promuevan las comunidades autónomas y las entidades locales.",
+        "ca": "Constituir, a través de CASA 47, un parc públic estatal de 100.000 habitatges mitjançant la construcció i la compra. Es destinarien a la venda o al lloguer estable a preus assequibles i se sumarien als habitatges que promoguin les comunitats autònomes i les entitats locals.",
+        "gl": "Constituír, a través de CASA 47, un parque público estatal de 100.000 vivendas mediante a construción e a compra. Destinaríanse á venda ou ao alugueiro estable a prezos accesibles e sumaríanse ás vivendas que promovan as comunidades autónomas e as entidades locais.",
+        "eu": "CASA 47ren bidez, Estatuko 100.000 etxebizitza publikoko parkea osatzea, etxebizitzak eraikiz eta erosiz. Prezio eskuragarrian saldu edo modu egonkorrean alokatuko lirateke, eta autonomia-erkidegoek eta toki-erakundeek sustatutako etxebizitzei gehituko litzaizkieke.",
+        "oc": "Constituïr, a trauès de CASA 47, un parc public estatau de 100.000 abitatges en tot bastir-ne e crompar-ne. Se destinarien ara venda o ath loguèr estable a prètz assequible e se somarien as abitatges promogudi pes comunitats autonòmes e es entitats locaus.",
+        "en": "Build and buy homes through CASA 47 to create a state-owned stock of 100,000 public homes. They would be sold or let on stable terms at affordable prices, adding to homes provided by autonomous communities and local authorities."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-28",
+          "quote": "Consolidar CASA 47 como un actor clave en el mercado de la vivienda asequible"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-28",
+          "quote": "Constituir un parque público estatal de 100.000 viviendas mediante la construcción y adquisición"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-28",
+          "quote": "la venta o alquiler estable a precio asequible"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-28",
+          "quote": "que se sumarán a las promovidas por las comunidades autónomas y las entidades locales"
+        }
+      ]
+    },
+    {
+      "id": "psoe-longer-leases-and-rent-freeze",
+      "title": {
+        "es": "Contratos de alquiler más largos y congelación temporal de rentas",
+        "ca": "Contractes de lloguer més llargs i congelació temporal de rendes",
+        "gl": "Contratos de alugueiro máis longos e conxelación temporal das rendas",
+        "eu": "Alokairu-kontratu luzeagoak eta errentak aldi baterako izoztea",
+        "oc": "Contractes de loguèr mès longui e congelacion temporau des rendes",
+        "en": "Longer leases and a temporary rent freeze"
+      },
+      "text": {
+        "es": "Ampliar la duración de los contratos de alquiler. En los mercados tensionados, congelar temporalmente las rentas que superen los índices de referencia.",
+        "ca": "Allargar la durada dels contractes de lloguer. Als mercats tensionats, congelar temporalment les rendes que superin els índexs de referència.",
+        "gl": "Ampliar a duración dos contratos de alugueiro. Nos mercados tensionados, conxelar temporalmente as rendas que superen os índices de referencia.",
+        "eu": "Alokairu-kontratuen iraupena luzatzea. Tentsiopeko merkatuetan, erreferentzia-indizeak gainditzen dituzten alokairu-errentak aldi baterako izoztea.",
+        "oc": "Alongar era durada des contractes de loguèr. Enes mercats tensionadi, congelar temporauments es rendes que siguen per dessús des indèxs de referéncia.",
+        "en": "Extend the duration of rental contracts. In areas with strained housing markets, temporarily freeze rents above the reference indices."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-30",
+          "quote": "Ampliar la duración de los contratos de arrendamiento"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-30",
+          "quote": "Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados."
+        }
+      ]
+    },
+    {
+      "id": "psoe-progressive-tax-on-housing-holdings",
+      "title": {
+        "es": "Impuesto a grandes propietarios y fondos buitre",
+        "ca": "Impost als grans propietaris i als fons voltor",
+        "gl": "Imposto aos grandes propietarios e aos fondos voitre",
+        "eu": "Zerga jabe handiei eta funts putreei",
+        "oc": "Impòst as grani proprietaris e as hons voltors",
+        "en": "Tax on large property owners and vulture funds"
+      },
+      "text": {
+        "es": "Aplicar un impuesto progresivo a los grandes propietarios y a los fondos buitre por las viviendas que no destinen al alquiler residencial asequible. Afectaría a viviendas de uso turístico, vacías o alquiladas a precios abusivos.",
+        "ca": "Aplicar un impost progressiu als grans propietaris i als fons voltor pels habitatges que no destinin al lloguer residencial assequible. Afectaria els habitatges d’ús turístic, buits o llogats a preus abusius.",
+        "gl": "Aplicar un imposto progresivo aos grandes propietarios e aos fondos voitre polas vivendas que non destinen ao alugueiro residencial accesible. Afectaría as vivendas de uso turístico, baleiras ou alugadas a prezos abusivos.",
+        "eu": "Zerga progresiboa ezartzea jabe handiei eta funts putreei, prezio eskuragarriko bizitegi-alokairura bideratzen ez dituzten etxebizitzengatik. Turismo-erabilerako etxebizitzei, hutsik daudenei eta neurriz kanpoko prezioetan alokatuta daudenei eragingo lieke.",
+        "oc": "Aplicar un impòst progressiu as grani proprietaris e as hons voltors pes abitatges que non destinen ath loguèr residenciau a prètz assequible. Afectarie es abitatges d’us toristic, uets o logadi a prètzi abusius.",
+        "en": "Apply a progressive tax to large property owners and vulture funds on homes they do not make available for affordable residential rental. It would apply to tourist accommodation, vacant homes and homes let at excessive rents."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-31",
+          "quote": "Se gravará con un impuesto progresivo la posesión de todas aquellas viviendas de grandes propietarios y fondos buitre"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-31",
+          "quote": "que no se destinen a alquiler residencial"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-32",
+          "quote": "asequible. Las viviendas que se dediquen a fines turísticos, que estén vacías, o que se pongan en alquiler a un precio abusivo serán objeto de este nuevo impuesto."
+        }
+      ]
+    }
+  ]
+}

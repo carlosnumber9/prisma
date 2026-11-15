@@ -1,0 +1,134 @@
+{
+  "id": "psoe--employment",
+  "partyId": "psoe",
+  "topicId": "employment",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-minimum-wage-floor",
+      "title": {
+        "es": "Salario mínimo por encima del 60 % del salario medio",
+        "ca": "Salari mínim per sobre del 60 % del salari mitjà",
+        "gl": "Salario mínimo por riba do 60 % do salario medio",
+        "eu": "Gutxieneko soldata, batez besteko soldataren % 60tik gora",
+        "oc": "Salari minim per dessús deth 60 % deth salari mejan",
+        "en": "Minimum wage above 60% of the average wage"
+      },
+      "text": {
+        "es": "Fijar por ley el salario mínimo interprofesional por encima del 60 % del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad y las necesidades de las personas trabajadoras. Garantizar que las subidas se reflejen en la nómina y no se compensen reduciendo los complementos salariales.",
+        "ca": "Fixar per llei el salari mínim interprofessional per sobre del 60 % del salari mitjà i actualitzar-lo periòdicament segons els preus, els salaris, la productivitat i les necessitats de les persones treballadores. Garantir que les pujades es reflecteixin en la nòmina i no es compensin reduint els complements salarials.",
+        "gl": "Fixar por lei o salario mínimo interprofesional por riba do 60 % do salario medio e actualizalo periodicamente segundo os prezos, os salarios, a produtividade e as necesidades das persoas traballadoras. Garantir que as subas se reflictan na nómina e non se compensen reducindo os complementos salariais.",
+        "eu": "Lanbide arteko gutxieneko soldata batez besteko soldataren % 60tik gora ezartzea legez, eta aldian behin eguneratzea, prezioak, soldatak, produktibitatea eta langileen beharrak kontuan hartuta. Igoerak nominan islatzen direla eta soldata-osagarriak murriztuz konpentsatzen ez direla bermatzea.",
+        "oc": "Fixar per lei eth salari minim interprofessionau per dessús deth 60 % deth salari mejan e actualizar-lo periodicament segontes es prètzi, es salaris, era productivitat e es besonhs des trabalhadors. Garantir qu’es pujades se reflectisquen ena nomina e non se compensen en tot redusir es complements salariaus.",
+        "en": "Set the statutory minimum wage above 60% of the average wage and update it regularly based on prices, wages, productivity and workers’ needs. Ensure increases are reflected in pay and are not offset by cuts to wage supplements."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-37",
+          "quote": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad y las necesidades de las personas trabajadoras, garantizando que cada subida mejore efectivamente la nómina y no quede neutralizada por la absorción de complementos salariales."
+        }
+      ]
+    },
+    {
+      "id": "psoe-shorter-working-week",
+      "title": {
+        "es": "Jornada de 37,5 horas sin pérdida salarial",
+        "ca": "Jornada de 37,5 hores sense pèrdua salarial",
+        "gl": "Xornada de 37,5 horas sen perda salarial",
+        "eu": "37,5 orduko lanaldia, soldata murriztu gabe",
+        "oc": "Jornada de 37,5 ores sense pèrta de salari",
+        "en": "37.5-hour working week without loss of pay"
+      },
+      "text": {
+        "es": "Completar la reducción de la jornada semanal a 37,5 horas sin pérdida salarial e incentivar que la negociación colectiva avance hacia las 35 horas. Fijar el calendario a partir del diálogo social y prever periodos de transición para facilitar la aplicación en las pymes.",
+        "ca": "Completar la reducció de la jornada setmanal a 37,5 hores sense pèrdua salarial i incentivar que la negociació col·lectiva avanci cap a les 35 hores. Fixar el calendari a partir del diàleg social i preveure períodes de transició per facilitar l’aplicació a les pimes.",
+        "gl": "Completar a redución da xornada semanal a 37,5 horas sen perda salarial e incentivar que a negociación colectiva avance cara ás 35 horas. Fixar o calendario a partir do diálogo social e prever períodos de transición para facilitar a aplicación nas pemes.",
+        "eu": "Asteko lanaldia 37,5 ordura murrizteko prozesua burutzea, soldata murriztu gabe, eta negoziazio kolektiboaren bidez 35 ordurantz aurrera egitea sustatzea. Egutegia elkarrizketa sozialaren bidez ezartzea eta trantsizio-aldiak aurreikustea, enpresa txiki eta ertainek neurria errazago ezar dezaten.",
+        "oc": "Completar era reduccion dera jornada setmanau a 37,5 ores sense pèrta de salari e incentivar qu’era negociacion collectiva auance de cap as 35 ores. Fixar eth calendari a partir deth dialòg sociau e preveir periòdes de transicion entà facilitar era aplicacion enes PME.",
+        "en": "Complete the reduction of the working week to 37.5 hours without loss of pay and encourage progress towards 35 hours through collective bargaining. Set the timetable through social dialogue and provide transition periods to help small and medium-sized businesses implement the change."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-41",
+          "quote": "Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-41",
+          "quote": "sin perder salario. Se aplicará con un calendario que beba del diálogo social y periodos transitorios que faciliten a las pymes su implementación."
+        }
+      ]
+    },
+    {
+      "id": "psoe-unfair-dismissal-remedies",
+      "title": {
+        "es": "Reparación por despido improcedente",
+        "ca": "Reparació per acomiadament improcedent",
+        "gl": "Reparación por despedimento improcedente",
+        "eu": "Bidegabeko kaleratzeagatiko erreparazioa",
+        "oc": "Reparacion per despatxament improcedent",
+        "en": "Remedies for unfair dismissal"
+      },
+      "text": {
+        "es": "Reformar el despido improcedente para que la reparación sea efectiva, proporcionada y disuasoria, teniendo en cuenta las circunstancias y los daños causados. Adaptar la normativa al artículo 24.b de la Carta Social Europea revisada y a las decisiones del Comité Europeo de Derechos Sociales.",
+        "ca": "Reformar l’acomiadament improcedent perquè la reparació sigui efectiva, proporcionada i dissuasiva, tenint en compte les circumstàncies i els danys causats. Adaptar la normativa a l’article 24.b de la Carta Social Europea revisada i a les decisions del Comitè Europeu de Drets Socials.",
+        "gl": "Reformar o despedimento improcedente para que a reparación sexa efectiva, proporcionada e disuasoria, tendo en conta as circunstancias e os danos causados. Adaptar a normativa ao artigo 24.b da Carta Social Europea revisada e ás decisións do Comité Europeo de Dereitos Sociais.",
+        "eu": "Bidegabeko kaleratzearen araubidea aldatzea, erreparazioa eraginkorra, proportzionatua eta disuasio-eraginekoa izan dadin, inguruabarrak eta eragindako kalteak kontuan hartuta. Araudia Europako Gutun Sozial berrikusiaren 24.b artikulura eta Eskubide Sozialen Europako Batzordearen erabakietara egokitzea.",
+        "oc": "Reformar eth despatxament improcedent entà qu’era reparacion sigue efectiva, proporcionada e dissuasiva, en tot tier en compde es circonstàncies e es damatges causadi. Adaptar era normativa ar article 24.b dera Carta Sociau Europèa revisada e as decisions deth Comitat Europèu de Drets Sociaus.",
+        "en": "Reform the rules on unfair dismissal so that remedies are effective, proportionate and a deterrent, taking account of the circumstances and the harm caused. Bring the rules into line with Article 24(b) of the revised European Social Charter and the decisions of the European Committee of Social Rights."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-41",
+          "quote": "Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria, teniendo en cuenta las circunstancias y los daños causados, y adecuar la normativa al artículo 24.b de la Carta Social Europea revisada y a las decisiones del Comité Europeo de Derechos Sociales."
+        }
+      ]
+    },
+    {
+      "id": "psoe-internship-pay-and-unemployment",
+      "title": {
+        "es": "Prácticas remuneradas y protección por desempleo",
+        "ca": "Pràctiques remunerades i protecció per desocupació",
+        "gl": "Prácticas remuneradas e protección por desemprego",
+        "eu": "Praktika ordainduak eta langabeziagatiko babesa",
+        "oc": "Pratiques remunerades e proteccion per caumatge",
+        "en": "Paid placements and unemployment protection"
+      },
+      "text": {
+        "es": "Aprobar el Estatuto del Becario para proteger los derechos de quienes hacen prácticas no laborales en empresas y garantizar su remuneración. Reconocer el derecho a la protección por desempleo tanto en las prácticas curriculares como en las extracurriculares.",
+        "ca": "Aprovar l’Estatuto del Becario per protegir els drets de les persones que fan pràctiques no laborals en empreses i garantir-ne la remuneració. Reconèixer el dret a la protecció per desocupació tant en les pràctiques curriculars com en les extracurriculars.",
+        "gl": "Aprobar o Estatuto del Becario para protexer os dereitos de quen fai prácticas non laborais en empresas e garantir a súa remuneración. Recoñecer o dereito á protección por desemprego tanto nas prácticas curriculares como nas extracurriculares.",
+        "eu": "Estatuto del Becario onartzea, enpresetan lan-harremanik gabeko praktikak egiten dituztenen eskubideak babesteko eta praktikak ordaintzen direla bermatzeko. Langabeziagatiko babesa jasotzeko eskubidea aitortzea bai curriculumeko praktiketan, bai curriculumetik kanpokoetan.",
+        "oc": "Aprovar er Estatuto del Becario entà protegir es drets des persones que hèn practiques non laboraus en empreses e garantir-ne era remuneracion. Reconéisher eth dret ara proteccion per caumatge tant enes practiques curriculaus coma enes extracurriculaus.",
+        "en": "Pass the Estatuto del Becario, a statute for interns, to protect the rights of people on company placements without an employment relationship and guarantee that their placements are paid. Recognise the right to unemployment protection for placements both within and outside the curriculum."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-42",
+          "quote": "Reconoceremos su derecho a la protección por desempleo, tanto en las prácticas curriculares como en las extracurriculares."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-42",
+          "quote": "aprobar un Estatuto del Becario (Estatuto de las"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-43",
+          "quote": "Prácticas no Laborales en las Empresas) que proteja los derechos de los becarios y blinde las prácticas remuneradas;"
+        }
+      ]
+    }
+  ]
+}

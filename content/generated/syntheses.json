@@ -1027,88 +1027,1253 @@
       "partyId": "psoe",
       "topicId": "economy-and-taxes",
       "path": "/parties/psoe/economy-and-taxes",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-capital-income-tax-brackets",
+          "title": {
+            "es": "Más progresividad en la tributación del capital",
+            "ca": "Més progressivitat en la tributació del capital",
+            "gl": "Máis progresividade na tributación do capital",
+            "eu": "Progresibitate handiagoa kapitalaren errentak zergapetzean",
+            "oc": "Mès progressivitat enes impòsti sus eth capitau",
+            "en": "More progressive taxation of capital income"
+          },
+          "text": {
+            "es": "Mantener los dos primeros tramos de las rentas del capital, del 19 % hasta 6.000 euros y del 21 % hasta 50.000 euros. Subir los tipos de los tramos siguientes hasta alcanzar progresivamente un tipo máximo del 35 % para rentas del capital superiores a 300.000 euros.",
+            "ca": "Mantenir els dos primers trams de les rendes del capital, del 19 % fins a 6.000 euros i del 21 % fins a 50.000 euros. Augmentar els tipus dels trams següents fins a arribar progressivament a un tipus màxim del 35 % per a rendes del capital superiors a 300.000 euros.",
+            "gl": "Manter os dous primeiros tramos das rendas do capital, do 19 % ata 6.000 euros e do 21 % ata 50.000 euros. Subir os tipos dos tramos seguintes ata acadar progresivamente un tipo máximo do 35 % para rendas do capital superiores a 300.000 euros.",
+            "eu": "Kapitalaren errenten lehen bi tarteei eustea, % 19ko tasarekin 6.000 eurora arte eta % 21ekoarekin 50.000 eurora arte. Hurrengo tarteetako tasak igotzea, 300.000 eurotik gorako kapital-errentetarako gehieneko tasa pixkanaka % 35era iritsi arte.",
+            "oc": "Mantier es dus prumèrs trams des rendes deth capitau, deth 19 % enquia 6.000 èuros e deth 21 % enquia 50.000 èuros. Aumentar es tipes des trams següents enquia arténher progressivament un tipe maxim deth 35 % entàs rendes deth capitau superiores a 300.000 èuros.",
+            "en": "Keep the first two capital income tax bands at 19% up to €6,000 and 21% up to €50,000. Raise rates in subsequent bands until the top rate gradually reaches 35% for capital income above €300,000."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-48",
+              "quote": "Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€.",
+              "page": 48,
+              "printedPage": "49"
+            }
+          ]
+        },
+        {
+          "id": "psoe-refundable-dependent-tax-credit",
+          "title": {
+            "es": "Crédito fiscal reembolsable por descendientes",
+            "ca": "Crèdit fiscal reemborsable per descendents",
+            "gl": "Crédito fiscal reembolsable por descendentes",
+            "eu": "Ondorengoengatiko zerga-kreditu itzulgarria",
+            "oc": "Credit fiscau reemborsable per descendents",
+            "en": "Refundable tax credit for children and other descendants"
+          },
+          "text": {
+            "es": "Convertir el mínimo por descendiente del IRPF en un crédito fiscal reembolsable. La medida busca beneficiar a dos millones de hogares de ingresos medios y bajos que no están obligados a presentar declaración o no tienen cuota tributaria.",
+            "ca": "Convertir el mínim per descendent de l’IRPF en un crèdit fiscal reemborsable. La mesura vol beneficiar dos milions de llars d’ingressos mitjans i baixos que no estan obligades a presentar declaració o no tenen quota tributària.",
+            "gl": "Converter o mínimo por descendente do IRPF nun crédito fiscal reembolsable. A medida busca beneficiar dous millóns de fogares de ingresos medios e baixos que non teñen a obriga de presentar declaración ou non teñen cota tributaria.",
+            "eu": "PFEZko ondorengoengatiko gutxienekoa zerga-kreditu itzulgarri bihurtzea. Neurriak diru-sarrera ertain eta txikiko bi milioi etxeri mesede egitea du helburu, baldin eta aitorpena aurkeztu beharrik ez badute edo zerga-kuotarik ez badute.",
+            "oc": "Convertir eth minim per descendent der IRPF en un credit fiscau reemborsable. Era mesura vò beneficiar dus milions de larèrs damb ingrèssi mejans e baishi que non an era obligacion de presentar era declaracion o non an cap de quota tributària.",
+            "en": "Turn the personal income tax allowance for descendants into a refundable tax credit. The measure aims to benefit two million middle- and low-income households that do not have to file a tax return or have no tax liability."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "Convertiremos el mínimo exento por descendiente en el IRPF en un crédito fiscal reembolsable, lo que permitirá que se beneficien de él 2 millones de hogares de ingresos medios y bajos que no tienen obligación de presentar declaración o que carecen de cuota para beneficiarse del mínimo actual.",
+              "page": 49,
+              "printedPage": "50"
+            }
+          ]
+        },
+        {
+          "id": "psoe-productive-investment-fund",
+          "title": {
+            "es": "Inversión productiva y reindustrialización",
+            "ca": "Inversió productiva i reindustrialització",
+            "gl": "Investimento produtivo e reindustrialización",
+            "eu": "Inbertsio produktiboa eta berrindustrializazioa",
+            "oc": "Inversion productiva e reindustrializacion",
+            "en": "Productive investment and reindustrialisation"
+          },
+          "text": {
+            "es": "Impulsar el crecimiento de las empresas, la reindustrialización y la atracción de inversiones estratégicas a través del Fondo España Crece y de nuevos instrumentos de financiación público-privada. Dar especial atención a las pymes y a los territorios con mayor potencial industrial.",
+            "ca": "Impulsar el creixement de les empreses, la reindustrialització i l’atracció d’inversions estratègiques a través del Fondo España Crece i de nous instruments de finançament publicoprivat. Donar una atenció especial a les pimes i als territoris amb més potencial industrial.",
+            "gl": "Impulsar o crecemento das empresas, a reindustrialización e a captación de investimentos estratéxicos a través do Fondo España Crece e de novos instrumentos de financiamento público-privado. Prestar especial atención ás pemes e aos territorios con maior potencial industrial.",
+            "eu": "Enpresen hazkundea eta berrindustrializazioa bultzatzea eta inbertsio estrategikoak erakartzea, Fondo España Crece funtsaren eta finantzaketa publiko-pribatuko tresna berrien bidez. Arreta berezia jartzea enpresa txiki eta ertainetan eta industria-potentzial handiena duten lurraldeetan.",
+            "oc": "Impulsar eth creishement des empreses, era reindustrializacion e era atraccion d’inversions estrategiques a trauès deth Fondo España Crece e de naui instruments de finançament publicoprivat. Dar ua atencion especiau as PME e as territòris damb mès potenciau industriau.",
+            "en": "Use the Fondo España Crece and new public-private financing instruments to help businesses grow, reindustrialise the economy and attract strategic investment. Give particular attention to small and medium-sized businesses and areas with the greatest industrial potential."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-14",
+              "quote": "A través del Fondo España Crece y de nuevos instrumentos de financiación público-privada, impulsaremos el crecimiento de las empresas, la reindustrialización y la atracción de inversiones estratégicas, con especial atención a las pymes y a los territorios con mayor potencial industrial.",
+              "page": 14,
+              "printedPage": "15"
+            }
+          ]
+        },
+        {
+          "id": "psoe-public-research-investment",
+          "title": {
+            "es": "Inversión pública en I+D hasta el 1,5 % del PIB",
+            "ca": "Inversió pública en R+D fins a l’1,5 % del PIB",
+            "gl": "Investimento público en I+D ata o 1,5 % do PIB",
+            "eu": "I+Gko inbertsio publikoa BPGaren % 1,5era arte",
+            "oc": "Inversion publica en R+D enquiar 1,5 % deth PIB",
+            "en": "Public R&D investment to reach 1.5% of GDP"
+          },
+          "text": {
+            "es": "Aumentar cada año la inversión pública en investigación y desarrollo mediante un plan plurianual hasta alcanzar el objetivo legal del 1,25 % del PIB y elevar la meta al 1,5 % del PIB para 2035.",
+            "ca": "Augmentar cada any la inversió pública en recerca i desenvolupament mitjançant un pla plurianual fins a assolir l’objectiu legal de l’1,25 % del PIB i elevar la meta a l’1,5 % del PIB per al 2035.",
+            "gl": "Aumentar cada ano o investimento público en investigación e desenvolvemento mediante un plan plurianual ata alcanzar o obxectivo legal do 1,25 % do PIB e elevar a meta ao 1,5 % do PIB para 2035.",
+            "eu": "Ikerketa eta garapeneko inbertsio publikoa urtero handitzea, urte anitzeko plan baten bidez, legezko helburua den BPGaren % 1,25era iritsi arte, eta helburua BPGaren % 1,5era igotzea 2035erako.",
+            "oc": "Aumentar cada an era inversion publica en recèrca e desvolopament damb un plan plurianau enquia arténher er objectiu legau der 1,25 % deth PIB e eleuar er objectiu ar 1,5 % deth PIB entath 2035.",
+            "en": "Increase public investment in research and development each year under a multi-year plan until it reaches the statutory target of 1.25% of GDP, and raise the target to 1.5% of GDP by 2035."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-16",
+              "quote": "Seguiremos aumentando cada año la inversión pública en I+D con una senda plurianual incorporada al plan fiscal estructural hasta alcanzar el objetivo fijado por la Ley de la Ciencia de 2022 (1,25% del PIB), y aumentando la ambición en este objetivo hasta el 1,5% del PIB para 2035.",
+              "page": 16,
+              "printedPage": "17"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--education",
       "partyId": "psoe",
       "topicId": "education",
       "path": "/parties/psoe/education",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-universal-early-years-education",
+          "title": {
+            "es": "Educación universal de 0 a 3 años",
+            "ca": "Educació universal de 0 a 3 anys",
+            "gl": "Educación universal de 0 a 3 anos",
+            "eu": "0 eta 3 urte bitarteko hezkuntza unibertsala",
+            "oc": "Educacion universau de 0 a 3 ans",
+            "en": "Universal education from birth to age three"
+          },
+          "text": {
+            "es": "Universalizar la educación de 0 a 3 años, promover su plena incorporación al sistema educativo, ampliar progresivamente la oferta de escuelas infantiles públicas y reducir el número de alumnos por aula.",
+            "ca": "Universalitzar l’educació de 0 a 3 anys, promoure’n la plena incorporació al sistema educatiu, ampliar progressivament l’oferta d’escoles bressol públiques i reduir el nombre d’alumnes per aula.",
+            "gl": "Universalizar a educación de 0 a 3 anos, promover a súa plena incorporación ao sistema educativo, ampliar progresivamente a oferta de escolas infantís públicas e reducir o número de alumnos por aula.",
+            "eu": "0 eta 3 urte bitarteko hezkuntza unibertsalizatzea, hezkuntza-sisteman erabat txertatzea sustatuz, haur-eskola publikoen eskaintza pixkanaka handituz eta ikasgela bakoitzeko ikasle kopurua murriztuz.",
+            "oc": "Universalizar era educacion de 0 a 3 ans, promòir era sua incorporacion plea ath sistèma educatiu, aumentar progressivaments era aufèrta d’escòles infantiles publiques e redusir eth nombre d’escolans per aula.",
+            "en": "Make education from birth to age three universal, promote its full inclusion in the education system, gradually expand public nursery provision and reduce class sizes."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-51",
+              "quote": "Universalizar la educación de 0 a 3 años, promoviendo su inclusión plena en el sistema, aumentando progresivamente la oferta de escuelas infantiles públicas,",
+              "page": 51,
+              "printedPage": "52"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-52",
+              "quote": "reduciendo el número de alumnos por aula",
+              "page": 52,
+              "printedPage": "53"
+            }
+          ]
+        },
+        {
+          "id": "psoe-early-school-leaving-target",
+          "title": {
+            "es": "Abandono escolar temprano por debajo del 10 %",
+            "ca": "Abandonament escolar prematur per sota del 10 %",
+            "gl": "Abandono escolar temperán por baixo do 10 %",
+            "eu": "Eskola-uzte goiztiarra % 10etik behera",
+            "oc": "Abandon escolar precòç per dejós deth 10 %",
+            "en": "Early school leaving below 10%"
+          },
+          "text": {
+            "es": "Reducir la tasa de abandono escolar temprano por debajo del 10 % antes de 2030. Reforzar la prevención, el apoyo, las segundas oportunidades y las unidades de acompañamiento y orientación familiar.",
+            "ca": "Reduir la taxa d’abandonament escolar prematur per sota del 10 % abans del 2030. Reforçar la prevenció, el suport, les segones oportunitats i les unitats d’acompanyament i orientació familiar.",
+            "gl": "Reducir a taxa de abandono escolar temperán por baixo do 10 % antes de 2030. Reforzar a prevención, o apoio, as segundas oportunidades e as unidades de acompañamento e orientación familiar.",
+            "eu": "Eskola-uzte goiztiarraren tasa % 10etik behera jaistea 2030 baino lehen. Prebentzioa, laguntza, bigarren aukerak eta familiei laguntzeko eta orientazioa emateko unitateak indartzea.",
+            "oc": "Redusir era taxa d’abandon escolar precòç per dejós deth 10 % abans de 2030. Reforçar era prevencion, eth supòrt, es segones oportunitats e es unitats d’acompanhament e orientacion familhau.",
+            "en": "Reduce the early school leaving rate to below 10% before 2030. Strengthen prevention, support, second-chance opportunities and units that support and advise families."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-52",
+              "quote": "Reducir la tasa de abandono escolar temprano por debajo del 10% antes de 2030",
+              "page": 52,
+              "printedPage": "53"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-52",
+              "quote": "las segundas oportunidades y las unidades de acompañamiento y orientación familiar.",
+              "page": 52,
+              "printedPage": "53"
+            }
+          ]
+        },
+        {
+          "id": "psoe-public-vocational-education-places",
+          "title": {
+            "es": "Más plazas públicas de FP de grado medio y superior",
+            "ca": "Més places públiques d’FP de grau mitjà i superior",
+            "gl": "Máis prazas públicas de FP de grao medio e superior",
+            "eu": "Lanbide Heziketako erdi- eta goi-mailako plaza publiko gehiago",
+            "oc": "Mès places publiques de formacion professionau de grad mejan e superior",
+            "en": "More public places in intermediate and advanced vocational education"
+          },
+          "text": {
+            "es": "Fomentar la ampliación de las plazas públicas de Formación Profesional de grado medio y superior para que nadie se quede sin la formación que quiere cursar por falta de oferta.",
+            "ca": "Fomentar l’ampliació de les places públiques de formació professional de grau mitjà i superior perquè ningú es quedi sense la formació que vol cursar per manca d’oferta.",
+            "gl": "Fomentar a ampliación das prazas públicas de formación profesional de grao medio e superior para que ninguén quede sen a formación que quere cursar por falta de oferta.",
+            "eu": "Lanbide Heziketako erdi- eta goi-mailako plaza publikoen kopurua handitzea sustatzea, eskaintza faltagatik inor egin nahi duen prestakuntzarik gabe gera ez dadin.",
+            "oc": "Fomentar er aument des places publiques de formacion professionau de grad mejan e superior entà que degun se quede sense era formacion que vò cursar per manca d’aufèrta.",
+            "en": "Promote an increase in public places in intermediate and advanced vocational education so no one misses out on their preferred training because of a shortage of places."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-53",
+              "quote": "Fomentar la ampliación de las plazas públicas de Formación Profesional Media y Superior",
+              "page": 53,
+              "printedPage": "54"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-53",
+              "quote": "asegurando que nadie quede sin acceso a la formación deseada por falta de oferta.",
+              "page": 53,
+              "printedPage": "54"
+            }
+          ]
+        },
+        {
+          "id": "psoe-first-year-public-university-tuition",
+          "title": {
+            "es": "Gratuidad de la matrícula del primer curso de grado",
+            "ca": "Gratuïtat de la matrícula del primer curs de grau",
+            "gl": "Gratuidade da matrícula do primeiro curso de grao",
+            "eu": "Graduko lehen ikasturteko doako matrikula",
+            "oc": "Matrícula gratuïta deth prumèr cors de grad",
+            "en": "Free first-year tuition at public universities"
+          },
+          "text": {
+            "es": "Impulsar que la matrícula del primer curso de grado sea gratuita en todas las universidades públicas del país.",
+            "ca": "Impulsar que la matrícula del primer curs de grau sigui gratuïta a totes les universitats públiques del país.",
+            "gl": "Impulsar que a matrícula do primeiro curso de grao sexa gratuíta en todas as universidades públicas do país.",
+            "eu": "Herrialdeko unibertsitate publiko guztietan graduko lehen ikasturteko matrikula doakoa izan dadin sustatzea.",
+            "oc": "Impulsar qu’era matrícula deth prumèr cors de grad sigue gratuïta en totes es universitats publiques deth país.",
+            "en": "Promote free tuition in the first year of undergraduate degrees at public universities nationwide."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-54",
+              "quote": "Impulsar la gratuidad de la matrícula del primer curso de grado en las universidades públicas de todo el país.",
+              "page": 54,
+              "printedPage": "55"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--employment",
       "partyId": "psoe",
       "topicId": "employment",
       "path": "/parties/psoe/employment",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-minimum-wage-floor",
+          "title": {
+            "es": "Salario mínimo por encima del 60 % del salario medio",
+            "ca": "Salari mínim per sobre del 60 % del salari mitjà",
+            "gl": "Salario mínimo por riba do 60 % do salario medio",
+            "eu": "Gutxieneko soldata, batez besteko soldataren % 60tik gora",
+            "oc": "Salari minim per dessús deth 60 % deth salari mejan",
+            "en": "Minimum wage above 60% of the average wage"
+          },
+          "text": {
+            "es": "Fijar por ley el salario mínimo interprofesional por encima del 60 % del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad y las necesidades de las personas trabajadoras. Garantizar que las subidas se reflejen en la nómina y no se compensen reduciendo los complementos salariales.",
+            "ca": "Fixar per llei el salari mínim interprofessional per sobre del 60 % del salari mitjà i actualitzar-lo periòdicament segons els preus, els salaris, la productivitat i les necessitats de les persones treballadores. Garantir que les pujades es reflecteixin en la nòmina i no es compensin reduint els complements salarials.",
+            "gl": "Fixar por lei o salario mínimo interprofesional por riba do 60 % do salario medio e actualizalo periodicamente segundo os prezos, os salarios, a produtividade e as necesidades das persoas traballadoras. Garantir que as subas se reflictan na nómina e non se compensen reducindo os complementos salariais.",
+            "eu": "Lanbide arteko gutxieneko soldata batez besteko soldataren % 60tik gora ezartzea legez, eta aldian behin eguneratzea, prezioak, soldatak, produktibitatea eta langileen beharrak kontuan hartuta. Igoerak nominan islatzen direla eta soldata-osagarriak murriztuz konpentsatzen ez direla bermatzea.",
+            "oc": "Fixar per lei eth salari minim interprofessionau per dessús deth 60 % deth salari mejan e actualizar-lo periodicament segontes es prètzi, es salaris, era productivitat e es besonhs des trabalhadors. Garantir qu’es pujades se reflectisquen ena nomina e non se compensen en tot redusir es complements salariaus.",
+            "en": "Set the statutory minimum wage above 60% of the average wage and update it regularly based on prices, wages, productivity and workers’ needs. Ensure increases are reflected in pay and are not offset by cuts to wage supplements."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-37",
+              "quote": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad y las necesidades de las personas trabajadoras, garantizando que cada subida mejore efectivamente la nómina y no quede neutralizada por la absorción de complementos salariales.",
+              "page": 37,
+              "printedPage": "38"
+            }
+          ]
+        },
+        {
+          "id": "psoe-shorter-working-week",
+          "title": {
+            "es": "Jornada de 37,5 horas sin pérdida salarial",
+            "ca": "Jornada de 37,5 hores sense pèrdua salarial",
+            "gl": "Xornada de 37,5 horas sen perda salarial",
+            "eu": "37,5 orduko lanaldia, soldata murriztu gabe",
+            "oc": "Jornada de 37,5 ores sense pèrta de salari",
+            "en": "37.5-hour working week without loss of pay"
+          },
+          "text": {
+            "es": "Completar la reducción de la jornada semanal a 37,5 horas sin pérdida salarial e incentivar que la negociación colectiva avance hacia las 35 horas. Fijar el calendario a partir del diálogo social y prever periodos de transición para facilitar la aplicación en las pymes.",
+            "ca": "Completar la reducció de la jornada setmanal a 37,5 hores sense pèrdua salarial i incentivar que la negociació col·lectiva avanci cap a les 35 hores. Fixar el calendari a partir del diàleg social i preveure períodes de transició per facilitar l’aplicació a les pimes.",
+            "gl": "Completar a redución da xornada semanal a 37,5 horas sen perda salarial e incentivar que a negociación colectiva avance cara ás 35 horas. Fixar o calendario a partir do diálogo social e prever períodos de transición para facilitar a aplicación nas pemes.",
+            "eu": "Asteko lanaldia 37,5 ordura murrizteko prozesua burutzea, soldata murriztu gabe, eta negoziazio kolektiboaren bidez 35 ordurantz aurrera egitea sustatzea. Egutegia elkarrizketa sozialaren bidez ezartzea eta trantsizio-aldiak aurreikustea, enpresa txiki eta ertainek neurria errazago ezar dezaten.",
+            "oc": "Completar era reduccion dera jornada setmanau a 37,5 ores sense pèrta de salari e incentivar qu’era negociacion collectiva auance de cap as 35 ores. Fixar eth calendari a partir deth dialòg sociau e preveir periòdes de transicion entà facilitar era aplicacion enes PME.",
+            "en": "Complete the reduction of the working week to 37.5 hours without loss of pay and encourage progress towards 35 hours through collective bargaining. Set the timetable through social dialogue and provide transition periods to help small and medium-sized businesses implement the change."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-41",
+              "quote": "Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas.",
+              "page": 41,
+              "printedPage": "42"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-41",
+              "quote": "sin perder salario. Se aplicará con un calendario que beba del diálogo social y periodos transitorios que faciliten a las pymes su implementación.",
+              "page": 41,
+              "printedPage": "42"
+            }
+          ]
+        },
+        {
+          "id": "psoe-unfair-dismissal-remedies",
+          "title": {
+            "es": "Reparación por despido improcedente",
+            "ca": "Reparació per acomiadament improcedent",
+            "gl": "Reparación por despedimento improcedente",
+            "eu": "Bidegabeko kaleratzeagatiko erreparazioa",
+            "oc": "Reparacion per despatxament improcedent",
+            "en": "Remedies for unfair dismissal"
+          },
+          "text": {
+            "es": "Reformar el despido improcedente para que la reparación sea efectiva, proporcionada y disuasoria, teniendo en cuenta las circunstancias y los daños causados. Adaptar la normativa al artículo 24.b de la Carta Social Europea revisada y a las decisiones del Comité Europeo de Derechos Sociales.",
+            "ca": "Reformar l’acomiadament improcedent perquè la reparació sigui efectiva, proporcionada i dissuasiva, tenint en compte les circumstàncies i els danys causats. Adaptar la normativa a l’article 24.b de la Carta Social Europea revisada i a les decisions del Comitè Europeu de Drets Socials.",
+            "gl": "Reformar o despedimento improcedente para que a reparación sexa efectiva, proporcionada e disuasoria, tendo en conta as circunstancias e os danos causados. Adaptar a normativa ao artigo 24.b da Carta Social Europea revisada e ás decisións do Comité Europeo de Dereitos Sociais.",
+            "eu": "Bidegabeko kaleratzearen araubidea aldatzea, erreparazioa eraginkorra, proportzionatua eta disuasio-eraginekoa izan dadin, inguruabarrak eta eragindako kalteak kontuan hartuta. Araudia Europako Gutun Sozial berrikusiaren 24.b artikulura eta Eskubide Sozialen Europako Batzordearen erabakietara egokitzea.",
+            "oc": "Reformar eth despatxament improcedent entà qu’era reparacion sigue efectiva, proporcionada e dissuasiva, en tot tier en compde es circonstàncies e es damatges causadi. Adaptar era normativa ar article 24.b dera Carta Sociau Europèa revisada e as decisions deth Comitat Europèu de Drets Sociaus.",
+            "en": "Reform the rules on unfair dismissal so that remedies are effective, proportionate and a deterrent, taking account of the circumstances and the harm caused. Bring the rules into line with Article 24(b) of the revised European Social Charter and the decisions of the European Committee of Social Rights."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-41",
+              "quote": "Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria, teniendo en cuenta las circunstancias y los daños causados, y adecuar la normativa al artículo 24.b de la Carta Social Europea revisada y a las decisiones del Comité Europeo de Derechos Sociales.",
+              "page": 41,
+              "printedPage": "42"
+            }
+          ]
+        },
+        {
+          "id": "psoe-internship-pay-and-unemployment",
+          "title": {
+            "es": "Prácticas remuneradas y protección por desempleo",
+            "ca": "Pràctiques remunerades i protecció per desocupació",
+            "gl": "Prácticas remuneradas e protección por desemprego",
+            "eu": "Praktika ordainduak eta langabeziagatiko babesa",
+            "oc": "Pratiques remunerades e proteccion per caumatge",
+            "en": "Paid placements and unemployment protection"
+          },
+          "text": {
+            "es": "Aprobar el Estatuto del Becario para proteger los derechos de quienes hacen prácticas no laborales en empresas y garantizar su remuneración. Reconocer el derecho a la protección por desempleo tanto en las prácticas curriculares como en las extracurriculares.",
+            "ca": "Aprovar l’Estatuto del Becario per protegir els drets de les persones que fan pràctiques no laborals en empreses i garantir-ne la remuneració. Reconèixer el dret a la protecció per desocupació tant en les pràctiques curriculars com en les extracurriculars.",
+            "gl": "Aprobar o Estatuto del Becario para protexer os dereitos de quen fai prácticas non laborais en empresas e garantir a súa remuneración. Recoñecer o dereito á protección por desemprego tanto nas prácticas curriculares como nas extracurriculares.",
+            "eu": "Estatuto del Becario onartzea, enpresetan lan-harremanik gabeko praktikak egiten dituztenen eskubideak babesteko eta praktikak ordaintzen direla bermatzeko. Langabeziagatiko babesa jasotzeko eskubidea aitortzea bai curriculumeko praktiketan, bai curriculumetik kanpokoetan.",
+            "oc": "Aprovar er Estatuto del Becario entà protegir es drets des persones que hèn practiques non laboraus en empreses e garantir-ne era remuneracion. Reconéisher eth dret ara proteccion per caumatge tant enes practiques curriculaus coma enes extracurriculaus.",
+            "en": "Pass the Estatuto del Becario, a statute for interns, to protect the rights of people on company placements without an employment relationship and guarantee that their placements are paid. Recognise the right to unemployment protection for placements both within and outside the curriculum."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-42",
+              "quote": "Reconoceremos su derecho a la protección por desempleo, tanto en las prácticas curriculares como en las extracurriculares.",
+              "page": 42,
+              "printedPage": "43"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-42",
+              "quote": "aprobar un Estatuto del Becario (Estatuto de las",
+              "page": 42,
+              "printedPage": "43"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-43",
+              "quote": "Prácticas no Laborales en las Empresas) que proteja los derechos de los becarios y blinde las prácticas remuneradas;",
+              "page": 43,
+              "printedPage": "44"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--environment-and-energy",
       "partyId": "psoe",
       "topicId": "environment-and-energy",
       "path": "/parties/psoe/environment-and-energy",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-renewable-electricity-target",
+          "title": {
+            "es": "81 % de generación eléctrica renovable en 2030",
+            "ca": "81 % de generació elèctrica renovable el 2030",
+            "gl": "81 % de xeración eléctrica renovable en 2030",
+            "eu": "Elektrizitate-sorkuntzaren % 81 berriztagarria 2030ean",
+            "oc": "81 % de generacion electrica renovabla en 2030",
+            "en": "81% renewable electricity generation by 2030"
+          },
+          "text": {
+            "es": "Impulsar las energías renovables para que representen el 81 % de la generación eléctrica en 2030. Priorizar las Zonas de Aceleración Renovable para buscar el máximo consenso social y proteger la biodiversidad y la actividad agrícola y ganadera.",
+            "ca": "Impulsar les energies renovables perquè representin el 81 % de la generació elèctrica el 2030. Prioritzar les Zonas de Aceleración Renovable per buscar el màxim consens social i protegir la biodiversitat i l’activitat agrícola i ramadera.",
+            "gl": "Impulsar as enerxías renovables para que representen o 81 % da xeración eléctrica en 2030. Priorizar as Zonas de Aceleración Renovable para procurar o máximo consenso social e protexer a biodiversidade e a actividade agrícola e gandeira.",
+            "eu": "Energia berriztagarriak bultzatzea, 2030ean elektrizitate-sorkuntzaren % 81 izan daitezen. Zonas de Aceleración Renovable izeneko eremuak lehenestea, ahalik eta adostasun sozial handiena lortzeko eta biodibertsitatea, nekazaritza eta abeltzaintza babesteko.",
+            "oc": "Impulsar es energies renovables entà que representen eth 81 % dera generacion electrica en 2030. Priorizar es Zonas de Aceleración Renovable entà cercar eth maxim consens sociau e protegir era biodiversitat e era activitat agricòla e ramadèra.",
+            "en": "Expand renewable energy to reach 81% of electricity generation by 2030. Prioritise the Zonas de Aceleración Renovable to seek the broadest possible public agreement and protect biodiversity, farming and livestock production."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-65",
+              "quote": "Impulsar el despliegue de energías renovables, para alcanzar el 81% de generación eléctrica en 2030, priorizando su ubicación en las Zonas de Aceleración Renovable para garantizar el máximo consenso social y la compatibilidad con la preservación de la biodiversidad y la actividad agroganadera.",
+              "page": 65,
+              "printedPage": "66"
+            }
+          ]
+        },
+        {
+          "id": "psoe-nuclear-plant-closure-schedule",
+          "title": {
+            "es": "Calendario de cierre de las centrales nucleares",
+            "ca": "Calendari de tancament de les centrals nuclears",
+            "gl": "Calendario de peche das centrais nucleares",
+            "eu": "Zentral nuklearrak ixteko egutegia",
+            "oc": "Calendari de barrament des centraus nucleares",
+            "en": "Nuclear power plant closure schedule"
+          },
+          "text": {
+            "es": "Mantener el calendario de cierre de las centrales nucleares hasta 2035. Desarrollar proyectos de transición justa en las comarcas afectadas y conservar las capacidades tecnológicas y el conocimiento vinculados al sector.",
+            "ca": "Mantenir el calendari de tancament de les centrals nuclears fins al 2035. Desenvolupar projectes de transició justa a les comarques afectades i conservar les capacitats tecnològiques i el coneixement vinculats al sector.",
+            "gl": "Manter o calendario de peche das centrais nucleares ata 2035. Desenvolver proxectos de transición xusta nas comarcas afectadas e conservar as capacidades tecnolóxicas e o coñecemento vinculados ao sector.",
+            "eu": "Zentral nuklearrak ixteko egutegiari 2035era arte eustea. Trantsizio justurako proiektuak garatzea eragindako eskualdeetan eta sektoreari lotutako gaitasun teknologikoak eta ezagutza gordetzea.",
+            "oc": "Mantier eth calendari de barrament des centraus nucleares enquiar 2035. Desvolopar projèctes de transicion justa enes comarques afectades e conservar es capacitats tecnologiques e eth coneishement restacadi ath sector.",
+            "en": "Keep the schedule for closing nuclear power plants through 2035. Develop just transition projects in affected districts and preserve the technology capabilities and knowledge associated with the sector."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-66",
+              "quote": "Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas, preservando las capacidades tecnológicas y de conocimiento vinculadas al sector.",
+              "page": 66,
+              "printedPage": "67"
+            }
+          ]
+        },
+        {
+          "id": "psoe-climate-adaptation-and-emergency-response",
+          "title": {
+            "es": "Adaptación al cambio climático y respuesta a emergencias",
+            "ca": "Adaptació al canvi climàtic i resposta a emergències",
+            "gl": "Adaptación ao cambio climático e resposta a emerxencias",
+            "eu": "Klima-aldaketara egokitzea eta larrialdiei erantzutea",
+            "oc": "Adaptacion ath cambi climatic e responsa as emergéncies",
+            "en": "Climate adaptation and emergency response"
+          },
+          "text": {
+            "es": "Aprobar una Ley de Adaptación al Cambio Climático y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento. Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación y la respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas.",
+            "ca": "Aprovar una Ley de Adaptación al Cambio Climático i reforçar l’execució del Plan Nacional de Adaptación amb més recursos i mecanismes de seguiment. Crear l’Agencia Estatal de Protección Civil y Emergencias per millorar la coordinació i la resposta davant de riscos i catàstrofes, en col·laboració amb les comunitats autònomes.",
+            "gl": "Aprobar unha Ley de Adaptación al Cambio Climático e reforzar a execución do Plan Nacional de Adaptación con máis recursos e mecanismos de seguimento. Crear a Agencia Estatal de Protección Civil y Emergencias para mellorar a coordinación e a resposta ante riscos e catástrofes, en colaboración coas comunidades autónomas.",
+            "eu": "Ley de Adaptación al Cambio Climático izeneko legea onartzea eta Plan Nacional de Adaptación izeneko plana gauzatzeko lana indartzea, baliabide eta jarraipen-mekanismo gehiagorekin. Agencia Estatal de Protección Civil y Emergencias izeneko agentzia sortzea, arriskuen eta hondamendien aurreko koordinazioa eta erantzuna hobetzeko, autonomia-erkidegoekin elkarlanean.",
+            "oc": "Aprovar ua Ley de Adaptación al Cambio Climático e refortilhar era execucion deth Plan Nacional de Adaptación damb mès recorsi e mecanismes de seguiment. Crear era Agencia Estatal de Protección Civil y Emergencias entà melhorar era coordinacion e era responsa deuant de risqui e catastròfes, en collaboracion damb es comunitats autonòmes.",
+            "en": "Pass a Ley de Adaptación al Cambio Climático and strengthen implementation of the Plan Nacional de Adaptación with more resources and monitoring. Create the Agencia Estatal de Protección Civil y Emergencias to improve coordination and response to risks and disasters, working with the autonomous communities."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-67",
+              "quote": "Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación y la capacidad de respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas.",
+              "page": 67,
+              "printedPage": "68"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-67",
+              "quote": "Aprobar una Ley de Adaptación al Cambio Climático y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento.",
+              "page": 67,
+              "printedPage": "68"
+            }
+          ]
+        },
+        {
+          "id": "psoe-biodiversity-and-ecosystem-protection",
+          "title": {
+            "es": "Protección de ecosistemas terrestres y marinos",
+            "ca": "Protecció dels ecosistemes terrestres i marins",
+            "gl": "Protección dos ecosistemas terrestres e mariños",
+            "eu": "Lehorreko eta itsasoko ekosistemen babesa",
+            "oc": "Proteccion des ecosistèmes terrèstres e marins",
+            "en": "Protection for land and marine ecosystems"
+          },
+          "text": {
+            "es": "Impulsar la restauración de ecosistemas terrestres y marinos degradados mediante el Plan Nacional de Restauración de la Naturaleza. Avanzar en la conservación efectiva de especies amenazadas y espacios de alto valor ecológico, con el objetivo de proteger al menos el 30 % de los ecosistemas y dar protección estricta a hasta el 10 % de las áreas marinas.",
+            "ca": "Impulsar la restauració d’ecosistemes terrestres i marins degradats mitjançant el Plan Nacional de Restauración de la Naturaleza. Avançar en la conservació efectiva d’espècies amenaçades i espais d’alt valor ecològic, amb l’objectiu de protegir almenys el 30 % dels ecosistemes i donar protecció estricta a fins al 10 % de les àrees marines.",
+            "gl": "Impulsar a restauración de ecosistemas terrestres e mariños degradados mediante o Plan Nacional de Restauración de la Naturaleza. Avanzar na conservación efectiva de especies ameazadas e espazos de alto valor ecolóxico, co obxectivo de protexer polo menos o 30 % dos ecosistemas e dar protección estrita ata ao 10 % das áreas mariñas.",
+            "eu": "Hondatutako lehorreko eta itsasoko ekosistemen lehengoratzea bultzatzea, Plan Nacional de Restauración de la Naturaleza izeneko planaren bidez. Mehatxatutako espezieen eta balio ekologiko handiko eremuen kontserbazio eraginkorrean aurrera egitea, ekosistemen % 30 gutxienez babesteko eta itsas eremuen % 10eraino babes zorrotza emateko helburuarekin.",
+            "oc": "Impulsar era restauracion des ecosistèmes terrèstres e marins degradadi a trauès deth Plan Nacional de Restauración de la Naturaleza. Auançar ena conservacion efectiva des espècies menaçades e des espacis de naut valor ecologic, damb er objectiu de protegir aumens eth 30 % des ecosistèmes e de dar proteccion estricta enquiar 10 % des airaus marins.",
+            "en": "Promote restoration of degraded land and marine ecosystems through the Plan Nacional de Restauración de la Naturaleza. Improve conservation of threatened species and areas of high ecological value, aiming to protect at least 30% of ecosystems and place up to 10% of marine areas under strict protection."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-72",
+              "quote": "Impulsar la restauración y recuperación de ecosistemas degradados, tanto marinos como terrestres, desarrollando el Plan Nacional de Restauración de la Naturaleza",
+              "page": 72,
+              "printedPage": "73"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-72",
+              "quote": "avanzando hacia la conservación efectiva de las especies amenazadas y de los espacios de alto valor ecológico, protegiendo al menos el 30 % de los ecosistemas y hasta el 10% de las áreas marinas con protección estricta.",
+              "page": 72,
+              "printedPage": "73"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--healthcare",
       "partyId": "psoe",
       "topicId": "healthcare",
       "path": "/parties/psoe/healthcare",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-health-funding-and-waiting-lists",
+          "title": {
+            "es": "Financiación pública de la sanidad en torno al 7 % del PIB",
+            "ca": "Finançament públic de la sanitat al voltant del 7 % del PIB",
+            "gl": "Financiamento público da sanidade arredor do 7 % do PIB",
+            "eu": "Osasunaren finantzaketa publikoa BPGaren % 7 inguruan",
+            "oc": "Finançament public dera sanitat ath torn deth 7 % deth PIB",
+            "en": "Public healthcare funding at around 7% of GDP"
+          },
+          "text": {
+            "es": "Acabar con las listas de espera consolidando la financiación pública de la sanidad en torno al 7 % del PIB, reforzando el carácter público del Sistema Nacional de Salud y aumentando progresivamente la inversión en prevención hasta alcanzar la media europea.",
+            "ca": "Acabar amb les llistes d’espera consolidant el finançament públic de la sanitat al voltant del 7 % del PIB, reforçant el caràcter públic del Sistema Nacional de Salud i augmentant progressivament la inversió en prevenció fins a assolir la mitjana europea.",
+            "gl": "Acabar coas listas de espera consolidando o financiamento público da sanidade arredor do 7 % do PIB, reforzando o carácter público do Sistema Nacional de Salud e aumentando progresivamente o investimento en prevención ata acadar a media europea.",
+            "eu": "Itxaron-zerrendak amaitzea, osasunaren finantzaketa publikoa BPGaren % 7 inguruan sendotuz, Sistema Nacional de Salud sistemaren izaera publikoa indartuz eta prebentziorako inbertsioa pixkanaka handituz, Europako batezbestekora iritsi arte.",
+            "oc": "Acabar damb es listes de demora en tot consolidar eth finançament public dera sanitat ath torn deth 7 % deth PIB, reforçar eth caractèr public deth Sistema Nacional de Salud e aumentar progressivaments era inversion en prevencion enquia arténher era mejana europèa.",
+            "en": "End waiting lists by consolidating public healthcare funding at around 7% of GDP, strengthening the public character of the Sistema Nacional de Salud and gradually increasing investment in prevention until it reaches the European average."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "Acabar con las listas de espera",
+              "page": 49,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "sanidad en torno al 7% del PIB, reforzando el carácter público del Sistema Nacional de Salud",
+              "page": 49,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "aumentando progresivamente la inversión en prevención hasta converger con la media europea.",
+              "page": 49,
+              "printedPage": "50"
+            }
+          ]
+        },
+        {
+          "id": "psoe-public-dental-care-and-aid",
+          "title": {
+            "es": "Atención dental pública y ayuda de hasta 200 euros anuales",
+            "ca": "Atenció dental pública i ajut de fins a 200 euros anuals",
+            "gl": "Atención dental pública e axuda de ata 200 euros anuais",
+            "eu": "Hortz-arreta publikoa eta urtean 200 eurorainoko laguntza",
+            "oc": "Atencion dentau publica e ajuda d’enquia 200 èuros annaus",
+            "en": "Public dental care and aid of up to €200 a year"
+          },
+          "text": {
+            "es": "Con el Plan Sonríe, incorporar progresivamente tratamientos dentales básicos a la sanidad pública para toda la población adulta, empezando por empastes, endodoncias, reconstrucciones y tratamientos periodontales. Mientras tanto, crear una ayuda directa de hasta 200 euros anuales por persona, empezando por los hogares con rentas medias y bajas.",
+            "ca": "Amb el Plan Sonríe, incorporar progressivament tractaments dentals bàsics a la sanitat pública per a tota la població adulta, començant per empastaments, endodòncies, reconstruccions i tractaments periodontals. Mentrestant, crear un ajut directe de fins a 200 euros anuals per persona, començant per les llars amb rendes mitjanes i baixes.",
+            "gl": "Co Plan Sonríe, incorporar progresivamente tratamentos dentais básicos á sanidade pública para toda a poboación adulta, comezando por empastes, endodoncias, reconstrucións e tratamentos periodontais. Mentres tanto, crear unha axuda directa de ata 200 euros anuais por persoa, comezando polos fogares con rendas medias e baixas.",
+            "eu": "Plan Sonríe planaren bidez, heldu guztientzako oinarrizko hortz-tratamenduak pixkanaka osasun-sistema publikoan sartzea, enpasteetatik, endodontzietatik, berreraikuntzetatik eta tratamendu periodontaletatik hasita. Bitartean, urtean eta pertsonako 200 eurorainoko zuzeneko laguntza sortzea, errenta ertain eta apaleko etxeetatik hasita.",
+            "oc": "Damb eth Plan Sonríe, incorporar progressivaments ena sanitat publica tractaments dentaus basics entà tota era poblacion adulta, en tot començar pes empastaments, es endodóncies, es reconstruccions e es tractaments periodontaus. Mentretant, crear ua ajuda dirècta d’enquia 200 èuros annaus per persona, en tot començar pes larèrs damb rendes mejanes e baishes.",
+            "en": "Under the Plan Sonríe, gradually add basic dental treatments to public healthcare for all adults, starting with fillings, root canals, dental restorations and periodontal treatment. In the meantime, create a direct payment of up to €200 per person per year, starting with middle- and low-income households."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "Desplegar el Plan Sonríe: salud bucodental pública.",
+              "page": 49,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "Incorporaremos progresivamente a la sanidad pública los tratamientos básicos para toda la población adulta",
+              "page": 49,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "empezando por empastes, endodoncias, reconstrucciones y tratamientos periodontales.",
+              "page": 49,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-49",
+              "quote": "crearemos una ayuda directa de hasta 200 euros anuales por persona, que empezará por los hogares de rentas medias y bajas",
+              "page": 49,
+              "printedPage": "50"
+            }
+          ]
+        },
+        {
+          "id": "psoe-primary-care-action-plan",
+          "title": {
+            "es": "Refuerzo de la atención primaria más allá de 2027",
+            "ca": "Reforç de l’atenció primària més enllà del 2027",
+            "gl": "Reforzo da atención primaria máis alá de 2027",
+            "eu": "Lehen mailako arreta 2027az harago indartzea",
+            "oc": "Reforç dera atencion primària mès enlà de 2027",
+            "en": "Stronger primary care beyond 2027"
+          },
+          "text": {
+            "es": "Reforzar la atención primaria y garantizar la continuidad de la asistencia con el desarrollo del Plan de Acción de Atención Primaria y Comunitaria más allá de 2027. Reforzar los equipos multidisciplinares y ampliar la capacidad de los centros de salud para diagnosticar y resolver problemas de salud.",
+            "ca": "Reforçar l’atenció primària i garantir la continuïtat assistencial desplegant el Plan de Acción de Atención Primaria y Comunitaria més enllà del 2027. Reforçar els equips multidisciplinaris i ampliar la capacitat dels centres de salut per diagnosticar i resoldre problemes de salut.",
+            "gl": "Reforzar a atención primaria e garantir a continuidade asistencial desenvolvendo o Plan de Acción de Atención Primaria y Comunitaria máis alá de 2027. Reforzar os equipos multidisciplinares e ampliar a capacidade dos centros de saúde para diagnosticar e resolver problemas de saúde.",
+            "eu": "Lehen mailako arreta indartzea eta arretaren jarraitutasuna bermatzea, Plan de Acción de Atención Primaria y Comunitaria plana 2027az harago garatuz. Diziplina anitzeko taldeak indartzea eta osasun-zentroek osasun-arazoak diagnostikatzeko eta konpontzeko duten gaitasuna handitzea.",
+            "oc": "Reforçar era atencion primària e garantir era continuitat dera assisténcia en tot desvolopar eth Plan de Acción de Atención Primaria y Comunitaria mès enlà de 2027. Reforçar es equips multidisciplinaris e aumentar era capacitat des centres de salut entà diagnosticar e resòlver problèmes de salut.",
+            "en": "Strengthen primary care and ensure continuity of care by continuing the Plan de Acción de Atención Primaria y Comunitaria beyond 2027. Strengthen multidisciplinary teams and expand health centres’ capacity to diagnose and manage health problems."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-50",
+              "quote": "Reforzar la atención primaria y garantizar su continuidad asistencial",
+              "page": 50,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-50",
+              "quote": "desarrollando el Plan de Acción de Atención Primaria y Comunitaria más allá de 2027",
+              "page": 50,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-50",
+              "quote": "potenciar los equipos multidisciplinares y ampliar la capacidad diagnóstica y resolutiva de los centros de salud.",
+              "page": 50,
+              "printedPage": "51"
+            }
+          ]
+        },
+        {
+          "id": "psoe-public-psychology-within-thirty-days",
+          "title": {
+            "es": "Atención psicológica gratuita con primera consulta en 30 días como máximo",
+            "ca": "Atenció psicològica gratuïta amb primera visita en 30 dies com a màxim",
+            "gl": "Atención psicolóxica gratuíta con primeira consulta nun máximo de 30 días",
+            "eu": "Doako arreta psikologikoa, lehen kontsulta gehienez 30 egunean",
+            "oc": "Atencion psicologica gratuïta damb ua prumèra consulta en 30 dies coma maxim",
+            "en": "Free psychological care with a first appointment within 30 days"
+          },
+          "text": {
+            "es": "Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con una primera consulta en un máximo de 30 días y atención inmediata en los casos urgentes. Reforzar la presencia de profesionales de psicología clínica, especialmente en atención primaria, y ampliar los programas de salud mental infantil y juvenil y de prevención del suicidio.",
+            "ca": "Garantir el dret a l’atenció psicològica gratuïta en la sanitat pública, amb una primera visita en un màxim de 30 dies i atenció immediata en els casos urgents. Reforçar la presència de professionals de psicologia clínica, especialment en l’atenció primària, i ampliar els programes de salut mental infantil i juvenil i de prevenció del suïcidi.",
+            "gl": "Garantir o dereito á atención psicolóxica gratuíta na sanidade pública, cunha primeira consulta nun máximo de 30 días e atención inmediata nos casos urxentes. Reforzar a presenza de profesionais de psicoloxía clínica, especialmente na atención primaria, e ampliar os programas de saúde mental infantil e xuvenil e de prevención do suicidio.",
+            "eu": "Osasun-sistema publikoan doako arreta psikologikoa jasotzeko eskubidea bermatzea, lehen kontsulta gehienez 30 egunean eta premiazko kasuetan berehalako arreta eskainiz. Psikologia klinikoko profesionalen presentzia indartzea, bereziki lehen mailako arretan, eta haurren eta gazteen osasun mentaleko eta suizidioa prebenitzeko programak zabaltzea.",
+            "oc": "Garantir eth dret ara atencion psicologica gratuïta ena sanitat publica, damb ua prumèra consulta en un maxim de 30 dies e atencion immediata enes casi urgents. Reforçar era preséncia de professionaus de psicologia clinica, especiauments ena atencion primària, e ampliar es programes de salut mentau infantila e juvenila e de prevencion deth suicidi.",
+            "en": "Guarantee the right to free psychological care through public healthcare, with a first appointment within 30 days and immediate care for urgent cases. Strengthen the presence of clinical psychology professionals, especially in primary care, and expand children’s and young people’s mental health programmes and suicide prevention programmes."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-50",
+              "quote": "Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con una primera consulta en un plazo máximo de 30 días.",
+              "page": 50,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-50",
+              "quote": "reforzaremos la presencia de profesionales de psicología clínica en el Sistema Nacional de Salud, especialmente en atención primaria",
+              "page": 50,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-50",
+              "quote": "programas de salud mental infantojuvenil y prevención del suicidio, con atención inmediata para los casos urgentes.",
+              "page": 50,
+              "printedPage": "51"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--housing",
       "partyId": "psoe",
       "topicId": "housing",
       "path": "/parties/psoe/housing",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-housing-access-funding",
+          "title": {
+            "es": "Un 1 % del PIB anual para garantizar el acceso a la vivienda",
+            "ca": "Un 1 % del PIB anual per garantir l’accés a l’habitatge",
+            "gl": "Un 1 % do PIB anual para garantir o acceso á vivenda",
+            "eu": "BPGaren % 1 urtero etxebizitza eskuratzea bermatzeko",
+            "oc": "Un 1 % deth PIB cada an entà garantir er accès ar abitatge",
+            "en": "1% of GDP each year to guarantee access to housing"
+          },
+          "text": {
+            "es": "Movilizar cada año un 1 % del PIB para garantizar el acceso a la vivienda. Se sumarían todas las administraciones públicas y el ICO a través del Fondo España Crece.",
+            "ca": "Mobilitzar cada any un 1 % del PIB per garantir l’accés a l’habitatge. S’hi sumarien totes les administracions públiques i l’ICO a través del Fondo España Crece.",
+            "gl": "Mobilizar cada ano un 1 % do PIB para garantir o acceso á vivenda. Sumaríanse todas as administracións públicas e o ICO a través do Fondo España Crece.",
+            "eu": "Urtero BPGaren % 1 mobilizatzea etxebizitza eskuratzea bermatzeko. Herri-administrazio guztiek eta ICOk bat egingo lukete ahalegin horrekin Fondo España Crece funtsaren bidez.",
+            "oc": "Mobilizar cada an un 1 % deth PIB entà garantir er accès ar abitatge. Se somarien ad aguest esfòrç totes es administracions publiques e er ICO a trauès deth Fondo España Crece.",
+            "en": "Mobilise 1% of GDP each year to guarantee access to housing. All public administrations and the ICO would join the effort through the Fondo España Crece."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-27",
+              "quote": "Movilizar anualmente un 1% del PIB para garantizar el acceso a la vivienda.",
+              "page": 27,
+              "printedPage": "28"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-27",
+              "quote": "Se unirán a este esfuerzo todas las administraciones públicas y el ICO a través del Fondo España Crece.",
+              "page": 27,
+              "printedPage": "28"
+            }
+          ]
+        },
+        {
+          "id": "psoe-state-affordable-housing-stock",
+          "title": {
+            "es": "Parque estatal de 100.000 viviendas asequibles",
+            "ca": "Parc estatal de 100.000 habitatges assequibles",
+            "gl": "Parque estatal de 100.000 vivendas accesibles",
+            "eu": "Prezio eskuragarriko 100.000 etxebizitzako estatu-parkea",
+            "oc": "Parc estatau de 100.000 abitatges a prètz assequible",
+            "en": "State stock of 100,000 affordable homes"
+          },
+          "text": {
+            "es": "Constituir, a través de CASA 47, un parque público estatal de 100.000 viviendas mediante la construcción y la compra. Se destinarían a la venta o al alquiler estable a precios asequibles y se sumarían a las viviendas que promuevan las comunidades autónomas y las entidades locales.",
+            "ca": "Constituir, a través de CASA 47, un parc públic estatal de 100.000 habitatges mitjançant la construcció i la compra. Es destinarien a la venda o al lloguer estable a preus assequibles i se sumarien als habitatges que promoguin les comunitats autònomes i les entitats locals.",
+            "gl": "Constituír, a través de CASA 47, un parque público estatal de 100.000 vivendas mediante a construción e a compra. Destinaríanse á venda ou ao alugueiro estable a prezos accesibles e sumaríanse ás vivendas que promovan as comunidades autónomas e as entidades locais.",
+            "eu": "CASA 47ren bidez, Estatuko 100.000 etxebizitza publikoko parkea osatzea, etxebizitzak eraikiz eta erosiz. Prezio eskuragarrian saldu edo modu egonkorrean alokatuko lirateke, eta autonomia-erkidegoek eta toki-erakundeek sustatutako etxebizitzei gehituko litzaizkieke.",
+            "oc": "Constituïr, a trauès de CASA 47, un parc public estatau de 100.000 abitatges en tot bastir-ne e crompar-ne. Se destinarien ara venda o ath loguèr estable a prètz assequible e se somarien as abitatges promogudi pes comunitats autonòmes e es entitats locaus.",
+            "en": "Build and buy homes through CASA 47 to create a state-owned stock of 100,000 public homes. They would be sold or let on stable terms at affordable prices, adding to homes provided by autonomous communities and local authorities."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-28",
+              "quote": "Consolidar CASA 47 como un actor clave en el mercado de la vivienda asequible",
+              "page": 28,
+              "printedPage": "29"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-28",
+              "quote": "Constituir un parque público estatal de 100.000 viviendas mediante la construcción y adquisición",
+              "page": 28,
+              "printedPage": "29"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-28",
+              "quote": "la venta o alquiler estable a precio asequible",
+              "page": 28,
+              "printedPage": "29"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-28",
+              "quote": "que se sumarán a las promovidas por las comunidades autónomas y las entidades locales",
+              "page": 28,
+              "printedPage": "29"
+            }
+          ]
+        },
+        {
+          "id": "psoe-longer-leases-and-rent-freeze",
+          "title": {
+            "es": "Contratos de alquiler más largos y congelación temporal de rentas",
+            "ca": "Contractes de lloguer més llargs i congelació temporal de rendes",
+            "gl": "Contratos de alugueiro máis longos e conxelación temporal das rendas",
+            "eu": "Alokairu-kontratu luzeagoak eta errentak aldi baterako izoztea",
+            "oc": "Contractes de loguèr mès longui e congelacion temporau des rendes",
+            "en": "Longer leases and a temporary rent freeze"
+          },
+          "text": {
+            "es": "Ampliar la duración de los contratos de alquiler. En los mercados tensionados, congelar temporalmente las rentas que superen los índices de referencia.",
+            "ca": "Allargar la durada dels contractes de lloguer. Als mercats tensionats, congelar temporalment les rendes que superin els índexs de referència.",
+            "gl": "Ampliar a duración dos contratos de alugueiro. Nos mercados tensionados, conxelar temporalmente as rendas que superen os índices de referencia.",
+            "eu": "Alokairu-kontratuen iraupena luzatzea. Tentsiopeko merkatuetan, erreferentzia-indizeak gainditzen dituzten alokairu-errentak aldi baterako izoztea.",
+            "oc": "Alongar era durada des contractes de loguèr. Enes mercats tensionadi, congelar temporauments es rendes que siguen per dessús des indèxs de referéncia.",
+            "en": "Extend the duration of rental contracts. In areas with strained housing markets, temporarily freeze rents above the reference indices."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-30",
+              "quote": "Ampliar la duración de los contratos de arrendamiento",
+              "page": 30,
+              "printedPage": "31"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-30",
+              "quote": "Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados.",
+              "page": 30,
+              "printedPage": "31"
+            }
+          ]
+        },
+        {
+          "id": "psoe-progressive-tax-on-housing-holdings",
+          "title": {
+            "es": "Impuesto a grandes propietarios y fondos buitre",
+            "ca": "Impost als grans propietaris i als fons voltor",
+            "gl": "Imposto aos grandes propietarios e aos fondos voitre",
+            "eu": "Zerga jabe handiei eta funts putreei",
+            "oc": "Impòst as grani proprietaris e as hons voltors",
+            "en": "Tax on large property owners and vulture funds"
+          },
+          "text": {
+            "es": "Aplicar un impuesto progresivo a los grandes propietarios y a los fondos buitre por las viviendas que no destinen al alquiler residencial asequible. Afectaría a viviendas de uso turístico, vacías o alquiladas a precios abusivos.",
+            "ca": "Aplicar un impost progressiu als grans propietaris i als fons voltor pels habitatges que no destinin al lloguer residencial assequible. Afectaria els habitatges d’ús turístic, buits o llogats a preus abusius.",
+            "gl": "Aplicar un imposto progresivo aos grandes propietarios e aos fondos voitre polas vivendas que non destinen ao alugueiro residencial accesible. Afectaría as vivendas de uso turístico, baleiras ou alugadas a prezos abusivos.",
+            "eu": "Zerga progresiboa ezartzea jabe handiei eta funts putreei, prezio eskuragarriko bizitegi-alokairura bideratzen ez dituzten etxebizitzengatik. Turismo-erabilerako etxebizitzei, hutsik daudenei eta neurriz kanpoko prezioetan alokatuta daudenei eragingo lieke.",
+            "oc": "Aplicar un impòst progressiu as grani proprietaris e as hons voltors pes abitatges que non destinen ath loguèr residenciau a prètz assequible. Afectarie es abitatges d’us toristic, uets o logadi a prètzi abusius.",
+            "en": "Apply a progressive tax to large property owners and vulture funds on homes they do not make available for affordable residential rental. It would apply to tourist accommodation, vacant homes and homes let at excessive rents."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-31",
+              "quote": "Se gravará con un impuesto progresivo la posesión de todas aquellas viviendas de grandes propietarios y fondos buitre",
+              "page": 31,
+              "printedPage": "32"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-31",
+              "quote": "que no se destinen a alquiler residencial",
+              "page": 31,
+              "printedPage": "32"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-32",
+              "quote": "asequible. Las viviendas que se dediquen a fines turísticos, que estén vacías, o que se pongan en alquiler a un precio abusivo serán objeto de este nuevo impuesto.",
+              "page": 32,
+              "printedPage": "33"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--institutions-and-rights",
       "partyId": "psoe",
       "topicId": "institutions-and-rights",
       "path": "/parties/psoe/institutions-and-rights",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-civil-rights-legal-protection",
+          "title": {
+            "es": "Protección del matrimonio igualitario, el aborto y la eutanasia",
+            "ca": "Protecció del matrimoni igualitari, l’avortament i l’eutanàsia",
+            "gl": "Protección do matrimonio igualitario, o aborto e a eutanasia",
+            "eu": "Ezkontza berdinzalearen, abortuaren eta eutanasiaren babesa",
+            "oc": "Proteccion deth matrimòni igualitari, der avortament e dera eutanasia",
+            "en": "Protection for marriage equality, abortion and euthanasia"
+          },
+          "text": {
+            "es": "Dar la máxima protección jurídica al matrimonio igualitario, al derecho al aborto y a la eutanasia. Impulsar la reforma del artículo 43 de la Constitución para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio.",
+            "ca": "Donar la màxima protecció jurídica al matrimoni igualitari, al dret a l’avortament i a l’eutanàsia. Impulsar la reforma de l’article 43 de la Constitució per reforçar la garantia del dret a l’avortament en condicions d’igualtat a tot el territori.",
+            "gl": "Dar a máxima protección xurídica ao matrimonio igualitario, ao dereito ao aborto e á eutanasia. Impulsar a reforma do artigo 43 da Constitución para reforzar a garantía do dereito ao aborto en condicións de igualdade en todo o territorio.",
+            "eu": "Ezkontza berdinzaleari, abortatzeko eskubideari eta eutanasiari ahalik eta babes juridiko handiena ematea. Konstituzioaren 43. artikulua aldatzea bultzatzea, lurralde osoan abortatzeko eskubidea berdintasun-baldintzetan bermatzeko.",
+            "oc": "Dar era maxima proteccion juridica ath matrimòni igualitari, ath dret ar avortament e ara eutanasia. Impulsar era reforma der article 43 dera Constitucion entà refortilhar era garantia deth dret ar avortament en condicions d’igualtat en tot eth territòri.",
+            "en": "Give the strongest legal protection to marriage equality, the right to abortion and euthanasia. Pursue reform of Article 43 of the Constitution to strengthen the guarantee of equal access to the right to abortion across the country."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-89",
+              "quote": "garantizando la máxima protección jurídica del matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo y la eutanasia.",
+              "page": 89,
+              "printedPage": "90"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-81",
+              "quote": "Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio",
+              "page": 81,
+              "printedPage": "82"
+            }
+          ]
+        },
+        {
+          "id": "psoe-citizen-seats-and-voting-age",
+          "title": {
+            "es": "Escaño ciudadano y voto desde los 16 años",
+            "ca": "Escó ciutadà i vot a partir dels 16 anys",
+            "gl": "Escano cidadán e voto a partir dos 16 anos",
+            "eu": "Herritarrentzako eserlekua eta 16 urtetik aurrerako botoa",
+            "oc": "Escan ciutadan e vòt a compdar des 16 ans",
+            "en": "Citizen seats and voting from age 16"
+          },
+          "text": {
+            "es": "Crear un escaño ciudadano sin voto en el Congreso y en el Senado para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas. Reducir las firmas necesarias para la iniciativa legislativa popular y rebajar la edad de voto a los 16 años.",
+            "ca": "Crear un escó ciutadà sense vot al Congrés i al Senat perquè la societat civil pugui preguntar al Govern i presentar iniciatives i esmenes. Reduir les signatures necessàries per a la iniciativa legislativa popular i rebaixar l’edat de vot als 16 anys.",
+            "gl": "Crear un escano cidadán sen voto no Congreso e no Senado para que a sociedade civil poida preguntar ao Goberno e presentar iniciativas e emendas. Reducir as sinaturas necesarias para a iniciativa lexislativa popular e baixar a idade de voto aos 16 anos.",
+            "eu": "Kongresuan eta Senatuan herritarrentzako botorik gabeko eserleku bana sortzea, gizarte zibilak Gobernuari galderak egin eta ekimenak eta zuzenketak aurkez ditzan. Herri-ekimen legegilerako behar diren sinadurak gutxitzea eta botoa emateko adina 16 urtera jaistea.",
+            "oc": "Crear un escan ciutadan sense vòt en Congrès e en Senat entà qu’era societat civiu pogue hèr preguntes ath Govèrn e presentar iniciatives e esmendes. Redusir es signatures de besonh entara iniciativa legislativa populara e baishar era edat de vòt as 16 ans.",
+            "en": "Create a non-voting citizen seat in each of Congress and the Senate so civil society can question the government and submit initiatives and amendments. Reduce the number of signatures required for a popular legislative initiative and lower the voting age to 16."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-90",
+              "quote": "Crear un escaño ciudadano en el Congreso y en el Senado, sin voto, para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas, y reducir las firmas necesarias para la iniciativa legislativa popular.",
+              "page": 90,
+              "printedPage": "91"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-90",
+              "quote": "rebajando la edad de voto a los 16 años",
+              "page": 90,
+              "printedPage": "91"
+            }
+          ]
+        },
+        {
+          "id": "psoe-minimum-age-for-social-media",
+          "title": {
+            "es": "Edad mínima de 16 años para usar redes sociales",
+            "ca": "Edat mínima de 16 anys per fer servir les xarxes socials",
+            "gl": "Idade mínima de 16 anos para usar redes sociais",
+            "eu": "Sare sozialak erabiltzeko gutxieneko adina, 16 urte",
+            "oc": "Edat minima de 16 ans entà usar es hilats sociaus",
+            "en": "Minimum age of 16 for using social media"
+          },
+          "text": {
+            "es": "Aprobar durante el primer año de la legislatura la Ley de protección de las personas menores de edad en los entornos digitales, que fijará en 16 años la edad mínima para usar redes sociales. Solo podrá rebajarse si las plataformas demuestran que son seguras por defecto. La ley exigirá verificar la edad y restringirá los diseños y algoritmos adictivos.",
+            "ca": "Aprovar durant el primer any de la legislatura la Ley de protección de las personas menores de edad en los entornos digitales, que fixarà en 16 anys l’edat mínima per fer servir les xarxes socials. Només es podrà rebaixar si les plataformes demostren que són segures per defecte. La llei exigirà verificar l’edat i restringirà els dissenys i algorismes addictius.",
+            "gl": "Aprobar durante o primeiro ano da lexislatura a Ley de protección de las personas menores de edad en los entornos digitales, que fixará en 16 anos a idade mínima para usar as redes sociais. Só se poderá baixar se as plataformas demostran que son seguras por defecto. A lei esixirá verificar a idade e restrinxirá os deseños e algoritmos adictivos.",
+            "eu": "Legegintzaldiaren lehen urtean Ley de protección de las personas menores de edad en los entornos digitales izeneko legea onartzea, sare sozialak erabiltzeko gutxieneko adina 16 urtetan ezartzeko. Adina soilik jaitsi ahal izango da plataformek lehenespenez seguruak direla frogatzen badute. Legeak adina egiaztatzea eskatuko du eta mendekotasuna eragiten duten diseinuak eta algoritmoak mugatuko ditu.",
+            "oc": "Aprovar pendent eth prumèr an dera legislatura era Ley de protección de las personas menores de edad en los entornos digitales, que fixarà en 16 ans era edat minima entà usar es hilats sociaus. Sonque se poderà baishar s’es plataformes demòstren que son segures per defècte. Era lei exigirà verificar era edat e restringirà es dessenhs e algorismes addictius.",
+            "en": "Pass the Ley de protección de las personas menores de edad en los entornos digitales in the first year of the parliamentary term, setting 16 as the minimum age for using social media. The age can be lowered only if platforms show that they are safe by default. The law will require age verification and restrict addictive designs and algorithms."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-95",
+              "quote": "Establecer a 16 años la edad mínima para usar redes sociales. Aprobar en el primer año de legislatura la Ley de protección de las personas menores de edad en los entornos digitales.",
+              "page": 95,
+              "printedPage": "96"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-95",
+              "quote": "La edad mínima solo podrá rebajarse cuando las plataformas demuestren que son seguras por defecto. La ley incluirá la verificación obligatoria de la edad, la restricción de los diseños y algoritmos adictivos",
+              "page": 95,
+              "printedPage": "96"
+            }
+          ]
+        },
+        {
+          "id": "psoe-civil-union-for-friends",
+          "title": {
+            "es": "Reconocimiento legal de las uniones de amistad",
+            "ca": "Reconeixement legal de les unions d’amistat",
+            "gl": "Recoñecemento legal das unións de amizade",
+            "eu": "Adiskidetasun-loturen legezko aitortza",
+            "oc": "Reconeishement legau des unions d’amistat",
+            "en": "Legal recognition for friendship unions"
+          },
+          "text": {
+            "es": "Incorporar al Código Civil una unión de amistad para proteger jurídicamente a quienes, unidos por amistad o compañerismo, asuman un compromiso mutuo de cuidados. La constitución de la unión permitirá establecer beneficios para sus integrantes.",
+            "ca": "Incorporar al Codi civil una unió d’amistat per protegir jurídicament les persones que, unides per amistat o companyonia, assumeixin un compromís mutu de cures. La constitució de la unió permetrà establir beneficis per als seus membres.",
+            "gl": "Incorporar ao Código civil unha unión de amizade para protexer xuridicamente as persoas que, unidas por amizade ou compañeirismo, asuman un compromiso mutuo de coidados. A constitución da unión permitirá establecer beneficios para os seus integrantes.",
+            "eu": "Kode Zibilean adiskidetasun-loturaren figura juridikoa jasotzea, lagun edo kide diren eta elkar zaintzeko konpromisoa hartzen duten pertsonei babes juridikoa emateko. Lotura formalizatzeak parte-hartzaileentzako onurak ezartzeko aukera emango du.",
+            "oc": "Incorporar ath Còdi Civiu ua union d’amistat entà protegir juridicament es persones que, unides per amistat o companhonatge, assumisquen un compromís mutuau de suenh. Era constitucion dera union permetrà establir beneficis entàs sòns membres.",
+            "en": "Add a friendship union to the Civil Code to give legal protection to friends or companions who commit to caring for one another. Forming a union would allow benefits to be established for its members."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-89",
+              "quote": "Crearemos una nueva figura jurídica de unión de amistad que dotará de un amparo legal a aquellas situaciones en las que personas unidas por un vínculo de amistad o compañerismo deciden asumir un compromiso mutuo de cuidados.",
+              "page": 89,
+              "printedPage": "90"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-89",
+              "quote": "Incluir en el código civil la figura de la unión de amistad.",
+              "page": 89,
+              "printedPage": "90"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-90",
+              "quote": "permitirá desplegar beneficios para quienes formen parte de ellos.",
+              "page": 90,
+              "printedPage": "91"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "psoe--pensions-and-social-protection",
       "partyId": "psoe",
       "topicId": "pensions-and-social-protection",
       "path": "/parties/psoe/pensions-and-social-protection",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-15T19:13:59Z",
+      "sourceIds": [
+        "psoe-2026-e9c834133953"
+      ],
+      "points": [
+        {
+          "id": "psoe-constitutional-pension-protection-and-cpi",
+          "title": {
+            "es": "Protección constitucional de las pensiones y su actualización con el IPC",
+            "ca": "Protecció constitucional de les pensions i la seva actualització amb l’IPC",
+            "gl": "Protección constitucional das pensións e da súa actualización co IPC",
+            "eu": "Pentsioen eta KPIaren araberako eguneratzearen babes konstituzionala",
+            "oc": "Proteccion constitucionau des pensions e dera sua actualizacion damb er IPC",
+            "en": "Constitutional protection for pensions and CPI indexation"
+          },
+          "text": {
+            "es": "Proteger en la Constitución el sistema público de pensiones y la actualización de las pensiones conforme al índice de precios de consumo (IPC), para garantizar a las personas mayores una pensión digna, suficiente y actualizada.",
+            "ca": "Protegir en la Constitució el sistema públic de pensions i l’actualització de les pensions d’acord amb l’índex de preus de consum (IPC), per garantir a la gent gran una pensió digna, suficient i actualitzada.",
+            "gl": "Protexer na Constitución o sistema público de pensións e a actualización das pensións segundo o índice de prezos de consumo (IPC), para garantirlles ás persoas maiores unha pensión digna, suficiente e actualizada.",
+            "eu": "Konstituzioan babestea pentsio-sistema publikoa eta pentsioak kontsumoko prezioen indizearen (KPI) arabera eguneratzea, adineko pertsonei pentsio duina, nahikoa eta eguneratua bermatzeko.",
+            "oc": "Protegir ena Constitucion eth sistèma public de pensions e era actualizacion des pensions d’acòrd damb er indèx de prètzi de consum (IPC), entà garantir as persones granes ua pension digna, sufisenta e actualizada.",
+            "en": "Give constitutional protection to the public pension system and to pension indexation in line with the Consumer Price Index (CPI), to guarantee older people a decent, adequate and up-to-date pension."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-40",
+              "quote": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC",
+              "page": 40,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-40",
+              "quote": "garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada.",
+              "page": 40,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "psoe-pension-gender-gap-and-child-credits",
+          "title": {
+            "es": "Complemento por hijos y un año adicional de cotización por cada hijo o hija",
+            "ca": "Complement per fills i un any addicional de cotització per cada fill o filla",
+            "gl": "Complemento por fillos e un ano adicional de cotización por cada fillo ou filla",
+            "eu": "Seme-alabengatiko osagarria eta urtebete gehiago kotizatutzat seme-alaba bakoitzeko",
+            "oc": "Complement per hilhs e un an mès de cotizacion per cada hilh o hilha",
+            "en": "Pension supplement and an extra year of contributions per child"
+          },
+          "text": {
+            "es": "Reducir la brecha de género en las pensiones reforzando el complemento por hijos para compensar el perjuicio en la carrera profesional tras el nacimiento o la adopción. Reconocer además un año adicional de cotización por cada hijo o hija.",
+            "ca": "Reduir la bretxa de gènere en les pensions reforçant el complement per fills per compensar el perjudici en la carrera professional després del naixement o l’adopció. Reconèixer, a més, un any addicional de cotització per cada fill o filla.",
+            "gl": "Reducir a fenda de xénero nas pensións reforzando o complemento por fillos para compensar o prexuízo na carreira profesional tras o nacemento ou a adopción. Recoñecer ademais un ano adicional de cotización por cada fillo ou filla.",
+            "eu": "Pentsioen genero-arrakala murriztea, seme-alabengatiko osagarria indartuz, jaiotzaren edo adopzioaren ondoren lan-ibilbidean izandako kaltea konpentsatzeko. Gainera, seme-alaba bakoitzeko urtebete gehiago kotizatutzat hartzea.",
+            "oc": "Redusir era bretxa de genre enes pensions en tot reforçar eth complement per hilhs entà compensar eth prejudici ena carrèra professionau dempús deth neishement o era adopcion. Arreconéisher, ath delà, un an mès de cotizacion per cada hilh o hilha.",
+            "en": "Reduce the gender pension gap by strengthening the child supplement to compensate for career setbacks after birth or adoption. Also credit one extra year of pension contributions for each child."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-40",
+              "quote": "Reforzar el complemento por hijos para compensar los perjuicios sufridos en la carrera profesional tras su nacimiento o adopción",
+              "page": 40,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-40",
+              "quote": "reconociendo además un año adicional de cotización por cada hijo o hija",
+              "page": 40,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "psoe-social-services-law-and-common-services",
+          "title": {
+            "es": "Ley de Servicios Sociales y cartera común de servicios",
+            "ca": "Ley de Servicios Sociales i cartera comuna de serveis",
+            "gl": "Ley de Servicios Sociales e carteira común de servizos",
+            "eu": "Ley de Servicios Sociales eta zerbitzu-zorro komuna",
+            "oc": "Ley de Servicios Sociales e cartèra comuna de servicis",
+            "en": "Social services law and a common set of services"
+          },
+          "text": {
+            "es": "Aprobar la primera Ley de Servicios Sociales y pactar con las comunidades autónomas una cartera común de servicios y estándares de calidad y acceso, con financiación estable y seguimiento público.",
+            "ca": "Aprovar la primera Ley de Servicios Sociales i pactar amb les comunitats autònomes una cartera comuna de serveis i estàndards de qualitat i accés, amb finançament estable i seguiment públic.",
+            "gl": "Aprobar a primeira Ley de Servicios Sociales e acordar coas comunidades autónomas unha carteira común de servizos e estándares de calidade e acceso, con financiamento estable e seguimento público.",
+            "eu": "Lehenengo Ley de Servicios Sociales onartzea eta autonomia-erkidegoekin zerbitzu-zorro komuna eta kalitate- eta sarbide-estandarrak adostea, finantzaketa egonkorrarekin eta jarraipen publikoarekin.",
+            "oc": "Aprovar era prumèra Ley de Servicios Sociales e acordar damb es comunitats autonòmes ua cartèra comuna de servicis e estandards de qualitat e accès, damb finançament estable e seguiment public.",
+            "en": "Pass the first Ley de Servicios Sociales and agree a common set of services and standards for quality and access with the autonomous communities, with stable funding and public monitoring."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-57",
+              "quote": "Aprobar la primera Ley de Servicios Sociales para blindar el cuarto pilar del Estado de bienestar",
+              "page": 57,
+              "printedPage": "58"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-57",
+              "quote": "pactando con las CC.AA. una cartera común de servicios y estándares de calidad y acceso, con financiación estable y seguimiento público.",
+              "page": 57,
+              "printedPage": "58"
+            }
+          ]
+        },
+        {
+          "id": "psoe-long-term-care-reform-and-home-help",
+          "title": {
+            "es": "Reforma de la dependencia y refuerzo de la ayuda a domicilio",
+            "ca": "Reforma de la dependència i reforç de l’ajuda a domicili",
+            "gl": "Reforma da dependencia e reforzo da axuda no fogar",
+            "eu": "Mendekotasunaren erreforma eta etxez etxeko laguntza indartzea",
+            "oc": "Reforma dera dependéncia e reforç dera ajuda a domicili",
+            "en": "Long-term care reform and stronger home help"
+          },
+          "text": {
+            "es": "Aplicar plenamente la reforma de los sistemas de discapacidad y dependencia (Ley 4/2026), con planificación económica plurianual para seguir reduciendo las listas de espera y seguimiento por territorios. Consolidar la ayuda a domicilio como servicio público esencial del sistema de dependencia, con financiación suficiente y estable junto con las administraciones públicas, atención de calidad centrada en las personas y mejora progresiva de las condiciones laborales de sus profesionales.",
+            "ca": "Aplicar plenament la reforma dels sistemes de discapacitat i dependència (Ley 4/2026), amb planificació econòmica pluriennal per continuar reduint les llistes d’espera i seguiment per territoris. Consolidar l’ajuda a domicili com a servei públic essencial del sistema de dependència, amb finançament suficient i estable juntament amb les administracions públiques, atenció de qualitat centrada en les persones i millora progressiva de les condicions laborals dels seus professionals.",
+            "gl": "Aplicar plenamente a reforma dos sistemas de discapacidade e dependencia (Ley 4/2026), con planificación económica plurianual para seguir reducindo as listas de espera e seguimento por territorios. Consolidar a axuda no fogar como servizo público esencial do sistema de dependencia, con financiamento suficiente e estable xunto coas administracións públicas, atención de calidade centrada nas persoas e mellora progresiva das condicións laborais dos seus profesionais.",
+            "eu": "Desgaitasun- eta mendekotasun-sistemen erreforma (Ley 4/2026) osorik aplikatzea, itxaron-zerrendak murrizten jarraitzeko urte anitzeko plangintza ekonomikoarekin eta lurraldez lurraldeko jarraipenarekin. Etxez etxeko laguntza mendekotasun-sistemako funtsezko zerbitzu publiko gisa sendotzea, administrazio publikoekin batera finantzaketa nahikoa eta egonkorra bermatuz, pertsonengan oinarritutako kalitatezko arreta eskainiz eta profesionalen lan-baldintzak pixkanaka hobetuz.",
+            "oc": "Aplicar pleaments era reforma des sistèmes de discapacitat e dependéncia (Ley 4/2026), damb ua planificacion economica pluriennau entà seguir redusint es listes de demora e un seguiment per territòris. Consolidar era ajuda a domicili coma servici public essenciau deth sistèma de dependéncia, damb finançament sufisent e estable amassa damb es administracions publiques, atencion de qualitat centrada enes persones e melhora progressiva des condicions de trabalh des sòns professionaus.",
+            "en": "Fully implement the reform of disability and long-term care systems (Ley 4/2026), with multi-year financial planning to keep reducing waiting lists and monitoring by territory. Consolidate home help as an essential public long-term care service, with adequate and stable funding alongside public administrations, high-quality person-centred care and gradually improving working conditions for its staff."
+          },
+          "citations": [
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-57",
+              "quote": "Asegurar la plena aplicación de la reforma de los sistemas de discapacidad y dependencia (Ley 4/2026)",
+              "page": 57,
+              "printedPage": "58"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-57",
+              "quote": "una programación económica plurianual orientada a seguir reduciendo las listas de espera y un sistema de seguimiento por territorios.",
+              "page": 57,
+              "printedPage": "58"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-57",
+              "quote": "Consolidar el Servicio de Ayuda a Domicilio como servicio público esencial del sistema de dependencia",
+              "page": 57,
+              "printedPage": "58"
+            },
+            {
+              "sourceId": "psoe-2026-e9c834133953",
+              "segmentId": "page-57",
+              "quote": "una financiación suficiente y estable, una atención de calidad centrada en las personas y la mejora progresiva de las condiciones laborales de sus profesionales.",
+              "page": 57,
+              "printedPage": "58"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--economy-and-taxes",

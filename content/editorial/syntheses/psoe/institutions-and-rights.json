@@ -1,0 +1,144 @@
+{
+  "id": "psoe--institutions-and-rights",
+  "partyId": "psoe",
+  "topicId": "institutions-and-rights",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-civil-rights-legal-protection",
+      "title": {
+        "es": "Protección del matrimonio igualitario, el aborto y la eutanasia",
+        "ca": "Protecció del matrimoni igualitari, l’avortament i l’eutanàsia",
+        "gl": "Protección do matrimonio igualitario, o aborto e a eutanasia",
+        "eu": "Ezkontza berdinzalearen, abortuaren eta eutanasiaren babesa",
+        "oc": "Proteccion deth matrimòni igualitari, der avortament e dera eutanasia",
+        "en": "Protection for marriage equality, abortion and euthanasia"
+      },
+      "text": {
+        "es": "Dar la máxima protección jurídica al matrimonio igualitario, al derecho al aborto y a la eutanasia. Impulsar la reforma del artículo 43 de la Constitución para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio.",
+        "ca": "Donar la màxima protecció jurídica al matrimoni igualitari, al dret a l’avortament i a l’eutanàsia. Impulsar la reforma de l’article 43 de la Constitució per reforçar la garantia del dret a l’avortament en condicions d’igualtat a tot el territori.",
+        "gl": "Dar a máxima protección xurídica ao matrimonio igualitario, ao dereito ao aborto e á eutanasia. Impulsar a reforma do artigo 43 da Constitución para reforzar a garantía do dereito ao aborto en condicións de igualdade en todo o territorio.",
+        "eu": "Ezkontza berdinzaleari, abortatzeko eskubideari eta eutanasiari ahalik eta babes juridiko handiena ematea. Konstituzioaren 43. artikulua aldatzea bultzatzea, lurralde osoan abortatzeko eskubidea berdintasun-baldintzetan bermatzeko.",
+        "oc": "Dar era maxima proteccion juridica ath matrimòni igualitari, ath dret ar avortament e ara eutanasia. Impulsar era reforma der article 43 dera Constitucion entà refortilhar era garantia deth dret ar avortament en condicions d’igualtat en tot eth territòri.",
+        "en": "Give the strongest legal protection to marriage equality, the right to abortion and euthanasia. Pursue reform of Article 43 of the Constitution to strengthen the guarantee of equal access to the right to abortion across the country."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-89",
+          "quote": "garantizando la máxima protección jurídica del matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo y la eutanasia."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-81",
+          "quote": "Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio"
+        }
+      ]
+    },
+    {
+      "id": "psoe-citizen-seats-and-voting-age",
+      "title": {
+        "es": "Escaño ciudadano y voto desde los 16 años",
+        "ca": "Escó ciutadà i vot a partir dels 16 anys",
+        "gl": "Escano cidadán e voto a partir dos 16 anos",
+        "eu": "Herritarrentzako eserlekua eta 16 urtetik aurrerako botoa",
+        "oc": "Escan ciutadan e vòt a compdar des 16 ans",
+        "en": "Citizen seats and voting from age 16"
+      },
+      "text": {
+        "es": "Crear un escaño ciudadano sin voto en el Congreso y en el Senado para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas. Reducir las firmas necesarias para la iniciativa legislativa popular y rebajar la edad de voto a los 16 años.",
+        "ca": "Crear un escó ciutadà sense vot al Congrés i al Senat perquè la societat civil pugui preguntar al Govern i presentar iniciatives i esmenes. Reduir les signatures necessàries per a la iniciativa legislativa popular i rebaixar l’edat de vot als 16 anys.",
+        "gl": "Crear un escano cidadán sen voto no Congreso e no Senado para que a sociedade civil poida preguntar ao Goberno e presentar iniciativas e emendas. Reducir as sinaturas necesarias para a iniciativa lexislativa popular e baixar a idade de voto aos 16 anos.",
+        "eu": "Kongresuan eta Senatuan herritarrentzako botorik gabeko eserleku bana sortzea, gizarte zibilak Gobernuari galderak egin eta ekimenak eta zuzenketak aurkez ditzan. Herri-ekimen legegilerako behar diren sinadurak gutxitzea eta botoa emateko adina 16 urtera jaistea.",
+        "oc": "Crear un escan ciutadan sense vòt en Congrès e en Senat entà qu’era societat civiu pogue hèr preguntes ath Govèrn e presentar iniciatives e esmendes. Redusir es signatures de besonh entara iniciativa legislativa populara e baishar era edat de vòt as 16 ans.",
+        "en": "Create a non-voting citizen seat in each of Congress and the Senate so civil society can question the government and submit initiatives and amendments. Reduce the number of signatures required for a popular legislative initiative and lower the voting age to 16."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-90",
+          "quote": "Crear un escaño ciudadano en el Congreso y en el Senado, sin voto, para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas, y reducir las firmas necesarias para la iniciativa legislativa popular."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-90",
+          "quote": "rebajando la edad de voto a los 16 años"
+        }
+      ]
+    },
+    {
+      "id": "psoe-minimum-age-for-social-media",
+      "title": {
+        "es": "Edad mínima de 16 años para usar redes sociales",
+        "ca": "Edat mínima de 16 anys per fer servir les xarxes socials",
+        "gl": "Idade mínima de 16 anos para usar redes sociais",
+        "eu": "Sare sozialak erabiltzeko gutxieneko adina, 16 urte",
+        "oc": "Edat minima de 16 ans entà usar es hilats sociaus",
+        "en": "Minimum age of 16 for using social media"
+      },
+      "text": {
+        "es": "Aprobar durante el primer año de la legislatura la Ley de protección de las personas menores de edad en los entornos digitales, que fijará en 16 años la edad mínima para usar redes sociales. Solo podrá rebajarse si las plataformas demuestran que son seguras por defecto. La ley exigirá verificar la edad y restringirá los diseños y algoritmos adictivos.",
+        "ca": "Aprovar durant el primer any de la legislatura la Ley de protección de las personas menores de edad en los entornos digitales, que fixarà en 16 anys l’edat mínima per fer servir les xarxes socials. Només es podrà rebaixar si les plataformes demostren que són segures per defecte. La llei exigirà verificar l’edat i restringirà els dissenys i algorismes addictius.",
+        "gl": "Aprobar durante o primeiro ano da lexislatura a Ley de protección de las personas menores de edad en los entornos digitales, que fixará en 16 anos a idade mínima para usar as redes sociais. Só se poderá baixar se as plataformas demostran que son seguras por defecto. A lei esixirá verificar a idade e restrinxirá os deseños e algoritmos adictivos.",
+        "eu": "Legegintzaldiaren lehen urtean Ley de protección de las personas menores de edad en los entornos digitales izeneko legea onartzea, sare sozialak erabiltzeko gutxieneko adina 16 urtetan ezartzeko. Adina soilik jaitsi ahal izango da plataformek lehenespenez seguruak direla frogatzen badute. Legeak adina egiaztatzea eskatuko du eta mendekotasuna eragiten duten diseinuak eta algoritmoak mugatuko ditu.",
+        "oc": "Aprovar pendent eth prumèr an dera legislatura era Ley de protección de las personas menores de edad en los entornos digitales, que fixarà en 16 ans era edat minima entà usar es hilats sociaus. Sonque se poderà baishar s’es plataformes demòstren que son segures per defècte. Era lei exigirà verificar era edat e restringirà es dessenhs e algorismes addictius.",
+        "en": "Pass the Ley de protección de las personas menores de edad en los entornos digitales in the first year of the parliamentary term, setting 16 as the minimum age for using social media. The age can be lowered only if platforms show that they are safe by default. The law will require age verification and restrict addictive designs and algorithms."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-95",
+          "quote": "Establecer a 16 años la edad mínima para usar redes sociales. Aprobar en el primer año de legislatura la Ley de protección de las personas menores de edad en los entornos digitales."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-95",
+          "quote": "La edad mínima solo podrá rebajarse cuando las plataformas demuestren que son seguras por defecto. La ley incluirá la verificación obligatoria de la edad, la restricción de los diseños y algoritmos adictivos"
+        }
+      ]
+    },
+    {
+      "id": "psoe-civil-union-for-friends",
+      "title": {
+        "es": "Reconocimiento legal de las uniones de amistad",
+        "ca": "Reconeixement legal de les unions d’amistat",
+        "gl": "Recoñecemento legal das unións de amizade",
+        "eu": "Adiskidetasun-loturen legezko aitortza",
+        "oc": "Reconeishement legau des unions d’amistat",
+        "en": "Legal recognition for friendship unions"
+      },
+      "text": {
+        "es": "Incorporar al Código Civil una unión de amistad para proteger jurídicamente a quienes, unidos por amistad o compañerismo, asuman un compromiso mutuo de cuidados. La constitución de la unión permitirá establecer beneficios para sus integrantes.",
+        "ca": "Incorporar al Codi civil una unió d’amistat per protegir jurídicament les persones que, unides per amistat o companyonia, assumeixin un compromís mutu de cures. La constitució de la unió permetrà establir beneficis per als seus membres.",
+        "gl": "Incorporar ao Código civil unha unión de amizade para protexer xuridicamente as persoas que, unidas por amizade ou compañeirismo, asuman un compromiso mutuo de coidados. A constitución da unión permitirá establecer beneficios para os seus integrantes.",
+        "eu": "Kode Zibilean adiskidetasun-loturaren figura juridikoa jasotzea, lagun edo kide diren eta elkar zaintzeko konpromisoa hartzen duten pertsonei babes juridikoa emateko. Lotura formalizatzeak parte-hartzaileentzako onurak ezartzeko aukera emango du.",
+        "oc": "Incorporar ath Còdi Civiu ua union d’amistat entà protegir juridicament es persones que, unides per amistat o companhonatge, assumisquen un compromís mutuau de suenh. Era constitucion dera union permetrà establir beneficis entàs sòns membres.",
+        "en": "Add a friendship union to the Civil Code to give legal protection to friends or companions who commit to caring for one another. Forming a union would allow benefits to be established for its members."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-89",
+          "quote": "Crearemos una nueva figura jurídica de unión de amistad que dotará de un amparo legal a aquellas situaciones en las que personas unidas por un vínculo de amistad o compañerismo deciden asumir un compromiso mutuo de cuidados."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-89",
+          "quote": "Incluir en el código civil la figura de la unión de amistad."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-90",
+          "quote": "permitirá desplegar beneficios para quienes formen parte de ellos."
+        }
+      ]
+    }
+  ]
+}

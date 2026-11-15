@@ -1,0 +1,119 @@
+{
+  "id": "psoe--economy-and-taxes",
+  "partyId": "psoe",
+  "topicId": "economy-and-taxes",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-capital-income-tax-brackets",
+      "title": {
+        "es": "Más progresividad en la tributación del capital",
+        "ca": "Més progressivitat en la tributació del capital",
+        "gl": "Máis progresividade na tributación do capital",
+        "eu": "Progresibitate handiagoa kapitalaren errentak zergapetzean",
+        "oc": "Mès progressivitat enes impòsti sus eth capitau",
+        "en": "More progressive taxation of capital income"
+      },
+      "text": {
+        "es": "Mantener los dos primeros tramos de las rentas del capital, del 19 % hasta 6.000 euros y del 21 % hasta 50.000 euros. Subir los tipos de los tramos siguientes hasta alcanzar progresivamente un tipo máximo del 35 % para rentas del capital superiores a 300.000 euros.",
+        "ca": "Mantenir els dos primers trams de les rendes del capital, del 19 % fins a 6.000 euros i del 21 % fins a 50.000 euros. Augmentar els tipus dels trams següents fins a arribar progressivament a un tipus màxim del 35 % per a rendes del capital superiors a 300.000 euros.",
+        "gl": "Manter os dous primeiros tramos das rendas do capital, do 19 % ata 6.000 euros e do 21 % ata 50.000 euros. Subir os tipos dos tramos seguintes ata acadar progresivamente un tipo máximo do 35 % para rendas do capital superiores a 300.000 euros.",
+        "eu": "Kapitalaren errenten lehen bi tarteei eustea, % 19ko tasarekin 6.000 eurora arte eta % 21ekoarekin 50.000 eurora arte. Hurrengo tarteetako tasak igotzea, 300.000 eurotik gorako kapital-errentetarako gehieneko tasa pixkanaka % 35era iritsi arte.",
+        "oc": "Mantier es dus prumèrs trams des rendes deth capitau, deth 19 % enquia 6.000 èuros e deth 21 % enquia 50.000 èuros. Aumentar es tipes des trams següents enquia arténher progressivament un tipe maxim deth 35 % entàs rendes deth capitau superiores a 300.000 èuros.",
+        "en": "Keep the first two capital income tax bands at 19% up to €6,000 and 21% up to €50,000. Raise rates in subsequent bands until the top rate gradually reaches 35% for capital income above €300,000."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-48",
+          "quote": "Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€."
+        }
+      ]
+    },
+    {
+      "id": "psoe-refundable-dependent-tax-credit",
+      "title": {
+        "es": "Crédito fiscal reembolsable por descendientes",
+        "ca": "Crèdit fiscal reemborsable per descendents",
+        "gl": "Crédito fiscal reembolsable por descendentes",
+        "eu": "Ondorengoengatiko zerga-kreditu itzulgarria",
+        "oc": "Credit fiscau reemborsable per descendents",
+        "en": "Refundable tax credit for children and other descendants"
+      },
+      "text": {
+        "es": "Convertir el mínimo por descendiente del IRPF en un crédito fiscal reembolsable. La medida busca beneficiar a dos millones de hogares de ingresos medios y bajos que no están obligados a presentar declaración o no tienen cuota tributaria.",
+        "ca": "Convertir el mínim per descendent de l’IRPF en un crèdit fiscal reemborsable. La mesura vol beneficiar dos milions de llars d’ingressos mitjans i baixos que no estan obligades a presentar declaració o no tenen quota tributària.",
+        "gl": "Converter o mínimo por descendente do IRPF nun crédito fiscal reembolsable. A medida busca beneficiar dous millóns de fogares de ingresos medios e baixos que non teñen a obriga de presentar declaración ou non teñen cota tributaria.",
+        "eu": "PFEZko ondorengoengatiko gutxienekoa zerga-kreditu itzulgarri bihurtzea. Neurriak diru-sarrera ertain eta txikiko bi milioi etxeri mesede egitea du helburu, baldin eta aitorpena aurkeztu beharrik ez badute edo zerga-kuotarik ez badute.",
+        "oc": "Convertir eth minim per descendent der IRPF en un credit fiscau reemborsable. Era mesura vò beneficiar dus milions de larèrs damb ingrèssi mejans e baishi que non an era obligacion de presentar era declaracion o non an cap de quota tributària.",
+        "en": "Turn the personal income tax allowance for descendants into a refundable tax credit. The measure aims to benefit two million middle- and low-income households that do not have to file a tax return or have no tax liability."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "Convertiremos el mínimo exento por descendiente en el IRPF en un crédito fiscal reembolsable, lo que permitirá que se beneficien de él 2 millones de hogares de ingresos medios y bajos que no tienen obligación de presentar declaración o que carecen de cuota para beneficiarse del mínimo actual."
+        }
+      ]
+    },
+    {
+      "id": "psoe-productive-investment-fund",
+      "title": {
+        "es": "Inversión productiva y reindustrialización",
+        "ca": "Inversió productiva i reindustrialització",
+        "gl": "Investimento produtivo e reindustrialización",
+        "eu": "Inbertsio produktiboa eta berrindustrializazioa",
+        "oc": "Inversion productiva e reindustrializacion",
+        "en": "Productive investment and reindustrialisation"
+      },
+      "text": {
+        "es": "Impulsar el crecimiento de las empresas, la reindustrialización y la atracción de inversiones estratégicas a través del Fondo España Crece y de nuevos instrumentos de financiación público-privada. Dar especial atención a las pymes y a los territorios con mayor potencial industrial.",
+        "ca": "Impulsar el creixement de les empreses, la reindustrialització i l’atracció d’inversions estratègiques a través del Fondo España Crece i de nous instruments de finançament publicoprivat. Donar una atenció especial a les pimes i als territoris amb més potencial industrial.",
+        "gl": "Impulsar o crecemento das empresas, a reindustrialización e a captación de investimentos estratéxicos a través do Fondo España Crece e de novos instrumentos de financiamento público-privado. Prestar especial atención ás pemes e aos territorios con maior potencial industrial.",
+        "eu": "Enpresen hazkundea eta berrindustrializazioa bultzatzea eta inbertsio estrategikoak erakartzea, Fondo España Crece funtsaren eta finantzaketa publiko-pribatuko tresna berrien bidez. Arreta berezia jartzea enpresa txiki eta ertainetan eta industria-potentzial handiena duten lurraldeetan.",
+        "oc": "Impulsar eth creishement des empreses, era reindustrializacion e era atraccion d’inversions estrategiques a trauès deth Fondo España Crece e de naui instruments de finançament publicoprivat. Dar ua atencion especiau as PME e as territòris damb mès potenciau industriau.",
+        "en": "Use the Fondo España Crece and new public-private financing instruments to help businesses grow, reindustrialise the economy and attract strategic investment. Give particular attention to small and medium-sized businesses and areas with the greatest industrial potential."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-14",
+          "quote": "A través del Fondo España Crece y de nuevos instrumentos de financiación público-privada, impulsaremos el crecimiento de las empresas, la reindustrialización y la atracción de inversiones estratégicas, con especial atención a las pymes y a los territorios con mayor potencial industrial."
+        }
+      ]
+    },
+    {
+      "id": "psoe-public-research-investment",
+      "title": {
+        "es": "Inversión pública en I+D hasta el 1,5 % del PIB",
+        "ca": "Inversió pública en R+D fins a l’1,5 % del PIB",
+        "gl": "Investimento público en I+D ata o 1,5 % do PIB",
+        "eu": "I+Gko inbertsio publikoa BPGaren % 1,5era arte",
+        "oc": "Inversion publica en R+D enquiar 1,5 % deth PIB",
+        "en": "Public R&D investment to reach 1.5% of GDP"
+      },
+      "text": {
+        "es": "Aumentar cada año la inversión pública en investigación y desarrollo mediante un plan plurianual hasta alcanzar el objetivo legal del 1,25 % del PIB y elevar la meta al 1,5 % del PIB para 2035.",
+        "ca": "Augmentar cada any la inversió pública en recerca i desenvolupament mitjançant un pla plurianual fins a assolir l’objectiu legal de l’1,25 % del PIB i elevar la meta a l’1,5 % del PIB per al 2035.",
+        "gl": "Aumentar cada ano o investimento público en investigación e desenvolvemento mediante un plan plurianual ata alcanzar o obxectivo legal do 1,25 % do PIB e elevar a meta ao 1,5 % do PIB para 2035.",
+        "eu": "Ikerketa eta garapeneko inbertsio publikoa urtero handitzea, urte anitzeko plan baten bidez, legezko helburua den BPGaren % 1,25era iritsi arte, eta helburua BPGaren % 1,5era igotzea 2035erako.",
+        "oc": "Aumentar cada an era inversion publica en recèrca e desvolopament damb un plan plurianau enquia arténher er objectiu legau der 1,25 % deth PIB e eleuar er objectiu ar 1,5 % deth PIB entath 2035.",
+        "en": "Increase public investment in research and development each year under a multi-year plan until it reaches the statutory target of 1.25% of GDP, and raise the target to 1.5% of GDP by 2035."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-16",
+          "quote": "Seguiremos aumentando cada año la inversión pública en I+D con una senda plurianual incorporada al plan fiscal estructural hasta alcanzar el objetivo fijado por la Ley de la Ciencia de 2022 (1,25% del PIB), y aumentando la ambición en este objetivo hasta el 1,5% del PIB para 2035."
+        }
+      ]
+    }
+  ]
+}

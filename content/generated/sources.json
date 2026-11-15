@@ -12,6 +12,17 @@
       "capturedAt": "2026-11-11T11:40:27Z",
       "sha256": "cea8f2a052278e51ad682d19444eb0e9089997adbde8df76babf7f236bb5ffbe",
       "pageCount": 82
+    },
+    {
+      "id": "psoe-2026-e9c834133953",
+      "partyId": "psoe",
+      "electionDate": "2026-11-29",
+      "title": "La fuerza de seguir avanzando. Programa elecciones generales 29 noviembre 2026",
+      "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26-1.pdf",
+      "format": "pdf",
+      "capturedAt": "2026-11-15T18:50:16Z",
+      "sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5",
+      "pageCount": 114
     }
   ]
 }

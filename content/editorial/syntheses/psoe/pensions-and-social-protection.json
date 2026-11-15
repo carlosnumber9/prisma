@@ -1,0 +1,149 @@
+{
+  "id": "psoe--pensions-and-social-protection",
+  "partyId": "psoe",
+  "topicId": "pensions-and-social-protection",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-constitutional-pension-protection-and-cpi",
+      "title": {
+        "es": "Protección constitucional de las pensiones y su actualización con el IPC",
+        "ca": "Protecció constitucional de les pensions i la seva actualització amb l’IPC",
+        "gl": "Protección constitucional das pensións e da súa actualización co IPC",
+        "eu": "Pentsioen eta KPIaren araberako eguneratzearen babes konstituzionala",
+        "oc": "Proteccion constitucionau des pensions e dera sua actualizacion damb er IPC",
+        "en": "Constitutional protection for pensions and CPI indexation"
+      },
+      "text": {
+        "es": "Proteger en la Constitución el sistema público de pensiones y la actualización de las pensiones conforme al índice de precios de consumo (IPC), para garantizar a las personas mayores una pensión digna, suficiente y actualizada.",
+        "ca": "Protegir en la Constitució el sistema públic de pensions i l’actualització de les pensions d’acord amb l’índex de preus de consum (IPC), per garantir a la gent gran una pensió digna, suficient i actualitzada.",
+        "gl": "Protexer na Constitución o sistema público de pensións e a actualización das pensións segundo o índice de prezos de consumo (IPC), para garantirlles ás persoas maiores unha pensión digna, suficiente e actualizada.",
+        "eu": "Konstituzioan babestea pentsio-sistema publikoa eta pentsioak kontsumoko prezioen indizearen (KPI) arabera eguneratzea, adineko pertsonei pentsio duina, nahikoa eta eguneratua bermatzeko.",
+        "oc": "Protegir ena Constitucion eth sistèma public de pensions e era actualizacion des pensions d’acòrd damb er indèx de prètzi de consum (IPC), entà garantir as persones granes ua pension digna, sufisenta e actualizada.",
+        "en": "Give constitutional protection to the public pension system and to pension indexation in line with the Consumer Price Index (CPI), to guarantee older people a decent, adequate and up-to-date pension."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-40",
+          "quote": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-40",
+          "quote": "garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada."
+        }
+      ]
+    },
+    {
+      "id": "psoe-pension-gender-gap-and-child-credits",
+      "title": {
+        "es": "Complemento por hijos y un año adicional de cotización por cada hijo o hija",
+        "ca": "Complement per fills i un any addicional de cotització per cada fill o filla",
+        "gl": "Complemento por fillos e un ano adicional de cotización por cada fillo ou filla",
+        "eu": "Seme-alabengatiko osagarria eta urtebete gehiago kotizatutzat seme-alaba bakoitzeko",
+        "oc": "Complement per hilhs e un an mès de cotizacion per cada hilh o hilha",
+        "en": "Pension supplement and an extra year of contributions per child"
+      },
+      "text": {
+        "es": "Reducir la brecha de género en las pensiones reforzando el complemento por hijos para compensar el perjuicio en la carrera profesional tras el nacimiento o la adopción. Reconocer además un año adicional de cotización por cada hijo o hija.",
+        "ca": "Reduir la bretxa de gènere en les pensions reforçant el complement per fills per compensar el perjudici en la carrera professional després del naixement o l’adopció. Reconèixer, a més, un any addicional de cotització per cada fill o filla.",
+        "gl": "Reducir a fenda de xénero nas pensións reforzando o complemento por fillos para compensar o prexuízo na carreira profesional tras o nacemento ou a adopción. Recoñecer ademais un ano adicional de cotización por cada fillo ou filla.",
+        "eu": "Pentsioen genero-arrakala murriztea, seme-alabengatiko osagarria indartuz, jaiotzaren edo adopzioaren ondoren lan-ibilbidean izandako kaltea konpentsatzeko. Gainera, seme-alaba bakoitzeko urtebete gehiago kotizatutzat hartzea.",
+        "oc": "Redusir era bretxa de genre enes pensions en tot reforçar eth complement per hilhs entà compensar eth prejudici ena carrèra professionau dempús deth neishement o era adopcion. Arreconéisher, ath delà, un an mès de cotizacion per cada hilh o hilha.",
+        "en": "Reduce the gender pension gap by strengthening the child supplement to compensate for career setbacks after birth or adoption. Also credit one extra year of pension contributions for each child."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-40",
+          "quote": "Reforzar el complemento por hijos para compensar los perjuicios sufridos en la carrera profesional tras su nacimiento o adopción"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-40",
+          "quote": "reconociendo además un año adicional de cotización por cada hijo o hija"
+        }
+      ]
+    },
+    {
+      "id": "psoe-social-services-law-and-common-services",
+      "title": {
+        "es": "Ley de Servicios Sociales y cartera común de servicios",
+        "ca": "Ley de Servicios Sociales i cartera comuna de serveis",
+        "gl": "Ley de Servicios Sociales e carteira común de servizos",
+        "eu": "Ley de Servicios Sociales eta zerbitzu-zorro komuna",
+        "oc": "Ley de Servicios Sociales e cartèra comuna de servicis",
+        "en": "Social services law and a common set of services"
+      },
+      "text": {
+        "es": "Aprobar la primera Ley de Servicios Sociales y pactar con las comunidades autónomas una cartera común de servicios y estándares de calidad y acceso, con financiación estable y seguimiento público.",
+        "ca": "Aprovar la primera Ley de Servicios Sociales i pactar amb les comunitats autònomes una cartera comuna de serveis i estàndards de qualitat i accés, amb finançament estable i seguiment públic.",
+        "gl": "Aprobar a primeira Ley de Servicios Sociales e acordar coas comunidades autónomas unha carteira común de servizos e estándares de calidade e acceso, con financiamento estable e seguimento público.",
+        "eu": "Lehenengo Ley de Servicios Sociales onartzea eta autonomia-erkidegoekin zerbitzu-zorro komuna eta kalitate- eta sarbide-estandarrak adostea, finantzaketa egonkorrarekin eta jarraipen publikoarekin.",
+        "oc": "Aprovar era prumèra Ley de Servicios Sociales e acordar damb es comunitats autonòmes ua cartèra comuna de servicis e estandards de qualitat e accès, damb finançament estable e seguiment public.",
+        "en": "Pass the first Ley de Servicios Sociales and agree a common set of services and standards for quality and access with the autonomous communities, with stable funding and public monitoring."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-57",
+          "quote": "Aprobar la primera Ley de Servicios Sociales para blindar el cuarto pilar del Estado de bienestar"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-57",
+          "quote": "pactando con las CC.AA. una cartera común de servicios y estándares de calidad y acceso, con financiación estable y seguimiento público."
+        }
+      ]
+    },
+    {
+      "id": "psoe-long-term-care-reform-and-home-help",
+      "title": {
+        "es": "Reforma de la dependencia y refuerzo de la ayuda a domicilio",
+        "ca": "Reforma de la dependència i reforç de l’ajuda a domicili",
+        "gl": "Reforma da dependencia e reforzo da axuda no fogar",
+        "eu": "Mendekotasunaren erreforma eta etxez etxeko laguntza indartzea",
+        "oc": "Reforma dera dependéncia e reforç dera ajuda a domicili",
+        "en": "Long-term care reform and stronger home help"
+      },
+      "text": {
+        "es": "Aplicar plenamente la reforma de los sistemas de discapacidad y dependencia (Ley 4/2026), con planificación económica plurianual para seguir reduciendo las listas de espera y seguimiento por territorios. Consolidar la ayuda a domicilio como servicio público esencial del sistema de dependencia, con financiación suficiente y estable junto con las administraciones públicas, atención de calidad centrada en las personas y mejora progresiva de las condiciones laborales de sus profesionales.",
+        "ca": "Aplicar plenament la reforma dels sistemes de discapacitat i dependència (Ley 4/2026), amb planificació econòmica pluriennal per continuar reduint les llistes d’espera i seguiment per territoris. Consolidar l’ajuda a domicili com a servei públic essencial del sistema de dependència, amb finançament suficient i estable juntament amb les administracions públiques, atenció de qualitat centrada en les persones i millora progressiva de les condicions laborals dels seus professionals.",
+        "gl": "Aplicar plenamente a reforma dos sistemas de discapacidade e dependencia (Ley 4/2026), con planificación económica plurianual para seguir reducindo as listas de espera e seguimento por territorios. Consolidar a axuda no fogar como servizo público esencial do sistema de dependencia, con financiamento suficiente e estable xunto coas administracións públicas, atención de calidade centrada nas persoas e mellora progresiva das condicións laborais dos seus profesionais.",
+        "eu": "Desgaitasun- eta mendekotasun-sistemen erreforma (Ley 4/2026) osorik aplikatzea, itxaron-zerrendak murrizten jarraitzeko urte anitzeko plangintza ekonomikoarekin eta lurraldez lurraldeko jarraipenarekin. Etxez etxeko laguntza mendekotasun-sistemako funtsezko zerbitzu publiko gisa sendotzea, administrazio publikoekin batera finantzaketa nahikoa eta egonkorra bermatuz, pertsonengan oinarritutako kalitatezko arreta eskainiz eta profesionalen lan-baldintzak pixkanaka hobetuz.",
+        "oc": "Aplicar pleaments era reforma des sistèmes de discapacitat e dependéncia (Ley 4/2026), damb ua planificacion economica pluriennau entà seguir redusint es listes de demora e un seguiment per territòris. Consolidar era ajuda a domicili coma servici public essenciau deth sistèma de dependéncia, damb finançament sufisent e estable amassa damb es administracions publiques, atencion de qualitat centrada enes persones e melhora progressiva des condicions de trabalh des sòns professionaus.",
+        "en": "Fully implement the reform of disability and long-term care systems (Ley 4/2026), with multi-year financial planning to keep reducing waiting lists and monitoring by territory. Consolidate home help as an essential public long-term care service, with adequate and stable funding alongside public administrations, high-quality person-centred care and gradually improving working conditions for its staff."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-57",
+          "quote": "Asegurar la plena aplicación de la reforma de los sistemas de discapacidad y dependencia (Ley 4/2026)"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-57",
+          "quote": "una programación económica plurianual orientada a seguir reduciendo las listas de espera y un sistema de seguimiento por territorios."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-57",
+          "quote": "Consolidar el Servicio de Ayuda a Domicilio como servicio público esencial del sistema de dependencia"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-57",
+          "quote": "una financiación suficiente y estable, una atención de calidad centrada en las personas y la mejora progresiva de las condiciones laborales de sus profesionales."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "psoe--healthcare",
+  "partyId": "psoe",
+  "topicId": "healthcare",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-15T19:13:59Z",
+  "sourceIds": ["psoe-2026-e9c834133953"],
+  "points": [
+    {
+      "id": "psoe-health-funding-and-waiting-lists",
+      "title": {
+        "es": "Financiación pública de la sanidad en torno al 7 % del PIB",
+        "ca": "Finançament públic de la sanitat al voltant del 7 % del PIB",
+        "gl": "Financiamento público da sanidade arredor do 7 % do PIB",
+        "eu": "Osasunaren finantzaketa publikoa BPGaren % 7 inguruan",
+        "oc": "Finançament public dera sanitat ath torn deth 7 % deth PIB",
+        "en": "Public healthcare funding at around 7% of GDP"
+      },
+      "text": {
+        "es": "Acabar con las listas de espera consolidando la financiación pública de la sanidad en torno al 7 % del PIB, reforzando el carácter público del Sistema Nacional de Salud y aumentando progresivamente la inversión en prevención hasta alcanzar la media europea.",
+        "ca": "Acabar amb les llistes d’espera consolidant el finançament públic de la sanitat al voltant del 7 % del PIB, reforçant el caràcter públic del Sistema Nacional de Salud i augmentant progressivament la inversió en prevenció fins a assolir la mitjana europea.",
+        "gl": "Acabar coas listas de espera consolidando o financiamento público da sanidade arredor do 7 % do PIB, reforzando o carácter público do Sistema Nacional de Salud e aumentando progresivamente o investimento en prevención ata acadar a media europea.",
+        "eu": "Itxaron-zerrendak amaitzea, osasunaren finantzaketa publikoa BPGaren % 7 inguruan sendotuz, Sistema Nacional de Salud sistemaren izaera publikoa indartuz eta prebentziorako inbertsioa pixkanaka handituz, Europako batezbestekora iritsi arte.",
+        "oc": "Acabar damb es listes de demora en tot consolidar eth finançament public dera sanitat ath torn deth 7 % deth PIB, reforçar eth caractèr public deth Sistema Nacional de Salud e aumentar progressivaments era inversion en prevencion enquia arténher era mejana europèa.",
+        "en": "End waiting lists by consolidating public healthcare funding at around 7% of GDP, strengthening the public character of the Sistema Nacional de Salud and gradually increasing investment in prevention until it reaches the European average."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "Acabar con las listas de espera"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "sanidad en torno al 7% del PIB, reforzando el carácter público del Sistema Nacional de Salud"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "aumentando progresivamente la inversión en prevención hasta converger con la media europea."
+        }
+      ]
+    },
+    {
+      "id": "psoe-public-dental-care-and-aid",
+      "title": {
+        "es": "Atención dental pública y ayuda de hasta 200 euros anuales",
+        "ca": "Atenció dental pública i ajut de fins a 200 euros anuals",
+        "gl": "Atención dental pública e axuda de ata 200 euros anuais",
+        "eu": "Hortz-arreta publikoa eta urtean 200 eurorainoko laguntza",
+        "oc": "Atencion dentau publica e ajuda d’enquia 200 èuros annaus",
+        "en": "Public dental care and aid of up to €200 a year"
+      },
+      "text": {
+        "es": "Con el Plan Sonríe, incorporar progresivamente tratamientos dentales básicos a la sanidad pública para toda la población adulta, empezando por empastes, endodoncias, reconstrucciones y tratamientos periodontales. Mientras tanto, crear una ayuda directa de hasta 200 euros anuales por persona, empezando por los hogares con rentas medias y bajas.",
+        "ca": "Amb el Plan Sonríe, incorporar progressivament tractaments dentals bàsics a la sanitat pública per a tota la població adulta, començant per empastaments, endodòncies, reconstruccions i tractaments periodontals. Mentrestant, crear un ajut directe de fins a 200 euros anuals per persona, començant per les llars amb rendes mitjanes i baixes.",
+        "gl": "Co Plan Sonríe, incorporar progresivamente tratamentos dentais básicos á sanidade pública para toda a poboación adulta, comezando por empastes, endodoncias, reconstrucións e tratamentos periodontais. Mentres tanto, crear unha axuda directa de ata 200 euros anuais por persoa, comezando polos fogares con rendas medias e baixas.",
+        "eu": "Plan Sonríe planaren bidez, heldu guztientzako oinarrizko hortz-tratamenduak pixkanaka osasun-sistema publikoan sartzea, enpasteetatik, endodontzietatik, berreraikuntzetatik eta tratamendu periodontaletatik hasita. Bitartean, urtean eta pertsonako 200 eurorainoko zuzeneko laguntza sortzea, errenta ertain eta apaleko etxeetatik hasita.",
+        "oc": "Damb eth Plan Sonríe, incorporar progressivaments ena sanitat publica tractaments dentaus basics entà tota era poblacion adulta, en tot començar pes empastaments, es endodóncies, es reconstruccions e es tractaments periodontaus. Mentretant, crear ua ajuda dirècta d’enquia 200 èuros annaus per persona, en tot començar pes larèrs damb rendes mejanes e baishes.",
+        "en": "Under the Plan Sonríe, gradually add basic dental treatments to public healthcare for all adults, starting with fillings, root canals, dental restorations and periodontal treatment. In the meantime, create a direct payment of up to €200 per person per year, starting with middle- and low-income households."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "Desplegar el Plan Sonríe: salud bucodental pública."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "Incorporaremos progresivamente a la sanidad pública los tratamientos básicos para toda la población adulta"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "empezando por empastes, endodoncias, reconstrucciones y tratamientos periodontales."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-49",
+          "quote": "crearemos una ayuda directa de hasta 200 euros anuales por persona, que empezará por los hogares de rentas medias y bajas"
+        }
+      ]
+    },
+    {
+      "id": "psoe-primary-care-action-plan",
+      "title": {
+        "es": "Refuerzo de la atención primaria más allá de 2027",
+        "ca": "Reforç de l’atenció primària més enllà del 2027",
+        "gl": "Reforzo da atención primaria máis alá de 2027",
+        "eu": "Lehen mailako arreta 2027az harago indartzea",
+        "oc": "Reforç dera atencion primària mès enlà de 2027",
+        "en": "Stronger primary care beyond 2027"
+      },
+      "text": {
+        "es": "Reforzar la atención primaria y garantizar la continuidad de la asistencia con el desarrollo del Plan de Acción de Atención Primaria y Comunitaria más allá de 2027. Reforzar los equipos multidisciplinares y ampliar la capacidad de los centros de salud para diagnosticar y resolver problemas de salud.",
+        "ca": "Reforçar l’atenció primària i garantir la continuïtat assistencial desplegant el Plan de Acción de Atención Primaria y Comunitaria més enllà del 2027. Reforçar els equips multidisciplinaris i ampliar la capacitat dels centres de salut per diagnosticar i resoldre problemes de salut.",
+        "gl": "Reforzar a atención primaria e garantir a continuidade asistencial desenvolvendo o Plan de Acción de Atención Primaria y Comunitaria máis alá de 2027. Reforzar os equipos multidisciplinares e ampliar a capacidade dos centros de saúde para diagnosticar e resolver problemas de saúde.",
+        "eu": "Lehen mailako arreta indartzea eta arretaren jarraitutasuna bermatzea, Plan de Acción de Atención Primaria y Comunitaria plana 2027az harago garatuz. Diziplina anitzeko taldeak indartzea eta osasun-zentroek osasun-arazoak diagnostikatzeko eta konpontzeko duten gaitasuna handitzea.",
+        "oc": "Reforçar era atencion primària e garantir era continuitat dera assisténcia en tot desvolopar eth Plan de Acción de Atención Primaria y Comunitaria mès enlà de 2027. Reforçar es equips multidisciplinaris e aumentar era capacitat des centres de salut entà diagnosticar e resòlver problèmes de salut.",
+        "en": "Strengthen primary care and ensure continuity of care by continuing the Plan de Acción de Atención Primaria y Comunitaria beyond 2027. Strengthen multidisciplinary teams and expand health centres’ capacity to diagnose and manage health problems."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-50",
+          "quote": "Reforzar la atención primaria y garantizar su continuidad asistencial"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-50",
+          "quote": "desarrollando el Plan de Acción de Atención Primaria y Comunitaria más allá de 2027"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-50",
+          "quote": "potenciar los equipos multidisciplinares y ampliar la capacidad diagnóstica y resolutiva de los centros de salud."
+        }
+      ]
+    },
+    {
+      "id": "psoe-public-psychology-within-thirty-days",
+      "title": {
+        "es": "Atención psicológica gratuita con primera consulta en 30 días como máximo",
+        "ca": "Atenció psicològica gratuïta amb primera visita en 30 dies com a màxim",
+        "gl": "Atención psicolóxica gratuíta con primeira consulta nun máximo de 30 días",
+        "eu": "Doako arreta psikologikoa, lehen kontsulta gehienez 30 egunean",
+        "oc": "Atencion psicologica gratuïta damb ua prumèra consulta en 30 dies coma maxim",
+        "en": "Free psychological care with a first appointment within 30 days"
+      },
+      "text": {
+        "es": "Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con una primera consulta en un máximo de 30 días y atención inmediata en los casos urgentes. Reforzar la presencia de profesionales de psicología clínica, especialmente en atención primaria, y ampliar los programas de salud mental infantil y juvenil y de prevención del suicidio.",
+        "ca": "Garantir el dret a l’atenció psicològica gratuïta en la sanitat pública, amb una primera visita en un màxim de 30 dies i atenció immediata en els casos urgents. Reforçar la presència de professionals de psicologia clínica, especialment en l’atenció primària, i ampliar els programes de salut mental infantil i juvenil i de prevenció del suïcidi.",
+        "gl": "Garantir o dereito á atención psicolóxica gratuíta na sanidade pública, cunha primeira consulta nun máximo de 30 días e atención inmediata nos casos urxentes. Reforzar a presenza de profesionais de psicoloxía clínica, especialmente na atención primaria, e ampliar os programas de saúde mental infantil e xuvenil e de prevención do suicidio.",
+        "eu": "Osasun-sistema publikoan doako arreta psikologikoa jasotzeko eskubidea bermatzea, lehen kontsulta gehienez 30 egunean eta premiazko kasuetan berehalako arreta eskainiz. Psikologia klinikoko profesionalen presentzia indartzea, bereziki lehen mailako arretan, eta haurren eta gazteen osasun mentaleko eta suizidioa prebenitzeko programak zabaltzea.",
+        "oc": "Garantir eth dret ara atencion psicologica gratuïta ena sanitat publica, damb ua prumèra consulta en un maxim de 30 dies e atencion immediata enes casi urgents. Reforçar era preséncia de professionaus de psicologia clinica, especiauments ena atencion primària, e ampliar es programes de salut mentau infantila e juvenila e de prevencion deth suicidi.",
+        "en": "Guarantee the right to free psychological care through public healthcare, with a first appointment within 30 days and immediate care for urgent cases. Strengthen the presence of clinical psychology professionals, especially in primary care, and expand children’s and young people’s mental health programmes and suicide prevention programmes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-50",
+          "quote": "Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con una primera consulta en un plazo máximo de 30 días."
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-50",
+          "quote": "reforzaremos la presencia de profesionales de psicología clínica en el Sistema Nacional de Salud, especialmente en atención primaria"
+        },
+        {
+          "sourceId": "psoe-2026-e9c834133953",
+          "segmentId": "page-50",
+          "quote": "programas de salud mental infantojuvenil y prevención del suicidio, con atención inmediata para los casos urgentes."
+        }
+      ]
+    }
+  ]
+}
