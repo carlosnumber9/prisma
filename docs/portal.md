@@ -24,7 +24,9 @@ The visual-interaction delivery passed 115 deterministic tests and a production 
 
 ## Architecture and delivery
 
-The first portal uses Next 16.4.0, React 19.3.0 and App Router, with statically prerendered pages and CSS Modules. It keeps the normal Next output compatible with future Vercel hosting; it is not an HTML export. There is no content API, database, model service, comparator or correction form.
+The first portal uses Next 16.4.6, React 19.3.0 and App Router, with statically prerendered pages and CSS Modules. It keeps the normal Next output compatible with future Vercel hosting; it is not an HTML export. There is no content API, database, model service, comparator or correction form.
+
+Next.js and its ESLint configuration are pinned to 16.4.6 for the security update from 16.4.0. The supported `experimental.agentUpgrade: 'security'` setting selects security upgrade reminders and the default agent upgrade policy; it does not install updates automatically. The existing Turbopack shader rule is preserved.
 
 Node 24.x and npm 10.8.2 remain required. TypeScript 7.0.2 supplies `tsc`; the `typescript` npm alias points to the official TypeScript 6 API compatibility package needed by ESLint. [Microsoft documents this coexistence](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/). Application code has a strict configuration separate from checked JavaScript tooling. Dependencies are pinned and installed without forced peer resolution.
 

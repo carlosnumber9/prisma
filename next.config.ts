@@ -3,6 +3,9 @@ import { wgslTurbopackRule } from '@vgpu/wgsl/next';
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
+  experimental: {
+    agentUpgrade: 'security',
+  },
   turbopack: {
     rules: { '*.wgsl': wgslTurbopackRule({ minify: true }) },
   },

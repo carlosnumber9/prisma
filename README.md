@@ -34,6 +34,8 @@ Party pages now place a full-width formation-coloured banner after the breadcrum
 
 ## Working in this repository
 
+The portal pins Next.js and its ESLint configuration to 16.4.6 for the security update from 16.4.0. Its `experimental.agentUpgrade` policy is `security`; see [portal implementation](docs/portal.md).
+
 The shared footer credits Carlos Pinedo Sánchez and links to the GitHub repository with a locally bundled official SVG. Browser verification remains pending.
 
 The portal uses Mako throughout, bundled locally with its SIL Open Font License and loaded through `next/font/local`. Browser verification of this typography trial remains pending. See [portal typography](docs/portal.md#presentation-and-seo).
