@@ -1,0 +1,322 @@
+{
+  "id": "frente-amplio--housing",
+  "partyId": "frente-amplio",
+  "topicId": "housing",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-public-housing",
+      "title": {
+        "es": "Parque público de vivienda",
+        "ca": "Parc públic d’habitatge",
+        "gl": "Parque público de vivenda",
+        "eu": "Etxebizitza parke publikoa",
+        "oc": "Parc public d’abitatge",
+        "en": "Public housing stock"
+      },
+      "text": {
+        "es": "Dedicar de forma permanente el 1 % del PIB anual al parque público de vivienda e incorporar 1,5 millones de viviendas públicas en 12 años. Limitar el alquiler público según el coste de vida de cada territorio, con un máximo de 600 € al mes para una vivienda tipo de 80 m² y sin superar el 25 % de la renta del hogar.",
+        "ca": "Destinar de manera permanent l’1 % del PIB anual al parc públic d’habitatge i incorporar-hi 1,5 milions d’habitatges públics en 12 anys. Limitar el lloguer públic segons el cost de la vida de cada territori, amb un màxim de 600 € al mes per a un habitatge tipus de 80 m² i sense superar el 25 % dels ingressos de la llar.",
+        "gl": "Destinar de maneira permanente o 1 % do PIB anual ao parque público de vivenda e incorporar 1,5 millóns de vivendas públicas en 12 anos. Limitar o alugueiro público segundo o custo da vida de cada territorio, cun máximo de 600 € ao mes para unha vivenda tipo de 80 m² e sen superar o 25 % da renda do fogar.",
+        "eu": "Urteko BPGaren % 1 etxebizitza parke publikora bideratzea modu iraunkorrean, eta 12 urtean 1,5 milioi etxebizitza publiko gehitzea. Alokairu publikoa lurralde bakoitzeko bizi-kostuaren arabera mugatzea, hilean 600 € gehienez 80 m²-ko etxebizitza estandar baterako, eta etxeko diru-sarreren % 25 gainditu gabe.",
+        "oc": "Destinar de manèra permanenta er 1 % deth PIB annau ath parc public d’abitatge e incorporar-i 1,5 milions d’abitatges publics en 12 ans. Limitar eth loguèr public segontes eth còst dera vida de cada territòri, damb un maximal de 600 € ath mes entà un abitatge tipe de 80 m² e sense superar eth 25 % dera renda dera larèr.",
+        "en": "Permanently allocate 1% of annual GDP to public housing and add 1.5 million public homes over 12 years. Cap public rents based on each area’s cost of living, at no more than €600 per month for a typical 80 m² home and no more than 25% of household income."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "Asignación presupuestaria permanente del 1 % del PIB anual"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "se incorporarán 1,5 millones de viviendas públicas en 12 años"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "de 600 € mensuales para inmuebles tipo de 80 m²"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "para que no supere el 25 % de la renta"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-purchase-restrictions",
+      "title": {
+        "es": "Restricciones a la compra de vivienda",
+        "ca": "Restriccions a la compra d’habitatge",
+        "gl": "Restricións á compra de vivenda",
+        "eu": "Etxebizitzak erosteko mugak",
+        "oc": "Restriccions ara crompa d’abitatges",
+        "en": "Home purchase restrictions"
+      },
+      "text": {
+        "es": "Limitar por ley la compra de viviendas a quienes las destinen a su residencia habitual y permanente o al alquiler asequible regulado. Prohibir la compra a todas las personas jurídicas con ánimo de lucro.",
+        "ca": "Limitar per llei la compra d’habitatges a les persones que els destinin a la seva residència habitual i permanent o al lloguer assequible regulat. Prohibir la compra a totes les persones jurídiques amb ànim de lucre.",
+        "gl": "Limitar por lei a compra de vivendas a quen as destine á súa residencia habitual e permanente ou ao alugueiro alcanzable regulado. Prohibir a compra a todas as persoas xurídicas con ánimo de lucro.",
+        "eu": "Legez mugatzea etxebizitzen erosketa: erosleak ohiko bizileku iraunkorrerako edo alokairu eskuragarri arauturako erabili beharko du etxebizitza. Irabazi-asmoa duten pertsona juridiko guztiei etxebizitzak erostea debekatzea.",
+        "oc": "Limitar per lei era crompa d’abitatges as persones que les destinen ara sua residéncia abituau e permanenta o ath loguèr assequible regulat. Proïbir era crompa a totes es persones juridiques damb tòca lucrativa.",
+        "en": "Restrict home purchases by law to buyers who will use the property as their main permanent home or let it under regulated affordable rental terms. Ban all for-profit legal entities from buying homes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-11",
+          "quote": "que no sea la residencia habitual y permanente de la persona compradora o su"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-11",
+          "quote": "arrendamiento bajo el régimen de alquiler asequible regulado."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-11",
+          "quote": "a cualquier persona jurídica con ánimo de lucro"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-tourist-and-seasonal-lets",
+      "title": {
+        "es": "Alquileres turísticos y de temporada",
+        "ca": "Lloguers turístics i de temporada",
+        "gl": "Alugueiros turísticos e de tempada",
+        "eu": "Alokairu turistikoak eta denboraldikoak",
+        "oc": "Loguèrs toristics e de sason",
+        "en": "Tourist and seasonal rentals"
+      },
+      "text": {
+        "es": "Tramitar la extinción, en un máximo de tres años, de las licencias de viviendas de uso turístico y de los alquileres de temporada fraudulentos en edificios residenciales de zonas tensionadas. Clasificar como turísticos los alquileres de hasta 30 días y aplicar al alquiler de temporada y de habitaciones las mismas reglas de contención de rentas que al de vivienda habitual.",
+        "ca": "Tramitar, en un màxim de tres anys, l’extinció de les llicències d’habitatges d’ús turístic i dels lloguers de temporada fraudulents en edificis residencials de zones tensionades. Classificar com a turístics els lloguers de fins a 30 dies i aplicar al lloguer de temporada i d’habitacions les mateixes normes de contenció de rendes que al d’habitatge habitual.",
+        "gl": "Tramitar, nun máximo de tres anos, a extinción das licenzas de vivendas de uso turístico e dos alugueiros de tempada fraudulentos en edificios residenciais de zonas tensionadas. Clasificar como turísticos os alugueiros de ata 30 días e aplicar aos de tempada e de cuartos as mesmas regras de contención das rendas que ao de vivenda habitual.",
+        "eu": "Gehienez hiru urtean, etxebizitza turistikoen lizentziak eta iruzurrezko denboraldiko alokairuak amaitzeko izapideak egitea, tentsiopeko eremuetako bizitegi-eraikinetan. Gehienez 30 eguneko alokairuak turistikotzat hartzea, eta denboraldiko nahiz logelen alokairuei ohiko etxebizitzen errentak mugatzeko arau berak aplikatzea.",
+        "oc": "Tramitar, en un maximau de tres ans, era extincion des licéncies d’abitatges d’usatge toristic e des loguèrs de sason fraudulenti en bastiments residenciaus de zònes tensionades. Classificar coma toristics es loguèrs de dinc a 30 dies e aplicar as loguèrs de sason e de crambes es madeishes normes de contencion des rendes qu’ath loguèr d’abitatge abituau.",
+        "en": "Take steps to phase out tourist home licences and end fraudulent seasonal rentals in residential buildings in housing market pressure areas within three years. Class rentals of 30 days or less as tourist rentals and apply the same rent controls to seasonal and room rentals as to rentals of main homes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-12",
+          "quote": "extinción progresiva y definitiva de todas las licencias"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-12",
+          "quote": "un plazo máximo de 3 años"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-12",
+          "quote": "Los alquileres con una duración igual o menor a 30 días"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-rent-caps",
+      "title": {
+        "es": "Tope al alquiler en zonas tensionadas",
+        "ca": "Límit al lloguer en zones tensionades",
+        "gl": "Tope ao alugueiro en zonas tensionadas",
+        "eu": "Alokairuaren muga tentsiopeko eremuetan",
+        "oc": "Limit ath loguèr en zònes tensionades",
+        "en": "Rent caps in housing market pressure areas"
+      },
+      "text": {
+        "es": "Fijar por ley el tope mensual del alquiler residencial en zonas tensionadas en la menor de dos cifras: el 25 % de la renta neta media por hogar de la sección censal y el tope del índice SERPAVI. Aplicar una rebaja obligatoria adicional del 30 % sobre ese tope en municipios de más de 200.000 habitantes o con masificación turística severa.",
+        "ca": "Fixar per llei el límit mensual del lloguer residencial en zones tensionades en la més baixa de dues xifres: el 25 % de la renda neta mitjana per llar de la secció censal i el límit de l’índex SERPAVI. Aplicar una rebaixa obligatòria addicional del 30 % sobre aquest límit en municipis de més de 200.000 habitants o amb massificació turística greu.",
+        "gl": "Fixar por lei o tope mensual do alugueiro residencial en zonas tensionadas na menor de dúas cifras: o 25 % da renda neta media por fogar da sección censual e o tope do índice SERPAVI. Aplicar unha rebaixa obrigatoria adicional do 30 % sobre ese tope nos concellos de máis de 200.000 habitantes ou con masificación turística grave.",
+        "eu": "Tentsiopeko eremuetako bizitegien hileko alokairua legez mugatzea, bi kopuru hauetatik txikiena hartuz: errolda-ataleko etxeko batez besteko errenta garbiaren % 25 eta SERPAVI indizearen muga. Muga horri % 30eko nahitaezko beherapen gehigarria aplikatzea 200.000 biztanletik gorako udalerrietan edo turismo-masifikazio larria dutenetan.",
+        "oc": "Fixar per lei eth limit mesadèr deth loguèr residenciau en zònes tensionades ena mès baisha de dues chifres: eth 25 % dera renda neta mejana per larèr dera seccion censau e eth limit der indèx SERPAVI. Aplicar ua baisha obligatòria addicionau deth 30 % sus aguest limit en municipis de mès de 200.000 abitants o damb massificacion toristica grèu.",
+        "en": "Set the legal monthly cap on residential rents in housing market pressure areas at the lower of 25% of average net household income in the census tract and the cap set by the SERPAVI index. Require a further 30% reduction from that cap in municipalities with more than 200,000 residents or severe overtourism."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-13",
+          "quote": "el 25 % de la renta neta media por hogar de la sección censal"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-13",
+          "quote": "por el índice SERPAVI"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-13",
+          "quote": "una rebaja adicional obligatoria del 30 % sobre el valor regulado"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-eviction-protections",
+      "title": {
+        "es": "Protección frente a los desahucios",
+        "ca": "Protecció davant els desnonaments",
+        "gl": "Protección fronte aos desafiuzamentos",
+        "eu": "Etxegabetzeen aurkako babesa",
+        "oc": "Proteccion deuant des deslotjaments",
+        "en": "Protection against eviction"
+      },
+      "text": {
+        "es": "Prohibir de forma permanente por ley desahuciar a personas y familias en situación de vulnerabilidad económica o social sin que antes las administraciones públicas les proporcionen una alternativa habitacional digna, adecuada y estable. Obligar a los grandes tenedores a ofrecer un alquiler social de al menos siete años, ajustado a los ingresos familiares, antes de demandar judicialmente el recobro o el desalojo.",
+        "ca": "Prohibir de manera permanent per llei desnonar persones i famílies en situació de vulnerabilitat econòmica o social sense que abans les administracions públiques els proporcionin una alternativa d’habitatge digna, adequada i estable. Obligar els grans tenidors a oferir un lloguer social d’almenys set anys, ajustat als ingressos familiars, abans d’interposar una demanda judicial de restitució de l’immoble o de desallotjament.",
+        "gl": "Prohibir de maneira permanente por lei desafiuzar persoas e familias en situación de vulnerabilidade económica ou social sen que antes as administracións públicas lles proporcionen unha alternativa de vivenda digna, axeitada e estable. Obrigar os grandes propietarios a ofrecer un alugueiro social de polo menos sete anos, axustado aos ingresos familiares, antes de solicitar por vía xudicial a recuperación do inmoble ou o desaloxo.",
+        "eu": "Legez eta modu iraunkorrean debekatzea egoera ekonomiko edo sozial zaurgarrian dauden pertsonak eta familiak etxegabetzea, aurretik administrazio publikoek etxebizitza-alternatiba duin, egoki eta egonkorra eman ez badiete. Etxebizitza-jabe handiei familiaren diru-sarreren araberako gutxienez zazpi urteko alokairu soziala eskaintzeko betebeharra ezartzea, higiezina berreskuratzeko edo husteko demanda judiziala jarri aurretik.",
+        "oc": "Proïbir de manèra permanenta per lei eth deslotjament de persones e familhes en situacion de vulnerabilitat economica o sociau sense qu’abantes es administracions publiques les proporcionen ua alternativa d’abitatge digna, adequada e establa. Obligar es grani proprietaris a aufrir un loguèr sociau d’aumens sèt ans, ajustat as ingrèssi familhaus, abans de reclamar per via judiciau era recuperacion der immòble o eth deslotjament.",
+        "en": "Permanently ban the eviction of people and families in situations of economic or social vulnerability unless public authorities first provide decent, suitable and stable alternative housing. Require large property owners to offer a social rental contract of at least seven years, with rent based on household income, before bringing legal action for repossession or eviction."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-15",
+          "quote": "Prohibiremos de forma permanente y con rango de ley"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-15",
+          "quote": "una alternativa habitacional digna, adecuada y estable"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-15",
+          "quote": "alquiler social de al menos 7 años"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-constitutional-housing-right",
+      "title": {
+        "es": "Derecho fundamental a la vivienda",
+        "ca": "Dret fonamental a l’habitatge",
+        "gl": "Dereito fundamental á vivenda",
+        "eu": "Etxebizitzarako oinarrizko eskubidea",
+        "oc": "Dret fondamentau ar abitatge",
+        "en": "Fundamental right to housing"
+      },
+      "text": {
+        "es": "Reformar el artículo 47 de la Constitución para que el derecho a una vivienda digna, adecuada y asequible sea un derecho fundamental exigible ante los tribunales. Hasta que se haga la reforma, reconocer por ley un derecho a la vivienda exigible ante los tribunales, empezando por las personas sin hogar, las familias con menores y las víctimas de violencia machista.",
+        "ca": "Reformar l’article 47 de la Constitució perquè el dret a un habitatge digne, adequat i assequible sigui un dret fonamental exigible davant dels tribunals. Fins que es faci la reforma, reconèixer per llei un dret a l’habitatge exigible davant dels tribunals, començant per les persones sense llar, les famílies amb menors i les víctimes de violència masclista.",
+        "gl": "Reformar o artigo 47 da Constitución para que o dereito a unha vivenda digna, axeitada e alcanzable sexa un dereito fundamental esixible perante os tribunais. Ata que se aprobe a reforma, recoñecer por lei un dereito á vivenda esixible perante os tribunais, empezando polas persoas sen fogar, as familias con menores e as vítimas de violencia machista.",
+        "eu": "Konstituzioaren 47. artikulua erreformatzea, etxebizitza duin, egoki eta eskuragarria izateko eskubidea auzitegietan galdatu daitekeen oinarrizko eskubidea izan dadin. Erreforma egin arte, auzitegietan galdatu daitekeen etxebizitzarako eskubidea legez aitortzea, etxerik gabeko pertsonetatik, adingabeak dituzten familietatik eta indarkeria matxistaren biktimetatik hasita.",
+        "oc": "Reformar er article 47 dera Constitucion entà que dret a un abitatge digne, adequat e assequible sigue un dret fondamentau exigible deuant des tribunaus. Enquia que se hèsca era reforma, arreconéisher per lei un dret ar abitatge exigible deuant des tribunaus, en tot començar pes persones sense larèr, es familhes damb menors e es victimes de violéncia masclista.",
+        "en": "Amend Article 47 of the Constitution to make the right to decent, suitable and affordable housing a fundamental right enforceable in court. Until the amendment takes effect, establish a statutory right to housing enforceable in court, starting with people experiencing homelessness, families with children and victims of sexist violence."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-19",
+          "quote": "adquirirá la condición de derecho"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-19",
+          "quote": "un derecho subjetivo"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-19",
+          "quote": "las familias con menores y las víctimas de violencia machista"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-large-owner-expropriation",
+      "title": {
+        "es": "Expropiación de vivienda de grandes tenedores corporativos",
+        "ca": "Expropiació d’habitatges de grans tenidors corporatius",
+        "gl": "Expropiación de vivendas de grandes propietarios corporativos",
+        "eu": "Jabe korporatibo handien etxebizitzen desjabetzea",
+        "oc": "Expropriacion d’abitatges de grani proprietaris corporatius",
+        "en": "Expropriation of homes held by large corporate owners"
+      },
+      "text": {
+        "es": "Aprobar una ley para expropiar viviendas a propietarios corporativos privados en tres fases: primero a entidades con más de 1.000 viviendas, luego a tenedores con más de 700 y por último a empresas con más de 50 inmuebles. Adscribir obligatoriamente a la empresa pública Casa 47 todas las fincas urbanas y los suelos residenciales de la SAREB.",
+        "ca": "Aprovar una llei per expropiar habitatges a propietaris corporatius privats en tres fases: primer a entitats amb més de 1.000 habitatges, després a tenidors amb més de 700 i finalment a empreses amb més de 50 immobles. Adscriure obligatòriament a l’empresa pública Casa 47 totes les finques urbanes i els sòls residencials de la SAREB.",
+        "gl": "Aprobar unha lei para expropiar vivendas a propietarios corporativos privados en tres fases: primeiro a entidades con máis de 1.000 vivendas, despois a propietarios con máis de 700 e por último a empresas con máis de 50 inmobles. Adscribir obrigatoriamente á empresa pública Casa 47 todos os predios urbanos e os solos residenciais da SAREB.",
+        "eu": "Jabe korporatibo pribatuen etxebizitzak hiru fasetan desjabetzeko legea onartzea: lehenik, 1.000 etxebizitza baino gehiago dituzten entitateei; gero, 700 baino gehiago dituzten jabeei; eta azkenik, 50 higiezin baino gehiago dituzten enpresei. SAREBen hiri-finka eta bizitegi-lurzoru guztiak Casa 47 enpresa publikoari nahitaez atxikitzea.",
+        "oc": "Aprovar ua lei entà expropriar abitatges a proprietaris corporatius privadi en tres fases: prumèr a entitats damb mès de 1.000 abitatges, dempús a proprietaris damb mès de 700 e finaument a entrepreses damb mès de 50 immòbles. Adscríuer obligatòriament ara empresa publica Casa 47 totes es finques urbanes e es terrens residenciaus dera SAREB.",
+        "en": "Pass a law to expropriate homes from private corporate owners in three phases: first from entities with more than 1,000 homes, then from owners with more than 700, and finally from companies with more than 50 properties. Assign all SAREB urban properties and residential land to the public company Casa 47."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "poseedoras de más de 1.000 viviendas"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "a tenedores de más de 700 viviendas"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "de más de 50 inmuebles"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-10",
+          "quote": "todas las fincas urbanas y suelos residenciales de la SAREB"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-housing-accumulation-tax",
+      "title": {
+        "es": "Impuesto a la acumulación de viviendas",
+        "ca": "Impost sobre l’acumulació d’habitatges",
+        "gl": "Imposto á acumulación de vivendas",
+        "eu": "Etxebizitzak metatzearen gaineko zerga",
+        "oc": "Impòst tara acumulacion d’abitatges",
+        "en": "Tax on accumulating homes"
+      },
+      "text": {
+        "es": "Crear un impuesto del 10 % sobre el valor de las viviendas afectadas. Aplicarlo a las empresas desde el primer inmueble. Aplicarlo a los particulares a partir del cuarto si el valor conjunto de sus propiedades supera los 800.000 euros. Eximir las viviendas en alquiler asequible y estable y prever excepciones para participaciones minoritarias heredadas, inmuebles de escaso valor y circunstancias familiares acreditadas, así como para cooperativas de vivienda, administraciones públicas y organizaciones sin ánimo de lucro.",
+        "ca": "Crear un impost del 10 % sobre el valor dels habitatges afectats. Aplicar-lo a les empreses des del primer immoble. Aplicar-lo als particulars a partir del quart si el valor conjunt de les seves propietats supera els 800.000 euros. Eximir els habitatges en lloguer assequible i estable i preveure excepcions per a participacions minoritàries heretades, immobles de poc valor i circumstàncies familiars acreditades, així com per a cooperatives d’habitatge, administracions públiques i organitzacions sense ànim de lucre.",
+        "gl": "Crear un imposto do 10 % sobre o valor das vivendas afectadas. Aplicalo ás empresas desde o primeiro inmoble. Aplicalo ás persoas particulares a partir do cuarto se o valor conxunto das súas propiedades supera os 800.000 euros. Eximir as vivendas en alugueiro accesible e estable e prever excepcións para participacións minoritarias herdadas, inmobles de escaso valor e circunstancias familiares acreditadas, así como para cooperativas de vivenda, administracións públicas e organizacións sen ánimo de lucro.",
+        "eu": "Zergapeko etxebizitzen balioaren % 10eko zerga sortzea. Enpresei lehen higiezinetik aplikatzea. Partikularrei laugarrenetik aplikatzea, beren ondasun higiezinen balio osoa 800.000 eurotik gorakoa bada. Alokairu eskuragarri eta egonkorreko etxebizitzak salbuestea, eta salbuespenak ezartzea oinordetzan hartutako partaidetza minoritarioetarako, balio txikiko higiezinetarako eta egiaztatutako familia-egoeretarako, baita etxebizitza-kooperatibetarako, administrazio publikoetarako eta irabazi-asmorik gabeko erakundeetarako ere.",
+        "oc": "Crear un impòst deth 10 % sus eth valor des abitatges afectadi. Aplicar-lo as empreses a compdar deth prumèr immòble. Aplicar-lo as particulars a compdar deth quatau s’eth valor conjunt des sues proprietats supère es 800.000 èuros. Eximir es abitatges en loguèr assequible e estable e preveir excepcions entà participacions minoritàries eretades, immòbles de pòc valor e circonstàncies familiares acreditades, atau coma entà cooperatives d’abitatge, administracions publiques e organizacions sense ànim de lucre.",
+        "en": "Create a 10% tax on the value of the homes covered. Apply it to companies from the first property. Apply it to individuals from the fourth if their combined property value exceeds €800,000. Exempt homes let at affordable, stable rents and provide exceptions for inherited minority interests, low-value properties and documented family circumstances, as well as for housing cooperatives, public authorities and nonprofit organisations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-18",
+          "quote": "un impuesto del 10 % sobre el valor de los pisos que afectará a las empresas desde el primer inmueble y a los particulares a partir del cuarto, cuan- do sus propiedades superen conjuntamente los 800.000 euros."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-18",
+          "quote": "dejar exentas las viviendas destinadas al alquiler asequible y estable."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-18",
+          "quote": "excepciones para particulares con participaciones minoritarias heredadas, inmuebles de escaso valor o circunstancias familiares acreditadas."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-18",
+          "quote": "quedarán fuera las cooperativas de vivienda, las adminis- traciones públicas y las organizaciones sin ánimo de lucro."
+        }
+      ]
+    }
+  ]
+}

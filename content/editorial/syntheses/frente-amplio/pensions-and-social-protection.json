@@ -1,0 +1,280 @@
+{
+  "id": "frente-amplio--pensions-and-social-protection",
+  "partyId": "frente-amplio",
+  "topicId": "pensions-and-social-protection",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-constitutional-public-pensions",
+      "title": {
+        "es": "Pensiones públicas en la Constitución",
+        "ca": "Pensions públiques a la Constitució",
+        "gl": "Pensións públicas na Constitución",
+        "eu": "Pentsio publikoak Konstituzioan",
+        "oc": "Pensions publiques ena Constitucion",
+        "en": "Constitutional protection for public pensions"
+      },
+      "text": {
+        "es": "Reformar la Constitución por el procedimiento ordinario del artículo 167 para proteger el derecho a la pensión pública. Garantizar la actualización automática de las pensiones públicas según el IPC, que ninguna quede por debajo del salario mínimo interprofesional y que su gestión no se privatice.",
+        "ca": "Reformar la Constitució pel procediment ordinari de l’article 167 per protegir el dret a la pensió pública. Garantir l’actualització automàtica de les pensions públiques segons l’IPC, que cap quedi per sota del salari mínim interprofessional i que no se’n privatitzi la gestió.",
+        "gl": "Reformar a Constitución polo procedemento ordinario do artigo 167 para protexer o dereito á pensión pública. Garantir a actualización automática das pensións públicas segundo o IPC, que ningunha quede por debaixo do salario mínimo interprofesional e que non se privatice a súa xestión.",
+        "eu": "Konstituzioa 167. artikuluko prozedura arruntaren bidez erreformatzea, pentsio publikorako eskubidea babesteko. Pentsio publikoak KPIaren arabera automatikoki eguneratzea, pentsiorik ez geratzea lanbide arteko gutxieneko soldataren azpitik eta haien kudeaketa ez pribatizatzea bermatzea.",
+        "oc": "Reformar era Constitucion peth procediment ordinari der article 167 entà protegir eth dret ara pension publica. Garantir era actualizacion automatica des pensions publiques segontes er IPC, que cap non demore per dejós deth salari minimau interprofessionau e que non se privatize era sua gestion.",
+        "en": "Amend the Constitution through the ordinary procedure in Article 167 to protect the right to a public pension. Guarantee automatic inflation adjustment in line with the consumer price index, a floor at the statutory minimum wage for every public pension, and protection against privatising their administration."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-57",
+          "quote": "revalorización automática con arreglo al IPC"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-57",
+          "quote": "ninguna sea inferior al SMI"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-57",
+          "quote": "no se privatice la gestión de las pensiones"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-retirement-age-and-penalties",
+      "title": {
+        "es": "Edad de jubilación y jubilación anticipada",
+        "ca": "Edat de jubilació i jubilació anticipada",
+        "gl": "Idade de xubilación e xubilación anticipada",
+        "eu": "Erretiro-adina eta erretiro aurreratua",
+        "oc": "Edat de jubilacion e jubilacion anticipada",
+        "en": "Retirement age and early retirement"
+      },
+      "text": {
+        "es": "Volver a fijar la edad de jubilación en 65 años y permitirla a los 60 en ocupaciones especialmente penosas, como construcción, limpieza, ayuda a domicilio, camareras de piso y pesca. Suprimir los coeficientes reductores para quienes hayan cotizado más de 40 años y deban jubilarse anticipadamente de forma involuntaria.",
+        "ca": "Tornar a fixar l’edat de jubilació en 65 anys i permetre-la als 60 en ocupacions especialment penoses, com la construcció, la neteja, l’ajuda a domicili, la feina de cambrera de pis i la pesca. Suprimir els coeficients reductors per a qui hagi cotitzat més de 40 anys i s’hagi de jubilar anticipadament de manera involuntària.",
+        "gl": "Volver fixar a idade de xubilación nos 65 anos e permitila aos 60 en ocupacións especialmente penosas, como a construción, a limpeza, a axuda no fogar, o traballo de camareira de piso e a pesca. Suprimir os coeficientes redutores para quen cotizase máis de 40 anos e teña que xubilarse anticipadamente de maneira involuntaria.",
+        "eu": "Erretiro-adina berriz 65 urtean ezartzea eta 60 urterekin erretiroa hartzeko aukera ematea lan bereziki nekagarrietan, hala nola eraikuntzan, garbiketan, etxez etxeko laguntzan, hoteletako logelen garbiketan eta arrantzan. Murrizketa-koefizienteak kentzea 40 urte baino gehiago kotizatu eta nahi gabe erretiro aurreratua hartu behar dutenentzat.",
+        "oc": "Tornar a fixar era edat de jubilacion en 65 ans e permeter-la as 60 en ocupacions especiaument penibles, coma era construccion, era neteja, era ajuda a domicili, eth trabalh de camarèra de pis e era pesca. Suprimir es coeficients reductors entàs persones qu’agen cotizat mès de 40 ans e s’agen de jubilar anticipadament de manèra involontària.",
+        "en": "Restore the retirement age to 65 and allow retirement at 60 in particularly arduous jobs, including construction, cleaning, home care, hotel housekeeping and fishing. Remove pension reductions for people with more than 40 years of contributions who have to retire early involuntarily."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-57",
+          "quote": "Devolveremos la edad de jubilación a los 65 años"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-58",
+          "quote": "deben poder acceder a los 60 años por su especial esfuerzo físico"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-58",
+          "quote": "quienes han cotizado más de 40 años"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-pension-gender-gap",
+      "title": {
+        "es": "Brecha de género en las pensiones",
+        "ca": "Bretxa de gènere en les pensions",
+        "gl": "Fenda de xénero nas pensións",
+        "eu": "Genero-arrakala pentsioetan",
+        "oc": "Bretxa de genre enes pensions",
+        "en": "Gender gap in pensions"
+      },
+      "text": {
+        "es": "Subir por encima de la media las pensiones contributivas más bajas y las no contributivas. Aumentar progresivamente el complemento de brecha de género, reconocer los periodos dedicados a cuidados y corregir la penalización de las carreras laborales interrumpidas o marcadas por el trabajo a tiempo parcial involuntario.",
+        "ca": "Apujar per sobre de la mitjana les pensions contributives més baixes i les no contributives. Augmentar progressivament el complement de bretxa de gènere, reconèixer els períodes dedicats a les cures i corregir la penalització de les trajectòries laborals interrompudes o marcades pel treball a temps parcial involuntari.",
+        "gl": "Subir por riba da media as pensións contributivas máis baixas e as non contributivas. Aumentar progresivamente o complemento da fenda de xénero, recoñecer os períodos dedicados aos coidados e corrixir a penalización das carreiras laborais interrompidas ou marcadas polo traballo a tempo parcial involuntario.",
+        "eu": "Kotizaziopeko pentsio apalenak eta kotizazio gabekoak batezbestekoa baino gehiago igotzea. Genero-arrakalaren osagarria pixkanaka handitzea, zaintzari eskainitako aldiak aitortzea eta etendako lan-ibilbideak edo nahi gabeko lanaldi partzialek baldintzatutakoak zigortzeari uztea.",
+        "oc": "Aumentar per dessús dera mejana es pensions contributives mès baishes e es non contributives. Aumentar progressivament eth complement de bretxa de genre, arreconéisher es periòdes dedicadi as suenhs e corregir era penalizacion des trajectòries laboraus interrompudes o mercades peth trabalh a temps parciau involontari.",
+        "en": "Give the lowest contributory pensions and non-contributory pensions above-average increases. Gradually increase the gender gap supplement, recognise time spent providing care and correct the penalties for interrupted careers or involuntary part-time work."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-58",
+          "quote": "Subiremos las pensiones"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-58",
+          "quote": "del complemento de brecha de género con incrementos progresivos"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-58",
+          "quote": "las carreras laborales interrumpidas o marcadas por la parcialidad"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-universal-child-benefit",
+      "title": {
+        "es": "Prestación universal por crianza",
+        "ca": "Prestació universal per criança",
+        "gl": "Prestación universal por crianza",
+        "eu": "Haurrak hazteko prestazio unibertsala",
+        "oc": "Prestacion universau de criança",
+        "en": "Universal child benefit"
+      },
+      "text": {
+        "es": "Establecer una prestación universal de 200 € al mes por cada menor de 18 años a cargo, con independencia de los ingresos o la situación laboral de sus progenitores. Abonarla automáticamente desde el nacimiento como deducción reembolsable del IRPF, con despliegue en tres fases durante la legislatura.",
+        "ca": "Establir una prestació universal de 200 € al mes per cada menor de 18 anys a càrrec, independentment dels ingressos o la situació laboral dels seus progenitors. Abonar-la automàticament des del naixement com a deducció reemborsable de l’IRPF, amb desplegament en tres fases durant la legislatura.",
+        "gl": "Establecer unha prestación universal de 200 € ao mes por cada menor de 18 anos a cargo, independentemente dos ingresos ou da situación laboral dos seus proxenitores. Aboala automaticamente desde o nacemento como dedución reembolsable do IRPF, con implantación en tres fases durante a lexislatura.",
+        "eu": "Ardurapeko 18 urtetik beherako adingabe bakoitzeko hilean 200 €-ko prestazio unibertsala ezartzea, gurasoen diru-sarrerak edo lan-egoera edozein direla ere. Jaiotzatik aurrera automatikoki ordaintzea, PFEZaren kenkari itzulgarri gisa, legealdian hiru fasetan ezarriz.",
+        "oc": "Establir ua prestacion universau de 200 € ath mes per cada menor de 18 ans a cargue, independentament des ingrèssi o dera situacion laborau des sòns progenitors. Pagar-la automaticament des deth neishement coma deduccion reemborsabla der IRPF, damb desplegament en tres fases pendent era legislatura.",
+        "en": "Introduce a universal benefit of €200 a month for each dependent child under 18, regardless of their parents’ income or employment status. Pay it automatically from birth as a refundable personal income tax credit, rolling it out in three phases over the parliamentary term."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-21",
+          "quote": "al mes por cada menor de 18 años a cargo"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-21",
+          "quote": "forma automática como deducción reembolsable del IRPF"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-21",
+          "quote": "Implementación en 3 fases durante la legislatura"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-minimum-income",
+      "title": {
+        "es": "Ingreso Mínimo Vital",
+        "ca": "Ingreso Mínimo Vital",
+        "gl": "Ingreso Mínimo Vital",
+        "eu": "Ingreso Mínimo Vital",
+        "oc": "Ingreso Mínimo Vital",
+        "en": "Ingreso Mínimo Vital"
+      },
+      "text": {
+        "es": "Conceder de oficio el Ingreso Mínimo Vital cruzando datos fiscales y de la Seguridad Social y avanzar hacia una prestación equivalente al 60 % de la renta mediana de la comunidad autónoma de residencia, ajustada al tamaño y composición del hogar. Extenderlo a jóvenes de 18 a 30 años sin requisitos desproporcionados de emancipación previa, con un suelo del 40 % de la mediana de ingresos nacional.",
+        "ca": "Concedir d’ofici l’Ingreso Mínimo Vital creuant dades fiscals i de la Seguretat Social, i avançar cap a una prestació equivalent al 60 % de la renda mediana de la comunitat autònoma de residència, ajustada a la mida i la composició de la llar. Estendre’l a joves de 18 a 30 anys sense requisits desproporcionats d’emancipació prèvia, amb un mínim del 40 % de la mediana d’ingressos nacional.",
+        "gl": "Conceder de oficio o Ingreso Mínimo Vital cruzando datos fiscais e da Seguridade Social e avanzar cara a unha prestación equivalente ao 60 % da renda mediana da comunidade autónoma de residencia, axustada ao tamaño e á composición do fogar. Estendelo á mocidade de 18 a 30 anos sen requisitos desproporcionados de emancipación previa, cun mínimo do 40 % da mediana de ingresos estatal.",
+        "eu": "Ingreso Mínimo Vital prestazioa ofizioz ematea, zerga-datuak eta Gizarte Segurantzakoak gurutzatuz. Bizilekuko autonomia-erkidegoko errenta medianaren % 60ko prestaziorantz aurrera egitea, etxekoen kopuruaren eta osaeraren arabera doituta. Prestazioa 18 eta 30 urte bitarteko gazteei zabaltzea, aurretiaz emantzipatzeko neurriz kanpoko baldintzarik gabe, eta estatu osoko diru-sarreren medianaren % 40ko gutxienekoarekin.",
+        "oc": "Concedir d’ofici er Ingreso Mínimo Vital en tot crotzar donades fiscaus e dera Seguretat Sociau, e auançar de cap a ua prestacion equivalenta ath 60 % dera renda mediana dera comunitat autonòma de residéncia, ajustada ara mesura e ara composicion dera larèr. Esténer-lo as joeni de 18 a 30 ans sense requisits desproporcionadi d’emancipacion prealabla, damb un minimau deth 40 % dera mediana d’ingrèssi estatau.",
+        "en": "Award the Ingreso Mínimo Vital automatically by linking tax and social security data. Work towards a benefit equal to 60% of median income in the recipient’s autonomous community, adjusted for household size and composition. Extend it to people aged 18 to 30 without disproportionate requirements for prior independent living, with an income floor of 40% of the national median."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "la interconexión automatizada de datos fiscales"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "la regla de las unidades de consumo"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "el 60 % de la renta mediana"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "equivalente al 40 % de la mediana"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "Extenderemos de forma plena el IMV a jóvenes de 18 a 30 años"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-long-term-care",
+      "title": {
+        "es": "Atención a la dependencia y descanso de las personas cuidadoras",
+        "ca": "Atenció a la dependència i descans de les persones cuidadores",
+        "gl": "Atención á dependencia e descanso das persoas coidadoras",
+        "eu": "Mendekotasun-arreta eta zaintzaileen atsedena",
+        "oc": "Atencion ara dependéncia e repaus des persones suenhadores",
+        "en": "Long-term care and respite for carers"
+      },
+      "text": {
+        "es": "Elevar del 0,8 % al 1,7 % del PIB la inversión pública en atención a la dependencia para 2030. Duplicar las horas y la intensidad mínima de la ayuda a domicilio, incluidos los fines de semana en casos de gran dependencia, y reconocer por ley al menos un mes al año de respiro mediante centros de día o estancias temporales.",
+        "ca": "Elevar del 0,8 % a l’1,7 % del PIB la inversió pública en atenció a la dependència per al 2030. Duplicar les hores i la intensitat mínima de l’ajuda a domicili, inclosos els caps de setmana en casos de gran dependència, i reconèixer per llei almenys un mes a l’any de respir mitjançant centres de dia o estades temporals.",
+        "gl": "Elevar do 0,8 % ao 1,7 % do PIB o investimento público en atención á dependencia para 2030. Duplicar as horas e a intensidade mínima da axuda no fogar, incluídas as fins de semana en casos de gran dependencia, e recoñecer por lei polo menos un mes ao ano de respiro mediante centros de día ou estadías temporais.",
+        "eu": "Mendekotasun-arretako inbertsio publikoa BPGaren % 0,8tik % 1,7ra igotzea 2030erako. Etxez etxeko laguntzaren orduak eta gutxieneko intentsitatea bikoiztea, mendekotasun handiko kasuetan asteburuak barne. Urtean gutxienez hilabeteko atsedena legez aitortzea, eguneko zentroen edo aldi baterako egonaldien bidez.",
+        "oc": "Elevar deth 0,8 % ar 1,7 % deth PIB era inversion publica en atencion ara dependéncia entath 2030. Doblar es ores e era intensitat minima dera ajuda a domicili, includides es fins de setmana en casi de grana dependéncia, e arreconéisher per lei aumens un mes ar an de repaus mejançant centres de dia o estades temporaus.",
+        "en": "Increase public spending on long-term care from 0.8% to 1.7% of GDP by 2030. Double the hours and minimum intensity of home help, including weekends for people with high care needs. Give carers a legal right to at least one month of respite per year through day centres or temporary stays."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-23",
+          "quote": "la inversión pública del 0,8 % al 1,7 % del PIB en 2030"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-23",
+          "quote": "las horas e intensidad mínima de ayuda a domicilio"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-23",
+          "quote": "mínimo 1 mes al año con centros de día o estancias temporales"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-chosen-family-care-leave",
+      "title": {
+        "es": "Reconocimiento de las familias elegidas",
+        "ca": "Reconeixement de les famílies escollides",
+        "gl": "Recoñecemento das familias escollidas",
+        "eu": "Aukeratutako familien aitortza",
+        "oc": "Reconeishença des familhes escuelhudes",
+        "en": "Recognition of chosen families"
+      },
+      "text": {
+        "es": "Incorporar a la Ley de Familias la libre designación de personas de referencia sin exigir parentesco ni convivencia. Reconocer a las personas designadas a efectos de permisos retribuidos por enfermedad, hospitalización, fallecimiento y cuidados, y para el acompañamiento y la crianza de menores. El reconocimiento sería voluntario y no impondría obligaciones automáticas de cuidado ni sustituiría la responsabilidad pública de garantizarlos.",
+        "ca": "Incorporar a la Llei de famílies la lliure designació de persones de referència sense exigir parentiu ni convivència. Reconèixer les persones designades a efectes de permisos retribuïts per malaltia, hospitalització, defunció i cures, i per a l’acompanyament i la criança de menors. El reconeixement seria voluntari i no imposaria obligacions automàtiques de cura ni substituiria la responsabilitat pública de garantir les cures.",
+        "gl": "Incorporar á Lei de familias a libre designación de persoas de referencia sen esixir parentesco nin convivencia. Recoñecer as persoas designadas para os efectos de permisos retribuídos por enfermidade, hospitalización, falecemento e coidados, e para o acompañamento e a crianza de menores. O recoñecemento sería voluntario e non imporía obrigas automáticas de coidado nin substituiría a responsabilidade pública de garantir os coidados.",
+        "eu": "Familien Legean erreferentziazko pertsonak askatasunez izendatzeko aukera sartzea, ahaidetasunik edo bizikidetzarik eskatu gabe. Izendatutako pertsonak aitortzea gaixotasunagatik, ospitaleratzeagatik, heriotzagatik eta zaintzagatik ordaindutako baimenetarako, bai eta adingabeei laguntzeko eta haiek hazteko ere. Aitortza borondatezkoa litzateke, eta ez luke automatikoki zaintza-betebeharrik ezarriko, ezta zaintza bermatzeko erantzukizun publikoa ordezkatuko ere.",
+        "oc": "Incorporar ena Lei de familhes era designacion liura de persones de referéncia sense exigir parentiu ne convivéncia. Reconeisher es persones designades as efèctes de permisi retribuïdi per malautia, espitalizacion, decès e suenhs, e entar acompanhament e era creishença de menors. Eth reconeishement serie volontari e non imposarie obligacions automatiques de suenh ne substituirie era responsabilitat publica de garantir es suenhs.",
+        "en": "Allow people to freely designate trusted individuals under the proposed Families Act, without any requirement to be related or live together. Recognise designated people for paid leave related to illness, hospitalisation, bereavement and care, as well as for accompanying and raising children. Recognition would be voluntary and would neither create an automatic duty to provide care nor replace the responsibility of public authorities to ensure care is available."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-24",
+          "quote": "a la Ley de Familias el princi- pio de libre designación de personas de referencia"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-24",
+          "quote": "Las personas designadas, sin necesidad de parentesco ni convivencia, serán referentes a efectos de permisos retribuidos por enfermedad, hospitalización, fallecimiento y cuidados, así como para el acompañamiento y la crianza de menores."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-24",
+          "quote": "El reconocimiento será voluntario y no impon- drá obligaciones automáticas de cuidado ni sustituirá la responsabilidad pública"
+        }
+      ]
+    }
+  ]
+}

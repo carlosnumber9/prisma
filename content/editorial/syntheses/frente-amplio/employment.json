@@ -1,0 +1,214 @@
+{
+  "id": "frente-amplio--employment",
+  "partyId": "frente-amplio",
+  "topicId": "employment",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-minimum-wage-floor",
+      "title": {
+        "es": "Suelo legal del salario mínimo",
+        "ca": "Llindar legal del salari mínim",
+        "gl": "Limiar legal do salario mínimo",
+        "eu": "Gutxieneko soldataren legezko zorua",
+        "oc": "Limit minim legau deth salari minim",
+        "en": "Statutory minimum wage floor"
+      },
+      "text": {
+        "es": "Subir progresivamente el salario mínimo interprofesional y fijar por ley un suelo permanente del 60 % del salario medio neto. Prohibir expresamente que los complementos o pluses salariales absorban o compensen el salario mínimo.",
+        "ca": "Pujar progressivament el salari mínim interprofessional i fixar per llei un mínim permanent del 60 % del salari mitjà net. Prohibir expressament que els complements o plusos salarials absorbeixin o compensin el salari mínim.",
+        "gl": "Subir progresivamente o salario mínimo interprofesional e fixar por lei un mínimo permanente do 60 % do salario medio neto. Prohibir expresamente que os complementos ou pluses salariais absorban ou compensen o salario mínimo.",
+        "eu": "Lanbide arteko gutxieneko soldata pixkanaka igotzea eta legez ezartzea batez besteko soldata garbiaren % 60ko gutxieneko maila iraunkorra. Soldata-gainordainek edo osagarriek gutxieneko soldata xurgatzea edo konpentsatzea berariaz debekatzea.",
+        "oc": "Aumentar progressivament eth salari minim interprofessionau e fixar per lei un minim permanent deth 60 % deth salari mejan net. Proïbir expressament qu’es complements o plusi salariaus absorbisquen o compensen eth salari minim.",
+        "en": "Raise the statutory minimum wage progressively and set a permanent legal floor at 60% of average net pay. Explicitly prohibit employers from using pay supplements or allowances to absorb or offset the minimum wage."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-51",
+          "quote": "suelo permanente equivalente al 60 % del salario medio neto de la economía."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-51",
+          "quote": "prohibición explícita de que pueda ser absorbido o compensado mediante complementos o pluses salariales."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-shorter-working-week",
+      "title": {
+        "es": "Reducción de la jornada sin rebaja salarial",
+        "ca": "Reducció de la jornada sense rebaixa salarial",
+        "gl": "Redución da xornada sen baixada salarial",
+        "eu": "Lanaldia laburtzea soldata jaitsi gabe",
+        "oc": "Reduccion dera jornada sense baishar eth salari",
+        "en": "Shorter working week without a pay cut"
+      },
+      "text": {
+        "es": "Implantar de inmediato una jornada de 37,5 horas semanales en 2026 y de 35 horas en el sector público, sin compensación mediante horas extra y con una subida proporcional del salario por hora en contratos a tiempo parcial. Reducir progresivamente la jornada máxima a 32 horas semanales sin rebaja salarial.",
+        "ca": "Implantar immediatament una jornada de 37,5 hores setmanals el 2026 i de 35 hores al sector públic, sense compensació mitjançant hores extraordinàries i amb un augment proporcional del salari per hora en els contractes a temps parcial. Reduir progressivament la jornada màxima a 32 hores setmanals sense rebaixa salarial.",
+        "gl": "Implantar de inmediato unha xornada de 37,5 horas semanais en 2026 e de 35 horas no sector público, sen compensación mediante horas extraordinarias e cunha subida proporcional do salario por hora nos contratos a tempo parcial. Reducir progresivamente a xornada máxima a 32 horas semanais sen baixada salarial.",
+        "eu": "2026an astean 37,5 orduko lanaldia eta sektore publikoan 35 ordukoa berehala ezartzea, aparteko orduekin konpentsatu gabe eta lanaldi partzialeko kontratuetan orduko soldata proportzioan igota. Gehieneko lanaldia pixkanaka astean 32 ordura murriztea, soldata jaitsi gabe.",
+        "oc": "Implantar immediatament ua jornada de 37,5 ores setmanaus en 2026 e de 35 ores en sector public, sense compensacion damb ores extraordinàries e damb un aument proporcionau deth salari per ora enes contractes a temps parciau. Redusir progressivament era jornada maximau a 32 ores setmanaus sense baishar eth salari.",
+        "en": "Immediately introduce a 37.5-hour working week in 2026 and a 35-hour week in the public sector, with no offset through overtime and a proportionate increase in hourly pay for part-time contracts. Gradually reduce the maximum working week to 32 hours without cutting pay."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-55",
+          "quote": "Hacia una jornada laboral máxima de 32 horas semanales sin reducción salarial"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-55",
+          "quote": "Implantación inmediata a 37,5 horas en 2026 y 35 horas en el sector público, prohibiendo la compensación mediante horas extraordinarias y exigiendo la subi- da proporcional del salario hora en contratos a tiempo parcial."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-55",
+          "quote": "de forma progresiva hasta las 32 horas semanales."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-unfair-dismissal-compensation",
+      "title": {
+        "es": "Indemnización por despido improcedente",
+        "ca": "Indemnització per acomiadament improcedent",
+        "gl": "Indemnización por despedimento improcedente",
+        "eu": "Bidegabeko kaleratzearen kalte-ordaina",
+        "oc": "Indemnizacion per acomiadament improcedent",
+        "en": "Compensation for unfair dismissal"
+      },
+      "text": {
+        "es": "Reformar la indemnización por despido improcedente para reparar el daño real a la persona despedida y disuadir de los despidos injustificados, en línea con el artículo 24 de la Carta Social Europea revisada.",
+        "ca": "Reformar la indemnització per acomiadament improcedent per reparar el dany real a la persona acomiadada i dissuadir dels acomiadaments injustificats, d’acord amb l’article 24 de la Carta Social Europea revisada.",
+        "gl": "Reformar a indemnización por despedimento improcedente para reparar o dano real á persoa despedida e disuadir dos despedimentos inxustificados, en liña co artigo 24 da Carta Social Europea revisada.",
+        "eu": "Bidegabeko kaleratzearen kalte-ordaina aldatzea, kaleratutako pertsonari benetan eragindako kaltea konpontzeko eta justifikaziorik gabeko kaleratzeak egitetik atzera eginarazteko, berrikusitako Europako Gutun Sozialaren 24. artikuluarekin bat.",
+        "oc": "Reformar era indemnizacion per acomiadament improcedent entà reparar eth prejudici reau ara persona acomiadada e dissuadir des acomiadaments injustificadi, d’acòrd damb er article 24 dera Carta Social Europea revisada.",
+        "en": "Reform unfair dismissal compensation to remedy the actual harm to the dismissed worker and deter unjustified dismissal, in line with Article 24 of the revised European Social Charter."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-52",
+          "quote": "repare el daño real causado a la persona trabajadora y di- suada de los despidos injustificados"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-52",
+          "quote": "artículo 24 de la Carta Social Europea revisada"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-contributory-unemployment-benefit",
+      "title": {
+        "es": "Prestación contributiva por desempleo",
+        "ca": "Prestació contributiva d’atur",
+        "gl": "Prestación contributiva por desemprego",
+        "eu": "Langabeziagatiko kotizaziopeko prestazioa",
+        "oc": "Prestacion contributiva per caumatge",
+        "en": "Contributory unemployment benefit"
+      },
+      "text": {
+        "es": "Elevar la prestación contributiva por desempleo del 70 % al 80 % de la base reguladora durante los seis primeros meses y fijarla en el 70 % para el resto del periodo. Subir un 25 % los topes máximos de la prestación.",
+        "ca": "Elevar la prestació contributiva d’atur del 70 % al 80 % de la base reguladora durant els sis primers mesos i fixar-la en el 70 % per a la resta del període. Pujar un 25 % els topalls màxims de la prestació.",
+        "gl": "Elevar a prestación contributiva por desemprego do 70 % ao 80 % da base reguladora durante os seis primeiros meses e fixala no 70 % para o resto do período. Subir un 25 % os topes máximos da prestación.",
+        "eu": "Kotizaziopeko langabezia-prestazioa oinarri arautzailearen % 70etik % 80ra igotzea lehen sei hilabeteetan, eta % 70ean ezartzea gainerako aldian. Prestazioaren gehieneko mugak % 25 igotzea.",
+        "oc": "Aumentar era prestacion contributiva per caumatge deth 70 % ath 80 % dera basa reguladora pendent es sies prumèrs mesi e fixar-la en 70 % entara rèsta deth periòde. Aumentar un 25 % es limits maximaus dera prestacion.",
+        "en": "Raise contributory unemployment benefit from 70% to 80% of the assessment base for the first six months and set it at 70% for the remaining period. Raise the maximum benefit amounts by 25%."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-53",
+          "quote": "del 70 % al 80 % de la base reguladora durante los primeros seis meses (y 70 % el resto) y subiremos un 25 % los topes máximos."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-guaranteed-employment-plan",
+      "title": {
+        "es": "Plan de Empleo Garantizado",
+        "ca": "Plan de Empleo Garantizado",
+        "gl": "Plan de Empleo Garantizado",
+        "eu": "Plan de Empleo Garantizado",
+        "oc": "Plan de Empleo Garantizado",
+        "en": "Plan de Empleo Garantizado"
+      },
+      "text": {
+        "es": "Poner en marcha el Plan de Empleo Garantizado mediante convenios con comunidades autónomas y entidades locales, con prioridad para personas en paro de larga duración y jóvenes. Los contratos no podrán cubrir puestos estructurales o estatutarios de las administraciones públicas.",
+        "ca": "Posar en marxa el Plan de Empleo Garantizado mitjançant convenis amb comunitats autònomes i ens locals, amb prioritat per a persones en atur de llarga durada i joves. Els contractes no podran cobrir llocs estructurals o estatutaris de les administracions públiques.",
+        "gl": "Poñer en marcha o Plan de Empleo Garantizado mediante convenios con comunidades autónomas e entidades locais, con prioridade para persoas en paro de longa duración e persoas mozas. Os contratos non poderán cubrir postos estruturais ou estatutarios das administracións públicas.",
+        "eu": "Plan de Empleo Garantizado abian jartzea autonomia-erkidegoekin eta toki-erakundeekin egindako hitzarmenen bidez, iraupen luzeko langabeei eta gazteei lehentasuna emanez. Kontratuek ezin izango dituzte administrazio publikoetako egiturazko edo estatutupeko lanpostuak bete.",
+        "oc": "Botar en marcha eth Plan de Empleo Garantizado per miei de convènis damb es comunitats autonomes e es entitats locaus, damb prioritat entàs persones en caumatge de longa durada e entàs joeni. Es contractes non poderàn corbir lòcs de trabalh estructuraus o estatutaris des administracions publiques.",
+        "en": "Launch the Plan de Empleo Garantizado through agreements with autonomous communities and local authorities, prioritising the long-term unemployed and young people. Contracts cannot cover structural or statutory posts in public administrations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-53",
+          "quote": "priorizando parados de larga du- ración y jóvenes."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-101",
+          "quote": "mediante conve- nios con las comunidades autónomas"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-101",
+          "quote": "no podrán referirse a puestos de trabajo estructurales o estatutarios de las admi- nistraciones públicas."
+        }
+      ],
+      "internalNotes": "Section 4.1 names young people and the long-term unemployed as priorities. Section 10.2 explicitly names the long-term unemployed and specifies implementation and the exclusion of structural or statutory posts."
+    },
+    {
+      "id": "frente-amplio-worker-board-representation",
+      "title": {
+        "es": "Representación de las plantillas en los consejos",
+        "ca": "Representació de les plantilles als consells",
+        "gl": "Representación dos cadros de persoal nos consellos",
+        "eu": "Langileen ordezkaritza administrazio-kontseiluetan",
+        "oc": "Representacion des plantilhes enes conselhs",
+        "en": "Worker representation on company boards"
+      },
+      "text": {
+        "es": "Reservar por ley a la plantilla un tercio de los puestos del consejo de administración en empresas de 50 a 1.000 personas trabajadoras y la mitad en las de más de 1.000. Aplicar el mismo modelo a las empresas públicas y acordar el sistema de elección mediante convenio colectivo.",
+        "ca": "Reservar per llei a la plantilla un terç dels llocs del consell d’administració a les empreses de 50 a 1.000 persones treballadores i la meitat a les de més de 1.000. Aplicar el mateix model a les empreses públiques i acordar el sistema d’elecció mitjançant conveni col·lectiu.",
+        "gl": "Reservar por lei ao cadro de persoal un terzo dos postos do consello de administración nas empresas de 50 a 1.000 persoas traballadoras e a metade nas de máis de 1.000. Aplicar o mesmo modelo ás empresas públicas e acordar o sistema de elección mediante convenio colectivo.",
+        "eu": "Legez langileei administrazio-kontseiluko eserlekuen herena gordetzea 50 eta 1.000 langile arteko enpresetan, eta erdia 1.000 langiletik gorakoetan. Eredu bera enpresa publikoetan aplikatzea eta hautaketa-sistema hitzarmen kolektibo bidez adostea.",
+        "oc": "Reservar per lei ara plantilha un tèrç des sètis deth conselh d’administracion enes empreses de 50 a 1.000 trabalhaires e era mitat enes de mès de 1.000. Aplicar eth madeish modèl as empreses publiques e acordar eth sistèma d’eleccion per miei d’un convèni collectiu.",
+        "en": "By law, reserve one-third of board seats for workers in companies with 50 to 1,000 employees and half in companies with more than 1,000. Apply the same model to public companies and agree how representatives are elected through collective agreements."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-115",
+          "quote": "un tercio del consejo en empresas de 50 a 1.000 trabajadores y el 50 % (paritaria entre trabajadores y accionistas) en empresas de más de 1.000 trabajadores."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-115",
+          "quote": "La fórmula concreta de elección se acordará mediante convenio colectivo"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-115",
+          "quote": "Este modelo se aplicará igualmente a las empresas públicas"
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,17 @@
   "electionDate": "2026-11-29",
   "sources": [
     {
+      "id": "frente-amplio-2026-df6e4d967a3a",
+      "partyId": "frente-amplio",
+      "electionDate": "2026-11-29",
+      "title": "Un programa como una casa",
+      "url": "https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf",
+      "format": "pdf",
+      "capturedAt": "2026-11-16T23:55:29Z",
+      "sha256": "df6e4d967a3a41386656273c32c2df3edc6681b6ee047b190b2ebb91f1a36f04",
+      "pageCount": 151
+    },
+    {
       "id": "pp-2026-cea8f2a05227",
       "partyId": "pp",
       "electionDate": "2026-11-29",

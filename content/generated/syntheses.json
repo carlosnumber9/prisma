@@ -95,88 +95,2470 @@
       "partyId": "frente-amplio",
       "topicId": "economy-and-taxes",
       "path": "/parties/frente-amplio/economy-and-taxes",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-minimum-corporate-tax",
+          "title": {
+            "es": "Tipo mínimo en Sociedades",
+            "ca": "Tipus mínim en societats",
+            "gl": "Tipo mínimo no imposto sobre sociedades",
+            "eu": "Sozietateen gaineko zergaren gutxieneko tasa",
+            "oc": "Tipe minim der impòst sus societats",
+            "en": "Minimum corporation tax rate"
+          },
+          "text": {
+            "es": "Aplicar un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado de grandes empresas y grupos empresariales, sin aumentar la carga fiscal de las pymes.",
+            "ca": "Aplicar un tipus mínim efectiu del 20 % sobre el resultat comptable ajustat de les grans empreses i grups empresarials, sense augmentar la càrrega fiscal de les pimes.",
+            "gl": "Aplicar un tipo mínimo efectivo do 20 % sobre o resultado contable axustado das grandes empresas e grupos empresariais, sen aumentar a carga fiscal das pemes.",
+            "eu": "Enpresa handien eta enpresa-taldeen kontabilitate-emaitza doituari % 20ko gutxieneko tasa efektiboa aplikatzea, ETEen zerga-karga handitu gabe.",
+            "oc": "Aplicar un tipe minim efectiu deth 20 % sus eth resultat compdable ajustat des granes empreses e grops empresariaus, sense aumentar era carga fiscau des pimes.",
+            "en": "Apply a 20% effective minimum rate to the adjusted accounting result of large companies and corporate groups without increasing the tax burden on SMEs."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-44",
+              "quote": "un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado",
+              "page": 44
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-44",
+              "quote": "sin elevar la carga fiscal de las pymes.",
+              "page": 44
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-zucman-wealth-tax",
+          "title": {
+            "es": "Tasa Zucman",
+            "ca": "Taxa Zucman",
+            "gl": "Taxa Zucman",
+            "eu": "Zucman zerga",
+            "oc": "Taxa Zucman",
+            "en": "Zucman tax"
+          },
+          "text": {
+            "es": "Crear un impuesto estatal permanente del 3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros, sin exenciones para empresas familiares ni bonificaciones autonómicas. Mantener la obligación de tributar durante cinco años después de trasladar la residencia al extranjero y destinar la recaudación a la Prestación Universal por Crianza.",
+            "ca": "Crear un impost estatal permanent del 3 % anual sobre el patrimoni net individual que superi els 50 milions d’euros, sense exempcions per a empreses familiars ni bonificacions autonòmiques. Mantenir l’obligació de tributar durant cinc anys després de traslladar la residència a l’estranger i destinar la recaptació a la Prestación Universal por Crianza.",
+            "gl": "Crear un imposto estatal permanente do 3 % anual sobre o patrimonio neto individual que supere os 50 millóns de euros, sen exencións para empresas familiares nin bonificacións autonómicas. Manter a obriga de tributar durante cinco anos tras trasladar a residencia ao estranxeiro e destinar a recadación á Prestación Universal por Crianza.",
+            "eu": "50 milioi eurotik gorako banakako ondare garbiari urteko % 3ko estatu-zerga iraunkorra ezartzea, familia-enpresentzako salbuespenik eta autonomia-erkidegoen hobaririk gabe. Bizilekua atzerrira eraman ondoren bost urtez zerga ordaintzeko betebeharrari eustea eta diru-bilketa Prestación Universal por Crianza izeneko prestaziora bideratzea.",
+            "oc": "Crear un impòst estatau permanent deth 3 % annau sus eth patrimòni net individuau que supère es 50 milions d’èuros, sense exempcions entàs empreses familiares ne bonificacions autonomiques. Mantier era obligacion de tributar pendent cinc ans dempús de trasladar era residéncia ar estrangèr e destinar era recaptacion ara Prestación Universal por Crianza.",
+            "en": "Create a permanent state tax of 3% a year on individual net wealth exceeding €50 million, with no exemptions for family businesses or regional tax relief. Keep the tax obligation in place for five years after a move abroad and use the revenue to fund the Prestación Universal por Crianza."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-45",
+              "quote": "3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros.",
+              "page": 45,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-45",
+              "quote": "mantendrá la obligación de tributar durante los 5 años posteriores al traslado de residencia a un paraíso o país extranjero.",
+              "page": 45,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-45",
+              "quote": "recaudación financiará la Prestación Universal por Crianza.",
+              "page": 45,
+              "printedPage": "50"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-45",
+              "quote": "No se admitirán exenciones a la empresa familiar ni bonifica- ciones de comunidades autónomas.",
+              "page": 45,
+              "printedPage": "50"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-inheritance-cap",
+          "title": {
+            "es": "Límite a las grandes herencias",
+            "ca": "Límit a les grans herències",
+            "gl": "Límite ás grandes herdanzas",
+            "eu": "Herentzia handien muga",
+            "oc": "Limit as granes eréncies",
+            "en": "Cap on large inheritances"
+          },
+          "text": {
+            "es": "Aplicar un tipo marginal del 100 % al tramo de la base imponible que supere los 10 millones de euros por heredero en el Impuesto sobre Sucesiones y Donaciones. Contabilizar las donaciones en vida e impedir las bonificaciones autonómicas. Eximir una vivienda por heredero hasta un límite que el PDF deja incompleto. Destinar la recaudación a duplicar el gasto actual en políticas sociales de vivienda.",
+            "ca": "Aplicar un tipus marginal del 100 % al tram de la base imposable que superi els 10 milions d’euros per hereu en l’impost sobre successions i donacions. Computar les donacions en vida i impedir les bonificacions autonòmiques. Eximir un habitatge per hereu fins a un límit que el PDF deixa incomplet. Destinar la recaptació a duplicar la despesa actual en polítiques socials d’habitatge.",
+            "gl": "Aplicar un tipo marxinal do 100 % ao tramo da base impoñible que supere os 10 millóns de euros por herdeiro no imposto sobre sucesións e doazóns. Computar as doazóns en vida e impedir as bonificacións autonómicas. Eximir unha vivenda por herdeiro ata un límite que o PDF deixa incompleto. Destinar a recadación a duplicar o gasto actual en políticas sociais de vivenda.",
+            "eu": "Oinordeko bakoitzeko 10 milioi eurotik gorako zerga-oinarriaren zatiari % 100eko tasa marjinala aplikatzea Oinordetzen eta Dohaintzen gaineko Zergan. Bizialdian jasotako dohaintzak zenbatzea eta autonomia-erkidegoen hobariak eragoztea. Oinordeko bakoitzeko etxebizitza bat salbuestea, PDFan osatu gabe dagoen muga bateraino. Diru-bilketa etxebizitzako gizarte-politiketako egungo gastua bikoiztera bideratzea.",
+            "oc": "Aplicar un tipe marginau deth 100 % ath tram dera basa imposabla que supère es 10 milions d’èuros per eretèr en impòst sus successions e donacions. Comptar es donacions en vida e empedir es bonificacions autonomiques. Eximir un abitatge per eretèr enquia un limit qu’eth PDF dèishe incomplet. Destinar era recaptacion a duplicar era despensa actuau en politiques sociaus d’abitatge.",
+            "en": "Apply a 100% marginal inheritance and gift tax rate to the part of the taxable base above €10 million per heir. Count lifetime gifts and disallow regional tax relief. Exempt one home per heir up to a limit that the PDF leaves incomplete. Use the revenue to double current spending on social housing policies."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "a un máximo de 10 millones de euros por heredero.",
+              "page": 46,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "marginal del 100 % sobre el tramo de la base imponible que supere esa cifra",
+              "page": 46,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "las donaciones recibidas en vida y no se permitirán las bonificaciones autonómi- cas.",
+              "page": 46,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "quedará exenta una vivienda por heredero hasta un máximo de 5.",
+              "page": 46,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "la recaudación lograda se destinará a doblar el gasto actual en políticas sociales de vivienda",
+              "page": 46,
+              "printedPage": "51"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-income-tax-brackets",
+          "title": {
+            "es": "IRPF sobre rentas del trabajo y rentas altas",
+            "ca": "IRPF sobre rendes del treball i rendes altes",
+            "gl": "IRPF sobre rendas do traballo e rendas altas",
+            "eu": "Lan-errenten eta errenta handien PFEZa",
+            "oc": "IRPF sus rendes deth trabalh e rendes nautes",
+            "en": "Income tax on earnings and high incomes"
+          },
+          "text": {
+            "es": "Aumentar la reducción por rendimientos del trabajo para que quienes cobren el salario mínimo no paguen IRPF y extender la rebaja de forma decreciente hasta los 27.000 euros. Crear más tramos a partir de 120.000 euros anuales y elevar progresivamente los tipos marginales hasta el 52 % para rentas a partir de 300.000 euros.",
+            "ca": "Augmentar la reducció per rendiments del treball perquè les persones que cobren el salari mínim no paguin IRPF i estendre la rebaixa de manera decreixent fins als 27.000 euros. Crear més trams a partir de 120.000 euros anuals i elevar progressivament els tipus marginals fins al 52 % per a rendes a partir de 300.000 euros.",
+            "gl": "Aumentar a redución por rendementos do traballo para que as persoas que cobran o salario mínimo non paguen IRPF e estender a rebaixa de forma decrecente ata os 27.000 euros. Crear máis tramos a partir de 120.000 euros anuais e elevar progresivamente os tipos marxinais ata o 52 % para rendas a partir de 300.000 euros.",
+            "eu": "Lan-etekinen murrizketa handitzea gutxieneko soldata jasotzen dutenek PFEZik ordaindu ez dezaten, eta beherapena mailaka txikitzea 27.000 eurora arte. Urteko 120.000 eurotik aurrera tarte gehiago sortzea eta tasa marjinalak pixkanaka igotzea, 300.000 eurotik aurrerako errentetarako % 52ra iritsi arte.",
+            "oc": "Aumentar era reduccion pes rendements deth trabalh entà que qui còbre eth salari minim non pague IRPF e esténer era rebaisha de manèra decreishenta enquias 27.000 èuros. Crear mès trams a compdar de 120.000 èuros annaus e aumentar progressivament es tipes marginaus enquiath 52 % entàs rendes a compdar de 300.000 èuros.",
+            "en": "Increase the earned income deduction so minimum-wage earners pay no personal income tax, and taper the reduction up to €27,000. Add more brackets from €120,000 a year and progressively raise marginal rates to 52% on income from €300,000."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "quien cobre el salario mínimo no pague IRPF",
+              "page": 46,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "extenderemos esa rebaja, de forma de- creciente, hasta los 27.000 euros.",
+              "page": 46,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-46",
+              "quote": "a partir de 120.000 euros anuales y elevaremos progresivamente los tipos marginales hasta alcanzar el 52 % para rentas a partir de 300.000 euros.",
+              "page": 46,
+              "printedPage": "51"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-basic-goods-vat",
+          "title": {
+            "es": "Rebajas del IVA",
+            "ca": "Rebaixes de l’IVA",
+            "gl": "Rebaixas do IVE",
+            "eu": "BEZaren jaitsierak",
+            "oc": "Rebaishes der IVA",
+            "en": "VAT reductions"
+          },
+          "text": {
+            "es": "Pasar las peluquerías y los servicios veterinarios del tipo general al reducido, aplicar el tipo superreducido a los pañales que ahora tributan al reducido y fijar un IVA del 0 % para los productos sin gluten.",
+            "ca": "Passar les perruqueries i els serveis veterinaris del tipus general al reduït, aplicar el tipus superreduït als bolquers que ara tributen al reduït i fixar un IVA del 0 % per als productes sense gluten.",
+            "gl": "Pasar as perruquerías e os servizos veterinarios do tipo xeral ao reducido, aplicar o tipo superreducido aos cueiros que agora tributan ao reducido e fixar un IVE do 0 % para os produtos sen glute.",
+            "eu": "Ile-apaindegiak eta albaitaritza-zerbitzuak tasa orokorretik tasa murriztura pasatzea, orain tasa murriztua duten pixoihalei tasa oso murriztua aplikatzea eta glutenik gabeko produktuei % 0ko BEZa ezartzea.",
+            "oc": "Passar es perruqueries e es servicis veterinaris deth tipe generau ath redusit, aplicar eth tipe superredusit as bolquèrs que tributèn ara ath tipe redusit e fixar un IVA deth 0 % entàs productes sense glutèn.",
+            "en": "Move hairdressing and veterinary services from the standard to the reduced rate, apply the super-reduced rate to nappies currently taxed at the reduced rate, and set VAT on gluten-free products at 0%."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-47",
+              "quote": "servicios veterinarios pasarán del tipo general al reducido",
+              "page": 47,
+              "printedPage": "52"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-47",
+              "quote": "los paña- les del reducido al superreducido y los productos sin gluten tendrán IVA cero",
+              "page": 47,
+              "printedPage": "52"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-state-postal-bank",
+          "title": {
+            "es": "Banco Postal Estatal y banca pública",
+            "ca": "Banco Postal Estatal i banca pública",
+            "gl": "Banco Postal Estatal e banca pública",
+            "eu": "Banco Postal Estatal eta banka publikoa",
+            "oc": "Banco Postal Estatal e banca publica",
+            "en": "Banco Postal Estatal and public banking"
+          },
+          "text": {
+            "es": "Articular la banca pública estatal mediante el ICO, la red de oficinas de Correos y los derechos de voto del 18 % público en CaixaBank. Crear el Banco Postal Estatal con activos de Correos y las acciones de CaixaBank en manos del FROB para financiar políticas públicas estratégicas y ofrecer crédito ventajoso a pymes y autónomos.",
+            "ca": "Articular la banca pública estatal mitjançant l’ICO, la xarxa d’oficines de Correos i els drets de vot del 18 % públic a CaixaBank. Crear el Banco Postal Estatal amb actius de Correos i les accions de CaixaBank en mans del FROB per finançar polítiques públiques estratègiques i oferir crèdit avantatjós a pimes i autònoms.",
+            "gl": "Articular a banca pública estatal mediante o ICO, a rede de oficinas de Correos e os dereitos de voto do 18 % público en CaixaBank. Crear o Banco Postal Estatal con activos de Correos e as accións de CaixaBank en mans do FROB para financiar políticas públicas estratéxicas e ofrecer crédito vantaxoso a pemes e autónomos.",
+            "eu": "Estatuko banka publikoa ICOren, Correosen bulego-sarearen eta CaixaBankeko % 18ko partaidetza publikoaren boto-eskubideen bidez antolatzea. Banco Postal Estatal sortzea Correosen aktiboekin eta FROBen esku dauden CaixaBankeko akzioekin, politika publiko estrategikoak finantzatzeko eta ETEei eta langile autonomoei baldintza onuragarrietako kreditua eskaintzeko.",
+            "oc": "Articular era banca publica estatau per miei der ICO, dera hilat d’oficines de Correos e des drets de vòt deth 18 % public en CaixaBank. Crear eth Banco Postal Estatal damb actius de Correos e es accions de CaixaBank en mans deth FROB entà finançar politiques publiques estrategiques e aufrir crèdit en condicions favorables as pimes e as autonòms.",
+            "en": "Build a state public banking system around the ICO, the Correos branch network and the voting rights attached to the public 18% stake in CaixaBank. Create the Banco Postal Estatal with Correos assets and the CaixaBank shares held by the FROB to fund strategic public policies and offer favourable credit to SMEs and self-employed workers."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-84",
+              "quote": "la red de oficinas de Correos (Banco Postal) y la activación de los derechos de voto en el 18 % público de CaixaBank.",
+              "page": 84,
+              "printedPage": "93"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-84",
+              "quote": "recibirá como aportación a su capital los acti- vos de la Sociedad Estatal de Correos y Telégrafos y las acciones de CaixaBank en manos del FROB.",
+              "page": 84,
+              "printedPage": "93"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-84",
+              "quote": "políticas públicas estratégicas, será motor de la reindustrialización, facilitará cré- ditos ventajosos a pymes y autónomos",
+              "page": 84,
+              "printedPage": "93"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-vat-simplification-small-businesses",
+          "title": {
+            "es": "IVA simplificado para autónomos y pequeñas empresas",
+            "ca": "IVA simplificat per a autònoms i petites empreses",
+            "gl": "IVE simplificado para autónomos e pequenas empresas",
+            "eu": "BEZ sinplifikatua autonomoentzat eta enpresa txikientzat",
+            "oc": "IVA simplificat entàs autonòms e es petites empreses",
+            "en": "Simpler VAT for the self-employed and small businesses"
+          },
+          "text": {
+            "es": "Transponer de inmediato la directiva europea del IVA franquiciado. Los autónomos y las pequeñas empresas que facturen menos de 85.000 euros anuales quedarían exentos de liquidaciones periódicas y solo presentarían una declaración informativa anual.",
+            "ca": "Transposar immediatament la directiva europea del règim de franquícia de l’IVA. Els autònoms i les petites empreses que facturin menys de 85.000 euros anuals quedarien exempts de liquidacions periòdiques i només presentarien una declaració informativa anual.",
+            "gl": "Transpoñer de inmediato a directiva europea do réxime de franquía do IVE. Os autónomos e as pequenas empresas que facturen menos de 85.000 euros anuais quedarían exentos de liquidacións periódicas e só presentarían unha declaración informativa anual.",
+            "eu": "BEZaren frankizia-araubideari buruzko Europako zuzentaraua berehala transposatzea. Urtean 85.000 euro baino gutxiago fakturatzen duten autonomoek eta enpresa txikiek ez lukete aldizkako likidaziorik egin beharko, eta urteko informazio-aitorpena baino ez lukete aurkeztuko.",
+            "oc": "Transpausar de seguit era directiva europèa deth regim de franquícia der IVA. Es autonòms e es petites empreses que facturen mens de 85.000 èuros ar an quedarien exempts de liquidacions periodiques e sonque presentarien ua declaracion informativa annau.",
+            "en": "Transpose the EU directive on the VAT exemption scheme immediately. Self-employed people and small businesses with annual turnover below €85,000 would be exempt from periodic VAT returns and would file only an annual information return."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-92",
+              "quote": "Transpondremos de in- mediato la directiva europea del IVA franquiciado",
+              "page": 92
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-92",
+              "quote": "facturen menos de 85.000 euros anuales quedarán exentos de liquidaciones periódicas y solo tendrán que presentar una declaración informativa anual.",
+              "page": 92
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-amplio--education",
       "partyId": "frente-amplio",
       "topicId": "education",
       "path": "/parties/frente-amplio/education",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-education-funding",
+          "title": {
+            "es": "Financiación de la educación pública",
+            "ca": "Finançament de l’educació pública",
+            "gl": "Financiamento do ensino público",
+            "eu": "Hezkuntza publikoaren finantzaketa",
+            "oc": "Finançament dera educacion publica",
+            "en": "Public education funding"
+          },
+          "text": {
+            "es": "Aprobar una Ley de Financiación Educativa que fije un mínimo de inversión estatal en educación pública. Ese mínimo deberá llegar al 7 % del PIB en 2030.",
+            "ca": "Aprovar una Llei de finançament educatiu que fixi un mínim d’inversió estatal en educació pública. Aquest mínim haurà d’arribar al 7 % del PIB el 2030.",
+            "gl": "Aprobar unha Lei de financiamento educativo que fixe un mínimo de investimento estatal no ensino público. Ese mínimo deberá chegar ao 7 % do PIB en 2030.",
+            "eu": "Hezkuntza Finantzatzeko Legea onartzea, estatuak hezkuntza publikoan egin beharreko gutxieneko inbertsioa ezartzeko. Gutxieneko horrek BPGaren % 7ra iritsi beharko du 2030ean.",
+            "oc": "Aprovar ua Lei de finançament educatiu que fixe un minimau d’inversion estatau en educacion publica. Aguest minimau aurà d’arribar ath 7 % deth PIB en 2030.",
+            "en": "Pass an education funding law setting a minimum level of state investment in public education. That minimum must reach 7% of GDP by 2030."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-31",
+              "quote": "Ley de Financiación",
+              "page": 31,
+              "printedPage": "35"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-31",
+              "quote": "deberá llegar al 7 % del PIB en 2030",
+              "page": 31,
+              "printedPage": "35"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-public-places",
+          "title": {
+            "es": "Plazas públicas y cuotas escolares",
+            "ca": "Places públiques i quotes escolars",
+            "gl": "Prazas públicas e cotas escolares",
+            "eu": "Plaza publikoak eta eskola-kuotak",
+            "oc": "Places publiques e quòtes escolares",
+            "en": "Public school places and fees"
+          },
+          "text": {
+            "es": "Priorizar la creación de plazas públicas en todas las etapas y garantizar una plaza pública gratuita de 0 a 3 años a toda familia que la solicite. Mientras coexistan centros públicos y concertados, prohibir de inmediato las cuotas obligatorias en centros sostenidos con fondos públicos y sancionar los incumplimientos.",
+            "ca": "Prioritzar la creació de places públiques en totes les etapes i garantir una plaça pública gratuïta de 0 a 3 anys a totes les famílies que la sol·licitin. Mentre coexisteixin centres públics i concertats, prohibir immediatament les quotes obligatòries als centres sostinguts amb fons públics i sancionar els incompliments.",
+            "gl": "Priorizar a creación de prazas públicas en todas as etapas e garantir unha praza pública gratuíta de 0 a 3 anos a todas as familias que a soliciten. Mentres coexistan centros públicos e concertados, prohibir de inmediato as cotas obrigatorias nos centros sostidos con fondos públicos e sancionar os incumprimentos.",
+            "eu": "Hezkuntza-etapa guztietan plaza publikoak sortzeari lehentasuna ematea eta 0 eta 3 urte bitarteko doako plaza publikoa bermatzea eskatzen duen familia orori. Ikastetxe publikoek eta itunpekoek batera jarraitzen duten bitartean, funts publikoekin finantzatutako ikastetxeetan nahitaezko kuotak berehala debekatzea eta ez-betetzeak zigortzea.",
+            "oc": "Priorizar era creacion de places publiques en totes es etapes e garantir ua plaça publica gratuïta de 0 a 3 ans a cada familha que la sollicite. Mentre coexistisquen centres publics e concertadi, proïbir immediatament es quòtes obligatòries enes centres sostengudi damb hons publics e sancionar es incompliments.",
+            "en": "Prioritise new public places at every stage and guarantee a free public early years place for any family that applies for a child aged 0 to 3. While public and publicly funded private schools coexist, immediately ban compulsory fees at institutions supported by public funds and penalise violations."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-31",
+              "quote": "Crearemos de forma prioritaria plazas públicas en todas las etapas",
+              "page": 31,
+              "printedPage": "35"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-31",
+              "quote": "se prohibirán de forma inmediata las cuotas",
+              "page": 31,
+              "printedPage": "35"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-25",
+              "quote": "gratuitas garantizadas para toda familia solicitante",
+              "page": 25,
+              "printedPage": "29"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-class-size-limits",
+          "title": {
+            "es": "Límites de alumnado por aula",
+            "ca": "Límits d’alumnat per aula",
+            "gl": "Límites de alumnado por aula",
+            "eu": "Ikasgela bakoitzeko ikasle kopuruaren mugak",
+            "oc": "Limits d’alumnat per aula",
+            "en": "Class size limits"
+          },
+          "text": {
+            "es": "Fijar por ley máximos de 4, 6 y 8 niños por aula en las franjas de 0 a 1, 1 a 2 y 2 a 3 años, respectivamente; 15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato. Contar por dos al alumnado con necesidades específicas de apoyo educativo al calcular estas ratios.",
+            "ca": "Fixar per llei màxims de 4, 6 i 8 infants per aula en les franges de 0 a 1, 1 a 2 i 2 a 3 anys, respectivament; 15 a Primària i FP, 20 a Secundària i 23 a Batxillerat. Comptar doble l’alumnat amb necessitats específiques de suport educatiu en el càlcul d’aquestes ràtios.",
+            "gl": "Fixar por lei máximos de 4, 6 e 8 nenas e nenos por aula nas franxas de 0 a 1, 1 a 2 e 2 a 3 anos, respectivamente; 15 en Primaria e FP, 20 en Secundaria e 23 en Bacharelato. Contar por dous o alumnado con necesidades específicas de apoio educativo ao calcular estas ratios.",
+            "eu": "Legez ezartzea ikasgela bakoitzeko gehienez 4, 6 eta 8 haur, hurrenez hurren 0-1, 1-2 eta 2-3 urteko taldeetan; 15 Lehen Hezkuntzan eta Lanbide Heziketan, 20 Bigarren Hezkuntzan eta 23 Batxilergoan. Muga horiek kalkulatzean, hezkuntza-laguntzako premia espezifikoak dituen ikasle bakoitza bi ikasle balira bezala zenbatzea.",
+            "oc": "Fixar per lei maximaus de 4, 6 e 8 mainatges per aula entàs grops d’edat de 0 a 1, 1 a 2 e 2 a 3 ans, respectivament; 15 en Primària e Formacion Professionau, 20 en Secundària e 23 en Bachelierat. Compdar doble er alumnat damb besonhs especifics de supòrt educatiu en calcular aguestes ràtios.",
+            "en": "Set legal class size limits of 4, 6 and 8 for ages 0–1, 1–2 and 2–3 respectively; 15 in primary education and vocational training, 20 in secondary education and 23 in Bachillerato. Count pupils with specific educational support needs as two for these limits."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-31",
+              "quote": "Fijaremos por ley ratios máximas por aula",
+              "page": 31,
+              "printedPage": "35"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-31",
+              "quote": "15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato",
+              "page": 31,
+              "printedPage": "35"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-31",
+              "quote": "alumnado NEAE compute el doble a efectos de ratio",
+              "page": 31,
+              "printedPage": "35"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-student-grants",
+          "title": {
+            "es": "Becas y apoyo al alumnado",
+            "ca": "Beques i suport a l’alumnat",
+            "gl": "Bolsas e apoio ao alumnado",
+            "eu": "Ikasleentzako bekak eta laguntza",
+            "oc": "Borses e supòrt ar alumnat",
+            "en": "Student grants and support"
+          },
+          "text": {
+            "es": "Aumentar al 0,44 % del PIB los recursos para becas de estudios posobligatorios y garantizar su cobro al inicio del curso. Duplicar las becas de etapas obligatorias para alumnado de la escuela pública de familias vulnerables, llegando a 500.000 estudiantes más. Aumentar un 60 % las becas para alumnado con necesidades específicas de apoyo educativo, incluir nuevos colectivos y hacer determinante la renta familiar tras la acreditación técnica.",
+            "ca": "Augmentar fins al 0,44 % del PIB els recursos per a beques d’estudis postobligatoris i garantir-ne el cobrament a l’inici del curs. Duplicar les beques d’etapes obligatòries per a alumnat de l’escola pública de famílies vulnerables, arribant a 500.000 estudiants més. Augmentar un 60 % les beques per a alumnat amb necessitats específiques de suport educatiu, incloure-hi nous col·lectius i fer que la renda familiar sigui determinant un cop feta l’acreditació tècnica.",
+            "gl": "Aumentar ata o 0,44 % do PIB os recursos para bolsas de estudos posobrigatorios e garantir o cobramento ao inicio do curso. Duplicar as bolsas das etapas obrigatorias para alumnado da escola pública de familias vulnerables, chegando a 500.000 estudantes máis. Aumentar un 60 % as bolsas para alumnado con necesidades específicas de apoio educativo, incluír novos colectivos e facer determinante a renda familiar tras a acreditación técnica.",
+            "eu": "Derrigorrezko hezkuntzaren ondoko ikasketetarako beken baliabideak BPGaren % 0,44ra igotzea eta ikasturtearen hasieran kobratuko direla bermatzea. Derrigorrezko etapetan, familia zaurgarrietako eskola publikoko ikasleentzako bekak bikoiztea, beste 500.000 ikaslerengana iristeko. Hezkuntza-laguntzako premia espezifikoak dituzten ikasleentzako bekak % 60 handitzea, talde berriak sartzea eta, egiaztapen teknikoaren ondoren, familiaren errenta irizpide erabakigarri bihurtzea.",
+            "oc": "Aumentar enquiar 0,44 % deth PIB es recorsi entà borses d’estudis pòstobligatòris e garantir-ne eth pagament ath començament deth cors. Doblar es borses des etapes obligatòries entar alumnat dera escòla publica de familhes vulnerables, en tot arribar a 500.000 estudiants mès. Aumentar un 60 % es borses entar alumnat damb besonhs especifics de supòrt educatiu, includir naui collectius e hèr qu’era renda familhau sigue determinanta dempús dera acreditacion tecnica.",
+            "en": "Raise spending on grants for post-compulsory education to 0.44% of GDP and guarantee payment at the start of the school year. Double grants for pupils from vulnerable families in compulsory public education, reaching 500,000 more students. Increase grants for students with specific educational support needs by 60%, cover additional groups and make family income the deciding criterion once needs have been formally assessed."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-32",
+              "quote": "las cuantías de becas postobligatorias hasta el 0,44 % del PIB",
+              "page": 32,
+              "printedPage": "36"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-32",
+              "quote": "alcanzando a 500.000 estudiantes más",
+              "page": 32,
+              "printedPage": "36"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-32",
+              "quote": "un 60 % las becas para alumnado NEAE",
+              "page": 32,
+              "printedPage": "36"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-32",
+              "quote": "renta familiar como determinante tras la acreditación técnica.",
+              "page": 32,
+              "printedPage": "36"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-teacher-contact-hours",
+          "title": {
+            "es": "Límite de horas lectivas del profesorado",
+            "ca": "Límit d’hores lectives del professorat",
+            "gl": "Límite de horas lectivas do profesorado",
+            "eu": "Irakasleen eskola-orduen muga",
+            "oc": "Limit d’ores lectives deth professorat",
+            "en": "Limits on teachers’ classroom hours"
+          },
+          "text": {
+            "es": "Fijar por ley estatal un máximo de 18 horas lectivas en Secundaria, Bachillerato, FP y enseñanzas de régimen especial, y de 23 horas lectivas en Infantil y Primaria.",
+            "ca": "Fixar per llei estatal un màxim de 18 hores lectives a Secundària, Batxillerat, FP i ensenyaments de règim especial, i de 23 hores lectives a Infantil i Primària.",
+            "gl": "Fixar por lei estatal un máximo de 18 horas lectivas en Secundaria, Bacharelato, FP e ensinanzas de réxime especial, e de 23 horas lectivas en Infantil e Primaria.",
+            "eu": "Estatuko lege bidez ezartzea gehienez 18 eskola-ordu Bigarren Hezkuntzan, Batxilergoan, Lanbide Heziketan eta araubide bereziko irakaskuntzetan, eta 23 eskola-ordu Haur eta Lehen Hezkuntzan.",
+            "oc": "Fixar per lei estatau un maximau de 18 ores lectives en Secundària, Bachelierat, Formacion Professionau e ensenhaments de regim especiau, e de 23 ores lectives en Infantil e Primària.",
+            "en": "Set national legal caps of 18 teaching hours in secondary education, Bachillerato, vocational training and special-regime education, and 23 teaching hours in early childhood and primary education."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-32",
+              "quote": "Fijación estatal por ley de un máximo de",
+              "page": 32,
+              "printedPage": "36"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-32",
+              "quote": "18 horas lectivas en Secundaria, Bachillerato, FP y Régimen Especial",
+              "page": 32,
+              "printedPage": "36"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-32",
+              "quote": "horas en Infantil y Primaria",
+              "page": 32,
+              "printedPage": "36"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-public-universities",
+          "title": {
+            "es": "Universidades públicas",
+            "ca": "Universitats públiques",
+            "gl": "Universidades públicas",
+            "eu": "Unibertsitate publikoak",
+            "oc": "Universitats publiques",
+            "en": "Public universities"
+          },
+          "text": {
+            "es": "Modificar la Ley Orgánica del Sistema Universitario (LOSU) para que cada comunidad autónoma destine al menos el 1 % de su PIB a financiar sus universidades públicas. Ampliar las plazas públicas de grado y máster, especialmente en las titulaciones necesarias para acceder a una profesión, y reducir sus precios.",
+            "ca": "Modificar la Ley Orgánica del Sistema Universitario (LOSU) perquè cada comunitat autònoma destini almenys l’1 % del seu PIB a finançar les seves universitats públiques. Ampliar les places públiques de grau i màster, especialment en les titulacions necessàries per accedir a una professió, i reduir-ne els preus.",
+            "gl": "Modificar a Ley Orgánica del Sistema Universitario (LOSU) para que cada comunidade autónoma destine polo menos o 1 % do seu PIB a financiar as súas universidades públicas. Ampliar as prazas públicas de grao e mestrado, especialmente nas titulacións necesarias para acceder a unha profesión, e reducir os seus prezos.",
+            "eu": "Ley Orgánica del Sistema Universitario (LOSU) aldatzea, autonomia-erkidego bakoitzak bere BPGaren gutxienez % 1 unibertsitate publikoak finantzatzera bidera dezan. Gradu eta masterretako plaza publikoak gehitzea, bereziki lanbide batean jarduteko behar diren titulazioetan, eta prezioak jaistea.",
+            "oc": "Modificar era Ley Orgánica del Sistema Universitario (LOSU) entà que cada comunitat autonòma destine aumens er 1 % deth sòn PIB a finançar es sues universitats publiques. Aumentar es places publiques de grad e màster, especiaument enes titulacions de besonh entà accedir a ua profession, e redusir-ne es prètzi.",
+            "en": "Amend the Ley Orgánica del Sistema Universitario (LOSU) to require each autonomous community to spend at least 1% of its GDP on funding its public universities. Expand publicly funded undergraduate and master’s places, especially on courses required to enter a profession, and reduce their fees."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-33",
+              "quote": "destinen al menos el 1 % de su PIB regional",
+              "page": 33,
+              "printedPage": "37"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-33",
+              "quote": "especialmente en titulaciones necesarias para acceder a una profesión",
+              "page": 33,
+              "printedPage": "37"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-free-school-meals",
+          "title": {
+            "es": "Comedor escolar gratuito",
+            "ca": "Menjador escolar gratuït",
+            "gl": "Comedor escolar gratuíto",
+            "eu": "Doako eskola-jantokia",
+            "oc": "Minjador escolar gratuït",
+            "en": "Free school meals"
+          },
+          "text": {
+            "es": "Garantizar el comedor gratuito a todo el alumnado de Infantil y Primaria de la red pública en todas las comunidades autónomas. Exigir por ley menús con productos frescos, locales y de temporada, sin ultraprocesados y adaptados a necesidades nutricionales y alergias.",
+            "ca": "Garantir el menjador gratuït a tot l’alumnat d’Infantil i Primària de la xarxa pública a totes les comunitats autònomes. Exigir per llei menús amb productes frescos, de proximitat i de temporada, sense ultraprocessats i adaptats a necessitats nutricionals i al·lèrgies.",
+            "gl": "Garantir o comedor gratuíto a todo o alumnado de Infantil e Primaria da rede pública en todas as comunidades autónomas. Esixir por lei menús con produtos frescos, de proximidade e de tempada, sen ultraprocesados e adaptados ás necesidades nutricionais e ás alerxias.",
+            "eu": "Autonomia-erkidego guztietan sare publikoko Haur eta Lehen Hezkuntzako ikasle guztiei doako eskola-jantokia bermatzea. Legez eskatzea menuetan produktu freskoak, tokikoak eta sasoikoak erabiltzea, produktu ultraprozesaturik ez sartzea eta menuak nutrizio-beharretara eta alergietara egokitzea.",
+            "oc": "Garantir eth minjador gratuït a tot er alumnat d’Infantil e Primària dera hilat publica en totes es comunitats autonòmes. Exigir per lei menús damb productes fresqui, de proximitat e de sason, sense ultraprocessadi e adaptadi as besonhs nutricionaus e as allergies.",
+            "en": "Guarantee free school meals to all pupils in public early childhood and primary education in every autonomous community. Require menus by law to use fresh, local and seasonal produce, exclude ultra-processed foods and accommodate nutritional needs and allergies."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "la gratuidad total y universal del servicio de comedor escolar",
+              "page": 22,
+              "printedPage": "26"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "todo el alumnado matriculado en Educación Infantil y Primaria",
+              "page": 22,
+              "printedPage": "26"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "productos frescos de proximidad y temporada",
+              "page": 22,
+              "printedPage": "26"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "libres de ultraprocesados y adaptados a requerimientos nutricionales y alergias",
+              "page": 22,
+              "printedPage": "26"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-amplio--employment",
       "partyId": "frente-amplio",
       "topicId": "employment",
       "path": "/parties/frente-amplio/employment",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-minimum-wage-floor",
+          "title": {
+            "es": "Suelo legal del salario mínimo",
+            "ca": "Llindar legal del salari mínim",
+            "gl": "Limiar legal do salario mínimo",
+            "eu": "Gutxieneko soldataren legezko zorua",
+            "oc": "Limit minim legau deth salari minim",
+            "en": "Statutory minimum wage floor"
+          },
+          "text": {
+            "es": "Subir progresivamente el salario mínimo interprofesional y fijar por ley un suelo permanente del 60 % del salario medio neto. Prohibir expresamente que los complementos o pluses salariales absorban o compensen el salario mínimo.",
+            "ca": "Pujar progressivament el salari mínim interprofessional i fixar per llei un mínim permanent del 60 % del salari mitjà net. Prohibir expressament que els complements o plusos salarials absorbeixin o compensin el salari mínim.",
+            "gl": "Subir progresivamente o salario mínimo interprofesional e fixar por lei un mínimo permanente do 60 % do salario medio neto. Prohibir expresamente que os complementos ou pluses salariais absorban ou compensen o salario mínimo.",
+            "eu": "Lanbide arteko gutxieneko soldata pixkanaka igotzea eta legez ezartzea batez besteko soldata garbiaren % 60ko gutxieneko maila iraunkorra. Soldata-gainordainek edo osagarriek gutxieneko soldata xurgatzea edo konpentsatzea berariaz debekatzea.",
+            "oc": "Aumentar progressivament eth salari minim interprofessionau e fixar per lei un minim permanent deth 60 % deth salari mejan net. Proïbir expressament qu’es complements o plusi salariaus absorbisquen o compensen eth salari minim.",
+            "en": "Raise the statutory minimum wage progressively and set a permanent legal floor at 60% of average net pay. Explicitly prohibit employers from using pay supplements or allowances to absorb or offset the minimum wage."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-51",
+              "quote": "suelo permanente equivalente al 60 % del salario medio neto de la economía.",
+              "page": 51
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-51",
+              "quote": "prohibición explícita de que pueda ser absorbido o compensado mediante complementos o pluses salariales.",
+              "page": 51
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-shorter-working-week",
+          "title": {
+            "es": "Reducción de la jornada sin rebaja salarial",
+            "ca": "Reducció de la jornada sense rebaixa salarial",
+            "gl": "Redución da xornada sen baixada salarial",
+            "eu": "Lanaldia laburtzea soldata jaitsi gabe",
+            "oc": "Reduccion dera jornada sense baishar eth salari",
+            "en": "Shorter working week without a pay cut"
+          },
+          "text": {
+            "es": "Implantar de inmediato una jornada de 37,5 horas semanales en 2026 y de 35 horas en el sector público, sin compensación mediante horas extra y con una subida proporcional del salario por hora en contratos a tiempo parcial. Reducir progresivamente la jornada máxima a 32 horas semanales sin rebaja salarial.",
+            "ca": "Implantar immediatament una jornada de 37,5 hores setmanals el 2026 i de 35 hores al sector públic, sense compensació mitjançant hores extraordinàries i amb un augment proporcional del salari per hora en els contractes a temps parcial. Reduir progressivament la jornada màxima a 32 hores setmanals sense rebaixa salarial.",
+            "gl": "Implantar de inmediato unha xornada de 37,5 horas semanais en 2026 e de 35 horas no sector público, sen compensación mediante horas extraordinarias e cunha subida proporcional do salario por hora nos contratos a tempo parcial. Reducir progresivamente a xornada máxima a 32 horas semanais sen baixada salarial.",
+            "eu": "2026an astean 37,5 orduko lanaldia eta sektore publikoan 35 ordukoa berehala ezartzea, aparteko orduekin konpentsatu gabe eta lanaldi partzialeko kontratuetan orduko soldata proportzioan igota. Gehieneko lanaldia pixkanaka astean 32 ordura murriztea, soldata jaitsi gabe.",
+            "oc": "Implantar immediatament ua jornada de 37,5 ores setmanaus en 2026 e de 35 ores en sector public, sense compensacion damb ores extraordinàries e damb un aument proporcionau deth salari per ora enes contractes a temps parciau. Redusir progressivament era jornada maximau a 32 ores setmanaus sense baishar eth salari.",
+            "en": "Immediately introduce a 37.5-hour working week in 2026 and a 35-hour week in the public sector, with no offset through overtime and a proportionate increase in hourly pay for part-time contracts. Gradually reduce the maximum working week to 32 hours without cutting pay."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-55",
+              "quote": "Hacia una jornada laboral máxima de 32 horas semanales sin reducción salarial",
+              "page": 55,
+              "printedPage": "61"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-55",
+              "quote": "Implantación inmediata a 37,5 horas en 2026 y 35 horas en el sector público, prohibiendo la compensación mediante horas extraordinarias y exigiendo la subi- da proporcional del salario hora en contratos a tiempo parcial.",
+              "page": 55,
+              "printedPage": "61"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-55",
+              "quote": "de forma progresiva hasta las 32 horas semanales.",
+              "page": 55,
+              "printedPage": "61"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-unfair-dismissal-compensation",
+          "title": {
+            "es": "Indemnización por despido improcedente",
+            "ca": "Indemnització per acomiadament improcedent",
+            "gl": "Indemnización por despedimento improcedente",
+            "eu": "Bidegabeko kaleratzearen kalte-ordaina",
+            "oc": "Indemnizacion per acomiadament improcedent",
+            "en": "Compensation for unfair dismissal"
+          },
+          "text": {
+            "es": "Reformar la indemnización por despido improcedente para reparar el daño real a la persona despedida y disuadir de los despidos injustificados, en línea con el artículo 24 de la Carta Social Europea revisada.",
+            "ca": "Reformar la indemnització per acomiadament improcedent per reparar el dany real a la persona acomiadada i dissuadir dels acomiadaments injustificats, d’acord amb l’article 24 de la Carta Social Europea revisada.",
+            "gl": "Reformar a indemnización por despedimento improcedente para reparar o dano real á persoa despedida e disuadir dos despedimentos inxustificados, en liña co artigo 24 da Carta Social Europea revisada.",
+            "eu": "Bidegabeko kaleratzearen kalte-ordaina aldatzea, kaleratutako pertsonari benetan eragindako kaltea konpontzeko eta justifikaziorik gabeko kaleratzeak egitetik atzera eginarazteko, berrikusitako Europako Gutun Sozialaren 24. artikuluarekin bat.",
+            "oc": "Reformar era indemnizacion per acomiadament improcedent entà reparar eth prejudici reau ara persona acomiadada e dissuadir des acomiadaments injustificadi, d’acòrd damb er article 24 dera Carta Social Europea revisada.",
+            "en": "Reform unfair dismissal compensation to remedy the actual harm to the dismissed worker and deter unjustified dismissal, in line with Article 24 of the revised European Social Charter."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-52",
+              "quote": "repare el daño real causado a la persona trabajadora y di- suada de los despidos injustificados",
+              "page": 52,
+              "printedPage": "58"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-52",
+              "quote": "artículo 24 de la Carta Social Europea revisada",
+              "page": 52,
+              "printedPage": "58"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-contributory-unemployment-benefit",
+          "title": {
+            "es": "Prestación contributiva por desempleo",
+            "ca": "Prestació contributiva d’atur",
+            "gl": "Prestación contributiva por desemprego",
+            "eu": "Langabeziagatiko kotizaziopeko prestazioa",
+            "oc": "Prestacion contributiva per caumatge",
+            "en": "Contributory unemployment benefit"
+          },
+          "text": {
+            "es": "Elevar la prestación contributiva por desempleo del 70 % al 80 % de la base reguladora durante los seis primeros meses y fijarla en el 70 % para el resto del periodo. Subir un 25 % los topes máximos de la prestación.",
+            "ca": "Elevar la prestació contributiva d’atur del 70 % al 80 % de la base reguladora durant els sis primers mesos i fixar-la en el 70 % per a la resta del període. Pujar un 25 % els topalls màxims de la prestació.",
+            "gl": "Elevar a prestación contributiva por desemprego do 70 % ao 80 % da base reguladora durante os seis primeiros meses e fixala no 70 % para o resto do período. Subir un 25 % os topes máximos da prestación.",
+            "eu": "Kotizaziopeko langabezia-prestazioa oinarri arautzailearen % 70etik % 80ra igotzea lehen sei hilabeteetan, eta % 70ean ezartzea gainerako aldian. Prestazioaren gehieneko mugak % 25 igotzea.",
+            "oc": "Aumentar era prestacion contributiva per caumatge deth 70 % ath 80 % dera basa reguladora pendent es sies prumèrs mesi e fixar-la en 70 % entara rèsta deth periòde. Aumentar un 25 % es limits maximaus dera prestacion.",
+            "en": "Raise contributory unemployment benefit from 70% to 80% of the assessment base for the first six months and set it at 70% for the remaining period. Raise the maximum benefit amounts by 25%."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-53",
+              "quote": "del 70 % al 80 % de la base reguladora durante los primeros seis meses (y 70 % el resto) y subiremos un 25 % los topes máximos.",
+              "page": 53,
+              "printedPage": "59"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-guaranteed-employment-plan",
+          "title": {
+            "es": "Plan de Empleo Garantizado",
+            "ca": "Plan de Empleo Garantizado",
+            "gl": "Plan de Empleo Garantizado",
+            "eu": "Plan de Empleo Garantizado",
+            "oc": "Plan de Empleo Garantizado",
+            "en": "Plan de Empleo Garantizado"
+          },
+          "text": {
+            "es": "Poner en marcha el Plan de Empleo Garantizado mediante convenios con comunidades autónomas y entidades locales, con prioridad para personas en paro de larga duración y jóvenes. Los contratos no podrán cubrir puestos estructurales o estatutarios de las administraciones públicas.",
+            "ca": "Posar en marxa el Plan de Empleo Garantizado mitjançant convenis amb comunitats autònomes i ens locals, amb prioritat per a persones en atur de llarga durada i joves. Els contractes no podran cobrir llocs estructurals o estatutaris de les administracions públiques.",
+            "gl": "Poñer en marcha o Plan de Empleo Garantizado mediante convenios con comunidades autónomas e entidades locais, con prioridade para persoas en paro de longa duración e persoas mozas. Os contratos non poderán cubrir postos estruturais ou estatutarios das administracións públicas.",
+            "eu": "Plan de Empleo Garantizado abian jartzea autonomia-erkidegoekin eta toki-erakundeekin egindako hitzarmenen bidez, iraupen luzeko langabeei eta gazteei lehentasuna emanez. Kontratuek ezin izango dituzte administrazio publikoetako egiturazko edo estatutupeko lanpostuak bete.",
+            "oc": "Botar en marcha eth Plan de Empleo Garantizado per miei de convènis damb es comunitats autonomes e es entitats locaus, damb prioritat entàs persones en caumatge de longa durada e entàs joeni. Es contractes non poderàn corbir lòcs de trabalh estructuraus o estatutaris des administracions publiques.",
+            "en": "Launch the Plan de Empleo Garantizado through agreements with autonomous communities and local authorities, prioritising the long-term unemployed and young people. Contracts cannot cover structural or statutory posts in public administrations."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-53",
+              "quote": "priorizando parados de larga du- ración y jóvenes.",
+              "page": 53,
+              "printedPage": "59"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-101",
+              "quote": "mediante conve- nios con las comunidades autónomas",
+              "page": 101,
+              "printedPage": "114"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-101",
+              "quote": "no podrán referirse a puestos de trabajo estructurales o estatutarios de las admi- nistraciones públicas.",
+              "page": 101,
+              "printedPage": "114"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-worker-board-representation",
+          "title": {
+            "es": "Representación de las plantillas en los consejos",
+            "ca": "Representació de les plantilles als consells",
+            "gl": "Representación dos cadros de persoal nos consellos",
+            "eu": "Langileen ordezkaritza administrazio-kontseiluetan",
+            "oc": "Representacion des plantilhes enes conselhs",
+            "en": "Worker representation on company boards"
+          },
+          "text": {
+            "es": "Reservar por ley a la plantilla un tercio de los puestos del consejo de administración en empresas de 50 a 1.000 personas trabajadoras y la mitad en las de más de 1.000. Aplicar el mismo modelo a las empresas públicas y acordar el sistema de elección mediante convenio colectivo.",
+            "ca": "Reservar per llei a la plantilla un terç dels llocs del consell d’administració a les empreses de 50 a 1.000 persones treballadores i la meitat a les de més de 1.000. Aplicar el mateix model a les empreses públiques i acordar el sistema d’elecció mitjançant conveni col·lectiu.",
+            "gl": "Reservar por lei ao cadro de persoal un terzo dos postos do consello de administración nas empresas de 50 a 1.000 persoas traballadoras e a metade nas de máis de 1.000. Aplicar o mesmo modelo ás empresas públicas e acordar o sistema de elección mediante convenio colectivo.",
+            "eu": "Legez langileei administrazio-kontseiluko eserlekuen herena gordetzea 50 eta 1.000 langile arteko enpresetan, eta erdia 1.000 langiletik gorakoetan. Eredu bera enpresa publikoetan aplikatzea eta hautaketa-sistema hitzarmen kolektibo bidez adostea.",
+            "oc": "Reservar per lei ara plantilha un tèrç des sètis deth conselh d’administracion enes empreses de 50 a 1.000 trabalhaires e era mitat enes de mès de 1.000. Aplicar eth madeish modèl as empreses publiques e acordar eth sistèma d’eleccion per miei d’un convèni collectiu.",
+            "en": "By law, reserve one-third of board seats for workers in companies with 50 to 1,000 employees and half in companies with more than 1,000. Apply the same model to public companies and agree how representatives are elected through collective agreements."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-115",
+              "quote": "un tercio del consejo en empresas de 50 a 1.000 trabajadores y el 50 % (paritaria entre trabajadores y accionistas) en empresas de más de 1.000 trabajadores.",
+              "page": 115
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-115",
+              "quote": "La fórmula concreta de elección se acordará mediante convenio colectivo",
+              "page": 115
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-115",
+              "quote": "Este modelo se aplicará igualmente a las empresas públicas",
+              "page": 115
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-amplio--environment-and-energy",
       "partyId": "frente-amplio",
       "topicId": "environment-and-energy",
       "path": "/parties/frente-amplio/environment-and-energy",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-green-transition-investment",
+          "title": {
+            "es": "Inversión anual en transición ecológica",
+            "ca": "Inversió anual en transició ecològica",
+            "gl": "Investimento anual na transición ecolóxica",
+            "eu": "Trantsizio ekologikorako urteko inbertsioa",
+            "oc": "Inversion annau ena transicion ecologica",
+            "en": "Annual investment in the green transition"
+          },
+          "text": {
+            "es": "Establecer por ley un compromiso presupuestario de destinar cada año el 3,5 % del PIB a proyectos de transición ecológica justa, descarbonización industrial, adaptación al cambio climático e infraestructuras verdes.",
+            "ca": "Establir per llei un compromís pressupostari de destinar cada any el 3,5 % del PIB a projectes de transició ecològica justa, descarbonització industrial, adaptació al canvi climàtic i infraestructures verdes.",
+            "gl": "Establecer por lei o compromiso orzamentario de destinar cada ano o 3,5 % do PIB a proxectos de transición ecolóxica xusta, descarbonización industrial, adaptación ao cambio climático e infraestruturas verdes.",
+            "eu": "Legez ezartzea urtero BPGaren % 3,5 trantsizio ekologiko bidezkorako, industria deskarbonizatzeko, klima-aldaketara egokitzeko eta azpiegitura berdeetarako proiektuetara bideratzeko aurrekontu-konpromisoa.",
+            "oc": "Establir per lei un compromís pressupostari de destinar cada an eth 3,5 % deth PIB a projèctes de transicion ecologica justa, descarbonizacion industriau, adaptacion ath cambi climatic e infraestructures verdes.",
+            "en": "Create a legal budget commitment to spend 3.5% of GDP each year on projects for a just green transition, industrial decarbonisation, climate adaptation and green infrastructure."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-60",
+              "quote": "Compromiso presupuestario legal para destinar el 3,5 % del PIB anual a proyectos de transi- ción ecológica justa, descarbonización industrial, adaptación al cambio climáti- co e infraestructuras verdes.",
+              "page": 60
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-climate-emissions-targets",
+          "title": {
+            "es": "Objetivos de reducción de emisiones",
+            "ca": "Objectius de reducció d’emissions",
+            "gl": "Obxectivos de redución de emisións",
+            "eu": "Isuriak murrizteko helburuak",
+            "oc": "Objectius de reduccion d’emissions",
+            "en": "Emissions reduction targets"
+          },
+          "text": {
+            "es": "Incorporar a la legislación climática y a la planificación energética objetivos de reducción de emisiones del 38 % en 2035 y del 85 % en 2040 respecto a 1990, y de neutralidad climática en 2050. Establecer trayectorias por sectores para evaluar el cumplimiento y ajustar las medidas.",
+            "ca": "Incorporar a la legislació climàtica i a la planificació energètica objectius de reducció d’emissions del 38 % el 2035 i del 85 % el 2040 respecte del 1990, i de neutralitat climàtica el 2050. Establir trajectòries per sectors per avaluar el compliment i ajustar les mesures.",
+            "gl": "Incorporar á lexislación climática e á planificación enerxética obxectivos de redución de emisións do 38 % en 2035 e do 85 % en 2040 respecto de 1990, e de neutralidade climática en 2050. Establecer traxectorias por sectores para avaliar o cumprimento e axustar as medidas.",
+            "eu": "Klima-legeetan eta energia-plangintzan jasotzea isuriak 1990eko mailekin alderatuta % 38 murrizteko helburua 2035erako, % 85ekoa 2040rako eta klima-neutraltasuna lortzekoa 2050erako. Sektorekako ibilbideak ezartzea, betetze-maila ebaluatzeko eta neurriak egokitzeko.",
+            "oc": "Incorporar ara legislacion climatica e ara planificacion energetica objectius de reduccion des emissions deth 38 % en 2035 e deth 85 % en 2040 respècte a 1990, e de neutralitat climatica en 2050. Establir trajectòries per sectors entà avalorar eth compliment e ajustar es mesures.",
+            "en": "Put targets into climate legislation and energy planning to cut emissions by 38% in 2035 and 85% in 2040 compared with 1990, and reach climate neutrality in 2050. Set sector-by-sector pathways to assess progress and adjust measures."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-60",
+              "quote": "Reduciremos las emisiones respecto a 1990 un 38 % en 2035, un 85 % en 2040 y alcanzaremos la neutralidad climática en 2050",
+              "page": 60
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-60",
+              "quote": "con sendas sectoriales que permitan evaluar su cumplimiento y ajustar las medidas de ejecución.",
+              "page": 60
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-energy-generations-fund",
+          "title": {
+            "es": "Fondo Generacional de la Energía",
+            "ca": "Fondo Generacional de la Energía",
+            "gl": "Fondo Generacional de la Energía",
+            "eu": "Fondo Generacional de la Energía",
+            "oc": "Fondo Generacional de la Energía",
+            "en": "Fondo Generacional de la Energía"
+          },
+          "text": {
+            "es": "Crear un fondo con una participación pública del 30 % en las nuevas instalaciones renovables y de almacenamiento pequeñas y medianas. Reinvertir la mitad de los beneficios en el fondo y destinar la otra mitad a vivienda pública, rehabilitación y pensiones.",
+            "ca": "Crear un fons amb una participació pública del 30 % en les noves instal·lacions renovables i d’emmagatzematge petites i mitjanes. Reinvertir la meitat dels beneficis en el fons i destinar l’altra meitat a habitatge públic, rehabilitació i pensions.",
+            "gl": "Crear un fondo cunha participación pública do 30 % nas novas instalacións renovables e de almacenamento pequenas e medianas. Reinvestir a metade dos beneficios no fondo e destinar a outra metade a vivenda pública, rehabilitación e pensións.",
+            "eu": "Funts bat sortzea instalazio berriztagarri eta biltegiratze-instalazio txiki eta ertain berrietan % 30eko partaidetza publikoarekin. Etekinen erdia funtsean berrinbertitzea, eta beste erdia etxebizitza publikora, birgaitzera eta pentsioetara bideratzea.",
+            "oc": "Crear un hons damb ua participacion publica deth 30 % enes naues installacions renovables e d’emmagazinatge petites e mejanes. Reinvertir era mitat des beneficis en hons e destinar era auta mitat a abitatge public, reabilitacion e pensions.",
+            "en": "Create a fund with a 30% public stake in new small and medium renewable energy and storage installations. Reinvest half the profits in the fund and allocate the other half to public housing, refurbishment and pensions."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-62",
+              "quote": "con participación pública del 30 % en las nuevas instalaciones renovables y de almacenamiento pequeñas y medianas.",
+              "page": 62,
+              "printedPage": "69"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-62",
+              "quote": "La mitad de los beneficios se reinvertirá en el fondo y la otra mitad irá a vivienda pública, rehabilitación y pensiones.",
+              "page": 62,
+              "printedPage": "69"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-shared-rooftop-solar",
+          "title": {
+            "es": "Plan de Tejados Solares",
+            "ca": "Plan de Tejados Solares",
+            "gl": "Plan de Tejados Solares",
+            "eu": "Plan de Tejados Solares",
+            "oc": "Plan de Tejados Solares",
+            "en": "Plan de Tejados Solares"
+          },
+          "text": {
+            "es": "Instalar antes de 2030 sistemas solares obligatorios de autoconsumo compartido en todas las comunidades de vecinos con un tejado o una azotea útiles. El Estado adelantará el coste y cada comunidad lo devolverá sin intereses con parte del ahorro en la factura eléctrica.",
+            "ca": "Instal·lar abans del 2030 sistemes solars obligatoris d’autoconsum compartit a totes les comunitats de veïns amb una teulada o un terrat adequats. L’Estat avançarà el cost i cada comunitat el retornarà sense interessos amb part de l’estalvi en la factura elèctrica.",
+            "gl": "Instalar antes de 2030 sistemas solares obrigatorios de autoconsumo compartido en todas as comunidades veciñais cun tellado ou unha azotea adecuados. O Estado adiantará o custo e cada comunidade devolverao sen xuros con parte do aforro na factura eléctrica.",
+            "eu": "2030 baino lehen, autokontsumo partekaturako eguzki-sistemak nahitaez jartzea teilatu edo zabaltza egokia duten jabekide-erkidego guztietan. Estatuak kostua aurreratuko du eta erkidego bakoitzak interesik gabe itzuliko du, argindarraren fakturan aurreztutakoaren zati batekin.",
+            "oc": "Installar abans de 2030 sistèmes solars obligatòris d’autoconsum compartit en totes es comunitats de vesins damb un tet o un terrat adequadi. Er Estat avançarà eth còst e cada comunitat lo tornarà sense interèssi damb ua part der estauvi ena factura electrica.",
+            "en": "Require shared solar self-consumption systems in all residential owners’ associations with a suitable roof or roof terrace before 2030. The state will pay the upfront cost and each association will repay it interest-free using part of its electricity bill savings."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-62",
+              "quote": "Antes de 2030, todas las comunidades de vecinos con un tejado o una azotea útiles tendrán una instalación solar de autoconsumo com- partido.",
+              "page": 62,
+              "printedPage": "69"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-62",
+              "quote": "adelantará el coste y la comuni- dad lo devolverá sin intereses con una parte de lo que ahorre en la luz.",
+              "page": 62,
+              "printedPage": "69"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-social-energy-tariff",
+          "title": {
+            "es": "Tarifa social de la energía",
+            "ca": "Tarifa social de l’energia",
+            "gl": "Tarifa social da enerxía",
+            "eu": "Energiaren tarifa soziala",
+            "oc": "Tarifa sociau dera energia",
+            "en": "Social energy tariff"
+          },
+          "text": {
+            "es": "Sustituir los bonos sociales por una tarifa social de la energía que se reconozca de oficio a quienes tengan derecho. Actualizar las cuantías y los límites de consumo protegido para cubrir la electricidad, la calefacción y la refrigeración básicas. Hacer permanente la protección de los hogares vulnerables frente a los cortes por impago.",
+            "ca": "Substituir els bons socials per una tarifa social de l’energia que es reconegui d’ofici a qui hi tingui dret. Actualitzar les quanties i els límits de consum protegit per cobrir l’electricitat, la calefacció i la refrigeració bàsiques. Fer permanent la protecció de les llars vulnerables davant dels talls per impagament.",
+            "gl": "Substituír os bonos sociais por unha tarifa social da enerxía que se recoñeza de oficio a quen teña dereito. Actualizar as contías e os límites de consumo protexido para cubrir a electricidade, a calefacción e a refrixeración básicas. Facer permanente a protección dos fogares vulnerables fronte aos cortes por impago.",
+            "eu": "Gizarte-bonuen ordez energiaren tarifa soziala ezartzea, eskubidea dutenei ofizioz aitortuta. Zenbatekoak eta babestutako kontsumoaren mugak eguneratzea, elektrizitateko, berokuntzako eta hozteko oinarrizko beharrak asetzeko. Etxe zaurgarriak ordainketarik ezagatiko hornidura-eteteetatik babesteko neurria iraunkor bihurtzea.",
+            "oc": "Substituïr es bons sociaus per ua tarifa sociau dera energia que se reconeishe d’ofici a qui i age dret. Actualizar es quantitats e es limits deth consum protegit entà caperar es besonhs basics d’electricitat, cauhatge e refrigeracion. Hèr permanenta era proteccion des larèrs vulnerables deuant es talhs per manca de pagament.",
+            "en": "Replace social energy discounts with a social energy tariff automatically granted to everyone eligible. Update amounts and protected consumption limits to cover basic electricity, heating and cooling needs. Permanently protect vulnerable households from disconnection for non-payment."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-62",
+              "quote": "Sustituire- mos los bonos sociales por una tarifa social de la energía, con reconocimiento de oficio",
+              "page": 62,
+              "printedPage": "69"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-62",
+              "quote": "Actualizaremos las cuantías y los límites de consumo protegido",
+              "page": 62,
+              "printedPage": "69"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-62",
+              "quote": "Convertiremos en permanente la protección frente a los cortes por impago de los hogares vulnerables.",
+              "page": 62,
+              "printedPage": "69"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-public-water-access",
+          "title": {
+            "es": "Gestión pública y derecho al agua",
+            "ca": "Gestió pública i dret a l’aigua",
+            "gl": "Xestión pública e dereito á auga",
+            "eu": "Kudeaketa publikoa eta ura izateko eskubidea",
+            "oc": "Gestion publica e dret ar aigua",
+            "en": "Public water management and the right to water"
+          },
+          "text": {
+            "es": "Reconocer por ley el derecho humano al agua y al saneamiento con el alcance que define Naciones Unidas. Gestionar directamente desde el sector público todo el ciclo del agua, garantizar un mínimo vital gratuito a las personas y hogares vulnerables y prohibir los cortes por motivos económicos.",
+            "ca": "Reconèixer per llei el dret humà a l’aigua i al sanejament amb l’abast que defineixen les Nacions Unides. Gestionar directament des del sector públic tot el cicle de l’aigua, garantir un mínim vital gratuït a les persones i llars vulnerables i prohibir els talls per motius econòmics.",
+            "gl": "Recoñecer por lei o dereito humano á auga e ao saneamento co alcance que definen as Nacións Unidas. Xestionar directamente desde o sector público todo o ciclo da auga, garantir un mínimo vital gratuíto ás persoas e fogares vulnerables e prohibir os cortes por motivos económicos.",
+            "eu": "Ura eta saneamendua izateko giza eskubidea legez aitortzea, Nazio Batuek ezarritako irismenarekin. Uraren ziklo osoa sektore publikoak zuzenean kudeatzea, pertsona eta etxe zaurgarriei bizitzeko gutxieneko ur-hornidura doan bermatzea eta arrazoi ekonomikoengatiko hornidura-eteteak debekatzea.",
+            "oc": "Reconéisher per lei eth dret uman ar aigua e ath sanejament damb er abast que definissen es Nacions Unides. Gestionar dirèctament deth sector public tot eth cicle der aigua, garantir un minim vitau gratuït as persones e larèrs vulnerables e proïbir es talhs per motius economics.",
+            "en": "Recognise the human right to water and sanitation in law as defined by the United Nations. Bring the entire water cycle under direct public management, guarantee a free essential minimum for vulnerable people and households, and prohibit disconnections on economic grounds."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-73",
+              "quote": "el derecho humano al agua y el saneamiento, con el alcance y contenido definido por Naciones Unidas.",
+              "page": 73,
+              "printedPage": "80"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-73",
+              "quote": "Garantizaremos un mínimo vital de agua gratuito para las personas y hogares en situación de vulnerabilidad",
+              "page": 73,
+              "printedPage": "80"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-73",
+              "quote": "Ciclo del agua 100 % de gestión pública directa, prohi- bición legal de cortes de suministro por motivos económicos",
+              "page": 73,
+              "printedPage": "80"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-organic-farming-targets",
+          "title": {
+            "es": "Transición agroecológica",
+            "ca": "Transició agroecològica",
+            "gl": "Transición agroecolóxica",
+            "eu": "Trantsizio agroekologikoa",
+            "oc": "Transicion agroecologica",
+            "en": "Transition to agroecology"
+          },
+          "text": {
+            "es": "Impulsar una Ley de Agricultura con el objetivo de alcanzar al menos un 25 % de la superficie agraria útil en producción ecológica en 2030 y el 100 % en 2050. Priorizar las prácticas agroecológicas, los cultivos de secano, las variedades tradicionales y las leguminosas.",
+            "ca": "Impulsar una llei d’agricultura amb l’objectiu d’assolir almenys un 25 % de la superfície agrària útil en producció ecològica el 2030 i el 100 % el 2050. Prioritzar les pràctiques agroecològiques, els conreus de secà, les varietats tradicionals i les lleguminoses.",
+            "gl": "Impulsar unha lei de agricultura co obxectivo de alcanzar polo menos un 25 % da superficie agraria útil en produción ecolóxica en 2030 e o 100 % en 2050. Priorizar as prácticas agroecolóxicas, os cultivos de secaño, as variedades tradicionais e as leguminosas.",
+            "eu": "Nekazaritzari buruzko legea bultzatzea, 2030ean nekazaritza-azalera erabilgarriaren gutxienez % 25 ekoizpen ekologikora bideratzeko helburuarekin, eta 2050ean % 100. Jardunbide agroekologikoak, lehorreko laboreak, barietate tradizionalak eta lekadunak lehenestea.",
+            "oc": "Impulsar ua lei d’agricultura damb er objectiu d’arténher aumens un 25 % dera superfícia agrària util en produccion ecologica en 2030 e eth 100 % en 2050. Priorizar es practiques agroecologiques, es cultius de secan, es varietats tradicionaus e es leguminoses.",
+            "en": "Promote an agriculture law targeting at least 25% of utilised agricultural area under organic production in 2030 and 100% in 2050. Prioritise agroecological practices, rainfed crops, traditional varieties and legumes."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-88",
+              "quote": "impulsando una Ley de Agricultura con el objetivo de alcanzar al menos un 25 % de superficie agraria útil en producción ecológica para 2030 y el 100 % para 2050.",
+              "page": 88,
+              "printedPage": "98"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-88",
+              "quote": "priorizar las prác- ticas agroecológicas y los cultivos de secano, las variedades tradicionales y las leguminosas",
+              "page": 88,
+              "printedPage": "98"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-year-round-island-connections",
+          "title": {
+            "es": "Conexiones insulares todo el año",
+            "ca": "Connexions insulars tot l’any",
+            "gl": "Conexións insulares todo o ano",
+            "eu": "Uharteetarako loturak urte osoan",
+            "oc": "Connexions insulares tot er an",
+            "en": "Year-round island links"
+          },
+          "text": {
+            "es": "Garantizar conexiones mínimas todo el año entre las islas y con la península. Reforzar las obligaciones de servicio público, especialmente en los enlaces entre las islas no capitalinas y la península.",
+            "ca": "Garantir connexions mínimes tot l’any entre les illes i amb la península. Reforçar les obligacions de servei públic, especialment en els enllaços entre les illes no capitalines i la península.",
+            "gl": "Garantir conexións mínimas todo o ano entre as illas e coa península. Reforzar as obrigas de servizo público, especialmente nas conexións entre as illas non capitalinas e a península.",
+            "eu": "Gutxieneko loturak bermatzea urte osoan, uharteen artean eta penintsularekin. Zerbitzu publikoko betebeharrak indartzea, batez ere autonomia-erkidegoko hiribururik gabeko uharteen eta penintsularen arteko loturetan.",
+            "oc": "Garantir connexions minimes tot er an entre es isles e damb era peninsula. Renforçar es obligacions de servici public, sustot enes ligams entre es isles sense capitau regionau e era peninsula.",
+            "en": "Guarantee minimum year-round transport links between the islands and with the mainland. Strengthen public service obligations, especially for routes between islands without regional capitals and the mainland."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-98",
+              "quote": "Garantizaremos conexiones mínimas durante todo el año entre las islas y con la península, reforzando las obligaciones de servicio público, en especial entre las islas no capitalinas y la península",
+              "page": 98,
+              "printedPage": "110"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-amplio--healthcare",
       "partyId": "frente-amplio",
       "topicId": "healthcare",
       "path": "/parties/frente-amplio/healthcare",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-healthcare-funding",
+          "title": {
+            "es": "Financiación sanitaria y atención primaria",
+            "ca": "Finançament sanitari i atenció primària",
+            "gl": "Financiamento sanitario e atención primaria",
+            "eu": "Osasunaren eta lehen arretaren finantzaketa",
+            "oc": "Finançament sanitari e atencion primària",
+            "en": "Healthcare and primary care funding"
+          },
+          "text": {
+            "es": "Destinar el 8 % del PIB estatal a la sanidad pública mediante los Presupuestos Generales del Estado. Seguir aumentando los fondos finalistas de atención primaria para que reciba el 25 % del presupuesto sanitario.",
+            "ca": "Destinar el 8 % del PIB estatal a la sanitat pública mitjançant els pressupostos generals de l’Estat. Continuar augmentant els fons finalistes d’atenció primària perquè rebi el 25 % del pressupost sanitari.",
+            "gl": "Destinar o 8 % do PIB estatal á sanidade pública a través dos Orzamentos Xerais do Estado. Seguir aumentando os fondos finalistas de atención primaria para que reciba o 25 % do orzamento sanitario.",
+            "eu": "Estatuko BPGaren % 8 osasun publikora bideratzea Estatuko Aurrekontu Orokorren bidez. Lehen arretarako berariazko funtsak handitzen jarraitzea, osasun-aurrekontuaren % 25 lehen arretara bideratzeko.",
+            "oc": "Destinar eth 8 % deth PIB estatau ara sanitat publica mejançant es pressupòsti generaus der Estat. Contunhar d’aumentar es hons finalistes dera atencion primària entà que receba eth 25 % deth pressupòst sanitari.",
+            "en": "Allocate 8% of national GDP to public healthcare through the state budget. Continue increasing earmarked funding for primary care so it receives 25% of the health budget."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-26",
+              "quote": "del 8 % del PIB estatal para la sanidad pública",
+              "page": 26,
+              "printedPage": "30"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-26",
+              "quote": "destinar el 25 % del presupuesto sanitario a Atención Primaria",
+              "page": 26,
+              "printedPage": "30"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-public-management-and-universal-access",
+          "title": {
+            "es": "Gestión pública y acceso universal",
+            "ca": "Gestió pública i accés universal",
+            "gl": "Xestión pública e acceso universal",
+            "eu": "Kudeaketa publikoa eta sarbide unibertsala",
+            "oc": "Gestion publica e accès universau",
+            "en": "Public management and universal access"
+          },
+          "text": {
+            "es": "Establecer la gestión pública directa como regla general para los centros y servicios del Sistema Nacional de Salud. Permitir la gestión indirecta solo de forma excepcional, si se justifica que la gestión directa no es posible y un comité técnico especializado realiza una evaluación previa. Garantizar por ley la asistencia sanitaria a quienes residan en España, con independencia de su situación administrativa.",
+            "ca": "Establir la gestió pública directa com a regla general per als centres i serveis del Sistema Nacional de Salud. Permetre la gestió indirecta només de manera excepcional, si es justifica que la gestió directa no és possible i un comitè tècnic especialitzat fa una avaluació prèvia. Garantir per llei l’assistència sanitària a les persones que resideixen a Espanya, independentment de la seva situació administrativa.",
+            "gl": "Establecer a xestión pública directa como regra xeral para os centros e servizos do Sistema Nacional de Salud. Permitir a xestión indirecta só de xeito excepcional, se se xustifica que a xestión directa non é posible e un comité técnico especializado fai unha avaliación previa. Garantir por lei a asistencia sanitaria ás persoas que residan en España, independentemente da súa situación administrativa.",
+            "eu": "Kudeaketa publiko zuzena arau orokor bihurtzea Sistema Nacional de Salud sistemako zentro eta zerbitzuetan. Zeharkako kudeaketa salbuespenez soilik baimentzea, zuzeneko kudeaketa ezinezkoa dela justifikatzen bada eta batzorde tekniko espezializatu batek aurretiazko ebaluazioa egiten badu. Espainian bizi diren guztiei osasun-arreta legez bermatzea, administrazio-egoera edozein dela ere.",
+            "oc": "Establir era gestion publica dirècta coma règla generau entàs centres e servicis deth Sistema Nacional de Salud. Perméter era gestion indirècta sonque de manèra excepcionau, se se justifique qu’era gestion dirècta non ei possibla e un comitat tecnic especializat hè ua avaloracion prealabla. Garantir per lei era assisténcia sanitària as persones que residissen en Espanha, independentament dera sua situacion administrativa.",
+            "en": "Make direct public management the general rule for Sistema Nacional de Salud facilities and services. Allow indirect management only in exceptional cases, with evidence that direct management is not possible and prior assessment by a specialist technical committee. Guarantee healthcare by law for people living in Spain, regardless of their administrative status."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-26",
+              "quote": "gestión pública directa como la vía general",
+              "page": 26,
+              "printedPage": "30"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-26",
+              "quote": "los modelos de gestión indirecta pasarán a ser estrictamente excepcionales",
+              "page": 26,
+              "printedPage": "30"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-26",
+              "quote": "previa obligatoria por un comité técnico especializado",
+              "page": 26,
+              "printedPage": "30"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-27",
+              "quote": "la Ley de universalidad del SNS",
+              "page": 27,
+              "printedPage": "31"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-dental-vision-hearing",
+          "title": {
+            "es": "Cobertura dental, visual y auditiva",
+            "ca": "Cobertura dental, visual i auditiva",
+            "gl": "Cobertura dental, visual e auditiva",
+            "eu": "Hortz-, ikusmen- eta entzumen-arretaren estaldura",
+            "oc": "Cobertura dentau, visuau e auditiva",
+            "en": "Dental, vision and hearing coverage"
+          },
+          "text": {
+            "es": "Ampliar la cobertura bucodental al menos al 50 % de la población residente al final de la legislatura. Extender las gafas y lentillas gratuitas del «Plan Veo» a residentes de todas las edades e incluir los audífonos en la cartera común con financiación pública para quienes los necesiten, con ayudas prioritarias para mayores de 65 años y personas con discapacidad.",
+            "ca": "Ampliar la cobertura bucodental almenys al 50 % de la població resident al final de la legislatura. Estendre les ulleres i lents de contacte gratuïtes del «Plan Veo» a residents de totes les edats i incloure els audiòfons a la cartera comuna amb finançament públic per a qui els necessiti, amb ajuts prioritaris per a majors de 65 anys i persones amb discapacitat.",
+            "gl": "Ampliar a cobertura bucodental polo menos ao 50 % da poboación residente ao final da lexislatura. Estender as lentes e lentillas gratuítas do «Plan Veo» a residentes de todas as idades e incluír os audiófonos na carteira común con financiamento público para quen os precise, con axudas prioritarias para maiores de 65 anos e persoas con discapacidade.",
+            "eu": "Legealdiaren amaieran egoiliarren gutxienez % 50i aho-hortzetako estaldura ematea. «Plan Veo» planeko doako betaurreko eta ukipen-lenteak adin guztietako egoiliarrei zabaltzea eta audifonoak zerbitzu-zorro komunean sartzea, behar dituztenentzat finantzaketa publikoarekin. Laguntzetan lehentasuna ematea 65 urtetik gorakoei eta desgaitasuna duten pertsonei.",
+            "oc": "Ampliar era cobertura bucodentau a aumens eth 50 % dera poblacion residenta ara fin dera legislatura. Esténer es lunetes e lentilhes gratuïtes deth «Plan Veo» as residents de totes es edats e includir es audioprotèsis ena cartera comuna damb finançament public entà qui les age de besonh, damb ajudes prioritàries entàs majors de 65 ans e es persones damb discapacitat.",
+            "en": "Extend dental coverage to at least 50% of residents by the end of the parliamentary term. Extend free glasses and contact lenses under «Plan Veo» to residents of all ages. Include hearing aids in the common benefits package with public funding for anyone who needs them, prioritising assistance for people over 65 and people with disabilities."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-27",
+              "quote": "alcanzar al menos el 50 % de la población residente al final de la legislatura",
+              "page": 27,
+              "printedPage": "31"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-27",
+              "quote": "«Plan Veo» (gafas y lentillas gratuitas)",
+              "page": 27,
+              "printedPage": "31"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-27",
+              "quote": "común de servicios para toda la población que los necesite",
+              "page": 27,
+              "printedPage": "31"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-community-mental-health",
+          "title": {
+            "es": "Salud mental comunitaria",
+            "ca": "Salut mental comunitària",
+            "gl": "Saúde mental comunitaria",
+            "eu": "Komunitateko osasun mentala",
+            "oc": "Salut mentau comunitària",
+            "en": "Community mental healthcare"
+          },
+          "text": {
+            "es": "Crear un fondo específico para la Red de Salud Mental Comunitaria y aumentar la dotación de profesionales de salud mental hasta un mínimo de 10 por cada 100.000 habitantes. Impulsar la atención comunitaria de proximidad y desarrollar la estrategia «Cero Contenciones».",
+            "ca": "Crear un fons específic per a la Red de Salud Mental Comunitaria i augmentar la dotació de professionals de salut mental fins a un mínim de 10 per cada 100.000 habitants. Impulsar l’atenció comunitària de proximitat i desplegar l’estratègia «Cero Contenciones».",
+            "gl": "Crear un fondo específico para a Red de Salud Mental Comunitaria e aumentar a dotación de profesionais de saúde mental ata un mínimo de 10 por cada 100.000 habitantes. Impulsar a atención comunitaria de proximidade e desenvolver a estratexia «Cero Contenciones».",
+            "eu": "Red de Salud Mental Comunitaria sarerako funts espezifikoa sortzea, eta osasun mentaleko profesionalen kopurua 100.000 biztanleko gutxienez 10era igotzea. Hurbileko arreta komunitarioa sustatzea eta «Cero Contenciones» estrategia garatzea.",
+            "oc": "Crear un hons especific entara Red de Salud Mental Comunitaria e aumentar era dotacion de professionaus de salut mentau enquia un minimau de 10 per cada 100.000 abitants. Impulsar era atencion comunitària de proximitat e desvolopar era estrategia «Cero Contenciones».",
+            "en": "Create a dedicated fund for the Red de Salud Mental Comunitaria and raise mental health staffing to at least 10 professionals per 100,000 residents. Promote local community care and develop the «Cero Contenciones» strategy."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-28",
+              "quote": "un fondo específico para la Red de",
+              "page": 28,
+              "printedPage": "32"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-28",
+              "quote": "hasta un mínimo de 10 por cada 100.000 habitantes",
+              "page": 28,
+              "printedPage": "32"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-28",
+              "quote": "«Cero Contenciones»",
+              "page": 28,
+              "printedPage": "32"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-abortion-access",
+          "title": {
+            "es": "Derecho al aborto y acceso en centros públicos",
+            "ca": "Dret a l’avortament i accés en centres públics",
+            "gl": "Dereito ao aborto e acceso en centros públicos",
+            "eu": "Abortatzeko eskubidea eta zentro publikoetako sarbidea",
+            "oc": "Dret ar avortament e accès en centres publics",
+            "en": "Right to abortion and access in public facilities"
+          },
+          "text": {
+            "es": "Incluir el derecho al aborto en el artículo 43 de la Constitución y exigir a los poderes públicos que garanticen que las mujeres puedan ejercerlo en condiciones de igualdad real y efectiva. Garantizar la interrupción voluntaria del embarazo en centros públicos de todas las comunidades y ciudades autónomas, con financiación del Fondo Social Europeo Plus que cubra también el desplazamiento.",
+            "ca": "Incloure el dret a l’avortament a l’article 43 de la Constitució i exigir als poders públics que garanteixin que les dones puguin exercir-lo en condicions d’igualtat real i efectiva. Garantir la interrupció voluntària de l’embaràs en centres públics de totes les comunitats i ciutats autònomes, amb finançament del Fons Social Europeu Plus que cobreixi també el desplaçament.",
+            "gl": "Incluír o dereito ao aborto no artigo 43 da Constitución e esixir aos poderes públicos que garantan que as mulleres poidan exercelo en condicións de igualdade real e efectiva. Garantir a interrupción voluntaria do embarazo en centros públicos de todas as comunidades e cidades autónomas, con financiamento do Fondo Social Europeo Plus que cubra tamén o desprazamento.",
+            "eu": "Abortatzeko eskubidea Konstituzioaren 43. artikuluan sartzea eta botere publikoei emakumeek eskubide hori egiazko eta benetako berdintasunez baliatu ahal izatea bermatzeko eskatzea. Haurdunaldia borondatez etetea bermatzea autonomia-erkidego eta hiri autonomo guztietako zentro publikoetan, joan-etorriak ere estaliko dituen Europako Gizarte Funtsa Plus funtsaren finantzaketarekin.",
+            "oc": "Includir eth dret ar avortament en article 43 dera Constitucion e exigir as poders publics que garantisquen qu’es hemnes lo poguen exercir en condicions d’egalitat reau e efectiva. Garantir era interrupcion volontària der embaràs en centres publics de totes es comunitats e ciutats autonòmes, damb finançament deth Fons Sociau Europèu Plus que corbisque tanben eth desplaçament.",
+            "en": "Add the right to abortion to Article 43 of the Constitution and require public authorities to guarantee that women can exercise it under conditions of real and effective equality. Guarantee access to voluntary termination of pregnancy in public facilities in every autonomous community and autonomous city, with European Social Fund Plus funding that also covers travel costs."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-28",
+              "quote": "Reformaremos el artículo 43 de la Constitución para incluir el derecho al aborto",
+              "page": 28,
+              "printedPage": "32"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-28",
+              "quote": "Estrategia para garantizar la IVE en centros públicos",
+              "page": 28,
+              "printedPage": "32"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-28",
+              "quote": "incluyendo gastos de desplazamiento",
+              "page": 28,
+              "printedPage": "32"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-28",
+              "quote": "ejercicio del derecho de las mujeres a la interrupción voluntaria del embarazo",
+              "page": 28,
+              "printedPage": "32"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-waiting-list-rules",
+          "title": {
+            "es": "Registro de listas de espera sanitarias",
+            "ca": "Registre de llistes d’espera sanitàries",
+            "gl": "Rexistro de listas de espera sanitarias",
+            "eu": "Osasuneko itxaron-zerrenden erregistroa",
+            "oc": "Registre de listes de demora sanitàries",
+            "en": "Healthcare waiting list records"
+          },
+          "text": {
+            "es": "Aprobar un real decreto que cuente la espera desde la indicación clínica, obligue a inscribir al paciente en cinco días como máximo y prohíba las listas paralelas. Incluir por primera vez los tiempos de atención primaria y salud mental, y mantener a los pacientes derivados a centros concertados en el registro oficial hasta que reciban asistencia.",
+            "ca": "Aprovar un reial decret que compti l’espera des de la indicació clínica, obligui a inscriure el pacient en cinc dies com a màxim i prohibeixi les llistes paral·leles. Incloure per primera vegada els temps d’atenció primària i salut mental, i mantenir els pacients derivats a centres concertats al registre oficial fins que rebin assistència.",
+            "gl": "Aprobar un real decreto que conte a espera desde a indicación clínica, obrigue a inscribir o paciente nun máximo de cinco días e prohiba as listas paralelas. Incluír por primeira vez os tempos de atención primaria e saúde mental, e manter as persoas derivadas a centros concertados no rexistro oficial ata que reciban asistencia.",
+            "eu": "Errege-dekretu bat onartzea, itxaronaldia indikazio klinikotik zenbatzeko, pazientea gehienez bost eguneko epean erregistratzeko eta zerrenda paraleloak debekatzeko. Lehen aldiz lehen arretako eta osasun mentaleko itxaronaldiak jasotzea eta itunpeko zentroetara bideratutako pazienteak erregistro ofizialean mantentzea arreta jaso arte.",
+            "oc": "Aprovar un reiau decret que compde era demora des dera indicacion clinica, obligue a inscríuer eth pacient en cinc dies coma maximau e proïbisque es listes parallèles. Includir per prumèr còp es tempsi d’atencion primària e salut mentau, e mantier es pacients derivadi a centres concertadi en registre oficiau enqui’à que receben assisténcia.",
+            "en": "Pass a royal decree starting the wait clock at the clinical recommendation, requiring registration within five days and banning parallel lists. Record waiting times for primary and mental healthcare for the first time and keep patients referred to contracted providers on the official register until they receive care."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-29",
+              "quote": "iniciando el cómputo con la indicación",
+              "page": 29,
+              "printedPage": "33"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-29",
+              "quote": "y prohíba las listas paralelas o de «paso B»",
+              "page": 29,
+              "printedPage": "33"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-29",
+              "quote": "seguirán en el registro oficial hasta recibir asistencia",
+              "page": 29,
+              "printedPage": "33"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-amplio--housing",
       "partyId": "frente-amplio",
       "topicId": "housing",
       "path": "/parties/frente-amplio/housing",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-public-housing",
+          "title": {
+            "es": "Parque público de vivienda",
+            "ca": "Parc públic d’habitatge",
+            "gl": "Parque público de vivenda",
+            "eu": "Etxebizitza parke publikoa",
+            "oc": "Parc public d’abitatge",
+            "en": "Public housing stock"
+          },
+          "text": {
+            "es": "Dedicar de forma permanente el 1 % del PIB anual al parque público de vivienda e incorporar 1,5 millones de viviendas públicas en 12 años. Limitar el alquiler público según el coste de vida de cada territorio, con un máximo de 600 € al mes para una vivienda tipo de 80 m² y sin superar el 25 % de la renta del hogar.",
+            "ca": "Destinar de manera permanent l’1 % del PIB anual al parc públic d’habitatge i incorporar-hi 1,5 milions d’habitatges públics en 12 anys. Limitar el lloguer públic segons el cost de la vida de cada territori, amb un màxim de 600 € al mes per a un habitatge tipus de 80 m² i sense superar el 25 % dels ingressos de la llar.",
+            "gl": "Destinar de maneira permanente o 1 % do PIB anual ao parque público de vivenda e incorporar 1,5 millóns de vivendas públicas en 12 anos. Limitar o alugueiro público segundo o custo da vida de cada territorio, cun máximo de 600 € ao mes para unha vivenda tipo de 80 m² e sen superar o 25 % da renda do fogar.",
+            "eu": "Urteko BPGaren % 1 etxebizitza parke publikora bideratzea modu iraunkorrean, eta 12 urtean 1,5 milioi etxebizitza publiko gehitzea. Alokairu publikoa lurralde bakoitzeko bizi-kostuaren arabera mugatzea, hilean 600 € gehienez 80 m²-ko etxebizitza estandar baterako, eta etxeko diru-sarreren % 25 gainditu gabe.",
+            "oc": "Destinar de manèra permanenta er 1 % deth PIB annau ath parc public d’abitatge e incorporar-i 1,5 milions d’abitatges publics en 12 ans. Limitar eth loguèr public segontes eth còst dera vida de cada territòri, damb un maximal de 600 € ath mes entà un abitatge tipe de 80 m² e sense superar eth 25 % dera renda dera larèr.",
+            "en": "Permanently allocate 1% of annual GDP to public housing and add 1.5 million public homes over 12 years. Cap public rents based on each area’s cost of living, at no more than €600 per month for a typical 80 m² home and no more than 25% of household income."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "Asignación presupuestaria permanente del 1 % del PIB anual",
+              "page": 10
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "se incorporarán 1,5 millones de viviendas públicas en 12 años",
+              "page": 10
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "de 600 € mensuales para inmuebles tipo de 80 m²",
+              "page": 10
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "para que no supere el 25 % de la renta",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-purchase-restrictions",
+          "title": {
+            "es": "Restricciones a la compra de vivienda",
+            "ca": "Restriccions a la compra d’habitatge",
+            "gl": "Restricións á compra de vivenda",
+            "eu": "Etxebizitzak erosteko mugak",
+            "oc": "Restriccions ara crompa d’abitatges",
+            "en": "Home purchase restrictions"
+          },
+          "text": {
+            "es": "Limitar por ley la compra de viviendas a quienes las destinen a su residencia habitual y permanente o al alquiler asequible regulado. Prohibir la compra a todas las personas jurídicas con ánimo de lucro.",
+            "ca": "Limitar per llei la compra d’habitatges a les persones que els destinin a la seva residència habitual i permanent o al lloguer assequible regulat. Prohibir la compra a totes les persones jurídiques amb ànim de lucre.",
+            "gl": "Limitar por lei a compra de vivendas a quen as destine á súa residencia habitual e permanente ou ao alugueiro alcanzable regulado. Prohibir a compra a todas as persoas xurídicas con ánimo de lucro.",
+            "eu": "Legez mugatzea etxebizitzen erosketa: erosleak ohiko bizileku iraunkorrerako edo alokairu eskuragarri arauturako erabili beharko du etxebizitza. Irabazi-asmoa duten pertsona juridiko guztiei etxebizitzak erostea debekatzea.",
+            "oc": "Limitar per lei era crompa d’abitatges as persones que les destinen ara sua residéncia abituau e permanenta o ath loguèr assequible regulat. Proïbir era crompa a totes es persones juridiques damb tòca lucrativa.",
+            "en": "Restrict home purchases by law to buyers who will use the property as their main permanent home or let it under regulated affordable rental terms. Ban all for-profit legal entities from buying homes."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-11",
+              "quote": "que no sea la residencia habitual y permanente de la persona compradora o su",
+              "page": 11,
+              "printedPage": "14"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-11",
+              "quote": "arrendamiento bajo el régimen de alquiler asequible regulado.",
+              "page": 11,
+              "printedPage": "14"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-11",
+              "quote": "a cualquier persona jurídica con ánimo de lucro",
+              "page": 11,
+              "printedPage": "14"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-tourist-and-seasonal-lets",
+          "title": {
+            "es": "Alquileres turísticos y de temporada",
+            "ca": "Lloguers turístics i de temporada",
+            "gl": "Alugueiros turísticos e de tempada",
+            "eu": "Alokairu turistikoak eta denboraldikoak",
+            "oc": "Loguèrs toristics e de sason",
+            "en": "Tourist and seasonal rentals"
+          },
+          "text": {
+            "es": "Tramitar la extinción, en un máximo de tres años, de las licencias de viviendas de uso turístico y de los alquileres de temporada fraudulentos en edificios residenciales de zonas tensionadas. Clasificar como turísticos los alquileres de hasta 30 días y aplicar al alquiler de temporada y de habitaciones las mismas reglas de contención de rentas que al de vivienda habitual.",
+            "ca": "Tramitar, en un màxim de tres anys, l’extinció de les llicències d’habitatges d’ús turístic i dels lloguers de temporada fraudulents en edificis residencials de zones tensionades. Classificar com a turístics els lloguers de fins a 30 dies i aplicar al lloguer de temporada i d’habitacions les mateixes normes de contenció de rendes que al d’habitatge habitual.",
+            "gl": "Tramitar, nun máximo de tres anos, a extinción das licenzas de vivendas de uso turístico e dos alugueiros de tempada fraudulentos en edificios residenciais de zonas tensionadas. Clasificar como turísticos os alugueiros de ata 30 días e aplicar aos de tempada e de cuartos as mesmas regras de contención das rendas que ao de vivenda habitual.",
+            "eu": "Gehienez hiru urtean, etxebizitza turistikoen lizentziak eta iruzurrezko denboraldiko alokairuak amaitzeko izapideak egitea, tentsiopeko eremuetako bizitegi-eraikinetan. Gehienez 30 eguneko alokairuak turistikotzat hartzea, eta denboraldiko nahiz logelen alokairuei ohiko etxebizitzen errentak mugatzeko arau berak aplikatzea.",
+            "oc": "Tramitar, en un maximau de tres ans, era extincion des licéncies d’abitatges d’usatge toristic e des loguèrs de sason fraudulenti en bastiments residenciaus de zònes tensionades. Classificar coma toristics es loguèrs de dinc a 30 dies e aplicar as loguèrs de sason e de crambes es madeishes normes de contencion des rendes qu’ath loguèr d’abitatge abituau.",
+            "en": "Take steps to phase out tourist home licences and end fraudulent seasonal rentals in residential buildings in housing market pressure areas within three years. Class rentals of 30 days or less as tourist rentals and apply the same rent controls to seasonal and room rentals as to rentals of main homes."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-12",
+              "quote": "extinción progresiva y definitiva de todas las licencias",
+              "page": 12,
+              "printedPage": "15"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-12",
+              "quote": "un plazo máximo de 3 años",
+              "page": 12,
+              "printedPage": "15"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-12",
+              "quote": "Los alquileres con una duración igual o menor a 30 días",
+              "page": 12,
+              "printedPage": "15"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-rent-caps",
+          "title": {
+            "es": "Tope al alquiler en zonas tensionadas",
+            "ca": "Límit al lloguer en zones tensionades",
+            "gl": "Tope ao alugueiro en zonas tensionadas",
+            "eu": "Alokairuaren muga tentsiopeko eremuetan",
+            "oc": "Limit ath loguèr en zònes tensionades",
+            "en": "Rent caps in housing market pressure areas"
+          },
+          "text": {
+            "es": "Fijar por ley el tope mensual del alquiler residencial en zonas tensionadas en la menor de dos cifras: el 25 % de la renta neta media por hogar de la sección censal y el tope del índice SERPAVI. Aplicar una rebaja obligatoria adicional del 30 % sobre ese tope en municipios de más de 200.000 habitantes o con masificación turística severa.",
+            "ca": "Fixar per llei el límit mensual del lloguer residencial en zones tensionades en la més baixa de dues xifres: el 25 % de la renda neta mitjana per llar de la secció censal i el límit de l’índex SERPAVI. Aplicar una rebaixa obligatòria addicional del 30 % sobre aquest límit en municipis de més de 200.000 habitants o amb massificació turística greu.",
+            "gl": "Fixar por lei o tope mensual do alugueiro residencial en zonas tensionadas na menor de dúas cifras: o 25 % da renda neta media por fogar da sección censual e o tope do índice SERPAVI. Aplicar unha rebaixa obrigatoria adicional do 30 % sobre ese tope nos concellos de máis de 200.000 habitantes ou con masificación turística grave.",
+            "eu": "Tentsiopeko eremuetako bizitegien hileko alokairua legez mugatzea, bi kopuru hauetatik txikiena hartuz: errolda-ataleko etxeko batez besteko errenta garbiaren % 25 eta SERPAVI indizearen muga. Muga horri % 30eko nahitaezko beherapen gehigarria aplikatzea 200.000 biztanletik gorako udalerrietan edo turismo-masifikazio larria dutenetan.",
+            "oc": "Fixar per lei eth limit mesadèr deth loguèr residenciau en zònes tensionades ena mès baisha de dues chifres: eth 25 % dera renda neta mejana per larèr dera seccion censau e eth limit der indèx SERPAVI. Aplicar ua baisha obligatòria addicionau deth 30 % sus aguest limit en municipis de mès de 200.000 abitants o damb massificacion toristica grèu.",
+            "en": "Set the legal monthly cap on residential rents in housing market pressure areas at the lower of 25% of average net household income in the census tract and the cap set by the SERPAVI index. Require a further 30% reduction from that cap in municipalities with more than 200,000 residents or severe overtourism."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-13",
+              "quote": "el 25 % de la renta neta media por hogar de la sección censal",
+              "page": 13,
+              "printedPage": "16"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-13",
+              "quote": "por el índice SERPAVI",
+              "page": 13,
+              "printedPage": "16"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-13",
+              "quote": "una rebaja adicional obligatoria del 30 % sobre el valor regulado",
+              "page": 13,
+              "printedPage": "16"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-eviction-protections",
+          "title": {
+            "es": "Protección frente a los desahucios",
+            "ca": "Protecció davant els desnonaments",
+            "gl": "Protección fronte aos desafiuzamentos",
+            "eu": "Etxegabetzeen aurkako babesa",
+            "oc": "Proteccion deuant des deslotjaments",
+            "en": "Protection against eviction"
+          },
+          "text": {
+            "es": "Prohibir de forma permanente por ley desahuciar a personas y familias en situación de vulnerabilidad económica o social sin que antes las administraciones públicas les proporcionen una alternativa habitacional digna, adecuada y estable. Obligar a los grandes tenedores a ofrecer un alquiler social de al menos siete años, ajustado a los ingresos familiares, antes de demandar judicialmente el recobro o el desalojo.",
+            "ca": "Prohibir de manera permanent per llei desnonar persones i famílies en situació de vulnerabilitat econòmica o social sense que abans les administracions públiques els proporcionin una alternativa d’habitatge digna, adequada i estable. Obligar els grans tenidors a oferir un lloguer social d’almenys set anys, ajustat als ingressos familiars, abans d’interposar una demanda judicial de restitució de l’immoble o de desallotjament.",
+            "gl": "Prohibir de maneira permanente por lei desafiuzar persoas e familias en situación de vulnerabilidade económica ou social sen que antes as administracións públicas lles proporcionen unha alternativa de vivenda digna, axeitada e estable. Obrigar os grandes propietarios a ofrecer un alugueiro social de polo menos sete anos, axustado aos ingresos familiares, antes de solicitar por vía xudicial a recuperación do inmoble ou o desaloxo.",
+            "eu": "Legez eta modu iraunkorrean debekatzea egoera ekonomiko edo sozial zaurgarrian dauden pertsonak eta familiak etxegabetzea, aurretik administrazio publikoek etxebizitza-alternatiba duin, egoki eta egonkorra eman ez badiete. Etxebizitza-jabe handiei familiaren diru-sarreren araberako gutxienez zazpi urteko alokairu soziala eskaintzeko betebeharra ezartzea, higiezina berreskuratzeko edo husteko demanda judiziala jarri aurretik.",
+            "oc": "Proïbir de manèra permanenta per lei eth deslotjament de persones e familhes en situacion de vulnerabilitat economica o sociau sense qu’abantes es administracions publiques les proporcionen ua alternativa d’abitatge digna, adequada e establa. Obligar es grani proprietaris a aufrir un loguèr sociau d’aumens sèt ans, ajustat as ingrèssi familhaus, abans de reclamar per via judiciau era recuperacion der immòble o eth deslotjament.",
+            "en": "Permanently ban the eviction of people and families in situations of economic or social vulnerability unless public authorities first provide decent, suitable and stable alternative housing. Require large property owners to offer a social rental contract of at least seven years, with rent based on household income, before bringing legal action for repossession or eviction."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-15",
+              "quote": "Prohibiremos de forma permanente y con rango de ley",
+              "page": 15,
+              "printedPage": "18"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-15",
+              "quote": "una alternativa habitacional digna, adecuada y estable",
+              "page": 15,
+              "printedPage": "18"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-15",
+              "quote": "alquiler social de al menos 7 años",
+              "page": 15,
+              "printedPage": "18"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-constitutional-housing-right",
+          "title": {
+            "es": "Derecho fundamental a la vivienda",
+            "ca": "Dret fonamental a l’habitatge",
+            "gl": "Dereito fundamental á vivenda",
+            "eu": "Etxebizitzarako oinarrizko eskubidea",
+            "oc": "Dret fondamentau ar abitatge",
+            "en": "Fundamental right to housing"
+          },
+          "text": {
+            "es": "Reformar el artículo 47 de la Constitución para que el derecho a una vivienda digna, adecuada y asequible sea un derecho fundamental exigible ante los tribunales. Hasta que se haga la reforma, reconocer por ley un derecho a la vivienda exigible ante los tribunales, empezando por las personas sin hogar, las familias con menores y las víctimas de violencia machista.",
+            "ca": "Reformar l’article 47 de la Constitució perquè el dret a un habitatge digne, adequat i assequible sigui un dret fonamental exigible davant dels tribunals. Fins que es faci la reforma, reconèixer per llei un dret a l’habitatge exigible davant dels tribunals, començant per les persones sense llar, les famílies amb menors i les víctimes de violència masclista.",
+            "gl": "Reformar o artigo 47 da Constitución para que o dereito a unha vivenda digna, axeitada e alcanzable sexa un dereito fundamental esixible perante os tribunais. Ata que se aprobe a reforma, recoñecer por lei un dereito á vivenda esixible perante os tribunais, empezando polas persoas sen fogar, as familias con menores e as vítimas de violencia machista.",
+            "eu": "Konstituzioaren 47. artikulua erreformatzea, etxebizitza duin, egoki eta eskuragarria izateko eskubidea auzitegietan galdatu daitekeen oinarrizko eskubidea izan dadin. Erreforma egin arte, auzitegietan galdatu daitekeen etxebizitzarako eskubidea legez aitortzea, etxerik gabeko pertsonetatik, adingabeak dituzten familietatik eta indarkeria matxistaren biktimetatik hasita.",
+            "oc": "Reformar er article 47 dera Constitucion entà que dret a un abitatge digne, adequat e assequible sigue un dret fondamentau exigible deuant des tribunaus. Enquia que se hèsca era reforma, arreconéisher per lei un dret ar abitatge exigible deuant des tribunaus, en tot començar pes persones sense larèr, es familhes damb menors e es victimes de violéncia masclista.",
+            "en": "Amend Article 47 of the Constitution to make the right to decent, suitable and affordable housing a fundamental right enforceable in court. Until the amendment takes effect, establish a statutory right to housing enforceable in court, starting with people experiencing homelessness, families with children and victims of sexist violence."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-19",
+              "quote": "adquirirá la condición de derecho",
+              "page": 19,
+              "printedPage": "22"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-19",
+              "quote": "un derecho subjetivo",
+              "page": 19,
+              "printedPage": "22"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-19",
+              "quote": "las familias con menores y las víctimas de violencia machista",
+              "page": 19,
+              "printedPage": "22"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-large-owner-expropriation",
+          "title": {
+            "es": "Expropiación de vivienda de grandes tenedores corporativos",
+            "ca": "Expropiació d’habitatges de grans tenidors corporatius",
+            "gl": "Expropiación de vivendas de grandes propietarios corporativos",
+            "eu": "Jabe korporatibo handien etxebizitzen desjabetzea",
+            "oc": "Expropriacion d’abitatges de grani proprietaris corporatius",
+            "en": "Expropriation of homes held by large corporate owners"
+          },
+          "text": {
+            "es": "Aprobar una ley para expropiar viviendas a propietarios corporativos privados en tres fases: primero a entidades con más de 1.000 viviendas, luego a tenedores con más de 700 y por último a empresas con más de 50 inmuebles. Adscribir obligatoriamente a la empresa pública Casa 47 todas las fincas urbanas y los suelos residenciales de la SAREB.",
+            "ca": "Aprovar una llei per expropiar habitatges a propietaris corporatius privats en tres fases: primer a entitats amb més de 1.000 habitatges, després a tenidors amb més de 700 i finalment a empreses amb més de 50 immobles. Adscriure obligatòriament a l’empresa pública Casa 47 totes les finques urbanes i els sòls residencials de la SAREB.",
+            "gl": "Aprobar unha lei para expropiar vivendas a propietarios corporativos privados en tres fases: primeiro a entidades con máis de 1.000 vivendas, despois a propietarios con máis de 700 e por último a empresas con máis de 50 inmobles. Adscribir obrigatoriamente á empresa pública Casa 47 todos os predios urbanos e os solos residenciais da SAREB.",
+            "eu": "Jabe korporatibo pribatuen etxebizitzak hiru fasetan desjabetzeko legea onartzea: lehenik, 1.000 etxebizitza baino gehiago dituzten entitateei; gero, 700 baino gehiago dituzten jabeei; eta azkenik, 50 higiezin baino gehiago dituzten enpresei. SAREBen hiri-finka eta bizitegi-lurzoru guztiak Casa 47 enpresa publikoari nahitaez atxikitzea.",
+            "oc": "Aprovar ua lei entà expropriar abitatges a proprietaris corporatius privadi en tres fases: prumèr a entitats damb mès de 1.000 abitatges, dempús a proprietaris damb mès de 700 e finaument a entrepreses damb mès de 50 immòbles. Adscríuer obligatòriament ara empresa publica Casa 47 totes es finques urbanes e es terrens residenciaus dera SAREB.",
+            "en": "Pass a law to expropriate homes from private corporate owners in three phases: first from entities with more than 1,000 homes, then from owners with more than 700, and finally from companies with more than 50 properties. Assign all SAREB urban properties and residential land to the public company Casa 47."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "poseedoras de más de 1.000 viviendas",
+              "page": 10
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "a tenedores de más de 700 viviendas",
+              "page": 10
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "de más de 50 inmuebles",
+              "page": 10
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-10",
+              "quote": "todas las fincas urbanas y suelos residenciales de la SAREB",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-housing-accumulation-tax",
+          "title": {
+            "es": "Impuesto a la acumulación de viviendas",
+            "ca": "Impost sobre l’acumulació d’habitatges",
+            "gl": "Imposto á acumulación de vivendas",
+            "eu": "Etxebizitzak metatzearen gaineko zerga",
+            "oc": "Impòst tara acumulacion d’abitatges",
+            "en": "Tax on accumulating homes"
+          },
+          "text": {
+            "es": "Crear un impuesto del 10 % sobre el valor de las viviendas afectadas. Aplicarlo a las empresas desde el primer inmueble. Aplicarlo a los particulares a partir del cuarto si el valor conjunto de sus propiedades supera los 800.000 euros. Eximir las viviendas en alquiler asequible y estable y prever excepciones para participaciones minoritarias heredadas, inmuebles de escaso valor y circunstancias familiares acreditadas, así como para cooperativas de vivienda, administraciones públicas y organizaciones sin ánimo de lucro.",
+            "ca": "Crear un impost del 10 % sobre el valor dels habitatges afectats. Aplicar-lo a les empreses des del primer immoble. Aplicar-lo als particulars a partir del quart si el valor conjunt de les seves propietats supera els 800.000 euros. Eximir els habitatges en lloguer assequible i estable i preveure excepcions per a participacions minoritàries heretades, immobles de poc valor i circumstàncies familiars acreditades, així com per a cooperatives d’habitatge, administracions públiques i organitzacions sense ànim de lucre.",
+            "gl": "Crear un imposto do 10 % sobre o valor das vivendas afectadas. Aplicalo ás empresas desde o primeiro inmoble. Aplicalo ás persoas particulares a partir do cuarto se o valor conxunto das súas propiedades supera os 800.000 euros. Eximir as vivendas en alugueiro accesible e estable e prever excepcións para participacións minoritarias herdadas, inmobles de escaso valor e circunstancias familiares acreditadas, así como para cooperativas de vivenda, administracións públicas e organizacións sen ánimo de lucro.",
+            "eu": "Zergapeko etxebizitzen balioaren % 10eko zerga sortzea. Enpresei lehen higiezinetik aplikatzea. Partikularrei laugarrenetik aplikatzea, beren ondasun higiezinen balio osoa 800.000 eurotik gorakoa bada. Alokairu eskuragarri eta egonkorreko etxebizitzak salbuestea, eta salbuespenak ezartzea oinordetzan hartutako partaidetza minoritarioetarako, balio txikiko higiezinetarako eta egiaztatutako familia-egoeretarako, baita etxebizitza-kooperatibetarako, administrazio publikoetarako eta irabazi-asmorik gabeko erakundeetarako ere.",
+            "oc": "Crear un impòst deth 10 % sus eth valor des abitatges afectadi. Aplicar-lo as empreses a compdar deth prumèr immòble. Aplicar-lo as particulars a compdar deth quatau s’eth valor conjunt des sues proprietats supère es 800.000 èuros. Eximir es abitatges en loguèr assequible e estable e preveir excepcions entà participacions minoritàries eretades, immòbles de pòc valor e circonstàncies familiares acreditades, atau coma entà cooperatives d’abitatge, administracions publiques e organizacions sense ànim de lucre.",
+            "en": "Create a 10% tax on the value of the homes covered. Apply it to companies from the first property. Apply it to individuals from the fourth if their combined property value exceeds €800,000. Exempt homes let at affordable, stable rents and provide exceptions for inherited minority interests, low-value properties and documented family circumstances, as well as for housing cooperatives, public authorities and nonprofit organisations."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-18",
+              "quote": "un impuesto del 10 % sobre el valor de los pisos que afectará a las empresas desde el primer inmueble y a los particulares a partir del cuarto, cuan- do sus propiedades superen conjuntamente los 800.000 euros.",
+              "page": 18,
+              "printedPage": "21"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-18",
+              "quote": "dejar exentas las viviendas destinadas al alquiler asequible y estable.",
+              "page": 18,
+              "printedPage": "21"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-18",
+              "quote": "excepciones para particulares con participaciones minoritarias heredadas, inmuebles de escaso valor o circunstancias familiares acreditadas.",
+              "page": 18,
+              "printedPage": "21"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-18",
+              "quote": "quedarán fuera las cooperativas de vivienda, las adminis- traciones públicas y las organizaciones sin ánimo de lucro.",
+              "page": 18,
+              "printedPage": "21"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-amplio--institutions-and-rights",
       "partyId": "frente-amplio",
       "topicId": "institutions-and-rights",
       "path": "/parties/frente-amplio/institutions-and-rights",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-federal-republic-and-referendum",
+          "title": {
+            "es": "República federal y reforma territorial",
+            "ca": "República federal i reforma territorial",
+            "gl": "República federal e reforma territorial",
+            "eu": "Errepublika federala eta lurralde-erreforma",
+            "oc": "Republica federau e reforma territoriau",
+            "en": "Federal republic and territorial reform"
+          },
+          "text": {
+            "es": "Avanzar hacia una república federal en la que se elija la jefatura del Estado. Promover el debate para formar una mayoría social y política que impulse una reforma constitucional hacia un modelo federal y plurinacional, con derecho a decidir mediante referéndum sobre la cuestión territorial.",
+            "ca": "Avançar cap a una república federal en què s’elegeixi la prefectura de l’Estat. Promoure el debat per formar una majoria social i política que impulsi una reforma constitucional cap a un model federal i plurinacional, amb dret a decidir mitjançant referèndum sobre la qüestió territorial.",
+            "gl": "Avanzar cara a unha república federal na que se elixa a xefatura do Estado. Promover o debate para formar unha maioría social e política que impulse unha reforma constitucional cara a un modelo federal e plurinacional, con dereito a decidir mediante referendo sobre a cuestión territorial.",
+            "eu": "Estatuburua hautatuko den errepublika federal baterantz aurrera egitea. Eztabaida sustatzea gehiengo sozial eta politikoa osatzeko, eredu federal eta plurinazionalerako konstituzio-erreforma bultza dezan, lurralde-auzia erreferendum bidez erabakitzeko eskubidea jasota.",
+            "oc": "Auançar entà ua republica federau a on s’escuelhe era prefectura der Estat. Promòir eth debat entà formar ua majoria sociau e politica que impulse ua reforma constitucionau entà un modèl federau e plurinacionau, damb dret a decidir per miei de referendum sus era qüestion territoriau.",
+            "en": "Work towards a federal republic with an elected head of state. Promote debate to build a social and political majority for constitutional reform towards a federal and plurinational model, with the right to decide the territorial question through a referendum."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-140",
+              "quote": "Nuestro horizonte es avanzar hacia una República Federal que nos permita al- canzar una democracia real en la que también elijamos la Jefatura del Estado.",
+              "page": 140
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-140",
+              "quote": "Promoveremos el debate para formar una mayoría social y política",
+              "page": 140
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-140",
+              "quote": "en un sentido federal y plurinacional incluyendo el derecho a decidir mediante referéndum",
+              "page": 140
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-regional-funding-reform",
+          "title": {
+            "es": "Reforma de la financiación autonómica",
+            "ca": "Reforma del finançament autonòmic",
+            "gl": "Reforma do financiamento autonómico",
+            "eu": "Autonomia-erkidegoen finantzaketa-erreforma",
+            "oc": "Reforma deth finançament autonomic",
+            "en": "Autonomous community funding reform"
+          },
+          "text": {
+            "es": "Impulsar de inmediato una reforma de la financiación autonómica que aporte cada año al menos un 2,3 % del PIB adicional al sistema para reforzar los servicios públicos. Acercar la financiación por población ajustada mediante mecanismos transparentes de solidaridad territorial, a esfuerzo fiscal similar y sin perjudicar a ninguna comunidad autónoma.",
+            "ca": "Impulsar immediatament una reforma del finançament autonòmic que aporti cada any almenys un 2,3 % addicional del PIB al sistema per reforçar els serveis públics. Acostar el finançament per població ajustada mitjançant mecanismes transparents de solidaritat territorial, amb un esforç fiscal similar i sense perjudicar cap comunitat autònoma.",
+            "gl": "Impulsar de inmediato unha reforma do financiamento autonómico que achegue cada ano ao sistema polo menos un 2,3 % adicional do PIB para reforzar os servizos públicos. Achegar o financiamento por poboación axustada mediante mecanismos transparentes de solidariedade territorial, cun esforzo fiscal similar e sen prexudicar ningunha comunidade autónoma.",
+            "eu": "Autonomia-erkidegoen finantzaketa-erreforma berehala bultzatzea eta urtero BPGaren gutxienez % 2,3 gehiago ematea sistemari, zerbitzu publikoak indartzeko. Biztanleria doituaren araberako finantzaketa hurbiltzea lurraldeen arteko elkartasun-mekanismo gardenen bidez, antzeko zerga-ahalegina eginez eta autonomia-erkidego bati ere kalterik eragin gabe.",
+            "oc": "Impulsar immediatament ua reforma deth finançament autonomic que balhe cada an aumens un 2,3 % addicionau deth PIB ath sistèma entà reforçar es servicis publics. Apropar eth finançament per poblacion ajustada per miei de mecanismes transparents de solidaritat territoriau, damb un esfòrç fiscau similar e sense prejudiciar cap comunitat autonòma.",
+            "en": "Immediately pursue a reform that adds at least 2.3% of GDP each year to the autonomous community funding system to strengthen public services. Narrow funding gaps per adjusted population through transparent territorial solidarity mechanisms, at similar levels of tax effort and without disadvantaging any autonomous community."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-103",
+              "quote": "Impulsaremos de forma inmediata la reforma del sistema de financiación auto- nómica.",
+              "page": 103
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-103",
+              "quote": "Destinaremos al menos un 2,3 % del PIB adicional al sistema de financiación au- tonómica cada año.",
+              "page": 103
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-103",
+              "quote": "solidaridad interterritorial, a similar esfuerzo fiscal, para la convergencia en la fi- nanciación por población ajustada, sin que suponga perjuicio alguno para ninguna comunidad autónoma.",
+              "page": 103
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-municipal-tax-sharing",
+          "title": {
+            "es": "Participación municipal en los tributos del Estado",
+            "ca": "Participació municipal en els tributs de l’Estat",
+            "gl": "Participación municipal nos tributos do Estado",
+            "eu": "Udalen partaidetza Estatuko zergetan",
+            "oc": "Participacion municipau enes tributs der Estat",
+            "en": "Municipal share of state tax revenue"
+          },
+          "text": {
+            "es": "Aumentar hasta el 2,5 % del PIB la participación de los ayuntamientos en los tributos del Estado, mediante un acuerdo plurianual con entidades municipalistas, Estado y comunidades autónomas. Empezar con un incremento del 0,4 % del PIB el primer año y establecer una garantía transitoria para que ningún ayuntamiento pierda financiación. Condicionar el aumento a la mejora de los servicios públicos, sin usarlo para rebajas fiscales regresivas.",
+            "ca": "Augmentar fins al 2,5 % del PIB la participació dels ajuntaments en els tributs de l’Estat, mitjançant un acord pluriennal amb entitats municipalistes, Estat i comunitats autònomes. Començar amb un increment del 0,4 % del PIB el primer any i establir una garantia transitòria perquè cap ajuntament perdi finançament. Condicionar l’augment a la millora dels serveis públics, sense usar-lo per a rebaixes fiscals regressives.",
+            "gl": "Aumentar ata o 2,5 % do PIB a participación dos concellos nos tributos do Estado, mediante un acordo plurianual con entidades municipalistas, Estado e comunidades autónomas. Comezar cun incremento do 0,4 % do PIB o primeiro ano e establecer unha garantía transitoria para que ningún concello perda financiamento. Condicionar o aumento á mellora dos servizos públicos, sen usalo para rebaixas fiscais regresivas.",
+            "eu": "Udalen partaidetza Estatuko zergetan BPGaren % 2,5era arte handitzea, udalen elkarteekin, Estatuarekin eta autonomia-erkidegoekin urte anitzeko akordioa eginda. Lehen urtean BPGaren % 0,4ko igoerarekin hastea eta udal bakar batek ere finantzaketarik gal ez dezan aldi baterako bermea ezartzea. Igoera zerbitzu publikoak hobetzearen mende jartzea, zerga-jaitsiera erregresiboetarako erabili gabe.",
+            "oc": "Aumentar enquiar 2,5 % deth PIB era participacion des ajuntaments enes tributs der Estat per miei d’un acòrd plurianau damb entitats municipalistes, er Estat e es comunitats autonomes. Començar damb un increment deth 0,4 % deth PIB eth prumèr an e establir ua garantia transitòria entà que cap ajuntament pèrde finançament. Condicionar er aument ara melhora des servicis publics, sense utilizar-lo entà rebaishes fiscaus regressives.",
+            "en": "Raise municipalities’ share of state tax revenue to 2.5% of GDP through a multi-year agreement with municipal associations, the state and autonomous communities. Start with an increase of 0.4% of GDP in the first year and temporarily protect every municipality from funding losses. Condition the increase on improving public services and bar its use for regressive tax cuts."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-109",
+              "quote": "Aumentaremos la participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB.",
+              "page": 109
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-109",
+              "quote": "incremento del 0,4 % del PIB (6.000 millones de euros) el primer año",
+              "page": 109
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-109",
+              "quote": "una garantía transitoria para que ningún ayuntamiento pierda financiación.",
+              "page": 109
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-109",
+              "quote": "se condicionarán a la mejora de los servicios públicos, de forma que no se utilicen para realizar rebajas fiscales regresivas",
+              "page": 109
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-citizens-legislative-initiatives",
+          "title": {
+            "es": "Iniciativas legislativas populares",
+            "ca": "Iniciatives legislatives populars",
+            "gl": "Iniciativas lexislativas populares",
+            "eu": "Herri-ekimen legegileak",
+            "oc": "Iniciatives legislatives populaires",
+            "en": "Citizens’ legislative initiatives"
+          },
+          "text": {
+            "es": "Reducir de 500.000 a 250.000 las firmas necesarias para una iniciativa legislativa popular. Dar a sus promotores mecanismos para retirarla si el Congreso la desvirtúa o para solicitar una consulta popular al respecto.",
+            "ca": "Reduir de 500.000 a 250.000 les signatures necessàries per a una iniciativa legislativa popular. Donar als promotors mecanismes per retirar-la si el Congrés la desvirtua o per sol·licitar una consulta popular sobre la qüestió.",
+            "gl": "Reducir de 500.000 a 250.000 as sinaturas necesarias para unha iniciativa lexislativa popular. Dar ás persoas promotoras mecanismos para retirala se o Congreso a desvirtúa ou para solicitar unha consulta popular sobre a cuestión.",
+            "eu": "Herri-ekimen legegile baterako behar diren sinadurak 500.000tik 250.000ra murriztea. Sustatzaileei mekanismoak ematea ekimena kentzeko, Kongresuak haren funtsa aldatzen badu, edo gaiari buruzko herri-kontsulta eskatzeko.",
+            "oc": "Redusir de 500.000 a 250.000 es signatures de besonh entà ua iniciatiua legislatiua populara. Balhar as promotors mecanismes entà retirar-la s’eth Congrès li altère er esperit o entà demanar ua consulta populara sus era qüestion.",
+            "en": "Cut the signatures needed for a citizens’ legislative initiative from 500,000 to 250,000. Let organisers withdraw it if the Congress of Deputies changes its substance or request a public consultation on it."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-141",
+              "quote": "pasar de las 500.000 en la actualidad a 250.000",
+              "page": 141,
+              "printedPage": "168"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-141",
+              "quote": "puedan retirarla si el Congreso la desvirtúa, o que puedan solicitar una consulta popular al respecto.",
+              "page": 141,
+              "printedPage": "168"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-public-integrity-ownership",
+          "title": {
+            "es": "Integridad pública y titularidad empresarial",
+            "ca": "Integritat pública i titularitat empresarial",
+            "gl": "Integridade pública e titularidade empresarial",
+            "eu": "Osotasun publikoa eta enpresen titulartasuna",
+            "oc": "Integritat publica e titularitat empresariau",
+            "en": "Public integrity and company ownership"
+          },
+          "text": {
+            "es": "Aprobar una Ley de Integridad Pública que obligue a inscribir y actualizar en el Registro Mercantil los cambios de propiedad de sociedades limitadas y sociedades anónimas no cotizadas, con identificación de socios, cadena de propiedad y personas que ejercen el control efectivo.",
+            "ca": "Aprovar una Ley de Integridad Pública que obligui a inscriure i actualitzar al Registre Mercantil els canvis de propietat de societats limitades i societats anònimes no cotitzades, identificant els socis, la cadena de propietat i les persones que exerceixen el control efectiu.",
+            "gl": "Aprobar unha Ley de Integridad Pública que obrigue a inscribir e actualizar no Rexistro Mercantil os cambios de propiedade de sociedades limitadas e sociedades anónimas non cotizadas, identificando os socios, a cadea de propiedade e as persoas que exercen o control efectivo.",
+            "eu": "Ley de Integridad Pública onartzea, sozietate mugatuen eta kotizatu gabeko sozietate anonimoen jabetza-aldaketak Merkataritza Erregistroan nahitaez inskribatzeko eta eguneratzeko, bazkideak, jabetza-katea eta kontrol efektiboa duten pertsonak identifikatuta.",
+            "oc": "Aprovar ua Ley de Integridad Pública qu’obligue a inscríuer e actualizar en Registre Mercantil es cambis de proprietat de societats limitades e societats anonimes non cotizades, en tot identificar es sòcis, era cadena de proprietat e es persones qu’exercissen eth contròl efectiu.",
+            "en": "Pass a Ley de Integridad Pública requiring limited liability companies and unlisted public limited companies to register and update ownership changes in the Commercial Register, identifying their members or shareholders, the chain of ownership and the people exercising effective control."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-141",
+              "quote": "Aprobaremos una Ley de Integridad Pública",
+              "page": 141,
+              "printedPage": "168"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-141",
+              "quote": "los cambios de propiedad de las sociedades limitadas y las anónimas no cotizadas, identificando a sus socios, la cadena de propiedad y las personas que ejercen el control efectivo",
+              "page": 141,
+              "printedPage": "168"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-large-platform-oversight",
+          "title": {
+            "es": "Supervisión de grandes plataformas digitales",
+            "ca": "Supervisió de les grans plataformes digitals",
+            "gl": "Supervisión das grandes plataformas dixitais",
+            "eu": "Plataforma digital handien gainbegiratzea",
+            "oc": "Supervision des granes plataformes digitaus",
+            "en": "Oversight of large digital platforms"
+          },
+          "text": {
+            "es": "Facultar a la CNMC para supervisar a las grandes plataformas digitales e imponer multas de hasta el 6 % de su facturación mundial. Elevar a la Comisión Europea las denuncias de infracciones cometidas por plataformas con sede en otro país europeo, rendir cuentas anualmente sobre los casos tramitados y garantizar que los investigadores accedan a los datos internos.",
+            "ca": "Facultar la CNMC per supervisar les grans plataformes digitals i imposar multes de fins al 6 % de la seva facturació mundial. Elevar a la Comissió Europea les denúncies d’infraccions de plataformes amb seu en un altre país europeu, retre comptes anualment sobre els casos tramitats i garantir que els investigadors accedeixin a les dades internes.",
+            "gl": "Facultar a CNMC para supervisar as grandes plataformas dixitais e impoñer multas de ata o 6 % da súa facturación mundial. Elevar á Comisión Europea as denuncias de infraccións de plataformas con sede noutro país europeo, render contas anualmente sobre os casos tramitados e garantir que o persoal investigador acceda aos datos internos.",
+            "eu": "CNMCri plataforma digital handiak gainbegiratzeko eta mundu osoko fakturazioaren % 6rainoko isunak ezartzeko eskumena ematea. Europako beste herrialde batean egoitza duten plataformen arau-hausteengatiko salaketak Europako Batzordeari helaraztea, izapidetutako kasuen berri urtero ematea eta ikertzaileei barne-datuetarako sarbidea bermatzea.",
+            "oc": "Balhar ara CNMC era facultat de supervisar es granes plataformes digitaus e impausar multes enquiar 6 % dera sua facturacion mondiau. Elevar ara Comission Europèa es denóncies d’infraccions de plataformes damb sedença en un aute país europèu, rénder compdes annaument des casi tramitadi e garantir qu’es investigadors agen accès as donades intèrnes.",
+            "en": "Empower the CNMC to oversee large digital platforms and impose fines of up to 6% of their worldwide turnover. Refer complaints about breaches by platforms headquartered in another European country to the European Commission, report annually on cases handled and guarantee researchers access to internal data."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-119",
+              "quote": "supervisar a las grandes plataformas digitales con plantilla y recursos adecuados, pudiendo imponer multas de hasta el 6 % de su facturación mundial.",
+              "page": 119
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-119",
+              "quote": "plataformas con sede en otro país europeo, se elevará la denuncia ante la Comisión Europea, rindiendo cuentas anualmente de los casos tramitados.",
+              "page": 119
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-119",
+              "quote": "Garantizaremos el acceso de los investigadores a los datos internos de las plataformas.",
+              "page": 119
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-trans-law-and-nonbinary-recognition",
+          "title": {
+            "es": "Ley Trans y reconocimiento de personas no binarias",
+            "ca": "Ley Trans i reconeixement de les persones no-binàries",
+            "gl": "Ley Trans e recoñecemento das persoas non binarias",
+            "eu": "Ley Trans eta pertsona ez-binarioen aitortza",
+            "oc": "Ley Trans e reconeishença des persones non binàries",
+            "en": "Ley Trans and recognition of non-binary people"
+          },
+          "text": {
+            "es": "Aplicar de forma efectiva la Ley Trans, reconocer a las personas no binarias y proteger frente a la violencia intragénero. Garantizar la aplicación de la legislación estatal de protección de las personas trans y LGTBIQA+, con medidas contra la discriminación en el empleo, la educación, la salud, la vivienda, el deporte, la cultura y los servicios públicos.",
+            "ca": "Aplicar de manera efectiva la Ley Trans, reconèixer les persones no-binàries i protegir davant de la violència intragènere. Garantir l’aplicació de la legislació estatal de protecció de les persones trans i LGTBIQA+, amb mesures contra la discriminació en el treball, l’educació, la salut, l’habitatge, l’esport, la cultura i els serveis públics.",
+            "gl": "Aplicar de maneira efectiva a Ley Trans, recoñecer as persoas non binarias e protexer fronte á violencia intraxénero. Garantir a aplicación da lexislación estatal de protección das persoas trans e LGTBIQA+, con medidas contra a discriminación no emprego, na educación, na saúde, na vivenda, no deporte, na cultura e nos servizos públicos.",
+            "eu": "Ley Trans benetan aplikatzea, pertsona ez-binarioak aitortzea eta genero bereko bikotekideen arteko indarkeriaren aurrean babesa ematea. Pertsona transak eta LGTBIQA+ pertsonak babesteko estatuko legedia aplikatzen dela bermatzea, enpleguko, hezkuntzako, osasuneko, etxebizitzako, kiroleko, kulturako eta zerbitzu publikoetako diskriminazioaren aurkako neurriekin.",
+            "oc": "Aplicar de manèra efectiva era Ley Trans, reconéisher es persones non binàries e protegir deuant dera violéncia intragenère. Garantir era aplicacion dera legislacion estatau de proteccion des persones trans e LGTBIQA+, damb mesures contra era discriminacion en trabalh, era educacion, era salut, er abitatge, er espòrt, era cultura e es servicis publics.",
+            "en": "Implement the Ley Trans effectively, recognise non-binary people and protect people from violence in same-gender relationships. Ensure state laws protecting trans and LGTBIQA+ people are applied, with measures against discrimination in employment, education, health, housing, sport, culture and public services."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-123",
+              "quote": "Desplegaremos de forma efectiva la Ley Trans, reconoceremos a las personas no binarias y protegeremos frente a la violencia intragénero.",
+              "page": 123
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-123",
+              "quote": "personas trans y de las personas LGTBIQA+, con medidas contra la discrimina- ción en el empleo, la educación, la salud, la vivienda, el deporte, la cultura y los servicios públicos.",
+              "page": 123
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-migration-regularisation",
+          "title": {
+            "es": "Regularización administrativa estable",
+            "ca": "Regularització administrativa estable",
+            "gl": "Regularización administrativa estable",
+            "eu": "Egoera administratiboa erregularizatzeko prozedura egonkorra",
+            "oc": "Regularizacion administrativa establa",
+            "en": "Permanent regularisation procedure"
+          },
+          "text": {
+            "es": "Completar la regularización extraordinaria de 2026 resolviendo todas las solicitudes con medios suficientes para que nadie quede fuera por retrasos administrativos. Reformar de forma integral la Ley de Extranjería para crear un procedimiento de regularización administrativa estable, permanente y reglado.",
+            "ca": "Completar la regularització extraordinària del 2026 resolent totes les sol·licituds amb els recursos necessaris perquè ningú no en quedi fora per retards administratius. Reformar de manera integral la Ley de Extranjería per crear un procediment de regularització administrativa estable, permanent i reglat.",
+            "gl": "Completar a regularización extraordinaria de 2026 resolvendo todas as solicitudes con medios suficientes para que ningunha persoa quede fóra por atrasos administrativos. Reformar de maneira integral a Ley de Extranjería para crear un procedemento de regularización administrativa estable, permanente e regrado.",
+            "eu": "2026ko aparteko erregularizazioa amaitzea, eskabide guztiak behar adina baliabiderekin ebatzita inor ez dadin atzerapen administratiboengatik kanpoan geratu. Ley de Extranjería osorik erreformatzea, egoera administratiboa erregularizatzeko prozedura egonkor, iraunkor eta arautua sortzeko.",
+            "oc": "Completar era regularizacion extraordinària de 2026 en tot resòlver totes es sollicituds damb mejans sufisenti entà que degun demore dehòra per retards administratius. Reformar integraument era Ley de Extranjería entà crear un procediment de regularizacion administrativa estable, permanent e reglat.",
+            "en": "Complete the 2026 extraordinary regularisation process by deciding all applications with enough resources to ensure administrative delays exclude no one. Overhaul the Ley de Extranjería to establish a stable, permanent, rules-based procedure for regularising immigration status."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-126",
+              "quote": "ninguna persona quede fuera por retrasos de la Administración.",
+              "page": 126
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-126",
+              "quote": "para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
+              "page": 126
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-immigration-detention-limits",
+          "title": {
+            "es": "Cierre de los CIE y límites a la detención en frontera",
+            "ca": "Tancament dels CIE i límits a la detenció a la frontera",
+            "gl": "Peche dos CIE e límites á detención na fronteira",
+            "eu": "CIEak ixtea eta mugako atxiloketa mugatzea",
+            "oc": "Barrament des CIE e limits ara detencion ena termièra",
+            "en": "Close immigration detention centres and limit border detention"
+          },
+          "text": {
+            "es": "Cerrar los Centros de Internamiento de Extranjeros (CIE). En los procedimientos de asilo en frontera, usar la detención únicamente como último recurso excepcional, priorizar medidas alternativas y garantizar que no se prolonguen los plazos.",
+            "ca": "Tancar els Centros de Internamiento de Extranjeros (CIE). En els procediments d’asil a la frontera, recórrer a la detenció només com a últim recurs excepcional, prioritzar mesures alternatives i garantir que no s’allarguin els terminis.",
+            "gl": "Pechar os Centros de Internamiento de Extranjeros (CIE). Nos procedementos de asilo na fronteira, recorrer á detención unicamente como último recurso excepcional, priorizar medidas alternativas e garantir que non se prolonguen os prazos.",
+            "eu": "Centros de Internamiento de Extranjeros (CIE) ixtea. Mugako asilo-prozeduretan atxiloketa salbuespenezko azken baliabide gisa soilik erabiltzea, neurri alternatiboak lehenestea eta epeak luzatuko ez direla bermatzea.",
+            "oc": "Barrar es Centros de Internamiento de Extranjeros (CIE). Enes procediments d’asil ena termièra, aplicar era detencion sonque coma darrèr recors excepcionau, priorizar mesures alternatives e garantir que non se prolònguen es tèrmes.",
+            "en": "Close the Centros de Internamiento de Extranjeros (CIE). In border asylum procedures, use detention only as an exceptional last resort, prioritise alternatives and ensure time limits are not extended."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-127",
+              "quote": "Cerraremos los Centros de Internamiento de Extranjeros (CIE). En los procedimientos de asilo en frontera, la detención se aplicará únicamente como último recurso excepcional, priorizando medidas alternativas y garantizando la no prolongación de plazos.",
+              "page": 127,
+              "printedPage": "150"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-military-spending-and-human-security",
+          "title": {
+            "es": "Gasto militar y seguridad humana",
+            "ca": "Despesa militar i seguretat humana",
+            "gl": "Gasto militar e seguridade humana",
+            "eu": "Gastu militarra eta giza segurtasuna",
+            "oc": "Despensa militara e seguretat umana",
+            "en": "Military spending and human security"
+          },
+          "text": {
+            "es": "Rechazar el compromiso de destinar el 5 % del PIB al gasto militar en el marco de la OTAN. Impulsar una reducción efectiva de las partidas militares y reorientar recursos a la seguridad humana, la protección civil, las emergencias climáticas, la sanidad y la educación, con control parlamentario.",
+            "ca": "Rebutjar el compromís de destinar el 5 % del PIB a la despesa militar en el marc de l’OTAN. Impulsar una reducció efectiva de les partides militars i reorientar recursos a la seguretat humana, la protecció civil, les emergències climàtiques, la sanitat i l’educació, amb control parlamentari.",
+            "gl": "Rexeitar o compromiso de destinar o 5 % do PIB ao gasto militar no marco da OTAN. Impulsar unha redución efectiva das partidas militares e reorientar recursos á seguridade humana, á protección civil, ás emerxencias climáticas, á sanidade e á educación, con control parlamentario.",
+            "eu": "NATOren esparruan BPGaren % 5 gastu militarrera bideratzeko konpromisoa baztertzea. Gastu militarreko partidak benetan murriztea bultzatzea eta baliabideak giza segurtasunera, babes zibilera, klima-larrialdietara, osasungintzara eta hezkuntzara bideratzea, parlamentuaren kontrolpean.",
+            "oc": "Refusar eth compromís de destinar eth 5 % deth PIB ara despensa militara en encastre dera OTAN. Impulsar ua reduccion efectiva des partides militares e reorientar recorsi ara seguretat umana, ara proteccion civila, as emergéncies climatiques, ara sanitat e ara educacion, damb contròl parlamentari.",
+            "en": "Reject the NATO commitment to allocate 5% of GDP to military spending. Pursue actual cuts to military budgets and redirect funds to human security, civil protection, climate emergencies, healthcare and education, under parliamentary oversight."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-130",
+              "quote": "el compromiso de destinar el 5 % del PIB a gasto militar en el marco de la OTAN",
+              "page": 130
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-130",
+              "quote": "los recursos presupuestarios hacia la seguridad humana, la protección civil, emergencias climáticas, sanidad y educación.",
+              "page": 130
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-130",
+              "quote": "Todo ello debe contar con el opor- tuno control parlamentario.",
+              "page": 130
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-amplio--pensions-and-social-protection",
       "partyId": "frente-amplio",
       "topicId": "pensions-and-social-protection",
       "path": "/parties/frente-amplio/pensions-and-social-protection",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T09:35:35Z",
+      "sourceIds": [
+        "frente-amplio-2026-df6e4d967a3a"
+      ],
+      "points": [
+        {
+          "id": "frente-amplio-constitutional-public-pensions",
+          "title": {
+            "es": "Pensiones públicas en la Constitución",
+            "ca": "Pensions públiques a la Constitució",
+            "gl": "Pensións públicas na Constitución",
+            "eu": "Pentsio publikoak Konstituzioan",
+            "oc": "Pensions publiques ena Constitucion",
+            "en": "Constitutional protection for public pensions"
+          },
+          "text": {
+            "es": "Reformar la Constitución por el procedimiento ordinario del artículo 167 para proteger el derecho a la pensión pública. Garantizar la actualización automática de las pensiones públicas según el IPC, que ninguna quede por debajo del salario mínimo interprofesional y que su gestión no se privatice.",
+            "ca": "Reformar la Constitució pel procediment ordinari de l’article 167 per protegir el dret a la pensió pública. Garantir l’actualització automàtica de les pensions públiques segons l’IPC, que cap quedi per sota del salari mínim interprofessional i que no se’n privatitzi la gestió.",
+            "gl": "Reformar a Constitución polo procedemento ordinario do artigo 167 para protexer o dereito á pensión pública. Garantir a actualización automática das pensións públicas segundo o IPC, que ningunha quede por debaixo do salario mínimo interprofesional e que non se privatice a súa xestión.",
+            "eu": "Konstituzioa 167. artikuluko prozedura arruntaren bidez erreformatzea, pentsio publikorako eskubidea babesteko. Pentsio publikoak KPIaren arabera automatikoki eguneratzea, pentsiorik ez geratzea lanbide arteko gutxieneko soldataren azpitik eta haien kudeaketa ez pribatizatzea bermatzea.",
+            "oc": "Reformar era Constitucion peth procediment ordinari der article 167 entà protegir eth dret ara pension publica. Garantir era actualizacion automatica des pensions publiques segontes er IPC, que cap non demore per dejós deth salari minimau interprofessionau e que non se privatize era sua gestion.",
+            "en": "Amend the Constitution through the ordinary procedure in Article 167 to protect the right to a public pension. Guarantee automatic inflation adjustment in line with the consumer price index, a floor at the statutory minimum wage for every public pension, and protection against privatising their administration."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-57",
+              "quote": "revalorización automática con arreglo al IPC",
+              "page": 57,
+              "printedPage": "63"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-57",
+              "quote": "ninguna sea inferior al SMI",
+              "page": 57,
+              "printedPage": "63"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-57",
+              "quote": "no se privatice la gestión de las pensiones",
+              "page": 57,
+              "printedPage": "63"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-retirement-age-and-penalties",
+          "title": {
+            "es": "Edad de jubilación y jubilación anticipada",
+            "ca": "Edat de jubilació i jubilació anticipada",
+            "gl": "Idade de xubilación e xubilación anticipada",
+            "eu": "Erretiro-adina eta erretiro aurreratua",
+            "oc": "Edat de jubilacion e jubilacion anticipada",
+            "en": "Retirement age and early retirement"
+          },
+          "text": {
+            "es": "Volver a fijar la edad de jubilación en 65 años y permitirla a los 60 en ocupaciones especialmente penosas, como construcción, limpieza, ayuda a domicilio, camareras de piso y pesca. Suprimir los coeficientes reductores para quienes hayan cotizado más de 40 años y deban jubilarse anticipadamente de forma involuntaria.",
+            "ca": "Tornar a fixar l’edat de jubilació en 65 anys i permetre-la als 60 en ocupacions especialment penoses, com la construcció, la neteja, l’ajuda a domicili, la feina de cambrera de pis i la pesca. Suprimir els coeficients reductors per a qui hagi cotitzat més de 40 anys i s’hagi de jubilar anticipadament de manera involuntària.",
+            "gl": "Volver fixar a idade de xubilación nos 65 anos e permitila aos 60 en ocupacións especialmente penosas, como a construción, a limpeza, a axuda no fogar, o traballo de camareira de piso e a pesca. Suprimir os coeficientes redutores para quen cotizase máis de 40 anos e teña que xubilarse anticipadamente de maneira involuntaria.",
+            "eu": "Erretiro-adina berriz 65 urtean ezartzea eta 60 urterekin erretiroa hartzeko aukera ematea lan bereziki nekagarrietan, hala nola eraikuntzan, garbiketan, etxez etxeko laguntzan, hoteletako logelen garbiketan eta arrantzan. Murrizketa-koefizienteak kentzea 40 urte baino gehiago kotizatu eta nahi gabe erretiro aurreratua hartu behar dutenentzat.",
+            "oc": "Tornar a fixar era edat de jubilacion en 65 ans e permeter-la as 60 en ocupacions especiaument penibles, coma era construccion, era neteja, era ajuda a domicili, eth trabalh de camarèra de pis e era pesca. Suprimir es coeficients reductors entàs persones qu’agen cotizat mès de 40 ans e s’agen de jubilar anticipadament de manèra involontària.",
+            "en": "Restore the retirement age to 65 and allow retirement at 60 in particularly arduous jobs, including construction, cleaning, home care, hotel housekeeping and fishing. Remove pension reductions for people with more than 40 years of contributions who have to retire early involuntarily."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-57",
+              "quote": "Devolveremos la edad de jubilación a los 65 años",
+              "page": 57,
+              "printedPage": "63"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-58",
+              "quote": "deben poder acceder a los 60 años por su especial esfuerzo físico",
+              "page": 58,
+              "printedPage": "64"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-58",
+              "quote": "quienes han cotizado más de 40 años",
+              "page": 58,
+              "printedPage": "64"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-pension-gender-gap",
+          "title": {
+            "es": "Brecha de género en las pensiones",
+            "ca": "Bretxa de gènere en les pensions",
+            "gl": "Fenda de xénero nas pensións",
+            "eu": "Genero-arrakala pentsioetan",
+            "oc": "Bretxa de genre enes pensions",
+            "en": "Gender gap in pensions"
+          },
+          "text": {
+            "es": "Subir por encima de la media las pensiones contributivas más bajas y las no contributivas. Aumentar progresivamente el complemento de brecha de género, reconocer los periodos dedicados a cuidados y corregir la penalización de las carreras laborales interrumpidas o marcadas por el trabajo a tiempo parcial involuntario.",
+            "ca": "Apujar per sobre de la mitjana les pensions contributives més baixes i les no contributives. Augmentar progressivament el complement de bretxa de gènere, reconèixer els períodes dedicats a les cures i corregir la penalització de les trajectòries laborals interrompudes o marcades pel treball a temps parcial involuntari.",
+            "gl": "Subir por riba da media as pensións contributivas máis baixas e as non contributivas. Aumentar progresivamente o complemento da fenda de xénero, recoñecer os períodos dedicados aos coidados e corrixir a penalización das carreiras laborais interrompidas ou marcadas polo traballo a tempo parcial involuntario.",
+            "eu": "Kotizaziopeko pentsio apalenak eta kotizazio gabekoak batezbestekoa baino gehiago igotzea. Genero-arrakalaren osagarria pixkanaka handitzea, zaintzari eskainitako aldiak aitortzea eta etendako lan-ibilbideak edo nahi gabeko lanaldi partzialek baldintzatutakoak zigortzeari uztea.",
+            "oc": "Aumentar per dessús dera mejana es pensions contributives mès baishes e es non contributives. Aumentar progressivament eth complement de bretxa de genre, arreconéisher es periòdes dedicadi as suenhs e corregir era penalizacion des trajectòries laboraus interrompudes o mercades peth trabalh a temps parciau involontari.",
+            "en": "Give the lowest contributory pensions and non-contributory pensions above-average increases. Gradually increase the gender gap supplement, recognise time spent providing care and correct the penalties for interrupted careers or involuntary part-time work."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-58",
+              "quote": "Subiremos las pensiones",
+              "page": 58,
+              "printedPage": "64"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-58",
+              "quote": "del complemento de brecha de género con incrementos progresivos",
+              "page": 58,
+              "printedPage": "64"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-58",
+              "quote": "las carreras laborales interrumpidas o marcadas por la parcialidad",
+              "page": 58,
+              "printedPage": "64"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-universal-child-benefit",
+          "title": {
+            "es": "Prestación universal por crianza",
+            "ca": "Prestació universal per criança",
+            "gl": "Prestación universal por crianza",
+            "eu": "Haurrak hazteko prestazio unibertsala",
+            "oc": "Prestacion universau de criança",
+            "en": "Universal child benefit"
+          },
+          "text": {
+            "es": "Establecer una prestación universal de 200 € al mes por cada menor de 18 años a cargo, con independencia de los ingresos o la situación laboral de sus progenitores. Abonarla automáticamente desde el nacimiento como deducción reembolsable del IRPF, con despliegue en tres fases durante la legislatura.",
+            "ca": "Establir una prestació universal de 200 € al mes per cada menor de 18 anys a càrrec, independentment dels ingressos o la situació laboral dels seus progenitors. Abonar-la automàticament des del naixement com a deducció reemborsable de l’IRPF, amb desplegament en tres fases durant la legislatura.",
+            "gl": "Establecer unha prestación universal de 200 € ao mes por cada menor de 18 anos a cargo, independentemente dos ingresos ou da situación laboral dos seus proxenitores. Aboala automaticamente desde o nacemento como dedución reembolsable do IRPF, con implantación en tres fases durante a lexislatura.",
+            "eu": "Ardurapeko 18 urtetik beherako adingabe bakoitzeko hilean 200 €-ko prestazio unibertsala ezartzea, gurasoen diru-sarrerak edo lan-egoera edozein direla ere. Jaiotzatik aurrera automatikoki ordaintzea, PFEZaren kenkari itzulgarri gisa, legealdian hiru fasetan ezarriz.",
+            "oc": "Establir ua prestacion universau de 200 € ath mes per cada menor de 18 ans a cargue, independentament des ingrèssi o dera situacion laborau des sòns progenitors. Pagar-la automaticament des deth neishement coma deduccion reemborsabla der IRPF, damb desplegament en tres fases pendent era legislatura.",
+            "en": "Introduce a universal benefit of €200 a month for each dependent child under 18, regardless of their parents’ income or employment status. Pay it automatically from birth as a refundable personal income tax credit, rolling it out in three phases over the parliamentary term."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-21",
+              "quote": "al mes por cada menor de 18 años a cargo",
+              "page": 21
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-21",
+              "quote": "forma automática como deducción reembolsable del IRPF",
+              "page": 21
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-21",
+              "quote": "Implementación en 3 fases durante la legislatura",
+              "page": 21
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-minimum-income",
+          "title": {
+            "es": "Ingreso Mínimo Vital",
+            "ca": "Ingreso Mínimo Vital",
+            "gl": "Ingreso Mínimo Vital",
+            "eu": "Ingreso Mínimo Vital",
+            "oc": "Ingreso Mínimo Vital",
+            "en": "Ingreso Mínimo Vital"
+          },
+          "text": {
+            "es": "Conceder de oficio el Ingreso Mínimo Vital cruzando datos fiscales y de la Seguridad Social y avanzar hacia una prestación equivalente al 60 % de la renta mediana de la comunidad autónoma de residencia, ajustada al tamaño y composición del hogar. Extenderlo a jóvenes de 18 a 30 años sin requisitos desproporcionados de emancipación previa, con un suelo del 40 % de la mediana de ingresos nacional.",
+            "ca": "Concedir d’ofici l’Ingreso Mínimo Vital creuant dades fiscals i de la Seguretat Social, i avançar cap a una prestació equivalent al 60 % de la renda mediana de la comunitat autònoma de residència, ajustada a la mida i la composició de la llar. Estendre’l a joves de 18 a 30 anys sense requisits desproporcionats d’emancipació prèvia, amb un mínim del 40 % de la mediana d’ingressos nacional.",
+            "gl": "Conceder de oficio o Ingreso Mínimo Vital cruzando datos fiscais e da Seguridade Social e avanzar cara a unha prestación equivalente ao 60 % da renda mediana da comunidade autónoma de residencia, axustada ao tamaño e á composición do fogar. Estendelo á mocidade de 18 a 30 anos sen requisitos desproporcionados de emancipación previa, cun mínimo do 40 % da mediana de ingresos estatal.",
+            "eu": "Ingreso Mínimo Vital prestazioa ofizioz ematea, zerga-datuak eta Gizarte Segurantzakoak gurutzatuz. Bizilekuko autonomia-erkidegoko errenta medianaren % 60ko prestaziorantz aurrera egitea, etxekoen kopuruaren eta osaeraren arabera doituta. Prestazioa 18 eta 30 urte bitarteko gazteei zabaltzea, aurretiaz emantzipatzeko neurriz kanpoko baldintzarik gabe, eta estatu osoko diru-sarreren medianaren % 40ko gutxienekoarekin.",
+            "oc": "Concedir d’ofici er Ingreso Mínimo Vital en tot crotzar donades fiscaus e dera Seguretat Sociau, e auançar de cap a ua prestacion equivalenta ath 60 % dera renda mediana dera comunitat autonòma de residéncia, ajustada ara mesura e ara composicion dera larèr. Esténer-lo as joeni de 18 a 30 ans sense requisits desproporcionadi d’emancipacion prealabla, damb un minimau deth 40 % dera mediana d’ingrèssi estatau.",
+            "en": "Award the Ingreso Mínimo Vital automatically by linking tax and social security data. Work towards a benefit equal to 60% of median income in the recipient’s autonomous community, adjusted for household size and composition. Extend it to people aged 18 to 30 without disproportionate requirements for prior independent living, with an income floor of 40% of the national median."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "la interconexión automatizada de datos fiscales",
+              "page": 22,
+              "printedPage": "26"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "la regla de las unidades de consumo",
+              "page": 22,
+              "printedPage": "26"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "el 60 % de la renta mediana",
+              "page": 22,
+              "printedPage": "26"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "equivalente al 40 % de la mediana",
+              "page": 22,
+              "printedPage": "26"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-22",
+              "quote": "Extenderemos de forma plena el IMV a jóvenes de 18 a 30 años",
+              "page": 22,
+              "printedPage": "26"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-long-term-care",
+          "title": {
+            "es": "Atención a la dependencia y descanso de las personas cuidadoras",
+            "ca": "Atenció a la dependència i descans de les persones cuidadores",
+            "gl": "Atención á dependencia e descanso das persoas coidadoras",
+            "eu": "Mendekotasun-arreta eta zaintzaileen atsedena",
+            "oc": "Atencion ara dependéncia e repaus des persones suenhadores",
+            "en": "Long-term care and respite for carers"
+          },
+          "text": {
+            "es": "Elevar del 0,8 % al 1,7 % del PIB la inversión pública en atención a la dependencia para 2030. Duplicar las horas y la intensidad mínima de la ayuda a domicilio, incluidos los fines de semana en casos de gran dependencia, y reconocer por ley al menos un mes al año de respiro mediante centros de día o estancias temporales.",
+            "ca": "Elevar del 0,8 % a l’1,7 % del PIB la inversió pública en atenció a la dependència per al 2030. Duplicar les hores i la intensitat mínima de l’ajuda a domicili, inclosos els caps de setmana en casos de gran dependència, i reconèixer per llei almenys un mes a l’any de respir mitjançant centres de dia o estades temporals.",
+            "gl": "Elevar do 0,8 % ao 1,7 % do PIB o investimento público en atención á dependencia para 2030. Duplicar as horas e a intensidade mínima da axuda no fogar, incluídas as fins de semana en casos de gran dependencia, e recoñecer por lei polo menos un mes ao ano de respiro mediante centros de día ou estadías temporais.",
+            "eu": "Mendekotasun-arretako inbertsio publikoa BPGaren % 0,8tik % 1,7ra igotzea 2030erako. Etxez etxeko laguntzaren orduak eta gutxieneko intentsitatea bikoiztea, mendekotasun handiko kasuetan asteburuak barne. Urtean gutxienez hilabeteko atsedena legez aitortzea, eguneko zentroen edo aldi baterako egonaldien bidez.",
+            "oc": "Elevar deth 0,8 % ar 1,7 % deth PIB era inversion publica en atencion ara dependéncia entath 2030. Doblar es ores e era intensitat minima dera ajuda a domicili, includides es fins de setmana en casi de grana dependéncia, e arreconéisher per lei aumens un mes ar an de repaus mejançant centres de dia o estades temporaus.",
+            "en": "Increase public spending on long-term care from 0.8% to 1.7% of GDP by 2030. Double the hours and minimum intensity of home help, including weekends for people with high care needs. Give carers a legal right to at least one month of respite per year through day centres or temporary stays."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-23",
+              "quote": "la inversión pública del 0,8 % al 1,7 % del PIB en 2030",
+              "page": 23,
+              "printedPage": "27"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-23",
+              "quote": "las horas e intensidad mínima de ayuda a domicilio",
+              "page": 23,
+              "printedPage": "27"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-23",
+              "quote": "mínimo 1 mes al año con centros de día o estancias temporales",
+              "page": 23,
+              "printedPage": "27"
+            }
+          ]
+        },
+        {
+          "id": "frente-amplio-chosen-family-care-leave",
+          "title": {
+            "es": "Reconocimiento de las familias elegidas",
+            "ca": "Reconeixement de les famílies escollides",
+            "gl": "Recoñecemento das familias escollidas",
+            "eu": "Aukeratutako familien aitortza",
+            "oc": "Reconeishença des familhes escuelhudes",
+            "en": "Recognition of chosen families"
+          },
+          "text": {
+            "es": "Incorporar a la Ley de Familias la libre designación de personas de referencia sin exigir parentesco ni convivencia. Reconocer a las personas designadas a efectos de permisos retribuidos por enfermedad, hospitalización, fallecimiento y cuidados, y para el acompañamiento y la crianza de menores. El reconocimiento sería voluntario y no impondría obligaciones automáticas de cuidado ni sustituiría la responsabilidad pública de garantizarlos.",
+            "ca": "Incorporar a la Llei de famílies la lliure designació de persones de referència sense exigir parentiu ni convivència. Reconèixer les persones designades a efectes de permisos retribuïts per malaltia, hospitalització, defunció i cures, i per a l’acompanyament i la criança de menors. El reconeixement seria voluntari i no imposaria obligacions automàtiques de cura ni substituiria la responsabilitat pública de garantir les cures.",
+            "gl": "Incorporar á Lei de familias a libre designación de persoas de referencia sen esixir parentesco nin convivencia. Recoñecer as persoas designadas para os efectos de permisos retribuídos por enfermidade, hospitalización, falecemento e coidados, e para o acompañamento e a crianza de menores. O recoñecemento sería voluntario e non imporía obrigas automáticas de coidado nin substituiría a responsabilidade pública de garantir os coidados.",
+            "eu": "Familien Legean erreferentziazko pertsonak askatasunez izendatzeko aukera sartzea, ahaidetasunik edo bizikidetzarik eskatu gabe. Izendatutako pertsonak aitortzea gaixotasunagatik, ospitaleratzeagatik, heriotzagatik eta zaintzagatik ordaindutako baimenetarako, bai eta adingabeei laguntzeko eta haiek hazteko ere. Aitortza borondatezkoa litzateke, eta ez luke automatikoki zaintza-betebeharrik ezarriko, ezta zaintza bermatzeko erantzukizun publikoa ordezkatuko ere.",
+            "oc": "Incorporar ena Lei de familhes era designacion liura de persones de referéncia sense exigir parentiu ne convivéncia. Reconeisher es persones designades as efèctes de permisi retribuïdi per malautia, espitalizacion, decès e suenhs, e entar acompanhament e era creishença de menors. Eth reconeishement serie volontari e non imposarie obligacions automatiques de suenh ne substituirie era responsabilitat publica de garantir es suenhs.",
+            "en": "Allow people to freely designate trusted individuals under the proposed Families Act, without any requirement to be related or live together. Recognise designated people for paid leave related to illness, hospitalisation, bereavement and care, as well as for accompanying and raising children. Recognition would be voluntary and would neither create an automatic duty to provide care nor replace the responsibility of public authorities to ensure care is available."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-24",
+              "quote": "a la Ley de Familias el princi- pio de libre designación de personas de referencia",
+              "page": 24,
+              "printedPage": "28"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-24",
+              "quote": "Las personas designadas, sin necesidad de parentesco ni convivencia, serán referentes a efectos de permisos retribuidos por enfermedad, hospitalización, fallecimiento y cuidados, así como para el acompañamiento y la crianza de menores.",
+              "page": 24,
+              "printedPage": "28"
+            },
+            {
+              "sourceId": "frente-amplio-2026-df6e4d967a3a",
+              "segmentId": "page-24",
+              "quote": "El reconocimiento será voluntario y no impon- drá obligaciones automáticas de cuidado ni sustituirá la responsabilidad pública",
+              "page": 24,
+              "printedPage": "28"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pp--economy-and-taxes",

@@ -1,0 +1,267 @@
+{
+  "id": "frente-amplio--environment-and-energy",
+  "partyId": "frente-amplio",
+  "topicId": "environment-and-energy",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-green-transition-investment",
+      "title": {
+        "es": "Inversión anual en transición ecológica",
+        "ca": "Inversió anual en transició ecològica",
+        "gl": "Investimento anual na transición ecolóxica",
+        "eu": "Trantsizio ekologikorako urteko inbertsioa",
+        "oc": "Inversion annau ena transicion ecologica",
+        "en": "Annual investment in the green transition"
+      },
+      "text": {
+        "es": "Establecer por ley un compromiso presupuestario de destinar cada año el 3,5 % del PIB a proyectos de transición ecológica justa, descarbonización industrial, adaptación al cambio climático e infraestructuras verdes.",
+        "ca": "Establir per llei un compromís pressupostari de destinar cada any el 3,5 % del PIB a projectes de transició ecològica justa, descarbonització industrial, adaptació al canvi climàtic i infraestructures verdes.",
+        "gl": "Establecer por lei o compromiso orzamentario de destinar cada ano o 3,5 % do PIB a proxectos de transición ecolóxica xusta, descarbonización industrial, adaptación ao cambio climático e infraestruturas verdes.",
+        "eu": "Legez ezartzea urtero BPGaren % 3,5 trantsizio ekologiko bidezkorako, industria deskarbonizatzeko, klima-aldaketara egokitzeko eta azpiegitura berdeetarako proiektuetara bideratzeko aurrekontu-konpromisoa.",
+        "oc": "Establir per lei un compromís pressupostari de destinar cada an eth 3,5 % deth PIB a projèctes de transicion ecologica justa, descarbonizacion industriau, adaptacion ath cambi climatic e infraestructures verdes.",
+        "en": "Create a legal budget commitment to spend 3.5% of GDP each year on projects for a just green transition, industrial decarbonisation, climate adaptation and green infrastructure."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-60",
+          "quote": "Compromiso presupuestario legal para destinar el 3,5 % del PIB anual a proyectos de transi- ción ecológica justa, descarbonización industrial, adaptación al cambio climáti- co e infraestructuras verdes."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-climate-emissions-targets",
+      "title": {
+        "es": "Objetivos de reducción de emisiones",
+        "ca": "Objectius de reducció d’emissions",
+        "gl": "Obxectivos de redución de emisións",
+        "eu": "Isuriak murrizteko helburuak",
+        "oc": "Objectius de reduccion d’emissions",
+        "en": "Emissions reduction targets"
+      },
+      "text": {
+        "es": "Incorporar a la legislación climática y a la planificación energética objetivos de reducción de emisiones del 38 % en 2035 y del 85 % en 2040 respecto a 1990, y de neutralidad climática en 2050. Establecer trayectorias por sectores para evaluar el cumplimiento y ajustar las medidas.",
+        "ca": "Incorporar a la legislació climàtica i a la planificació energètica objectius de reducció d’emissions del 38 % el 2035 i del 85 % el 2040 respecte del 1990, i de neutralitat climàtica el 2050. Establir trajectòries per sectors per avaluar el compliment i ajustar les mesures.",
+        "gl": "Incorporar á lexislación climática e á planificación enerxética obxectivos de redución de emisións do 38 % en 2035 e do 85 % en 2040 respecto de 1990, e de neutralidade climática en 2050. Establecer traxectorias por sectores para avaliar o cumprimento e axustar as medidas.",
+        "eu": "Klima-legeetan eta energia-plangintzan jasotzea isuriak 1990eko mailekin alderatuta % 38 murrizteko helburua 2035erako, % 85ekoa 2040rako eta klima-neutraltasuna lortzekoa 2050erako. Sektorekako ibilbideak ezartzea, betetze-maila ebaluatzeko eta neurriak egokitzeko.",
+        "oc": "Incorporar ara legislacion climatica e ara planificacion energetica objectius de reduccion des emissions deth 38 % en 2035 e deth 85 % en 2040 respècte a 1990, e de neutralitat climatica en 2050. Establir trajectòries per sectors entà avalorar eth compliment e ajustar es mesures.",
+        "en": "Put targets into climate legislation and energy planning to cut emissions by 38% in 2035 and 85% in 2040 compared with 1990, and reach climate neutrality in 2050. Set sector-by-sector pathways to assess progress and adjust measures."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-60",
+          "quote": "Reduciremos las emisiones respecto a 1990 un 38 % en 2035, un 85 % en 2040 y alcanzaremos la neutralidad climática en 2050"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-60",
+          "quote": "con sendas sectoriales que permitan evaluar su cumplimiento y ajustar las medidas de ejecución."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-energy-generations-fund",
+      "title": {
+        "es": "Fondo Generacional de la Energía",
+        "ca": "Fondo Generacional de la Energía",
+        "gl": "Fondo Generacional de la Energía",
+        "eu": "Fondo Generacional de la Energía",
+        "oc": "Fondo Generacional de la Energía",
+        "en": "Fondo Generacional de la Energía"
+      },
+      "text": {
+        "es": "Crear un fondo con una participación pública del 30 % en las nuevas instalaciones renovables y de almacenamiento pequeñas y medianas. Reinvertir la mitad de los beneficios en el fondo y destinar la otra mitad a vivienda pública, rehabilitación y pensiones.",
+        "ca": "Crear un fons amb una participació pública del 30 % en les noves instal·lacions renovables i d’emmagatzematge petites i mitjanes. Reinvertir la meitat dels beneficis en el fons i destinar l’altra meitat a habitatge públic, rehabilitació i pensions.",
+        "gl": "Crear un fondo cunha participación pública do 30 % nas novas instalacións renovables e de almacenamento pequenas e medianas. Reinvestir a metade dos beneficios no fondo e destinar a outra metade a vivenda pública, rehabilitación e pensións.",
+        "eu": "Funts bat sortzea instalazio berriztagarri eta biltegiratze-instalazio txiki eta ertain berrietan % 30eko partaidetza publikoarekin. Etekinen erdia funtsean berrinbertitzea, eta beste erdia etxebizitza publikora, birgaitzera eta pentsioetara bideratzea.",
+        "oc": "Crear un hons damb ua participacion publica deth 30 % enes naues installacions renovables e d’emmagazinatge petites e mejanes. Reinvertir era mitat des beneficis en hons e destinar era auta mitat a abitatge public, reabilitacion e pensions.",
+        "en": "Create a fund with a 30% public stake in new small and medium renewable energy and storage installations. Reinvest half the profits in the fund and allocate the other half to public housing, refurbishment and pensions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-62",
+          "quote": "con participación pública del 30 % en las nuevas instalaciones renovables y de almacenamiento pequeñas y medianas."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-62",
+          "quote": "La mitad de los beneficios se reinvertirá en el fondo y la otra mitad irá a vivienda pública, rehabilitación y pensiones."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-shared-rooftop-solar",
+      "title": {
+        "es": "Plan de Tejados Solares",
+        "ca": "Plan de Tejados Solares",
+        "gl": "Plan de Tejados Solares",
+        "eu": "Plan de Tejados Solares",
+        "oc": "Plan de Tejados Solares",
+        "en": "Plan de Tejados Solares"
+      },
+      "text": {
+        "es": "Instalar antes de 2030 sistemas solares obligatorios de autoconsumo compartido en todas las comunidades de vecinos con un tejado o una azotea útiles. El Estado adelantará el coste y cada comunidad lo devolverá sin intereses con parte del ahorro en la factura eléctrica.",
+        "ca": "Instal·lar abans del 2030 sistemes solars obligatoris d’autoconsum compartit a totes les comunitats de veïns amb una teulada o un terrat adequats. L’Estat avançarà el cost i cada comunitat el retornarà sense interessos amb part de l’estalvi en la factura elèctrica.",
+        "gl": "Instalar antes de 2030 sistemas solares obrigatorios de autoconsumo compartido en todas as comunidades veciñais cun tellado ou unha azotea adecuados. O Estado adiantará o custo e cada comunidade devolverao sen xuros con parte do aforro na factura eléctrica.",
+        "eu": "2030 baino lehen, autokontsumo partekaturako eguzki-sistemak nahitaez jartzea teilatu edo zabaltza egokia duten jabekide-erkidego guztietan. Estatuak kostua aurreratuko du eta erkidego bakoitzak interesik gabe itzuliko du, argindarraren fakturan aurreztutakoaren zati batekin.",
+        "oc": "Installar abans de 2030 sistèmes solars obligatòris d’autoconsum compartit en totes es comunitats de vesins damb un tet o un terrat adequadi. Er Estat avançarà eth còst e cada comunitat lo tornarà sense interèssi damb ua part der estauvi ena factura electrica.",
+        "en": "Require shared solar self-consumption systems in all residential owners’ associations with a suitable roof or roof terrace before 2030. The state will pay the upfront cost and each association will repay it interest-free using part of its electricity bill savings."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-62",
+          "quote": "Antes de 2030, todas las comunidades de vecinos con un tejado o una azotea útiles tendrán una instalación solar de autoconsumo com- partido."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-62",
+          "quote": "adelantará el coste y la comuni- dad lo devolverá sin intereses con una parte de lo que ahorre en la luz."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-social-energy-tariff",
+      "title": {
+        "es": "Tarifa social de la energía",
+        "ca": "Tarifa social de l’energia",
+        "gl": "Tarifa social da enerxía",
+        "eu": "Energiaren tarifa soziala",
+        "oc": "Tarifa sociau dera energia",
+        "en": "Social energy tariff"
+      },
+      "text": {
+        "es": "Sustituir los bonos sociales por una tarifa social de la energía que se reconozca de oficio a quienes tengan derecho. Actualizar las cuantías y los límites de consumo protegido para cubrir la electricidad, la calefacción y la refrigeración básicas. Hacer permanente la protección de los hogares vulnerables frente a los cortes por impago.",
+        "ca": "Substituir els bons socials per una tarifa social de l’energia que es reconegui d’ofici a qui hi tingui dret. Actualitzar les quanties i els límits de consum protegit per cobrir l’electricitat, la calefacció i la refrigeració bàsiques. Fer permanent la protecció de les llars vulnerables davant dels talls per impagament.",
+        "gl": "Substituír os bonos sociais por unha tarifa social da enerxía que se recoñeza de oficio a quen teña dereito. Actualizar as contías e os límites de consumo protexido para cubrir a electricidade, a calefacción e a refrixeración básicas. Facer permanente a protección dos fogares vulnerables fronte aos cortes por impago.",
+        "eu": "Gizarte-bonuen ordez energiaren tarifa soziala ezartzea, eskubidea dutenei ofizioz aitortuta. Zenbatekoak eta babestutako kontsumoaren mugak eguneratzea, elektrizitateko, berokuntzako eta hozteko oinarrizko beharrak asetzeko. Etxe zaurgarriak ordainketarik ezagatiko hornidura-eteteetatik babesteko neurria iraunkor bihurtzea.",
+        "oc": "Substituïr es bons sociaus per ua tarifa sociau dera energia que se reconeishe d’ofici a qui i age dret. Actualizar es quantitats e es limits deth consum protegit entà caperar es besonhs basics d’electricitat, cauhatge e refrigeracion. Hèr permanenta era proteccion des larèrs vulnerables deuant es talhs per manca de pagament.",
+        "en": "Replace social energy discounts with a social energy tariff automatically granted to everyone eligible. Update amounts and protected consumption limits to cover basic electricity, heating and cooling needs. Permanently protect vulnerable households from disconnection for non-payment."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-62",
+          "quote": "Sustituire- mos los bonos sociales por una tarifa social de la energía, con reconocimiento de oficio"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-62",
+          "quote": "Actualizaremos las cuantías y los límites de consumo protegido"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-62",
+          "quote": "Convertiremos en permanente la protección frente a los cortes por impago de los hogares vulnerables."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-public-water-access",
+      "title": {
+        "es": "Gestión pública y derecho al agua",
+        "ca": "Gestió pública i dret a l’aigua",
+        "gl": "Xestión pública e dereito á auga",
+        "eu": "Kudeaketa publikoa eta ura izateko eskubidea",
+        "oc": "Gestion publica e dret ar aigua",
+        "en": "Public water management and the right to water"
+      },
+      "text": {
+        "es": "Reconocer por ley el derecho humano al agua y al saneamiento con el alcance que define Naciones Unidas. Gestionar directamente desde el sector público todo el ciclo del agua, garantizar un mínimo vital gratuito a las personas y hogares vulnerables y prohibir los cortes por motivos económicos.",
+        "ca": "Reconèixer per llei el dret humà a l’aigua i al sanejament amb l’abast que defineixen les Nacions Unides. Gestionar directament des del sector públic tot el cicle de l’aigua, garantir un mínim vital gratuït a les persones i llars vulnerables i prohibir els talls per motius econòmics.",
+        "gl": "Recoñecer por lei o dereito humano á auga e ao saneamento co alcance que definen as Nacións Unidas. Xestionar directamente desde o sector público todo o ciclo da auga, garantir un mínimo vital gratuíto ás persoas e fogares vulnerables e prohibir os cortes por motivos económicos.",
+        "eu": "Ura eta saneamendua izateko giza eskubidea legez aitortzea, Nazio Batuek ezarritako irismenarekin. Uraren ziklo osoa sektore publikoak zuzenean kudeatzea, pertsona eta etxe zaurgarriei bizitzeko gutxieneko ur-hornidura doan bermatzea eta arrazoi ekonomikoengatiko hornidura-eteteak debekatzea.",
+        "oc": "Reconéisher per lei eth dret uman ar aigua e ath sanejament damb er abast que definissen es Nacions Unides. Gestionar dirèctament deth sector public tot eth cicle der aigua, garantir un minim vitau gratuït as persones e larèrs vulnerables e proïbir es talhs per motius economics.",
+        "en": "Recognise the human right to water and sanitation in law as defined by the United Nations. Bring the entire water cycle under direct public management, guarantee a free essential minimum for vulnerable people and households, and prohibit disconnections on economic grounds."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-73",
+          "quote": "el derecho humano al agua y el saneamiento, con el alcance y contenido definido por Naciones Unidas."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-73",
+          "quote": "Garantizaremos un mínimo vital de agua gratuito para las personas y hogares en situación de vulnerabilidad"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-73",
+          "quote": "Ciclo del agua 100 % de gestión pública directa, prohi- bición legal de cortes de suministro por motivos económicos"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-organic-farming-targets",
+      "title": {
+        "es": "Transición agroecológica",
+        "ca": "Transició agroecològica",
+        "gl": "Transición agroecolóxica",
+        "eu": "Trantsizio agroekologikoa",
+        "oc": "Transicion agroecologica",
+        "en": "Transition to agroecology"
+      },
+      "text": {
+        "es": "Impulsar una Ley de Agricultura con el objetivo de alcanzar al menos un 25 % de la superficie agraria útil en producción ecológica en 2030 y el 100 % en 2050. Priorizar las prácticas agroecológicas, los cultivos de secano, las variedades tradicionales y las leguminosas.",
+        "ca": "Impulsar una llei d’agricultura amb l’objectiu d’assolir almenys un 25 % de la superfície agrària útil en producció ecològica el 2030 i el 100 % el 2050. Prioritzar les pràctiques agroecològiques, els conreus de secà, les varietats tradicionals i les lleguminoses.",
+        "gl": "Impulsar unha lei de agricultura co obxectivo de alcanzar polo menos un 25 % da superficie agraria útil en produción ecolóxica en 2030 e o 100 % en 2050. Priorizar as prácticas agroecolóxicas, os cultivos de secaño, as variedades tradicionais e as leguminosas.",
+        "eu": "Nekazaritzari buruzko legea bultzatzea, 2030ean nekazaritza-azalera erabilgarriaren gutxienez % 25 ekoizpen ekologikora bideratzeko helburuarekin, eta 2050ean % 100. Jardunbide agroekologikoak, lehorreko laboreak, barietate tradizionalak eta lekadunak lehenestea.",
+        "oc": "Impulsar ua lei d’agricultura damb er objectiu d’arténher aumens un 25 % dera superfícia agrària util en produccion ecologica en 2030 e eth 100 % en 2050. Priorizar es practiques agroecologiques, es cultius de secan, es varietats tradicionaus e es leguminoses.",
+        "en": "Promote an agriculture law targeting at least 25% of utilised agricultural area under organic production in 2030 and 100% in 2050. Prioritise agroecological practices, rainfed crops, traditional varieties and legumes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-88",
+          "quote": "impulsando una Ley de Agricultura con el objetivo de alcanzar al menos un 25 % de superficie agraria útil en producción ecológica para 2030 y el 100 % para 2050."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-88",
+          "quote": "priorizar las prác- ticas agroecológicas y los cultivos de secano, las variedades tradicionales y las leguminosas"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-year-round-island-connections",
+      "title": {
+        "es": "Conexiones insulares todo el año",
+        "ca": "Connexions insulars tot l’any",
+        "gl": "Conexións insulares todo o ano",
+        "eu": "Uharteetarako loturak urte osoan",
+        "oc": "Connexions insulares tot er an",
+        "en": "Year-round island links"
+      },
+      "text": {
+        "es": "Garantizar conexiones mínimas todo el año entre las islas y con la península. Reforzar las obligaciones de servicio público, especialmente en los enlaces entre las islas no capitalinas y la península.",
+        "ca": "Garantir connexions mínimes tot l’any entre les illes i amb la península. Reforçar les obligacions de servei públic, especialment en els enllaços entre les illes no capitalines i la península.",
+        "gl": "Garantir conexións mínimas todo o ano entre as illas e coa península. Reforzar as obrigas de servizo público, especialmente nas conexións entre as illas non capitalinas e a península.",
+        "eu": "Gutxieneko loturak bermatzea urte osoan, uharteen artean eta penintsularekin. Zerbitzu publikoko betebeharrak indartzea, batez ere autonomia-erkidegoko hiribururik gabeko uharteen eta penintsularen arteko loturetan.",
+        "oc": "Garantir connexions minimes tot er an entre es isles e damb era peninsula. Renforçar es obligacions de servici public, sustot enes ligams entre es isles sense capitau regionau e era peninsula.",
+        "en": "Guarantee minimum year-round transport links between the islands and with the mainland. Strengthen public service obligations, especially for routes between islands without regional capitals and the mainland."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-98",
+          "quote": "Garantizaremos conexiones mínimas durante todo el año entre las islas y con la península, reforzando las obligaciones de servicio público, en especial entre las islas no capitalinas y la península"
+        }
+      ]
+    }
+  ]
+}

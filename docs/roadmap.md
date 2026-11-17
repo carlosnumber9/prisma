@@ -30,6 +30,8 @@ The [11 November PP editorial review](../content/reviews/2026-11-11-pp-programme
 
 The [15 November PSOE editorial review](../content/reviews/2026-11-15-psoe-programme-draft.md) records the official national programme release, a preserved 114-page copy and 32 approved multilingual proposals across the eight areas. The syntheses are partial. An earlier [14 November discovery review](../content/reviews/2026-11-14-psoe-programme-discovery.md) documents the federal and territorial search before publication. A byte comparison with the current official attachment and confirmation of any territorial supplements remain pending.
 
+The [17 November Frente Amplio editorial review](../content/reviews/2026-11-17-frente-amplio-programme-draft.md) preserves the coalition's 151-page national programme presented on 16 November. The maintainer approved 59 cited proposals in six languages across all eight policy areas. The syntheses are partial. A primary copy of the separate Galicia programme remains outstanding.
+
 The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initial catalogue; see [catalogue provenance](catalogue-provenance.md). Revisit public coverage once official candidatures provide enough information. Distinguish formations and coalitions from constituency candidatures and shared programmes; do not silently equate the portal with all candidates.
 
 ## Political reference documentation — skill implemented; corpus and app integration pending

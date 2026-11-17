@@ -1,0 +1,270 @@
+{
+  "id": "frente-amplio--education",
+  "partyId": "frente-amplio",
+  "topicId": "education",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-education-funding",
+      "title": {
+        "es": "Financiación de la educación pública",
+        "ca": "Finançament de l’educació pública",
+        "gl": "Financiamento do ensino público",
+        "eu": "Hezkuntza publikoaren finantzaketa",
+        "oc": "Finançament dera educacion publica",
+        "en": "Public education funding"
+      },
+      "text": {
+        "es": "Aprobar una Ley de Financiación Educativa que fije un mínimo de inversión estatal en educación pública. Ese mínimo deberá llegar al 7 % del PIB en 2030.",
+        "ca": "Aprovar una Llei de finançament educatiu que fixi un mínim d’inversió estatal en educació pública. Aquest mínim haurà d’arribar al 7 % del PIB el 2030.",
+        "gl": "Aprobar unha Lei de financiamento educativo que fixe un mínimo de investimento estatal no ensino público. Ese mínimo deberá chegar ao 7 % do PIB en 2030.",
+        "eu": "Hezkuntza Finantzatzeko Legea onartzea, estatuak hezkuntza publikoan egin beharreko gutxieneko inbertsioa ezartzeko. Gutxieneko horrek BPGaren % 7ra iritsi beharko du 2030ean.",
+        "oc": "Aprovar ua Lei de finançament educatiu que fixe un minimau d’inversion estatau en educacion publica. Aguest minimau aurà d’arribar ath 7 % deth PIB en 2030.",
+        "en": "Pass an education funding law setting a minimum level of state investment in public education. That minimum must reach 7% of GDP by 2030."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-31",
+          "quote": "Ley de Financiación"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-31",
+          "quote": "deberá llegar al 7 % del PIB en 2030"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-public-places",
+      "title": {
+        "es": "Plazas públicas y cuotas escolares",
+        "ca": "Places públiques i quotes escolars",
+        "gl": "Prazas públicas e cotas escolares",
+        "eu": "Plaza publikoak eta eskola-kuotak",
+        "oc": "Places publiques e quòtes escolares",
+        "en": "Public school places and fees"
+      },
+      "text": {
+        "es": "Priorizar la creación de plazas públicas en todas las etapas y garantizar una plaza pública gratuita de 0 a 3 años a toda familia que la solicite. Mientras coexistan centros públicos y concertados, prohibir de inmediato las cuotas obligatorias en centros sostenidos con fondos públicos y sancionar los incumplimientos.",
+        "ca": "Prioritzar la creació de places públiques en totes les etapes i garantir una plaça pública gratuïta de 0 a 3 anys a totes les famílies que la sol·licitin. Mentre coexisteixin centres públics i concertats, prohibir immediatament les quotes obligatòries als centres sostinguts amb fons públics i sancionar els incompliments.",
+        "gl": "Priorizar a creación de prazas públicas en todas as etapas e garantir unha praza pública gratuíta de 0 a 3 anos a todas as familias que a soliciten. Mentres coexistan centros públicos e concertados, prohibir de inmediato as cotas obrigatorias nos centros sostidos con fondos públicos e sancionar os incumprimentos.",
+        "eu": "Hezkuntza-etapa guztietan plaza publikoak sortzeari lehentasuna ematea eta 0 eta 3 urte bitarteko doako plaza publikoa bermatzea eskatzen duen familia orori. Ikastetxe publikoek eta itunpekoek batera jarraitzen duten bitartean, funts publikoekin finantzatutako ikastetxeetan nahitaezko kuotak berehala debekatzea eta ez-betetzeak zigortzea.",
+        "oc": "Priorizar era creacion de places publiques en totes es etapes e garantir ua plaça publica gratuïta de 0 a 3 ans a cada familha que la sollicite. Mentre coexistisquen centres publics e concertadi, proïbir immediatament es quòtes obligatòries enes centres sostengudi damb hons publics e sancionar es incompliments.",
+        "en": "Prioritise new public places at every stage and guarantee a free public early years place for any family that applies for a child aged 0 to 3. While public and publicly funded private schools coexist, immediately ban compulsory fees at institutions supported by public funds and penalise violations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-31",
+          "quote": "Crearemos de forma prioritaria plazas públicas en todas las etapas"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-31",
+          "quote": "se prohibirán de forma inmediata las cuotas"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-25",
+          "quote": "gratuitas garantizadas para toda familia solicitante"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-class-size-limits",
+      "title": {
+        "es": "Límites de alumnado por aula",
+        "ca": "Límits d’alumnat per aula",
+        "gl": "Límites de alumnado por aula",
+        "eu": "Ikasgela bakoitzeko ikasle kopuruaren mugak",
+        "oc": "Limits d’alumnat per aula",
+        "en": "Class size limits"
+      },
+      "text": {
+        "es": "Fijar por ley máximos de 4, 6 y 8 niños por aula en las franjas de 0 a 1, 1 a 2 y 2 a 3 años, respectivamente; 15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato. Contar por dos al alumnado con necesidades específicas de apoyo educativo al calcular estas ratios.",
+        "ca": "Fixar per llei màxims de 4, 6 i 8 infants per aula en les franges de 0 a 1, 1 a 2 i 2 a 3 anys, respectivament; 15 a Primària i FP, 20 a Secundària i 23 a Batxillerat. Comptar doble l’alumnat amb necessitats específiques de suport educatiu en el càlcul d’aquestes ràtios.",
+        "gl": "Fixar por lei máximos de 4, 6 e 8 nenas e nenos por aula nas franxas de 0 a 1, 1 a 2 e 2 a 3 anos, respectivamente; 15 en Primaria e FP, 20 en Secundaria e 23 en Bacharelato. Contar por dous o alumnado con necesidades específicas de apoio educativo ao calcular estas ratios.",
+        "eu": "Legez ezartzea ikasgela bakoitzeko gehienez 4, 6 eta 8 haur, hurrenez hurren 0-1, 1-2 eta 2-3 urteko taldeetan; 15 Lehen Hezkuntzan eta Lanbide Heziketan, 20 Bigarren Hezkuntzan eta 23 Batxilergoan. Muga horiek kalkulatzean, hezkuntza-laguntzako premia espezifikoak dituen ikasle bakoitza bi ikasle balira bezala zenbatzea.",
+        "oc": "Fixar per lei maximaus de 4, 6 e 8 mainatges per aula entàs grops d’edat de 0 a 1, 1 a 2 e 2 a 3 ans, respectivament; 15 en Primària e Formacion Professionau, 20 en Secundària e 23 en Bachelierat. Compdar doble er alumnat damb besonhs especifics de supòrt educatiu en calcular aguestes ràtios.",
+        "en": "Set legal class size limits of 4, 6 and 8 for ages 0–1, 1–2 and 2–3 respectively; 15 in primary education and vocational training, 20 in secondary education and 23 in Bachillerato. Count pupils with specific educational support needs as two for these limits."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-31",
+          "quote": "Fijaremos por ley ratios máximas por aula"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-31",
+          "quote": "15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-31",
+          "quote": "alumnado NEAE compute el doble a efectos de ratio"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-student-grants",
+      "title": {
+        "es": "Becas y apoyo al alumnado",
+        "ca": "Beques i suport a l’alumnat",
+        "gl": "Bolsas e apoio ao alumnado",
+        "eu": "Ikasleentzako bekak eta laguntza",
+        "oc": "Borses e supòrt ar alumnat",
+        "en": "Student grants and support"
+      },
+      "text": {
+        "es": "Aumentar al 0,44 % del PIB los recursos para becas de estudios posobligatorios y garantizar su cobro al inicio del curso. Duplicar las becas de etapas obligatorias para alumnado de la escuela pública de familias vulnerables, llegando a 500.000 estudiantes más. Aumentar un 60 % las becas para alumnado con necesidades específicas de apoyo educativo, incluir nuevos colectivos y hacer determinante la renta familiar tras la acreditación técnica.",
+        "ca": "Augmentar fins al 0,44 % del PIB els recursos per a beques d’estudis postobligatoris i garantir-ne el cobrament a l’inici del curs. Duplicar les beques d’etapes obligatòries per a alumnat de l’escola pública de famílies vulnerables, arribant a 500.000 estudiants més. Augmentar un 60 % les beques per a alumnat amb necessitats específiques de suport educatiu, incloure-hi nous col·lectius i fer que la renda familiar sigui determinant un cop feta l’acreditació tècnica.",
+        "gl": "Aumentar ata o 0,44 % do PIB os recursos para bolsas de estudos posobrigatorios e garantir o cobramento ao inicio do curso. Duplicar as bolsas das etapas obrigatorias para alumnado da escola pública de familias vulnerables, chegando a 500.000 estudantes máis. Aumentar un 60 % as bolsas para alumnado con necesidades específicas de apoio educativo, incluír novos colectivos e facer determinante a renda familiar tras a acreditación técnica.",
+        "eu": "Derrigorrezko hezkuntzaren ondoko ikasketetarako beken baliabideak BPGaren % 0,44ra igotzea eta ikasturtearen hasieran kobratuko direla bermatzea. Derrigorrezko etapetan, familia zaurgarrietako eskola publikoko ikasleentzako bekak bikoiztea, beste 500.000 ikaslerengana iristeko. Hezkuntza-laguntzako premia espezifikoak dituzten ikasleentzako bekak % 60 handitzea, talde berriak sartzea eta, egiaztapen teknikoaren ondoren, familiaren errenta irizpide erabakigarri bihurtzea.",
+        "oc": "Aumentar enquiar 0,44 % deth PIB es recorsi entà borses d’estudis pòstobligatòris e garantir-ne eth pagament ath començament deth cors. Doblar es borses des etapes obligatòries entar alumnat dera escòla publica de familhes vulnerables, en tot arribar a 500.000 estudiants mès. Aumentar un 60 % es borses entar alumnat damb besonhs especifics de supòrt educatiu, includir naui collectius e hèr qu’era renda familhau sigue determinanta dempús dera acreditacion tecnica.",
+        "en": "Raise spending on grants for post-compulsory education to 0.44% of GDP and guarantee payment at the start of the school year. Double grants for pupils from vulnerable families in compulsory public education, reaching 500,000 more students. Increase grants for students with specific educational support needs by 60%, cover additional groups and make family income the deciding criterion once needs have been formally assessed."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-32",
+          "quote": "las cuantías de becas postobligatorias hasta el 0,44 % del PIB"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-32",
+          "quote": "alcanzando a 500.000 estudiantes más"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-32",
+          "quote": "un 60 % las becas para alumnado NEAE"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-32",
+          "quote": "renta familiar como determinante tras la acreditación técnica."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-teacher-contact-hours",
+      "title": {
+        "es": "Límite de horas lectivas del profesorado",
+        "ca": "Límit d’hores lectives del professorat",
+        "gl": "Límite de horas lectivas do profesorado",
+        "eu": "Irakasleen eskola-orduen muga",
+        "oc": "Limit d’ores lectives deth professorat",
+        "en": "Limits on teachers’ classroom hours"
+      },
+      "text": {
+        "es": "Fijar por ley estatal un máximo de 18 horas lectivas en Secundaria, Bachillerato, FP y enseñanzas de régimen especial, y de 23 horas lectivas en Infantil y Primaria.",
+        "ca": "Fixar per llei estatal un màxim de 18 hores lectives a Secundària, Batxillerat, FP i ensenyaments de règim especial, i de 23 hores lectives a Infantil i Primària.",
+        "gl": "Fixar por lei estatal un máximo de 18 horas lectivas en Secundaria, Bacharelato, FP e ensinanzas de réxime especial, e de 23 horas lectivas en Infantil e Primaria.",
+        "eu": "Estatuko lege bidez ezartzea gehienez 18 eskola-ordu Bigarren Hezkuntzan, Batxilergoan, Lanbide Heziketan eta araubide bereziko irakaskuntzetan, eta 23 eskola-ordu Haur eta Lehen Hezkuntzan.",
+        "oc": "Fixar per lei estatau un maximau de 18 ores lectives en Secundària, Bachelierat, Formacion Professionau e ensenhaments de regim especiau, e de 23 ores lectives en Infantil e Primària.",
+        "en": "Set national legal caps of 18 teaching hours in secondary education, Bachillerato, vocational training and special-regime education, and 23 teaching hours in early childhood and primary education."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-32",
+          "quote": "Fijación estatal por ley de un máximo de"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-32",
+          "quote": "18 horas lectivas en Secundaria, Bachillerato, FP y Régimen Especial"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-32",
+          "quote": "horas en Infantil y Primaria"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-public-universities",
+      "title": {
+        "es": "Universidades públicas",
+        "ca": "Universitats públiques",
+        "gl": "Universidades públicas",
+        "eu": "Unibertsitate publikoak",
+        "oc": "Universitats publiques",
+        "en": "Public universities"
+      },
+      "text": {
+        "es": "Modificar la Ley Orgánica del Sistema Universitario (LOSU) para que cada comunidad autónoma destine al menos el 1 % de su PIB a financiar sus universidades públicas. Ampliar las plazas públicas de grado y máster, especialmente en las titulaciones necesarias para acceder a una profesión, y reducir sus precios.",
+        "ca": "Modificar la Ley Orgánica del Sistema Universitario (LOSU) perquè cada comunitat autònoma destini almenys l’1 % del seu PIB a finançar les seves universitats públiques. Ampliar les places públiques de grau i màster, especialment en les titulacions necessàries per accedir a una professió, i reduir-ne els preus.",
+        "gl": "Modificar a Ley Orgánica del Sistema Universitario (LOSU) para que cada comunidade autónoma destine polo menos o 1 % do seu PIB a financiar as súas universidades públicas. Ampliar as prazas públicas de grao e mestrado, especialmente nas titulacións necesarias para acceder a unha profesión, e reducir os seus prezos.",
+        "eu": "Ley Orgánica del Sistema Universitario (LOSU) aldatzea, autonomia-erkidego bakoitzak bere BPGaren gutxienez % 1 unibertsitate publikoak finantzatzera bidera dezan. Gradu eta masterretako plaza publikoak gehitzea, bereziki lanbide batean jarduteko behar diren titulazioetan, eta prezioak jaistea.",
+        "oc": "Modificar era Ley Orgánica del Sistema Universitario (LOSU) entà que cada comunitat autonòma destine aumens er 1 % deth sòn PIB a finançar es sues universitats publiques. Aumentar es places publiques de grad e màster, especiaument enes titulacions de besonh entà accedir a ua profession, e redusir-ne es prètzi.",
+        "en": "Amend the Ley Orgánica del Sistema Universitario (LOSU) to require each autonomous community to spend at least 1% of its GDP on funding its public universities. Expand publicly funded undergraduate and master’s places, especially on courses required to enter a profession, and reduce their fees."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-33",
+          "quote": "destinen al menos el 1 % de su PIB regional"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-33",
+          "quote": "especialmente en titulaciones necesarias para acceder a una profesión"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-free-school-meals",
+      "title": {
+        "es": "Comedor escolar gratuito",
+        "ca": "Menjador escolar gratuït",
+        "gl": "Comedor escolar gratuíto",
+        "eu": "Doako eskola-jantokia",
+        "oc": "Minjador escolar gratuït",
+        "en": "Free school meals"
+      },
+      "text": {
+        "es": "Garantizar el comedor gratuito a todo el alumnado de Infantil y Primaria de la red pública en todas las comunidades autónomas. Exigir por ley menús con productos frescos, locales y de temporada, sin ultraprocesados y adaptados a necesidades nutricionales y alergias.",
+        "ca": "Garantir el menjador gratuït a tot l’alumnat d’Infantil i Primària de la xarxa pública a totes les comunitats autònomes. Exigir per llei menús amb productes frescos, de proximitat i de temporada, sense ultraprocessats i adaptats a necessitats nutricionals i al·lèrgies.",
+        "gl": "Garantir o comedor gratuíto a todo o alumnado de Infantil e Primaria da rede pública en todas as comunidades autónomas. Esixir por lei menús con produtos frescos, de proximidade e de tempada, sen ultraprocesados e adaptados ás necesidades nutricionais e ás alerxias.",
+        "eu": "Autonomia-erkidego guztietan sare publikoko Haur eta Lehen Hezkuntzako ikasle guztiei doako eskola-jantokia bermatzea. Legez eskatzea menuetan produktu freskoak, tokikoak eta sasoikoak erabiltzea, produktu ultraprozesaturik ez sartzea eta menuak nutrizio-beharretara eta alergietara egokitzea.",
+        "oc": "Garantir eth minjador gratuït a tot er alumnat d’Infantil e Primària dera hilat publica en totes es comunitats autonòmes. Exigir per lei menús damb productes fresqui, de proximitat e de sason, sense ultraprocessadi e adaptadi as besonhs nutricionaus e as allergies.",
+        "en": "Guarantee free school meals to all pupils in public early childhood and primary education in every autonomous community. Require menus by law to use fresh, local and seasonal produce, exclude ultra-processed foods and accommodate nutritional needs and allergies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "la gratuidad total y universal del servicio de comedor escolar"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "todo el alumnado matriculado en Educación Infantil y Primaria"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "productos frescos de proximidad y temporada"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-22",
+          "quote": "libres de ultraprocesados y adaptados a requerimientos nutricionales y alergias"
+        }
+      ]
+    }
+  ]
+}

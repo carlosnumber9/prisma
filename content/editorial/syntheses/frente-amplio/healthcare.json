@@ -1,0 +1,238 @@
+{
+  "id": "frente-amplio--healthcare",
+  "partyId": "frente-amplio",
+  "topicId": "healthcare",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-healthcare-funding",
+      "title": {
+        "es": "Financiación sanitaria y atención primaria",
+        "ca": "Finançament sanitari i atenció primària",
+        "gl": "Financiamento sanitario e atención primaria",
+        "eu": "Osasunaren eta lehen arretaren finantzaketa",
+        "oc": "Finançament sanitari e atencion primària",
+        "en": "Healthcare and primary care funding"
+      },
+      "text": {
+        "es": "Destinar el 8 % del PIB estatal a la sanidad pública mediante los Presupuestos Generales del Estado. Seguir aumentando los fondos finalistas de atención primaria para que reciba el 25 % del presupuesto sanitario.",
+        "ca": "Destinar el 8 % del PIB estatal a la sanitat pública mitjançant els pressupostos generals de l’Estat. Continuar augmentant els fons finalistes d’atenció primària perquè rebi el 25 % del pressupost sanitari.",
+        "gl": "Destinar o 8 % do PIB estatal á sanidade pública a través dos Orzamentos Xerais do Estado. Seguir aumentando os fondos finalistas de atención primaria para que reciba o 25 % do orzamento sanitario.",
+        "eu": "Estatuko BPGaren % 8 osasun publikora bideratzea Estatuko Aurrekontu Orokorren bidez. Lehen arretarako berariazko funtsak handitzen jarraitzea, osasun-aurrekontuaren % 25 lehen arretara bideratzeko.",
+        "oc": "Destinar eth 8 % deth PIB estatau ara sanitat publica mejançant es pressupòsti generaus der Estat. Contunhar d’aumentar es hons finalistes dera atencion primària entà que receba eth 25 % deth pressupòst sanitari.",
+        "en": "Allocate 8% of national GDP to public healthcare through the state budget. Continue increasing earmarked funding for primary care so it receives 25% of the health budget."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-26",
+          "quote": "del 8 % del PIB estatal para la sanidad pública"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-26",
+          "quote": "destinar el 25 % del presupuesto sanitario a Atención Primaria"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-public-management-and-universal-access",
+      "title": {
+        "es": "Gestión pública y acceso universal",
+        "ca": "Gestió pública i accés universal",
+        "gl": "Xestión pública e acceso universal",
+        "eu": "Kudeaketa publikoa eta sarbide unibertsala",
+        "oc": "Gestion publica e accès universau",
+        "en": "Public management and universal access"
+      },
+      "text": {
+        "es": "Establecer la gestión pública directa como regla general para los centros y servicios del Sistema Nacional de Salud. Permitir la gestión indirecta solo de forma excepcional, si se justifica que la gestión directa no es posible y un comité técnico especializado realiza una evaluación previa. Garantizar por ley la asistencia sanitaria a quienes residan en España, con independencia de su situación administrativa.",
+        "ca": "Establir la gestió pública directa com a regla general per als centres i serveis del Sistema Nacional de Salud. Permetre la gestió indirecta només de manera excepcional, si es justifica que la gestió directa no és possible i un comitè tècnic especialitzat fa una avaluació prèvia. Garantir per llei l’assistència sanitària a les persones que resideixen a Espanya, independentment de la seva situació administrativa.",
+        "gl": "Establecer a xestión pública directa como regra xeral para os centros e servizos do Sistema Nacional de Salud. Permitir a xestión indirecta só de xeito excepcional, se se xustifica que a xestión directa non é posible e un comité técnico especializado fai unha avaliación previa. Garantir por lei a asistencia sanitaria ás persoas que residan en España, independentemente da súa situación administrativa.",
+        "eu": "Kudeaketa publiko zuzena arau orokor bihurtzea Sistema Nacional de Salud sistemako zentro eta zerbitzuetan. Zeharkako kudeaketa salbuespenez soilik baimentzea, zuzeneko kudeaketa ezinezkoa dela justifikatzen bada eta batzorde tekniko espezializatu batek aurretiazko ebaluazioa egiten badu. Espainian bizi diren guztiei osasun-arreta legez bermatzea, administrazio-egoera edozein dela ere.",
+        "oc": "Establir era gestion publica dirècta coma règla generau entàs centres e servicis deth Sistema Nacional de Salud. Perméter era gestion indirècta sonque de manèra excepcionau, se se justifique qu’era gestion dirècta non ei possibla e un comitat tecnic especializat hè ua avaloracion prealabla. Garantir per lei era assisténcia sanitària as persones que residissen en Espanha, independentament dera sua situacion administrativa.",
+        "en": "Make direct public management the general rule for Sistema Nacional de Salud facilities and services. Allow indirect management only in exceptional cases, with evidence that direct management is not possible and prior assessment by a specialist technical committee. Guarantee healthcare by law for people living in Spain, regardless of their administrative status."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-26",
+          "quote": "gestión pública directa como la vía general"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-26",
+          "quote": "los modelos de gestión indirecta pasarán a ser estrictamente excepcionales"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-26",
+          "quote": "previa obligatoria por un comité técnico especializado"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-27",
+          "quote": "la Ley de universalidad del SNS"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-dental-vision-hearing",
+      "title": {
+        "es": "Cobertura dental, visual y auditiva",
+        "ca": "Cobertura dental, visual i auditiva",
+        "gl": "Cobertura dental, visual e auditiva",
+        "eu": "Hortz-, ikusmen- eta entzumen-arretaren estaldura",
+        "oc": "Cobertura dentau, visuau e auditiva",
+        "en": "Dental, vision and hearing coverage"
+      },
+      "text": {
+        "es": "Ampliar la cobertura bucodental al menos al 50 % de la población residente al final de la legislatura. Extender las gafas y lentillas gratuitas del «Plan Veo» a residentes de todas las edades e incluir los audífonos en la cartera común con financiación pública para quienes los necesiten, con ayudas prioritarias para mayores de 65 años y personas con discapacidad.",
+        "ca": "Ampliar la cobertura bucodental almenys al 50 % de la població resident al final de la legislatura. Estendre les ulleres i lents de contacte gratuïtes del «Plan Veo» a residents de totes les edats i incloure els audiòfons a la cartera comuna amb finançament públic per a qui els necessiti, amb ajuts prioritaris per a majors de 65 anys i persones amb discapacitat.",
+        "gl": "Ampliar a cobertura bucodental polo menos ao 50 % da poboación residente ao final da lexislatura. Estender as lentes e lentillas gratuítas do «Plan Veo» a residentes de todas as idades e incluír os audiófonos na carteira común con financiamento público para quen os precise, con axudas prioritarias para maiores de 65 anos e persoas con discapacidade.",
+        "eu": "Legealdiaren amaieran egoiliarren gutxienez % 50i aho-hortzetako estaldura ematea. «Plan Veo» planeko doako betaurreko eta ukipen-lenteak adin guztietako egoiliarrei zabaltzea eta audifonoak zerbitzu-zorro komunean sartzea, behar dituztenentzat finantzaketa publikoarekin. Laguntzetan lehentasuna ematea 65 urtetik gorakoei eta desgaitasuna duten pertsonei.",
+        "oc": "Ampliar era cobertura bucodentau a aumens eth 50 % dera poblacion residenta ara fin dera legislatura. Esténer es lunetes e lentilhes gratuïtes deth «Plan Veo» as residents de totes es edats e includir es audioprotèsis ena cartera comuna damb finançament public entà qui les age de besonh, damb ajudes prioritàries entàs majors de 65 ans e es persones damb discapacitat.",
+        "en": "Extend dental coverage to at least 50% of residents by the end of the parliamentary term. Extend free glasses and contact lenses under «Plan Veo» to residents of all ages. Include hearing aids in the common benefits package with public funding for anyone who needs them, prioritising assistance for people over 65 and people with disabilities."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-27",
+          "quote": "alcanzar al menos el 50 % de la población residente al final de la legislatura"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-27",
+          "quote": "«Plan Veo» (gafas y lentillas gratuitas)"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-27",
+          "quote": "común de servicios para toda la población que los necesite"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-community-mental-health",
+      "title": {
+        "es": "Salud mental comunitaria",
+        "ca": "Salut mental comunitària",
+        "gl": "Saúde mental comunitaria",
+        "eu": "Komunitateko osasun mentala",
+        "oc": "Salut mentau comunitària",
+        "en": "Community mental healthcare"
+      },
+      "text": {
+        "es": "Crear un fondo específico para la Red de Salud Mental Comunitaria y aumentar la dotación de profesionales de salud mental hasta un mínimo de 10 por cada 100.000 habitantes. Impulsar la atención comunitaria de proximidad y desarrollar la estrategia «Cero Contenciones».",
+        "ca": "Crear un fons específic per a la Red de Salud Mental Comunitaria i augmentar la dotació de professionals de salut mental fins a un mínim de 10 per cada 100.000 habitants. Impulsar l’atenció comunitària de proximitat i desplegar l’estratègia «Cero Contenciones».",
+        "gl": "Crear un fondo específico para a Red de Salud Mental Comunitaria e aumentar a dotación de profesionais de saúde mental ata un mínimo de 10 por cada 100.000 habitantes. Impulsar a atención comunitaria de proximidade e desenvolver a estratexia «Cero Contenciones».",
+        "eu": "Red de Salud Mental Comunitaria sarerako funts espezifikoa sortzea, eta osasun mentaleko profesionalen kopurua 100.000 biztanleko gutxienez 10era igotzea. Hurbileko arreta komunitarioa sustatzea eta «Cero Contenciones» estrategia garatzea.",
+        "oc": "Crear un hons especific entara Red de Salud Mental Comunitaria e aumentar era dotacion de professionaus de salut mentau enquia un minimau de 10 per cada 100.000 abitants. Impulsar era atencion comunitària de proximitat e desvolopar era estrategia «Cero Contenciones».",
+        "en": "Create a dedicated fund for the Red de Salud Mental Comunitaria and raise mental health staffing to at least 10 professionals per 100,000 residents. Promote local community care and develop the «Cero Contenciones» strategy."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-28",
+          "quote": "un fondo específico para la Red de"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-28",
+          "quote": "hasta un mínimo de 10 por cada 100.000 habitantes"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-28",
+          "quote": "«Cero Contenciones»"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-abortion-access",
+      "title": {
+        "es": "Derecho al aborto y acceso en centros públicos",
+        "ca": "Dret a l’avortament i accés en centres públics",
+        "gl": "Dereito ao aborto e acceso en centros públicos",
+        "eu": "Abortatzeko eskubidea eta zentro publikoetako sarbidea",
+        "oc": "Dret ar avortament e accès en centres publics",
+        "en": "Right to abortion and access in public facilities"
+      },
+      "text": {
+        "es": "Incluir el derecho al aborto en el artículo 43 de la Constitución y exigir a los poderes públicos que garanticen que las mujeres puedan ejercerlo en condiciones de igualdad real y efectiva. Garantizar la interrupción voluntaria del embarazo en centros públicos de todas las comunidades y ciudades autónomas, con financiación del Fondo Social Europeo Plus que cubra también el desplazamiento.",
+        "ca": "Incloure el dret a l’avortament a l’article 43 de la Constitució i exigir als poders públics que garanteixin que les dones puguin exercir-lo en condicions d’igualtat real i efectiva. Garantir la interrupció voluntària de l’embaràs en centres públics de totes les comunitats i ciutats autònomes, amb finançament del Fons Social Europeu Plus que cobreixi també el desplaçament.",
+        "gl": "Incluír o dereito ao aborto no artigo 43 da Constitución e esixir aos poderes públicos que garantan que as mulleres poidan exercelo en condicións de igualdade real e efectiva. Garantir a interrupción voluntaria do embarazo en centros públicos de todas as comunidades e cidades autónomas, con financiamento do Fondo Social Europeo Plus que cubra tamén o desprazamento.",
+        "eu": "Abortatzeko eskubidea Konstituzioaren 43. artikuluan sartzea eta botere publikoei emakumeek eskubide hori egiazko eta benetako berdintasunez baliatu ahal izatea bermatzeko eskatzea. Haurdunaldia borondatez etetea bermatzea autonomia-erkidego eta hiri autonomo guztietako zentro publikoetan, joan-etorriak ere estaliko dituen Europako Gizarte Funtsa Plus funtsaren finantzaketarekin.",
+        "oc": "Includir eth dret ar avortament en article 43 dera Constitucion e exigir as poders publics que garantisquen qu’es hemnes lo poguen exercir en condicions d’egalitat reau e efectiva. Garantir era interrupcion volontària der embaràs en centres publics de totes es comunitats e ciutats autonòmes, damb finançament deth Fons Sociau Europèu Plus que corbisque tanben eth desplaçament.",
+        "en": "Add the right to abortion to Article 43 of the Constitution and require public authorities to guarantee that women can exercise it under conditions of real and effective equality. Guarantee access to voluntary termination of pregnancy in public facilities in every autonomous community and autonomous city, with European Social Fund Plus funding that also covers travel costs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-28",
+          "quote": "Reformaremos el artículo 43 de la Constitución para incluir el derecho al aborto"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-28",
+          "quote": "Estrategia para garantizar la IVE en centros públicos"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-28",
+          "quote": "incluyendo gastos de desplazamiento"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-28",
+          "quote": "ejercicio del derecho de las mujeres a la interrupción voluntaria del embarazo"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-waiting-list-rules",
+      "title": {
+        "es": "Registro de listas de espera sanitarias",
+        "ca": "Registre de llistes d’espera sanitàries",
+        "gl": "Rexistro de listas de espera sanitarias",
+        "eu": "Osasuneko itxaron-zerrenden erregistroa",
+        "oc": "Registre de listes de demora sanitàries",
+        "en": "Healthcare waiting list records"
+      },
+      "text": {
+        "es": "Aprobar un real decreto que cuente la espera desde la indicación clínica, obligue a inscribir al paciente en cinco días como máximo y prohíba las listas paralelas. Incluir por primera vez los tiempos de atención primaria y salud mental, y mantener a los pacientes derivados a centros concertados en el registro oficial hasta que reciban asistencia.",
+        "ca": "Aprovar un reial decret que compti l’espera des de la indicació clínica, obligui a inscriure el pacient en cinc dies com a màxim i prohibeixi les llistes paral·leles. Incloure per primera vegada els temps d’atenció primària i salut mental, i mantenir els pacients derivats a centres concertats al registre oficial fins que rebin assistència.",
+        "gl": "Aprobar un real decreto que conte a espera desde a indicación clínica, obrigue a inscribir o paciente nun máximo de cinco días e prohiba as listas paralelas. Incluír por primeira vez os tempos de atención primaria e saúde mental, e manter as persoas derivadas a centros concertados no rexistro oficial ata que reciban asistencia.",
+        "eu": "Errege-dekretu bat onartzea, itxaronaldia indikazio klinikotik zenbatzeko, pazientea gehienez bost eguneko epean erregistratzeko eta zerrenda paraleloak debekatzeko. Lehen aldiz lehen arretako eta osasun mentaleko itxaronaldiak jasotzea eta itunpeko zentroetara bideratutako pazienteak erregistro ofizialean mantentzea arreta jaso arte.",
+        "oc": "Aprovar un reiau decret que compde era demora des dera indicacion clinica, obligue a inscríuer eth pacient en cinc dies coma maximau e proïbisque es listes parallèles. Includir per prumèr còp es tempsi d’atencion primària e salut mentau, e mantier es pacients derivadi a centres concertadi en registre oficiau enqui’à que receben assisténcia.",
+        "en": "Pass a royal decree starting the wait clock at the clinical recommendation, requiring registration within five days and banning parallel lists. Record waiting times for primary and mental healthcare for the first time and keep patients referred to contracted providers on the official register until they receive care."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-29",
+          "quote": "iniciando el cómputo con la indicación"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-29",
+          "quote": "y prohíba las listas paralelas o de «paso B»"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-29",
+          "quote": "seguirán en el registro oficial hasta recibir asistencia"
+        }
+      ]
+    }
+  ]
+}

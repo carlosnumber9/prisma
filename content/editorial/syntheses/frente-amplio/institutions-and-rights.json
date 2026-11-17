@@ -1,0 +1,356 @@
+{
+  "id": "frente-amplio--institutions-and-rights",
+  "partyId": "frente-amplio",
+  "topicId": "institutions-and-rights",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-federal-republic-and-referendum",
+      "title": {
+        "es": "República federal y reforma territorial",
+        "ca": "República federal i reforma territorial",
+        "gl": "República federal e reforma territorial",
+        "eu": "Errepublika federala eta lurralde-erreforma",
+        "oc": "Republica federau e reforma territoriau",
+        "en": "Federal republic and territorial reform"
+      },
+      "text": {
+        "es": "Avanzar hacia una república federal en la que se elija la jefatura del Estado. Promover el debate para formar una mayoría social y política que impulse una reforma constitucional hacia un modelo federal y plurinacional, con derecho a decidir mediante referéndum sobre la cuestión territorial.",
+        "ca": "Avançar cap a una república federal en què s’elegeixi la prefectura de l’Estat. Promoure el debat per formar una majoria social i política que impulsi una reforma constitucional cap a un model federal i plurinacional, amb dret a decidir mitjançant referèndum sobre la qüestió territorial.",
+        "gl": "Avanzar cara a unha república federal na que se elixa a xefatura do Estado. Promover o debate para formar unha maioría social e política que impulse unha reforma constitucional cara a un modelo federal e plurinacional, con dereito a decidir mediante referendo sobre a cuestión territorial.",
+        "eu": "Estatuburua hautatuko den errepublika federal baterantz aurrera egitea. Eztabaida sustatzea gehiengo sozial eta politikoa osatzeko, eredu federal eta plurinazionalerako konstituzio-erreforma bultza dezan, lurralde-auzia erreferendum bidez erabakitzeko eskubidea jasota.",
+        "oc": "Auançar entà ua republica federau a on s’escuelhe era prefectura der Estat. Promòir eth debat entà formar ua majoria sociau e politica que impulse ua reforma constitucionau entà un modèl federau e plurinacionau, damb dret a decidir per miei de referendum sus era qüestion territoriau.",
+        "en": "Work towards a federal republic with an elected head of state. Promote debate to build a social and political majority for constitutional reform towards a federal and plurinational model, with the right to decide the territorial question through a referendum."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-140",
+          "quote": "Nuestro horizonte es avanzar hacia una República Federal que nos permita al- canzar una democracia real en la que también elijamos la Jefatura del Estado."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-140",
+          "quote": "Promoveremos el debate para formar una mayoría social y política"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-140",
+          "quote": "en un sentido federal y plurinacional incluyendo el derecho a decidir mediante referéndum"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-regional-funding-reform",
+      "title": {
+        "es": "Reforma de la financiación autonómica",
+        "ca": "Reforma del finançament autonòmic",
+        "gl": "Reforma do financiamento autonómico",
+        "eu": "Autonomia-erkidegoen finantzaketa-erreforma",
+        "oc": "Reforma deth finançament autonomic",
+        "en": "Autonomous community funding reform"
+      },
+      "text": {
+        "es": "Impulsar de inmediato una reforma de la financiación autonómica que aporte cada año al menos un 2,3 % del PIB adicional al sistema para reforzar los servicios públicos. Acercar la financiación por población ajustada mediante mecanismos transparentes de solidaridad territorial, a esfuerzo fiscal similar y sin perjudicar a ninguna comunidad autónoma.",
+        "ca": "Impulsar immediatament una reforma del finançament autonòmic que aporti cada any almenys un 2,3 % addicional del PIB al sistema per reforçar els serveis públics. Acostar el finançament per població ajustada mitjançant mecanismes transparents de solidaritat territorial, amb un esforç fiscal similar i sense perjudicar cap comunitat autònoma.",
+        "gl": "Impulsar de inmediato unha reforma do financiamento autonómico que achegue cada ano ao sistema polo menos un 2,3 % adicional do PIB para reforzar os servizos públicos. Achegar o financiamento por poboación axustada mediante mecanismos transparentes de solidariedade territorial, cun esforzo fiscal similar e sen prexudicar ningunha comunidade autónoma.",
+        "eu": "Autonomia-erkidegoen finantzaketa-erreforma berehala bultzatzea eta urtero BPGaren gutxienez % 2,3 gehiago ematea sistemari, zerbitzu publikoak indartzeko. Biztanleria doituaren araberako finantzaketa hurbiltzea lurraldeen arteko elkartasun-mekanismo gardenen bidez, antzeko zerga-ahalegina eginez eta autonomia-erkidego bati ere kalterik eragin gabe.",
+        "oc": "Impulsar immediatament ua reforma deth finançament autonomic que balhe cada an aumens un 2,3 % addicionau deth PIB ath sistèma entà reforçar es servicis publics. Apropar eth finançament per poblacion ajustada per miei de mecanismes transparents de solidaritat territoriau, damb un esfòrç fiscau similar e sense prejudiciar cap comunitat autonòma.",
+        "en": "Immediately pursue a reform that adds at least 2.3% of GDP each year to the autonomous community funding system to strengthen public services. Narrow funding gaps per adjusted population through transparent territorial solidarity mechanisms, at similar levels of tax effort and without disadvantaging any autonomous community."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-103",
+          "quote": "Impulsaremos de forma inmediata la reforma del sistema de financiación auto- nómica."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-103",
+          "quote": "Destinaremos al menos un 2,3 % del PIB adicional al sistema de financiación au- tonómica cada año."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-103",
+          "quote": "solidaridad interterritorial, a similar esfuerzo fiscal, para la convergencia en la fi- nanciación por población ajustada, sin que suponga perjuicio alguno para ninguna comunidad autónoma."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-municipal-tax-sharing",
+      "title": {
+        "es": "Participación municipal en los tributos del Estado",
+        "ca": "Participació municipal en els tributs de l’Estat",
+        "gl": "Participación municipal nos tributos do Estado",
+        "eu": "Udalen partaidetza Estatuko zergetan",
+        "oc": "Participacion municipau enes tributs der Estat",
+        "en": "Municipal share of state tax revenue"
+      },
+      "text": {
+        "es": "Aumentar hasta el 2,5 % del PIB la participación de los ayuntamientos en los tributos del Estado, mediante un acuerdo plurianual con entidades municipalistas, Estado y comunidades autónomas. Empezar con un incremento del 0,4 % del PIB el primer año y establecer una garantía transitoria para que ningún ayuntamiento pierda financiación. Condicionar el aumento a la mejora de los servicios públicos, sin usarlo para rebajas fiscales regresivas.",
+        "ca": "Augmentar fins al 2,5 % del PIB la participació dels ajuntaments en els tributs de l’Estat, mitjançant un acord pluriennal amb entitats municipalistes, Estat i comunitats autònomes. Començar amb un increment del 0,4 % del PIB el primer any i establir una garantia transitòria perquè cap ajuntament perdi finançament. Condicionar l’augment a la millora dels serveis públics, sense usar-lo per a rebaixes fiscals regressives.",
+        "gl": "Aumentar ata o 2,5 % do PIB a participación dos concellos nos tributos do Estado, mediante un acordo plurianual con entidades municipalistas, Estado e comunidades autónomas. Comezar cun incremento do 0,4 % do PIB o primeiro ano e establecer unha garantía transitoria para que ningún concello perda financiamento. Condicionar o aumento á mellora dos servizos públicos, sen usalo para rebaixas fiscais regresivas.",
+        "eu": "Udalen partaidetza Estatuko zergetan BPGaren % 2,5era arte handitzea, udalen elkarteekin, Estatuarekin eta autonomia-erkidegoekin urte anitzeko akordioa eginda. Lehen urtean BPGaren % 0,4ko igoerarekin hastea eta udal bakar batek ere finantzaketarik gal ez dezan aldi baterako bermea ezartzea. Igoera zerbitzu publikoak hobetzearen mende jartzea, zerga-jaitsiera erregresiboetarako erabili gabe.",
+        "oc": "Aumentar enquiar 2,5 % deth PIB era participacion des ajuntaments enes tributs der Estat per miei d’un acòrd plurianau damb entitats municipalistes, er Estat e es comunitats autonomes. Començar damb un increment deth 0,4 % deth PIB eth prumèr an e establir ua garantia transitòria entà que cap ajuntament pèrde finançament. Condicionar er aument ara melhora des servicis publics, sense utilizar-lo entà rebaishes fiscaus regressives.",
+        "en": "Raise municipalities’ share of state tax revenue to 2.5% of GDP through a multi-year agreement with municipal associations, the state and autonomous communities. Start with an increase of 0.4% of GDP in the first year and temporarily protect every municipality from funding losses. Condition the increase on improving public services and bar its use for regressive tax cuts."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-109",
+          "quote": "Aumentaremos la participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-109",
+          "quote": "incremento del 0,4 % del PIB (6.000 millones de euros) el primer año"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-109",
+          "quote": "una garantía transitoria para que ningún ayuntamiento pierda financiación."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-109",
+          "quote": "se condicionarán a la mejora de los servicios públicos, de forma que no se utilicen para realizar rebajas fiscales regresivas"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-citizens-legislative-initiatives",
+      "title": {
+        "es": "Iniciativas legislativas populares",
+        "ca": "Iniciatives legislatives populars",
+        "gl": "Iniciativas lexislativas populares",
+        "eu": "Herri-ekimen legegileak",
+        "oc": "Iniciatives legislatives populaires",
+        "en": "Citizens’ legislative initiatives"
+      },
+      "text": {
+        "es": "Reducir de 500.000 a 250.000 las firmas necesarias para una iniciativa legislativa popular. Dar a sus promotores mecanismos para retirarla si el Congreso la desvirtúa o para solicitar una consulta popular al respecto.",
+        "ca": "Reduir de 500.000 a 250.000 les signatures necessàries per a una iniciativa legislativa popular. Donar als promotors mecanismes per retirar-la si el Congrés la desvirtua o per sol·licitar una consulta popular sobre la qüestió.",
+        "gl": "Reducir de 500.000 a 250.000 as sinaturas necesarias para unha iniciativa lexislativa popular. Dar ás persoas promotoras mecanismos para retirala se o Congreso a desvirtúa ou para solicitar unha consulta popular sobre a cuestión.",
+        "eu": "Herri-ekimen legegile baterako behar diren sinadurak 500.000tik 250.000ra murriztea. Sustatzaileei mekanismoak ematea ekimena kentzeko, Kongresuak haren funtsa aldatzen badu, edo gaiari buruzko herri-kontsulta eskatzeko.",
+        "oc": "Redusir de 500.000 a 250.000 es signatures de besonh entà ua iniciatiua legislatiua populara. Balhar as promotors mecanismes entà retirar-la s’eth Congrès li altère er esperit o entà demanar ua consulta populara sus era qüestion.",
+        "en": "Cut the signatures needed for a citizens’ legislative initiative from 500,000 to 250,000. Let organisers withdraw it if the Congress of Deputies changes its substance or request a public consultation on it."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-141",
+          "quote": "pasar de las 500.000 en la actualidad a 250.000"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-141",
+          "quote": "puedan retirarla si el Congreso la desvirtúa, o que puedan solicitar una consulta popular al respecto."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-public-integrity-ownership",
+      "title": {
+        "es": "Integridad pública y titularidad empresarial",
+        "ca": "Integritat pública i titularitat empresarial",
+        "gl": "Integridade pública e titularidade empresarial",
+        "eu": "Osotasun publikoa eta enpresen titulartasuna",
+        "oc": "Integritat publica e titularitat empresariau",
+        "en": "Public integrity and company ownership"
+      },
+      "text": {
+        "es": "Aprobar una Ley de Integridad Pública que obligue a inscribir y actualizar en el Registro Mercantil los cambios de propiedad de sociedades limitadas y sociedades anónimas no cotizadas, con identificación de socios, cadena de propiedad y personas que ejercen el control efectivo.",
+        "ca": "Aprovar una Ley de Integridad Pública que obligui a inscriure i actualitzar al Registre Mercantil els canvis de propietat de societats limitades i societats anònimes no cotitzades, identificant els socis, la cadena de propietat i les persones que exerceixen el control efectiu.",
+        "gl": "Aprobar unha Ley de Integridad Pública que obrigue a inscribir e actualizar no Rexistro Mercantil os cambios de propiedade de sociedades limitadas e sociedades anónimas non cotizadas, identificando os socios, a cadea de propiedade e as persoas que exercen o control efectivo.",
+        "eu": "Ley de Integridad Pública onartzea, sozietate mugatuen eta kotizatu gabeko sozietate anonimoen jabetza-aldaketak Merkataritza Erregistroan nahitaez inskribatzeko eta eguneratzeko, bazkideak, jabetza-katea eta kontrol efektiboa duten pertsonak identifikatuta.",
+        "oc": "Aprovar ua Ley de Integridad Pública qu’obligue a inscríuer e actualizar en Registre Mercantil es cambis de proprietat de societats limitades e societats anonimes non cotizades, en tot identificar es sòcis, era cadena de proprietat e es persones qu’exercissen eth contròl efectiu.",
+        "en": "Pass a Ley de Integridad Pública requiring limited liability companies and unlisted public limited companies to register and update ownership changes in the Commercial Register, identifying their members or shareholders, the chain of ownership and the people exercising effective control."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-141",
+          "quote": "Aprobaremos una Ley de Integridad Pública"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-141",
+          "quote": "los cambios de propiedad de las sociedades limitadas y las anónimas no cotizadas, identificando a sus socios, la cadena de propiedad y las personas que ejercen el control efectivo"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-large-platform-oversight",
+      "title": {
+        "es": "Supervisión de grandes plataformas digitales",
+        "ca": "Supervisió de les grans plataformes digitals",
+        "gl": "Supervisión das grandes plataformas dixitais",
+        "eu": "Plataforma digital handien gainbegiratzea",
+        "oc": "Supervision des granes plataformes digitaus",
+        "en": "Oversight of large digital platforms"
+      },
+      "text": {
+        "es": "Facultar a la CNMC para supervisar a las grandes plataformas digitales e imponer multas de hasta el 6 % de su facturación mundial. Elevar a la Comisión Europea las denuncias de infracciones cometidas por plataformas con sede en otro país europeo, rendir cuentas anualmente sobre los casos tramitados y garantizar que los investigadores accedan a los datos internos.",
+        "ca": "Facultar la CNMC per supervisar les grans plataformes digitals i imposar multes de fins al 6 % de la seva facturació mundial. Elevar a la Comissió Europea les denúncies d’infraccions de plataformes amb seu en un altre país europeu, retre comptes anualment sobre els casos tramitats i garantir que els investigadors accedeixin a les dades internes.",
+        "gl": "Facultar a CNMC para supervisar as grandes plataformas dixitais e impoñer multas de ata o 6 % da súa facturación mundial. Elevar á Comisión Europea as denuncias de infraccións de plataformas con sede noutro país europeo, render contas anualmente sobre os casos tramitados e garantir que o persoal investigador acceda aos datos internos.",
+        "eu": "CNMCri plataforma digital handiak gainbegiratzeko eta mundu osoko fakturazioaren % 6rainoko isunak ezartzeko eskumena ematea. Europako beste herrialde batean egoitza duten plataformen arau-hausteengatiko salaketak Europako Batzordeari helaraztea, izapidetutako kasuen berri urtero ematea eta ikertzaileei barne-datuetarako sarbidea bermatzea.",
+        "oc": "Balhar ara CNMC era facultat de supervisar es granes plataformes digitaus e impausar multes enquiar 6 % dera sua facturacion mondiau. Elevar ara Comission Europèa es denóncies d’infraccions de plataformes damb sedença en un aute país europèu, rénder compdes annaument des casi tramitadi e garantir qu’es investigadors agen accès as donades intèrnes.",
+        "en": "Empower the CNMC to oversee large digital platforms and impose fines of up to 6% of their worldwide turnover. Refer complaints about breaches by platforms headquartered in another European country to the European Commission, report annually on cases handled and guarantee researchers access to internal data."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-119",
+          "quote": "supervisar a las grandes plataformas digitales con plantilla y recursos adecuados, pudiendo imponer multas de hasta el 6 % de su facturación mundial."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-119",
+          "quote": "plataformas con sede en otro país europeo, se elevará la denuncia ante la Comisión Europea, rindiendo cuentas anualmente de los casos tramitados."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-119",
+          "quote": "Garantizaremos el acceso de los investigadores a los datos internos de las plataformas."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-trans-law-and-nonbinary-recognition",
+      "title": {
+        "es": "Ley Trans y reconocimiento de personas no binarias",
+        "ca": "Ley Trans i reconeixement de les persones no-binàries",
+        "gl": "Ley Trans e recoñecemento das persoas non binarias",
+        "eu": "Ley Trans eta pertsona ez-binarioen aitortza",
+        "oc": "Ley Trans e reconeishença des persones non binàries",
+        "en": "Ley Trans and recognition of non-binary people"
+      },
+      "text": {
+        "es": "Aplicar de forma efectiva la Ley Trans, reconocer a las personas no binarias y proteger frente a la violencia intragénero. Garantizar la aplicación de la legislación estatal de protección de las personas trans y LGTBIQA+, con medidas contra la discriminación en el empleo, la educación, la salud, la vivienda, el deporte, la cultura y los servicios públicos.",
+        "ca": "Aplicar de manera efectiva la Ley Trans, reconèixer les persones no-binàries i protegir davant de la violència intragènere. Garantir l’aplicació de la legislació estatal de protecció de les persones trans i LGTBIQA+, amb mesures contra la discriminació en el treball, l’educació, la salut, l’habitatge, l’esport, la cultura i els serveis públics.",
+        "gl": "Aplicar de maneira efectiva a Ley Trans, recoñecer as persoas non binarias e protexer fronte á violencia intraxénero. Garantir a aplicación da lexislación estatal de protección das persoas trans e LGTBIQA+, con medidas contra a discriminación no emprego, na educación, na saúde, na vivenda, no deporte, na cultura e nos servizos públicos.",
+        "eu": "Ley Trans benetan aplikatzea, pertsona ez-binarioak aitortzea eta genero bereko bikotekideen arteko indarkeriaren aurrean babesa ematea. Pertsona transak eta LGTBIQA+ pertsonak babesteko estatuko legedia aplikatzen dela bermatzea, enpleguko, hezkuntzako, osasuneko, etxebizitzako, kiroleko, kulturako eta zerbitzu publikoetako diskriminazioaren aurkako neurriekin.",
+        "oc": "Aplicar de manèra efectiva era Ley Trans, reconéisher es persones non binàries e protegir deuant dera violéncia intragenère. Garantir era aplicacion dera legislacion estatau de proteccion des persones trans e LGTBIQA+, damb mesures contra era discriminacion en trabalh, era educacion, era salut, er abitatge, er espòrt, era cultura e es servicis publics.",
+        "en": "Implement the Ley Trans effectively, recognise non-binary people and protect people from violence in same-gender relationships. Ensure state laws protecting trans and LGTBIQA+ people are applied, with measures against discrimination in employment, education, health, housing, sport, culture and public services."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-123",
+          "quote": "Desplegaremos de forma efectiva la Ley Trans, reconoceremos a las personas no binarias y protegeremos frente a la violencia intragénero."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-123",
+          "quote": "personas trans y de las personas LGTBIQA+, con medidas contra la discrimina- ción en el empleo, la educación, la salud, la vivienda, el deporte, la cultura y los servicios públicos."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-migration-regularisation",
+      "title": {
+        "es": "Regularización administrativa estable",
+        "ca": "Regularització administrativa estable",
+        "gl": "Regularización administrativa estable",
+        "eu": "Egoera administratiboa erregularizatzeko prozedura egonkorra",
+        "oc": "Regularizacion administrativa establa",
+        "en": "Permanent regularisation procedure"
+      },
+      "text": {
+        "es": "Completar la regularización extraordinaria de 2026 resolviendo todas las solicitudes con medios suficientes para que nadie quede fuera por retrasos administrativos. Reformar de forma integral la Ley de Extranjería para crear un procedimiento de regularización administrativa estable, permanente y reglado.",
+        "ca": "Completar la regularització extraordinària del 2026 resolent totes les sol·licituds amb els recursos necessaris perquè ningú no en quedi fora per retards administratius. Reformar de manera integral la Ley de Extranjería per crear un procediment de regularització administrativa estable, permanent i reglat.",
+        "gl": "Completar a regularización extraordinaria de 2026 resolvendo todas as solicitudes con medios suficientes para que ningunha persoa quede fóra por atrasos administrativos. Reformar de maneira integral a Ley de Extranjería para crear un procedemento de regularización administrativa estable, permanente e regrado.",
+        "eu": "2026ko aparteko erregularizazioa amaitzea, eskabide guztiak behar adina baliabiderekin ebatzita inor ez dadin atzerapen administratiboengatik kanpoan geratu. Ley de Extranjería osorik erreformatzea, egoera administratiboa erregularizatzeko prozedura egonkor, iraunkor eta arautua sortzeko.",
+        "oc": "Completar era regularizacion extraordinària de 2026 en tot resòlver totes es sollicituds damb mejans sufisenti entà que degun demore dehòra per retards administratius. Reformar integraument era Ley de Extranjería entà crear un procediment de regularizacion administrativa estable, permanent e reglat.",
+        "en": "Complete the 2026 extraordinary regularisation process by deciding all applications with enough resources to ensure administrative delays exclude no one. Overhaul the Ley de Extranjería to establish a stable, permanent, rules-based procedure for regularising immigration status."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-126",
+          "quote": "ninguna persona quede fuera por retrasos de la Administración."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-126",
+          "quote": "para instaurar un procedimiento estable, permanente y reglado de regularización administrativa."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-immigration-detention-limits",
+      "title": {
+        "es": "Cierre de los CIE y límites a la detención en frontera",
+        "ca": "Tancament dels CIE i límits a la detenció a la frontera",
+        "gl": "Peche dos CIE e límites á detención na fronteira",
+        "eu": "CIEak ixtea eta mugako atxiloketa mugatzea",
+        "oc": "Barrament des CIE e limits ara detencion ena termièra",
+        "en": "Close immigration detention centres and limit border detention"
+      },
+      "text": {
+        "es": "Cerrar los Centros de Internamiento de Extranjeros (CIE). En los procedimientos de asilo en frontera, usar la detención únicamente como último recurso excepcional, priorizar medidas alternativas y garantizar que no se prolonguen los plazos.",
+        "ca": "Tancar els Centros de Internamiento de Extranjeros (CIE). En els procediments d’asil a la frontera, recórrer a la detenció només com a últim recurs excepcional, prioritzar mesures alternatives i garantir que no s’allarguin els terminis.",
+        "gl": "Pechar os Centros de Internamiento de Extranjeros (CIE). Nos procedementos de asilo na fronteira, recorrer á detención unicamente como último recurso excepcional, priorizar medidas alternativas e garantir que non se prolonguen os prazos.",
+        "eu": "Centros de Internamiento de Extranjeros (CIE) ixtea. Mugako asilo-prozeduretan atxiloketa salbuespenezko azken baliabide gisa soilik erabiltzea, neurri alternatiboak lehenestea eta epeak luzatuko ez direla bermatzea.",
+        "oc": "Barrar es Centros de Internamiento de Extranjeros (CIE). Enes procediments d’asil ena termièra, aplicar era detencion sonque coma darrèr recors excepcionau, priorizar mesures alternatives e garantir que non se prolònguen es tèrmes.",
+        "en": "Close the Centros de Internamiento de Extranjeros (CIE). In border asylum procedures, use detention only as an exceptional last resort, prioritise alternatives and ensure time limits are not extended."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-127",
+          "quote": "Cerraremos los Centros de Internamiento de Extranjeros (CIE). En los procedimientos de asilo en frontera, la detención se aplicará únicamente como último recurso excepcional, priorizando medidas alternativas y garantizando la no prolongación de plazos."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-military-spending-and-human-security",
+      "title": {
+        "es": "Gasto militar y seguridad humana",
+        "ca": "Despesa militar i seguretat humana",
+        "gl": "Gasto militar e seguridade humana",
+        "eu": "Gastu militarra eta giza segurtasuna",
+        "oc": "Despensa militara e seguretat umana",
+        "en": "Military spending and human security"
+      },
+      "text": {
+        "es": "Rechazar el compromiso de destinar el 5 % del PIB al gasto militar en el marco de la OTAN. Impulsar una reducción efectiva de las partidas militares y reorientar recursos a la seguridad humana, la protección civil, las emergencias climáticas, la sanidad y la educación, con control parlamentario.",
+        "ca": "Rebutjar el compromís de destinar el 5 % del PIB a la despesa militar en el marc de l’OTAN. Impulsar una reducció efectiva de les partides militars i reorientar recursos a la seguretat humana, la protecció civil, les emergències climàtiques, la sanitat i l’educació, amb control parlamentari.",
+        "gl": "Rexeitar o compromiso de destinar o 5 % do PIB ao gasto militar no marco da OTAN. Impulsar unha redución efectiva das partidas militares e reorientar recursos á seguridade humana, á protección civil, ás emerxencias climáticas, á sanidade e á educación, con control parlamentario.",
+        "eu": "NATOren esparruan BPGaren % 5 gastu militarrera bideratzeko konpromisoa baztertzea. Gastu militarreko partidak benetan murriztea bultzatzea eta baliabideak giza segurtasunera, babes zibilera, klima-larrialdietara, osasungintzara eta hezkuntzara bideratzea, parlamentuaren kontrolpean.",
+        "oc": "Refusar eth compromís de destinar eth 5 % deth PIB ara despensa militara en encastre dera OTAN. Impulsar ua reduccion efectiva des partides militares e reorientar recorsi ara seguretat umana, ara proteccion civila, as emergéncies climatiques, ara sanitat e ara educacion, damb contròl parlamentari.",
+        "en": "Reject the NATO commitment to allocate 5% of GDP to military spending. Pursue actual cuts to military budgets and redirect funds to human security, civil protection, climate emergencies, healthcare and education, under parliamentary oversight."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-130",
+          "quote": "el compromiso de destinar el 5 % del PIB a gasto militar en el marco de la OTAN"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-130",
+          "quote": "los recursos presupuestarios hacia la seguridad humana, la protección civil, emergencias climáticas, sanidad y educación."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-130",
+          "quote": "Todo ello debe contar con el opor- tuno control parlamentario."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "frente-amplio--economy-and-taxes",
+  "partyId": "frente-amplio",
+  "topicId": "economy-and-taxes",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T09:35:35Z",
+  "sourceIds": ["frente-amplio-2026-df6e4d967a3a"],
+  "points": [
+    {
+      "id": "frente-amplio-minimum-corporate-tax",
+      "title": {
+        "es": "Tipo mínimo en Sociedades",
+        "ca": "Tipus mínim en societats",
+        "gl": "Tipo mínimo no imposto sobre sociedades",
+        "eu": "Sozietateen gaineko zergaren gutxieneko tasa",
+        "oc": "Tipe minim der impòst sus societats",
+        "en": "Minimum corporation tax rate"
+      },
+      "text": {
+        "es": "Aplicar un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado de grandes empresas y grupos empresariales, sin aumentar la carga fiscal de las pymes.",
+        "ca": "Aplicar un tipus mínim efectiu del 20 % sobre el resultat comptable ajustat de les grans empreses i grups empresarials, sense augmentar la càrrega fiscal de les pimes.",
+        "gl": "Aplicar un tipo mínimo efectivo do 20 % sobre o resultado contable axustado das grandes empresas e grupos empresariais, sen aumentar a carga fiscal das pemes.",
+        "eu": "Enpresa handien eta enpresa-taldeen kontabilitate-emaitza doituari % 20ko gutxieneko tasa efektiboa aplikatzea, ETEen zerga-karga handitu gabe.",
+        "oc": "Aplicar un tipe minim efectiu deth 20 % sus eth resultat compdable ajustat des granes empreses e grops empresariaus, sense aumentar era carga fiscau des pimes.",
+        "en": "Apply a 20% effective minimum rate to the adjusted accounting result of large companies and corporate groups without increasing the tax burden on SMEs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-44",
+          "quote": "un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-44",
+          "quote": "sin elevar la carga fiscal de las pymes."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-zucman-wealth-tax",
+      "title": {
+        "es": "Tasa Zucman",
+        "ca": "Taxa Zucman",
+        "gl": "Taxa Zucman",
+        "eu": "Zucman zerga",
+        "oc": "Taxa Zucman",
+        "en": "Zucman tax"
+      },
+      "text": {
+        "es": "Crear un impuesto estatal permanente del 3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros, sin exenciones para empresas familiares ni bonificaciones autonómicas. Mantener la obligación de tributar durante cinco años después de trasladar la residencia al extranjero y destinar la recaudación a la Prestación Universal por Crianza.",
+        "ca": "Crear un impost estatal permanent del 3 % anual sobre el patrimoni net individual que superi els 50 milions d’euros, sense exempcions per a empreses familiars ni bonificacions autonòmiques. Mantenir l’obligació de tributar durant cinc anys després de traslladar la residència a l’estranger i destinar la recaptació a la Prestación Universal por Crianza.",
+        "gl": "Crear un imposto estatal permanente do 3 % anual sobre o patrimonio neto individual que supere os 50 millóns de euros, sen exencións para empresas familiares nin bonificacións autonómicas. Manter a obriga de tributar durante cinco anos tras trasladar a residencia ao estranxeiro e destinar a recadación á Prestación Universal por Crianza.",
+        "eu": "50 milioi eurotik gorako banakako ondare garbiari urteko % 3ko estatu-zerga iraunkorra ezartzea, familia-enpresentzako salbuespenik eta autonomia-erkidegoen hobaririk gabe. Bizilekua atzerrira eraman ondoren bost urtez zerga ordaintzeko betebeharrari eustea eta diru-bilketa Prestación Universal por Crianza izeneko prestaziora bideratzea.",
+        "oc": "Crear un impòst estatau permanent deth 3 % annau sus eth patrimòni net individuau que supère es 50 milions d’èuros, sense exempcions entàs empreses familiares ne bonificacions autonomiques. Mantier era obligacion de tributar pendent cinc ans dempús de trasladar era residéncia ar estrangèr e destinar era recaptacion ara Prestación Universal por Crianza.",
+        "en": "Create a permanent state tax of 3% a year on individual net wealth exceeding €50 million, with no exemptions for family businesses or regional tax relief. Keep the tax obligation in place for five years after a move abroad and use the revenue to fund the Prestación Universal por Crianza."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-45",
+          "quote": "3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-45",
+          "quote": "mantendrá la obligación de tributar durante los 5 años posteriores al traslado de residencia a un paraíso o país extranjero."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-45",
+          "quote": "recaudación financiará la Prestación Universal por Crianza."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-45",
+          "quote": "No se admitirán exenciones a la empresa familiar ni bonifica- ciones de comunidades autónomas."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-inheritance-cap",
+      "title": {
+        "es": "Límite a las grandes herencias",
+        "ca": "Límit a les grans herències",
+        "gl": "Límite ás grandes herdanzas",
+        "eu": "Herentzia handien muga",
+        "oc": "Limit as granes eréncies",
+        "en": "Cap on large inheritances"
+      },
+      "text": {
+        "es": "Aplicar un tipo marginal del 100 % al tramo de la base imponible que supere los 10 millones de euros por heredero en el Impuesto sobre Sucesiones y Donaciones. Contabilizar las donaciones en vida e impedir las bonificaciones autonómicas. Eximir una vivienda por heredero hasta un límite que el PDF deja incompleto. Destinar la recaudación a duplicar el gasto actual en políticas sociales de vivienda.",
+        "ca": "Aplicar un tipus marginal del 100 % al tram de la base imposable que superi els 10 milions d’euros per hereu en l’impost sobre successions i donacions. Computar les donacions en vida i impedir les bonificacions autonòmiques. Eximir un habitatge per hereu fins a un límit que el PDF deixa incomplet. Destinar la recaptació a duplicar la despesa actual en polítiques socials d’habitatge.",
+        "gl": "Aplicar un tipo marxinal do 100 % ao tramo da base impoñible que supere os 10 millóns de euros por herdeiro no imposto sobre sucesións e doazóns. Computar as doazóns en vida e impedir as bonificacións autonómicas. Eximir unha vivenda por herdeiro ata un límite que o PDF deixa incompleto. Destinar a recadación a duplicar o gasto actual en políticas sociais de vivenda.",
+        "eu": "Oinordeko bakoitzeko 10 milioi eurotik gorako zerga-oinarriaren zatiari % 100eko tasa marjinala aplikatzea Oinordetzen eta Dohaintzen gaineko Zergan. Bizialdian jasotako dohaintzak zenbatzea eta autonomia-erkidegoen hobariak eragoztea. Oinordeko bakoitzeko etxebizitza bat salbuestea, PDFan osatu gabe dagoen muga bateraino. Diru-bilketa etxebizitzako gizarte-politiketako egungo gastua bikoiztera bideratzea.",
+        "oc": "Aplicar un tipe marginau deth 100 % ath tram dera basa imposabla que supère es 10 milions d’èuros per eretèr en impòst sus successions e donacions. Comptar es donacions en vida e empedir es bonificacions autonomiques. Eximir un abitatge per eretèr enquia un limit qu’eth PDF dèishe incomplet. Destinar era recaptacion a duplicar era despensa actuau en politiques sociaus d’abitatge.",
+        "en": "Apply a 100% marginal inheritance and gift tax rate to the part of the taxable base above €10 million per heir. Count lifetime gifts and disallow regional tax relief. Exempt one home per heir up to a limit that the PDF leaves incomplete. Use the revenue to double current spending on social housing policies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "a un máximo de 10 millones de euros por heredero."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "marginal del 100 % sobre el tramo de la base imponible que supere esa cifra"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "las donaciones recibidas en vida y no se permitirán las bonificaciones autonómi- cas."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "quedará exenta una vivienda por heredero hasta un máximo de 5."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "la recaudación lograda se destinará a doblar el gasto actual en políticas sociales de vivienda"
+        }
+      ],
+      "internalNotes": "The original PDF (physical page 46, printed page 51) gives the housing exemption limit as “5.”, with no unit. The draft leaves the limit unresolved."
+    },
+    {
+      "id": "frente-amplio-income-tax-brackets",
+      "title": {
+        "es": "IRPF sobre rentas del trabajo y rentas altas",
+        "ca": "IRPF sobre rendes del treball i rendes altes",
+        "gl": "IRPF sobre rendas do traballo e rendas altas",
+        "eu": "Lan-errenten eta errenta handien PFEZa",
+        "oc": "IRPF sus rendes deth trabalh e rendes nautes",
+        "en": "Income tax on earnings and high incomes"
+      },
+      "text": {
+        "es": "Aumentar la reducción por rendimientos del trabajo para que quienes cobren el salario mínimo no paguen IRPF y extender la rebaja de forma decreciente hasta los 27.000 euros. Crear más tramos a partir de 120.000 euros anuales y elevar progresivamente los tipos marginales hasta el 52 % para rentas a partir de 300.000 euros.",
+        "ca": "Augmentar la reducció per rendiments del treball perquè les persones que cobren el salari mínim no paguin IRPF i estendre la rebaixa de manera decreixent fins als 27.000 euros. Crear més trams a partir de 120.000 euros anuals i elevar progressivament els tipus marginals fins al 52 % per a rendes a partir de 300.000 euros.",
+        "gl": "Aumentar a redución por rendementos do traballo para que as persoas que cobran o salario mínimo non paguen IRPF e estender a rebaixa de forma decrecente ata os 27.000 euros. Crear máis tramos a partir de 120.000 euros anuais e elevar progresivamente os tipos marxinais ata o 52 % para rendas a partir de 300.000 euros.",
+        "eu": "Lan-etekinen murrizketa handitzea gutxieneko soldata jasotzen dutenek PFEZik ordaindu ez dezaten, eta beherapena mailaka txikitzea 27.000 eurora arte. Urteko 120.000 eurotik aurrera tarte gehiago sortzea eta tasa marjinalak pixkanaka igotzea, 300.000 eurotik aurrerako errentetarako % 52ra iritsi arte.",
+        "oc": "Aumentar era reduccion pes rendements deth trabalh entà que qui còbre eth salari minim non pague IRPF e esténer era rebaisha de manèra decreishenta enquias 27.000 èuros. Crear mès trams a compdar de 120.000 èuros annaus e aumentar progressivament es tipes marginaus enquiath 52 % entàs rendes a compdar de 300.000 èuros.",
+        "en": "Increase the earned income deduction so minimum-wage earners pay no personal income tax, and taper the reduction up to €27,000. Add more brackets from €120,000 a year and progressively raise marginal rates to 52% on income from €300,000."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "quien cobre el salario mínimo no pague IRPF"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "extenderemos esa rebaja, de forma de- creciente, hasta los 27.000 euros."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-46",
+          "quote": "a partir de 120.000 euros anuales y elevaremos progresivamente los tipos marginales hasta alcanzar el 52 % para rentas a partir de 300.000 euros."
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-basic-goods-vat",
+      "title": {
+        "es": "Rebajas del IVA",
+        "ca": "Rebaixes de l’IVA",
+        "gl": "Rebaixas do IVE",
+        "eu": "BEZaren jaitsierak",
+        "oc": "Rebaishes der IVA",
+        "en": "VAT reductions"
+      },
+      "text": {
+        "es": "Pasar las peluquerías y los servicios veterinarios del tipo general al reducido, aplicar el tipo superreducido a los pañales que ahora tributan al reducido y fijar un IVA del 0 % para los productos sin gluten.",
+        "ca": "Passar les perruqueries i els serveis veterinaris del tipus general al reduït, aplicar el tipus superreduït als bolquers que ara tributen al reduït i fixar un IVA del 0 % per als productes sense gluten.",
+        "gl": "Pasar as perruquerías e os servizos veterinarios do tipo xeral ao reducido, aplicar o tipo superreducido aos cueiros que agora tributan ao reducido e fixar un IVE do 0 % para os produtos sen glute.",
+        "eu": "Ile-apaindegiak eta albaitaritza-zerbitzuak tasa orokorretik tasa murriztura pasatzea, orain tasa murriztua duten pixoihalei tasa oso murriztua aplikatzea eta glutenik gabeko produktuei % 0ko BEZa ezartzea.",
+        "oc": "Passar es perruqueries e es servicis veterinaris deth tipe generau ath redusit, aplicar eth tipe superredusit as bolquèrs que tributèn ara ath tipe redusit e fixar un IVA deth 0 % entàs productes sense glutèn.",
+        "en": "Move hairdressing and veterinary services from the standard to the reduced rate, apply the super-reduced rate to nappies currently taxed at the reduced rate, and set VAT on gluten-free products at 0%."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-47",
+          "quote": "servicios veterinarios pasarán del tipo general al reducido"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-47",
+          "quote": "los paña- les del reducido al superreducido y los productos sin gluten tendrán IVA cero"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-state-postal-bank",
+      "title": {
+        "es": "Banco Postal Estatal y banca pública",
+        "ca": "Banco Postal Estatal i banca pública",
+        "gl": "Banco Postal Estatal e banca pública",
+        "eu": "Banco Postal Estatal eta banka publikoa",
+        "oc": "Banco Postal Estatal e banca publica",
+        "en": "Banco Postal Estatal and public banking"
+      },
+      "text": {
+        "es": "Articular la banca pública estatal mediante el ICO, la red de oficinas de Correos y los derechos de voto del 18 % público en CaixaBank. Crear el Banco Postal Estatal con activos de Correos y las acciones de CaixaBank en manos del FROB para financiar políticas públicas estratégicas y ofrecer crédito ventajoso a pymes y autónomos.",
+        "ca": "Articular la banca pública estatal mitjançant l’ICO, la xarxa d’oficines de Correos i els drets de vot del 18 % públic a CaixaBank. Crear el Banco Postal Estatal amb actius de Correos i les accions de CaixaBank en mans del FROB per finançar polítiques públiques estratègiques i oferir crèdit avantatjós a pimes i autònoms.",
+        "gl": "Articular a banca pública estatal mediante o ICO, a rede de oficinas de Correos e os dereitos de voto do 18 % público en CaixaBank. Crear o Banco Postal Estatal con activos de Correos e as accións de CaixaBank en mans do FROB para financiar políticas públicas estratéxicas e ofrecer crédito vantaxoso a pemes e autónomos.",
+        "eu": "Estatuko banka publikoa ICOren, Correosen bulego-sarearen eta CaixaBankeko % 18ko partaidetza publikoaren boto-eskubideen bidez antolatzea. Banco Postal Estatal sortzea Correosen aktiboekin eta FROBen esku dauden CaixaBankeko akzioekin, politika publiko estrategikoak finantzatzeko eta ETEei eta langile autonomoei baldintza onuragarrietako kreditua eskaintzeko.",
+        "oc": "Articular era banca publica estatau per miei der ICO, dera hilat d’oficines de Correos e des drets de vòt deth 18 % public en CaixaBank. Crear eth Banco Postal Estatal damb actius de Correos e es accions de CaixaBank en mans deth FROB entà finançar politiques publiques estrategiques e aufrir crèdit en condicions favorables as pimes e as autonòms.",
+        "en": "Build a state public banking system around the ICO, the Correos branch network and the voting rights attached to the public 18% stake in CaixaBank. Create the Banco Postal Estatal with Correos assets and the CaixaBank shares held by the FROB to fund strategic public policies and offer favourable credit to SMEs and self-employed workers."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-84",
+          "quote": "la red de oficinas de Correos (Banco Postal) y la activación de los derechos de voto en el 18 % público de CaixaBank."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-84",
+          "quote": "recibirá como aportación a su capital los acti- vos de la Sociedad Estatal de Correos y Telégrafos y las acciones de CaixaBank en manos del FROB."
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-84",
+          "quote": "políticas públicas estratégicas, será motor de la reindustrialización, facilitará cré- ditos ventajosos a pymes y autónomos"
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio-vat-simplification-small-businesses",
+      "title": {
+        "es": "IVA simplificado para autónomos y pequeñas empresas",
+        "ca": "IVA simplificat per a autònoms i petites empreses",
+        "gl": "IVE simplificado para autónomos e pequenas empresas",
+        "eu": "BEZ sinplifikatua autonomoentzat eta enpresa txikientzat",
+        "oc": "IVA simplificat entàs autonòms e es petites empreses",
+        "en": "Simpler VAT for the self-employed and small businesses"
+      },
+      "text": {
+        "es": "Transponer de inmediato la directiva europea del IVA franquiciado. Los autónomos y las pequeñas empresas que facturen menos de 85.000 euros anuales quedarían exentos de liquidaciones periódicas y solo presentarían una declaración informativa anual.",
+        "ca": "Transposar immediatament la directiva europea del règim de franquícia de l’IVA. Els autònoms i les petites empreses que facturin menys de 85.000 euros anuals quedarien exempts de liquidacions periòdiques i només presentarien una declaració informativa anual.",
+        "gl": "Transpoñer de inmediato a directiva europea do réxime de franquía do IVE. Os autónomos e as pequenas empresas que facturen menos de 85.000 euros anuais quedarían exentos de liquidacións periódicas e só presentarían unha declaración informativa anual.",
+        "eu": "BEZaren frankizia-araubideari buruzko Europako zuzentaraua berehala transposatzea. Urtean 85.000 euro baino gutxiago fakturatzen duten autonomoek eta enpresa txikiek ez lukete aldizkako likidaziorik egin beharko, eta urteko informazio-aitorpena baino ez lukete aurkeztuko.",
+        "oc": "Transpausar de seguit era directiva europèa deth regim de franquícia der IVA. Es autonòms e es petites empreses que facturen mens de 85.000 èuros ar an quedarien exempts de liquidacions periodiques e sonque presentarien ua declaracion informativa annau.",
+        "en": "Transpose the EU directive on the VAT exemption scheme immediately. Self-employed people and small businesses with annual turnover below €85,000 would be exempt from periodic VAT returns and would file only an annual information return."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-92",
+          "quote": "Transpondremos de in- mediato la directiva europea del IVA franquiciado"
+        },
+        {
+          "sourceId": "frente-amplio-2026-df6e4d967a3a",
+          "segmentId": "page-92",
+          "quote": "facturen menos de 85.000 euros anuales quedarán exentos de liquidaciones periódicas y solo tendrán que presentar una declaración informativa anual."
+        }
+      ]
+    }
+  ]
+}
