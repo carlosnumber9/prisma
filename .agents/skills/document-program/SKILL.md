@@ -26,7 +26,8 @@ Work from the repository root. Read the shared [editorial policy](../../../docs/
 
 ## Debate and publish
 
-- Present all six proposed language versions, original evidence, linguistic uncertainty, ambiguity and fidelity questions by area. Consult relevant current external sources and express supported disagreement as required by the shared policy.
+- Show every proposal under review directly in the chat, grouped by policy area and in editorial order. Use the exact title and text proposed for the app in the language requested by the maintainer, with Castilian as the default. Link to the supporting evidence and the full review record. Show revised wording in the chat before asking for agreement on a change.
+- Include all six proposed language versions, original evidence, linguistic uncertainty, ambiguity and fidelity questions by area in the review record. Surface open questions in the chat. Consult relevant current external sources and express supported disagreement as required by the shared policy.
 - While correcting published content, retain its approved version during debate and store alternatives in review. Do not withdraw existing points when generating another batch.
 - Apply agreed wording to prepare the final batch; update revision, citations and explicit area state. Partial publication excludes pending points.
 - Generate JSON, run the Git workflow's checks and show the final diff, evidence and verification before final publication agreement. Require agreement on the complete six-language batch before marking points approved. Missing translations remain drafts and block publication of that point; instructions and technical review records are English.
