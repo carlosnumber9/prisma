@@ -1,0 +1,218 @@
+{
+  "id": "vox--healthcare",
+  "partyId": "vox",
+  "topicId": "healthcare",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-healthcare-eligibility",
+      "title": {
+        "es": "Acceso a la sanidad pública",
+        "ca": "Accés a la sanitat pública",
+        "gl": "Acceso á sanidade pública",
+        "eu": "Osasun zerbitzu publikoetarako sarbidea",
+        "oc": "Accès ara sanitat publica",
+        "en": "Access to public healthcare"
+      },
+      "text": {
+        "es": "Dotar al sistema sanitario de medios para atender a los españoles y excluir a los extranjeros en situación irregular, salvo en casos de urgencia grave. Auditar el coste de la inmigración masiva en la sanidad pública.",
+        "ca": "Dotar el sistema sanitari de mitjans per atendre els espanyols i excloure els estrangers en situació irregular, llevat dels casos d'urgència greu. Auditar el cost de la immigració massiva en la sanitat pública.",
+        "gl": "Dotar o sistema sanitario de medios para atender os españois e excluír as persoas estranxeiras en situación irregular, agás en casos de urxencia grave. Auditar o custo da inmigración masiva na sanidade pública.",
+        "eu": "Osasun sistemari espainiarrak artatzeko baliabideak ematea eta egoera irregularrean dauden atzerritarrak kanpo uztea, larrialdi larrietan izan ezik. Immigrazio masiboak osasun sistema publikoan duen kostua auditoretza bidez aztertzea.",
+        "oc": "Dotar eth sistèma sanitari de mejans entà atier as espanhòus e excludir es estrangèrs en situacion irregulara, exceptat en casi d'urgéncia grèu. Auditar eth còst dera immigracion massiva ena sanitat publica.",
+        "en": "Give the health system resources to care for Spanish nationals and exclude foreign nationals without regular immigration status, except in serious emergencies. Audit the cost of mass immigration to public healthcare."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-19",
+          "quote": "Garantizar la sostenibilidad del sistema sanitario do- tándolo de los medios necesarios para atender las ne- cesidades de los españoles, excluyendo a los extran- jeros en situación ilegal salvo casos de urgencia grave."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-19",
+          "quote": "Auditoría del coste de la inmigración masiva en la sani- dad pública."
+        }
+      ]
+    },
+    {
+      "id": "vox-healthcare-single-card",
+      "title": {
+        "es": "Tarjeta sanitaria única",
+        "ca": "Targeta sanitària única",
+        "gl": "Tarxeta sanitaria única",
+        "eu": "Osasun txartel bakarra",
+        "oc": "Carta sanitària unica",
+        "en": "Single health card"
+      },
+      "text": {
+        "es": "Para que todos los españoles reciban la misma atención de calidad, establecer una tarjeta sanitaria única con una historia clínica compartida en todo el país.",
+        "ca": "Perquè tots els espanyols rebin la mateixa atenció de qualitat, establir una targeta sanitària única amb una història clínica compartida a tot el país.",
+        "gl": "Para que todos os españois reciban a mesma atención de calidade, establecer unha tarxeta sanitaria única cunha historia clínica compartida en todo o país.",
+        "eu": "Osasun txartel bakarra ezartzea, herrialde osoan partekatutako historia klinikoarekin, espainiar guztiek kalitatezko arreta bera jaso dezaten.",
+        "oc": "Entà que toti es espanhòus receben era madeisha atencion de qualitat, establir ua carta sanitària unica damb un istoriau clinic compartit en tot eth país.",
+        "en": "Introduce a single health card with medical records shared nationwide so that all Spanish nationals receive the same quality of care."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional."
+        }
+      ]
+    },
+    {
+      "id": "vox-healthcare-primary-care",
+      "title": {
+        "es": "Atención primaria y pediatría",
+        "ca": "Atenció primària i pediatria",
+        "gl": "Atención primaria e pediatría",
+        "eu": "Lehen mailako arreta eta pediatria",
+        "oc": "Atencion primària e pediatria",
+        "en": "Primary care and paediatrics"
+      },
+      "text": {
+        "es": "Reforzar en todo el país la atención primaria y pediátrica para mejorar el acceso y la capacidad asistencial, especialmente en las zonas rurales y de difícil cobertura. Mejorar la continuidad de la atención entre centros de salud, especialistas y hospitales.",
+        "ca": "Reforçar a tot el país l'atenció primària i pediàtrica per millorar l'accés i la capacitat assistencial, especialment a les zones rurals i de difícil cobertura. Millorar la continuïtat de l'atenció entre centres de salut, especialistes i hospitals.",
+        "gl": "Reforzar en todo o país a atención primaria e pediátrica para mellorar o acceso e a capacidade asistencial, especialmente nas zonas rurais e de difícil cobertura. Mellorar a continuidade da atención entre centros de saúde, especialistas e hospitais.",
+        "eu": "Lehen mailako arreta eta pediatria herrialde osoan indartzea, sarbidea eta arreta emateko gaitasuna hobetzeko, bereziki landa-eremuetan eta zerbitzua emateko zailtasunak dauden tokietan. Osasun-zentroen, espezialisten eta ospitaleen arteko arretaren jarraitutasuna hobetzea.",
+        "oc": "Reforçar en tot eth país era atencion primària e pediatrica entà melhorar er accès e era capacitat assistenciau, especiaument enes zònes ruraus e de cobertura dificila. Melhorar era continuitat dera atencion entre centres de salut, especialistes e espitaus.",
+        "en": "Strengthen primary and paediatric care nationwide to improve access and capacity, especially in rural and hard-to-cover areas. Improve continuity of care between health centres, specialists and hospitals."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Mejorar su accesibilidad y capa- cidad asistencial, con especial atención a las zonas ru- rales y de difícil cobertura y a la continuidad de la aten- ción entre centros de salud, especialistas y hospitales."
+        }
+      ]
+    },
+    {
+      "id": "vox-healthcare-waiting-lists",
+      "title": {
+        "es": "Listas de espera",
+        "ca": "Llistes d'espera",
+        "gl": "Listas de espera",
+        "eu": "Itxaron-zerrendak",
+        "oc": "Listes de demora",
+        "en": "Waiting lists"
+      },
+      "text": {
+        "es": "Crear un plan nacional para reducir las listas de espera con circuitos asistenciales reorganizados, mejoras en la capacidad diagnóstica y la actividad quirúrgica y derivaciones más fáciles entre centros y territorios. Fomentar la colaboración público-privada cuando contribuya efectivamente a reducir las demoras, con transparencia, evaluación de calidad y control del gasto. Publicar periódicamente indicadores comparables de espera, actividad y resultados.",
+        "ca": "Crear un pla nacional per reduir les llistes d'espera amb circuits assistencials reorganitzats, millores en la capacitat diagnòstica i l'activitat quirúrgica i derivacions més fàcils entre centres i territoris. Fomentar la col·laboració publicoprivada quan contribueixi efectivament a reduir les demores, amb transparència, avaluació de la qualitat i control de la despesa. Publicar periòdicament indicadors comparables d'espera, activitat i resultats.",
+        "gl": "Crear un plan nacional para reducir as listas de espera con circuítos asistenciais reorganizados, melloras na capacidade diagnóstica e na actividade cirúrxica e derivacións máis doadas entre centros e territorios. Fomentar a colaboración público-privada cando contribúa efectivamente a reducir as demoras, con transparencia, avaliación da calidade e control do gasto. Publicar periodicamente indicadores comparables de espera, actividade e resultados.",
+        "eu": "Itxaron-zerrendak murrizteko plan nazionala sortzea, arreta-zirkuituak berrantolatuta, diagnostiko-gaitasuna eta jarduera kirurgikoa hobetuta eta zentroen eta lurraldeen arteko bideratzeak erraztuta. Lankidetza publiko-pribatua sustatzea atzerapenak murrizten benetan laguntzen duenean, gardentasuna, kalitatearen ebaluazioa eta gastuaren kontrola bermatuz. Itxaroteari, jarduerari eta emaitzei buruzko adierazle alderagarriak aldizka argitaratzea.",
+        "oc": "Crear un plan nacionau entà redusir es listes de demora damb circuits assistenciaus reorganizadi, melhores ena capacitat diagnostica e ena activitat quirurgica, e derivacions mès faciles entre centres e territòris. Promòir era collaboracion publica e privada quan contribuïsque efectivament a redusir es demores, damb transparéncia, avaloracion dera qualitat e contròtle dera despensa. Publicar periodicament indicadors comparables de demora, activitat e resultats.",
+        "en": "Create a national plan to reduce waiting lists by reorganising care pathways, improving diagnostic capacity and surgical activity and making referrals across centres and territories easier. Encourage public-private collaboration where it effectively helps to reduce delays, with transparency, quality evaluation and spending controls. Publish comparable indicators on waits, activity and outcomes regularly."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Plan nacional de reducción de listas de espera"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Reorganizar circuitos asis- tenciales, mejorar la capacidad diagnóstica y la activi- dad quirúrgica y facilitar derivaciones entre centros y territorios."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gas- to."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Publicación de indicadores comparables y periódi- cos de listas de espera, actividad y resultados."
+        }
+      ]
+    },
+    {
+      "id": "vox-healthcare-workforce",
+      "title": {
+        "es": "Condiciones del personal sanitario",
+        "ca": "Condicions del personal sanitari",
+        "gl": "Condicións do persoal sanitario",
+        "eu": "Osasun langileen lan-baldintzak",
+        "oc": "Condicions deth personau sanitari",
+        "en": "Healthcare staff working conditions"
+      },
+      "text": {
+        "es": "Mejorar progresivamente las retribuciones, reconocer guardias y turnos, facilitar la conciliación efectiva y basar la carrera profesional en la formación, la experiencia y los méritos. Dar incentivos económicos y profesionales para plazas rurales o de difícil cobertura, impulsar contratos estables y contratos puente tras la residencia y promover el retorno de sanitarios españoles que trabajan en el extranjero.",
+        "ca": "Millorar progressivament les retribucions, reconèixer les guàrdies i els torns, facilitar una conciliació efectiva i basar la carrera professional en la formació, l'experiència i els mèrits. Donar incentius econòmics i professionals per a places rurals o de difícil cobertura, impulsar contractes estables i contractes pont després de la residència i promoure el retorn dels sanitaris espanyols que treballen a l'estranger.",
+        "gl": "Mellorar progresivamente as retribucións, recoñecer as gardas e as quendas, facilitar unha conciliación efectiva e basear a carreira profesional na formación, a experiencia e os méritos. Dar incentivos económicos e profesionais para prazas rurais ou de difícil cobertura, impulsar contratos estables e contratos ponte tras a residencia e promover o retorno do persoal sanitario español que traballa no estranxeiro.",
+        "eu": "Ordainsariak pixkanaka hobetzea, guardiak eta txandak aitortzea, lana eta bizitza pertsonala benetan uztartzeko aukera erraztea eta ibilbide profesionala prestakuntzan, esperientzian eta merezimenduetan oinarritzea. Landa-eremuetako edo betetzeko zailak diren lanpostuetarako pizgarri ekonomiko eta profesionalak ematea, kontratu egonkorrak eta egoiliar-aldia amaitu ondorengo trantsizio-kontratuak sustatzea eta atzerrian lan egiten duten osasun-langile espainiarren itzulera bultzatzea.",
+        "oc": "Melhorar progressivament es retribucions, reconéisher es guàrdies e es torns, facilitar era conciliacion efectiva e basar era carrèra professionau ena formacion, era experiéncia e es merits. Dar incentius economics e professionaus entà places ruraus o de cobertura dificila, promòir contractes estables e contractes de transicion dempús dera residéncia e fomentar eth retorn deth personau sanitari espanhòu que trabalhe en estrangèr.",
+        "en": "Improve pay gradually, recognise on-call duties and shifts, support effective work-life balance and base career progression on training, experience and merit. Offer financial and professional incentives for rural or hard-to-fill posts, promote stable and bridging contracts after residency and support the return of Spanish healthcare professionals working abroad."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Mejora progresiva de retribucio- nes, reconocimiento de guardias y turnos, conciliación efectiva y carrera profesional basada en formación, ex- periencia y méritos."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-37",
+          "quote": "Incentivos económicos y profesio- nales para plazas rurales o de difícil cobertura"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-38",
+          "quote": "de contratos estables y contratos puente tras la resi- dencia, y un programa de retorno de sanitarios españo- les que trabajan en el extranjero."
+        }
+      ]
+    },
+    {
+      "id": "vox-healthcare-womens-health",
+      "title": {
+        "es": "Salud de las mujeres",
+        "ca": "Salut de les dones",
+        "gl": "Saúde das mulleres",
+        "eu": "Emakumeen osasuna",
+        "oc": "Salut des hemnes",
+        "en": "Women's health"
+      },
+      "text": {
+        "es": "Reforzar la prevención y el diagnóstico precoz de los cánceres de mama y ginecológicos y mejorar el diagnóstico y el tratamiento de las enfermedades que afectan especialmente a las mujeres. Garantizar una atención adecuada durante el embarazo, el parto y el posparto, con especial atención a la maternidad a edades más avanzadas.",
+        "ca": "Reforçar la prevenció i el diagnòstic precoç dels càncers de mama i ginecològics i millorar el diagnòstic i el tractament de les malalties que afecten especialment les dones. Garantir una atenció adequada durant l'embaràs, el part i el postpart, amb especial atenció a la maternitat a edats més avançades.",
+        "gl": "Reforzar a prevención e o diagnóstico precoz dos cancros de mama e xinecolóxicos e mellorar o diagnóstico e o tratamento das enfermidades que afectan especialmente as mulleres. Garantir unha atención axeitada durante o embarazo, o parto e o posparto, con especial atención á maternidade a idades máis avanzadas.",
+        "eu": "Bularreko minbiziaren eta minbizi ginekologikoen prebentzioa eta diagnostiko goiztiarra indartzea, eta emakumeei bereziki eragiten dieten gaixotasunen diagnostikoa eta tratamendua hobetzea. Haurdunaldian, erditzean eta erditu ondoren arreta egokia bermatzea, adin aurreratuagoan ama direnei arreta berezia emanez.",
+        "oc": "Reforçar era prevencion e eth diagnostic precòç deth càncer de popa e des càncers ginecologics e melhorar eth diagnostic e eth tractament des malauties qu'afècten especiaument es hemnes. Garantir ua atencion adequada pendent er embaràs, eth part e eth postpart, damb ua atencion especiau ara maternitat en edats mès auançades.",
+        "en": "Strengthen prevention and early diagnosis of breast and gynaecological cancers and improve diagnosis and treatment of diseases that particularly affect women. Ensure appropriate care during pregnancy, childbirth and after birth, with particular attention to maternity at older ages."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-38",
+          "quote": "Refor- zar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-38",
+          "quote": "mejorar el diag- nóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-38",
+          "quote": "garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas."
+        }
+      ]
+    }
+  ]
+}

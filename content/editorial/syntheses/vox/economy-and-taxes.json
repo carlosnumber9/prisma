@@ -1,0 +1,171 @@
+{
+  "id": "vox--economy-and-taxes",
+  "partyId": "vox",
+  "topicId": "economy-and-taxes",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-economy-income-tax",
+      "title": {
+        "es": "Impuesto sobre la renta",
+        "ca": "Impost sobre la renda",
+        "gl": "Imposto sobre a renda",
+        "eu": "Errentaren gaineko zerga",
+        "oc": "Impòst sus era renda",
+        "en": "Income tax"
+      },
+      "text": {
+        "es": "Simplificar y rebajar el IRPF. Reducir el tipo aplicable a cada contribuyente o familia en función del número de hijos.",
+        "ca": "Simplificar i rebaixar l'IRPF. Reduir el tipus aplicable a cada contribuent o família en funció del nombre de fills.",
+        "gl": "Simplificar e rebaixar o IRPF. Reducir o tipo aplicable a cada contribuínte ou familia en función do número de fillos.",
+        "eu": "PFEZa sinplifikatzea eta jaistea. Zergadun edo familia bakoitzari aplikatzen zaion tasa murriztea seme-alaben kopuruaren arabera.",
+        "oc": "Simplificar e rebaishar er IRPF. Redusir eth tipe aplicable a cada contribuent o familha en foncion deth nombre de hilhs.",
+        "en": "Simplify and lower personal income tax (IRPF). Reduce the rate for each taxpayer or family according to the number of children."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-9",
+          "quote": "Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos."
+        }
+      ]
+    },
+    {
+      "id": "vox-economy-vat-corporation-tax",
+      "title": {
+        "es": "IVA e Impuesto de Sociedades",
+        "ca": "IVA i impost sobre societats",
+        "gl": "IVE e imposto sobre sociedades",
+        "eu": "BEZa eta sozietateen gaineko zerga",
+        "oc": "IVA e impòst sus societats",
+        "en": "VAT and corporation tax"
+      },
+      "text": {
+        "es": "Rebajar los tipos reducido y general del IVA dando prioridad a los productos esenciales y de primera necesidad. Reducir el tipo del Impuesto de Sociedades.",
+        "ca": "Rebaixar els tipus reduït i general de l'IVA donant prioritat als productes essencials i de primera necessitat. Reduir el tipus de l'impost sobre societats.",
+        "gl": "Rebaixar os tipos reducido e xeral do IVE dando prioridade aos produtos esenciais e de primeira necesidade. Reducir o tipo do imposto sobre sociedades.",
+        "eu": "BEZaren tasa murriztua eta tasa orokorra jaistea, oinarrizko eta lehen beharreko produktuei lehentasuna emanda. Sozietateen gaineko zergaren tasa jaistea.",
+        "oc": "Rebaishar es tipes redusit e generau der IVA en dar prioritat as productes essenciaus e de prumèra necessitat. Redusir eth tipe der impòst sus societats.",
+        "en": "Lower the reduced and standard VAT rates, giving priority to essential and basic goods. Lower the corporation tax rate."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-9",
+          "quote": "Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-9",
+          "quote": "Reducir el tipo del Impuesto de Sociedades"
+        }
+      ]
+    },
+    {
+      "id": "vox-economy-public-debt",
+      "title": {
+        "es": "Deuda pública",
+        "ca": "Deute públic",
+        "gl": "Débeda pública",
+        "eu": "Zor publikoa",
+        "oc": "Deute public",
+        "en": "Public debt"
+      },
+      "text": {
+        "es": "Reducir la deuda pública y compatibilizar las rebajas fiscales con la financiación de los servicios públicos esenciales mediante el control del déficit, la eliminación de gastos que VOX considera superfluos o ideológicos y el impulso al crecimiento económico.",
+        "ca": "Reduir el deute públic i compatibilitzar les rebaixes fiscals amb el finançament dels serveis públics essencials mitjançant el control del dèficit, l'eliminació de despeses que VOX considera supèrflues o ideològiques i l'impuls al creixement econòmic.",
+        "gl": "Reducir a débeda pública e compatibilizar as rebaixas fiscais co financiamento dos servizos públicos esenciais mediante o control do déficit, a eliminación de gastos que VOX considera superfluos ou ideolóxicos e o impulso ao crecemento económico.",
+        "eu": "Zor publikoa murriztea eta zerga-jaitsierak oinarrizko zerbitzu publikoen finantzaketarekin bateragarri egitea, defizita kontrolatuz, VOXek alferrikakotzat edo ideologikotzat jotzen dituen gastuak ezabatuz eta hazkunde ekonomikoa sustatuz.",
+        "oc": "Redusir eth deute public e compatibilizar es rebaishes fiscaus damb eth finançament des servicis publics essenciaus per miei deth contròtle deth deficit, era eliminacion de despenes que VOX considère superflues o ideologiques e er impuls ath creishement economic.",
+        "en": "Reduce public debt and combine tax cuts with funding for essential public services by controlling the deficit, eliminating spending that VOX considers unnecessary or ideological and promoting economic growth."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-9",
+          "quote": "Reducción de la deuda pública. Compatibilizar la re- baja de impuestos con la financiación de los servicios"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-10",
+          "quote": "públicos esenciales, mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el impul- so del crecimiento económico."
+        }
+      ]
+    },
+    {
+      "id": "vox-economy-research-innovation",
+      "title": {
+        "es": "Investigación e innovación empresarial",
+        "ca": "Recerca i innovació empresarial",
+        "gl": "Investigación e innovación empresarial",
+        "eu": "Ikerketa eta enpresen berrikuntza",
+        "oc": "Recèrca e innovacion empresariau",
+        "en": "Research and business innovation"
+      },
+      "text": {
+        "es": "Reforzar la inversión en I+D+i, los incentivos fiscales a la innovación empresarial y la colaboración entre centros de investigación y empresas. Facilitar la transferencia de conocimiento al tejido productivo, especialmente a las pymes, y preparar un plan para recuperar el talento que se marchó por falta de oportunidades.",
+        "ca": "Reforçar la inversió en R+D+I, els incentius fiscals a la innovació empresarial i la col·laboració entre centres de recerca i empreses. Facilitar la transferència de coneixement al teixit productiu, especialment a les pimes, i preparar un pla per recuperar el talent que va marxar per manca d'oportunitats.",
+        "gl": "Reforzar o investimento en I+D+i, os incentivos fiscais á innovación empresarial e a colaboración entre centros de investigación e empresas. Facilitar a transferencia de coñecemento ao tecido produtivo, especialmente ás pemes, e preparar un plan para recuperar o talento que marchou por falta de oportunidades.",
+        "eu": "I+G+b-ko inbertsioa, enpresen berrikuntzarako zerga-pizgarriak eta ikerketa-zentroen eta enpresen arteko lankidetza indartzea. Ekoizpen-sarera ezagutza transferitzea erraztea, bereziki ETEetara, eta aukera faltagatik alde egin zuten talentudunak itzultzeko plana prestatzea.",
+        "oc": "Reforçar era inversion en I+D+i, es incentius fiscaus ara innovacion empresariau e era collaboracion entre centres de recèrca e empreses. Facilitar era transferéncia de coneishement ath teishut productiu, especiaument as pimes, e preparar un plan entà recuperar eth talent que se n'anèc per manca d'oportunitats.",
+        "en": "Strengthen investment in research, development and innovation, tax incentives for business innovation and collaboration between research centres and businesses. Help transfer knowledge to businesses, especially SMEs, and prepare a plan to bring back talent that left for lack of opportunities."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-10",
+          "quote": "Reforzar la inversión en I+D+i, los incenti- vos fiscales a la innovación empresarial, la colaboración entre centros de investigación y empresas e industrias"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-10",
+          "quote": "y la transferencia de conocimiento a nuestro tejido pro- ductivo, especialmente a las pymes."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-10",
+          "quote": "Plan para recupe- rar el talento que se ha tenido que marchar ante la falta de oportunidades."
+        }
+      ]
+    },
+    {
+      "id": "vox-economy-market-unity",
+      "title": {
+        "es": "Unidad de mercado",
+        "ca": "Unitat de mercat",
+        "gl": "Unidade de mercado",
+        "eu": "Merkatu-batasuna",
+        "oc": "Unitat de mercat",
+        "en": "Market unity"
+      },
+      "text": {
+        "es": "Establecer, mediante una Ley de Unidad de Mercado, que las empresas, profesionales y productos que ya operen legalmente en una comunidad autónoma puedan hacerlo en el resto del país sin trámites, licencias ni registros adicionales.",
+        "ca": "Establir, mitjançant una Ley de Unidad de Mercado, que les empreses, els professionals i els productes que ja operin legalment en una comunitat autònoma ho puguin fer a la resta del país sense tràmits, llicències ni registres addicionals.",
+        "gl": "Establecer, mediante unha Ley de Unidad de Mercado, que as empresas, profesionais e produtos que xa operen legalmente nunha comunidade autónoma poidan facelo no resto do país sen trámites, licenzas nin rexistros adicionais.",
+        "eu": "Ley de Unidad de Mercado legearen bidez, autonomia-erkidego batean legez diharduten enpresek, profesionalek eta produktuek gainerako lurraldean ere jardun ahal izatea ezartzea, izapide, lizentzia edo erregistro gehigarririk gabe.",
+        "oc": "Establir, mejançant ua Ley de Unidad de Mercado, qu'es empreses, professionaus e productes qu'opèren ja legaument en ua comunitat autonòma poguen operar ena rèsta deth país sense tramits, licéncies ne registres addicionaus.",
+        "en": "Use a Ley de Unidad de Mercado to let businesses, professionals and products already operating legally in one autonomous community operate throughout the country without additional procedures, licences or registrations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-28",
+          "quote": "Ley de Unidad de Mercado."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-28",
+          "quote": "Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el res- to del territorio nacional sin trámites, licencias ni re- gistros adicionales."
+        }
+      ]
+    }
+  ]
+}

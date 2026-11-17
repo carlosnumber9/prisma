@@ -1,0 +1,196 @@
+{
+  "id": "vox--environment-and-energy",
+  "partyId": "vox",
+  "topicId": "environment-and-energy",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-energy-nuclear",
+      "title": {
+        "es": "Centrales nucleares",
+        "ca": "Centrals nuclears",
+        "gl": "Centrais nucleares",
+        "eu": "Zentral nuklearrak",
+        "oc": "Centraus nucleares",
+        "en": "Nuclear power stations"
+      },
+      "text": {
+        "es": "Recuperar con urgencia el plan nuclear nacional y derogar el calendario de cierre para mantener las centrales actuales. Promover estudios urgentes para instalar centrales en emplazamientos disponibles junto a las actuales y ejecutar lo antes posible los proyectos que sean viables.",
+        "ca": "Recuperar amb urgència el pla nuclear nacional i derogar el calendari de tancament per mantenir les centrals actuals. Promoure estudis urgents per instal·lar centrals en emplaçaments disponibles al costat de les actuals i executar tan aviat com sigui possible els projectes que siguin viables.",
+        "gl": "Recuperar con urxencia o plan nuclear nacional e derrogar o calendario de peche para manter as centrais actuais. Promover estudos urxentes para instalar centrais en localizacións dispoñibles a carón das actuais e executar canto antes os proxectos que sexan viables.",
+        "eu": "Plan nuklear nazionala premiaz berreskuratzea eta ixteko egutegia indargabetzea egungo zentralei eusteko. Egungo zentralen ondoko kokaleku erabilgarrietan zentralak ezartzeko premiazko azterlanak sustatzea eta proiektu bideragarriak ahalik eta lasterren gauzatzea.",
+        "oc": "Recuperar damb urgéncia eth plan nucleare nacionau e derogar eth calendari de barrament entà mantier es centraus actuaus. Promòir estudis urgents entà installar centraus en emplaçaments disponibles ath costat des actuaus e executar tan lèu coma sigue possible es projèctes que siguen viables.",
+        "en": "Restore the national nuclear plan urgently and repeal the closure schedule to keep existing plants in operation. Promote urgent studies on building plants at available sites next to existing ones and implement viable projects as soon as possible."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-12",
+          "quote": "Recuperar urgentemente el plan nuclear nacional."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-12",
+          "quote": "Se garantizará la supervivencia de las centrales nu- cleares actuales, derogando el calendario de cierre."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-12",
+          "quote": "Se promoverán estudios urgentes para instalar cen- trales nucleares en los emplazamientos disponibles adyacentes a las actuales."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-12",
+          "quote": "Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible."
+        }
+      ]
+    },
+    {
+      "id": "vox-energy-grid",
+      "title": {
+        "es": "Inversión en la red eléctrica",
+        "ca": "Inversió en la xarxa elèctrica",
+        "gl": "Investimento na rede eléctrica",
+        "eu": "Sare elektrikorako inbertsioa",
+        "oc": "Inversion ena hilat electrica",
+        "en": "Electricity grid investment"
+      },
+      "text": {
+        "es": "Suprimir el tope regulatorio a la inversión en la red eléctrica. Fijar plazos máximos para autorizar la construcción de líneas, subestaciones y puntos de conexión, con silencio administrativo positivo si vence el plazo sin resolución.",
+        "ca": "Suprimir el topall regulador a la inversió en la xarxa elèctrica. Fixar terminis màxims per autoritzar la construcció de línies, subestacions i punts de connexió, amb silenci administratiu positiu si venç el termini sense resolució.",
+        "gl": "Suprimir o límite regulatorio ao investimento na rede eléctrica. Fixar prazos máximos para autorizar a construción de liñas, subestacións e puntos de conexión, con silencio administrativo positivo se vence o prazo sen resolución.",
+        "eu": "Sare elektrikorako inbertsioaren arauzko muga kentzea. Lineak, azpiestazioak eta konexio-puntuak eraikitzea baimentzeko gehieneko epeak ezartzea, epea ebazpenik gabe amaituz gero administrazio-isiltasun positiboarekin.",
+        "oc": "Suprimir eth limit normatiu ara inversion ena hilat electrica. Fixar tèrmes maxims entà autorizar era construccion de linhes, subestacions e punts de connexion, damb silenci administratiu positiu s'eth tèrme venç sense resolucion.",
+        "en": "Remove the regulatory cap on electricity grid investment. Set binding deadlines for authorising the construction of lines, substations and connection points, with approval deemed granted if the deadline passes without a decision."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-11",
+          "quote": "Eliminar el tope a la inversión en redes"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-11",
+          "quote": "las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo posi- tivo."
+        }
+      ]
+    },
+    {
+      "id": "vox-energy-climate-regulation",
+      "title": {
+        "es": "Normas climáticas",
+        "ca": "Normes climàtiques",
+        "gl": "Normas climáticas",
+        "eu": "Klima-arauak",
+        "oc": "Normes climatiques",
+        "en": "Climate rules"
+      },
+      "text": {
+        "es": "Revertir las normas inspiradas en el Pacto Verde Europeo o la Agenda 2030 que VOX considera perjudiciales para la industria, como lo que el programa describe como una prohibición de los motores de combustión y los impuestos sobre las emisiones de CO₂. Acabar también con la imposición de zonas de bajas emisiones.",
+        "ca": "Revertir les normes inspirades en el Pacte Verd Europeu o l'Agenda 2030 que VOX considera perjudicials per a la indústria, com allò que el programa descriu com una prohibició dels motors de combustió i els impostos sobre les emissions de CO₂. Acabar també amb la imposició de zones de baixes emissions.",
+        "gl": "Reverter as normas inspiradas no Pacto Verde Europeo ou na Axenda 2030 que VOX considera prexudiciais para a industria, como o que o programa describe como unha prohibición dos motores de combustión e os impostos sobre as emisións de CO₂. Acabar tamén coa imposición de zonas de baixas emisións.",
+        "eu": "VOXek industriarentzat kaltegarritzat jotzen dituen eta Europako Itun Berdean edo 2030 Agendan oinarritutako arauak indargabetzea, hala nola programak errekuntza-motorren debekutzat jotzen duena eta CO₂ isurien gaineko zergak. Emisio gutxiko eremuak ezartzeko betebeharra ere kentzea.",
+        "oc": "Revertir es normes inspirades en Pacte Verd Europèu o ena Agenda 2030 que VOX considère prejudiciaus entara indústria, com çò qu'eth programa descriu coma ua prohibicion des motors de combustion e es impòsti sus es emissions de CO₂. Acabar tanben damb era imposicion de zònes de baishes emissions.",
+        "en": "Reverse rules inspired by the European Green Deal or the 2030 Agenda that VOX considers harmful to industry, including what the programme describes as a ban on combustion engines and taxes on CO₂ emissions. Also end the mandatory imposition of low-emission zones."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-11",
+          "quote": "Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-12",
+          "quote": "combustión, impuestos a las emisiones de CO2) ins- piradas en el Pacto Verde Europeo, la Agenda 2030"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-29",
+          "quote": "Acabar con todas las imposiciones climáticas como el Pacto Verde"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-29",
+          "quote": "libertad de circulación de los españoles, como la impo- sición de ZBE."
+        }
+      ]
+    },
+    {
+      "id": "vox-environment-wildfires",
+      "title": {
+        "es": "Prevención y lucha contra incendios",
+        "ca": "Prevenció i lluita contra incendis",
+        "gl": "Prevención e loita contra incendios",
+        "eu": "Suteen prebentzioa eta aurkako borroka",
+        "oc": "Prevencion e luta contra es incendis",
+        "en": "Wildfire prevention and response"
+      },
+      "text": {
+        "es": "Limpiar y aprovechar los montes, y revisar las restricciones ambientales que dificultan la prevención o el aprovechamiento forestal. Establecer protocolos comunes, coordinar bomberos y protección civil de distintas administraciones, aumentar los medios humanos, materiales y tecnológicos y endurecer las penas por provocar incendios.",
+        "ca": "Netejar i aprofitar els boscos, i revisar les restriccions ambientals que dificulten la prevenció o l'aprofitament forestal. Establir protocols comuns, coordinar bombers i protecció civil de diverses administracions, augmentar els mitjans humans, materials i tecnològics i endurir les penes per provocar incendis.",
+        "gl": "Limpar e aproveitar os montes, e revisar as restricións ambientais que dificultan a prevención ou o aproveitamento forestal. Establecer protocolos comúns, coordinar bombeiros e protección civil de distintas administracións, aumentar os medios humanos, materiais e tecnolóxicos e endurecer as penas por provocar incendios.",
+        "eu": "Mendiak garbitzea eta baliatzea, eta prebentzioa edo baso-aprobetxamendua zailtzen duten ingurumen-murrizketak berrikustea. Protokolo komunak ezartzea, administrazio desberdinetako suhiltzaileak eta babes zibila koordinatzea, giza baliabideak eta baliabide material eta teknologikoak handitzea eta suteak eragitegatiko zigorrak gogortzea.",
+        "oc": "Netejar e aprofitar es montanhes e revisar es restriccions ambientaus que dificulten era prevencion o er aprofitament forestau. Establir protocòus comuns, coordinar pompièrs e proteccion civiu de diferentes administracions, aumentar es mejans umans, materiaus e tecnologics e endurir es penes per provocar incendis.",
+        "en": "Clear and make use of woodland, and review environmental restrictions that hinder prevention or forest management. Establish common protocols, coordinate firefighters and civil protection across administrations, increase staffing, equipment and technology, and toughen penalties for starting fires."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-34",
+          "quote": "Limpieza y aprovecha- miento de los montes. Revisión de las restricciones am- bientales que obstaculizan las labores de prevención y aprovechamiento forestal."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-34",
+          "quote": "protocolos comunes, coordinación de bom- beros y protección civil de distintas administraciones y aumento de los medios humanos, materiales y tecnoló- gicos."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-34",
+          "quote": "Endurecimiento de las penas a los incendiarios."
+        }
+      ]
+    },
+    {
+      "id": "vox-environment-national-water-plan",
+      "title": {
+        "es": "Plan Nacional del Agua",
+        "ca": "Plan Nacional del Agua",
+        "gl": "Plan Nacional del Agua",
+        "eu": "Plan Nacional del Agua",
+        "oc": "Plan Nacional del Agua",
+        "en": "Plan Nacional del Agua"
+      },
+      "text": {
+        "es": "Interconectar todas las cuencas para gestionar el agua de forma más eficiente, contribuir a reactivar el sector primario e impulsar y modernizar el regadío y la producción de energía.",
+        "ca": "Interconnectar totes les conques per gestionar l'aigua més eficientment, contribuir a reactivar el sector primari i impulsar i modernitzar el regadiu i la producció d'energia.",
+        "gl": "Interconectar todas as concas para xestionar a auga de forma máis eficiente, contribuír a reactivar o sector primario e impulsar e modernizar o regadío e a produción de enerxía.",
+        "eu": "Arro guztiak elkarrekin lotzea ura eraginkortasun handiagoz kudeatzeko, lehen sektorea suspertzen laguntzeko eta ureztapena eta energia-ekoizpena bultzatu eta modernizatzeko.",
+        "oc": "Interconnectar totes es conques entà gestionar era aigua de manèra mès eficienta, contribuïr a reactivar eth sector primari e impulsar e modernizar eth regadiu e era produccion d'energia.",
+        "en": "Interconnect all river basins to manage water more efficiently, help revive the primary sector and promote and modernise irrigation and energy production."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-61",
+          "quote": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-62",
+          "quote": "nuestro sector primario, así como para impulsar y mo- dernizar los regadíos y la producción de energía."
+        }
+      ]
+    }
+  ]
+}

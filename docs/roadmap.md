@@ -32,6 +32,8 @@ The [15 November PSOE editorial review](../content/reviews/2026-11-15-psoe-progr
 
 The [17 November Frente Amplio editorial review](../content/reviews/2026-11-17-frente-amplio-programme-draft.md) preserves the coalition's 151-page national programme presented on 16 November. The maintainer approved 59 cited proposals in six languages across all eight policy areas. The syntheses are partial. A primary copy of the separate Galicia programme remains outstanding.
 
+The 66-page VOX national programme matches the official download byte for byte. The maintainer approved 44 proposals in six languages across all eight policy areas. The syntheses are partial. The bounded search found no separate territorial or sectoral supplement. [17 November VOX editorial review](../content/reviews/2026-11-17-vox-programme-draft.md)
+
 The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initial catalogue; see [catalogue provenance](catalogue-provenance.md). Revisit public coverage once official candidatures provide enough information. Distinguish formations and coalitions from constituency candidatures and shared programmes; do not silently equate the portal with all candidates.
 
 ## Political reference documentation — skill implemented; corpus and app integration pending

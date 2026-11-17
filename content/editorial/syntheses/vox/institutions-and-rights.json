@@ -1,0 +1,225 @@
+{
+  "id": "vox--institutions-and-rights",
+  "partyId": "vox",
+  "topicId": "institutions-and-rights",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-institutions-regularisation",
+      "title": {
+        "es": "Regularización y arraigo",
+        "ca": "Regularització i arrelament",
+        "gl": "Regularización e arraigamento",
+        "eu": "Egoera erregularizatzea eta errotzea",
+        "oc": "Regularizacion e arraïtzament",
+        "en": "Regularisation and arraigo"
+      },
+      "text": {
+        "es": "Prohibir las regularizaciones masivas e impedir que las personas que entren irregularmente puedan regularizar su situación. Suprimir el arraigo como vía de regularización.",
+        "ca": "Prohibir les regularitzacions massives i impedir que les persones que entrin de manera irregular puguin regularitzar la seva situació. Suprimir l'arrelament com a via de regularització.",
+        "gl": "Prohibir as regularizacións masivas e impedir que as persoas que entren de maneira irregular poidan regularizar a súa situación. Suprimir o arraigamento como vía de regularización.",
+        "eu": "Erregularizazio masiboak debekatzea eta modu irregularrean sartzen diren pertsonei beren egoera erregularizatzea eragoztea. Errotzea erregularizazio-bide gisa kentzea.",
+        "oc": "Proïbir es regularizacions massives e empedir qu'es persones qu'entren de manèra irregulara poguen regularizar era sua situacion. Suprimir er arraïtzament coma via de regularizacion.",
+        "en": "Ban mass regularisations and prevent people who enter irregularly from regularising their status. Abolish arraigo, the route to regularisation based on established ties."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-15",
+          "quote": "Prohibición de las regularizaciones masivas. Quien en- tra de forma ilegal jamás podrá regularizar su situación."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-15",
+          "quote": "Supresión de la institución del arraigo"
+        }
+      ]
+    },
+    {
+      "id": "vox-institutions-nationality",
+      "title": {
+        "es": "Adquisición y pérdida de la nacionalidad",
+        "ca": "Adquisició i pèrdua de la nacionalitat",
+        "gl": "Adquisición e perda da nacionalidade",
+        "eu": "Nazionalitatea eskuratzea eta galtzea",
+        "oc": "Adquisicion e pèrta dera nacionalitat",
+        "en": "Acquisition and loss of nationality"
+      },
+      "text": {
+        "es": "Endurecer los requisitos para adquirir la nacionalidad española y revisar las concesiones fraudulentas. Ampliar los supuestos de pérdida de la nacionalidad para los españoles que no lo sean de origen en casos de delitos graves o reiterados.",
+        "ca": "Endurir els requisits per adquirir la nacionalitat espanyola i revisar les concessions fraudulentes. Ampliar els supòsits de pèrdua de la nacionalitat per als espanyols que no ho siguin d'origen en casos de delictes greus o reiterats.",
+        "gl": "Endurecer os requisitos para adquirir a nacionalidade española e revisar as concesións fraudulentas. Ampliar os supostos de perda da nacionalidade para as persoas españolas que non o sexan de orixe en casos de delitos graves ou reiterados.",
+        "eu": "Espainiako nazionalitatea eskuratzeko baldintzak gogortzea eta iruzurrez emandako nazionalitateak berrikustea. Jatorriz espainiarrak ez diren espainiarrek nazionalitatea galtzeko kasuak zabaltzea delitu larriak edo errepikatuak direnean.",
+        "oc": "Endurir es requisits entà aquerir era nacionalitat espanhòla e revisar es concessions fraudulentes. Ampliar es casi de pèrta dera nacionalitat entàs espanhòus que non ne siguen d'origina en casi de delicte grèu o reiterat.",
+        "en": "Tighten the requirements for acquiring Spanish nationality and review fraudulent grants of nationality. Expand the grounds for loss of nationality for Spanish nationals who did not hold it by origin in cases of serious or repeated offences."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-15",
+          "quote": "Endurecimiento de los requisitos de adquisición de la nacionalidad española. Revisión de las concesiones frau- dulentas de la nacionalidad."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-15",
+          "quote": "Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados."
+        }
+      ]
+    },
+    {
+      "id": "vox-institutions-repatriation-and-return",
+      "title": {
+        "es": "Repatriación y plan de retorno",
+        "ca": "Repatriació i pla de retorn",
+        "gl": "Repatriación e plan de retorno",
+        "eu": "Aberriratzea eta itzulerarako plana",
+        "oc": "Repatriacion e plan de retorn",
+        "en": "Repatriation and return plan"
+      },
+      "text": {
+        "es": "Repatriar a quienes permanezcan en España en situación irregular. Por separado, facilitar mediante un plan el retorno a sus países de los extranjeros que no contribuyan o vivan de subsidios públicos que, según VOX, no llegan a los españoles.",
+        "ca": "Repatriar les persones que romanguin a Espanya en situació irregular. Separadament, facilitar mitjançant un pla el retorn als seus països dels estrangers que no contribueixin o visquin de subsidis públics que, segons VOX, no arriben als espanyols.",
+        "gl": "Repatriar as persoas que permanezan en España en situación irregular. Por separado, facilitar mediante un plan o retorno aos seus países das persoas estranxeiras que non contribúan ou vivan de subsidios públicos que, segundo VOX, non chegan aos españois.",
+        "eu": "Espainian egoera irregularrean jarraitzen dutenak aberriratzea. Bereiz, plan baten bidez beren herrialdeetara itzultzea erraztea ekarpenik egiten ez duten edo, VOXen arabera, espainiarrengana iristen ez diren dirulaguntza publikoetatik bizi diren atzerritarrei.",
+        "oc": "Repatriar es persones que demoren en Espanha en situacion irregulara. Separadament, facilitar mejançant un plan eth retorn as sòns païsi des estrangèrs que non contribuïsquen o que visquen de subsidis publics que, segontes VOX, non arriben as espanhòus.",
+        "en": "Repatriate those who remain in Spain without regular immigration status. Separately, use a plan to facilitate return to their countries for foreign nationals who do not contribute or live on public subsidies that VOX says do not reach Spanish nationals."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-15",
+          "quote": "Repatriación de quienes permanezcan en situación ile- gal en nuestra nación."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-15",
+          "quote": "Plan para facilitar el retorno a sus países de los extranjeros que no contribuyan o vivan de subsi- dios públicos que no alcanzan a los españoles."
+        }
+      ]
+    },
+    {
+      "id": "vox-institutions-gender-laws",
+      "title": {
+        "es": "Leyes de género y protección de las víctimas",
+        "ca": "Lleis de gènere i protecció de les víctimes",
+        "gl": "Leis de xénero e protección das vítimas",
+        "eu": "Genero-legeak eta biktimen babesa",
+        "oc": "Leis de genre e proteccion des victimes",
+        "en": "Gender-related laws and victim protection"
+      },
+      "text": {
+        "es": "Derogar las leyes de género y promover la aprobación de normas que protejan a las mujeres víctimas de violencia, especialmente a las que sufran maltrato, y amparen a todas las víctimas.",
+        "ca": "Derogar les lleis de gènere i promoure l'aprovació de normes que protegeixin les dones víctimes de violència, especialment les que pateixin maltractaments, i emparin totes les víctimes.",
+        "gl": "Derrogar as leis de xénero e promover a aprobación de normas que protexan as mulleres vítimas de violencia, especialmente as que sufran malos tratos, e amparen todas as vítimas.",
+        "eu": "Genero-legeak indargabetzea eta indarkeriaren biktima diren emakumeak, bereziki tratu txarrak jasaten dituztenak, eta biktima guztiak babesteko arauak onar daitezen sustatzea.",
+        "oc": "Derogar es leis de genre e promòir era aprobacion de normes que protegissen es hemnes victimes de violéncia, especiaument es que patissen mautractaments, e qu'emparen a totes es victimes.",
+        "en": "Repeal gender-related laws and promote rules that protect women who are victims of violence, especially those experiencing abuse, and provide protection for all victims."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-30",
+          "quote": "Derogar las leyes que han criminalizado a los hom- bres y desprotegido a las mujeres. Las leyes de género"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-30",
+          "quote": "impulsar la aprobación de leyes y normas que protejan de verdad a las mujeres víctimas de violencia, en especial a aquellas que sufran maltrato, y que no dejen a ninguna víctima desampa- rada."
+        }
+      ]
+    },
+    {
+      "id": "vox-institutions-juvenile-criminal-responsibility",
+      "title": {
+        "es": "Responsabilidad penal de los menores",
+        "ca": "Responsabilitat penal dels menors",
+        "gl": "Responsabilidade penal dos menores",
+        "eu": "Adingabeen erantzukizun penala",
+        "oc": "Responsabilitat penau des menors",
+        "en": "Juvenile criminal responsibility"
+      },
+      "text": {
+        "es": "Reducir la edad de responsabilidad penal de los menores y plantear eliminar la exención de responsabilidad penal para ciertos delitos violentos, como los homicidios y las agresiones sexuales.",
+        "ca": "Reduir l'edat de responsabilitat penal dels menors i plantejar la supressió de l'exempció de responsabilitat penal per a certs delictes violents, com ara els homicidis i les agressions sexuals.",
+        "gl": "Reducir a idade de responsabilidade penal das persoas menores e formular a posibilidade de eliminar a exención de responsabilidade penal para certos delitos violentos, como os homicidios e as agresións sexuais.",
+        "eu": "Adingabeen erantzukizun penalaren adina jaistea eta indarkeriazko delitu jakin batzuetan, hala nola homizidioetan eta sexu-erasoetan, erantzukizun penaletik salbuesteko aukera kentzea aztertzea.",
+        "oc": "Redusir era edat de responsabilitat penau des menors e plantejar de suprimir era exempcion de responsabilitat penau entà cèrti delictes violents, com es omicidis e es agressions sexuaus.",
+        "en": "Lower the age of criminal responsibility for minors and consider removing exemption from criminal responsibility for certain violent offences, such as homicide and sexual assault."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-45",
+          "quote": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales."
+        }
+      ]
+    },
+    {
+      "id": "vox-institutions-judicial-council",
+      "title": {
+        "es": "Elección de vocales judiciales del CGPJ",
+        "ca": "Elecció de vocals judicials del CGPJ",
+        "gl": "Elección de vogais xudiciais do CGPJ",
+        "eu": "CGPJko kide judizialen hautaketa",
+        "oc": "Eleccion de vocaus judiciaus deth CGPJ",
+        "en": "Election of judicial members of the CGPJ"
+      },
+      "text": {
+        "es": "Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos por y entre los propios jueces y magistrados mediante voto personal, directo y secreto.",
+        "ca": "Modificar la Ley Orgánica del Poder Judicial perquè els dotze vocals de procedència judicial del Consejo General del Poder Judicial siguin elegits pels mateixos jutges i magistrats i d'entre aquests, mitjançant vot personal, directe i secret.",
+        "gl": "Modificar a Ley Orgánica del Poder Judicial para que os doce vogais de procedencia xudicial do Consejo General del Poder Judicial sexan elixidos por e entre os propios xuíces e maxistrados mediante voto persoal, directo e secreto.",
+        "eu": "Ley Orgánica del Poder Judicial aldatzea, Consejo General del Poder Judicialeko jatorri judizialeko hamabi kideak epaileek eta magistratuek beren artean hauta ditzaten, boto pertsonal, zuzen eta sekretuaren bidez.",
+        "oc": "Modificar era Ley Orgánica del Poder Judicial entà qu'es dotze vocaus de procedéncia judiciau deth Consejo General del Poder Judicial siguen elegits pes madeishi jutges e magistrats e d'entre eri, mejançant un vòt personau, dirècte e secrèt.",
+        "en": "Amend the Ley Orgánica del Poder Judicial so that the twelve judicial members of the Consejo General del Poder Judicial are elected by and from among judges and magistrates in a personal, direct and secret vote."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-55",
+          "quote": "Modi- ficar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo Ge- neral del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jue- ces y magistrados"
+        }
+      ]
+    },
+    {
+      "id": "vox-institutions-anti-corruption",
+      "title": {
+        "es": "Auditoría y responsabilidad por corrupción",
+        "ca": "Auditoria i responsabilitat per corrupció",
+        "gl": "Auditoría e responsabilidade por corrupción",
+        "eu": "Ustelkeriaren auditoretza eta erantzukizuna",
+        "oc": "Auditoria e responsabilitat per corrupcion",
+        "en": "Audits and liability for corruption"
+      },
+      "text": {
+        "es": "Auditar todas las administraciones para detectar indicios de corrupción y llevarlos ante la justicia. Reforzar la responsabilidad patrimonial de los cargos públicos condenados por corrupción para que respondan con todos sus bienes presentes y futuros por la totalidad del perjuicio económico causado a las arcas públicas.",
+        "ca": "Auditar totes les administracions per detectar indicis de corrupció i portar-los davant la justícia. Reforçar la responsabilitat patrimonial dels càrrecs públics condemnats per corrupció perquè responguin amb tots els seus béns presents i futurs per la totalitat del perjudici econòmic causat a les arques públiques.",
+        "gl": "Auditar todas as administracións para detectar indicios de corrupción e levalos ante a xustiza. Reforzar a responsabilidade patrimonial dos cargos públicos condenados por corrupción para que respondan con todos os seus bens presentes e futuros pola totalidade do prexuízo económico causado ás arcas públicas.",
+        "eu": "Administrazio guztiak auditatzea ustelkeria-zantzuak hauteman eta justiziaren aurrera eramateko. Ustelkeriagatik kondenatutako kargu publikoen ondare-erantzukizuna indartzea, egungo eta etorkizuneko ondasun guztiekin erantzun dezaten diru publikoari eragindako kalte ekonomiko osoagatik.",
+        "oc": "Auditar totes es administracions entà detectar indicis de corrupcion e portar aguesti indicis deuant dera justícia. Reforçar era responsabilitat patrimoniau des cargues publics condemnadi per corrupcion entà que responguen damb toti es sòns bens presents e futurs pera totalitat deth prejudici economic causat as arques publiques.",
+        "en": "Audit all public administrations to identify signs of corruption and bring them to court. Strengthen the personal financial liability of public officeholders convicted of corruption so that all their present and future assets are liable for the full financial loss to public funds."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-57",
+          "quote": "Auditoría integral de to- das las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-57",
+          "quote": "Refor- zaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes pre- sentes y futuros por la totalidad del perjuicio econó- mico causado a las arcas públicas"
+        }
+      ]
+    }
+  ]
+}

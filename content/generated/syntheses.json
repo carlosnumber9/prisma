@@ -4662,88 +4662,1694 @@
       "partyId": "vox",
       "topicId": "economy-and-taxes",
       "path": "/parties/vox/economy-and-taxes",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-economy-income-tax",
+          "title": {
+            "es": "Impuesto sobre la renta",
+            "ca": "Impost sobre la renda",
+            "gl": "Imposto sobre a renda",
+            "eu": "Errentaren gaineko zerga",
+            "oc": "Impòst sus era renda",
+            "en": "Income tax"
+          },
+          "text": {
+            "es": "Simplificar y rebajar el IRPF. Reducir el tipo aplicable a cada contribuyente o familia en función del número de hijos.",
+            "ca": "Simplificar i rebaixar l'IRPF. Reduir el tipus aplicable a cada contribuent o família en funció del nombre de fills.",
+            "gl": "Simplificar e rebaixar o IRPF. Reducir o tipo aplicable a cada contribuínte ou familia en función do número de fillos.",
+            "eu": "PFEZa sinplifikatzea eta jaistea. Zergadun edo familia bakoitzari aplikatzen zaion tasa murriztea seme-alaben kopuruaren arabera.",
+            "oc": "Simplificar e rebaishar er IRPF. Redusir eth tipe aplicable a cada contribuent o familha en foncion deth nombre de hilhs.",
+            "en": "Simplify and lower personal income tax (IRPF). Reduce the rate for each taxpayer or family according to the number of children."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-9",
+              "quote": "Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.",
+              "page": 9,
+              "printedPage": "9"
+            }
+          ]
+        },
+        {
+          "id": "vox-economy-vat-corporation-tax",
+          "title": {
+            "es": "IVA e Impuesto de Sociedades",
+            "ca": "IVA i impost sobre societats",
+            "gl": "IVE e imposto sobre sociedades",
+            "eu": "BEZa eta sozietateen gaineko zerga",
+            "oc": "IVA e impòst sus societats",
+            "en": "VAT and corporation tax"
+          },
+          "text": {
+            "es": "Rebajar los tipos reducido y general del IVA dando prioridad a los productos esenciales y de primera necesidad. Reducir el tipo del Impuesto de Sociedades.",
+            "ca": "Rebaixar els tipus reduït i general de l'IVA donant prioritat als productes essencials i de primera necessitat. Reduir el tipus de l'impost sobre societats.",
+            "gl": "Rebaixar os tipos reducido e xeral do IVE dando prioridade aos produtos esenciais e de primeira necesidade. Reducir o tipo do imposto sobre sociedades.",
+            "eu": "BEZaren tasa murriztua eta tasa orokorra jaistea, oinarrizko eta lehen beharreko produktuei lehentasuna emanda. Sozietateen gaineko zergaren tasa jaistea.",
+            "oc": "Rebaishar es tipes redusit e generau der IVA en dar prioritat as productes essenciaus e de prumèra necessitat. Redusir eth tipe der impòst sus societats.",
+            "en": "Lower the reduced and standard VAT rates, giving priority to essential and basic goods. Lower the corporation tax rate."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-9",
+              "quote": "Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.",
+              "page": 9,
+              "printedPage": "9"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-9",
+              "quote": "Reducir el tipo del Impuesto de Sociedades",
+              "page": 9,
+              "printedPage": "9"
+            }
+          ]
+        },
+        {
+          "id": "vox-economy-public-debt",
+          "title": {
+            "es": "Deuda pública",
+            "ca": "Deute públic",
+            "gl": "Débeda pública",
+            "eu": "Zor publikoa",
+            "oc": "Deute public",
+            "en": "Public debt"
+          },
+          "text": {
+            "es": "Reducir la deuda pública y compatibilizar las rebajas fiscales con la financiación de los servicios públicos esenciales mediante el control del déficit, la eliminación de gastos que VOX considera superfluos o ideológicos y el impulso al crecimiento económico.",
+            "ca": "Reduir el deute públic i compatibilitzar les rebaixes fiscals amb el finançament dels serveis públics essencials mitjançant el control del dèficit, l'eliminació de despeses que VOX considera supèrflues o ideològiques i l'impuls al creixement econòmic.",
+            "gl": "Reducir a débeda pública e compatibilizar as rebaixas fiscais co financiamento dos servizos públicos esenciais mediante o control do déficit, a eliminación de gastos que VOX considera superfluos ou ideolóxicos e o impulso ao crecemento económico.",
+            "eu": "Zor publikoa murriztea eta zerga-jaitsierak oinarrizko zerbitzu publikoen finantzaketarekin bateragarri egitea, defizita kontrolatuz, VOXek alferrikakotzat edo ideologikotzat jotzen dituen gastuak ezabatuz eta hazkunde ekonomikoa sustatuz.",
+            "oc": "Redusir eth deute public e compatibilizar es rebaishes fiscaus damb eth finançament des servicis publics essenciaus per miei deth contròtle deth deficit, era eliminacion de despenes que VOX considère superflues o ideologiques e er impuls ath creishement economic.",
+            "en": "Reduce public debt and combine tax cuts with funding for essential public services by controlling the deficit, eliminating spending that VOX considers unnecessary or ideological and promoting economic growth."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-9",
+              "quote": "Reducción de la deuda pública. Compatibilizar la re- baja de impuestos con la financiación de los servicios",
+              "page": 9,
+              "printedPage": "9"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-10",
+              "quote": "públicos esenciales, mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el impul- so del crecimiento económico.",
+              "page": 10,
+              "printedPage": "10"
+            }
+          ]
+        },
+        {
+          "id": "vox-economy-research-innovation",
+          "title": {
+            "es": "Investigación e innovación empresarial",
+            "ca": "Recerca i innovació empresarial",
+            "gl": "Investigación e innovación empresarial",
+            "eu": "Ikerketa eta enpresen berrikuntza",
+            "oc": "Recèrca e innovacion empresariau",
+            "en": "Research and business innovation"
+          },
+          "text": {
+            "es": "Reforzar la inversión en I+D+i, los incentivos fiscales a la innovación empresarial y la colaboración entre centros de investigación y empresas. Facilitar la transferencia de conocimiento al tejido productivo, especialmente a las pymes, y preparar un plan para recuperar el talento que se marchó por falta de oportunidades.",
+            "ca": "Reforçar la inversió en R+D+I, els incentius fiscals a la innovació empresarial i la col·laboració entre centres de recerca i empreses. Facilitar la transferència de coneixement al teixit productiu, especialment a les pimes, i preparar un pla per recuperar el talent que va marxar per manca d'oportunitats.",
+            "gl": "Reforzar o investimento en I+D+i, os incentivos fiscais á innovación empresarial e a colaboración entre centros de investigación e empresas. Facilitar a transferencia de coñecemento ao tecido produtivo, especialmente ás pemes, e preparar un plan para recuperar o talento que marchou por falta de oportunidades.",
+            "eu": "I+G+b-ko inbertsioa, enpresen berrikuntzarako zerga-pizgarriak eta ikerketa-zentroen eta enpresen arteko lankidetza indartzea. Ekoizpen-sarera ezagutza transferitzea erraztea, bereziki ETEetara, eta aukera faltagatik alde egin zuten talentudunak itzultzeko plana prestatzea.",
+            "oc": "Reforçar era inversion en I+D+i, es incentius fiscaus ara innovacion empresariau e era collaboracion entre centres de recèrca e empreses. Facilitar era transferéncia de coneishement ath teishut productiu, especiaument as pimes, e preparar un plan entà recuperar eth talent que se n'anèc per manca d'oportunitats.",
+            "en": "Strengthen investment in research, development and innovation, tax incentives for business innovation and collaboration between research centres and businesses. Help transfer knowledge to businesses, especially SMEs, and prepare a plan to bring back talent that left for lack of opportunities."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-10",
+              "quote": "Reforzar la inversión en I+D+i, los incenti- vos fiscales a la innovación empresarial, la colaboración entre centros de investigación y empresas e industrias",
+              "page": 10,
+              "printedPage": "10"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-10",
+              "quote": "y la transferencia de conocimiento a nuestro tejido pro- ductivo, especialmente a las pymes.",
+              "page": 10,
+              "printedPage": "10"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-10",
+              "quote": "Plan para recupe- rar el talento que se ha tenido que marchar ante la falta de oportunidades.",
+              "page": 10,
+              "printedPage": "10"
+            }
+          ]
+        },
+        {
+          "id": "vox-economy-market-unity",
+          "title": {
+            "es": "Unidad de mercado",
+            "ca": "Unitat de mercat",
+            "gl": "Unidade de mercado",
+            "eu": "Merkatu-batasuna",
+            "oc": "Unitat de mercat",
+            "en": "Market unity"
+          },
+          "text": {
+            "es": "Establecer, mediante una Ley de Unidad de Mercado, que las empresas, profesionales y productos que ya operen legalmente en una comunidad autónoma puedan hacerlo en el resto del país sin trámites, licencias ni registros adicionales.",
+            "ca": "Establir, mitjançant una Ley de Unidad de Mercado, que les empreses, els professionals i els productes que ja operin legalment en una comunitat autònoma ho puguin fer a la resta del país sense tràmits, llicències ni registres addicionals.",
+            "gl": "Establecer, mediante unha Ley de Unidad de Mercado, que as empresas, profesionais e produtos que xa operen legalmente nunha comunidade autónoma poidan facelo no resto do país sen trámites, licenzas nin rexistros adicionais.",
+            "eu": "Ley de Unidad de Mercado legearen bidez, autonomia-erkidego batean legez diharduten enpresek, profesionalek eta produktuek gainerako lurraldean ere jardun ahal izatea ezartzea, izapide, lizentzia edo erregistro gehigarririk gabe.",
+            "oc": "Establir, mejançant ua Ley de Unidad de Mercado, qu'es empreses, professionaus e productes qu'opèren ja legaument en ua comunitat autonòma poguen operar ena rèsta deth país sense tramits, licéncies ne registres addicionaus.",
+            "en": "Use a Ley de Unidad de Mercado to let businesses, professionals and products already operating legally in one autonomous community operate throughout the country without additional procedures, licences or registrations."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-28",
+              "quote": "Ley de Unidad de Mercado.",
+              "page": 28,
+              "printedPage": "28"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-28",
+              "quote": "Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el res- to del territorio nacional sin trámites, licencias ni re- gistros adicionales.",
+              "page": 28,
+              "printedPage": "28"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--education",
       "partyId": "vox",
       "topicId": "education",
       "path": "/parties/vox/education",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-education-common-framework",
+          "title": {
+            "es": "Currículo, evaluación y enseñanza en español",
+            "ca": "Currículum, avaluació i ensenyament en castellà",
+            "gl": "Currículo, avaliación e ensino en castelán",
+            "eu": "Curriculuma, ebaluazioa eta gaztelaniazko irakaskuntza",
+            "oc": "Curriculum, avaloracion e ensenhament en castelhan",
+            "en": "Curriculum, assessments and teaching in Spanish"
+          },
+          "text": {
+            "es": "Unificar el currículo, las evaluaciones nacionales y la inspección para igualar las oportunidades de todos los alumnos españoles. Establecer reválidas y una EVAU única, y garantizar la enseñanza en español en todo el país.",
+            "ca": "Unificar el currículum, les avaluacions nacionals i la inspecció per igualar les oportunitats de tots els alumnes espanyols. Establir revàlides i una EVAU única, i garantir l'ensenyament en castellà a tot el país.",
+            "gl": "Unificar o currículo, as avaliacións nacionais e a inspección para igualar as oportunidades de todo o alumnado español. Establecer reválidas e unha EVAU única, e garantir o ensino en castelán en todo o país.",
+            "eu": "Curriculuma, estatu mailako ebaluazioak eta ikuskaritza bateratzea, ikasle espainiar guztiek aukera berberak izan ditzaten. Errebalidak eta EVAU bakarra ezartzea, eta gaztelaniazko irakaskuntza herrialde osoan bermatzea.",
+            "oc": "Unificar eth curriculum, es avaloracions nacionaus e era inspeccion entà igualar es oportunitats de toti es alumnes espanhòus. Establir revàlides e ua EVAU unica, e garantir er ensenhament en castelhan en tot eth país.",
+            "en": "Unify the curriculum, national assessments and school inspection to give all Spanish students equal opportunities. Introduce qualifying exams and a single university entrance assessment (EVAU), and guarantee teaching in Spanish nationwide."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-41",
+              "quote": "Igualar las oportunidades para todos los alumnos es- pañoles: unificar currículo, evaluaciones nacionales e inspección. Reválidas y EVAU única. Se garantizará la educación en español en todo el territorio nacional.",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "vox-education-school-choice",
+          "title": {
+            "es": "Elección de centro y prioridad nacional",
+            "ca": "Elecció de centre i prioritat nacional",
+            "gl": "Elección de centro e prioridade nacional",
+            "eu": "Ikastetxea aukeratzea eta espainiarren lehentasuna",
+            "oc": "Eleccion de centre e prioritat nacionau",
+            "en": "Choice of school and national priority"
+          },
+          "text": {
+            "es": "Garantizar la libre elección de centro en todos los niveles, sin que la situación económica o social sea un impedimento, y establecer un distrito escolar único. Dar prioridad a los españoles en la elección de centro y en el acceso a ayudas y subvenciones educativas, plazas de guardería y becas de comedor y transporte.",
+            "ca": "Garantir la lliure elecció de centre a tots els nivells, sense que la situació econòmica o social sigui un impediment, i establir un districte escolar únic. Donar prioritat als espanyols en l'elecció de centre i en l'accés a ajuts i subvencions educatives, places d'escola bressol i beques de menjador i transport.",
+            "gl": "Garantir a libre elección de centro en todos os niveis, sen que a situación económica ou social sexa un impedimento, e establecer un distrito escolar único. Dar prioridade aos españois na elección de centro e no acceso a axudas e subvencións educativas, prazas de gardaría e bolsas de comedor e transporte.",
+            "eu": "Maila guztietan ikastetxea libreki aukeratzea bermatzea, egoera ekonomikoa edo soziala oztopo izan gabe, eta eskola-barruti bakarra ezartzea. Espainiarrei lehentasuna ematea ikastetxea aukeratzeko eta hezkuntza-laguntzak eta -dirulaguntzak, haurtzaindegiko plazak eta jantoki- eta garraio-bekak eskuratzeko.",
+            "oc": "Garantir era liura eleccion de centre en toti es nivèus, sense qu'era situacion economica o sociau sigue un impediment, e establir un districte escolar unic. Dar prioritat as espanhòus ena eleccion de centre e en accès a ajudes e subvencions educatives, places de guarderia e beques de minjador e transpòrt.",
+            "en": "Guarantee free choice of educational institution at every level regardless of financial or social circumstances, and establish a single school admissions district. Give Spanish nationals priority in choosing a school and accessing education grants and subsidies, nursery places, and meal and transport grants."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-41",
+              "quote": "Garantizar la libre elección de centro educa- tivo en todos los niveles",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-41",
+              "quote": "sin que su situa- ción económica o social sea un impedimento para ello.",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-42",
+              "quote": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc.",
+              "page": 42,
+              "printedPage": "42"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-42",
+              "quote": "Distrito único y libre elección de centro escolar para los padres.",
+              "page": 42,
+              "printedPage": "42"
+            }
+          ]
+        },
+        {
+          "id": "vox-education-scholarships",
+          "title": {
+            "es": "Becas de estudio",
+            "ca": "Beques d'estudi",
+            "gl": "Bolsas de estudo",
+            "eu": "Ikasketa-bekak",
+            "oc": "Beques d'estudi",
+            "en": "Study grants"
+          },
+          "text": {
+            "es": "Mejorar las becas universitarias y preuniversitarias para que ningún español se quede sin estudiar por falta de recursos económicos.",
+            "ca": "Millorar les beques universitàries i preuniversitàries perquè cap espanyol es quedi sense estudiar per manca de recursos econòmics.",
+            "gl": "Mellorar as bolsas universitarias e preuniversitarias para que ningún español quede sen estudar por falta de recursos económicos.",
+            "eu": "Unibertsitateko eta unibertsitate aurreko bekak hobetzea, baliabide ekonomikorik ezagatik espainiarrik ikasi ezinik gera ez dadin.",
+            "oc": "Melhorar es beques universitàries e preuniversitàries entà que cap espanhòu se quede sense estudiar per manca de recorsi economics.",
+            "en": "Improve university and pre-university grants so that no Spanish national is prevented from studying by a lack of financial resources."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-41",
+              "quote": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos. Mejorar el sistema de becas en las etapas universitaria y preuniversitaria",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "vox-education-lomloe",
+          "title": {
+            "es": "LOMLOE y convivencia en el aula",
+            "ca": "LOMLOE i convivència a l'aula",
+            "gl": "LOMLOE e convivencia na aula",
+            "eu": "LOMLOE eta ikasgelako bizikidetza",
+            "oc": "LOMLOE e convivéncia ena aula",
+            "en": "LOMLOE and classroom conduct"
+          },
+          "text": {
+            "es": "Derogar la LOMLOE y reforzar las matemáticas, la lectura, las humanidades y las ciencias. Eliminar los móviles en clase, reforzar la autoridad docente y poner en marcha un plan nacional contra el acoso escolar y el ciberacoso.",
+            "ca": "Derogar la LOMLOE i reforçar les matemàtiques, la lectura, les humanitats i les ciències. Eliminar els mòbils a classe, reforçar l'autoritat docent i posar en marxa un pla nacional contra l'assetjament escolar i el ciberassetjament.",
+            "gl": "Derrogar a LOMLOE e reforzar as matemáticas, a lectura, as humanidades e as ciencias. Eliminar os móbiles na clase, reforzar a autoridade docente e poñer en marcha un plan nacional contra o acoso escolar e o ciberacoso.",
+            "eu": "LOMLOE indargabetzea eta matematika, irakurketa, humanitateak eta zientziak indartzea. Ikasgelan sakelakoak kentzea, irakasleen autoritatea indartzea eta eskola-jazarpenaren eta ziberjazarpenaren aurkako plan nazionala abiatzea.",
+            "oc": "Derogar era LOMLOE e reforçar es matematiques, era lectura, es umanitats e es sciéncies. Eliminar es mobils en classe, reforçar era autoritat deth professorat e méter en marcha un plan nacionau contra er assetjament escolar e eth ciberassetjament.",
+            "en": "Repeal the LOMLOE and strengthen mathematics, reading, humanities and science. Remove mobile phones from class, strengthen teachers' authority and launch a national plan against school bullying and cyberbullying."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-41",
+              "quote": "Derogación de la LOMLOE",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-41",
+              "quote": "Potenciación de las matemáti- cas, la lectura, las humanidades y las ciencias.",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-41",
+              "quote": "Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan nacional contra el acoso escolar y el ciberacoso.",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "vox-education-class-limits",
+          "title": {
+            "es": "Límites por aula y nivelación",
+            "ca": "Límits per aula i anivellament",
+            "gl": "Límites por aula e nivelación",
+            "eu": "Ikasgelako mugak eta maila egokitzeko gelak",
+            "oc": "Limits per aula e anivelament",
+            "en": "Classroom limits and catch-up classes"
+          },
+          "text": {
+            "es": "Fijar un máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español. Crear aulas de nivelación para que quienes se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase.",
+            "ca": "Fixar un màxim per aula d'alumnes procedents d'altres cultures o amb domini insuficient del castellà. Crear aules d'anivellament perquè els qui s'incorporin tard al sistema espanyol assoleixin el nivell requerit abans d'integrar-se a la seva classe.",
+            "gl": "Fixar un máximo por aula de alumnado procedente doutras culturas ou cun dominio insuficiente do castelán. Crear aulas de nivelación para que quen se incorpore tarde ao sistema español acade o nivel requirido antes de se integrar na súa clase.",
+            "eu": "Beste kultura batzuetatik datozen edo gaztelania behar adina menderatzen ez duten ikasleen gehieneko kopurua ezartzea ikasgelako. Maila egokitzeko gelak sortzea Espainiako sisteman berandu sartzen diren ikasleek eskatutako maila lor dezaten beren ikasgelan sartu aurretik.",
+            "oc": "Fixar un maxim per aula d'alumnes que vien d'autes cultures o damb un domeni insufisent deth castelhan. Crear aules d'anivelament entà qu'es que s'incorpòren tard ath sistèma espanhòu arriben ath nivèu requerit abans d'integrar-se ena sua classe.",
+            "en": "Set a maximum number per classroom of students from other cultures or with insufficient Spanish proficiency. Create catch-up classes so students who enter the Spanish education system late can reach the required level before joining their class."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-42",
+              "quote": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español.",
+              "page": 42,
+              "printedPage": "42"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-42",
+              "quote": "Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tar- de al sistema español alcancen el nivel requerido antes de integrarse en su clase",
+              "page": 42,
+              "printedPage": "42"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--employment",
       "partyId": "vox",
       "topicId": "employment",
       "path": "/parties/vox/employment",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-employment-self-employed-contributions",
+          "title": {
+            "es": "Cuota de autónomos",
+            "ca": "Quota d'autònoms",
+            "gl": "Cota de autónomos",
+            "eu": "Autonomoen kuota",
+            "oc": "Quòta des autonòms",
+            "en": "Self-employed contributions"
+          },
+          "text": {
+            "es": "Fijar una cuota de cero euros para los autónomos cuyos ingresos no alcancen el salario mínimo interprofesional. Para quienes superen ese umbral, establecer una cuota progresiva desde 50 euros en función de sus ingresos.",
+            "ca": "Fixar una quota de zero euros per als autònoms amb ingressos inferiors al salari mínim interprofessional. Per als qui superin aquest llindar, establir una quota progressiva des de 50 euros en funció dels ingressos.",
+            "gl": "Fixar unha cota de cero euros para os autónomos cuxos ingresos non cheguen ao salario mínimo interprofesional. Para quen supere ese limiar, establecer unha cota progresiva desde 50 euros en función dos ingresos.",
+            "eu": "Lanbide arteko gutxieneko soldatara iristen ez diren diru-sarrerak dituzten autonomoei zero euroko kuota ezartzea. Atalase hori gainditzen dutenentzat, diru-sarreren araberako kuota progresiboa ezartzea, 50 eurotik hasita.",
+            "oc": "Fixar ua quòta de zèro èuros entàs autonòms qu'an ingrèssi inferiors ath salari minim interprofessionau. Entàs que supèren aguest lindau, establir ua quòta progressiva a compdar de 50 èuros en foncion des ingrèssi.",
+            "en": "Set contributions at zero euros for self-employed workers who earn less than the statutory minimum wage. For those above that threshold, introduce a progressive contribution starting at €50 and based on their income."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-9",
+              "quote": "Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo In- terprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus in- gresos.",
+              "page": 9,
+              "printedPage": "9"
+            }
+          ]
+        },
+        {
+          "id": "vox-employment-labour-law",
+          "title": {
+            "es": "Derogación de legislación laboral",
+            "ca": "Derogació de legislació laboral",
+            "gl": "Derrogación de lexislación laboral",
+            "eu": "Lan-legeria indargabetzea",
+            "oc": "Derogacion dera legislacion laborau",
+            "en": "Repeal of labour legislation"
+          },
+          "text": {
+            "es": "Derogar la legislación laboral del Gobierno de Sánchez.",
+            "ca": "Derogar la legislació laboral del Govern de Sánchez.",
+            "gl": "Derrogar a lexislación laboral do Goberno de Sánchez.",
+            "eu": "Sánchezen Gobernuaren lan-legeria indargabetzea.",
+            "oc": "Derogar era legislacion laborau deth Govèrn de Sánchez.",
+            "en": "Repeal the Sánchez government's labour legislation."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-13",
+              "quote": "Derogar la legislación laboral de Sánchez",
+              "page": 13,
+              "printedPage": "13"
+            }
+          ]
+        },
+        {
+          "id": "vox-employment-industrial-jobs",
+          "title": {
+            "es": "Empleo industrial y reindustrialización",
+            "ca": "Ocupació industrial i reindustrialització",
+            "gl": "Emprego industrial e reindustrialización",
+            "eu": "Industria-enplegua eta berrindustrializazioa",
+            "oc": "Emplec industriau e reindustrializacion",
+            "en": "Industrial jobs and reindustrialisation"
+          },
+          "text": {
+            "es": "Aprobar un Plan Nacional de Reindustrialización para contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo industrial y el bajo peso de la industria en el PIB. Atraer inversiones estratégicas que favorezcan la economía nacional y el empleo.",
+            "ca": "Aprovar un Plan Nacional de Reindustrialización per contrarestar les deslocalitzacions, la competència deslleial, la pèrdua d'ocupació industrial i el pes reduït de la indústria en el PIB. Atraure inversions estratègiques que afavoreixin l'economia nacional i l'ocupació.",
+            "gl": "Aprobar un Plan Nacional de Reindustrialización para contrarrestar as deslocalizacións, a competencia desleal, a perda de emprego industrial e o baixo peso da industria no PIB. Atraer investimentos estratéxicos que favorezan a economía nacional e o emprego.",
+            "eu": "Plan Nacional de Reindustrialización onartzea, deslokalizazioei, lehia desleialari, industria-enpleguaren galerari eta industriak BPGan duen pisu txikiari aurre egiteko. Ekonomia nazionala eta enplegua sustatzen dituzten inbertsio estrategikoak erakartzea.",
+            "oc": "Aprovar un Plan Nacional de Reindustrialización entà contrarestar es deslocalizacions, era competéncia desleiau, era pèrta d'emplec industriau e eth pes redusit dera indústria en PIB. Atrèir inversions estrategiques qu'afavorisquen era economia nacionau e er emplec.",
+            "en": "Approve a Plan Nacional de Reindustrialización to address offshoring, unfair competition, industrial job losses and industry's low share of GDP. Attract strategic investment that supports the national economy and employment."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-12",
+              "quote": "Aprobación de un Plan Nacional de Reindustrializa- ción enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo indus- trial y la baja participación de la industria en el PIB.",
+              "page": 12,
+              "printedPage": "12"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-12",
+              "quote": "Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo.",
+              "page": 12,
+              "printedPage": "12"
+            }
+          ]
+        },
+        {
+          "id": "vox-employment-rural-succession",
+          "title": {
+            "es": "Relevo generacional en el sector primario",
+            "ca": "Relleu generacional al sector primari",
+            "gl": "Relevo xeracional no sector primario",
+            "eu": "Belaunaldi-erreleboa lehen sektorean",
+            "oc": "Relèu generacionau en sector primari",
+            "en": "Generational renewal in the primary sector"
+          },
+          "text": {
+            "es": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares apoyando la incorporación de jóvenes al sector primario y a las cooperativas agroalimentarias. Impulsar la formación profesional del sector mediante programas públicos y concertados.",
+            "ca": "Afavorir el relleu generacional i la continuïtat de les explotacions familiars donant suport a la incorporació de joves al sector primari i a les cooperatives agroalimentàries. Impulsar la formació professional del sector amb programes públics i concertats.",
+            "gl": "Favorecer o relevo xeracional e a continuidade das explotacións familiares apoiando a incorporación da mocidade ao sector primario e ás cooperativas agroalimentarias. Impulsar a formación profesional do sector mediante programas públicos e concertados.",
+            "eu": "Belaunaldi-erreleboa eta familia-ustiategien jarraipena sustatzea, gazteak lehen sektorean eta nekazaritzako elikagaien kooperatibetan sartzen lagunduz. Sektoreko lanbide heziketa bultzatzea programa publikoen eta itunduen bidez.",
+            "oc": "Afavorir eth relèu generacionau e era continuitat des explotacions familiares en tot dar supòrt ara incorporacion de joeni ath sector primari e as cooperatives agroalimentàries. Promòir era formacion professionau deth sector mejançant programes publics e concertadi.",
+            "en": "Support generational renewal and continuity on family holdings by helping young people enter the primary sector and agri-food cooperatives. Promote vocational training in the sector through public and publicly subsidised programmes."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-35",
+              "quote": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares en el mundo rural apoyan- do la incorporación de los jóvenes al sector primario y a las cooperativas agroalimentarias.",
+              "page": 35,
+              "printedPage": "35"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-35",
+              "quote": "Impulso de la Forma- ción Profesional en el sector primario a través de pro- gramas públicos y concertados.",
+              "page": 35,
+              "printedPage": "35"
+            }
+          ]
+        },
+        {
+          "id": "vox-employment-mothers-return",
+          "title": {
+            "es": "Reincorporación laboral de madres",
+            "ca": "Reincorporació laboral de mares",
+            "gl": "Reincorporación laboral das nais",
+            "eu": "Amak lanera itzultzea",
+            "oc": "Reincorporacion laborau des mairs",
+            "en": "Mothers returning to work"
+          },
+          "text": {
+            "es": "Facilitar la formación, la permanencia, la promoción y la reincorporación al trabajo de las madres que interrumpieron su carrera por maternidad o para cuidar a familiares y desean retomarla.",
+            "ca": "Facilitar la formació, la permanència, la promoció i la reincorporació a la feina de les mares que van interrompre la carrera per maternitat o per tenir cura de familiars i volen reprendre-la.",
+            "gl": "Facilitar a formación, a permanencia, a promoción e a reincorporación ao traballo das nais que interromperon a súa carreira por maternidade ou por coidar de familiares e desexan retomala.",
+            "eu": "Amatasunagatik edo senideak zaintzeko lanbide-ibilbidea eten eta berriro ekin nahi dioten amen prestakuntza, laneko jarraipena, lanbide-sustapena eta lanera itzultzea erraztea.",
+            "oc": "Facilitar era formacion, era permanéncia, era promocion e era reincorporacion ath trabalh des mairs qu'interromperen era sua carrèra pera maternitat o entà tier compde de familiars e la vòlen repréner.",
+            "en": "Make it easier for mothers who paused their careers for maternity or to care for relatives and want to resume them to train, stay in work, advance and return to work."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-52",
+              "quote": "facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla.",
+              "page": 52,
+              "printedPage": "52"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--environment-and-energy",
       "partyId": "vox",
       "topicId": "environment-and-energy",
       "path": "/parties/vox/environment-and-energy",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-energy-nuclear",
+          "title": {
+            "es": "Centrales nucleares",
+            "ca": "Centrals nuclears",
+            "gl": "Centrais nucleares",
+            "eu": "Zentral nuklearrak",
+            "oc": "Centraus nucleares",
+            "en": "Nuclear power stations"
+          },
+          "text": {
+            "es": "Recuperar con urgencia el plan nuclear nacional y derogar el calendario de cierre para mantener las centrales actuales. Promover estudios urgentes para instalar centrales en emplazamientos disponibles junto a las actuales y ejecutar lo antes posible los proyectos que sean viables.",
+            "ca": "Recuperar amb urgència el pla nuclear nacional i derogar el calendari de tancament per mantenir les centrals actuals. Promoure estudis urgents per instal·lar centrals en emplaçaments disponibles al costat de les actuals i executar tan aviat com sigui possible els projectes que siguin viables.",
+            "gl": "Recuperar con urxencia o plan nuclear nacional e derrogar o calendario de peche para manter as centrais actuais. Promover estudos urxentes para instalar centrais en localizacións dispoñibles a carón das actuais e executar canto antes os proxectos que sexan viables.",
+            "eu": "Plan nuklear nazionala premiaz berreskuratzea eta ixteko egutegia indargabetzea egungo zentralei eusteko. Egungo zentralen ondoko kokaleku erabilgarrietan zentralak ezartzeko premiazko azterlanak sustatzea eta proiektu bideragarriak ahalik eta lasterren gauzatzea.",
+            "oc": "Recuperar damb urgéncia eth plan nucleare nacionau e derogar eth calendari de barrament entà mantier es centraus actuaus. Promòir estudis urgents entà installar centraus en emplaçaments disponibles ath costat des actuaus e executar tan lèu coma sigue possible es projèctes que siguen viables.",
+            "en": "Restore the national nuclear plan urgently and repeal the closure schedule to keep existing plants in operation. Promote urgent studies on building plants at available sites next to existing ones and implement viable projects as soon as possible."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-12",
+              "quote": "Recuperar urgentemente el plan nuclear nacional.",
+              "page": 12,
+              "printedPage": "12"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-12",
+              "quote": "Se garantizará la supervivencia de las centrales nu- cleares actuales, derogando el calendario de cierre.",
+              "page": 12,
+              "printedPage": "12"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-12",
+              "quote": "Se promoverán estudios urgentes para instalar cen- trales nucleares en los emplazamientos disponibles adyacentes a las actuales.",
+              "page": 12,
+              "printedPage": "12"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-12",
+              "quote": "Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible.",
+              "page": 12,
+              "printedPage": "12"
+            }
+          ]
+        },
+        {
+          "id": "vox-energy-grid",
+          "title": {
+            "es": "Inversión en la red eléctrica",
+            "ca": "Inversió en la xarxa elèctrica",
+            "gl": "Investimento na rede eléctrica",
+            "eu": "Sare elektrikorako inbertsioa",
+            "oc": "Inversion ena hilat electrica",
+            "en": "Electricity grid investment"
+          },
+          "text": {
+            "es": "Suprimir el tope regulatorio a la inversión en la red eléctrica. Fijar plazos máximos para autorizar la construcción de líneas, subestaciones y puntos de conexión, con silencio administrativo positivo si vence el plazo sin resolución.",
+            "ca": "Suprimir el topall regulador a la inversió en la xarxa elèctrica. Fixar terminis màxims per autoritzar la construcció de línies, subestacions i punts de connexió, amb silenci administratiu positiu si venç el termini sense resolució.",
+            "gl": "Suprimir o límite regulatorio ao investimento na rede eléctrica. Fixar prazos máximos para autorizar a construción de liñas, subestacións e puntos de conexión, con silencio administrativo positivo se vence o prazo sen resolución.",
+            "eu": "Sare elektrikorako inbertsioaren arauzko muga kentzea. Lineak, azpiestazioak eta konexio-puntuak eraikitzea baimentzeko gehieneko epeak ezartzea, epea ebazpenik gabe amaituz gero administrazio-isiltasun positiboarekin.",
+            "oc": "Suprimir eth limit normatiu ara inversion ena hilat electrica. Fixar tèrmes maxims entà autorizar era construccion de linhes, subestacions e punts de connexion, damb silenci administratiu positiu s'eth tèrme venç sense resolucion.",
+            "en": "Remove the regulatory cap on electricity grid investment. Set binding deadlines for authorising the construction of lines, substations and connection points, with approval deemed granted if the deadline passes without a decision."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-11",
+              "quote": "Eliminar el tope a la inversión en redes",
+              "page": 11,
+              "printedPage": "11"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-11",
+              "quote": "las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo posi- tivo.",
+              "page": 11,
+              "printedPage": "11"
+            }
+          ]
+        },
+        {
+          "id": "vox-energy-climate-regulation",
+          "title": {
+            "es": "Normas climáticas",
+            "ca": "Normes climàtiques",
+            "gl": "Normas climáticas",
+            "eu": "Klima-arauak",
+            "oc": "Normes climatiques",
+            "en": "Climate rules"
+          },
+          "text": {
+            "es": "Revertir las normas inspiradas en el Pacto Verde Europeo o la Agenda 2030 que VOX considera perjudiciales para la industria, como lo que el programa describe como una prohibición de los motores de combustión y los impuestos sobre las emisiones de CO₂. Acabar también con la imposición de zonas de bajas emisiones.",
+            "ca": "Revertir les normes inspirades en el Pacte Verd Europeu o l'Agenda 2030 que VOX considera perjudicials per a la indústria, com allò que el programa descriu com una prohibició dels motors de combustió i els impostos sobre les emissions de CO₂. Acabar també amb la imposició de zones de baixes emissions.",
+            "gl": "Reverter as normas inspiradas no Pacto Verde Europeo ou na Axenda 2030 que VOX considera prexudiciais para a industria, como o que o programa describe como unha prohibición dos motores de combustión e os impostos sobre as emisións de CO₂. Acabar tamén coa imposición de zonas de baixas emisións.",
+            "eu": "VOXek industriarentzat kaltegarritzat jotzen dituen eta Europako Itun Berdean edo 2030 Agendan oinarritutako arauak indargabetzea, hala nola programak errekuntza-motorren debekutzat jotzen duena eta CO₂ isurien gaineko zergak. Emisio gutxiko eremuak ezartzeko betebeharra ere kentzea.",
+            "oc": "Revertir es normes inspirades en Pacte Verd Europèu o ena Agenda 2030 que VOX considère prejudiciaus entara indústria, com çò qu'eth programa descriu coma ua prohibicion des motors de combustion e es impòsti sus es emissions de CO₂. Acabar tanben damb era imposicion de zònes de baishes emissions.",
+            "en": "Reverse rules inspired by the European Green Deal or the 2030 Agenda that VOX considers harmful to industry, including what the programme describes as a ban on combustion engines and taxes on CO₂ emissions. Also end the mandatory imposition of low-emission zones."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-11",
+              "quote": "Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de",
+              "page": 11,
+              "printedPage": "11"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-12",
+              "quote": "combustión, impuestos a las emisiones de CO2) ins- piradas en el Pacto Verde Europeo, la Agenda 2030",
+              "page": 12,
+              "printedPage": "12"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-29",
+              "quote": "Acabar con todas las imposiciones climáticas como el Pacto Verde",
+              "page": 29,
+              "printedPage": "29"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-29",
+              "quote": "libertad de circulación de los españoles, como la impo- sición de ZBE.",
+              "page": 29,
+              "printedPage": "29"
+            }
+          ]
+        },
+        {
+          "id": "vox-environment-wildfires",
+          "title": {
+            "es": "Prevención y lucha contra incendios",
+            "ca": "Prevenció i lluita contra incendis",
+            "gl": "Prevención e loita contra incendios",
+            "eu": "Suteen prebentzioa eta aurkako borroka",
+            "oc": "Prevencion e luta contra es incendis",
+            "en": "Wildfire prevention and response"
+          },
+          "text": {
+            "es": "Limpiar y aprovechar los montes, y revisar las restricciones ambientales que dificultan la prevención o el aprovechamiento forestal. Establecer protocolos comunes, coordinar bomberos y protección civil de distintas administraciones, aumentar los medios humanos, materiales y tecnológicos y endurecer las penas por provocar incendios.",
+            "ca": "Netejar i aprofitar els boscos, i revisar les restriccions ambientals que dificulten la prevenció o l'aprofitament forestal. Establir protocols comuns, coordinar bombers i protecció civil de diverses administracions, augmentar els mitjans humans, materials i tecnològics i endurir les penes per provocar incendis.",
+            "gl": "Limpar e aproveitar os montes, e revisar as restricións ambientais que dificultan a prevención ou o aproveitamento forestal. Establecer protocolos comúns, coordinar bombeiros e protección civil de distintas administracións, aumentar os medios humanos, materiais e tecnolóxicos e endurecer as penas por provocar incendios.",
+            "eu": "Mendiak garbitzea eta baliatzea, eta prebentzioa edo baso-aprobetxamendua zailtzen duten ingurumen-murrizketak berrikustea. Protokolo komunak ezartzea, administrazio desberdinetako suhiltzaileak eta babes zibila koordinatzea, giza baliabideak eta baliabide material eta teknologikoak handitzea eta suteak eragitegatiko zigorrak gogortzea.",
+            "oc": "Netejar e aprofitar es montanhes e revisar es restriccions ambientaus que dificulten era prevencion o er aprofitament forestau. Establir protocòus comuns, coordinar pompièrs e proteccion civiu de diferentes administracions, aumentar es mejans umans, materiaus e tecnologics e endurir es penes per provocar incendis.",
+            "en": "Clear and make use of woodland, and review environmental restrictions that hinder prevention or forest management. Establish common protocols, coordinate firefighters and civil protection across administrations, increase staffing, equipment and technology, and toughen penalties for starting fires."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-34",
+              "quote": "Limpieza y aprovecha- miento de los montes. Revisión de las restricciones am- bientales que obstaculizan las labores de prevención y aprovechamiento forestal.",
+              "page": 34,
+              "printedPage": "34"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-34",
+              "quote": "protocolos comunes, coordinación de bom- beros y protección civil de distintas administraciones y aumento de los medios humanos, materiales y tecnoló- gicos.",
+              "page": 34,
+              "printedPage": "34"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-34",
+              "quote": "Endurecimiento de las penas a los incendiarios.",
+              "page": 34,
+              "printedPage": "34"
+            }
+          ]
+        },
+        {
+          "id": "vox-environment-national-water-plan",
+          "title": {
+            "es": "Plan Nacional del Agua",
+            "ca": "Plan Nacional del Agua",
+            "gl": "Plan Nacional del Agua",
+            "eu": "Plan Nacional del Agua",
+            "oc": "Plan Nacional del Agua",
+            "en": "Plan Nacional del Agua"
+          },
+          "text": {
+            "es": "Interconectar todas las cuencas para gestionar el agua de forma más eficiente, contribuir a reactivar el sector primario e impulsar y modernizar el regadío y la producción de energía.",
+            "ca": "Interconnectar totes les conques per gestionar l'aigua més eficientment, contribuir a reactivar el sector primari i impulsar i modernitzar el regadiu i la producció d'energia.",
+            "gl": "Interconectar todas as concas para xestionar a auga de forma máis eficiente, contribuír a reactivar o sector primario e impulsar e modernizar o regadío e a produción de enerxía.",
+            "eu": "Arro guztiak elkarrekin lotzea ura eraginkortasun handiagoz kudeatzeko, lehen sektorea suspertzen laguntzeko eta ureztapena eta energia-ekoizpena bultzatu eta modernizatzeko.",
+            "oc": "Interconnectar totes es conques entà gestionar era aigua de manèra mès eficienta, contribuïr a reactivar eth sector primari e impulsar e modernizar eth regadiu e era produccion d'energia.",
+            "en": "Interconnect all river basins to manage water more efficiently, help revive the primary sector and promote and modernise irrigation and energy production."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-61",
+              "quote": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a",
+              "page": 61,
+              "printedPage": "61"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-62",
+              "quote": "nuestro sector primario, así como para impulsar y mo- dernizar los regadíos y la producción de energía.",
+              "page": 62,
+              "printedPage": "62"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--healthcare",
       "partyId": "vox",
       "topicId": "healthcare",
       "path": "/parties/vox/healthcare",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-healthcare-eligibility",
+          "title": {
+            "es": "Acceso a la sanidad pública",
+            "ca": "Accés a la sanitat pública",
+            "gl": "Acceso á sanidade pública",
+            "eu": "Osasun zerbitzu publikoetarako sarbidea",
+            "oc": "Accès ara sanitat publica",
+            "en": "Access to public healthcare"
+          },
+          "text": {
+            "es": "Dotar al sistema sanitario de medios para atender a los españoles y excluir a los extranjeros en situación irregular, salvo en casos de urgencia grave. Auditar el coste de la inmigración masiva en la sanidad pública.",
+            "ca": "Dotar el sistema sanitari de mitjans per atendre els espanyols i excloure els estrangers en situació irregular, llevat dels casos d'urgència greu. Auditar el cost de la immigració massiva en la sanitat pública.",
+            "gl": "Dotar o sistema sanitario de medios para atender os españois e excluír as persoas estranxeiras en situación irregular, agás en casos de urxencia grave. Auditar o custo da inmigración masiva na sanidade pública.",
+            "eu": "Osasun sistemari espainiarrak artatzeko baliabideak ematea eta egoera irregularrean dauden atzerritarrak kanpo uztea, larrialdi larrietan izan ezik. Immigrazio masiboak osasun sistema publikoan duen kostua auditoretza bidez aztertzea.",
+            "oc": "Dotar eth sistèma sanitari de mejans entà atier as espanhòus e excludir es estrangèrs en situacion irregulara, exceptat en casi d'urgéncia grèu. Auditar eth còst dera immigracion massiva ena sanitat publica.",
+            "en": "Give the health system resources to care for Spanish nationals and exclude foreign nationals without regular immigration status, except in serious emergencies. Audit the cost of mass immigration to public healthcare."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-19",
+              "quote": "Garantizar la sostenibilidad del sistema sanitario do- tándolo de los medios necesarios para atender las ne- cesidades de los españoles, excluyendo a los extran- jeros en situación ilegal salvo casos de urgencia grave.",
+              "page": 19,
+              "printedPage": "19"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-19",
+              "quote": "Auditoría del coste de la inmigración masiva en la sani- dad pública.",
+              "page": 19,
+              "printedPage": "19"
+            }
+          ]
+        },
+        {
+          "id": "vox-healthcare-single-card",
+          "title": {
+            "es": "Tarjeta sanitaria única",
+            "ca": "Targeta sanitària única",
+            "gl": "Tarxeta sanitaria única",
+            "eu": "Osasun txartel bakarra",
+            "oc": "Carta sanitària unica",
+            "en": "Single health card"
+          },
+          "text": {
+            "es": "Para que todos los españoles reciban la misma atención de calidad, establecer una tarjeta sanitaria única con una historia clínica compartida en todo el país.",
+            "ca": "Perquè tots els espanyols rebin la mateixa atenció de qualitat, establir una targeta sanitària única amb una història clínica compartida a tot el país.",
+            "gl": "Para que todos os españois reciban a mesma atención de calidade, establecer unha tarxeta sanitaria única cunha historia clínica compartida en todo o país.",
+            "eu": "Osasun txartel bakarra ezartzea, herrialde osoan partekatutako historia klinikoarekin, espainiar guztiek kalitatezko arreta bera jaso dezaten.",
+            "oc": "Entà que toti es espanhòus receben era madeisha atencion de qualitat, establir ua carta sanitària unica damb un istoriau clinic compartit en tot eth país.",
+            "en": "Introduce a single health card with medical records shared nationwide so that all Spanish nationals receive the same quality of care."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional.",
+              "page": 37,
+              "printedPage": "37"
+            }
+          ]
+        },
+        {
+          "id": "vox-healthcare-primary-care",
+          "title": {
+            "es": "Atención primaria y pediatría",
+            "ca": "Atenció primària i pediatria",
+            "gl": "Atención primaria e pediatría",
+            "eu": "Lehen mailako arreta eta pediatria",
+            "oc": "Atencion primària e pediatria",
+            "en": "Primary care and paediatrics"
+          },
+          "text": {
+            "es": "Reforzar en todo el país la atención primaria y pediátrica para mejorar el acceso y la capacidad asistencial, especialmente en las zonas rurales y de difícil cobertura. Mejorar la continuidad de la atención entre centros de salud, especialistas y hospitales.",
+            "ca": "Reforçar a tot el país l'atenció primària i pediàtrica per millorar l'accés i la capacitat assistencial, especialment a les zones rurals i de difícil cobertura. Millorar la continuïtat de l'atenció entre centres de salut, especialistes i hospitals.",
+            "gl": "Reforzar en todo o país a atención primaria e pediátrica para mellorar o acceso e a capacidade asistencial, especialmente nas zonas rurais e de difícil cobertura. Mellorar a continuidade da atención entre centros de saúde, especialistas e hospitais.",
+            "eu": "Lehen mailako arreta eta pediatria herrialde osoan indartzea, sarbidea eta arreta emateko gaitasuna hobetzeko, bereziki landa-eremuetan eta zerbitzua emateko zailtasunak dauden tokietan. Osasun-zentroen, espezialisten eta ospitaleen arteko arretaren jarraitutasuna hobetzea.",
+            "oc": "Reforçar en tot eth país era atencion primària e pediatrica entà melhorar er accès e era capacitat assistenciau, especiaument enes zònes ruraus e de cobertura dificila. Melhorar era continuitat dera atencion entre centres de salut, especialistes e espitaus.",
+            "en": "Strengthen primary and paediatric care nationwide to improve access and capacity, especially in rural and hard-to-cover areas. Improve continuity of care between health centres, specialists and hospitals."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional.",
+              "page": 37,
+              "printedPage": "37"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Mejorar su accesibilidad y capa- cidad asistencial, con especial atención a las zonas ru- rales y de difícil cobertura y a la continuidad de la aten- ción entre centros de salud, especialistas y hospitales.",
+              "page": 37,
+              "printedPage": "37"
+            }
+          ]
+        },
+        {
+          "id": "vox-healthcare-waiting-lists",
+          "title": {
+            "es": "Listas de espera",
+            "ca": "Llistes d'espera",
+            "gl": "Listas de espera",
+            "eu": "Itxaron-zerrendak",
+            "oc": "Listes de demora",
+            "en": "Waiting lists"
+          },
+          "text": {
+            "es": "Crear un plan nacional para reducir las listas de espera con circuitos asistenciales reorganizados, mejoras en la capacidad diagnóstica y la actividad quirúrgica y derivaciones más fáciles entre centros y territorios. Fomentar la colaboración público-privada cuando contribuya efectivamente a reducir las demoras, con transparencia, evaluación de calidad y control del gasto. Publicar periódicamente indicadores comparables de espera, actividad y resultados.",
+            "ca": "Crear un pla nacional per reduir les llistes d'espera amb circuits assistencials reorganitzats, millores en la capacitat diagnòstica i l'activitat quirúrgica i derivacions més fàcils entre centres i territoris. Fomentar la col·laboració publicoprivada quan contribueixi efectivament a reduir les demores, amb transparència, avaluació de la qualitat i control de la despesa. Publicar periòdicament indicadors comparables d'espera, activitat i resultats.",
+            "gl": "Crear un plan nacional para reducir as listas de espera con circuítos asistenciais reorganizados, melloras na capacidade diagnóstica e na actividade cirúrxica e derivacións máis doadas entre centros e territorios. Fomentar a colaboración público-privada cando contribúa efectivamente a reducir as demoras, con transparencia, avaliación da calidade e control do gasto. Publicar periodicamente indicadores comparables de espera, actividade e resultados.",
+            "eu": "Itxaron-zerrendak murrizteko plan nazionala sortzea, arreta-zirkuituak berrantolatuta, diagnostiko-gaitasuna eta jarduera kirurgikoa hobetuta eta zentroen eta lurraldeen arteko bideratzeak erraztuta. Lankidetza publiko-pribatua sustatzea atzerapenak murrizten benetan laguntzen duenean, gardentasuna, kalitatearen ebaluazioa eta gastuaren kontrola bermatuz. Itxaroteari, jarduerari eta emaitzei buruzko adierazle alderagarriak aldizka argitaratzea.",
+            "oc": "Crear un plan nacionau entà redusir es listes de demora damb circuits assistenciaus reorganizadi, melhores ena capacitat diagnostica e ena activitat quirurgica, e derivacions mès faciles entre centres e territòris. Promòir era collaboracion publica e privada quan contribuïsque efectivament a redusir es demores, damb transparéncia, avaloracion dera qualitat e contròtle dera despensa. Publicar periodicament indicadors comparables de demora, activitat e resultats.",
+            "en": "Create a national plan to reduce waiting lists by reorganising care pathways, improving diagnostic capacity and surgical activity and making referrals across centres and territories easier. Encourage public-private collaboration where it effectively helps to reduce delays, with transparency, quality evaluation and spending controls. Publish comparable indicators on waits, activity and outcomes regularly."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Plan nacional de reducción de listas de espera",
+              "page": 37,
+              "printedPage": "37"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Reorganizar circuitos asis- tenciales, mejorar la capacidad diagnóstica y la activi- dad quirúrgica y facilitar derivaciones entre centros y territorios.",
+              "page": 37,
+              "printedPage": "37"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gas- to.",
+              "page": 37,
+              "printedPage": "37"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Publicación de indicadores comparables y periódi- cos de listas de espera, actividad y resultados.",
+              "page": 37,
+              "printedPage": "37"
+            }
+          ]
+        },
+        {
+          "id": "vox-healthcare-workforce",
+          "title": {
+            "es": "Condiciones del personal sanitario",
+            "ca": "Condicions del personal sanitari",
+            "gl": "Condicións do persoal sanitario",
+            "eu": "Osasun langileen lan-baldintzak",
+            "oc": "Condicions deth personau sanitari",
+            "en": "Healthcare staff working conditions"
+          },
+          "text": {
+            "es": "Mejorar progresivamente las retribuciones, reconocer guardias y turnos, facilitar la conciliación efectiva y basar la carrera profesional en la formación, la experiencia y los méritos. Dar incentivos económicos y profesionales para plazas rurales o de difícil cobertura, impulsar contratos estables y contratos puente tras la residencia y promover el retorno de sanitarios españoles que trabajan en el extranjero.",
+            "ca": "Millorar progressivament les retribucions, reconèixer les guàrdies i els torns, facilitar una conciliació efectiva i basar la carrera professional en la formació, l'experiència i els mèrits. Donar incentius econòmics i professionals per a places rurals o de difícil cobertura, impulsar contractes estables i contractes pont després de la residència i promoure el retorn dels sanitaris espanyols que treballen a l'estranger.",
+            "gl": "Mellorar progresivamente as retribucións, recoñecer as gardas e as quendas, facilitar unha conciliación efectiva e basear a carreira profesional na formación, a experiencia e os méritos. Dar incentivos económicos e profesionais para prazas rurais ou de difícil cobertura, impulsar contratos estables e contratos ponte tras a residencia e promover o retorno do persoal sanitario español que traballa no estranxeiro.",
+            "eu": "Ordainsariak pixkanaka hobetzea, guardiak eta txandak aitortzea, lana eta bizitza pertsonala benetan uztartzeko aukera erraztea eta ibilbide profesionala prestakuntzan, esperientzian eta merezimenduetan oinarritzea. Landa-eremuetako edo betetzeko zailak diren lanpostuetarako pizgarri ekonomiko eta profesionalak ematea, kontratu egonkorrak eta egoiliar-aldia amaitu ondorengo trantsizio-kontratuak sustatzea eta atzerrian lan egiten duten osasun-langile espainiarren itzulera bultzatzea.",
+            "oc": "Melhorar progressivament es retribucions, reconéisher es guàrdies e es torns, facilitar era conciliacion efectiva e basar era carrèra professionau ena formacion, era experiéncia e es merits. Dar incentius economics e professionaus entà places ruraus o de cobertura dificila, promòir contractes estables e contractes de transicion dempús dera residéncia e fomentar eth retorn deth personau sanitari espanhòu que trabalhe en estrangèr.",
+            "en": "Improve pay gradually, recognise on-call duties and shifts, support effective work-life balance and base career progression on training, experience and merit. Offer financial and professional incentives for rural or hard-to-fill posts, promote stable and bridging contracts after residency and support the return of Spanish healthcare professionals working abroad."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Mejora progresiva de retribucio- nes, reconocimiento de guardias y turnos, conciliación efectiva y carrera profesional basada en formación, ex- periencia y méritos.",
+              "page": 37,
+              "printedPage": "37"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-37",
+              "quote": "Incentivos económicos y profesio- nales para plazas rurales o de difícil cobertura",
+              "page": 37,
+              "printedPage": "37"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-38",
+              "quote": "de contratos estables y contratos puente tras la resi- dencia, y un programa de retorno de sanitarios españo- les que trabajan en el extranjero.",
+              "page": 38,
+              "printedPage": "38"
+            }
+          ]
+        },
+        {
+          "id": "vox-healthcare-womens-health",
+          "title": {
+            "es": "Salud de las mujeres",
+            "ca": "Salut de les dones",
+            "gl": "Saúde das mulleres",
+            "eu": "Emakumeen osasuna",
+            "oc": "Salut des hemnes",
+            "en": "Women's health"
+          },
+          "text": {
+            "es": "Reforzar la prevención y el diagnóstico precoz de los cánceres de mama y ginecológicos y mejorar el diagnóstico y el tratamiento de las enfermedades que afectan especialmente a las mujeres. Garantizar una atención adecuada durante el embarazo, el parto y el posparto, con especial atención a la maternidad a edades más avanzadas.",
+            "ca": "Reforçar la prevenció i el diagnòstic precoç dels càncers de mama i ginecològics i millorar el diagnòstic i el tractament de les malalties que afecten especialment les dones. Garantir una atenció adequada durant l'embaràs, el part i el postpart, amb especial atenció a la maternitat a edats més avançades.",
+            "gl": "Reforzar a prevención e o diagnóstico precoz dos cancros de mama e xinecolóxicos e mellorar o diagnóstico e o tratamento das enfermidades que afectan especialmente as mulleres. Garantir unha atención axeitada durante o embarazo, o parto e o posparto, con especial atención á maternidade a idades máis avanzadas.",
+            "eu": "Bularreko minbiziaren eta minbizi ginekologikoen prebentzioa eta diagnostiko goiztiarra indartzea, eta emakumeei bereziki eragiten dieten gaixotasunen diagnostikoa eta tratamendua hobetzea. Haurdunaldian, erditzean eta erditu ondoren arreta egokia bermatzea, adin aurreratuagoan ama direnei arreta berezia emanez.",
+            "oc": "Reforçar era prevencion e eth diagnostic precòç deth càncer de popa e des càncers ginecologics e melhorar eth diagnostic e eth tractament des malauties qu'afècten especiaument es hemnes. Garantir ua atencion adequada pendent er embaràs, eth part e eth postpart, damb ua atencion especiau ara maternitat en edats mès auançades.",
+            "en": "Strengthen prevention and early diagnosis of breast and gynaecological cancers and improve diagnosis and treatment of diseases that particularly affect women. Ensure appropriate care during pregnancy, childbirth and after birth, with particular attention to maternity at older ages."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-38",
+              "quote": "Refor- zar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos",
+              "page": 38,
+              "printedPage": "38"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-38",
+              "quote": "mejorar el diag- nóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres",
+              "page": 38,
+              "printedPage": "38"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-38",
+              "quote": "garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas.",
+              "page": 38,
+              "printedPage": "38"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--housing",
       "partyId": "vox",
       "topicId": "housing",
       "path": "/parties/vox/housing",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-housing-priority",
+          "title": {
+            "es": "Prioridad nacional en vivienda",
+            "ca": "Prioritat nacional en habitatge",
+            "gl": "Prioridade nacional na vivenda",
+            "eu": "Estatuko herritarren lehentasuna etxebizitzan",
+            "oc": "Prioritat nacionau en abitatge",
+            "en": "National priority in housing"
+          },
+          "text": {
+            "es": "Dar prioridad a los españoles en el acceso a la vivienda protegida o social y a las ayudas al alquiler. Modificar o derogar las normas que dificulten aplicar esta prioridad.",
+            "ca": "Donar prioritat als espanyols en l'accés a l'habitatge protegit o social i als ajuts al lloguer. Modificar o derogar les normes que dificultin aplicar aquesta prioritat.",
+            "gl": "Dar prioridade aos españois no acceso á vivenda protexida ou social e ás axudas ao alugueiro. Modificar ou derrogar as normas que dificulten aplicar esta prioridade.",
+            "eu": "Espainiarrei lehentasuna ematea etxebizitza babestua edo soziala eta alokairurako laguntzak eskuratzeko. Lehentasun hori aplikatzea zailtzen duten arauak aldatzea edo indargabetzea.",
+            "oc": "Dar prioritat as espanhòus en accès ar abitatge protegit o sociau e as ajudes ath loguèr. Modificar o derogar es normes que dificulten era aplicacion d'aguesta prioritat.",
+            "en": "Give Spanish nationals priority in access to protected or social housing and rental assistance. Amend or repeal rules that make it difficult to apply this priority."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-23",
+              "quote": "Prioridad na- cional para acceder a una vivienda protegida, social o a una ayuda al alquiler.",
+              "page": 23,
+              "printedPage": "23"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-23",
+              "quote": "Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional.",
+              "page": 23,
+              "printedPage": "23"
+            }
+          ]
+        },
+        {
+          "id": "vox-housing-land",
+          "title": {
+            "es": "Reforma de la Ley del Suelo",
+            "ca": "Reforma de la Ley del Suelo",
+            "gl": "Reforma da Ley del Suelo",
+            "eu": "Ley del Suelo legearen erreforma",
+            "oc": "Reforma dera Ley del Suelo",
+            "en": "Reform of the Ley del Suelo"
+          },
+          "text": {
+            "es": "Reformar la Ley del Suelo para aumentar de forma sustancial y sostenida la construcción de vivienda nueva, ampliando el suelo disponible y agilizando y simplificando los trámites.",
+            "ca": "Reformar la Ley del Suelo per augmentar de manera substancial i sostinguda la construcció d'habitatge nou, ampliant el sòl disponible i agilitzant i simplificant els tràmits.",
+            "gl": "Reformar a Ley del Suelo para aumentar de maneira substancial e sostida a construción de vivenda nova, ampliando o solo dispoñible e axilizando e simplificando os trámites.",
+            "eu": "Ley del Suelo legea erreformatzea etxebizitza berrien eraikuntza nabarmen eta modu iraunkorrean handitzeko, lurzoru erabilgarria zabaldu eta izapideak arindu eta erraztuta.",
+            "oc": "Reformar era Ley del Suelo entà aumentar de manèra substanciau e sostenguda era construccion d'abitatge nau, ampliant eth solèr disponible e agilant e simplificant es tramits.",
+            "en": "Reform the Ley del Suelo to increase new housing construction substantially and on a sustained basis, making more land available and speeding up and simplifying procedures."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-23",
+              "quote": "Reforma de la Ley del Suelo.",
+              "page": 23,
+              "printedPage": "23"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-23",
+              "quote": "Incrementar de manera sustancial y sostenida en el tiempo la construcción de vivienda nueva: ampliación de suelo disponible, agilización de procedimientos, su- presión de trabas regulatorias innecesarias, simplifica- ción administrativa.",
+              "page": 23,
+              "printedPage": "23"
+            }
+          ]
+        },
+        {
+          "id": "vox-housing-investment",
+          "title": {
+            "es": "Inversión en vivienda protegida",
+            "ca": "Inversió en habitatge protegit",
+            "gl": "Investimento en vivenda protexida",
+            "eu": "Etxebizitza babesturako inbertsioa",
+            "oc": "Inversion en abitatge protegit",
+            "en": "Investment in protected housing"
+          },
+          "text": {
+            "es": "Aumentar la inversión pública en vivienda por habitante e incrementar con urgencia la construcción de vivienda protegida para familias españolas mediante colaboración público-privada, con cesiones de suelo, subvenciones, descuentos, avales y créditos blandos.",
+            "ca": "Augmentar la inversió pública en habitatge per habitant i incrementar urgentment la construcció d'habitatge protegit per a famílies espanyoles mitjançant la col·laboració publicoprivada, amb cessions de sòl, subvencions, descomptes, avals i crèdits tous.",
+            "gl": "Aumentar o investimento público en vivenda por habitante e incrementar con urxencia a construción de vivenda protexida para familias españolas mediante a colaboración público-privada, con cesións de solo, subvencións, descontos, avais e préstamos en condicións favorables.",
+            "eu": "Biztanleko etxebizitzarako inbertsio publikoa handitzea eta familia espainiarrentzako etxebizitza babestuen eraikuntza premiaz areagotzea lankidetza publiko-pribatuaren bidez, lurzoru-lagapenak, dirulaguntzak, deskontuak, abalak eta mailegu bigunak baliatuta.",
+            "oc": "Aumentar era inversion publica en abitatge per abitant e incrementar damb urgéncia era construccion d'abitatge protegit entàs familhes espanhòles mejançant era collaboracion publica e privada, damb cessions de solèr, subvencions, descompdes, avaus e credits en condicions favorables.",
+            "en": "Increase public housing investment per person and urgently expand construction of protected housing for Spanish families through public-private partnerships, using land transfers, subsidies, discounts, guarantees and concessional loans."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-23",
+              "quote": "Ampliación de la inversión pública en vivienda por habitante.",
+              "page": 23,
+              "printedPage": "23"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-23",
+              "quote": "Aumentar con urgencia la construcción de vivienda protegida para las familias españolas median- te su promoción y colaboración público-privada: cesio- nes de suelo, subvenciones, descuentos, avales a finan- ciación y créditos blandos.",
+              "page": 23,
+              "printedPage": "23"
+            }
+          ]
+        },
+        {
+          "id": "vox-housing-rental",
+          "title": {
+            "es": "Alquiler residencial y turístico",
+            "ca": "Lloguer residencial i turístic",
+            "gl": "Alugueiro residencial e turístico",
+            "eu": "Bizitegi- eta turismo-alokairua",
+            "oc": "Loguèr residenciau e toristic",
+            "en": "Residential and tourist rentals"
+          },
+          "text": {
+            "es": "Derogar la Ley de Vivienda, dar incentivos fiscales al alquiler de larga duración y deducciones a los inquilinos españoles. Regular la proliferación de viviendas de uso turístico y reforzar la inspección de los pisos turísticos ilegales.",
+            "ca": "Derogar la Ley de Vivienda, donar incentius fiscals al lloguer de llarga durada i deduccions als llogaters espanyols. Regular la proliferació d'habitatges d'ús turístic i reforçar la inspecció dels pisos turístics il·legals.",
+            "gl": "Derrogar a Ley de Vivienda, dar incentivos fiscais ao alugueiro de longa duración e deducións aos inquilinos españois. Regular a proliferación de vivendas de uso turístico e reforzar a inspección dos pisos turísticos ilegais.",
+            "eu": "Ley de Vivienda legea indargabetzea, iraupen luzeko alokairurako zerga-pizgarriak ematea eta maizter espainiarrei kenkariak ematea. Turismo-erabilerako etxebizitzen ugaritzea arautzea eta legez kanpoko turismo-pisuen ikuskapena indartzea.",
+            "oc": "Derogar era Ley de Vivienda, dar incentius fiscaus ath loguèr de longa durada e deduccions as logataris espanhòus. Regular era proliferacion des abitatges d'usatge toristic e reforçar era inspeccion des apartaments toristics illegaus.",
+            "en": "Repeal the Ley de Vivienda, introduce tax incentives for long-term rentals and give Spanish tenants tax deductions. Regulate the proliferation of tourist accommodation and strengthen inspections of illegal tourist flats."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-23",
+              "quote": "Derogación de la Ley de Vivienda. Incentivos fiscales al alquiler de larga",
+              "page": 23,
+              "printedPage": "23"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-24",
+              "quote": "duración y deducciones para inquilinos españoles. Re- gulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales.",
+              "page": 24,
+              "printedPage": "24"
+            }
+          ]
+        },
+        {
+          "id": "vox-housing-unauthorised-occupation",
+          "title": {
+            "es": "Ocupación de viviendas",
+            "ca": "Ocupació d'habitatges",
+            "gl": "Ocupación de vivendas",
+            "eu": "Etxebizitzen okupazioa",
+            "oc": "Ocupacion d'abitatges",
+            "en": "Unauthorised occupation of homes"
+          },
+          "text": {
+            "es": "Desalojar las viviendas ocupadas sin título en menos de 24 horas y devolver inmediatamente la posesión al propietario. Dar asistencia jurídica gratuita a los afectados y eximirlos de impuestos, cargas fiscales y costes de suministros del inmueble mientras dure la ocupación. Tipificar como delito de estafa lo que el programa denomina «inquiocupación».",
+            "ca": "Desallotjar els habitatges ocupats sense títol en menys de 24 hores i retornar immediatament la possessió al propietari. Donar assistència jurídica gratuïta als afectats i eximir-los d'impostos, càrregues fiscals i costos de subministraments de l'immoble mentre duri l'ocupació. Tipificar com a delicte d'estafa allò que el programa anomena «inquiocupación».",
+            "gl": "Desaloxar as vivendas ocupadas sen título en menos de 24 horas e devolver inmediatamente a posesión á persoa propietaria. Dar asistencia xurídica gratuíta ás persoas afectadas e eximilas de impostos, cargas fiscais e custos de subministracións do inmoble mentres dure a ocupación. Tipificar como delito de estafa o que o programa denomina «inquiocupación».",
+            "eu": "Titulurik gabe okupatutako etxebizitzak 24 ordu baino gutxiagoan hustea eta edukitza jabeari berehala itzultzea. Kaltetuei doako laguntza juridikoa ematea eta higiezinaren zergak, zerga-kargak eta hornidura-gastuak ordaintzetik salbuestea okupazioak irauten duen bitartean. Programak «inquiocupación» deitzen duena iruzur-delitu gisa tipifikatzea.",
+            "oc": "Deslotjar es abitatges ocupadi sense títol en mens de 24 ores e restituïr immediatament era possession ath proprietari. Dar assisténcia juridica gratuïta as persones afectades e eximir-les d'impòsti, cargues fiscaus e còsti des provesiments der immòble mentre dure era ocupacion. Tipificar coma delicte d'estafa çò qu'eth programa nomente «inquiocupación».",
+            "en": "Evict occupants without a legal right to occupy in under 24 hours and restore possession to the owner immediately. Give those affected free legal assistance and exempt them from taxes, fiscal charges and utility costs on the property for the duration of the occupation. Classify what the programme calls «inquiocupación» as a fraud offence."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-24",
+              "quote": "Desalojo de la vivienda okupada en menos de 24 ho- ras y recuperación inmediata de la posesión por su le- gítimo titular, el propietario.",
+              "page": 24,
+              "printedPage": "24"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-24",
+              "quote": "Asistencia jurídica gratui- ta para los afectados y exención de impuestos y de las cargas fiscales y de suministros del inmueble mientras dure la okupación.",
+              "page": 24,
+              "printedPage": "24"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-24",
+              "quote": "Tipificación de la inquiocupación como delito de estafa.",
+              "page": 24,
+              "printedPage": "24"
+            }
+          ]
+        },
+        {
+          "id": "vox-housing-first-home",
+          "title": {
+            "es": "Impuestos sobre la primera vivienda habitual",
+            "ca": "Impostos sobre el primer habitatge habitual",
+            "gl": "Impostos sobre a primeira vivenda habitual",
+            "eu": "Lehen ohiko etxebizitzaren gaineko zergak",
+            "oc": "Impòsti sus eth prumèr abitatge abituau",
+            "en": "Taxes on a first main home"
+          },
+          "text": {
+            "es": "Aplicar un IVA del 0 % a las familias españolas al comprar su primera vivienda habitual de obra nueva, y una bonificación del 100 % del ITP si es de segunda mano. Recuperar la deducción por inversión en vivienda habitual.",
+            "ca": "Aplicar un IVA del 0 % a les famílies espanyoles quan comprin el seu primer habitatge habitual d'obra nova, i una bonificació del 100 % de l'ITP si és de segona mà. Recuperar la deducció per inversió en habitatge habitual.",
+            "gl": "Aplicar un IVE do 0 % ás familias españolas ao compraren a súa primeira vivenda habitual de nova construción, e unha bonificación do 100 % do ITP se é de segunda man. Recuperar a dedución por investimento en vivenda habitual.",
+            "eu": "Familia espainiarrei % 0ko BEZa aplikatzea eraikuntza berriko lehen ohiko etxebizitza erostean, eta ITP zergaren % 100eko hobaria ematea bigarren eskukoa bada. Ohiko etxebizitzan inbertitzeagatiko kenkaria berreskuratzea.",
+            "oc": "Aplicar un IVA deth 0 % as familhes espanhòles quan crompen eth sòn prumèr abitatge abituau de construccion naua, e ua bonificacion deth 100 % der ITP s'ei de dusau man. Recuperar era deduccion per inversion en abitatge abituau.",
+            "en": "Apply 0% VAT when Spanish families buy their first newly built main home and a 100% transfer tax (ITP) rebate if it is a resale property. Restore the tax deduction for investment in a main home."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-24",
+              "quote": "La primera vivienda habitual de una familia española no paga impuestos.",
+              "page": 24,
+              "printedPage": "24"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-24",
+              "quote": "Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción- y bonificación 100% del ITP para la compra de tu primera vivienda habitual -de segunda mano-.",
+              "page": 24,
+              "printedPage": "24"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-24",
+              "quote": "Recuperación de la deducción por inversión en vivienda habitual.",
+              "page": 24,
+              "printedPage": "24"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--institutions-and-rights",
       "partyId": "vox",
       "topicId": "institutions-and-rights",
       "path": "/parties/vox/institutions-and-rights",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-institutions-regularisation",
+          "title": {
+            "es": "Regularización y arraigo",
+            "ca": "Regularització i arrelament",
+            "gl": "Regularización e arraigamento",
+            "eu": "Egoera erregularizatzea eta errotzea",
+            "oc": "Regularizacion e arraïtzament",
+            "en": "Regularisation and arraigo"
+          },
+          "text": {
+            "es": "Prohibir las regularizaciones masivas e impedir que las personas que entren irregularmente puedan regularizar su situación. Suprimir el arraigo como vía de regularización.",
+            "ca": "Prohibir les regularitzacions massives i impedir que les persones que entrin de manera irregular puguin regularitzar la seva situació. Suprimir l'arrelament com a via de regularització.",
+            "gl": "Prohibir as regularizacións masivas e impedir que as persoas que entren de maneira irregular poidan regularizar a súa situación. Suprimir o arraigamento como vía de regularización.",
+            "eu": "Erregularizazio masiboak debekatzea eta modu irregularrean sartzen diren pertsonei beren egoera erregularizatzea eragoztea. Errotzea erregularizazio-bide gisa kentzea.",
+            "oc": "Proïbir es regularizacions massives e empedir qu'es persones qu'entren de manèra irregulara poguen regularizar era sua situacion. Suprimir er arraïtzament coma via de regularizacion.",
+            "en": "Ban mass regularisations and prevent people who enter irregularly from regularising their status. Abolish arraigo, the route to regularisation based on established ties."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-15",
+              "quote": "Prohibición de las regularizaciones masivas. Quien en- tra de forma ilegal jamás podrá regularizar su situación.",
+              "page": 15,
+              "printedPage": "15"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-15",
+              "quote": "Supresión de la institución del arraigo",
+              "page": 15,
+              "printedPage": "15"
+            }
+          ]
+        },
+        {
+          "id": "vox-institutions-nationality",
+          "title": {
+            "es": "Adquisición y pérdida de la nacionalidad",
+            "ca": "Adquisició i pèrdua de la nacionalitat",
+            "gl": "Adquisición e perda da nacionalidade",
+            "eu": "Nazionalitatea eskuratzea eta galtzea",
+            "oc": "Adquisicion e pèrta dera nacionalitat",
+            "en": "Acquisition and loss of nationality"
+          },
+          "text": {
+            "es": "Endurecer los requisitos para adquirir la nacionalidad española y revisar las concesiones fraudulentas. Ampliar los supuestos de pérdida de la nacionalidad para los españoles que no lo sean de origen en casos de delitos graves o reiterados.",
+            "ca": "Endurir els requisits per adquirir la nacionalitat espanyola i revisar les concessions fraudulentes. Ampliar els supòsits de pèrdua de la nacionalitat per als espanyols que no ho siguin d'origen en casos de delictes greus o reiterats.",
+            "gl": "Endurecer os requisitos para adquirir a nacionalidade española e revisar as concesións fraudulentas. Ampliar os supostos de perda da nacionalidade para as persoas españolas que non o sexan de orixe en casos de delitos graves ou reiterados.",
+            "eu": "Espainiako nazionalitatea eskuratzeko baldintzak gogortzea eta iruzurrez emandako nazionalitateak berrikustea. Jatorriz espainiarrak ez diren espainiarrek nazionalitatea galtzeko kasuak zabaltzea delitu larriak edo errepikatuak direnean.",
+            "oc": "Endurir es requisits entà aquerir era nacionalitat espanhòla e revisar es concessions fraudulentes. Ampliar es casi de pèrta dera nacionalitat entàs espanhòus que non ne siguen d'origina en casi de delicte grèu o reiterat.",
+            "en": "Tighten the requirements for acquiring Spanish nationality and review fraudulent grants of nationality. Expand the grounds for loss of nationality for Spanish nationals who did not hold it by origin in cases of serious or repeated offences."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-15",
+              "quote": "Endurecimiento de los requisitos de adquisición de la nacionalidad española. Revisión de las concesiones frau- dulentas de la nacionalidad.",
+              "page": 15,
+              "printedPage": "15"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-15",
+              "quote": "Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados.",
+              "page": 15,
+              "printedPage": "15"
+            }
+          ]
+        },
+        {
+          "id": "vox-institutions-repatriation-and-return",
+          "title": {
+            "es": "Repatriación y plan de retorno",
+            "ca": "Repatriació i pla de retorn",
+            "gl": "Repatriación e plan de retorno",
+            "eu": "Aberriratzea eta itzulerarako plana",
+            "oc": "Repatriacion e plan de retorn",
+            "en": "Repatriation and return plan"
+          },
+          "text": {
+            "es": "Repatriar a quienes permanezcan en España en situación irregular. Por separado, facilitar mediante un plan el retorno a sus países de los extranjeros que no contribuyan o vivan de subsidios públicos que, según VOX, no llegan a los españoles.",
+            "ca": "Repatriar les persones que romanguin a Espanya en situació irregular. Separadament, facilitar mitjançant un pla el retorn als seus països dels estrangers que no contribueixin o visquin de subsidis públics que, segons VOX, no arriben als espanyols.",
+            "gl": "Repatriar as persoas que permanezan en España en situación irregular. Por separado, facilitar mediante un plan o retorno aos seus países das persoas estranxeiras que non contribúan ou vivan de subsidios públicos que, segundo VOX, non chegan aos españois.",
+            "eu": "Espainian egoera irregularrean jarraitzen dutenak aberriratzea. Bereiz, plan baten bidez beren herrialdeetara itzultzea erraztea ekarpenik egiten ez duten edo, VOXen arabera, espainiarrengana iristen ez diren dirulaguntza publikoetatik bizi diren atzerritarrei.",
+            "oc": "Repatriar es persones que demoren en Espanha en situacion irregulara. Separadament, facilitar mejançant un plan eth retorn as sòns païsi des estrangèrs que non contribuïsquen o que visquen de subsidis publics que, segontes VOX, non arriben as espanhòus.",
+            "en": "Repatriate those who remain in Spain without regular immigration status. Separately, use a plan to facilitate return to their countries for foreign nationals who do not contribute or live on public subsidies that VOX says do not reach Spanish nationals."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-15",
+              "quote": "Repatriación de quienes permanezcan en situación ile- gal en nuestra nación.",
+              "page": 15,
+              "printedPage": "15"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-15",
+              "quote": "Plan para facilitar el retorno a sus países de los extranjeros que no contribuyan o vivan de subsi- dios públicos que no alcanzan a los españoles.",
+              "page": 15,
+              "printedPage": "15"
+            }
+          ]
+        },
+        {
+          "id": "vox-institutions-gender-laws",
+          "title": {
+            "es": "Leyes de género y protección de las víctimas",
+            "ca": "Lleis de gènere i protecció de les víctimes",
+            "gl": "Leis de xénero e protección das vítimas",
+            "eu": "Genero-legeak eta biktimen babesa",
+            "oc": "Leis de genre e proteccion des victimes",
+            "en": "Gender-related laws and victim protection"
+          },
+          "text": {
+            "es": "Derogar las leyes de género y promover la aprobación de normas que protejan a las mujeres víctimas de violencia, especialmente a las que sufran maltrato, y amparen a todas las víctimas.",
+            "ca": "Derogar les lleis de gènere i promoure l'aprovació de normes que protegeixin les dones víctimes de violència, especialment les que pateixin maltractaments, i emparin totes les víctimes.",
+            "gl": "Derrogar as leis de xénero e promover a aprobación de normas que protexan as mulleres vítimas de violencia, especialmente as que sufran malos tratos, e amparen todas as vítimas.",
+            "eu": "Genero-legeak indargabetzea eta indarkeriaren biktima diren emakumeak, bereziki tratu txarrak jasaten dituztenak, eta biktima guztiak babesteko arauak onar daitezen sustatzea.",
+            "oc": "Derogar es leis de genre e promòir era aprobacion de normes que protegissen es hemnes victimes de violéncia, especiaument es que patissen mautractaments, e qu'emparen a totes es victimes.",
+            "en": "Repeal gender-related laws and promote rules that protect women who are victims of violence, especially those experiencing abuse, and provide protection for all victims."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-30",
+              "quote": "Derogar las leyes que han criminalizado a los hom- bres y desprotegido a las mujeres. Las leyes de género",
+              "page": 30,
+              "printedPage": "30"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-30",
+              "quote": "impulsar la aprobación de leyes y normas que protejan de verdad a las mujeres víctimas de violencia, en especial a aquellas que sufran maltrato, y que no dejen a ninguna víctima desampa- rada.",
+              "page": 30,
+              "printedPage": "30"
+            }
+          ]
+        },
+        {
+          "id": "vox-institutions-juvenile-criminal-responsibility",
+          "title": {
+            "es": "Responsabilidad penal de los menores",
+            "ca": "Responsabilitat penal dels menors",
+            "gl": "Responsabilidade penal dos menores",
+            "eu": "Adingabeen erantzukizun penala",
+            "oc": "Responsabilitat penau des menors",
+            "en": "Juvenile criminal responsibility"
+          },
+          "text": {
+            "es": "Reducir la edad de responsabilidad penal de los menores y plantear eliminar la exención de responsabilidad penal para ciertos delitos violentos, como los homicidios y las agresiones sexuales.",
+            "ca": "Reduir l'edat de responsabilitat penal dels menors i plantejar la supressió de l'exempció de responsabilitat penal per a certs delictes violents, com ara els homicidis i les agressions sexuals.",
+            "gl": "Reducir a idade de responsabilidade penal das persoas menores e formular a posibilidade de eliminar a exención de responsabilidade penal para certos delitos violentos, como os homicidios e as agresións sexuais.",
+            "eu": "Adingabeen erantzukizun penalaren adina jaistea eta indarkeriazko delitu jakin batzuetan, hala nola homizidioetan eta sexu-erasoetan, erantzukizun penaletik salbuesteko aukera kentzea aztertzea.",
+            "oc": "Redusir era edat de responsabilitat penau des menors e plantejar de suprimir era exempcion de responsabilitat penau entà cèrti delictes violents, com es omicidis e es agressions sexuaus.",
+            "en": "Lower the age of criminal responsibility for minors and consider removing exemption from criminal responsibility for certain violent offences, such as homicide and sexual assault."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-45",
+              "quote": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales.",
+              "page": 45,
+              "printedPage": "45"
+            }
+          ]
+        },
+        {
+          "id": "vox-institutions-judicial-council",
+          "title": {
+            "es": "Elección de vocales judiciales del CGPJ",
+            "ca": "Elecció de vocals judicials del CGPJ",
+            "gl": "Elección de vogais xudiciais do CGPJ",
+            "eu": "CGPJko kide judizialen hautaketa",
+            "oc": "Eleccion de vocaus judiciaus deth CGPJ",
+            "en": "Election of judicial members of the CGPJ"
+          },
+          "text": {
+            "es": "Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos por y entre los propios jueces y magistrados mediante voto personal, directo y secreto.",
+            "ca": "Modificar la Ley Orgánica del Poder Judicial perquè els dotze vocals de procedència judicial del Consejo General del Poder Judicial siguin elegits pels mateixos jutges i magistrats i d'entre aquests, mitjançant vot personal, directe i secret.",
+            "gl": "Modificar a Ley Orgánica del Poder Judicial para que os doce vogais de procedencia xudicial do Consejo General del Poder Judicial sexan elixidos por e entre os propios xuíces e maxistrados mediante voto persoal, directo e secreto.",
+            "eu": "Ley Orgánica del Poder Judicial aldatzea, Consejo General del Poder Judicialeko jatorri judizialeko hamabi kideak epaileek eta magistratuek beren artean hauta ditzaten, boto pertsonal, zuzen eta sekretuaren bidez.",
+            "oc": "Modificar era Ley Orgánica del Poder Judicial entà qu'es dotze vocaus de procedéncia judiciau deth Consejo General del Poder Judicial siguen elegits pes madeishi jutges e magistrats e d'entre eri, mejançant un vòt personau, dirècte e secrèt.",
+            "en": "Amend the Ley Orgánica del Poder Judicial so that the twelve judicial members of the Consejo General del Poder Judicial are elected by and from among judges and magistrates in a personal, direct and secret vote."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-55",
+              "quote": "Modi- ficar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo Ge- neral del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jue- ces y magistrados",
+              "page": 55,
+              "printedPage": "55"
+            }
+          ]
+        },
+        {
+          "id": "vox-institutions-anti-corruption",
+          "title": {
+            "es": "Auditoría y responsabilidad por corrupción",
+            "ca": "Auditoria i responsabilitat per corrupció",
+            "gl": "Auditoría e responsabilidade por corrupción",
+            "eu": "Ustelkeriaren auditoretza eta erantzukizuna",
+            "oc": "Auditoria e responsabilitat per corrupcion",
+            "en": "Audits and liability for corruption"
+          },
+          "text": {
+            "es": "Auditar todas las administraciones para detectar indicios de corrupción y llevarlos ante la justicia. Reforzar la responsabilidad patrimonial de los cargos públicos condenados por corrupción para que respondan con todos sus bienes presentes y futuros por la totalidad del perjuicio económico causado a las arcas públicas.",
+            "ca": "Auditar totes les administracions per detectar indicis de corrupció i portar-los davant la justícia. Reforçar la responsabilitat patrimonial dels càrrecs públics condemnats per corrupció perquè responguin amb tots els seus béns presents i futurs per la totalitat del perjudici econòmic causat a les arques públiques.",
+            "gl": "Auditar todas as administracións para detectar indicios de corrupción e levalos ante a xustiza. Reforzar a responsabilidade patrimonial dos cargos públicos condenados por corrupción para que respondan con todos os seus bens presentes e futuros pola totalidade do prexuízo económico causado ás arcas públicas.",
+            "eu": "Administrazio guztiak auditatzea ustelkeria-zantzuak hauteman eta justiziaren aurrera eramateko. Ustelkeriagatik kondenatutako kargu publikoen ondare-erantzukizuna indartzea, egungo eta etorkizuneko ondasun guztiekin erantzun dezaten diru publikoari eragindako kalte ekonomiko osoagatik.",
+            "oc": "Auditar totes es administracions entà detectar indicis de corrupcion e portar aguesti indicis deuant dera justícia. Reforçar era responsabilitat patrimoniau des cargues publics condemnadi per corrupcion entà que responguen damb toti es sòns bens presents e futurs pera totalitat deth prejudici economic causat as arques publiques.",
+            "en": "Audit all public administrations to identify signs of corruption and bring them to court. Strengthen the personal financial liability of public officeholders convicted of corruption so that all their present and future assets are liable for the full financial loss to public funds."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-57",
+              "quote": "Auditoría integral de to- das las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia.",
+              "page": 57,
+              "printedPage": "57"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-57",
+              "quote": "Refor- zaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes pre- sentes y futuros por la totalidad del perjuicio econó- mico causado a las arcas públicas",
+              "page": 57,
+              "printedPage": "57"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "vox--pensions-and-social-protection",
       "partyId": "vox",
       "topicId": "pensions-and-social-protection",
       "path": "/parties/vox/pensions-and-social-protection",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-17T22:47:57Z",
+      "sourceIds": [
+        "vox-2026-065abf6720be"
+      ],
+      "points": [
+        {
+          "id": "vox-social-pension-sustainability",
+          "title": {
+            "es": "Sostenibilidad de las pensiones",
+            "ca": "Sostenibilitat de les pensions",
+            "gl": "Sustentabilidade das pensións",
+            "eu": "Pentsioen jasangarritasuna",
+            "oc": "Sostenibilitat des pensions",
+            "en": "Pension sustainability"
+          },
+          "text": {
+            "es": "Garantizar la sostenibilidad de las pensiones impulsando la economía y el empleo, mejorando los salarios, aumentando la riqueza y apoyando a las familias, la natalidad y la crianza.",
+            "ca": "Garantir la sostenibilitat de les pensions impulsant l'economia i l'ocupació, millorant els salaris, augmentant la riquesa i donant suport a les famílies, la natalitat i la criança.",
+            "gl": "Garantir a sustentabilidade das pensións impulsando a economía e o emprego, mellorando os salarios, aumentando a riqueza e apoiando as familias, a natalidade e a crianza.",
+            "eu": "Pentsioen jasangarritasuna bermatzea, ekonomia eta enplegua sustatuz, soldatak hobetuz, aberastasuna handituz eta familiei, jaiotza-tasari eta haurren hazkuntzari lagunduz.",
+            "oc": "Garantir era sostenibilitat des pensions en impulsar era economia e er emplec, melhorar es salaris, aumentar era riquesa e dar supòrt as familhes, ara natalitat e ara criança.",
+            "en": "Ensure pension sustainability by strengthening economic activity and employment, improving wages, increasing wealth and supporting families, birth rates and raising children."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-10",
+              "quote": "Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza.",
+              "page": 10,
+              "printedPage": "10"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-11",
+              "quote": "impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza",
+              "page": 11,
+              "printedPage": "11"
+            }
+          ]
+        },
+        {
+          "id": "vox-social-minimum-income",
+          "title": {
+            "es": "Ingreso Mínimo Vital",
+            "ca": "Ingreso Mínimo Vital",
+            "gl": "Ingreso Mínimo Vital",
+            "eu": "Ingreso Mínimo Vital",
+            "oc": "Ingreso Mínimo Vital",
+            "en": "Ingreso Mínimo Vital"
+          },
+          "text": {
+            "es": "Reservar el Ingreso Mínimo Vital a los españoles con menos recursos. Promover el retorno de los inmigrantes que lo cobran o que perciben sus complementos autonómicos.",
+            "ca": "Reservar l'Ingreso Mínimo Vital als espanyols amb menys recursos. Promoure el retorn dels immigrants que el cobren o que en perceben els complements autonòmics.",
+            "gl": "Reservar o Ingreso Mínimo Vital para os españois con menos recursos. Promover o retorno das persoas inmigrantes que o cobran ou que perciben os seus complementos autonómicos.",
+            "eu": "Ingreso Mínimo Vital baliabide gutxien dituzten espainiarrentzat gordetzea. Prestazioa edo haren autonomia-erkidegoetako osagarriak jasotzen dituzten etorkinen itzulera sustatzea.",
+            "oc": "Reservar er Ingreso Mínimo Vital as espanhòus damb mens recorsi. Promòir eth retorn des immigrants que lo còbren o que perceben es sòns complements autonomics.",
+            "en": "Reserve the Ingreso Mínimo Vital minimum income benefit for Spanish nationals with the fewest resources. Promote the return of immigrants receiving the benefit or its autonomous-community supplements."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-19",
+              "quote": "El Ingreso Mínimo Vital atenderá únicamente las nece- sidades de los españoles con menos recursos.",
+              "page": 19,
+              "printedPage": "19"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-19",
+              "quote": "Se pro- moverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos.",
+              "page": 19,
+              "printedPage": "19"
+            }
+          ]
+        },
+        {
+          "id": "vox-social-family-benefits",
+          "title": {
+            "es": "Beneficios para familias desde el primer hijo",
+            "ca": "Beneficis per a famílies des del primer fill",
+            "gl": "Beneficios para as familias desde o primeiro fillo",
+            "eu": "Familientzako onurak lehen seme-alabatik aurrera",
+            "oc": "Beneficis entàs familhes a compdar deth prumèr hilh",
+            "en": "Family benefits from the first child"
+          },
+          "text": {
+            "es": "Dentro del plan de apoyo a las familias españolas, aumentar todos los beneficios actuales de las familias numerosas y extenderlos progresivamente a todas las familias desde el primer hijo. Incrementar las ayudas y bonificaciones según el número de hijos.",
+            "ca": "Dins del pla de suport a les famílies espanyoles, augmentar tots els beneficis actuals de les famílies nombroses i estendre'ls progressivament a totes les famílies des del primer fill. Incrementar els ajuts i les bonificacions segons el nombre de fills.",
+            "gl": "Dentro do plan de apoio ás familias españolas, aumentar todos os beneficios actuais das familias numerosas e estendelos progresivamente a todas as familias desde o primeiro fillo. Incrementar as axudas e bonificacións segundo o número de fillos.",
+            "eu": "Familia espainiarrei laguntzeko planaren barruan, familia ugarien egungo onura guztiak handitzea eta pixkanaka familia guztietara zabaltzea lehen seme-alabatik aurrera. Laguntzak eta hobariak handitzea seme-alaben kopuruaren arabera.",
+            "oc": "En marc deth plan de supòrt as familhes espanhòles, aumentar toti es beneficis actuaus des familhes nombroses e estener-les progressivament a totes es familhes a compdar deth prumèr hilh. Incrementar es ajudes e bonificacions segontes eth nombre de hilhs.",
+            "en": "As part of the plan to support Spanish families, increase all current benefits for large families and gradually extend them to all families from their first child. Increase aid and relief according to the number of children."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-51",
+              "quote": "Plan nacional de natalidad y apoyo a las familias espa- ñolas.",
+              "page": 51,
+              "printedPage": "51"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-51",
+              "quote": "Todos los beneficios que ahora existen para las fa- milias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el pri- mer hijo, intensificando las ayudas y bonificaciones en función del número de hijos.",
+              "page": 51,
+              "printedPage": "51"
+            }
+          ]
+        },
+        {
+          "id": "vox-social-childcare-contributions",
+          "title": {
+            "es": "Cotización por cuidado de hijos",
+            "ca": "Cotització per cura dels fills",
+            "gl": "Cotización polo coidado dos fillos",
+            "eu": "Seme-alabak zaintzeagatiko kotizazioa",
+            "oc": "Cotizacion pera guarda des hilhs",
+            "en": "Contributions for parents caring for children"
+          },
+          "text": {
+            "es": "Financiar con fondos estatales la cotización a la Seguridad Social de los españoles que se dedican al cuidado de sus hijos.",
+            "ca": "Finançar amb fons estatals la cotització a la Seguretat Social dels espanyols que es dediquen a tenir cura dels fills.",
+            "gl": "Financiar con fondos estatais a cotización á Seguridade Social dos españois que se dedican a coidar dos seus fillos.",
+            "eu": "Seme-alabak zaintzen diharduten espainiarren Gizarte Segurantzako kotizazioa estatuaren funtsekin finantzatzea.",
+            "oc": "Finançar damb hons der Estat era cotizacion ara Seguretat Sociau des espanhòus que se dediquen a tier compde des sòns hilhs.",
+            "en": "Have the state fund social security contributions for Spanish nationals who devote themselves to caring for their children."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-51",
+              "quote": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos.",
+              "page": 51,
+              "printedPage": "51"
+            }
+          ]
+        },
+        {
+          "id": "vox-social-dependency-care",
+          "title": {
+            "es": "Atención a la dependencia",
+            "ca": "Atenció a la dependència",
+            "gl": "Atención á dependencia",
+            "eu": "Mendekotasunari arreta",
+            "oc": "Atencion ara dependéncia",
+            "en": "Long-term care and support"
+          },
+          "text": {
+            "es": "Reforzar el presupuesto de dependencia, las ayudas para el cuidado en casa y el apoyo a familiares cuidadores. Ampliar los programas contra la soledad no deseada y las plazas residenciales. Eliminar trabas para que las ayudas lleguen a los beneficiarios con rapidez y en su totalidad.",
+            "ca": "Reforçar el pressupost de dependència, els ajuts per a la cura a domicili i el suport als familiars cuidadors. Ampliar els programes contra la soledat no desitjada i les places residencials. Eliminar traves perquè els ajuts arribin als beneficiaris amb rapidesa i íntegrament.",
+            "gl": "Reforzar o orzamento de dependencia, as axudas para o coidado no fogar e o apoio aos familiares coidadores. Ampliar os programas contra a soidade non desexada e as prazas residenciais. Eliminar trabas para que as axudas cheguen ás persoas beneficiarias con rapidez e na súa totalidade.",
+            "eu": "Mendekotasunerako aurrekontua, etxeko zaintzarako laguntzak eta zaintzaile diren senideentzako babesa indartzea. Nahi gabeko bakardadearen aurkako programak eta egoitzetako plazak zabaltzea. Oztopoak kentzea laguntzak onuradunei azkar eta osorik irits dakizkien.",
+            "oc": "Reforçar eth pressupòst de dependéncia, es ajudes entà tier compde des persones en casa e eth supòrt as familiars que les suenhen. Ampliar es programes contra era soletat non desirata e es places en residéncies. Eliminar es traves entà qu'es ajudes arriben as beneficiaris damb rapiditat e integraument.",
+            "en": "Increase the long-term care budget, support for care at home and support for family carers. Expand programmes addressing unwanted loneliness and increase residential care places. Remove barriers so beneficiaries receive support promptly and in full."
+          },
+          "citations": [
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-52",
+              "quote": "Refor- zar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo.",
+              "page": 52,
+              "printedPage": "52"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-52",
+              "quote": "Au- mento de los programas de atención a la soledad no deseada y de las plazas en residencias.",
+              "page": 52,
+              "printedPage": "52"
+            },
+            {
+              "sourceId": "vox-2026-065abf6720be",
+              "segmentId": "page-52",
+              "quote": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios.",
+              "page": 52,
+              "printedPage": "52"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

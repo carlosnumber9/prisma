@@ -1,0 +1,176 @@
+{
+  "id": "vox--education",
+  "partyId": "vox",
+  "topicId": "education",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-education-common-framework",
+      "title": {
+        "es": "Currículo, evaluación y enseñanza en español",
+        "ca": "Currículum, avaluació i ensenyament en castellà",
+        "gl": "Currículo, avaliación e ensino en castelán",
+        "eu": "Curriculuma, ebaluazioa eta gaztelaniazko irakaskuntza",
+        "oc": "Curriculum, avaloracion e ensenhament en castelhan",
+        "en": "Curriculum, assessments and teaching in Spanish"
+      },
+      "text": {
+        "es": "Unificar el currículo, las evaluaciones nacionales y la inspección para igualar las oportunidades de todos los alumnos españoles. Establecer reválidas y una EVAU única, y garantizar la enseñanza en español en todo el país.",
+        "ca": "Unificar el currículum, les avaluacions nacionals i la inspecció per igualar les oportunitats de tots els alumnes espanyols. Establir revàlides i una EVAU única, i garantir l'ensenyament en castellà a tot el país.",
+        "gl": "Unificar o currículo, as avaliacións nacionais e a inspección para igualar as oportunidades de todo o alumnado español. Establecer reválidas e unha EVAU única, e garantir o ensino en castelán en todo o país.",
+        "eu": "Curriculuma, estatu mailako ebaluazioak eta ikuskaritza bateratzea, ikasle espainiar guztiek aukera berberak izan ditzaten. Errebalidak eta EVAU bakarra ezartzea, eta gaztelaniazko irakaskuntza herrialde osoan bermatzea.",
+        "oc": "Unificar eth curriculum, es avaloracions nacionaus e era inspeccion entà igualar es oportunitats de toti es alumnes espanhòus. Establir revàlides e ua EVAU unica, e garantir er ensenhament en castelhan en tot eth país.",
+        "en": "Unify the curriculum, national assessments and school inspection to give all Spanish students equal opportunities. Introduce qualifying exams and a single university entrance assessment (EVAU), and guarantee teaching in Spanish nationwide."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-41",
+          "quote": "Igualar las oportunidades para todos los alumnos es- pañoles: unificar currículo, evaluaciones nacionales e inspección. Reválidas y EVAU única. Se garantizará la educación en español en todo el territorio nacional."
+        }
+      ]
+    },
+    {
+      "id": "vox-education-school-choice",
+      "title": {
+        "es": "Elección de centro y prioridad nacional",
+        "ca": "Elecció de centre i prioritat nacional",
+        "gl": "Elección de centro e prioridade nacional",
+        "eu": "Ikastetxea aukeratzea eta espainiarren lehentasuna",
+        "oc": "Eleccion de centre e prioritat nacionau",
+        "en": "Choice of school and national priority"
+      },
+      "text": {
+        "es": "Garantizar la libre elección de centro en todos los niveles, sin que la situación económica o social sea un impedimento, y establecer un distrito escolar único. Dar prioridad a los españoles en la elección de centro y en el acceso a ayudas y subvenciones educativas, plazas de guardería y becas de comedor y transporte.",
+        "ca": "Garantir la lliure elecció de centre a tots els nivells, sense que la situació econòmica o social sigui un impediment, i establir un districte escolar únic. Donar prioritat als espanyols en l'elecció de centre i en l'accés a ajuts i subvencions educatives, places d'escola bressol i beques de menjador i transport.",
+        "gl": "Garantir a libre elección de centro en todos os niveis, sen que a situación económica ou social sexa un impedimento, e establecer un distrito escolar único. Dar prioridade aos españois na elección de centro e no acceso a axudas e subvencións educativas, prazas de gardaría e bolsas de comedor e transporte.",
+        "eu": "Maila guztietan ikastetxea libreki aukeratzea bermatzea, egoera ekonomikoa edo soziala oztopo izan gabe, eta eskola-barruti bakarra ezartzea. Espainiarrei lehentasuna ematea ikastetxea aukeratzeko eta hezkuntza-laguntzak eta -dirulaguntzak, haurtzaindegiko plazak eta jantoki- eta garraio-bekak eskuratzeko.",
+        "oc": "Garantir era liura eleccion de centre en toti es nivèus, sense qu'era situacion economica o sociau sigue un impediment, e establir un districte escolar unic. Dar prioritat as espanhòus ena eleccion de centre e en accès a ajudes e subvencions educatives, places de guarderia e beques de minjador e transpòrt.",
+        "en": "Guarantee free choice of educational institution at every level regardless of financial or social circumstances, and establish a single school admissions district. Give Spanish nationals priority in choosing a school and accessing education grants and subsidies, nursery places, and meal and transport grants."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-41",
+          "quote": "Garantizar la libre elección de centro educa- tivo en todos los niveles"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-41",
+          "quote": "sin que su situa- ción económica o social sea un impedimento para ello."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-42",
+          "quote": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-42",
+          "quote": "Distrito único y libre elección de centro escolar para los padres."
+        }
+      ]
+    },
+    {
+      "id": "vox-education-scholarships",
+      "title": {
+        "es": "Becas de estudio",
+        "ca": "Beques d'estudi",
+        "gl": "Bolsas de estudo",
+        "eu": "Ikasketa-bekak",
+        "oc": "Beques d'estudi",
+        "en": "Study grants"
+      },
+      "text": {
+        "es": "Mejorar las becas universitarias y preuniversitarias para que ningún español se quede sin estudiar por falta de recursos económicos.",
+        "ca": "Millorar les beques universitàries i preuniversitàries perquè cap espanyol es quedi sense estudiar per manca de recursos econòmics.",
+        "gl": "Mellorar as bolsas universitarias e preuniversitarias para que ningún español quede sen estudar por falta de recursos económicos.",
+        "eu": "Unibertsitateko eta unibertsitate aurreko bekak hobetzea, baliabide ekonomikorik ezagatik espainiarrik ikasi ezinik gera ez dadin.",
+        "oc": "Melhorar es beques universitàries e preuniversitàries entà que cap espanhòu se quede sense estudiar per manca de recorsi economics.",
+        "en": "Improve university and pre-university grants so that no Spanish national is prevented from studying by a lack of financial resources."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-41",
+          "quote": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos. Mejorar el sistema de becas en las etapas universitaria y preuniversitaria"
+        }
+      ]
+    },
+    {
+      "id": "vox-education-lomloe",
+      "title": {
+        "es": "LOMLOE y convivencia en el aula",
+        "ca": "LOMLOE i convivència a l'aula",
+        "gl": "LOMLOE e convivencia na aula",
+        "eu": "LOMLOE eta ikasgelako bizikidetza",
+        "oc": "LOMLOE e convivéncia ena aula",
+        "en": "LOMLOE and classroom conduct"
+      },
+      "text": {
+        "es": "Derogar la LOMLOE y reforzar las matemáticas, la lectura, las humanidades y las ciencias. Eliminar los móviles en clase, reforzar la autoridad docente y poner en marcha un plan nacional contra el acoso escolar y el ciberacoso.",
+        "ca": "Derogar la LOMLOE i reforçar les matemàtiques, la lectura, les humanitats i les ciències. Eliminar els mòbils a classe, reforçar l'autoritat docent i posar en marxa un pla nacional contra l'assetjament escolar i el ciberassetjament.",
+        "gl": "Derrogar a LOMLOE e reforzar as matemáticas, a lectura, as humanidades e as ciencias. Eliminar os móbiles na clase, reforzar a autoridade docente e poñer en marcha un plan nacional contra o acoso escolar e o ciberacoso.",
+        "eu": "LOMLOE indargabetzea eta matematika, irakurketa, humanitateak eta zientziak indartzea. Ikasgelan sakelakoak kentzea, irakasleen autoritatea indartzea eta eskola-jazarpenaren eta ziberjazarpenaren aurkako plan nazionala abiatzea.",
+        "oc": "Derogar era LOMLOE e reforçar es matematiques, era lectura, es umanitats e es sciéncies. Eliminar es mobils en classe, reforçar era autoritat deth professorat e méter en marcha un plan nacionau contra er assetjament escolar e eth ciberassetjament.",
+        "en": "Repeal the LOMLOE and strengthen mathematics, reading, humanities and science. Remove mobile phones from class, strengthen teachers' authority and launch a national plan against school bullying and cyberbullying."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-41",
+          "quote": "Derogación de la LOMLOE"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-41",
+          "quote": "Potenciación de las matemáti- cas, la lectura, las humanidades y las ciencias."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-41",
+          "quote": "Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan nacional contra el acoso escolar y el ciberacoso."
+        }
+      ]
+    },
+    {
+      "id": "vox-education-class-limits",
+      "title": {
+        "es": "Límites por aula y nivelación",
+        "ca": "Límits per aula i anivellament",
+        "gl": "Límites por aula e nivelación",
+        "eu": "Ikasgelako mugak eta maila egokitzeko gelak",
+        "oc": "Limits per aula e anivelament",
+        "en": "Classroom limits and catch-up classes"
+      },
+      "text": {
+        "es": "Fijar un máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español. Crear aulas de nivelación para que quienes se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase.",
+        "ca": "Fixar un màxim per aula d'alumnes procedents d'altres cultures o amb domini insuficient del castellà. Crear aules d'anivellament perquè els qui s'incorporin tard al sistema espanyol assoleixin el nivell requerit abans d'integrar-se a la seva classe.",
+        "gl": "Fixar un máximo por aula de alumnado procedente doutras culturas ou cun dominio insuficiente do castelán. Crear aulas de nivelación para que quen se incorpore tarde ao sistema español acade o nivel requirido antes de se integrar na súa clase.",
+        "eu": "Beste kultura batzuetatik datozen edo gaztelania behar adina menderatzen ez duten ikasleen gehieneko kopurua ezartzea ikasgelako. Maila egokitzeko gelak sortzea Espainiako sisteman berandu sartzen diren ikasleek eskatutako maila lor dezaten beren ikasgelan sartu aurretik.",
+        "oc": "Fixar un maxim per aula d'alumnes que vien d'autes cultures o damb un domeni insufisent deth castelhan. Crear aules d'anivelament entà qu'es que s'incorpòren tard ath sistèma espanhòu arriben ath nivèu requerit abans d'integrar-se ena sua classe.",
+        "en": "Set a maximum number per classroom of students from other cultures or with insufficient Spanish proficiency. Create catch-up classes so students who enter the Spanish education system late can reach the required level before joining their class."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-42",
+          "quote": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-42",
+          "quote": "Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tar- de al sistema español alcancen el nivel requerido antes de integrarse en su clase"
+        }
+      ]
+    }
+  ]
+}

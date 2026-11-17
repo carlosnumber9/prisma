@@ -1,0 +1,171 @@
+{
+  "id": "vox--pensions-and-social-protection",
+  "partyId": "vox",
+  "topicId": "pensions-and-social-protection",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-social-pension-sustainability",
+      "title": {
+        "es": "Sostenibilidad de las pensiones",
+        "ca": "Sostenibilitat de les pensions",
+        "gl": "Sustentabilidade das pensións",
+        "eu": "Pentsioen jasangarritasuna",
+        "oc": "Sostenibilitat des pensions",
+        "en": "Pension sustainability"
+      },
+      "text": {
+        "es": "Garantizar la sostenibilidad de las pensiones impulsando la economía y el empleo, mejorando los salarios, aumentando la riqueza y apoyando a las familias, la natalidad y la crianza.",
+        "ca": "Garantir la sostenibilitat de les pensions impulsant l'economia i l'ocupació, millorant els salaris, augmentant la riquesa i donant suport a les famílies, la natalitat i la criança.",
+        "gl": "Garantir a sustentabilidade das pensións impulsando a economía e o emprego, mellorando os salarios, aumentando a riqueza e apoiando as familias, a natalidade e a crianza.",
+        "eu": "Pentsioen jasangarritasuna bermatzea, ekonomia eta enplegua sustatuz, soldatak hobetuz, aberastasuna handituz eta familiei, jaiotza-tasari eta haurren hazkuntzari lagunduz.",
+        "oc": "Garantir era sostenibilitat des pensions en impulsar era economia e er emplec, melhorar es salaris, aumentar era riquesa e dar supòrt as familhes, ara natalitat e ara criança.",
+        "en": "Ensure pension sustainability by strengthening economic activity and employment, improving wages, increasing wealth and supporting families, birth rates and raising children."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-10",
+          "quote": "Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-11",
+          "quote": "impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza"
+        }
+      ]
+    },
+    {
+      "id": "vox-social-minimum-income",
+      "title": {
+        "es": "Ingreso Mínimo Vital",
+        "ca": "Ingreso Mínimo Vital",
+        "gl": "Ingreso Mínimo Vital",
+        "eu": "Ingreso Mínimo Vital",
+        "oc": "Ingreso Mínimo Vital",
+        "en": "Ingreso Mínimo Vital"
+      },
+      "text": {
+        "es": "Reservar el Ingreso Mínimo Vital a los españoles con menos recursos. Promover el retorno de los inmigrantes que lo cobran o que perciben sus complementos autonómicos.",
+        "ca": "Reservar l'Ingreso Mínimo Vital als espanyols amb menys recursos. Promoure el retorn dels immigrants que el cobren o que en perceben els complements autonòmics.",
+        "gl": "Reservar o Ingreso Mínimo Vital para os españois con menos recursos. Promover o retorno das persoas inmigrantes que o cobran ou que perciben os seus complementos autonómicos.",
+        "eu": "Ingreso Mínimo Vital baliabide gutxien dituzten espainiarrentzat gordetzea. Prestazioa edo haren autonomia-erkidegoetako osagarriak jasotzen dituzten etorkinen itzulera sustatzea.",
+        "oc": "Reservar er Ingreso Mínimo Vital as espanhòus damb mens recorsi. Promòir eth retorn des immigrants que lo còbren o que perceben es sòns complements autonomics.",
+        "en": "Reserve the Ingreso Mínimo Vital minimum income benefit for Spanish nationals with the fewest resources. Promote the return of immigrants receiving the benefit or its autonomous-community supplements."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-19",
+          "quote": "El Ingreso Mínimo Vital atenderá únicamente las nece- sidades de los españoles con menos recursos."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-19",
+          "quote": "Se pro- moverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos."
+        }
+      ]
+    },
+    {
+      "id": "vox-social-family-benefits",
+      "title": {
+        "es": "Beneficios para familias desde el primer hijo",
+        "ca": "Beneficis per a famílies des del primer fill",
+        "gl": "Beneficios para as familias desde o primeiro fillo",
+        "eu": "Familientzako onurak lehen seme-alabatik aurrera",
+        "oc": "Beneficis entàs familhes a compdar deth prumèr hilh",
+        "en": "Family benefits from the first child"
+      },
+      "text": {
+        "es": "Dentro del plan de apoyo a las familias españolas, aumentar todos los beneficios actuales de las familias numerosas y extenderlos progresivamente a todas las familias desde el primer hijo. Incrementar las ayudas y bonificaciones según el número de hijos.",
+        "ca": "Dins del pla de suport a les famílies espanyoles, augmentar tots els beneficis actuals de les famílies nombroses i estendre'ls progressivament a totes les famílies des del primer fill. Incrementar els ajuts i les bonificacions segons el nombre de fills.",
+        "gl": "Dentro do plan de apoio ás familias españolas, aumentar todos os beneficios actuais das familias numerosas e estendelos progresivamente a todas as familias desde o primeiro fillo. Incrementar as axudas e bonificacións segundo o número de fillos.",
+        "eu": "Familia espainiarrei laguntzeko planaren barruan, familia ugarien egungo onura guztiak handitzea eta pixkanaka familia guztietara zabaltzea lehen seme-alabatik aurrera. Laguntzak eta hobariak handitzea seme-alaben kopuruaren arabera.",
+        "oc": "En marc deth plan de supòrt as familhes espanhòles, aumentar toti es beneficis actuaus des familhes nombroses e estener-les progressivament a totes es familhes a compdar deth prumèr hilh. Incrementar es ajudes e bonificacions segontes eth nombre de hilhs.",
+        "en": "As part of the plan to support Spanish families, increase all current benefits for large families and gradually extend them to all families from their first child. Increase aid and relief according to the number of children."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-51",
+          "quote": "Plan nacional de natalidad y apoyo a las familias espa- ñolas."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-51",
+          "quote": "Todos los beneficios que ahora existen para las fa- milias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el pri- mer hijo, intensificando las ayudas y bonificaciones en función del número de hijos."
+        }
+      ]
+    },
+    {
+      "id": "vox-social-childcare-contributions",
+      "title": {
+        "es": "Cotización por cuidado de hijos",
+        "ca": "Cotització per cura dels fills",
+        "gl": "Cotización polo coidado dos fillos",
+        "eu": "Seme-alabak zaintzeagatiko kotizazioa",
+        "oc": "Cotizacion pera guarda des hilhs",
+        "en": "Contributions for parents caring for children"
+      },
+      "text": {
+        "es": "Financiar con fondos estatales la cotización a la Seguridad Social de los españoles que se dedican al cuidado de sus hijos.",
+        "ca": "Finançar amb fons estatals la cotització a la Seguretat Social dels espanyols que es dediquen a tenir cura dels fills.",
+        "gl": "Financiar con fondos estatais a cotización á Seguridade Social dos españois que se dedican a coidar dos seus fillos.",
+        "eu": "Seme-alabak zaintzen diharduten espainiarren Gizarte Segurantzako kotizazioa estatuaren funtsekin finantzatzea.",
+        "oc": "Finançar damb hons der Estat era cotizacion ara Seguretat Sociau des espanhòus que se dediquen a tier compde des sòns hilhs.",
+        "en": "Have the state fund social security contributions for Spanish nationals who devote themselves to caring for their children."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-51",
+          "quote": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos."
+        }
+      ]
+    },
+    {
+      "id": "vox-social-dependency-care",
+      "title": {
+        "es": "Atención a la dependencia",
+        "ca": "Atenció a la dependència",
+        "gl": "Atención á dependencia",
+        "eu": "Mendekotasunari arreta",
+        "oc": "Atencion ara dependéncia",
+        "en": "Long-term care and support"
+      },
+      "text": {
+        "es": "Reforzar el presupuesto de dependencia, las ayudas para el cuidado en casa y el apoyo a familiares cuidadores. Ampliar los programas contra la soledad no deseada y las plazas residenciales. Eliminar trabas para que las ayudas lleguen a los beneficiarios con rapidez y en su totalidad.",
+        "ca": "Reforçar el pressupost de dependència, els ajuts per a la cura a domicili i el suport als familiars cuidadors. Ampliar els programes contra la soledat no desitjada i les places residencials. Eliminar traves perquè els ajuts arribin als beneficiaris amb rapidesa i íntegrament.",
+        "gl": "Reforzar o orzamento de dependencia, as axudas para o coidado no fogar e o apoio aos familiares coidadores. Ampliar os programas contra a soidade non desexada e as prazas residenciais. Eliminar trabas para que as axudas cheguen ás persoas beneficiarias con rapidez e na súa totalidade.",
+        "eu": "Mendekotasunerako aurrekontua, etxeko zaintzarako laguntzak eta zaintzaile diren senideentzako babesa indartzea. Nahi gabeko bakardadearen aurkako programak eta egoitzetako plazak zabaltzea. Oztopoak kentzea laguntzak onuradunei azkar eta osorik irits dakizkien.",
+        "oc": "Reforçar eth pressupòst de dependéncia, es ajudes entà tier compde des persones en casa e eth supòrt as familiars que les suenhen. Ampliar es programes contra era soletat non desirata e es places en residéncies. Eliminar es traves entà qu'es ajudes arriben as beneficiaris damb rapiditat e integraument.",
+        "en": "Increase the long-term care budget, support for care at home and support for family carers. Expand programmes addressing unwanted loneliness and increase residential care places. Remove barriers so beneficiaries receive support promptly and in full."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-52",
+          "quote": "Refor- zar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-52",
+          "quote": "Au- mento de los programas de atención a la soledad no deseada y de las plazas en residencias."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-52",
+          "quote": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios."
+        }
+      ]
+    }
+  ]
+}

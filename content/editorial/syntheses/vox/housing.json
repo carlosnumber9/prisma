@@ -1,0 +1,213 @@
+{
+  "id": "vox--housing",
+  "partyId": "vox",
+  "topicId": "housing",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-housing-priority",
+      "title": {
+        "es": "Prioridad nacional en vivienda",
+        "ca": "Prioritat nacional en habitatge",
+        "gl": "Prioridade nacional na vivenda",
+        "eu": "Estatuko herritarren lehentasuna etxebizitzan",
+        "oc": "Prioritat nacionau en abitatge",
+        "en": "National priority in housing"
+      },
+      "text": {
+        "es": "Dar prioridad a los españoles en el acceso a la vivienda protegida o social y a las ayudas al alquiler. Modificar o derogar las normas que dificulten aplicar esta prioridad.",
+        "ca": "Donar prioritat als espanyols en l'accés a l'habitatge protegit o social i als ajuts al lloguer. Modificar o derogar les normes que dificultin aplicar aquesta prioritat.",
+        "gl": "Dar prioridade aos españois no acceso á vivenda protexida ou social e ás axudas ao alugueiro. Modificar ou derrogar as normas que dificulten aplicar esta prioridade.",
+        "eu": "Espainiarrei lehentasuna ematea etxebizitza babestua edo soziala eta alokairurako laguntzak eskuratzeko. Lehentasun hori aplikatzea zailtzen duten arauak aldatzea edo indargabetzea.",
+        "oc": "Dar prioritat as espanhòus en accès ar abitatge protegit o sociau e as ajudes ath loguèr. Modificar o derogar es normes que dificulten era aplicacion d'aguesta prioritat.",
+        "en": "Give Spanish nationals priority in access to protected or social housing and rental assistance. Amend or repeal rules that make it difficult to apply this priority."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-23",
+          "quote": "Prioridad na- cional para acceder a una vivienda protegida, social o a una ayuda al alquiler."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-23",
+          "quote": "Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional."
+        }
+      ]
+    },
+    {
+      "id": "vox-housing-land",
+      "title": {
+        "es": "Reforma de la Ley del Suelo",
+        "ca": "Reforma de la Ley del Suelo",
+        "gl": "Reforma da Ley del Suelo",
+        "eu": "Ley del Suelo legearen erreforma",
+        "oc": "Reforma dera Ley del Suelo",
+        "en": "Reform of the Ley del Suelo"
+      },
+      "text": {
+        "es": "Reformar la Ley del Suelo para aumentar de forma sustancial y sostenida la construcción de vivienda nueva, ampliando el suelo disponible y agilizando y simplificando los trámites.",
+        "ca": "Reformar la Ley del Suelo per augmentar de manera substancial i sostinguda la construcció d'habitatge nou, ampliant el sòl disponible i agilitzant i simplificant els tràmits.",
+        "gl": "Reformar a Ley del Suelo para aumentar de maneira substancial e sostida a construción de vivenda nova, ampliando o solo dispoñible e axilizando e simplificando os trámites.",
+        "eu": "Ley del Suelo legea erreformatzea etxebizitza berrien eraikuntza nabarmen eta modu iraunkorrean handitzeko, lurzoru erabilgarria zabaldu eta izapideak arindu eta erraztuta.",
+        "oc": "Reformar era Ley del Suelo entà aumentar de manèra substanciau e sostenguda era construccion d'abitatge nau, ampliant eth solèr disponible e agilant e simplificant es tramits.",
+        "en": "Reform the Ley del Suelo to increase new housing construction substantially and on a sustained basis, making more land available and speeding up and simplifying procedures."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-23",
+          "quote": "Reforma de la Ley del Suelo."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-23",
+          "quote": "Incrementar de manera sustancial y sostenida en el tiempo la construcción de vivienda nueva: ampliación de suelo disponible, agilización de procedimientos, su- presión de trabas regulatorias innecesarias, simplifica- ción administrativa."
+        }
+      ]
+    },
+    {
+      "id": "vox-housing-investment",
+      "title": {
+        "es": "Inversión en vivienda protegida",
+        "ca": "Inversió en habitatge protegit",
+        "gl": "Investimento en vivenda protexida",
+        "eu": "Etxebizitza babesturako inbertsioa",
+        "oc": "Inversion en abitatge protegit",
+        "en": "Investment in protected housing"
+      },
+      "text": {
+        "es": "Aumentar la inversión pública en vivienda por habitante e incrementar con urgencia la construcción de vivienda protegida para familias españolas mediante colaboración público-privada, con cesiones de suelo, subvenciones, descuentos, avales y créditos blandos.",
+        "ca": "Augmentar la inversió pública en habitatge per habitant i incrementar urgentment la construcció d'habitatge protegit per a famílies espanyoles mitjançant la col·laboració publicoprivada, amb cessions de sòl, subvencions, descomptes, avals i crèdits tous.",
+        "gl": "Aumentar o investimento público en vivenda por habitante e incrementar con urxencia a construción de vivenda protexida para familias españolas mediante a colaboración público-privada, con cesións de solo, subvencións, descontos, avais e préstamos en condicións favorables.",
+        "eu": "Biztanleko etxebizitzarako inbertsio publikoa handitzea eta familia espainiarrentzako etxebizitza babestuen eraikuntza premiaz areagotzea lankidetza publiko-pribatuaren bidez, lurzoru-lagapenak, dirulaguntzak, deskontuak, abalak eta mailegu bigunak baliatuta.",
+        "oc": "Aumentar era inversion publica en abitatge per abitant e incrementar damb urgéncia era construccion d'abitatge protegit entàs familhes espanhòles mejançant era collaboracion publica e privada, damb cessions de solèr, subvencions, descompdes, avaus e credits en condicions favorables.",
+        "en": "Increase public housing investment per person and urgently expand construction of protected housing for Spanish families through public-private partnerships, using land transfers, subsidies, discounts, guarantees and concessional loans."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-23",
+          "quote": "Ampliación de la inversión pública en vivienda por habitante."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-23",
+          "quote": "Aumentar con urgencia la construcción de vivienda protegida para las familias españolas median- te su promoción y colaboración público-privada: cesio- nes de suelo, subvenciones, descuentos, avales a finan- ciación y créditos blandos."
+        }
+      ]
+    },
+    {
+      "id": "vox-housing-rental",
+      "title": {
+        "es": "Alquiler residencial y turístico",
+        "ca": "Lloguer residencial i turístic",
+        "gl": "Alugueiro residencial e turístico",
+        "eu": "Bizitegi- eta turismo-alokairua",
+        "oc": "Loguèr residenciau e toristic",
+        "en": "Residential and tourist rentals"
+      },
+      "text": {
+        "es": "Derogar la Ley de Vivienda, dar incentivos fiscales al alquiler de larga duración y deducciones a los inquilinos españoles. Regular la proliferación de viviendas de uso turístico y reforzar la inspección de los pisos turísticos ilegales.",
+        "ca": "Derogar la Ley de Vivienda, donar incentius fiscals al lloguer de llarga durada i deduccions als llogaters espanyols. Regular la proliferació d'habitatges d'ús turístic i reforçar la inspecció dels pisos turístics il·legals.",
+        "gl": "Derrogar a Ley de Vivienda, dar incentivos fiscais ao alugueiro de longa duración e deducións aos inquilinos españois. Regular a proliferación de vivendas de uso turístico e reforzar a inspección dos pisos turísticos ilegais.",
+        "eu": "Ley de Vivienda legea indargabetzea, iraupen luzeko alokairurako zerga-pizgarriak ematea eta maizter espainiarrei kenkariak ematea. Turismo-erabilerako etxebizitzen ugaritzea arautzea eta legez kanpoko turismo-pisuen ikuskapena indartzea.",
+        "oc": "Derogar era Ley de Vivienda, dar incentius fiscaus ath loguèr de longa durada e deduccions as logataris espanhòus. Regular era proliferacion des abitatges d'usatge toristic e reforçar era inspeccion des apartaments toristics illegaus.",
+        "en": "Repeal the Ley de Vivienda, introduce tax incentives for long-term rentals and give Spanish tenants tax deductions. Regulate the proliferation of tourist accommodation and strengthen inspections of illegal tourist flats."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-23",
+          "quote": "Derogación de la Ley de Vivienda. Incentivos fiscales al alquiler de larga"
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-24",
+          "quote": "duración y deducciones para inquilinos españoles. Re- gulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales."
+        }
+      ]
+    },
+    {
+      "id": "vox-housing-unauthorised-occupation",
+      "title": {
+        "es": "Ocupación de viviendas",
+        "ca": "Ocupació d'habitatges",
+        "gl": "Ocupación de vivendas",
+        "eu": "Etxebizitzen okupazioa",
+        "oc": "Ocupacion d'abitatges",
+        "en": "Unauthorised occupation of homes"
+      },
+      "text": {
+        "es": "Desalojar las viviendas ocupadas sin título en menos de 24 horas y devolver inmediatamente la posesión al propietario. Dar asistencia jurídica gratuita a los afectados y eximirlos de impuestos, cargas fiscales y costes de suministros del inmueble mientras dure la ocupación. Tipificar como delito de estafa lo que el programa denomina «inquiocupación».",
+        "ca": "Desallotjar els habitatges ocupats sense títol en menys de 24 hores i retornar immediatament la possessió al propietari. Donar assistència jurídica gratuïta als afectats i eximir-los d'impostos, càrregues fiscals i costos de subministraments de l'immoble mentre duri l'ocupació. Tipificar com a delicte d'estafa allò que el programa anomena «inquiocupación».",
+        "gl": "Desaloxar as vivendas ocupadas sen título en menos de 24 horas e devolver inmediatamente a posesión á persoa propietaria. Dar asistencia xurídica gratuíta ás persoas afectadas e eximilas de impostos, cargas fiscais e custos de subministracións do inmoble mentres dure a ocupación. Tipificar como delito de estafa o que o programa denomina «inquiocupación».",
+        "eu": "Titulurik gabe okupatutako etxebizitzak 24 ordu baino gutxiagoan hustea eta edukitza jabeari berehala itzultzea. Kaltetuei doako laguntza juridikoa ematea eta higiezinaren zergak, zerga-kargak eta hornidura-gastuak ordaintzetik salbuestea okupazioak irauten duen bitartean. Programak «inquiocupación» deitzen duena iruzur-delitu gisa tipifikatzea.",
+        "oc": "Deslotjar es abitatges ocupadi sense títol en mens de 24 ores e restituïr immediatament era possession ath proprietari. Dar assisténcia juridica gratuïta as persones afectades e eximir-les d'impòsti, cargues fiscaus e còsti des provesiments der immòble mentre dure era ocupacion. Tipificar coma delicte d'estafa çò qu'eth programa nomente «inquiocupación».",
+        "en": "Evict occupants without a legal right to occupy in under 24 hours and restore possession to the owner immediately. Give those affected free legal assistance and exempt them from taxes, fiscal charges and utility costs on the property for the duration of the occupation. Classify what the programme calls «inquiocupación» as a fraud offence."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-24",
+          "quote": "Desalojo de la vivienda okupada en menos de 24 ho- ras y recuperación inmediata de la posesión por su le- gítimo titular, el propietario."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-24",
+          "quote": "Asistencia jurídica gratui- ta para los afectados y exención de impuestos y de las cargas fiscales y de suministros del inmueble mientras dure la okupación."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-24",
+          "quote": "Tipificación de la inquiocupación como delito de estafa."
+        }
+      ]
+    },
+    {
+      "id": "vox-housing-first-home",
+      "title": {
+        "es": "Impuestos sobre la primera vivienda habitual",
+        "ca": "Impostos sobre el primer habitatge habitual",
+        "gl": "Impostos sobre a primeira vivenda habitual",
+        "eu": "Lehen ohiko etxebizitzaren gaineko zergak",
+        "oc": "Impòsti sus eth prumèr abitatge abituau",
+        "en": "Taxes on a first main home"
+      },
+      "text": {
+        "es": "Aplicar un IVA del 0 % a las familias españolas al comprar su primera vivienda habitual de obra nueva, y una bonificación del 100 % del ITP si es de segunda mano. Recuperar la deducción por inversión en vivienda habitual.",
+        "ca": "Aplicar un IVA del 0 % a les famílies espanyoles quan comprin el seu primer habitatge habitual d'obra nova, i una bonificació del 100 % de l'ITP si és de segona mà. Recuperar la deducció per inversió en habitatge habitual.",
+        "gl": "Aplicar un IVE do 0 % ás familias españolas ao compraren a súa primeira vivenda habitual de nova construción, e unha bonificación do 100 % do ITP se é de segunda man. Recuperar a dedución por investimento en vivenda habitual.",
+        "eu": "Familia espainiarrei % 0ko BEZa aplikatzea eraikuntza berriko lehen ohiko etxebizitza erostean, eta ITP zergaren % 100eko hobaria ematea bigarren eskukoa bada. Ohiko etxebizitzan inbertitzeagatiko kenkaria berreskuratzea.",
+        "oc": "Aplicar un IVA deth 0 % as familhes espanhòles quan crompen eth sòn prumèr abitatge abituau de construccion naua, e ua bonificacion deth 100 % der ITP s'ei de dusau man. Recuperar era deduccion per inversion en abitatge abituau.",
+        "en": "Apply 0% VAT when Spanish families buy their first newly built main home and a 100% transfer tax (ITP) rebate if it is a resale property. Restore the tax deduction for investment in a main home."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-24",
+          "quote": "La primera vivienda habitual de una familia española no paga impuestos."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-24",
+          "quote": "Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción- y bonificación 100% del ITP para la compra de tu primera vivienda habitual -de segunda mano-."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-24",
+          "quote": "Recuperación de la deducción por inversión en vivienda habitual."
+        }
+      ]
+    }
+  ]
+}

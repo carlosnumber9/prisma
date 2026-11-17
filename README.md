@@ -2,7 +2,7 @@
 
 Prisma will help Spanish citizens read reviewed summaries of official programmes for the general election on 29 November 2026, by electoral formation and policy area.
 
-The editorial foundation and statically prerendered Next.js portal are implemented. The initial limited catalogue contains PP, PSOE, VOX, ERC and Frente Amplio, with eight policy areas. The approved batches give PP 24 proposals, PSOE 32 proposals and Frente Amplio 59 proposals, with eight partial summaries each. The other 16 summaries are pending. The correction form, comparator, chat and Vercel integration remain future deliveries.
+The editorial foundation and statically prerendered Next.js portal are implemented. The initial limited catalogue contains PP, PSOE, VOX, ERC and Frente Amplio, with eight policy areas. The approved batches give PP 24 proposals, PSOE 32, VOX 44 and Frente Amplio 59, with eight partial summaries each. ERC's eight summaries are pending. The correction form, comparator, chat and Vercel integration remain future deliveries.
 
 Breadcrumbs now retain their common route prefix. New pieces slide out from behind the preceding piece over 160 milliseconds; removed pieces slide back before disappearing. Sibling navigation replaces only the differing suffix. Reduced motion, resizing and font changes settle immediately.
 
@@ -63,6 +63,8 @@ The native Codex [research team](docs/research-factory.md) coordinates scoped of
 The [11 November PP editorial review](content/reviews/2026-11-11-pp-programme-draft.md) records the preserved national programme and 24 approved proposals in all six languages. Comparison with the second official PDF remains pending.
 
 The [15 November PSOE editorial review](content/reviews/2026-11-15-psoe-programme-draft.md) records the preserved 114-page national programme and the 32 approved proposals in all six languages. The [14 November discovery review](content/reviews/2026-11-14-psoe-programme-discovery.md) preserves the earlier source search. Territorial supplements and a byte comparison with the official attachment remain pending.
+
+The VOX national programme contains 115 numbered measures. The preserved PDF matches the official download byte for byte. The maintainer approved 44 proposals in six languages across all eight Prisma areas. [17 November VOX editorial review](content/reviews/2026-11-17-vox-programme-draft.md)
 
 The [30 October PSOE list investigation](content/political-info/reviews/2026-10-30-psoe-lists-discovery.md) examines 52 Congress and 60 Senate candidatures, preserving 1,014 published candidate appearances and territorial announcement history. PSOE/PSC participation is established for 111 lists; the Ceuta Senate coalition's link to PSOE remains pending, including its six candidate appearances. These are submitted candidatures, not proclaimed lists or approved portal data. Senate substitute relationships remain in research evidence because the current public reference contract cannot represent them.
 

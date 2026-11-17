@@ -1,0 +1,156 @@
+{
+  "id": "vox--employment",
+  "partyId": "vox",
+  "topicId": "employment",
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-17T22:47:57Z",
+  "sourceIds": ["vox-2026-065abf6720be"],
+  "points": [
+    {
+      "id": "vox-employment-self-employed-contributions",
+      "title": {
+        "es": "Cuota de autónomos",
+        "ca": "Quota d'autònoms",
+        "gl": "Cota de autónomos",
+        "eu": "Autonomoen kuota",
+        "oc": "Quòta des autonòms",
+        "en": "Self-employed contributions"
+      },
+      "text": {
+        "es": "Fijar una cuota de cero euros para los autónomos cuyos ingresos no alcancen el salario mínimo interprofesional. Para quienes superen ese umbral, establecer una cuota progresiva desde 50 euros en función de sus ingresos.",
+        "ca": "Fixar una quota de zero euros per als autònoms amb ingressos inferiors al salari mínim interprofessional. Per als qui superin aquest llindar, establir una quota progressiva des de 50 euros en funció dels ingressos.",
+        "gl": "Fixar unha cota de cero euros para os autónomos cuxos ingresos non cheguen ao salario mínimo interprofesional. Para quen supere ese limiar, establecer unha cota progresiva desde 50 euros en función dos ingresos.",
+        "eu": "Lanbide arteko gutxieneko soldatara iristen ez diren diru-sarrerak dituzten autonomoei zero euroko kuota ezartzea. Atalase hori gainditzen dutenentzat, diru-sarreren araberako kuota progresiboa ezartzea, 50 eurotik hasita.",
+        "oc": "Fixar ua quòta de zèro èuros entàs autonòms qu'an ingrèssi inferiors ath salari minim interprofessionau. Entàs que supèren aguest lindau, establir ua quòta progressiva a compdar de 50 èuros en foncion des ingrèssi.",
+        "en": "Set contributions at zero euros for self-employed workers who earn less than the statutory minimum wage. For those above that threshold, introduce a progressive contribution starting at €50 and based on their income."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-9",
+          "quote": "Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo In- terprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus in- gresos."
+        }
+      ]
+    },
+    {
+      "id": "vox-employment-labour-law",
+      "title": {
+        "es": "Derogación de legislación laboral",
+        "ca": "Derogació de legislació laboral",
+        "gl": "Derrogación de lexislación laboral",
+        "eu": "Lan-legeria indargabetzea",
+        "oc": "Derogacion dera legislacion laborau",
+        "en": "Repeal of labour legislation"
+      },
+      "text": {
+        "es": "Derogar la legislación laboral del Gobierno de Sánchez.",
+        "ca": "Derogar la legislació laboral del Govern de Sánchez.",
+        "gl": "Derrogar a lexislación laboral do Goberno de Sánchez.",
+        "eu": "Sánchezen Gobernuaren lan-legeria indargabetzea.",
+        "oc": "Derogar era legislacion laborau deth Govèrn de Sánchez.",
+        "en": "Repeal the Sánchez government's labour legislation."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-13",
+          "quote": "Derogar la legislación laboral de Sánchez"
+        }
+      ]
+    },
+    {
+      "id": "vox-employment-industrial-jobs",
+      "title": {
+        "es": "Empleo industrial y reindustrialización",
+        "ca": "Ocupació industrial i reindustrialització",
+        "gl": "Emprego industrial e reindustrialización",
+        "eu": "Industria-enplegua eta berrindustrializazioa",
+        "oc": "Emplec industriau e reindustrializacion",
+        "en": "Industrial jobs and reindustrialisation"
+      },
+      "text": {
+        "es": "Aprobar un Plan Nacional de Reindustrialización para contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo industrial y el bajo peso de la industria en el PIB. Atraer inversiones estratégicas que favorezcan la economía nacional y el empleo.",
+        "ca": "Aprovar un Plan Nacional de Reindustrialización per contrarestar les deslocalitzacions, la competència deslleial, la pèrdua d'ocupació industrial i el pes reduït de la indústria en el PIB. Atraure inversions estratègiques que afavoreixin l'economia nacional i l'ocupació.",
+        "gl": "Aprobar un Plan Nacional de Reindustrialización para contrarrestar as deslocalizacións, a competencia desleal, a perda de emprego industrial e o baixo peso da industria no PIB. Atraer investimentos estratéxicos que favorezan a economía nacional e o emprego.",
+        "eu": "Plan Nacional de Reindustrialización onartzea, deslokalizazioei, lehia desleialari, industria-enpleguaren galerari eta industriak BPGan duen pisu txikiari aurre egiteko. Ekonomia nazionala eta enplegua sustatzen dituzten inbertsio estrategikoak erakartzea.",
+        "oc": "Aprovar un Plan Nacional de Reindustrialización entà contrarestar es deslocalizacions, era competéncia desleiau, era pèrta d'emplec industriau e eth pes redusit dera indústria en PIB. Atrèir inversions estrategiques qu'afavorisquen era economia nacionau e er emplec.",
+        "en": "Approve a Plan Nacional de Reindustrialización to address offshoring, unfair competition, industrial job losses and industry's low share of GDP. Attract strategic investment that supports the national economy and employment."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-12",
+          "quote": "Aprobación de un Plan Nacional de Reindustrializa- ción enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo indus- trial y la baja participación de la industria en el PIB."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-12",
+          "quote": "Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo."
+        }
+      ]
+    },
+    {
+      "id": "vox-employment-rural-succession",
+      "title": {
+        "es": "Relevo generacional en el sector primario",
+        "ca": "Relleu generacional al sector primari",
+        "gl": "Relevo xeracional no sector primario",
+        "eu": "Belaunaldi-erreleboa lehen sektorean",
+        "oc": "Relèu generacionau en sector primari",
+        "en": "Generational renewal in the primary sector"
+      },
+      "text": {
+        "es": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares apoyando la incorporación de jóvenes al sector primario y a las cooperativas agroalimentarias. Impulsar la formación profesional del sector mediante programas públicos y concertados.",
+        "ca": "Afavorir el relleu generacional i la continuïtat de les explotacions familiars donant suport a la incorporació de joves al sector primari i a les cooperatives agroalimentàries. Impulsar la formació professional del sector amb programes públics i concertats.",
+        "gl": "Favorecer o relevo xeracional e a continuidade das explotacións familiares apoiando a incorporación da mocidade ao sector primario e ás cooperativas agroalimentarias. Impulsar a formación profesional do sector mediante programas públicos e concertados.",
+        "eu": "Belaunaldi-erreleboa eta familia-ustiategien jarraipena sustatzea, gazteak lehen sektorean eta nekazaritzako elikagaien kooperatibetan sartzen lagunduz. Sektoreko lanbide heziketa bultzatzea programa publikoen eta itunduen bidez.",
+        "oc": "Afavorir eth relèu generacionau e era continuitat des explotacions familiares en tot dar supòrt ara incorporacion de joeni ath sector primari e as cooperatives agroalimentàries. Promòir era formacion professionau deth sector mejançant programes publics e concertadi.",
+        "en": "Support generational renewal and continuity on family holdings by helping young people enter the primary sector and agri-food cooperatives. Promote vocational training in the sector through public and publicly subsidised programmes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-35",
+          "quote": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares en el mundo rural apoyan- do la incorporación de los jóvenes al sector primario y a las cooperativas agroalimentarias."
+        },
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-35",
+          "quote": "Impulso de la Forma- ción Profesional en el sector primario a través de pro- gramas públicos y concertados."
+        }
+      ]
+    },
+    {
+      "id": "vox-employment-mothers-return",
+      "title": {
+        "es": "Reincorporación laboral de madres",
+        "ca": "Reincorporació laboral de mares",
+        "gl": "Reincorporación laboral das nais",
+        "eu": "Amak lanera itzultzea",
+        "oc": "Reincorporacion laborau des mairs",
+        "en": "Mothers returning to work"
+      },
+      "text": {
+        "es": "Facilitar la formación, la permanencia, la promoción y la reincorporación al trabajo de las madres que interrumpieron su carrera por maternidad o para cuidar a familiares y desean retomarla.",
+        "ca": "Facilitar la formació, la permanència, la promoció i la reincorporació a la feina de les mares que van interrompre la carrera per maternitat o per tenir cura de familiars i volen reprendre-la.",
+        "gl": "Facilitar a formación, a permanencia, a promoción e a reincorporación ao traballo das nais que interromperon a súa carreira por maternidade ou por coidar de familiares e desexan retomala.",
+        "eu": "Amatasunagatik edo senideak zaintzeko lanbide-ibilbidea eten eta berriro ekin nahi dioten amen prestakuntza, laneko jarraipena, lanbide-sustapena eta lanera itzultzea erraztea.",
+        "oc": "Facilitar era formacion, era permanéncia, era promocion e era reincorporacion ath trabalh des mairs qu'interromperen era sua carrèra pera maternitat o entà tier compde de familiars e la vòlen repréner.",
+        "en": "Make it easier for mothers who paused their careers for maternity or to care for relatives and want to resume them to train, stay in work, advance and return to work."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "vox-2026-065abf6720be",
+          "segmentId": "page-52",
+          "quote": "facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla."
+        }
+      ]
+    }
+  ]
+}
