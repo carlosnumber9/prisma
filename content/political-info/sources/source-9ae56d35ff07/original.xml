@@ -1,0 +1,1745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <sumario>
+      <metadatos>
+        <publicacion>BOE</publicacion>
+        <fecha_publicacion>20261105</fecha_publicacion>
+      </metadatos>
+      <diario numero="276">
+        <sumario_diario>
+          <identificador>BOE-S-2026-276</identificador>
+          <url_pdf szBytes="413889" szKBytes="404">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-S-2026-276.pdf</url_pdf>
+        </sumario_diario>
+        <seccion codigo="1" nombre="I. Disposiciones generales">
+          <departamento codigo="9562" nombre="MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN">
+            <epigrafe nombre="Tratados internacionales">
+              <item>
+                <identificador>BOE-A-2026-23173</identificador>
+                <control>2026/17243</control>
+                <titulo>Entrada en vigor del Acuerdo entre la Unión Europea y la Comunidad Europea de la Energía Atómica, por una parte, y el Reino de España, por otra, relativo al establecimiento del Centro Común de Investigación de la Comisión Europea en Sevilla, hecho en Sevilla el 30 de junio de 2025.</titulo>
+                <url_pdf szBytes="190995" szKBytes="187" pagina_inicial="148172" pagina_final="148172">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23173.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23173</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23173</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Impuestos">
+              <item>
+                <identificador>BOE-A-2026-23174</identificador>
+                <control>2026/17345</control>
+                <titulo>Orden HAC/1161/2026, de 4 de noviembre, por la que se desarrollan para el año 2027 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido.</titulo>
+                <url_pdf szBytes="1548680" szKBytes="1512" pagina_inicial="148173" pagina_final="148253">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23174.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23174</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23174</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <epigrafe nombre="Procedimientos administrativos. Gestión informatizada">
+              <item>
+                <identificador>BOE-A-2026-23175</identificador>
+                <control>2026/17346</control>
+                <titulo>Orden CLT/1162/2026, de 30 de octubre, por la que se establece la obligatoriedad de comunicaciones y notificaciones por medios electrónicos en los procedimientos de concesión de subvenciones y ayudas de la Dirección General de Artes Escénicas y Música.</titulo>
+                <url_pdf szBytes="209782" szKBytes="205" pagina_inicial="148254" pagina_final="148257">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23175.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23175</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23175</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <epigrafe nombre="Seguridad Social. Prestaciones">
+              <item>
+                <identificador>BOE-A-2026-23176</identificador>
+                <control>2026/17333</control>
+                <titulo>Real Decreto 957/2026, de 4 de noviembre, de desarrollo del régimen jurídico de la prestación económica por cuidado de menores afectados por cáncer u otra enfermedad grave en el sistema de la Seguridad Social.</titulo>
+                <url_pdf szBytes="413202" szKBytes="404" pagina_inicial="148258" pagina_final="148285">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23176.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23176</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23176</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9595" nombre="MINISTERIO PARA LA TRANSFORMACIÓN DIGITAL Y DE LA FUNCIÓN PÚBLICA">
+            <epigrafe nombre="Telecomunicaciones">
+              <item>
+                <identificador>BOE-A-2026-23177</identificador>
+                <control>2026/17334</control>
+                <titulo>Real Decreto 958/2026, de 4 de noviembre, por el que se adoptan medidas de impulso de la tecnología DAB+ en el servicio de radiodifusión sonora digital terrestre.</titulo>
+                <url_pdf szBytes="291088" szKBytes="284" pagina_inicial="148286" pagina_final="148296">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23177.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23177</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23177</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1420" nombre="TRIBUNAL DE CUENTAS">
+            <epigrafe nombre="Elecciones. Contabilidad">
+              <item>
+                <identificador>BOE-A-2026-23178</identificador>
+                <control>2026/17095</control>
+                <titulo>Resolución de 29 de octubre de 2026, de la Presidencia del Tribunal de Cuentas, por la que se publica el Acuerdo del Pleno de 29 de octubre de 2026, por el que se aprueba la Instrucción relativa a la fiscalización de las contabilidades de las elecciones a las Cortes Generales de 29 de noviembre de 2026.</titulo>
+                <url_pdf szBytes="433515" szKBytes="423" pagina_inicial="148297" pagina_final="148317">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23178.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23178</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23178</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8121" nombre="COMUNIDAD AUTÓNOMA DE LAS ILLES BALEARS">
+            <epigrafe nombre="Salud pública">
+              <item>
+                <identificador>BOE-A-2026-23179</identificador>
+                <control>2026/16955</control>
+                <titulo>Decreto-ley 2/2026, de 7 de agosto, por el cual se establecen medidas en materia de protección de la salud pública.</titulo>
+                <url_pdf szBytes="228677" szKBytes="223" pagina_inicial="148318" pagina_final="148324">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23179.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23179</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23179</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Educación">
+              <item>
+                <identificador>BOE-A-2026-23180</identificador>
+                <control>2026/16956</control>
+                <titulo>Decreto-ley 3/2026, de 7 de agosto, por el cual se establecen medidas urgentes en materia de educación.</titulo>
+                <url_pdf szBytes="245796" szKBytes="240" pagina_inicial="148325" pagina_final="148334">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23180.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23180</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23180</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2A" nombre="II. Autoridades y personal. - A. Nombramientos, situaciones e incidencias">
+          <departamento codigo="1820" nombre="CONSEJO GENERAL DEL PODER JUDICIAL">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2026-23181</identificador>
+                <control>2026/17158</control>
+                <titulo>Real Decreto 947/2026, de 28 de octubre, por el que se nombra Presidenta del Tribunal de Instancia de Santander a la Magistrada doña María Rosa Martínez López.</titulo>
+                <url_pdf szBytes="192002" szKBytes="188" pagina_inicial="148335" pagina_final="148335">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23181.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23181</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23181</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23182</identificador>
+                <control>2026/17159</control>
+                <titulo>Real Decreto 948/2026, de 28 de octubre, por el que se nombra Presidenta del Tribunal de Instancia de Santa Cruz de Tenerife a la Magistrada doña Ana Delia Hernández Sarmiento.</titulo>
+                <url_pdf szBytes="192177" szKBytes="188" pagina_inicial="148336" pagina_final="148336">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23182.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23182</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23182</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Situaciones">
+              <item>
+                <identificador>BOE-A-2026-23183</identificador>
+                <control>2026/14247</control>
+                <titulo>Acuerdo de 28 de julio de 2026, de la Comisión Permanente del Consejo General del Poder Judicial, por el que se declara la jubilación forzosa de la Magistrada doña María del Prado Villanueva Cueva.</titulo>
+                <url_pdf szBytes="191608" szKBytes="187" pagina_inicial="148337" pagina_final="148337">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23183.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23183</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23183</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Ceses y nombramientos">
+              <item>
+                <identificador>BOE-A-2026-23184</identificador>
+                <control>2026/16958</control>
+                <titulo>Orden HAC/1163/2026, de 26 de octubre, por la que se dispone el cese y nombramiento de vocales del Consejo para la Defensa del Contribuyente.</titulo>
+                <url_pdf szBytes="192135" szKBytes="188" pagina_inicial="148338" pagina_final="148338">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23184.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23184</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23184</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Nombramientos">
+              <item>
+                <identificador>BOE-A-2026-23185</identificador>
+                <control>2026/16859</control>
+                <titulo>Resolución de 26 de octubre de 2026, conjunta de la Universidad de Málaga y el Servicio Andaluz de Salud, por la que se nombra Catedrático de Universidad, con plaza vinculada, a don Gabriel María Olveira Fuster.</titulo>
+                <url_pdf szBytes="193618" szKBytes="189" pagina_inicial="148339" pagina_final="148339">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23185.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23185</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23185</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23186</identificador>
+                <control>2026/16860</control>
+                <titulo>Resolución de 26 de octubre de 2026, de la Universidad de La Laguna, por la que se nombra Catedrático de Universidad a don Pedro Carlos Esparza Ferrera.</titulo>
+                <url_pdf szBytes="191891" szKBytes="187" pagina_inicial="148340" pagina_final="148340">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23186.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23186</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23186</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23187</identificador>
+                <control>2026/16861</control>
+                <titulo>Resolución de 26 de octubre de 2026, de la Universidad de Murcia, por la que se nombra Profesor Titular de Universidad a don Javier Cerezo Bastida.</titulo>
+                <url_pdf szBytes="191889" szKBytes="187" pagina_inicial="148341" pagina_final="148341">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23187.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23187</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23187</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23188</identificador>
+                <control>2026/16863</control>
+                <titulo>Resolución de 26 de octubre de 2026, de la Universitat de València, por la que se nombran Catedráticas y Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="196177" szKBytes="192" pagina_inicial="148342" pagina_final="148343">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23188.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23188</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23188</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23189</identificador>
+                <control>2026/16864</control>
+                <titulo>Resolución de 26 de octubre de 2026, de la Universitat de València, por la que se nombran Profesoras y Profesores Titulares de Universidad.</titulo>
+                <url_pdf szBytes="207941" szKBytes="203" pagina_inicial="148344" pagina_final="148347">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23189.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23189</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23189</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23190</identificador>
+                <control>2026/16922</control>
+                <titulo>Resolución de 26 de octubre de 2026, de la Universidad de Alicante, por la que se nombra Profesora Titular de Universidad a doña Isabel Marcillas Piquer.</titulo>
+                <url_pdf szBytes="191849" szKBytes="187" pagina_inicial="148348" pagina_final="148348">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23190.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23190</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23190</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23191</identificador>
+                <control>2026/16924</control>
+                <titulo>Resolución de 27 de octubre de 2026, de la Universidad de Córdoba, por la que se nombra Profesor Titular de Universidad a don Eduardo Espinosa Víctor.</titulo>
+                <url_pdf szBytes="191778" szKBytes="187" pagina_inicial="148349" pagina_final="148349">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23191.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23191</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23191</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23192</identificador>
+                <control>2026/16925</control>
+                <titulo>Resolución de 27 de octubre de 2026, de la Universidad de Málaga, por la que se nombra Catedrática de Universidad a doña Alicia Triviño Cabrera.</titulo>
+                <url_pdf szBytes="193321" szKBytes="189" pagina_inicial="148350" pagina_final="148350">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23192.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23192</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23192</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23193</identificador>
+                <control>2026/16926</control>
+                <titulo>Resolución de 27 de octubre de 2026, de la Universidad del País Vasco/Euskal Herriko Unibertsitatea, por la que se nombra Profesora Titular de Universidad a doña Miren Manias Muñoz.</titulo>
+                <url_pdf szBytes="192019" szKBytes="188" pagina_inicial="148351" pagina_final="148351">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23193.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23193</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23193</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23194</identificador>
+                <control>2026/17178</control>
+                <titulo>Resolución de 30 de octubre de 2026, de la Universidad de Málaga, por la que se corrigen errores en la de 21 de octubre de 2026, por la que se nombran Catedráticos de Universidad.</titulo>
+                <url_pdf szBytes="190785" szKBytes="186" pagina_inicial="148352" pagina_final="148352">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23194.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23194</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23194</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="2B" nombre="II. Autoridades y personal. - B. Oposiciones y concursos">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia">
+              <item>
+                <identificador>BOE-A-2026-23195</identificador>
+                <control>2026/17238</control>
+                <titulo>Orden PJC/1164/2026, de 22 de octubre, por la que se modifica la Orden PJC/1329/2025, de 5 de noviembre, en relación a la publicación de la relación de aspirantes que por el ámbito de Andalucía han superado el proceso selectivo extraordinario para acceso, por el sistema general de acceso libre, por el sistema de concurso, al Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, convocado por Orden JUS/1288/2022, de 22 de diciembre.</titulo>
+                <url_pdf szBytes="206187" szKBytes="201" pagina_inicial="148353" pagina_final="148354">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23195.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23195</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23195</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal laboral">
+              <item>
+                <identificador>BOE-A-2026-23196</identificador>
+                <control>2026/17179</control>
+                <titulo>Resolución de 28 de octubre de 2026, de la Dirección de la Agencia Estatal Boletín Oficial del Estado, por la que se convoca proceso selectivo para la provisión, por el sistema general de acceso libre, de plazas de Oficial/Oficiala Tercera de Oficios Auxiliares en la Secretaría General.</titulo>
+                <url_pdf szBytes="256586" szKBytes="251" pagina_inicial="148355" pagina_final="148365">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23196.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23196</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23196</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2026-23197</identificador>
+                <control>2026/17106</control>
+                <titulo>Resolución de 23 de octubre de 2026, de la Secretaría de Estado de Justicia, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="245096" szKBytes="239" pagina_inicial="148366" pagina_final="148369">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23197.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23197</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23197</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <epigrafe nombre="Personal laboral">
+              <item>
+                <identificador>BOE-A-2026-23198</identificador>
+                <control>2026/17111</control>
+                <titulo>Resolución de 28 de octubre de 2026, de la Subsecretaría, por la que se aprueba la relación definitiva de personas admitidas y excluidas del proceso selectivo para ingreso, por el sistema general de acceso libre y promoción interna, como personal laboral fijo, en los grupos profesionales M3, M2, M1, E2 y E1, sujetos al IV Convenio colectivo único para el personal laboral de la Administración General del Estado, convocado por Resolución de 6 de julio de 2026.</titulo>
+                <url_pdf szBytes="1224589" szKBytes="1196" pagina_inicial="148370" pagina_final="148404">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23198.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23198</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23198</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2026-23199</identificador>
+                <control>2026/17112</control>
+                <titulo>Resolución de 19 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puestos de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="254621" szKBytes="249" pagina_inicial="148405" pagina_final="148410">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23199.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23199</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23199</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="4110" nombre="MINISTERIO DE CULTURA">
+            <epigrafe nombre="Procedimientos de libre designación">
+              <item>
+                <identificador>BOE-A-2026-23200</identificador>
+                <control>2026/17115</control>
+                <titulo>Resolución de 27 de octubre de 2026, de la Subsecretaría, por la que se convoca la provisión de puesto de trabajo por el sistema de libre designación.</titulo>
+                <url_pdf szBytes="262631" szKBytes="256" pagina_inicial="148411" pagina_final="148414">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23200.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23200</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23200</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Personal funcionario. Concursos">
+              <item>
+                <identificador>BOE-A-2026-23201</identificador>
+                <control>2026/16983</control>
+                <titulo>Resolución de 26 de octubre de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se convoca concurso específico para la provisión de puestos de trabajo.</titulo>
+                <url_pdf szBytes="3245548" szKBytes="3169" pagina_inicial="148415" pagina_final="148596">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23201.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23201</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23201</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8010" nombre="COMUNIDAD AUTÓNOMA DE ANDALUCÍA">
+            <epigrafe nombre="Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia">
+              <item>
+                <identificador>BOE-A-2026-23202</identificador>
+                <control>2026/17286</control>
+                <titulo>Resolución de 22 de octubre de 2026, de la Dirección General de Infraestructuras Judiciales y Recursos Humanos, de la Consejería de Turismo, Justicia, Desregulación y Administración Local, por la que se publica la relación de plazas correspondientes al ámbito de Andalucía que se ofrecen a las personas aprobadas en el proceso selectivo para ingreso, por el sistema general de acceso libre, en el Cuerpo de Tramitación Procesal y Administrativa de la Administración de Justicia, convocado por Orden JUS/1288/2022, de 22 de diciembre.</titulo>
+                <url_pdf szBytes="348291" szKBytes="340" pagina_inicial="148597" pagina_final="148604">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23202.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23202</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23202</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <epigrafe nombre="Personal funcionario">
+              <item>
+                <identificador>BOE-A-2026-23203</identificador>
+                <control>2026/105983</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de L'Eliana (Valencia/València), referente a la convocatoria para proveer puesto de trabajo por el sistema de concurso.</titulo>
+                <url_pdf szBytes="191323" szKBytes="187" pagina_inicial="148605" pagina_final="148605">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23203.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23203</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23203</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Personal funcionario y laboral">
+              <item>
+                <identificador>BOE-A-2026-23204</identificador>
+                <control>2026/106006</control>
+                <titulo>Resolución de 29 de octubre de 2026, del Ayuntamiento de Dénia (Alicante/Alacant), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190633" szKBytes="186" pagina_inicial="148606" pagina_final="148606">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23204.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23204</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23204</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23205</identificador>
+                <control>2026/105998</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de Albuixech (Valencia/València), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191323" szKBytes="187" pagina_inicial="148607" pagina_final="148607">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23205.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23205</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23205</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23206</identificador>
+                <control>2026/105999</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de Bembibre (León), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190229" szKBytes="186" pagina_inicial="148608" pagina_final="148608">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23206.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23206</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23206</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23207</identificador>
+                <control>2026/106000</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de La Peza (Granada), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="191053" szKBytes="187" pagina_inicial="148609" pagina_final="148609">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23207.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23207</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23207</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23208</identificador>
+                <control>2026/106001</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de La Garriga (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191031" szKBytes="187" pagina_inicial="148610" pagina_final="148610">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23208.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23208</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23208</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23209</identificador>
+                <control>2026/106002</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de Don Benito (Badajoz), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190637" szKBytes="186" pagina_inicial="148611" pagina_final="148611">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23209.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23209</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23209</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23210</identificador>
+                <control>2026/106003</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de Don Benito (Badajoz), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190574" szKBytes="186" pagina_inicial="148612" pagina_final="148612">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23210.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23210</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23210</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23211</identificador>
+                <control>2026/106004</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de La Garriga (Barcelona), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="191036" szKBytes="187" pagina_inicial="148613" pagina_final="148613">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23211.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23211</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23211</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23212</identificador>
+                <control>2026/106005</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de Grado (Asturias), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="190945" szKBytes="186" pagina_inicial="148614" pagina_final="148614">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23212.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23212</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23212</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23213</identificador>
+                <control>2026/106007</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de Maracena (Granada), referente a la convocatoria para proveer varias plazas.</titulo>
+                <url_pdf szBytes="192417" szKBytes="188" pagina_inicial="148615" pagina_final="148615">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23213.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23213</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23213</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23214</identificador>
+                <control>2026/106008</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Ayuntamiento de San Andrés del Rabanedo (León), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190856" szKBytes="186" pagina_inicial="148616" pagina_final="148616">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23214.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23214</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23214</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23215</identificador>
+                <control>2026/106010</control>
+                <titulo>Resolución de 30 de octubre de 2026, del Consell Comarcal del Pallars Jussà (Lleida), referente a la convocatoria para proveer una plaza.</titulo>
+                <url_pdf szBytes="190968" szKBytes="186" pagina_inicial="148617" pagina_final="148617">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23215.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23215</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23215</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="3" nombre="III. Otras disposiciones">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <epigrafe nombre="Recursos">
+              <item>
+                <identificador>BOE-A-2026-23216</identificador>
+                <control>2026/16993</control>
+                <titulo>Resolución de 21 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación del registrador de la propiedad de Solsona, por la que se suspende la inscripción de una escritura de préstamo hipotecario por razón de entender que el crédito garantizado con la hipoteca está sujeto a la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario.</titulo>
+                <url_pdf szBytes="240031" szKBytes="234" pagina_inicial="148618" pagina_final="148626">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23216.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23216</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23216</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23217</identificador>
+                <control>2026/16994</control>
+                <titulo>Resolución de 21 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la certificación emitida por la registradora de la propiedad de Majadahonda n.º 1, sin expresión del precio.</titulo>
+                <url_pdf szBytes="217443" szKBytes="212" pagina_inicial="148627" pagina_final="148630">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23217.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23217</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23217</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23218</identificador>
+                <control>2026/16995</control>
+                <titulo>Resolución de 21 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Motilla del Palancar, por la que se suspende la inscripción de una servidumbre de paso.</titulo>
+                <url_pdf szBytes="233701" szKBytes="228" pagina_inicial="148631" pagina_final="148638">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23218.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23218</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23218</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23219</identificador>
+                <control>2026/16996</control>
+                <titulo>Resolución de 21 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por el registrador mercantil Central I, por la que se deniega reserva de denominación.</titulo>
+                <url_pdf szBytes="251649" szKBytes="246" pagina_inicial="148639" pagina_final="148649">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23219.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23219</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23219</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23220</identificador>
+                <control>2026/16997</control>
+                <titulo>Resolución de 21 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por la registradora de la propiedad de Fuengirola n.º 1, por la que se suspende la cancelación de una condición resolutoria inscrita, para lo cual se había solicitado la expedición de certificación de cargas de la finca.</titulo>
+                <url_pdf szBytes="279517" szKBytes="273" pagina_inicial="148650" pagina_final="148665">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23220.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23220</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23220</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23221</identificador>
+                <control>2026/16998</control>
+                <titulo>Resolución de 21 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de suspensión de calificación de la registradora de la propiedad de Sahagún, en tanto no se acredite la no sujeción, exención o pago de los impuestos correspondientes.</titulo>
+                <url_pdf szBytes="209545" szKBytes="205" pagina_inicial="148666" pagina_final="148669">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23221.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23221</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23221</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23222</identificador>
+                <control>2026/16879</control>
+                <titulo>Resolución de 22 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación de la registradora de la propiedad de Vilanova i la Geltrú n.º 2, por la que se suspende la legalización de un libro de actas de una comunidad de propietarios.</titulo>
+                <url_pdf szBytes="225400" szKBytes="220" pagina_inicial="148670" pagina_final="148676">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23222.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23222</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23222</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23223</identificador>
+                <control>2026/16880</control>
+                <titulo>Resolución de 22 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Madrid n.º 28, por la que suspende la inscripción de una escritura de constitución de propiedad horizontal de las habitaciones de un edificio destinado a hotel en fincas descritas como locales de uso hotelero.</titulo>
+                <url_pdf szBytes="311704" szKBytes="304" pagina_inicial="148677" pagina_final="148697">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23223.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23223</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23223</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23224</identificador>
+                <control>2026/16881</control>
+                <titulo>Resolución de 22 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de registradora de la propiedad de Almonte, por la que suspende la inscripción de una escritura de agrupación, división material y disolución de condominio.</titulo>
+                <url_pdf szBytes="231102" szKBytes="226" pagina_inicial="148698" pagina_final="148705">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23224.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23224</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23224</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23225</identificador>
+                <control>2026/16999</control>
+                <titulo>Resolución de 22 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Molina de Aragón-Cifuentes, por la que se suspende la inscripción de un acta de reorganización de la propiedad en virtud de expediente de concentración parcelaria.</titulo>
+                <url_pdf szBytes="229648" szKBytes="224" pagina_inicial="148706" pagina_final="148712">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23225.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23225</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23225</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23226</identificador>
+                <control>2026/17000</control>
+                <titulo>Resolución de 22 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Albacete n.º 4, por la que se suspende la inscripción de escritura de rectificación de obra nueva.</titulo>
+                <url_pdf szBytes="224468" szKBytes="219" pagina_inicial="148713" pagina_final="148719">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23226.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23226</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23226</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23227</identificador>
+                <control>2026/17001</control>
+                <titulo>Resolución de 22 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de Dos Hermanas n.º 3, por la que se deniega la expedición de una certificación para la tramitación de un expediente de reanudación del tracto sucesivo interrumpido.</titulo>
+                <url_pdf szBytes="252801" szKBytes="247" pagina_inicial="148720" pagina_final="148730">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23227.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23227</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23227</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23228</identificador>
+                <control>2026/17002</control>
+                <titulo>Resolución de 22 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación extendida por el registrador mercantil III de Madrid, por la que se rechaza la solicitud de inscripción de liquidador de una sociedad.</titulo>
+                <url_pdf szBytes="240002" szKBytes="234" pagina_inicial="148731" pagina_final="148739">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23228.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23228</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23228</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23229</identificador>
+                <control>2026/16882</control>
+                <titulo>Resolución de 23 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Gandía n.º 4 a inscribir una escritura adición de herencia, aceptación y adjudicación de herencia.</titulo>
+                <url_pdf szBytes="253592" szKBytes="248" pagina_inicial="148740" pagina_final="148748">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23229.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23229</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23229</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23230</identificador>
+                <control>2026/16883</control>
+                <titulo>Resolución de 23 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación de la registradora de la propiedad de Guadarrama-Alpedrete, por la que se deniega la tramitación del expediente del artículo 199 de la Ley Hipotecaria, por dudas en la identidad de la finca, derivadas de las alegaciones formuladas por uno de los colindantes notificados.</titulo>
+                <url_pdf szBytes="275632" szKBytes="269" pagina_inicial="148749" pagina_final="148763">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23230.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23230</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23230</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23231</identificador>
+                <control>2026/16884</control>
+                <titulo>Resolución de 23 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación del registrador de la propiedad de San Vicente de la Barquera-Potes a inscribir la representación gráfica georreferenciada de una finca por invadir la previamente inscrita de otras colindantes.</titulo>
+                <url_pdf szBytes="266310" szKBytes="260" pagina_inicial="148764" pagina_final="148777">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23231.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23231</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23231</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23232</identificador>
+                <control>2026/16885</control>
+                <titulo>Resolución de 23 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación negativa emitida por la registradora de la propiedad de Jerez de los Caballeros a inscribir la constitución del régimen de división horizontal de una finca.</titulo>
+                <url_pdf szBytes="235943" szKBytes="230" pagina_inicial="148778" pagina_final="148786">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23232.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23232</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23232</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23233</identificador>
+                <control>2026/16886</control>
+                <titulo>Resolución de 24 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la calificación de la registradora de la propiedad de San Agustín de Guadalix, por la que se suspende la inscripción de una escritura de aceptación y adjudicación de herencia.</titulo>
+                <url_pdf szBytes="239084" szKBytes="233" pagina_inicial="148787" pagina_final="148795">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23233.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23233</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23233</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23234</identificador>
+                <control>2026/16887</control>
+                <titulo>Resolución de 24 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la negativa de la registradora de la propiedad de Toledo n.º 3 a inscribir la reinscripción en favor del vendedor motivada por el ejercicio de una condición resolutoria inscrita.</titulo>
+                <url_pdf szBytes="295428" szKBytes="289" pagina_inicial="148796" pagina_final="148813">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23234.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23234</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23234</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23235</identificador>
+                <control>2026/16888</control>
+                <titulo>Resolución de 24 de julio de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, en el recurso interpuesto contra la nota de calificación negativa emitida por la registradora de la propiedad de Gandía n.º 4, por la que se deniega la inscripción de una obra nueva por denegación previa de la georreferenciación de la finca sobre la que se ubica, pues invade una finca colindante, habiéndose ya tramitado previamente el expediente del artículo 199 de la Ley Hipotecaria, sin culminación positiva.</titulo>
+                <url_pdf szBytes="293802" szKBytes="287" pagina_inicial="148814" pagina_final="148832">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23235.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23235</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23235</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <epigrafe nombre="Comercio intracomunitario. Estadísticas">
+              <item>
+                <identificador>BOE-A-2026-23236</identificador>
+                <control>2026/17006</control>
+                <titulo>Resolución de 22 de octubre de 2026, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, por la que se modifica la de 24 de enero de 2022, para la elaboración de las estadísticas de comercio internacional de bienes dentro de la Unión Europea (Intrastat).</titulo>
+                <url_pdf szBytes="198295" szKBytes="194" pagina_inicial="148833" pagina_final="148834">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23236.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23236</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23236</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <epigrafe nombre="Comunidades autónomas. Convenio">
+              <item>
+                <identificador>BOE-A-2026-23237</identificador>
+                <control>2026/17027</control>
+                <titulo>Resolución de 27 de octubre de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con la Comunidad Autónoma del País Vasco, la Generalitat de Cataluña y la Comunidad Autónoma de Galicia, para el desarrollo de formas institucionales de cooperación en materia de homologación y convalidación de títulos y estudios extranjeros en enseñanzas no universitarias.</titulo>
+                <url_pdf szBytes="243362" szKBytes="238" pagina_inicial="148835" pagina_final="148843">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23237.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23237</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23237</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Real Federación Española de Rugby. Estatutos">
+              <item>
+                <identificador>BOE-A-2026-23238</identificador>
+                <control>2026/17030</control>
+                <titulo>Resolución de 27 de octubre de 2026, de la Presidencia del Consejo Superior de Deportes, por la que se publica la modificación de los Estatutos de la Real Federación Española de Rugby.</titulo>
+                <url_pdf szBytes="193688" szKBytes="189" pagina_inicial="148844" pagina_final="148844">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23238.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23238</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23238</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <epigrafe nombre="Convenios colectivos de trabajo">
+              <item>
+                <identificador>BOE-A-2026-23239</identificador>
+                <control>2026/17031</control>
+                <titulo>Resolución de 19 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Unidad Editorial Información Deportiva, SL.</titulo>
+                <url_pdf szBytes="669388" szKBytes="654" pagina_inicial="148845" pagina_final="148902">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23239.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23239</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23239</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23240</identificador>
+                <control>2026/17032</control>
+                <titulo>Resolución de 19 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Convenio colectivo de Unidad Editorial, SA.</titulo>
+                <url_pdf szBytes="665856" szKBytes="650" pagina_inicial="148903" pagina_final="148961">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23240.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23240</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23240</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23241</identificador>
+                <control>2026/17033</control>
+                <titulo>Resolución de 26 de octubre de 2026, de la Dirección General de Trabajo, por la que se registra y publica el Acuerdo de modificación del VII Convenio colectivo de Airbus Defence and Space, SAU; Airbus Operations, SL, y Airbus Helicopters España, SA.</titulo>
+                <url_pdf szBytes="302189" szKBytes="295" pagina_inicial="148962" pagina_final="148972">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23241.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23241</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23241</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="3120" nombre="MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN">
+            <epigrafe nombre="Seguros agrarios combinados">
+              <item>
+                <identificador>BOE-A-2026-23242</identificador>
+                <control>2026/17034</control>
+                <titulo>Orden APA/1165/2026, de 26 de octubre, por la que se definen los bienes y los rendimientos asegurables, las condiciones técnicas mínimas de cultivo, el ámbito de aplicación, los periodos de garantía, las fechas de suscripción y los precios unitarios del seguro de explotaciones de cultivos agroenergéticos, comprendido en el correspondiente Plan de Seguros Agrarios Combinados.</titulo>
+                <url_pdf szBytes="277299" szKBytes="271" pagina_inicial="148973" pagina_final="148981">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23242.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23242</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23242</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23243</identificador>
+                <control>2026/17035</control>
+                <titulo>Orden APA/1166/2026, de 26 de octubre, por la que se definen los bienes y los rendimientos asegurables, las condiciones técnicas mínimas de cultivo, el ámbito de aplicación, los periodos de garantía, las fechas de suscripción y los precios unitarios del seguro de explotaciones de cultivos forrajeros, comprendido en el Cuadragésimo Séptimo Plan de Seguros Agrarios Combinados.</titulo>
+                <url_pdf szBytes="420257" szKBytes="410" pagina_inicial="148982" pagina_final="148998">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23243.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23243</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23243</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <epigrafe nombre="Procedimientos de declaración de inconstitucionalidad">
+              <item>
+                <identificador>BOE-A-2026-23244</identificador>
+                <control>2026/15789</control>
+                <titulo>Resolución de 7 de octubre de 2026, de la Secretaría General de Coordinación Territorial, por la que se publica el Acuerdo de 1 de octubre de 2026, de la Subcomisión de Seguimiento Normativo, Prevención y Solución de Conflictos de la Comisión Bilateral Generalitat-Estado, en relación con la Ley 8/2026, de 2 de julio, de la erradicación del amianto.</titulo>
+                <url_pdf szBytes="193533" szKBytes="189" pagina_inicial="148999" pagina_final="148999">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23244.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23244</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23244</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23245</identificador>
+                <control>2026/16142</control>
+                <titulo>Resolución de 9 de octubre de 2026, de la Secretaría General de Coordinación Territorial, por la que se publica el Acuerdo de 8 de octubre de 2026, de la Comisión Bilateral de Cooperación Administración General del Estado-Comunidad Autónoma de Cantabria, en relación con la Ley de Cantabria 9/2026, de 23 de julio, de Control Ambiental.</titulo>
+                <url_pdf szBytes="194259" szKBytes="190" pagina_inicial="149000" pagina_final="149000">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23245.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23245</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23245</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <epigrafe nombre="Impacto ambiental">
+              <item>
+                <identificador>BOE-A-2026-23246</identificador>
+                <control>2026/17049</control>
+                <titulo>Resolución de 20 de octubre de 2026, de la Dirección General de Calidad y Evaluación Ambiental, por la que se formula declaración de impacto ambiental del proyecto «Parques eólicos "Agromaces", de 60,67 MW, "Ventoburgo", de 59,85 MW, "Sistesas", de 55,92 MW, "Xestiloi", de 58,31 MW y "Agratina", de 56,24 MW, así como sus infraestructuras de evacuación asociadas, en las provincias de Lugo, Pontevedra y Ourense».</titulo>
+                <url_pdf szBytes="2132315" szKBytes="2082" pagina_inicial="149001" pagina_final="149028">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23246.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23246</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23246</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Instalaciones eléctricas">
+              <item>
+                <identificador>BOE-A-2026-23247</identificador>
+                <control>2026/17044</control>
+                <titulo>Resolución de 1 de junio de 2026, de la Dirección General de Política Energética y Minas, por la que se acepta el desistimiento formulado por Ekain Renovables, SL, de la solicitud de autorización administrativa previa y autorización administrativa de construcción del parque eólico «Bierzo Wind I», de 42 MW de potencia instalada, y de su infraestructura de evacuación, en las provincias de León y Ourense.</titulo>
+                <url_pdf szBytes="235672" szKBytes="230" pagina_inicial="149029" pagina_final="149035">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23247.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23247</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23247</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23248</identificador>
+                <control>2026/17045</control>
+                <titulo>Resolución de 1 de junio de 2026, de la Dirección General de Política Energética y Minas, por la que se acepta el desistimiento formulado por Ekain Renovables, SL, de la solicitud de autorización administrativa previa y autorización administrativa de construcción del parque eólico «Bierzo Wind II», de 9 MW de potencia instalada, y de su infraestructura de evacuación, en la provincia de León.</titulo>
+                <url_pdf szBytes="232256" szKBytes="227" pagina_inicial="149036" pagina_final="149042">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23248.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23248</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23248</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23249</identificador>
+                <control>2026/17046</control>
+                <titulo>Resolución de 19 de junio de 2026, de la Dirección General de Política Energética y Minas, por la que se desestima la solicitud de Helioceratops Invest, SL, de autorización administrativa previa del parque eólico «As Fenteiras», de 62,79 MW de potencia instalada, y de su infraestructura de evacuación, en A Cañiza y Covelo (Pontevedra).</titulo>
+                <url_pdf szBytes="226528" szKBytes="221" pagina_inicial="149043" pagina_final="149048">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23249.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23249</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23249</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23250</identificador>
+                <control>2026/17048</control>
+                <titulo>Resolución de 18 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que se corrigen errores en la de 18 de julio de 2025, por la que se otorga a Iberdrola Generación, SAU, autorización administrativa previa de la instalación solar fotovoltaica «Azután III», de 60 MW de potencia instalada, y su infraestructura de evacuación, para hibridación del grupo 3 de la central hidráulica existente Azután, en Calera y Chozas y Alcolea de Tajo (Toledo).</titulo>
+                <url_pdf szBytes="194500" szKBytes="190" pagina_inicial="149049" pagina_final="149049">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23250.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23250</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23250</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23251</identificador>
+                <control>2026/17047</control>
+                <titulo>Resolución de 18 de octubre de 2026, de la Dirección General de Política Energética y Minas, por la que corrigen errores en la de 18 de julio de 2025, por la que se otorga a Iberdrola Generación, SAU, autorización administrativa previa de la instalación solar fotovoltaica «Azután I», de 60 MW de potencia instalada, y su infraestructura de evacuación, para hibridación del grupo 1 de la central hidráulica existente Azután, en Calera y Chozas y Alcolea de Tajo (Toledo).</titulo>
+                <url_pdf szBytes="194568" szKBytes="190" pagina_inicial="149050" pagina_final="149050">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23251.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23251</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23251</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9587" nombre="MINISTERIO DE VIVIENDA Y AGENDA URBANA">
+            <epigrafe nombre="Documentación administrativa">
+              <item>
+                <identificador>BOE-A-2026-23252</identificador>
+                <control>2026/16826</control>
+                <titulo>Resolución de 22 de octubre de 2026, de la Subsecretaría, por la que se publica y aprueba el calendario de conservación de series documentales.</titulo>
+                <url_pdf szBytes="1337193" szKBytes="1306" pagina_inicial="149051" pagina_final="149107">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23252.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23252</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23252</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <epigrafe nombre="Organización Nacional de Ciegos Españoles. Juegos">
+              <item>
+                <identificador>BOE-A-2026-23253</identificador>
+                <control>2026/17057</control>
+                <titulo>Resolución de 22 de octubre de 2026, de la Secretaría de Estado de Derechos Sociales, por la que se publica el calendario de los productos de las tres modalidades de lotería de las que es titular la Organización Nacional de Ciegos Españoles, para el cuarto trimestre del año 2026.</titulo>
+                <url_pdf szBytes="289420" szKBytes="283" pagina_inicial="149108" pagina_final="149121">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23253.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23253</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23253</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23254</identificador>
+                <control>2026/17058</control>
+                <titulo>Resolución de 22 de octubre de 2026, de la Secretaría de Estado de Derechos Sociales, por la que se publica la modificación del Reglamento regulador de la modalidad de lotería denominada «Lotería Instantánea de boletos de la ONCE» y se da publicidad a la implantación, lanzamiento y finalización de varios productos de dicha modalidad.</titulo>
+                <url_pdf szBytes="504026" szKBytes="492" pagina_inicial="149122" pagina_final="149141">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23254.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23254</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23254</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23255</identificador>
+                <control>2026/17059</control>
+                <titulo>Resolución de 22 de octubre de 2026, de la Secretaría de Estado de Derechos Sociales, por la que se publica la realización de dos sorteos extraordinarios de la modalidad de lotería denominada «Cupón de la ONCE» el 19 de marzo de 2027 y el 2 de mayo de 2027, «Cupón Extra Día del Padre de la ONCE» y «Cupón Extra Día de la Madre de la ONCE».</titulo>
+                <url_pdf szBytes="235579" szKBytes="230" pagina_inicial="149142" pagina_final="149146">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23255.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23255</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23255</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9565" nombre="MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES">
+            <epigrafe nombre="Convenios">
+              <item>
+                <identificador>BOE-A-2026-23256</identificador>
+                <control>2026/17216</control>
+                <titulo>Resolución de 27 de octubre de 2026, de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P., por la que se publica el Convenio con la Fundación «La Caixa», en el marco de la convocatoria «Social Research Call 2026» de la Fundación.</titulo>
+                <url_pdf szBytes="289759" szKBytes="283" pagina_inicial="149147" pagina_final="149161">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23256.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23256</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23256</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1310" nombre="JUNTA ELECTORAL CENTRAL">
+            <epigrafe nombre="Cargos representativos locales">
+              <item>
+                <identificador>BOE-A-2026-23257</identificador>
+                <control>2026/17311</control>
+                <titulo>Resolución de 29 de octubre de 2026, de la Presidencia de la Junta Electoral Central, por la que se anuncia propuesta de designación de concejal del Ayuntamiento de Ribaforada (Navarra), en aplicación de lo previsto en el artículo 182.2 de la Ley Orgánica del Régimen Electoral General, de conformidad con lo dispuesto en el número 2 del apartado segundo de la Instrucción 1/2025, de 30 de enero, de la Junta Electoral Central, sobre sustitución de cargos representativos locales.</titulo>
+                <url_pdf szBytes="192699" szKBytes="188" pagina_inicial="149162" pagina_final="149162">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23257.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23257</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23257</url_xml>
+              </item>
+            </epigrafe>
+            <epigrafe nombre="Elecciones">
+              <item>
+                <identificador>BOE-A-2026-23258</identificador>
+                <control>2026/17349</control>
+                <titulo>Resolución de 4 de noviembre de 2026, de la Presidencia de la Junta Electoral Central, por la que se publica la distribución de espacios gratuitos de propaganda electoral en los medios de comunicación de titularidad pública de ámbito nacional en relación con las elecciones al Congreso de los Diputados y al Senado de 29 de noviembre de 2026.</titulo>
+                <url_pdf szBytes="191774" szKBytes="187" pagina_inicial="149163" pagina_final="149163">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23258.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23258</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23258</url_xml>
+              </item>
+              <item>
+                <identificador>BOE-A-2026-23259</identificador>
+                <control>2026/17350</control>
+                <titulo>Resolución de 4 de noviembre de 2026, de la Presidencia de la Junta Electoral Central, por la que se toma conocimiento del Plan de cobertura informativa de la Corporación RTVE para las elecciones generales a celebrar el 29 de noviembre de 2026.</titulo>
+                <url_pdf szBytes="191197" szKBytes="187" pagina_inicial="149164" pagina_final="149164">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23259.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23259</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23259</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="1020" nombre="BANCO DE ESPAÑA">
+            <epigrafe nombre="Mercado de divisas">
+              <item>
+                <identificador>BOE-A-2026-23260</identificador>
+                <control>2026/17313</control>
+                <titulo>Resolución de 4 de noviembre de 2026, del Banco de España, por la que se publican los cambios del euro correspondientes al día 4 de noviembre de 2026, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.</titulo>
+                <url_pdf szBytes="216553" szKBytes="211" pagina_inicial="149165" pagina_final="149166">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23260.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23260</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23260</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="9534" nombre="COMISIÓN NACIONAL DE LOS MERCADOS Y LA COMPETENCIA">
+            <epigrafe nombre="Energía eléctrica">
+              <item>
+                <identificador>BOE-A-2026-23261</identificador>
+                <control>2026/17065</control>
+                <titulo>Resolución de 23 de octubre de 2026, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece el ajuste a realizar en la retribución de las empresas de transporte y distribución de energía eléctrica del ejercicio 2027 por el empleo de la fibra óptica en la realización de actividades distintas.</titulo>
+                <url_pdf szBytes="332256" szKBytes="324" pagina_inicial="149167" pagina_final="149174">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23261.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23261</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23261</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="8090" nombre="COMUNIDAD AUTÓNOMA DE GALICIA">
+            <epigrafe nombre="Bienes de interés cultural">
+              <item>
+                <identificador>BOE-A-2026-23262</identificador>
+                <control>2026/17066</control>
+                <titulo>Decreto 96/2026, de 28 de septiembre, por el que se declara bien de interés cultural Seis Monedas Históricas de Galicia.</titulo>
+                <url_pdf szBytes="232147" szKBytes="227" pagina_inicial="149175" pagina_final="149181">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23262.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23262</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23262</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <epigrafe nombre="Encomienda de gestión">
+              <item>
+                <identificador>BOE-A-2026-23263</identificador>
+                <control>2026/17069</control>
+                <titulo>Resolución de 23 de octubre de 2026, de la Universidad Nacional de Educación a Distancia, por la que se publica el Acuerdo de encomienda de gestión al Consorcio Universitario del Centro Asociado a la Universidad Nacional de Educación a Distancia en Madrid, para la gestión de las prácticas de laboratorio de tercer curso del grado en Química.</titulo>
+                <url_pdf szBytes="224065" szKBytes="219" pagina_inicial="149182" pagina_final="149185">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-A-2026-23263.pdf</url_pdf>
+                <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23263</url_html>
+                <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-A-2026-23263</url_xml>
+              </item>
+            </epigrafe>
+          </departamento>
+        </seccion>
+        <seccion codigo="5A" nombre="V. Anuncios. - A. Contratación del Sector Público">
+          <departamento codigo="9585" nombre="MINISTERIO DE LA PRESIDENCIA, JUSTICIA Y RELACIONES CON LAS CORTES">
+            <item>
+              <identificador>BOE-B-2026-36114</identificador>
+              <titulo>Anuncio de formalización de contratos de: Junta de Contratación de la Secretaría de Estado de Justicia. Objeto: Servicio de vigilancia y seguridad en edificios administrativos y sedes judiciales adscritos a las Gerencias Territoriales. Expediente: ASE/2026/022.</titulo>
+              <url_pdf szBytes="232578" szKBytes="227" pagina_inicial="58560" pagina_final="58562">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36114.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36114</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36114</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36115</identificador>
+              <titulo>Anuncio de formalización de contratos de: Junta de Contratación de la Secretaría de Estado de Justicia. Objeto: Servicios de custodia, archivo y gestión de los fondos documentales generados por los órganos judiciales adscritos a diversas Gerencias Territoriales del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. Expediente: ASE/2026/062.</titulo>
+              <url_pdf szBytes="240539" szKBytes="235" pagina_inicial="58563" pagina_final="58566">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36115.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36115</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36115</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36116</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección de la Agencia Estatal Boletín Oficial del Estado . Objeto: Servicio de mantenimiento, conservación y asistencia técnica de dos sistemas Varioprint de impresión digital en hoja en negro de la Imprenta Nacional de la Agencia Estatal Boletín Oficial del Estado. Expediente: 202600000087.</titulo>
+              <url_pdf szBytes="214217" szKBytes="209" pagina_inicial="58567" pagina_final="58568">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36116.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36116</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36116</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="6110" nombre="MINISTERIO DE DEFENSA">
+            <item>
+              <identificador>BOE-B-2026-36117</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección de Gestión Económica de la Jefatura de Apoyo Logístico de la Armada. Objeto: Acuerdo Marco para el mantenimiento de los equipos de alimentación interrumpida (SAI) de los CECIS-CECOM de la Armada. Expediente: 2026/AR40U/00001665E.</titulo>
+              <url_pdf szBytes="218943" szKBytes="214" pagina_inicial="58569" pagina_final="58570">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36117.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36117</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36117</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36118</identificador>
+              <titulo>Anuncio de licitación de: Intendente de Ferrol. Objeto: Sostenimiento de instalaciones y equipos REA Martorell. Expediente: 2026/AR42U/00001904E.</titulo>
+              <url_pdf szBytes="236756" szKBytes="231" pagina_inicial="58571" pagina_final="58574">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36118.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36118</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36118</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36119</identificador>
+              <titulo>Anuncio de licitación de: Intendente de Ferrol. Objeto: Varias UCOS.- TA.- Servicio abierto sostenimiento tanques gasoil y gasolina. Expediente: 2026/AR42U/00001996E.</titulo>
+              <url_pdf szBytes="224389" szKBytes="219" pagina_inicial="58575" pagina_final="58577">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36119.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36119</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36119</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36120</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del CG de la Comandancia Gral. de Melilla. Objeto: Obra para la instalación de focos de iluminación en Suelos y paredes de Comandancia General de Melilla. Expediente: 2026/ETSAE0287/00001128E.</titulo>
+              <url_pdf szBytes="214873" szKBytes="210" pagina_inicial="58578" pagina_final="58579">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36120.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36120</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36120</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36121</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de ametralladoras medias y ligeras HK. Expediente: 2025/ETSAE0906/00005650E.</titulo>
+              <url_pdf szBytes="225462" szKBytes="220" pagina_inicial="58580" pagina_final="58582">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36121.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36121</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36121</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36122</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Suministro repuestos torre Leopardo 2E y Leopard 2A4, Lote 2. Expediente: 2026/ETSAE0906/00004435E.</titulo>
+              <url_pdf szBytes="213203" szKBytes="208" pagina_inicial="58583" pagina_final="58584">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36122.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36122</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36122</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36123</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del CG de la Comandancia Gral. de Melilla. Objeto: Suministro e instalación de doce (12) equipos de aire acondicionado en el edificio de la escuela de conductores de plaza en la ULOG 24. Melilla. Expediente: 2026/ETSAE0287/00000681E.</titulo>
+              <url_pdf szBytes="214549" szKBytes="210" pagina_inicial="58585" pagina_final="58586">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36123.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36123</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36123</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36124</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición UAS Cautivo con capacidad Vigilancia todo tiempo y guerra electrónica. Expediente: 2026/ETSAE0906/00002926E.</titulo>
+              <url_pdf szBytes="217669" szKBytes="213" pagina_inicial="58587" pagina_final="58588">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36124.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36124</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36124</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36125</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de material de castramentación. Expediente: 2025/ETSAE0906/00004503E.</titulo>
+              <url_pdf szBytes="227189" szKBytes="222" pagina_inicial="58589" pagina_final="58591">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36125.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36125</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36125</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36126</identificador>
+              <titulo>Anuncio de licitación de: Jefatura de la Sección Económico-Administrativa 26 - Base Aérea de Zaragoza (Agrupación BASE). Objeto: Servicio de Bar, Cafetería y Restaurante de la Cantina San Lamberto. Expediente: 2026/EA26/00002313E.</titulo>
+              <url_pdf szBytes="206792" szKBytes="202" pagina_inicial="58592" pagina_final="58592">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36126.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36126</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36126</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36127</identificador>
+              <titulo>Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Concesión del servicio de máquinas expendedoras (vending) en las instalaciones de la Unidad Militar de Emergencias. Expediente: 2026/SP03038000/00002307E.</titulo>
+              <url_pdf szBytes="215835" szKBytes="211" pagina_inicial="58593" pagina_final="58594">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36127.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36127</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36127</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36128</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Servicio del Mantenimiento Sectorial en las Bases, Acuartelamiento y Establecimientos (BAE,s) del Área de Responsabilidad Geográfica de la Tercera Subinspección General del Ejército. Expediente: 2026/ETSAE0327/00002025E.</titulo>
+              <url_pdf szBytes="220799" szKBytes="216" pagina_inicial="58595" pagina_final="58596">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36128.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36128</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36128</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36129</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico-Administrativa 41 - Base Aérea de San Javier. Objeto: Murcia / Alcantarilla / Base Aérea de Alcantarilla / Adecuación y sectorización de la red de abastecimiento de agua potable de la Base Aérea de Alcantarilla. Expediente: 2026/EA41/00001694E.</titulo>
+              <url_pdf szBytes="215042" szKBytes="210" pagina_inicial="58597" pagina_final="58598">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36129.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36129</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36129</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36130</identificador>
+              <titulo>Anuncio de formalización de contratos de: Jefatura de la Sección Económico-Administrativa 41 - Base Aérea de San Javier. Objeto: Suministro de 9 mesas para plegado de paracaídas de la "Escuela Militar de Paracaidismo Méndez Parada". Expediente: 2026/EA41/00001521E.</titulo>
+              <url_pdf szBytes="214897" szKBytes="210" pagina_inicial="58599" pagina_final="58600">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36130.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36130</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36130</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <item>
+              <identificador>BOE-B-2026-36131</identificador>
+              <titulo>Anuncio de formalización de contratos de: Delegación Especial de la Agencia Tributaria en Extremadura. Objeto: Servicio de retirada, transporte y posterior depósito y custodia de vehículos en el ámbito de la Delegación Especial de la AEAT de Extremadura. Expediente: 26B00062000.</titulo>
+              <url_pdf szBytes="216142" szKBytes="211" pagina_inicial="58601" pagina_final="58602">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36131.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36131</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36131</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="7320" nombre="MINISTERIO DEL INTERIOR">
+            <item>
+              <identificador>BOE-B-2026-36132</identificador>
+              <titulo>Anuncio de licitación de: Jefatura de Asuntos Económicos de la Guardia Civil. Objeto: Adquisición de, al menos, 140 perros para el Servicio Cinológico y Remonta de la Guardia Civil que permita atender las necesidades operativas de las diferentes Unidades Cinológicas, así como para la adscripción a cursos formativos de guías caninos, durante las anualidades 2027 y 2028. Expediente: V/0022/A/26/6.</titulo>
+              <url_pdf szBytes="231017" szKBytes="226" pagina_inicial="58603" pagina_final="58605">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36132.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36132</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36132</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36133</identificador>
+              <titulo>Anuncio de licitación de: Comandancia Guardia Civil de A Coruña. Objeto: Concesión del servicio de cafetería, cocina/comedor e instalación y explotación de máquinas expendedoras en el Acuartelamiento de la Comandancia de la Guardia Civil de A Coruña. Expediente: GC/CAF-26/AC/1.</titulo>
+              <url_pdf szBytes="206808" szKBytes="202" pagina_inicial="58606" pagina_final="58606">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36133.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36133</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36133</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36134</identificador>
+              <titulo>Anuncio de licitación de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Adquisición de maquinaria para la destrucción de armamento, destinado al Servicio de Armamento de la Policía Nacional. Expediente: Z27AR003/D20.</titulo>
+              <url_pdf szBytes="226179" szKBytes="221" pagina_inicial="58607" pagina_final="58609">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36134.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36134</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36134</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2026-36135</identificador>
+              <titulo>Anuncio de formalización de contratos de: ADIF - Presidencia. Objeto: Asistencia técnica de IGRID para la instalación y puesta en servicio de conversores de protocolo en instalaciones de electrificación. Expediente: 2.26/28520.0035.</titulo>
+              <url_pdf szBytes="215672" szKBytes="211" pagina_inicial="58610" pagina_final="58611">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36135.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36135</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36135</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36136</identificador>
+              <titulo>Anuncio de licitación de: ADIF - Presidencia. Objeto: Suministro del equipamiento del almacén regulador de Valladolid. 2 lotes. Expediente: 3.26/28510.0123.</titulo>
+              <url_pdf szBytes="225614" szKBytes="220" pagina_inicial="58612" pagina_final="58614">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36136.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36136</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36136</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36137</identificador>
+              <titulo>Anuncio de licitación de: ADIF - Presidencia. Objeto: Prestación de servicios de asesoría para la ampliación del sistema de gestión del laboratorio de ensayo según UNE-EN ISO/IEC 17025:2017. Expediente: 2.26/28520.0022.</titulo>
+              <url_pdf szBytes="223881" szKBytes="219" pagina_inicial="58615" pagina_final="58617">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36137.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36137</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36137</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36138</identificador>
+              <titulo>Anuncio de licitación de: ADIF - Presidencia. Objeto: Servicios para la redacción del proyecto de remodelación del edificio de viajeros de la Estación de Tortosa. Expediente: 3.26/06110.0217.</titulo>
+              <url_pdf szBytes="223799" szKBytes="219" pagina_inicial="58618" pagina_final="58620">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36138.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36138</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36138</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36139</identificador>
+              <titulo>Anuncio de licitación de: Dirección de la Agencia Estatal de Seguridad Aérea. Objeto: 229/B26 Suministro de recarga de tarjetas de restaurante para el personal de la Agencia Estatal de Seguridad Aérea en su sede central, sita en el Paseo de la Castellana, 112 y en sus siete (7) Oficinas de Seguridad en Vuelo. Expediente: 2026CPW00136.</titulo>
+              <url_pdf szBytes="228120" szKBytes="223" pagina_inicial="58621" pagina_final="58623">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36139.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36139</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36139</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9573" nombre="MINISTERIO DE TRABAJO Y ECONOMÍA SOCIAL">
+            <item>
+              <identificador>BOE-B-2026-36140</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de vigilancia de las Inspecciones Provinciales de Trabajo y Seguridad Social de A Coruña, Asturias, Badajoz y Ourense. Expediente: 215/2026.</titulo>
+              <url_pdf szBytes="215073" szKBytes="210" pagina_inicial="58624" pagina_final="58625">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36140.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36140</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36140</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36141</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de vigilancia de las Inspecciones Provinciales de Trabajo y Seguridad Social de A Coruña, Asturias, Badajoz y Ourense. Expediente: 215/2026.</titulo>
+              <url_pdf szBytes="215076" szKBytes="210" pagina_inicial="58626" pagina_final="58627">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36141.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36141</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36141</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36142</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de vigilancia de las Inspecciones Provinciales de Trabajo y Seguridad Social de A Coruña, Asturias, Badajoz y Ourense. Expediente: 215/2026.</titulo>
+              <url_pdf szBytes="215193" szKBytes="210" pagina_inicial="58628" pagina_final="58629">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36142.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36142</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36142</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36143</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de administración y soporte de la infraestructura de sistemas destinada a proyectos basados en una arquitectura de microservicios para el Organismo Estatal de Inspección de Trabajo y Seguridad Social. Expediente: 200/2026.</titulo>
+              <url_pdf szBytes="218784" szKBytes="214" pagina_inicial="58630" pagina_final="58631">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36143.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36143</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36143</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36144</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Contrato de suministro de suscripción de licenciamiento Power Bi Fabric64 por un período de 12 meses para el Organismo Estatal de la Inspección de Trabajo y Seguridad Social. Expediente: 309/2026.</titulo>
+              <url_pdf szBytes="216611" szKBytes="212" pagina_inicial="58632" pagina_final="58633">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36144.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36144</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36144</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36145</identificador>
+              <titulo>Anuncio de formalización de contratos de: Dirección del Organismo Estatal Inspección de Trabajo y Seguridad Social. Objeto: Servicio de limpieza para los locales ocupados por las Inspecciones Provinciales de Trabajo y Seguridad Social de León y Murcia. Expediente: 86/2026.</titulo>
+              <url_pdf szBytes="226995" szKBytes="222" pagina_inicial="58634" pagina_final="58636">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36145.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36145</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36145</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36146</identificador>
+              <titulo>Anuncio de formalización de contratos de: Instituto Nacional de Seguridad y Salud en el Trabajo O.A. M.P. (INSST). Objeto: Servicio de consultoría para la elaboración de un estudio acerca de la determinación del consumo metabólico en algunas operaciones especialmente vulnerables al riesgo de estrés término por realizar su actividad al aire libre de la EESST. Expediente: 0170-26.</titulo>
+              <url_pdf szBytes="215479" szKBytes="210" pagina_inicial="58637" pagina_final="58638">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36146.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36146</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36146</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <item>
+              <identificador>BOE-B-2026-36147</identificador>
+              <titulo>Anuncio de licitación de: Delegación del Gobierno en Murcia. Objeto: Servicio de limpieza de los locales de la Delegación del Gobierno en Murcia. Expediente: 2026/5.</titulo>
+              <url_pdf szBytes="227661" szKBytes="222" pagina_inicial="58639" pagina_final="58641">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36147.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36147</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36147</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2026-36148</identificador>
+              <titulo>Anuncio de formalización de contratos de: Comité Ejecutivo de la Mancomunidad de los Canales del Taibilla. Objeto: Proyecto 10/25 de adecuación de líneas eléctricas de alta tensión a la legislación vigente en materia de protección yelectrocución de la avifauna en la Comunidad Autónoma de la Región de Murcia y la Generalitat Valenciana (VARIOS). Expediente: O-10/25-02.</titulo>
+              <url_pdf szBytes="223507" szKBytes="218" pagina_inicial="58642" pagina_final="58644">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36148.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36148</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36148</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36149</identificador>
+              <titulo>Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Automatización de tomas en el Canal de Lodosa-Fase III (LR-NA-ZGZ/VARIOS),. Expediente: 077/26-OB.</titulo>
+              <url_pdf szBytes="226494" szKBytes="221" pagina_inicial="58645" pagina_final="58647">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36149.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36149</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36149</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36150</identificador>
+              <titulo>Anuncio de licitación de: Organismo Autónomo Parques Nacionales. Objeto: Servicio de vigilancia de las instalaciones del Centro Nacional de Educación Ambiental (CENEAM) y del Centro Montes de Valsaín y Cabeza de Hierro (CMVCH). Expediente: 45026019.</titulo>
+              <url_pdf szBytes="209790" szKBytes="205" pagina_inicial="58648" pagina_final="58648">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36150.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36150</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36150</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9588" nombre="MINISTERIO DE DERECHOS SOCIALES, CONSUMO Y AGENDA 2030">
+            <item>
+              <identificador>BOE-B-2026-36151</identificador>
+              <titulo>Anuncio de formalización de contratos de: Centro de Promoción de la Autonomía Personal del IMSERSO. Objeto: Suministro de material de limpieza e higiene y material desechable de cocina y comedor para el CPAP de Bergondo. Expediente: PASA 18/2026.</titulo>
+              <url_pdf szBytes="214372" szKBytes="209" pagina_inicial="58649" pagina_final="58650">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36151.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36151</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36151</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <item>
+              <identificador>BOE-B-2026-36152</identificador>
+              <titulo>Anuncio de formalización de contratos de: TGSS-Dirección provincial de Álava. Objeto: Suministro de material higiénico. Expediente: 2026/010003.</titulo>
+              <url_pdf szBytes="214736" szKBytes="210" pagina_inicial="58651" pagina_final="58652">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36152.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36152</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36152</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36153</identificador>
+              <titulo>Anuncio de formalización de contratos de: TGSS-Dirección provincial de Zaragoza. Objeto: La prestación de servicios auxiliares en el edificio sede de la Dirección Provincial de la TGSS de Zaragoza, la Administración de la Seguridad Social n.º 50/01, las Administraciones de la Seguridad Social n.º 50/03 y n.º 50/04, las Administraciones de la Seguridad Social n.º 50/02 y n.º 50/06 y la Administración n.º 50/05. Expediente: 2026/500049.</titulo>
+              <url_pdf szBytes="224864" szKBytes="220" pagina_inicial="58653" pagina_final="58655">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36153.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36153</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36153</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36154</identificador>
+              <titulo>Anuncio de formalización de contratos de: INSS-Dirección Provincial de Málaga. Objeto: Prórroga servicios de limpieza, desratización, desinfección y desinsectación, tanto en el edificio sede de la Dirección Provincial del INSS de Málaga como en sus centros urbanos y comarcales dependientes de la misma y relacionados en el PPT, durante un periodo de doce meses, a contar desde el día 01 de abril de 2027. Expediente: 29 PR1/26 VC 285/25.</titulo>
+              <url_pdf szBytes="219024" szKBytes="214" pagina_inicial="58656" pagina_final="58657">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36154.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36154</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36154</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36155</identificador>
+              <titulo>Anuncio de formalización de contratos de: TGSS-Dirección provincial de Girona. Objeto: Servicios de recogida, transporte, triturado y destrucción de papel, cartón, plásticos y su reciclaje en la sede de la Dirección Provincial de la TGSS de Girona y la Admón. y URE n°17/03 de Figueres para el periodo del 1 de enero al 31 de diciembre de 2027. Expediente: 2026/170092.</titulo>
+              <url_pdf szBytes="215183" szKBytes="210" pagina_inicial="58658" pagina_final="58659">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36155.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36155</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36155</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+        <seccion codigo="5B" nombre="V. Anuncios. - B. Otros anuncios oficiales">
+          <departamento codigo="5140" nombre="MINISTERIO DE HACIENDA">
+            <item>
+              <identificador>BOE-B-2026-36156</identificador>
+              <titulo>Resolución de la Delegación de Economía y Hacienda de Segovia por la que se anuncia la celebración de subasta pública al alza de 27 fincas rústicas propiedad de la Administración General del Estado en la provincia de Segovia, con admisión simultánea de ofertas en sobre cerrado.</titulo>
+              <url_pdf szBytes="238377" szKBytes="233" pagina_inicial="58660" pagina_final="58661">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36156.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36156</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36156</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36157</identificador>
+              <titulo>Resolución de la Delegación de Economía y Hacienda de Valladolid por la que se anuncia acuerdo de inicio de expediente de investigación de una finca urbana sita en la travesía Santa María 1, del municipio de Pozaldez (Valladolid).</titulo>
+              <url_pdf szBytes="203435" szKBytes="199" pagina_inicial="58662" pagina_final="58662">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36157.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36157</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36157</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36158</identificador>
+              <titulo>Anuncio de la Delegación de Economía y Hacienda en Alicante, por el que se hace público el acuerdo de inicio del procedimiento de investigación patrimonial relativo a la parcela 26 del polígono 19, paraje Fontcalent, del término municipal de Alicante.</titulo>
+              <url_pdf szBytes="203201" szKBytes="198" pagina_inicial="58663" pagina_final="58663">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36158.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36158</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36158</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36159</identificador>
+              <titulo>Resolución de la Delegación Especial de Economía y Hacienda en Castilla y León-Valladolid por la que se anuncia subasta pública al alza, con admisión simultánea de ofertas en sobre cerrado, para la enajenación de un bien urbano situado en la ciudad de Valladolid.</titulo>
+              <url_pdf szBytes="205167" szKBytes="200" pagina_inicial="58664" pagina_final="58664">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36159.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36159</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36159</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9586" nombre="MINISTERIO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE">
+            <item>
+              <identificador>BOE-B-2026-36160</identificador>
+              <titulo>Anuncio de la Demarcación de Carreteras del Estado en Andalucía Oriental por el que se publica la resolución del Ministerio de Transportes y Movilidad Sostenible por la que se aprueba el expediente de información pública y oficial, y definitivamente, el Proyecto de Trazado "Autovía A-32 Bailén – Albacete. Tramo: Beas de Segura – Arroyo del Ojanco". Obra clave: T2-J-4310.</titulo>
+              <url_pdf szBytes="216693" szKBytes="212" pagina_inicial="58665" pagina_final="58667">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36160.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36160</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36160</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36161</identificador>
+              <titulo>Anuncio de la Demarcación de Carreteras del Estado en Andalucía Oriental por el que se publica la resolución del Ministerio de Transportes y Movilidad Sostenible por la que se aprueba el expediente de información pública y definitivamente el Proyecto de Trazado "Autovía A-32 Bailén-Albacete. Tramo: Villanueva del Arzobispo – Beas de Segura." Provincia de Jaén. Obra clave: T2-J-4300.</titulo>
+              <url_pdf szBytes="215456" szKBytes="210" pagina_inicial="58668" pagina_final="58670">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36161.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36161</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36161</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36162</identificador>
+              <titulo>Corrección de errores del anuncio de la Demarcación de Carreteras del Estado en Cantabria sobre la resolución de la Dirección General de Carreteras por la que se aprueba provisionalmente el proyecto de trazado: Autovía A-73, Burgos - Aguilar de Campoo. Tramo: Báscones de Valdivia - Aguilar de Campoo. Redactado con fecha de 26 de mayo de 2026, y se ordena la incoación del expediente de información pública a los efectos de lo previsto en los artículos 17, 18 y 19.1 de la ley de 16 de diciembre de 1954, de expropiación forzosa. Clave T2-P-3130.ACT. Provincia de Palencia.</titulo>
+              <url_pdf szBytes="296097" szKBytes="289" pagina_inicial="58671" pagina_final="58673">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36162.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36162</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36162</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36163</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de Sevilla de información pública de la solicitud presentada por Sevitrade S.L. de modificación sustancial de concesión de que es titular en la Zona Franca del Puerto de Sevilla (Expediente E346) y unificación de concesiones de que es titular en el ámbito (Expedientes E346-E417-E493-E531).</titulo>
+              <url_pdf szBytes="204704" szKBytes="200" pagina_inicial="58674" pagina_final="58674">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36163.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36163</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36163</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36164</identificador>
+              <titulo>Anuncio de la Autoridad Portuaria de Santander, por el que se somete a información pública la solicitud presentada por CLdN Shipping Lines Spain, S.L., de modificación de la concesión, de la que es titular, en el Espigón central de Raos del Puerto de Santander.</titulo>
+              <url_pdf szBytes="203544" szKBytes="199" pagina_inicial="58675" pagina_final="58675">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36164.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36164</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36164</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9590" nombre="MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES">
+            <item>
+              <identificador>BOE-B-2026-36165</identificador>
+              <titulo>Extracto de la Resolución de 22 de octubre de 2026 de la Secretaría de Estado de Educación, por la que se convocan 1.500 plazas para la realización del curso tutorizado en línea: Competencias para el desarrollo de la función directiva.</titulo>
+              <url_pdf szBytes="208334" szKBytes="203" pagina_inicial="58676" pagina_final="58677">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36165.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36165</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36165</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9593" nombre="MINISTERIO DE POLÍTICA TERRITORIAL Y MEMORIA DEMOCRÁTICA">
+            <item>
+              <identificador>BOE-B-2026-36166</identificador>
+              <titulo>Anuncio de la Dependencia del Área de Industria y Energía de la Subdelegación del Gobierno en Salamanca por el que se somete a información pública la solicitud de declaración de impacto ambiental (DIA) y autorización administrativa previa (AAP) del proyecto del módulo eólico Santiz I, de 49 MW de potencia instalada, y su infraestructura de evacuación, para su hibridación con la planta híbrida Solaria-Santiz I, formada por un módulo fotovoltaico de 49,989 MW y un módulo de almacenamiento de energía por baterías, de 19,993 MW de potencia instalada, en los términos municipales de Mayalde y Peñausende, en la provincia de Zamora, y de Valdelosa, en la provincia de Salamanca.</titulo>
+              <url_pdf szBytes="229806" szKBytes="224" pagina_inicial="58678" pagina_final="58681">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36166.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36166</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36166</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9575" nombre="MINISTERIO PARA LA TRANSICIÓN ECOLÓGICA Y EL RETO DEMOGRÁFICO">
+            <item>
+              <identificador>BOE-B-2026-36167</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre información pública de una solicitud de autorización en el término municipal de San Mateo de Gallego (Zaragoza) Expediente 2024-S-294.</titulo>
+              <url_pdf szBytes="203380" szKBytes="199" pagina_inicial="58682" pagina_final="58682">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36167.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36167</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36167</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36168</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2025-A-22 en el término municipal de Valdenoceda - Merindad de Valdivielso (Burgos).</titulo>
+              <url_pdf szBytes="203850" szKBytes="199" pagina_inicial="58683" pagina_final="58683">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36168.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36168</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36168</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36169</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2023-A-52 en el término municipal de Santa Cilia (Huesca).</titulo>
+              <url_pdf szBytes="204582" szKBytes="200" pagina_inicial="58684" pagina_final="58684">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36169.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36169</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36169</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36170</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2011-MC-142 en el término municipal de Lodosa (Navarra).</titulo>
+              <url_pdf szBytes="203507" szKBytes="199" pagina_inicial="58685" pagina_final="58685">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36170.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36170</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36170</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36171</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2023-A-171 en el término municipal de Esterri de Cardos (Lleida).</titulo>
+              <url_pdf szBytes="203704" szKBytes="199" pagina_inicial="58686" pagina_final="58686">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36171.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36171</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36171</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36172</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Miño-Sil, O.A. de información pública del expediente de autorización para la corta de 31 chopos y un aliso seco, en el dominio público hidráulico del río Sarria, parcela 1242-polígono 4 de la parroquia de Vilambrán (Santa María) del término municipal de Láncara (Lugo).</titulo>
+              <url_pdf szBytes="205956" szKBytes="201" pagina_inicial="58687" pagina_final="58687">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36172.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36172</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36172</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36173</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas superficiales para uso ganadero, en el término municipal de Palacios del Arzobispo (Salamanca). Ref. expte.: C-0248/2026 (INTEGRA-AYE) SA.</titulo>
+              <url_pdf szBytes="210555" szKBytes="206" pagina_inicial="58688" pagina_final="58689">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36173.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36173</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36173</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36174</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2023-A-169 en el término municipal de Esterri de Cardos (Lleida).</titulo>
+              <url_pdf szBytes="204004" szKBytes="199" pagina_inicial="58690" pagina_final="58690">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36174.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36174</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36174</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36175</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Ebro, O.A., por el que se hace pública la aprobación de los cánones de regulación y las tarifas de utilización de agua correspondientes al año 2027.</titulo>
+              <url_pdf szBytes="203782" szKBytes="199" pagina_inicial="58691" pagina_final="58691">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36175.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36175</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36175</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36176</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2017-A-157 en el término municipal de Arasan - Bisaurri (Huesca).</titulo>
+              <url_pdf szBytes="203904" szKBytes="199" pagina_inicial="58692" pagina_final="58692">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36176.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36176</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36176</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36177</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A., de información pública de la concesión de un aprovechamiento de aguas subterráneas para riego, en el término municipal de Madridanos (Zamora). Ref. expte.: C-0346/2026 (INTEGRA-AYE) ZA.</titulo>
+              <url_pdf szBytes="211078" szKBytes="206" pagina_inicial="58693" pagina_final="58694">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36177.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36177</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36177</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36178</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Cantábrico, O.A., de información pública de expediente de modificación de características de la concesión de 0,5 l/s de agua del río Pisón, en Valbuena, T.M. de Cabranes (Asturias), con destino a riego. (A/33/47570).</titulo>
+              <url_pdf szBytes="204759" szKBytes="200" pagina_inicial="58695" pagina_final="58695">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36178.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36178</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36178</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36179</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo O.A. de la información pública de la solicitud de la modificación de características de una concesión de aguas en el término municipal de Huerta de Valdecarábanos (Toledo). Referencia M-0018/2023.</titulo>
+              <url_pdf szBytes="202670" szKBytes="198" pagina_inicial="58696" pagina_final="58696">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36179.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36179</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36179</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36180</identificador>
+              <titulo>Anuncio de la Demarcación de Costas en Asturias sobre otorgamiento al Ayuntamiento de Villaviciosa de concesión de ocupación de dominio público marítimo-terrestre, con destino la regularización de las estructuras existentes del sistema de saneamiento de la Ría de Villaviciosa, término municipal de Villaviciosa (Asturias). Ref.: CNC02/25/33/0001.</titulo>
+              <url_pdf szBytes="203566" szKBytes="199" pagina_inicial="58697" pagina_final="58697">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36180.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36180</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36180</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36181</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Guadiana, O.A. de información pública sobre solicitud de concesión de aprovechamiento de aguas superficiales para uso ganadero en el t.m. de Talarrubias (Badajoz). CONC.4/25.</titulo>
+              <url_pdf szBytes="202610" szKBytes="198" pagina_inicial="58698" pagina_final="58698">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36181.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36181</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36181</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36182</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2023-A-108 en el término municipal de Inbuluzketa - Esteribar (Navarra).</titulo>
+              <url_pdf szBytes="204208" szKBytes="199" pagina_inicial="58699" pagina_final="58699">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36182.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36182</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36182</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36183</identificador>
+              <titulo>Anuncio de la Demarcación de Costas en Cantabria sobre la solicitud de autorización para impartición de clases de surf en las playas de Langre y Galizano para las temporadas 2027 a 2029, en el término municipal de Ribamontán al Mar. Peticionario: Ayuntamiento de Ribamontán al Mar. Expediente AUT01/26/39/0009-AUT03/02.</titulo>
+              <url_pdf szBytes="203992" szKBytes="199" pagina_inicial="58700" pagina_final="58700">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36183.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36183</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36183</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36184</identificador>
+              <titulo>Anuncio de la Comisaría de Aguas de la Confederación Hidrográfica del Ebro sobre la resolución del expediente de concesión de un aprovechamiento de aguas públicas, de referencia 2021-A-125 en el término municipal de Panillo - Graus (Huesca).</titulo>
+              <url_pdf szBytes="203959" szKBytes="199" pagina_inicial="58701" pagina_final="58701">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36184.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36184</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36184</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36185</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Duero, O.A, de información pública de la modificación de características de la concesión de un aprovechamiento de aguas superficiales ya autorizado, en el término municipal de Pelayos (Salamanca). Ref. exp.: MC-0206/2026 (INTEGRA-AYE) SA.</titulo>
+              <url_pdf szBytes="210860" szKBytes="206" pagina_inicial="58702" pagina_final="58703">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36185.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36185</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36185</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36186</identificador>
+              <titulo>Anuncio de la Confederación Hidrográfica del Tajo de información pública en el expediente de extinción del derecho a un aprovechamiento de 0,4 l/s de aguas subterráneas, procedentes de dos manantiales, con destino a riego, en el término municipal de Canalejas del Arroyo (Cuenca).</titulo>
+              <url_pdf szBytes="209250" szKBytes="204" pagina_inicial="58704" pagina_final="58705">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36186.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36186</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36186</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9579" nombre="MINISTERIO DE INCLUSIÓN, SEGURIDAD SOCIAL Y MIGRACIONES">
+            <item>
+              <identificador>BOE-B-2026-36187</identificador>
+              <titulo>Resolución de la Dirección Provincial de la Tesorería General de la Seguridad Social de Tarragona por la que se anuncia convocatoria de subasta pública para la enajenación de inmueble de su propiedad en la provincia de Tarragona (expte. 2026/430315), sito en Avenida Países Catalanes, nº 36, planta baja, de Reus (Tarragona).</titulo>
+              <url_pdf szBytes="211879" szKBytes="207" pagina_inicial="58706" pagina_final="58707">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36187.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36187</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36187</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36188</identificador>
+              <titulo>Anuncio de corrección de errores de la Resolución de la Dirección Provincial de la Tesorería General de la Seguridad Social de Illes Balears por la que se anuncia convocatoria de tercera subasta pública de bienes inmuebles.</titulo>
+              <url_pdf szBytes="203243" szKBytes="198" pagina_inicial="58708" pagina_final="58708">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36188.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36188</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36188</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36189</identificador>
+              <titulo>Resolución de la Dirección Provincial de la Tesorería General de la Seguridad Social de Tarragona por la que se anuncia convocatoria de subasta pública para la enajenación de inmueble de su propiedad en la provincia de Tarragona (expte. 2026/430316), sito en C/ Bertrán de Castellet nº 4-6-8, de Reus.</titulo>
+              <url_pdf szBytes="212708" szKBytes="208" pagina_inicial="58709" pagina_final="58710">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36189.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36189</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36189</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8010" nombre="COMUNIDAD AUTÓNOMA DE ANDALUCÍA">
+            <item>
+              <identificador>BOE-B-2026-36190</identificador>
+              <titulo>Anuncio de 15 de Octubre de 2026, de la Delegación Territorial de Economía, Hacienda, Fondos Europeos, y Diálogo Social y de Industria, Energía y Minas en Granada, por la que se hace público el otorgamiento de la concesión de explotación "RAFAEL 1", N.º 30.800-1.</titulo>
+              <url_pdf szBytes="204184" szKBytes="199" pagina_inicial="58711" pagina_final="58711">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36190.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36190</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36190</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36191</identificador>
+              <titulo>Anuncio de la Delegación Territorial de Agricultura, Pesca, Agua y Desarrollo Rural en Huelva, por el que se hace pública la resolución de concesión de aguas públicas superficiales con destino a riego, en la finca "La Esperanza", en el término municipal de Villablanca (Huelva).</titulo>
+              <url_pdf szBytes="202338" szKBytes="198" pagina_inicial="58712" pagina_final="58712">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36191.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36191</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36191</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36192</identificador>
+              <titulo>Resolución de la Delegación Territorial de Economía, Hacienda, Fondos Europeos y de Universidad, Industria, Energía e Innovación en Jaén, por la que se concede a favor de E-Distribución Redes Digitales S.L.U, autorización administrativa previa y de construcción, así como, la declaración, en concreto, de utilidad pública para el proyecto de instalación de energía eléctrica "Sustitución apoyo de MT A358989 en línea simple circuito de media tensión "Torres" de subestación "MRENTR" en el municipio de Torres (Jaén). Expediente: AT-44-2026.</titulo>
+              <url_pdf szBytes="255410" szKBytes="249" pagina_inicial="58713" pagina_final="58719">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36192.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36192</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36192</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="8131" nombre="COMUNIDAD DE MADRID">
+            <item>
+              <identificador>BOE-B-2026-36193</identificador>
+              <titulo>Resolución de la Dirección General de Transición Energética y Economía Circular por la que se convoca para el levantamiento de Actas Previas a la Ocupación de las fincas afectadas por el proyecto de la nueva subestación transformadora STR FUENTIDUEÑA 66/20kV (ISE300), en el término municipal de Fuentidueña de Tajo (Madrid). EXE 11/26.</titulo>
+              <url_pdf szBytes="214362" szKBytes="209" pagina_inicial="58720" pagina_final="58721">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36193.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36193</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36193</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9525" nombre="ADMINISTRACIÓN LOCAL">
+            <item>
+              <identificador>BOE-B-2026-36194</identificador>
+              <titulo>Anuncio del Excmo. Ayuntamiento de Alicante sobre convocatoria del III Premio "Eusebio Sempere" de la Creación y del Pensamiento Artístico 2026.</titulo>
+              <url_pdf szBytes="201656" szKBytes="197" pagina_inicial="58722" pagina_final="58722">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36194.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36194</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36194</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="310" nombre="UNIVERSIDADES">
+            <item>
+              <identificador>BOE-B-2026-36195</identificador>
+              <titulo>Anuncio de la Escuela Internacional de Posgrado de la Universidad de Sevilla sobre duplicado de título por modificación de datos personales.</titulo>
+              <url_pdf szBytes="200678" szKBytes="196" pagina_inicial="58723" pagina_final="58723">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36195.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36195</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36195</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36196</identificador>
+              <titulo>Anuncio de la Facultad de Derecho, Economia y Turismo de la Universidad de Lleida sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="200242" szKBytes="196" pagina_inicial="58724" pagina_final="58724">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36196.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36196</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36196</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36197</identificador>
+              <titulo>Anuncio de la Facultad de Ciencias de la Educación de la Universidad de Granada sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="199966" szKBytes="195" pagina_inicial="58725" pagina_final="58725">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36197.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36197</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36197</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36198</identificador>
+              <titulo>Anuncio de la Facultad de Derecho de la Universidad Complutense de Madrid sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="199794" szKBytes="195" pagina_inicial="58726" pagina_final="58726">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36198.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36198</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36198</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36199</identificador>
+              <titulo>Anuncio de la Facultad de Farmacia de la Universidad de La Laguna sobre extravío de título universitario.</titulo>
+              <url_pdf szBytes="199900" szKBytes="195" pagina_inicial="58727" pagina_final="58727">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36199.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36199</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36199</url_xml>
+            </item>
+          </departamento>
+          <departamento codigo="9536" nombre="OTROS ENTES">
+            <item>
+              <identificador>BOE-B-2026-36200</identificador>
+              <titulo>Anuncio del Sindicato de Riegos del Canal de Tauste sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201840" szKBytes="197" pagina_inicial="58728" pagina_final="58728">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36200.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36200</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36200</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36201</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Palos de la Frontera sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201511" szKBytes="197" pagina_inicial="58729" pagina_final="58729">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36201.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36201</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36201</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36202</identificador>
+              <titulo>Anuncio de la Comunidad General de Regantes del Canal de la Derecha del Ebro sobre convocatoria de Junta General Ordinaria.</titulo>
+              <url_pdf szBytes="202581" szKBytes="198" pagina_inicial="58730" pagina_final="58730">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36202.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36202</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36202</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36203</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Tramo II Canal Margen Izquierda Rio Najerilla sobre convocatoria de Asamblea General Ordinaria.</titulo>
+              <url_pdf szBytes="203981" szKBytes="199" pagina_inicial="58731" pagina_final="58731">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36203.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36203</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36203</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36204</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de Bétera sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="203436" szKBytes="199" pagina_inicial="58732" pagina_final="58732">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36204.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36204</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36204</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36205</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de Cullera sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201394" szKBytes="197" pagina_inicial="58733" pagina_final="58733">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36205.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36205</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36205</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36206</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Val de Alferche sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201936" szKBytes="197" pagina_inicial="58734" pagina_final="58734">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36206.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36206</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36206</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36207</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Sector 3º Tramo III del Canal Margen Izquierda del Najerilla (La Rioja) sobre convocatoria de Junta General Ordinaria.</titulo>
+              <url_pdf szBytes="203918" szKBytes="199" pagina_inicial="58735" pagina_final="58735">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36207.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36207</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36207</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36208</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes número 8 de los Canales de Urgel de Bellpuig sobre convocatoria de Junta General Ordinaria.</titulo>
+              <url_pdf szBytes="203536" szKBytes="199" pagina_inicial="58736" pagina_final="58736">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36208.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36208</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36208</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36209</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de San Agustín sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202286" szKBytes="198" pagina_inicial="58737" pagina_final="58737">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36209.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36209</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36209</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36210</identificador>
+              <titulo>Anuncio de la Comunidad General de Regantes del Valle del Yalde (La Rioja) sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="203321" szKBytes="199" pagina_inicial="58738" pagina_final="58738">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36210.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36210</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36210</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36211</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Río Aranzuelo sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202595" szKBytes="198" pagina_inicial="58739" pagina_final="58739">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36211.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36211</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36211</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36212</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Canal de Castañón sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202105" szKBytes="197" pagina_inicial="58740" pagina_final="58740">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36212.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36212</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36212</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36213</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de la Acequia Principal sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202037" szKBytes="197" pagina_inicial="58741" pagina_final="58741">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36213.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36213</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36213</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36214</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de Ablitas sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201779" szKBytes="197" pagina_inicial="58742" pagina_final="58742">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36214.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36214</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36214</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36215</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes canal Algerri-Balaguer sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202009" szKBytes="197" pagina_inicial="58743" pagina_final="58743">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36215.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36215</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36215</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36216</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Canal Algerri-Balaguer sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="200917" szKBytes="196" pagina_inicial="58744" pagina_final="58744">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36216.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36216</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36216</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36217</identificador>
+              <titulo>Anuncio de la Junta Central de Usuarios Norte de la Vega del Río Segura sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201254" szKBytes="197" pagina_inicial="58745" pagina_final="58745">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36217.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36217</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36217</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36218</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes de Mozoncillo sobre convocatoria asamblea general.</titulo>
+              <url_pdf szBytes="201607" szKBytes="197" pagina_inicial="58746" pagina_final="58746">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36218.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36218</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36218</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36219</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Tierra de Campos "El Galgo" sobre convocatoria asamblea general.</titulo>
+              <url_pdf szBytes="202018" szKBytes="197" pagina_inicial="58747" pagina_final="58747">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36219.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36219</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36219</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36220</identificador>
+              <titulo>Anuncio de la Colectividad de Regantes número 4 Canales de Urgell sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202364" szKBytes="198" pagina_inicial="58748" pagina_final="58748">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36220.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36220</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36220</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36221</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Apac sobre convocatoria de Junta general extraordinaria.</titulo>
+              <url_pdf szBytes="206555" szKBytes="202" pagina_inicial="58749" pagina_final="58750">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36221.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36221</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36221</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36222</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Los Aguaos (en constitución) por el que se convoca Asamblea General Extraordinaria.</titulo>
+              <url_pdf szBytes="201444" szKBytes="197" pagina_inicial="58751" pagina_final="58751">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36222.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36222</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36222</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36223</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes La Balsa de Ainzón sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="202500" szKBytes="198" pagina_inicial="58752" pagina_final="58752">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36223.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36223</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36223</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36224</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes Planetes, Moro y Vall del Cami sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201200" szKBytes="196" pagina_inicial="58753" pagina_final="58753">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36224.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36224</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36224</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36225</identificador>
+              <titulo>Anuncio de la Comunitat de Regants del Pantà de Riudecanyes sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201416" szKBytes="197" pagina_inicial="58754" pagina_final="58754">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36225.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36225</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36225</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36226</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Chirivaile sobre convocatoria de Junta.</titulo>
+              <url_pdf szBytes="201728" szKBytes="197" pagina_inicial="58755" pagina_final="58755">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36226.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36226</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36226</url_xml>
+            </item>
+            <item>
+              <identificador>BOE-B-2026-36227</identificador>
+              <titulo>Anuncio de la Comunidad de Regantes del Canal de Castrejón Margen Derecha sobre convocatoria de Junta General II.</titulo>
+              <url_pdf szBytes="202843" szKBytes="198" pagina_inicial="58756" pagina_final="58756">https://www.boe.es/boe/dias/2026/11/05/pdfs/BOE-B-2026-36227.pdf</url_pdf>
+              <url_html>https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-36227</url_html>
+              <url_xml>https://www.boe.es/diario_boe/xml.php?id=BOE-B-2026-36227</url_xml>
+            </item>
+          </departamento>
+        </seccion>
+      </diario>
+    </sumario>
+  </data>
+</response>

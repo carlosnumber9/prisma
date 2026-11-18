@@ -1,0 +1,11 @@
+{
+  "sourceId": "source-d6a1dcd18fe4",
+  "sourceSha256": "d6a1dcd18fe4ad0f91797c19811827acd2a6a06ca294c5d63be20d7b9aa46f39",
+  "segments": [
+    {
+      "id": "fill",
+      "section": "SVG fill attributes",
+      "text": "#21599e"
+    }
+  ]
+}

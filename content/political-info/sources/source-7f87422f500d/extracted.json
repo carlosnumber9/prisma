@@ -1,0 +1,16 @@
+{
+  "sourceId": "source-7f87422f500d",
+  "sourceSha256": "7f87422f500d9823f0c9ab217d660a05760fc39e3f1afb760790730c17b5a337",
+  "segments": [
+    {
+      "id": "date",
+      "section": "Daily summary date",
+      "text": "2026-11-14"
+    },
+    {
+      "id": "boe-a-2026-23837",
+      "section": "BOE-A-2026-23837",
+      "text": "Resolución de 12 de noviembre de 2026, de la Presidencia de la Junta Electoral Central, de designación de los Vocales no judiciales de las Juntas Electorales Provinciales a los que se refiere el artículo 10.1.b) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en relación con las elecciones al Congreso de los Diputados y al Senado de 29 de noviembre de 2026."
+    }
+  ]
+}

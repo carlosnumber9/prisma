@@ -1,0 +1,11 @@
+{
+  "sourceId": "source-ebeb8bf5b33c",
+  "sourceSha256": "ebeb8bf5b33ca81405556017dcf367b4b0e92d1936acf03cf976a1e5f57e2165",
+  "segments": [
+    {
+      "id": "date",
+      "section": "Daily summary date",
+      "text": "2026-11-06"
+    }
+  ]
+}

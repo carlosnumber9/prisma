@@ -1,0 +1,16 @@
+{
+  "sourceId": "source-a8f0ada0b76e",
+  "sourceSha256": "a8f0ada0b76e464e411f5a231f3ad2179f956db4b5ae66939363f95cabe414ba",
+  "segments": [
+    {
+      "id": "boe-podemos-label",
+      "section": "Proclamación de candidaturas 29N 2026",
+      "text": "PODEMOS (PODEMOS)"
+    },
+    {
+      "id": "boe-fa-galicia-label",
+      "section": "Proclamación de candidaturas 29N 2026",
+      "text": "FRENTE AMPLIO-FRONTE AMPLA (FRENTE AMPLIO-FRONTE AMPLA)"
+    }
+  ]
+}

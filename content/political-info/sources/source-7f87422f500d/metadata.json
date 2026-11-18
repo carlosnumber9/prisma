@@ -1,0 +1,12 @@
+{
+  "id": "source-7f87422f500d",
+  "title": "BOE: sumario 2026-11-14",
+  "url": "https://www.boe.es/datosabiertos/api/boe/sumario/20261114",
+  "authority": "electoral",
+  "publishedAt": "2026-11-14",
+  "capturedAt": "2026-11-18T16:09:32.265Z",
+  "originalFile": "original.xml",
+  "sha256": "7f87422f500d9823f0c9ab217d660a05760fc39e3f1afb760790730c17b5a337",
+  "extractionSha256": "a13ed04a8a5ac2480c122234428e39c26478c485501ed83f0db3f3cc81b82c24",
+  "redacted": false
+}

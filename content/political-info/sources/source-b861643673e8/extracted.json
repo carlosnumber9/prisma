@@ -1,0 +1,16 @@
+{
+  "sourceId": "source-b861643673e8",
+  "sourceSha256": "b861643673e84b5c7d44cfcf8354312f53e19118cb6908e6d1791485ebc35b7a",
+  "segments": [
+    {
+      "id": "date",
+      "section": "Daily summary date",
+      "text": "2026-11-03"
+    },
+    {
+      "id": "boe-a-2026-23103",
+      "section": "BOE-A-2026-23103",
+      "text": "Candidaturas proclamadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sourceId": "source-9ae56d35ff07",
+  "sourceSha256": "9ae56d35ff0707acaaa6e758fb5c323de28b8f1cfaf2841a0d6040e840d6d2af",
+  "segments": [
+    {
+      "id": "date",
+      "section": "Daily summary date",
+      "text": "2026-11-05"
+    },
+    {
+      "id": "boe-a-2026-23178",
+      "section": "BOE-A-2026-23178",
+      "text": "Resolución de 29 de octubre de 2026, de la Presidencia del Tribunal de Cuentas, por la que se publica el Acuerdo del Pleno de 29 de octubre de 2026, por el que se aprueba la Instrucción relativa a la fiscalización de las contabilidades de las elecciones a las Cortes Generales de 29 de noviembre de 2026."
+    },
+    {
+      "id": "boe-a-2026-23258",
+      "section": "BOE-A-2026-23258",
+      "text": "Resolución de 4 de noviembre de 2026, de la Presidencia de la Junta Electoral Central, por la que se publica la distribución de espacios gratuitos de propaganda electoral en los medios de comunicación de titularidad pública de ámbito nacional en relación con las elecciones al Congreso de los Diputados y al Senado de 29 de noviembre de 2026."
+    },
+    {
+      "id": "boe-a-2026-23259",
+      "section": "BOE-A-2026-23259",
+      "text": "Resolución de 4 de noviembre de 2026, de la Presidencia de la Junta Electoral Central, por la que se toma conocimiento del Plan de cobertura informativa de la Corporación RTVE para las elecciones generales a celebrar el 29 de noviembre de 2026."
+    }
+  ]
+}
