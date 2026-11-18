@@ -1,0 +1,97 @@
+{
+  "id": "podemos--pensions-and-social-protection",
+  "partyId": "podemos",
+  "topicId": "pensions-and-social-protection",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-pensions-and-social-protection-early-retirement-penalties",
+      "title": {
+        "es": "Jubilación anticipada con 40 años cotizados",
+        "ca": "Jubilació anticipada amb 40 anys cotitzats",
+        "gl": "Xubilación anticipada con 40 anos cotizados",
+        "eu": "Erretiro aurreratua 40 urte kotizatuta",
+        "oc": "Jubilacion anticipada damb 40 ans cotizadi",
+        "en": "Early retirement after 40 years of contributions"
+      },
+      "text": {
+        "es": "Eliminar retroactivamente las penalizaciones por jubilación anticipada para las personas con 40 años o más de cotización y revisar las pensiones ya reconocidas.",
+        "ca": "Eliminar retroactivament les penalitzacions per jubilació anticipada per a les persones amb 40 anys o més cotitzats i revisar les pensions ja reconegudes.",
+        "gl": "Eliminar retroactivamente as penalizacións por xubilación anticipada para as persoas con 40 anos ou máis de cotización e revisar as pensións xa recoñecidas.",
+        "eu": "Gutxienez 40 urtez kotizatu duten pertsonei erretiroa aurreratzeagatik ezarritako murrizketak atzeraeraginez kentzea, eta jada aitortutako pentsioak berrikustea.",
+        "oc": "Eliminar retroactivament es penalizacions pera jubilacion anticipada entàs persones damb 40 ans o mès de cotizacion e revisar es pensions ja reconeishudes.",
+        "en": "Retroactively remove early retirement penalties for people with at least 40 years of contributions and review pensions already awarded."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "Eliminar las penalizaciones por jubilación anticipada para las personas con 40 años cotizados."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "eliminando retroactivamente las penalizaciones para los traba- jadores y trabajadoras con 40 años o más de cotización. La reforma incluirá la revisión de las pensiones ya reconocidas"
+        }
+      ]
+    },
+    {
+      "id": "podemos-pensions-and-social-protection-retirement-at-63",
+      "title": {
+        "es": "Edad ordinaria de jubilación a los 63 años",
+        "ca": "Edat ordinària de jubilació als 63 anys",
+        "gl": "Idade ordinaria de xubilación aos 63 anos",
+        "eu": "Erretiro-adin arrunta 63 urtera aurreratzea",
+        "oc": "Edat ordinària de jubilacion as 63 ans",
+        "en": "Standard retirement age of 63"
+      },
+      "text": {
+        "es": "Reformar el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años y garantizar la sostenibilidad y suficiencia de las pensiones financiándolas a través de los Presupuestos Generales del Estado.",
+        "ca": "Reformar el sistema de pensions per avançar l’edat ordinària de jubilació als 63 anys i garantir la sostenibilitat i suficiència de les pensions finançant-les a través dels pressupostos generals de l’Estat.",
+        "gl": "Reformar o sistema de pensións para adiantar a idade ordinaria de xubilación aos 63 anos e garantir a sustentabilidade e suficiencia das pensións financiándoas a través dos orzamentos xerais do Estado.",
+        "eu": "Pentsio-sistema erreformatzea ohiko erretiro-adina 63 urtera aurreratzeko eta pentsioen jasangarritasuna eta nahikotasuna bermatzeko, Estatuko Aurrekontu Orokorren bidez finantzatuta.",
+        "oc": "Reformar eth sistèma de pensions entà auançar era edat ordinària de jubilacion as 63 ans e garantir era sostenibilitat e sufisença des pensions en tot finançar-les a trauès des pressupòsti generaus der Estat.",
+        "en": "Reform the pension system to bring the standard retirement age down to 63 and ensure pensions are sustainable and adequate by funding them through the General State Budget."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "Reforma- remos el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presu- puestos Generales del Estado."
+        }
+      ]
+    },
+    {
+      "id": "podemos-pensions-and-social-protection-minimum-pensions",
+      "title": {
+        "es": "Pensiones mínimas vinculadas al salario mínimo",
+        "ca": "Pensions mínimes vinculades al salari mínim",
+        "gl": "Pensións mínimas vinculadas ao salario mínimo",
+        "eu": "Gutxieneko soldatari lotutako pentsioak",
+        "oc": "Pensions minimes vinculades ath salari minim",
+        "en": "Pensions tied to the minimum wage"
+      },
+      "text": {
+        "es": "Equiparar la pensión mínima contributiva al salario mínimo interprofesional y fijar la pensión no contributiva en el 80 % de ese salario.",
+        "ca": "Equiparar la pensió mínima contributiva al salari mínim interprofessional i fixar la pensió no contributiva en el 80 % d’aquest salari.",
+        "gl": "Equiparar a pensión mínima contributiva ao salario mínimo interprofesional e fixar a pensión non contributiva no 80 % dese salario.",
+        "eu": "Gutxieneko kotizaziopeko pentsioa lanbide arteko gutxieneko soldatarekin parekatzea, eta kotizaziorik gabeko pentsioa soldata horren % 80an ezartzea.",
+        "oc": "Equiparar era pension minima contributiva ath salari minim interprofessionau e fixar era pension non contributiva en 80 % d’aguest salari.",
+        "en": "Set the minimum contributory pension at the statutory minimum wage and the non-contributory pension at 80% of that wage."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-44",
+          "quote": "Garantizaremos que la pensión mínima contributiva se equipare al SMI, y la pensión no contributiva al 80% del SMI."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "podemos--employment",
+  "partyId": "podemos",
+  "topicId": "employment",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-employment-minimum-wage",
+      "title": {
+        "es": "Salario mínimo de 1.800 euros al mes",
+        "ca": "Salari mínim de 1.800 euros al mes",
+        "gl": "Salario mínimo de 1.800 euros ao mes",
+        "eu": "Hilean 1.800 euroko gutxieneko soldata",
+        "oc": "Salari minim de 1.800 èuros ath mes",
+        "en": "Minimum wage of €1,800 a month"
+      },
+      "text": {
+        "es": "Elevar el salario mínimo interprofesional a 1.800 euros mensuales en una legislatura y establecer por ley que nunca sea inferior al 75 % del salario mediano.",
+        "ca": "Elevar el salari mínim interprofessional a 1.800 euros mensuals en una legislatura i establir per llei que no sigui mai inferior al 75 % del salari medià.",
+        "gl": "Elevar o salario mínimo interprofesional a 1.800 euros mensuais nunha lexislatura e establecer por lei que nunca sexa inferior ao 75 % do salario mediano.",
+        "eu": "Lanbide arteko gutxieneko soldata hilean 1.800 eurora igotzea legegintzaldi batean, eta legez ezartzea inoiz ez dela izango soldata medianaren % 75 baino txikiagoa.",
+        "oc": "Elevar eth salari minim interprofessionau a 1.800 èuros mensuaus en ua legislatura e establir per lei que non sigue jamès inferior ath 75 % deth salari median.",
+        "en": "Raise the statutory minimum wage to €1,800 a month within one parliamentary term and set a legal floor of 75% of the median wage."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "Aumentaremos el SMI hasta los 1.800 euros al mes en una legislatura"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "Estableceremos por ley que nunca pueda ser inferior al 75% del salario mediano."
+        }
+      ]
+    },
+    {
+      "id": "podemos-employment-shorter-working-week",
+      "title": {
+        "es": "Jornada de 30 horas sin rebaja salarial",
+        "ca": "Jornada de 30 hores sense reducció salarial",
+        "gl": "Xornada de 30 horas sen redución salarial",
+        "eu": "30 orduko lanaldia, soldatak jaitsi gabe",
+        "oc": "Jornada de 30 ores sense rebaisha salariau",
+        "en": "30-hour working week with no pay cut"
+      },
+      "text": {
+        "es": "Reducir la jornada sin bajar los salarios, primero a 35 horas semanales y luego a 30 durante la legislatura. Permitir una semana de cuatro días según el trabajo, el tiempo de desplazamiento y la voluntad de la persona trabajadora. Implantar dos días de teletrabajo a la semana en todos los puestos donde sea posible.",
+        "ca": "Reduir la jornada sense abaixar els salaris, primer a 35 hores setmanals i després a 30 durant la legislatura. Permetre una setmana de quatre dies segons la feina, el temps de desplaçament i la voluntat de la persona treballadora. Implantar dos dies de teletreball a la setmana en tots els llocs de treball on sigui possible.",
+        "gl": "Reducir a xornada sen baixar os salarios, primeiro a 35 horas semanais e despois a 30 durante a lexislatura. Permitir unha semana de catro días segundo o traballo, o tempo de desprazamento e a vontade da persoa traballadora. Implantar dous días de teletraballo á semana en todos os postos onde sexa posible.",
+        "eu": "Soldatak jaitsi gabe lanaldia murriztea, lehenik astean 35 ordura eta gero 30era legegintzaldiaren barruan. Lau eguneko lan-astea ahalbidetzea, lanaren, joan-etorrietarako denboraren eta langilearen borondatearen arabera. Astean bi eguneko telelana ezartzea posible den lanpostu guztietan.",
+        "oc": "Redusir era jornada sense baishar es salaris, prumèr a 35 ores setmanaus e dempús a 30 pendent era legislatura. Perméter ua setmana de quate dies segontes eth trabalh, eth temps de desplaçament e era volontat dera persona trabalhadora. Implantar dus dies de teletrabalh ara setmana en toti es lòcs de trabalh a on sigue possible.",
+        "en": "Reduce working hours without cutting pay, first to 35 hours a week and then to 30 during the parliamentary term. Allow a four-day week depending on the job, commuting time and the worker’s wishes. Introduce two days of remote work per week in all roles where feasible."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "Reducir la jornada laboral sin reducir los salarios."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "Reduciremos la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas, con la posibilidad de reducir la semana laboral a cuatro días en función del trabajo concreto, de los tiempos de desplazamiento y de la voluntad del trabajador o traba- jadora."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "se implementará el teletrabajo dos días a la semana en todos los puestos en los que sea posible."
+        }
+      ]
+    },
+    {
+      "id": "podemos-employment-public-employment-stability",
+      "title": {
+        "es": "Estabilización del empleo público temporal abusivo",
+        "ca": "Estabilització de l’ocupació pública temporal abusiva",
+        "gl": "Estabilización do emprego público temporal abusivo",
+        "eu": "Aldi baterako enplegu publikoaren abusua zuzentzea",
+        "oc": "Estabilizacion der emplec public temporau en cas d’abús",
+        "en": "Permanent posts for public workers affected by misuse of temporary employment"
+      },
+      "text": {
+        "es": "Dar carácter fijo al empleo de todas las personas trabajadoras del sector público afectadas por fraude de ley o abuso de la temporalidad, de acuerdo con las exigencias de la Unión Europea.",
+        "ca": "Donar caràcter fix a l’ocupació de totes les persones treballadores del sector públic afectades per frau de llei o abús de la temporalitat, d’acord amb les exigències de la Unió Europea.",
+        "gl": "Dar carácter fixo ao emprego de todas as persoas traballadoras do sector público afectadas por fraude de lei ou abuso da temporalidade, de acordo coas esixencias da Unión Europea.",
+        "eu": "Lege-iruzurrak edo behin-behinekotasunaren gehiegizko erabilerak eragindako sektore publikoko langile guztien enplegua finko bihurtzea, Europar Batasunaren eskakizunen arabera.",
+        "oc": "Hèr fix er emplec de totes es persones trabalhadores deth sector public afectades per frau de lei o abús dera temporalitat, d’acòrd damb es exigéncies dera Union Europèa.",
+        "en": "Make employment permanent for all public-sector workers affected by circumvention of the law or abuse of temporary employment, in line with European Union requirements."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-41",
+          "quote": "Llevaremos a cabo la estabilización de todos los trabajadores y traba- jadoras públicas en fraude de ley o abuso de temporalidad, de acuerdo a las exigencias de la Unión Europea convirtiéndolos en trabajadores y trabajadoras fijas."
+        }
+      ]
+    }
+  ]
+}

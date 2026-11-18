@@ -1,8 +1,8 @@
-# Initial catalogue provenance
+# Catalogue provenance
 
-The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio for the first portal. This is a limited editorial selection, not the complete party registry or a claim about confirmed 2026 candidatures. IDs are stable internal slugs. The catalogue can change later without renaming existing IDs.
+The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio for the first portal. Since 18 November 2026 the public catalogue lists formations with documented programmes. The maintainer added Podemos with its first approved batch and removed ERC, which had no approved synthesis in Prisma. The catalogue is a limited editorial selection with stable formation IDs.
 
-## Identity and official websites
+## Initial identity and official website evidence
 
 Evidence consulted on 12 October 2026:
 
@@ -14,7 +14,11 @@ Evidence consulted on 12 October 2026:
 | `erc`           | ERC           | https://www.esquerra.cat/ | [ERC legal notice](https://www.esquerra.cat/avis-legal/)                                                                                                                                                                                                                                                                                                     |
 | `frente-amplio` | Frente Amplio | Not verified; `null`      | [IU statement of 11 October 2026](https://izquierdaunida.org/2026/10/11/izquierda-unida-reafirma-su-compromiso-con-un-frente-amplio-que-reuna-a-todas-las-fuerzas-de-la-izquierda-y-a-la-sociedad-movilizada/) identifies the Spanish project. It does not establish a separate official website, complete coalition membership or a proclaimed candidature. |
 
-Never substitute IU's or Sumar's website for Frente Amplio's website. This record is catalogue evidence, not a programme source or reviewed synthesis. No programmes have been incorporated into the public corpus; this does not establish that programmes have not been published.
+Frente Amplio retains the catalogue's initial nullable website value. Its separate editorial review verifies the coalition's programme domain. [Frente Amplio editorial review](../content/reviews/2026-11-17-frente-amplio-programme-draft.md)
+
+## Podemos addition
+
+The stable identifier is `podemos`, with display name Podemos and official website `https://podemos.info/`, as listed in the Centro de Estudios Políticos y Constitucionales directory. The programme is hosted on the separate campaign website. The catalogue omits colour and font metadata for Podemos. [Institutional directory](https://www.cepc.gob.es/documentacion/enlaces-de-interes/partidos-sindicatos-organizaciones-empresariales) · [Podemos editorial review](../content/reviews/2026-11-18-podemos-programme-draft.md)
 
 ## Interface colour evidence
 

@@ -34,7 +34,9 @@ The [17 November Frente Amplio editorial review](../content/reviews/2026-11-17-f
 
 The 66-page VOX national programme matches the official download byte for byte. The maintainer approved 44 proposals in six languages across all eight policy areas. The syntheses are partial. The bounded search found no separate territorial or sectoral supplement. [17 November VOX editorial review](../content/reviews/2026-11-17-vox-programme-draft.md)
 
-The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio as a limited initial catalogue; see [catalogue provenance](catalogue-provenance.md). Revisit public coverage once official candidatures provide enough information. Distinguish formations and coalitions from constituency candidatures and shared programmes; do not silently equate the portal with all candidates.
+The [18 November Podemos editorial review](../content/reviews/2026-11-18-podemos-programme-draft.md) preserves the official 141-page national programme and its 442 numbered measures. The maintainer approved 24 proposals in six languages across all eight policy areas. The syntheses are partial. Compromís: Front Valencià and Unidad del Pueblo Canario have separately authored documents. Coverage of standalone Podemos territorial supplements remains open.
+
+The initial catalogue included ERC alongside PP, PSOE, VOX and Frente Amplio. On 18 November the maintainer added Podemos and limited the public catalogue to formations with documented programmes. ERC had no approved synthesis in Prisma and was removed from the catalogue. Candidature coverage remains a separate concern. See [catalogue provenance](catalogue-provenance.md).
 
 ## Political reference documentation — skill implemented; corpus and app integration pending
 

@@ -1,0 +1,132 @@
+{
+  "id": "podemos--education",
+  "partyId": "podemos",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-education-direct-public-education",
+      "title": {
+        "es": "Red educativa de gestión pública directa",
+        "ca": "Xarxa educativa de gestió pública directa",
+        "gl": "Rede educativa de xestión pública directa",
+        "eu": "Zuzenean kudeatutako hezkuntza-sare publikoa",
+        "oc": "Hilat educatiu de gestion publica dirècta",
+        "en": "Directly managed public education network"
+      },
+      "text": {
+        "es": "Avanzar hacia una única red de gestión pública directa. Establecer una moratoria indefinida sobre nuevos conciertos educativos y la apertura de centros privados en todas las etapas. Incorporar progresiva y voluntariamente los centros concertados a la red pública, preservando los empleos y manteniendo o mejorando las condiciones laborales.",
+        "ca": "Avançar cap a una única xarxa de gestió pública directa. Establir una moratòria indefinida sobre nous concerts educatius i l’obertura de centres privats en totes les etapes. Incorporar progressivament i voluntàriament els centres concertats a la xarxa pública, preservant els llocs de treball i mantenint o millorant les condicions laborals.",
+        "gl": "Avanzar cara a unha única rede de xestión pública directa. Establecer unha moratoria indefinida sobre novos concertos educativos e a apertura de centros privados en todas as etapas. Incorporar progresiva e voluntariamente os centros concertados á rede pública, preservando os postos de traballo e mantendo ou mellorando as condicións laborais.",
+        "eu": "Kudeaketa publiko zuzeneko sare bakarrerantz aurrera egitea. Hezkuntza-itun berriei eta ikastetxe pribatu berrien irekierari etenaldi mugagabea ezartzea etapa guztietan. Ikastetxe itunduak sare publikoan pixkanaka eta borondatez sartzea, lanpostuak bermatuz eta lan-baldintzak mantenduz edo hobetuz.",
+        "oc": "Auançar entà un solet hilat de gestion publica dirècta. Establir ua moratòria indefinida entàs naui concèrts educatius e era dubertura de centres privadi en totes es etapes. Incorporar progressivament e volontàriament es centres concertadi ath hilat public, garantint es lòcs de trabalh e mantient o melhorant es condicions laboraus.",
+        "en": "Move towards a single directly managed public education network. Place an indefinite moratorium on new public funding agreements with private schools and on opening new private institutions at every level. Bring publicly funded private institutions into the public network gradually and voluntarily, protecting jobs and maintaining or improving working conditions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-79",
+          "quote": "Avanzaremos hacia una única red educativa de gestión pública directa"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-79",
+          "quote": "Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-79",
+          "quote": "reabsor- ción progresiva y voluntaria de los centros privados-concertados en la red pública, garantizando en todo momento los puestos de trabajo y el mantenimiento o mejora de las condiciones laborales"
+        }
+      ]
+    },
+    {
+      "id": "podemos-education-class-size-limits",
+      "title": {
+        "es": "Límites de alumnado por aula",
+        "ca": "Límits d’alumnat per aula",
+        "gl": "Límites de alumnado por aula",
+        "eu": "Ikasgela bakoitzeko ikasle kopuruaren mugak",
+        "oc": "Limits d’alumnes per aula",
+        "en": "Class-size limits"
+      },
+      "text": {
+        "es": "Reducir las ratios en todas las etapas. Entre los nuevos límites, fijar un máximo por aula de 15 estudiantes en Primaria, 20 en Secundaria, 23 en Bachillerato y 15 en Formación Profesional. Contar a cada estudiante con necesidades específicas de apoyo educativo como dos a efectos de ratio en todas las etapas y modalidades.",
+        "ca": "Reduir les ràtios en totes les etapes. Entre els nous límits, fixar un màxim per aula de 15 estudiants a Primària, 20 a Secundària, 23 a Batxillerat i 15 a Formació Professional. Comptar cada estudiant amb necessitats específiques de suport educatiu com a dos a efectes de ràtio en totes les etapes i modalitats.",
+        "gl": "Reducir as ratios en todas as etapas. Entre os novos límites, fixar un máximo por aula de 15 estudantes en Primaria, 20 en Secundaria, 23 en Bacharelato e 15 en Formación Profesional. Contar cada estudante con necesidades específicas de apoio educativo como dous para calcular a ratio en todas as etapas e modalidades.",
+        "eu": "Ratioak etapa guztietan murriztea. Muga berrien artean, ikasgela bakoitzeko gehienez 15 ikasle ezartzea Lehen Hezkuntzan, 20 Bigarren Hezkuntzan, 23 Batxilergoan eta 15 Lanbide Heziketan. Ratioa kalkulatzean, hezkuntza-laguntzako berariazko premiak dituen ikasle bakoitza bi ikasletzat hartzea, etapa eta modalitate guztietan.",
+        "oc": "Redusir es ratios en totes es etapes. Entre es naui limits, fixar un maxim de 15 alumnes per aula en Primària, 20 en Segondària, 23 en Bachilherat e 15 en Formacion Professionau. Compdar cada alumne damb besonhs especifics de supòrt educatiu coma dus entath calcul dera ratio en totes es etapes e modalitats.",
+        "en": "Lower class-size limits at every level. New limits include 15 pupils per class in primary school, 20 in secondary school, 23 in Bachillerato and 15 in vocational education. Count each student with specific educational support needs as two when calculating class size at every level and in every form of education."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-79",
+          "quote": "Reduciremos el número máximo de alumnos y alumnas por aula en todas las etapas educativas"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-79",
+          "quote": "Fijar nuevas ratios máximas en 15 alumnos y alumnas en Primaria, 20 en Secundaria y 23 en Bachillerato."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-80",
+          "quote": "Reducir a 15 estudiantes la ratio máxima en Formación Profesional."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-80",
+          "quote": "específicas de apoyo educativo (NEAE) compute como dos a efectos de ratio, en todas las etapas y modalidades educativas."
+        }
+      ]
+    },
+    {
+      "id": "podemos-education-public-education-funding",
+      "title": {
+        "es": "Financiación de la educación pública y plazas de 0 a 3 años",
+        "ca": "Finançament de l’educació pública i places de 0 a 3 anys",
+        "gl": "Financiamento do ensino público e prazas de 0 a 3 anos",
+        "eu": "Hezkuntza publikoaren finantzaketa eta 0 eta 3 urte bitarteko plazak",
+        "oc": "Finançament dera educacion publica e places de 0 a 3 ans",
+        "en": "Public education funding and places for ages 0 to 3"
+      },
+      "text": {
+        "es": "Crear un fondo estatal para la educación pública de gestión directa. Las comunidades autónomas deberán aportar un euro propio por cada dos recibidos y mantener su esfuerzo presupuestario educativo. Fijar como objetivo una inversión pública en educación del 7 % del PIB durante la próxima legislatura y crear en cuatro años como máximo las plazas públicas necesarias para que la educación de 0 a 3 años sea universal, gratuita y de gestión pública directa.",
+        "ca": "Crear un fons estatal per a l’educació pública de gestió directa. Les comunitats autònomes hauran d’aportar un euro propi per cada dos de rebuts i mantenir l’esforç pressupostari en educació. Fixar com a objectiu una inversió pública en educació del 7 % del PIB durant la pròxima legislatura i crear en quatre anys com a màxim les places públiques necessàries perquè l’educació de 0 a 3 anys sigui universal, gratuïta i de gestió pública directa.",
+        "gl": "Crear un fondo estatal para a educación pública de xestión directa. As comunidades autónomas deberán achegar un euro propio por cada dous recibidos e manter o seu esforzo orzamentario en educación. Fixar como obxectivo un investimento público en educación do 7 % do PIB durante a próxima lexislatura e crear nun máximo de catro anos as prazas públicas necesarias para que a educación de 0 a 3 anos sexa universal, gratuíta e de xestión pública directa.",
+        "eu": "Zuzenean kudeatutako hezkuntza publikorako estatu-funtsa sortzea. Autonomia-erkidegoek euro bana jarri beharko dute jasotako bi euro bakoitzeko, eta hezkuntzako aurrekontu-ahaleginari eutsi beharko diote. Hurrengo legegintzaldian hezkuntzako inbertsio publikoa BPGaren % 7ra iristeko helburua ezartzea. Gehienez lau urtean behar beste plaza publiko sortzea, 0 eta 3 urte bitartekoen hezkuntza unibertsala, doakoa eta kudeaketa publiko zuzenekoa izan dadin.",
+        "oc": "Crear un hons estatau entara educacion publica de gestion dirècta. Es comunitats autonòmes auràn d’aportar un èuro pròpri per cada dus recebudi e mantier er esfòrç pressupostari en educacion. Fixar coma objectiu ua inversion publica en educacion deth 7 % deth PIB pendent era legislatura que ven e crear en quate ans coma maxim es places publiques de besonh entà qu’era educacion de 0 a 3 ans sigue universau, gratuïta e de gestion publica dirècta.",
+        "en": "Create a national fund for directly managed public education. Autonomous communities must contribute one euro of their own for every two they receive and maintain their budgetary commitment to education. Aim for public education investment of 7% of GDP during the next parliamentary term. Create enough public places within four years to make education for children aged 0 to 3 universal, free and directly managed by public authorities."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-80",
+          "quote": "Crearemos un fondo estatal para reforzar exclusivamente la educación pública de gestión directa"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-80",
+          "quote": "Las comunidades autónomas deberán complementar la financiación estatal con un euro de recursos propios por cada dos euros recibidos y mantener el esfuerzo presupuestario educativo"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-80",
+          "quote": "Nuestro objetivo será alcanzar una inversión pública en educación equivalente al 7 % del PIB durante la próxima legisla- tura."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-80",
+          "quote": "En Educación Infantil de 0 a 3 años, construiremos en un plazo máximo de cuatro años todas las plazas públicas necesarias para garantizar una cobertura universal, gratuita y de gestión pública directa."
+        }
+      ]
+    }
+  ]
+}

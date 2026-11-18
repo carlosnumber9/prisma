@@ -1,0 +1,122 @@
+{
+  "id": "podemos--environment-and-energy",
+  "partyId": "podemos",
+  "topicId": "environment-and-energy",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-environment-and-energy-climate-targets",
+      "title": {
+        "es": "Objetivos de emisiones y neutralidad climática",
+        "ca": "Objectius d’emissions i neutralitat climàtica",
+        "gl": "Obxectivos de emisións e neutralidade climática",
+        "eu": "Isurketak murrizteko eta klima-neutraltasunerako helburuak",
+        "oc": "Objectius d’emissions e neutralitat climatica",
+        "en": "Emissions targets and climate neutrality"
+      },
+      "text": {
+        "es": "Reformar la Ley de Cambio Climático y Transición Energética para fijar una reducción de las emisiones de gases de efecto invernadero de al menos el 55 % en 2030 respecto a 1990, con la ambición de alcanzar el 65 %, y adelantar a 2040 el horizonte de neutralidad climática.",
+        "ca": "Reformar la Ley de Cambio Climático y Transición Energética per fixar una reducció de les emissions de gasos amb efecte d’hivernacle d’almenys el 55 % el 2030 respecte del 1990, amb l’ambició d’arribar al 65 %, i avançar al 2040 l’horitzó de neutralitat climàtica.",
+        "gl": "Reformar a Ley de Cambio Climático y Transición Energética para fixar unha redución das emisións de gases de efecto invernadoiro de polo menos o 55 % en 2030 respecto de 1990, coa ambición de chegar ao 65 %, e adiantar a 2040 o horizonte de neutralidade climática.",
+        "eu": "Ley de Cambio Climático y Transición Energética legea erreformatzea, 2030ean berotegi-efektuko gasen isurketak 1990ekoekin alderatuta gutxienez % 55 murrizteko helburua ezartzeko, % 65era iristeko asmoz, eta klima-neutraltasunerako epemuga 2040ra aurreratzeko.",
+        "oc": "Reformar era Ley de Cambio Climático y Transición Energética entà fixar ua reduccion des emissions de gases d’efècte d’ivernacle d’aumens eth 55 % en 2030 respècte a 1990, damb era ambicion d’arténher eth 65 %, e auançar a 2040 er orizon de neutralitat climatica.",
+        "en": "Amend the Ley de Cambio Climático y Transición Energética to set a target of cutting greenhouse gas emissions by at least 55% by 2030 compared with 1990, with an ambition of reaching 65%, and bring the target for climate neutrality forward to 2040."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-94",
+          "quote": "Reformaremos la Ley de Cambio Climá- tico y Transición Energética para elevar la ambición de los objetivos de reducción de emisiones"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-95",
+          "quote": "emisiones de gases de efecto invernadero al menos un 55 % para 2030 respecto a 1990, con la ambición de alcanzar el 65 %, y adelantaremos a 2040 el horizonte de neutralidad climática."
+        }
+      ]
+    },
+    {
+      "id": "podemos-environment-and-energy-wetland-protection",
+      "title": {
+        "es": "Protección de Doñana, las Tablas de Daimiel y el Mar Menor",
+        "ca": "Protecció de Doñana, les Tablas de Daimiel i el Mar Menor",
+        "gl": "Protección de Doñana, as Tablas de Daimiel e o Mar Menor",
+        "eu": "Doñana, Tablas de Daimiel eta Mar Menor babestea",
+        "oc": "Proteccion de Doñana, es Tablas de Daimiel e eth Mar Menor",
+        "en": "Protection of Doñana, Tablas de Daimiel and Mar Menor"
+      },
+      "text": {
+        "es": "Cerrar los regadíos ilegales en torno a Doñana y las Tablas de Daimiel para recuperar sus acuíferos y biodiversidad. Dar personalidad jurídica a Doñana, con derechos de existencia, protección, conservación y restauración en el parque nacional y su zona periférica, y recuperar el Guadiamar. Hacer cumplir la ley del Mar Menor y acabar con los vertidos contaminantes.",
+        "ca": "Tancar els regadius il·legals al voltant de Doñana i les Tablas de Daimiel per recuperar-ne els aqüífers i la biodiversitat. Donar personalitat jurídica a Doñana, amb drets d’existència, protecció, conservació i restauració al parc nacional i la seva zona perifèrica, i recuperar el Guadiamar. Fer complir la llei del Mar Menor i posar fi als abocaments contaminants.",
+        "gl": "Pechar os regadíos ilegais arredor de Doñana e das Tablas de Daimiel para recuperar os seus acuíferos e biodiversidade. Dar personalidade xurídica a Doñana, con dereitos de existencia, protección, conservación e restauración no parque nacional e na súa zona periférica, e recuperar o Guadiamar. Facer cumprir a lei do Mar Menor e acabar coas verteduras contaminantes.",
+        "eu": "Doñana eta Tablas de Daimiel inguruko legez kanpoko ureztalurrak ixtea, haien akuiferoak eta biodibertsitatea lehengoratzeko. Doñanari nortasun juridikoa ematea, parke nazionalean eta haren inguruko eremuan existitzeko, babestua eta kontserbatua izateko eta lehengoratua izateko eskubideekin, eta Guadiamar lehengoratzea. Mar Menorri buruzko legea betearaztea eta isuri kutsagarriei amaiera ematea.",
+        "oc": "Barrar es regadius illegaus ath torn de Doñana e des Tablas de Daimiel entà recuperar es sòns aqüifèrs e era sua biodiversitat. Dar personalitat juridica a Doñana, damb drets d’existéncia, proteccion, conservacion e restauracion en parc nacionau e era sua zòna periferica, e recuperar eth Guadiamar. Hèr a complir era lei deth Mar Menor e méter fin as versaments contaminanti.",
+        "en": "Close illegal irrigation sites around Doñana and Tablas de Daimiel to restore their aquifers and biodiversity. Give Doñana legal personhood and rights to exist and be protected, conserved and restored in the national park and its surrounding zone, and restore the Guadiamar. Enforce the Mar Menor law and stop polluting discharges."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-98",
+          "quote": "Cerrar los rega- díos ilegales en torno a Doñana y las Tablas de Daimiel para recuperar sus acuíferos y su biodiversidad."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-98",
+          "quote": "Doñana tendrá personalidad jurídica, con derecho a existir y a ser protegida, conservada y restaurada, en el Parque Nacional y su zona periférica, y se recuperará el Guadiamar."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-98",
+          "quote": "Se cumplirá la ley del Mar Menor y se acabará con los vertidos que lo envenenan."
+        }
+      ]
+    },
+    {
+      "id": "podemos-environment-and-energy-renewable-electricity",
+      "title": {
+        "es": "Transición a un sistema eléctrico renovable",
+        "ca": "Transició a un sistema elèctric renovable",
+        "gl": "Transición a un sistema eléctrico renovable",
+        "eu": "Sistema elektriko berriztagarrirako trantsizioa",
+        "oc": "Transicion entà un sistèma electric renovable",
+        "en": "Transition to renewable electricity"
+      },
+      "text": {
+        "es": "Revisar el Plan Nacional Integrado de Energía y Clima para alcanzar al menos el 95 % de generación eléctrica renovable en 2035, avanzando hacia la descarbonización total del sistema en 2040. Mantener temporalmente las centrales de ciclo combinado de gas como respaldo. Antes del cese de cualquier actividad laboral ligada a los combustibles fósiles, activar la creación de dos empleos en la misma comarca con condiciones laborales y salariales iguales o mejores y prioridad absoluta para las personas afectadas.",
+        "ca": "Revisar el Plan Nacional Integrado de Energía y Clima per assolir almenys el 95 % de generació elèctrica renovable el 2035, avançant cap a la descarbonització total del sistema el 2040. Mantenir temporalment les centrals de cicle combinat de gas com a suport. Abans del cessament de qualsevol activitat laboral lligada als combustibles fòssils, activar la creació de dos llocs de treball a la mateixa comarca amb condicions laborals i salarials iguals o millors i prioritat absoluta per a les persones afectades.",
+        "gl": "Revisar o Plan Nacional Integrado de Energía y Clima para acadar polo menos o 95 % de xeración eléctrica renovable en 2035, avanzando cara á descarbonización total do sistema en 2040. Manter temporalmente as centrais de ciclo combinado de gas como respaldo. Antes do cesamento de calquera actividade laboral ligada aos combustibles fósiles, activar a creación de dous empregos na mesma comarca con condicións laborais e salariais iguais ou mellores e prioridade absoluta para as persoas afectadas.",
+        "eu": "Plan Nacional Integrado de Energía y Clima plana berrikustea, 2035ean elektrizitatearen gutxienez % 95 iturri berriztagarriekin sortzeko, sistema 2040an guztiz deskarbonizatzeko bidean. Gas bidezko ziklo konbinatuko zentralak aldi baterako mantentzea, babes gisa. Erregai fosilei lotutako edozein lan-jarduera amaitu aurretik, eskualde berean bi lanpostu sortzeko prozesua abiatzea, lan- eta soldata-baldintza berberekin edo hobeekin, eta eragindako pertsonei erabateko lehentasuna ematea.",
+        "oc": "Revisar eth Plan Nacional Integrado de Energía y Clima entà arténher aumens eth 95 % de generacion electrica renovabla en 2035, en tot auançar entara descarbonizacion totau deth sistèma en 2040. Mantier temporaument es centraus de cicle combinat de gas coma supòrt. Abans dera cessacion de quinsevolh activitat laborau restacada as combustibles fossils, activar era creacion de dus lòcs de trabalh ena madeisha comarca damb condicions laboraus e salariaus eguaus o melhores e prioritat absoluda entàs persones afectades.",
+        "en": "Revise the Plan Nacional Integrado de Energía y Clima to reach at least 95% renewable electricity generation by 2035, moving towards full decarbonisation of the system by 2040. Temporarily retain combined-cycle gas power plants as backup. Before any work tied to fossil fuels ceases, start creating two jobs in the same local district with equal or better pay and working conditions, giving affected workers absolute hiring priority."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-98",
+          "quote": "Revisaremos el Plan Nacional Integrado de Energía y Clima"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-98",
+          "quote": "alcanzar al menos un 95 % de generación eléctrica renovable en 2035, avan- zando hacia un sistema completamente descarbonizado en 2040."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-98",
+          "quote": "Mantendremos transitoriamente las centrales de ciclo combinado de gas como respaldo indispensable del sistema."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-98",
+          "quote": "antes del cese de cual- quier actividad laboral vinculada a los combustibles fósiles, se active la creación de dos nuevos empleos con condiciones laborales y sala- riales idénticas o mejoradas en la misma comarca, otorgando prio- ridad absoluta de contratación a las personas afectadas."
+        }
+      ]
+    }
+  ]
+}

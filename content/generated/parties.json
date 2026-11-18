@@ -3,14 +3,14 @@
   "electionDate": "2026-11-29",
   "parties": [
     {
-      "id": "erc",
-      "name": "ERC",
-      "officialWebsite": "https://www.esquerra.cat/"
-    },
-    {
       "id": "frente-amplio",
       "name": "Frente Amplio",
       "officialWebsite": null
+    },
+    {
+      "id": "podemos",
+      "name": "Podemos",
+      "officialWebsite": "https://podemos.info/"
     },
     {
       "id": "pp",

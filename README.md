@@ -2,7 +2,7 @@
 
 Prisma will help Spanish citizens read reviewed summaries of official programmes for the general election on 29 November 2026, by electoral formation and policy area.
 
-The editorial foundation and statically prerendered Next.js portal are implemented. The initial limited catalogue contains PP, PSOE, VOX, ERC and Frente Amplio, with eight policy areas. The approved batches give PP 24 proposals, PSOE 32, VOX 44 and Frente Amplio 59, with eight partial summaries each. ERC's eight summaries are pending. The correction form, comparator, chat and Vercel integration remain future deliveries.
+The editorial foundation and statically prerendered Next.js portal are implemented. The public catalogue lists five formations with documented programmes. The approved batches give PP 24 proposals, PSOE 32, VOX 44, Frente Amplio 59 and Podemos 24, with eight partial summaries each. The correction form, comparator, chat and Vercel integration remain future deliveries.
 
 Breadcrumbs now retain their common route prefix. New pieces slide out from behind the preceding piece over 160 milliseconds; removed pieces slide back before disappearing. Sibling navigation replaces only the differing suffix. Reduced motion, resizing and font changes settle immediately.
 

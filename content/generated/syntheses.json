@@ -3,94 +3,6 @@
   "electionDate": "2026-11-29",
   "syntheses": [
     {
-      "id": "erc--economy-and-taxes",
-      "partyId": "erc",
-      "topicId": "economy-and-taxes",
-      "path": "/parties/erc/economy-and-taxes",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
-      "id": "erc--education",
-      "partyId": "erc",
-      "topicId": "education",
-      "path": "/parties/erc/education",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
-      "id": "erc--employment",
-      "partyId": "erc",
-      "topicId": "employment",
-      "path": "/parties/erc/employment",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
-      "id": "erc--environment-and-energy",
-      "partyId": "erc",
-      "topicId": "environment-and-energy",
-      "path": "/parties/erc/environment-and-energy",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
-      "id": "erc--healthcare",
-      "partyId": "erc",
-      "topicId": "healthcare",
-      "path": "/parties/erc/healthcare",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
-      "id": "erc--housing",
-      "partyId": "erc",
-      "topicId": "housing",
-      "path": "/parties/erc/housing",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
-      "id": "erc--institutions-and-rights",
-      "partyId": "erc",
-      "topicId": "institutions-and-rights",
-      "path": "/parties/erc/institutions-and-rights",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
-      "id": "erc--pensions-and-social-protection",
-      "partyId": "erc",
-      "topicId": "pensions-and-social-protection",
-      "path": "/parties/erc/pensions-and-social-protection",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
-    },
-    {
       "id": "frente-amplio--economy-and-taxes",
       "partyId": "frente-amplio",
       "topicId": "economy-and-taxes",
@@ -2555,6 +2467,1042 @@
               "quote": "El reconocimiento será voluntario y no impon- drá obligaciones automáticas de cuidado ni sustituirá la responsabilidad pública",
               "page": 24,
               "printedPage": "28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--economy-and-taxes",
+      "partyId": "podemos",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/podemos/economy-and-taxes",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-economy-and-taxes-permanent-wealth-tax",
+          "title": {
+            "es": "Impuesto estatal permanente sobre las grandes fortunas",
+            "ca": "Impost estatal permanent sobre les grans fortunes",
+            "gl": "Imposto estatal permanente sobre as grandes fortunas",
+            "eu": "Ondasun handien gaineko estatu-zerga iraunkorra",
+            "oc": "Impòst estatau permanent sus es granes fortunes",
+            "en": "Permanent national tax on large fortunes"
+          },
+          "text": {
+            "es": "Convertir el Impuesto Temporal de Solidaridad de las Grandes Fortunas en un impuesto estatal permanente con las mismas características que el Impuesto sobre el Patrimonio. Ampliarlo a todos los sujetos obligados por ese impuesto y retirar en el de grandes fortunas la exención de las acciones de empresas en manos de quienes las gestionan cuando el patrimonio supere los 100 millones de euros.",
+            "ca": "Convertir l’Impuesto Temporal de Solidaridad de las Grandes Fortunas en un impost estatal permanent amb les mateixes característiques que l’Impuesto sobre el Patrimonio. Ampliar-lo a tots els subjectes obligats per aquest impost i retirar en el de grans fortunes l’exempció de les accions d’empreses en mans de les persones que les gestionen quan el patrimoni superi els 100 milions d’euros.",
+            "gl": "Converter o Impuesto Temporal de Solidaridad de las Grandes Fortunas nun imposto estatal permanente coas mesmas características que o Impuesto sobre el Patrimonio. Amplialo a todos os suxeitos obrigados por ese imposto e retirar no de grandes fortunas a exención das accións de empresas en mans das persoas que as xestionan cando o patrimonio supere os 100 millóns de euros.",
+            "eu": "Impuesto Temporal de Solidaridad de las Grandes Fortunas zerga ondarearen gaineko zergaren ezaugarri berak dituen estatu-zerga iraunkor bihurtzea. Ondarearen gaineko zergaren subjektu pasibo guztiei aplikatzea eta ondasun handien zergan enpresak kudeatzen dituztenen esku dauden enpresa-akzioen salbuespena kentzea, ondarea 100 milioi eurotik gorakoa denean.",
+            "oc": "Convertir er Impuesto Temporal de Solidaridad de las Grandes Fortunas en un impòst estatau permanent damb es madeishes caracteristiques qu’er Impuesto sobre el Patrimonio. Ampliar-lo a toti es subjèctes obligadi per aguest impòst e retirar en impòst sus es granes fortunes era exempcion des accions d’entrepreses en mans des persones que les gestionen quan eth patrimòni supère es 100 milions d’èuros.",
+            "en": "Turn the Impuesto Temporal de Solidaridad de las Grandes Fortunas into a permanent national tax with the same features as Spain’s wealth tax. Extend it to everyone liable for the wealth tax and remove the exemption under the large-fortunes tax for shares held by people who manage those companies when their wealth exceeds €100 million."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-17",
+              "quote": "Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio",
+              "page": 17,
+              "printedPage": "17"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-17",
+              "quote": "reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal perma- nente con idénticas características que el Impuesto del Patrimonio.",
+              "page": 17,
+              "printedPage": "17"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-17",
+              "quote": "las acciones de empresas en manos de quienes las gestionan dejen de estar exentas en el impuesto a las grandes fortunas cuando el patri- monio pase de 100 millones de euros.",
+              "page": 17,
+              "printedPage": "17"
+            }
+          ]
+        },
+        {
+          "id": "podemos-economy-and-taxes-public-bank",
+          "title": {
+            "es": "Creación de una banca pública",
+            "ca": "Creació d’una banca pública",
+            "gl": "Creación dunha banca pública",
+            "eu": "Banku publikoa sortzea",
+            "oc": "Creacion d’ua banca publica",
+            "en": "Creation of a public bank"
+          },
+          "text": {
+            "es": "Crear una banca pública que integre todos los recursos y las estructuras de ICO, CDTI y ENISA. Las administraciones públicas operarían exclusivamente con ella. Su objetivo sería captar ahorro y orientarlo a crear empleo estable y de calidad.",
+            "ca": "Crear una banca pública que integri tots els recursos i les estructures de l’ICO, el CDTI i ENISA. Les administracions públiques hi operarien en exclusiva. El seu objectiu seria captar estalvi i orientar-lo a crear ocupació estable i de qualitat.",
+            "gl": "Crear unha banca pública que integre todos os recursos e as estruturas do ICO, o CDTI e ENISA. As administracións públicas operarían exclusivamente con ela. O seu obxectivo sería captar aforro e orientalo a crear emprego estable e de calidade.",
+            "eu": "ICOren, CDTIren eta ENISAren baliabide eta egitura guztiak bilduko dituen banku publikoa sortzea. Administrazio publikoek banku horrekin soilik egingo lituzkete eragiketak. Helburua aurrezkia erakartzea eta enplegu egonkorra eta kalitatezkoa sortzera bideratzea litzateke.",
+            "oc": "Crear ua banca publica qu’intègre toti es recorsi e es estructures der ICO, eth CDTI e ENISA. Es administracions publiques operarien sonque damb aguesta banca. Eth sòn objectiu serie captar estauvi e orientar-lo a crear trabalh estable e de qualitat.",
+            "en": "Create a public bank incorporating all the resources and structures of ICO, CDTI and ENISA. Public authorities would bank exclusively with it. Its aim would be to attract savings and direct them towards creating stable, high-quality jobs."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-17",
+              "quote": "Crearemos una Banca Pública a la que se integrarán todos los recursos y la estructura del ICO, CDTI y ENISA, que será con la que operen las administraciones públicas en exclusiva, con el fin de atraer ahorro y orientarlo a la creación de empleo estable y de calidad.",
+              "page": 17,
+              "printedPage": "17"
+            }
+          ]
+        },
+        {
+          "id": "podemos-economy-and-taxes-corporate-tax-rates",
+          "title": {
+            "es": "Tipos mínimos del impuesto de sociedades",
+            "ca": "Tipus mínims de l’impost de societats",
+            "gl": "Tipos mínimos do imposto sobre sociedades",
+            "eu": "Sozietateen gaineko zergaren gutxieneko tasak",
+            "oc": "Tipes minims der impòst sus societats",
+            "en": "Minimum corporate tax rates"
+          },
+          "text": {
+            "es": "Elevar del 15 % al 19 % el tipo efectivo mínimo general del impuesto de sociedades, calculado sobre los beneficios reales en lugar de la base imponible. Para las empresas que operen en régimen de oligopolio, fijar un tipo efectivo mínimo del 29 % y un tipo nominal del 35 %.",
+            "ca": "Elevar del 15 % al 19 % el tipus efectiu mínim general de l’impost de societats, calculat sobre els beneficis reals en comptes de la base imposable. Per a les empreses que operin en règim d’oligopoli, fixar un tipus efectiu mínim del 29 % i un tipus nominal del 35 %.",
+            "gl": "Elevar do 15 % ao 19 % o tipo efectivo mínimo xeral do imposto sobre sociedades, calculado sobre os beneficios reais en lugar da base impoñible. Para as empresas que operen en réxime de oligopolio, fixar un tipo efectivo mínimo do 29 % e un tipo nominal do 35 %.",
+            "eu": "Sozietateen gaineko zergaren gutxieneko tasa efektibo orokorra % 15etik % 19ra igotzea, zerga-oinarriaren ordez benetako mozkinen gainean kalkulatuta. Oligopolio-erregimenean ari diren enpresei gutxieneko tasa efektiboa % 29an eta tasa nominala % 35ean ezartzea.",
+            "oc": "Elevar deth 15 % ath 19 % eth tipe efectiu minim generau der impòst sus societats, calculat sus es beneficis reaus en lòc dera basa imposabla. Entàs empreses qu’opèren en regim d’oligopòli, fixar un tipe efectiu minim deth 29 % e un tipe nominau deth 35 %.",
+            "en": "Raise the general minimum effective corporate tax rate from 15% to 19%, calculated on actual profits instead of the taxable base. Set a minimum effective rate of 29% and a nominal rate of 35% for companies operating in oligopolies."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-21",
+              "quote": "Elevaremos el tipo efectivo mínimo general del 15 % al 19 %, calculándolo sobre los beneficios reales y no sobre la base imponible, y estableceremos para las empresas que operen en régimen de oligopolio un tipo efectivo mínimo del 29 % y un tipo nominal del 35 %.",
+              "page": 21,
+              "printedPage": "21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--education",
+      "partyId": "podemos",
+      "topicId": "education",
+      "path": "/parties/podemos/education",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-education-direct-public-education",
+          "title": {
+            "es": "Red educativa de gestión pública directa",
+            "ca": "Xarxa educativa de gestió pública directa",
+            "gl": "Rede educativa de xestión pública directa",
+            "eu": "Zuzenean kudeatutako hezkuntza-sare publikoa",
+            "oc": "Hilat educatiu de gestion publica dirècta",
+            "en": "Directly managed public education network"
+          },
+          "text": {
+            "es": "Avanzar hacia una única red de gestión pública directa. Establecer una moratoria indefinida sobre nuevos conciertos educativos y la apertura de centros privados en todas las etapas. Incorporar progresiva y voluntariamente los centros concertados a la red pública, preservando los empleos y manteniendo o mejorando las condiciones laborales.",
+            "ca": "Avançar cap a una única xarxa de gestió pública directa. Establir una moratòria indefinida sobre nous concerts educatius i l’obertura de centres privats en totes les etapes. Incorporar progressivament i voluntàriament els centres concertats a la xarxa pública, preservant els llocs de treball i mantenint o millorant les condicions laborals.",
+            "gl": "Avanzar cara a unha única rede de xestión pública directa. Establecer unha moratoria indefinida sobre novos concertos educativos e a apertura de centros privados en todas as etapas. Incorporar progresiva e voluntariamente os centros concertados á rede pública, preservando os postos de traballo e mantendo ou mellorando as condicións laborais.",
+            "eu": "Kudeaketa publiko zuzeneko sare bakarrerantz aurrera egitea. Hezkuntza-itun berriei eta ikastetxe pribatu berrien irekierari etenaldi mugagabea ezartzea etapa guztietan. Ikastetxe itunduak sare publikoan pixkanaka eta borondatez sartzea, lanpostuak bermatuz eta lan-baldintzak mantenduz edo hobetuz.",
+            "oc": "Auançar entà un solet hilat de gestion publica dirècta. Establir ua moratòria indefinida entàs naui concèrts educatius e era dubertura de centres privadi en totes es etapes. Incorporar progressivament e volontàriament es centres concertadi ath hilat public, garantint es lòcs de trabalh e mantient o melhorant es condicions laboraus.",
+            "en": "Move towards a single directly managed public education network. Place an indefinite moratorium on new public funding agreements with private schools and on opening new private institutions at every level. Bring publicly funded private institutions into the public network gradually and voluntarily, protecting jobs and maintaining or improving working conditions."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-79",
+              "quote": "Avanzaremos hacia una única red educativa de gestión pública directa",
+              "page": 79,
+              "printedPage": "79"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-79",
+              "quote": "Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas",
+              "page": 79,
+              "printedPage": "79"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-79",
+              "quote": "reabsor- ción progresiva y voluntaria de los centros privados-concertados en la red pública, garantizando en todo momento los puestos de trabajo y el mantenimiento o mejora de las condiciones laborales",
+              "page": 79,
+              "printedPage": "79"
+            }
+          ]
+        },
+        {
+          "id": "podemos-education-class-size-limits",
+          "title": {
+            "es": "Límites de alumnado por aula",
+            "ca": "Límits d’alumnat per aula",
+            "gl": "Límites de alumnado por aula",
+            "eu": "Ikasgela bakoitzeko ikasle kopuruaren mugak",
+            "oc": "Limits d’alumnes per aula",
+            "en": "Class-size limits"
+          },
+          "text": {
+            "es": "Reducir las ratios en todas las etapas. Entre los nuevos límites, fijar un máximo por aula de 15 estudiantes en Primaria, 20 en Secundaria, 23 en Bachillerato y 15 en Formación Profesional. Contar a cada estudiante con necesidades específicas de apoyo educativo como dos a efectos de ratio en todas las etapas y modalidades.",
+            "ca": "Reduir les ràtios en totes les etapes. Entre els nous límits, fixar un màxim per aula de 15 estudiants a Primària, 20 a Secundària, 23 a Batxillerat i 15 a Formació Professional. Comptar cada estudiant amb necessitats específiques de suport educatiu com a dos a efectes de ràtio en totes les etapes i modalitats.",
+            "gl": "Reducir as ratios en todas as etapas. Entre os novos límites, fixar un máximo por aula de 15 estudantes en Primaria, 20 en Secundaria, 23 en Bacharelato e 15 en Formación Profesional. Contar cada estudante con necesidades específicas de apoio educativo como dous para calcular a ratio en todas as etapas e modalidades.",
+            "eu": "Ratioak etapa guztietan murriztea. Muga berrien artean, ikasgela bakoitzeko gehienez 15 ikasle ezartzea Lehen Hezkuntzan, 20 Bigarren Hezkuntzan, 23 Batxilergoan eta 15 Lanbide Heziketan. Ratioa kalkulatzean, hezkuntza-laguntzako berariazko premiak dituen ikasle bakoitza bi ikasletzat hartzea, etapa eta modalitate guztietan.",
+            "oc": "Redusir es ratios en totes es etapes. Entre es naui limits, fixar un maxim de 15 alumnes per aula en Primària, 20 en Segondària, 23 en Bachilherat e 15 en Formacion Professionau. Compdar cada alumne damb besonhs especifics de supòrt educatiu coma dus entath calcul dera ratio en totes es etapes e modalitats.",
+            "en": "Lower class-size limits at every level. New limits include 15 pupils per class in primary school, 20 in secondary school, 23 in Bachillerato and 15 in vocational education. Count each student with specific educational support needs as two when calculating class size at every level and in every form of education."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-79",
+              "quote": "Reduciremos el número máximo de alumnos y alumnas por aula en todas las etapas educativas",
+              "page": 79,
+              "printedPage": "79"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-79",
+              "quote": "Fijar nuevas ratios máximas en 15 alumnos y alumnas en Primaria, 20 en Secundaria y 23 en Bachillerato.",
+              "page": 79,
+              "printedPage": "79"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-80",
+              "quote": "Reducir a 15 estudiantes la ratio máxima en Formación Profesional.",
+              "page": 80,
+              "printedPage": "80"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-80",
+              "quote": "específicas de apoyo educativo (NEAE) compute como dos a efectos de ratio, en todas las etapas y modalidades educativas.",
+              "page": 80,
+              "printedPage": "80"
+            }
+          ]
+        },
+        {
+          "id": "podemos-education-public-education-funding",
+          "title": {
+            "es": "Financiación de la educación pública y plazas de 0 a 3 años",
+            "ca": "Finançament de l’educació pública i places de 0 a 3 anys",
+            "gl": "Financiamento do ensino público e prazas de 0 a 3 anos",
+            "eu": "Hezkuntza publikoaren finantzaketa eta 0 eta 3 urte bitarteko plazak",
+            "oc": "Finançament dera educacion publica e places de 0 a 3 ans",
+            "en": "Public education funding and places for ages 0 to 3"
+          },
+          "text": {
+            "es": "Crear un fondo estatal para la educación pública de gestión directa. Las comunidades autónomas deberán aportar un euro propio por cada dos recibidos y mantener su esfuerzo presupuestario educativo. Fijar como objetivo una inversión pública en educación del 7 % del PIB durante la próxima legislatura y crear en cuatro años como máximo las plazas públicas necesarias para que la educación de 0 a 3 años sea universal, gratuita y de gestión pública directa.",
+            "ca": "Crear un fons estatal per a l’educació pública de gestió directa. Les comunitats autònomes hauran d’aportar un euro propi per cada dos de rebuts i mantenir l’esforç pressupostari en educació. Fixar com a objectiu una inversió pública en educació del 7 % del PIB durant la pròxima legislatura i crear en quatre anys com a màxim les places públiques necessàries perquè l’educació de 0 a 3 anys sigui universal, gratuïta i de gestió pública directa.",
+            "gl": "Crear un fondo estatal para a educación pública de xestión directa. As comunidades autónomas deberán achegar un euro propio por cada dous recibidos e manter o seu esforzo orzamentario en educación. Fixar como obxectivo un investimento público en educación do 7 % do PIB durante a próxima lexislatura e crear nun máximo de catro anos as prazas públicas necesarias para que a educación de 0 a 3 anos sexa universal, gratuíta e de xestión pública directa.",
+            "eu": "Zuzenean kudeatutako hezkuntza publikorako estatu-funtsa sortzea. Autonomia-erkidegoek euro bana jarri beharko dute jasotako bi euro bakoitzeko, eta hezkuntzako aurrekontu-ahaleginari eutsi beharko diote. Hurrengo legegintzaldian hezkuntzako inbertsio publikoa BPGaren % 7ra iristeko helburua ezartzea. Gehienez lau urtean behar beste plaza publiko sortzea, 0 eta 3 urte bitartekoen hezkuntza unibertsala, doakoa eta kudeaketa publiko zuzenekoa izan dadin.",
+            "oc": "Crear un hons estatau entara educacion publica de gestion dirècta. Es comunitats autonòmes auràn d’aportar un èuro pròpri per cada dus recebudi e mantier er esfòrç pressupostari en educacion. Fixar coma objectiu ua inversion publica en educacion deth 7 % deth PIB pendent era legislatura que ven e crear en quate ans coma maxim es places publiques de besonh entà qu’era educacion de 0 a 3 ans sigue universau, gratuïta e de gestion publica dirècta.",
+            "en": "Create a national fund for directly managed public education. Autonomous communities must contribute one euro of their own for every two they receive and maintain their budgetary commitment to education. Aim for public education investment of 7% of GDP during the next parliamentary term. Create enough public places within four years to make education for children aged 0 to 3 universal, free and directly managed by public authorities."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-80",
+              "quote": "Crearemos un fondo estatal para reforzar exclusivamente la educación pública de gestión directa",
+              "page": 80,
+              "printedPage": "80"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-80",
+              "quote": "Las comunidades autónomas deberán complementar la financiación estatal con un euro de recursos propios por cada dos euros recibidos y mantener el esfuerzo presupuestario educativo",
+              "page": 80,
+              "printedPage": "80"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-80",
+              "quote": "Nuestro objetivo será alcanzar una inversión pública en educación equivalente al 7 % del PIB durante la próxima legisla- tura.",
+              "page": 80,
+              "printedPage": "80"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-80",
+              "quote": "En Educación Infantil de 0 a 3 años, construiremos en un plazo máximo de cuatro años todas las plazas públicas necesarias para garantizar una cobertura universal, gratuita y de gestión pública directa.",
+              "page": 80,
+              "printedPage": "80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--employment",
+      "partyId": "podemos",
+      "topicId": "employment",
+      "path": "/parties/podemos/employment",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-employment-minimum-wage",
+          "title": {
+            "es": "Salario mínimo de 1.800 euros al mes",
+            "ca": "Salari mínim de 1.800 euros al mes",
+            "gl": "Salario mínimo de 1.800 euros ao mes",
+            "eu": "Hilean 1.800 euroko gutxieneko soldata",
+            "oc": "Salari minim de 1.800 èuros ath mes",
+            "en": "Minimum wage of €1,800 a month"
+          },
+          "text": {
+            "es": "Elevar el salario mínimo interprofesional a 1.800 euros mensuales en una legislatura y establecer por ley que nunca sea inferior al 75 % del salario mediano.",
+            "ca": "Elevar el salari mínim interprofessional a 1.800 euros mensuals en una legislatura i establir per llei que no sigui mai inferior al 75 % del salari medià.",
+            "gl": "Elevar o salario mínimo interprofesional a 1.800 euros mensuais nunha lexislatura e establecer por lei que nunca sexa inferior ao 75 % do salario mediano.",
+            "eu": "Lanbide arteko gutxieneko soldata hilean 1.800 eurora igotzea legegintzaldi batean, eta legez ezartzea inoiz ez dela izango soldata medianaren % 75 baino txikiagoa.",
+            "oc": "Elevar eth salari minim interprofessionau a 1.800 èuros mensuaus en ua legislatura e establir per lei que non sigue jamès inferior ath 75 % deth salari median.",
+            "en": "Raise the statutory minimum wage to €1,800 a month within one parliamentary term and set a legal floor of 75% of the median wage."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "Aumentaremos el SMI hasta los 1.800 euros al mes en una legislatura",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "Estableceremos por ley que nunca pueda ser inferior al 75% del salario mediano.",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "podemos-employment-shorter-working-week",
+          "title": {
+            "es": "Jornada de 30 horas sin rebaja salarial",
+            "ca": "Jornada de 30 hores sense reducció salarial",
+            "gl": "Xornada de 30 horas sen redución salarial",
+            "eu": "30 orduko lanaldia, soldatak jaitsi gabe",
+            "oc": "Jornada de 30 ores sense rebaisha salariau",
+            "en": "30-hour working week with no pay cut"
+          },
+          "text": {
+            "es": "Reducir la jornada sin bajar los salarios, primero a 35 horas semanales y luego a 30 durante la legislatura. Permitir una semana de cuatro días según el trabajo, el tiempo de desplazamiento y la voluntad de la persona trabajadora. Implantar dos días de teletrabajo a la semana en todos los puestos donde sea posible.",
+            "ca": "Reduir la jornada sense abaixar els salaris, primer a 35 hores setmanals i després a 30 durant la legislatura. Permetre una setmana de quatre dies segons la feina, el temps de desplaçament i la voluntat de la persona treballadora. Implantar dos dies de teletreball a la setmana en tots els llocs de treball on sigui possible.",
+            "gl": "Reducir a xornada sen baixar os salarios, primeiro a 35 horas semanais e despois a 30 durante a lexislatura. Permitir unha semana de catro días segundo o traballo, o tempo de desprazamento e a vontade da persoa traballadora. Implantar dous días de teletraballo á semana en todos os postos onde sexa posible.",
+            "eu": "Soldatak jaitsi gabe lanaldia murriztea, lehenik astean 35 ordura eta gero 30era legegintzaldiaren barruan. Lau eguneko lan-astea ahalbidetzea, lanaren, joan-etorrietarako denboraren eta langilearen borondatearen arabera. Astean bi eguneko telelana ezartzea posible den lanpostu guztietan.",
+            "oc": "Redusir era jornada sense baishar es salaris, prumèr a 35 ores setmanaus e dempús a 30 pendent era legislatura. Perméter ua setmana de quate dies segontes eth trabalh, eth temps de desplaçament e era volontat dera persona trabalhadora. Implantar dus dies de teletrabalh ara setmana en toti es lòcs de trabalh a on sigue possible.",
+            "en": "Reduce working hours without cutting pay, first to 35 hours a week and then to 30 during the parliamentary term. Allow a four-day week depending on the job, commuting time and the worker’s wishes. Introduce two days of remote work per week in all roles where feasible."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "Reducir la jornada laboral sin reducir los salarios.",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "Reduciremos la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas, con la posibilidad de reducir la semana laboral a cuatro días en función del trabajo concreto, de los tiempos de desplazamiento y de la voluntad del trabajador o traba- jadora.",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "se implementará el teletrabajo dos días a la semana en todos los puestos en los que sea posible.",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "podemos-employment-public-employment-stability",
+          "title": {
+            "es": "Estabilización del empleo público temporal abusivo",
+            "ca": "Estabilització de l’ocupació pública temporal abusiva",
+            "gl": "Estabilización do emprego público temporal abusivo",
+            "eu": "Aldi baterako enplegu publikoaren abusua zuzentzea",
+            "oc": "Estabilizacion der emplec public temporau en cas d’abús",
+            "en": "Permanent posts for public workers affected by misuse of temporary employment"
+          },
+          "text": {
+            "es": "Dar carácter fijo al empleo de todas las personas trabajadoras del sector público afectadas por fraude de ley o abuso de la temporalidad, de acuerdo con las exigencias de la Unión Europea.",
+            "ca": "Donar caràcter fix a l’ocupació de totes les persones treballadores del sector públic afectades per frau de llei o abús de la temporalitat, d’acord amb les exigències de la Unió Europea.",
+            "gl": "Dar carácter fixo ao emprego de todas as persoas traballadoras do sector público afectadas por fraude de lei ou abuso da temporalidade, de acordo coas esixencias da Unión Europea.",
+            "eu": "Lege-iruzurrak edo behin-behinekotasunaren gehiegizko erabilerak eragindako sektore publikoko langile guztien enplegua finko bihurtzea, Europar Batasunaren eskakizunen arabera.",
+            "oc": "Hèr fix er emplec de totes es persones trabalhadores deth sector public afectades per frau de lei o abús dera temporalitat, d’acòrd damb es exigéncies dera Union Europèa.",
+            "en": "Make employment permanent for all public-sector workers affected by circumvention of the law or abuse of temporary employment, in line with European Union requirements."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "Llevaremos a cabo la estabilización de todos los trabajadores y traba- jadoras públicas en fraude de ley o abuso de temporalidad, de acuerdo a las exigencias de la Unión Europea convirtiéndolos en trabajadores y trabajadoras fijas.",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--environment-and-energy",
+      "partyId": "podemos",
+      "topicId": "environment-and-energy",
+      "path": "/parties/podemos/environment-and-energy",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-environment-and-energy-climate-targets",
+          "title": {
+            "es": "Objetivos de emisiones y neutralidad climática",
+            "ca": "Objectius d’emissions i neutralitat climàtica",
+            "gl": "Obxectivos de emisións e neutralidade climática",
+            "eu": "Isurketak murrizteko eta klima-neutraltasunerako helburuak",
+            "oc": "Objectius d’emissions e neutralitat climatica",
+            "en": "Emissions targets and climate neutrality"
+          },
+          "text": {
+            "es": "Reformar la Ley de Cambio Climático y Transición Energética para fijar una reducción de las emisiones de gases de efecto invernadero de al menos el 55 % en 2030 respecto a 1990, con la ambición de alcanzar el 65 %, y adelantar a 2040 el horizonte de neutralidad climática.",
+            "ca": "Reformar la Ley de Cambio Climático y Transición Energética per fixar una reducció de les emissions de gasos amb efecte d’hivernacle d’almenys el 55 % el 2030 respecte del 1990, amb l’ambició d’arribar al 65 %, i avançar al 2040 l’horitzó de neutralitat climàtica.",
+            "gl": "Reformar a Ley de Cambio Climático y Transición Energética para fixar unha redución das emisións de gases de efecto invernadoiro de polo menos o 55 % en 2030 respecto de 1990, coa ambición de chegar ao 65 %, e adiantar a 2040 o horizonte de neutralidade climática.",
+            "eu": "Ley de Cambio Climático y Transición Energética legea erreformatzea, 2030ean berotegi-efektuko gasen isurketak 1990ekoekin alderatuta gutxienez % 55 murrizteko helburua ezartzeko, % 65era iristeko asmoz, eta klima-neutraltasunerako epemuga 2040ra aurreratzeko.",
+            "oc": "Reformar era Ley de Cambio Climático y Transición Energética entà fixar ua reduccion des emissions de gases d’efècte d’ivernacle d’aumens eth 55 % en 2030 respècte a 1990, damb era ambicion d’arténher eth 65 %, e auançar a 2040 er orizon de neutralitat climatica.",
+            "en": "Amend the Ley de Cambio Climático y Transición Energética to set a target of cutting greenhouse gas emissions by at least 55% by 2030 compared with 1990, with an ambition of reaching 65%, and bring the target for climate neutrality forward to 2040."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-94",
+              "quote": "Reformaremos la Ley de Cambio Climá- tico y Transición Energética para elevar la ambición de los objetivos de reducción de emisiones",
+              "page": 94,
+              "printedPage": "94"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-95",
+              "quote": "emisiones de gases de efecto invernadero al menos un 55 % para 2030 respecto a 1990, con la ambición de alcanzar el 65 %, y adelantaremos a 2040 el horizonte de neutralidad climática.",
+              "page": 95,
+              "printedPage": "95"
+            }
+          ]
+        },
+        {
+          "id": "podemos-environment-and-energy-wetland-protection",
+          "title": {
+            "es": "Protección de Doñana, las Tablas de Daimiel y el Mar Menor",
+            "ca": "Protecció de Doñana, les Tablas de Daimiel i el Mar Menor",
+            "gl": "Protección de Doñana, as Tablas de Daimiel e o Mar Menor",
+            "eu": "Doñana, Tablas de Daimiel eta Mar Menor babestea",
+            "oc": "Proteccion de Doñana, es Tablas de Daimiel e eth Mar Menor",
+            "en": "Protection of Doñana, Tablas de Daimiel and Mar Menor"
+          },
+          "text": {
+            "es": "Cerrar los regadíos ilegales en torno a Doñana y las Tablas de Daimiel para recuperar sus acuíferos y biodiversidad. Dar personalidad jurídica a Doñana, con derechos de existencia, protección, conservación y restauración en el parque nacional y su zona periférica, y recuperar el Guadiamar. Hacer cumplir la ley del Mar Menor y acabar con los vertidos contaminantes.",
+            "ca": "Tancar els regadius il·legals al voltant de Doñana i les Tablas de Daimiel per recuperar-ne els aqüífers i la biodiversitat. Donar personalitat jurídica a Doñana, amb drets d’existència, protecció, conservació i restauració al parc nacional i la seva zona perifèrica, i recuperar el Guadiamar. Fer complir la llei del Mar Menor i posar fi als abocaments contaminants.",
+            "gl": "Pechar os regadíos ilegais arredor de Doñana e das Tablas de Daimiel para recuperar os seus acuíferos e biodiversidade. Dar personalidade xurídica a Doñana, con dereitos de existencia, protección, conservación e restauración no parque nacional e na súa zona periférica, e recuperar o Guadiamar. Facer cumprir a lei do Mar Menor e acabar coas verteduras contaminantes.",
+            "eu": "Doñana eta Tablas de Daimiel inguruko legez kanpoko ureztalurrak ixtea, haien akuiferoak eta biodibertsitatea lehengoratzeko. Doñanari nortasun juridikoa ematea, parke nazionalean eta haren inguruko eremuan existitzeko, babestua eta kontserbatua izateko eta lehengoratua izateko eskubideekin, eta Guadiamar lehengoratzea. Mar Menorri buruzko legea betearaztea eta isuri kutsagarriei amaiera ematea.",
+            "oc": "Barrar es regadius illegaus ath torn de Doñana e des Tablas de Daimiel entà recuperar es sòns aqüifèrs e era sua biodiversitat. Dar personalitat juridica a Doñana, damb drets d’existéncia, proteccion, conservacion e restauracion en parc nacionau e era sua zòna periferica, e recuperar eth Guadiamar. Hèr a complir era lei deth Mar Menor e méter fin as versaments contaminanti.",
+            "en": "Close illegal irrigation sites around Doñana and Tablas de Daimiel to restore their aquifers and biodiversity. Give Doñana legal personhood and rights to exist and be protected, conserved and restored in the national park and its surrounding zone, and restore the Guadiamar. Enforce the Mar Menor law and stop polluting discharges."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-98",
+              "quote": "Cerrar los rega- díos ilegales en torno a Doñana y las Tablas de Daimiel para recuperar sus acuíferos y su biodiversidad.",
+              "page": 98,
+              "printedPage": "98"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-98",
+              "quote": "Doñana tendrá personalidad jurídica, con derecho a existir y a ser protegida, conservada y restaurada, en el Parque Nacional y su zona periférica, y se recuperará el Guadiamar.",
+              "page": 98,
+              "printedPage": "98"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-98",
+              "quote": "Se cumplirá la ley del Mar Menor y se acabará con los vertidos que lo envenenan.",
+              "page": 98,
+              "printedPage": "98"
+            }
+          ]
+        },
+        {
+          "id": "podemos-environment-and-energy-renewable-electricity",
+          "title": {
+            "es": "Transición a un sistema eléctrico renovable",
+            "ca": "Transició a un sistema elèctric renovable",
+            "gl": "Transición a un sistema eléctrico renovable",
+            "eu": "Sistema elektriko berriztagarrirako trantsizioa",
+            "oc": "Transicion entà un sistèma electric renovable",
+            "en": "Transition to renewable electricity"
+          },
+          "text": {
+            "es": "Revisar el Plan Nacional Integrado de Energía y Clima para alcanzar al menos el 95 % de generación eléctrica renovable en 2035, avanzando hacia la descarbonización total del sistema en 2040. Mantener temporalmente las centrales de ciclo combinado de gas como respaldo. Antes del cese de cualquier actividad laboral ligada a los combustibles fósiles, activar la creación de dos empleos en la misma comarca con condiciones laborales y salariales iguales o mejores y prioridad absoluta para las personas afectadas.",
+            "ca": "Revisar el Plan Nacional Integrado de Energía y Clima per assolir almenys el 95 % de generació elèctrica renovable el 2035, avançant cap a la descarbonització total del sistema el 2040. Mantenir temporalment les centrals de cicle combinat de gas com a suport. Abans del cessament de qualsevol activitat laboral lligada als combustibles fòssils, activar la creació de dos llocs de treball a la mateixa comarca amb condicions laborals i salarials iguals o millors i prioritat absoluta per a les persones afectades.",
+            "gl": "Revisar o Plan Nacional Integrado de Energía y Clima para acadar polo menos o 95 % de xeración eléctrica renovable en 2035, avanzando cara á descarbonización total do sistema en 2040. Manter temporalmente as centrais de ciclo combinado de gas como respaldo. Antes do cesamento de calquera actividade laboral ligada aos combustibles fósiles, activar a creación de dous empregos na mesma comarca con condicións laborais e salariais iguais ou mellores e prioridade absoluta para as persoas afectadas.",
+            "eu": "Plan Nacional Integrado de Energía y Clima plana berrikustea, 2035ean elektrizitatearen gutxienez % 95 iturri berriztagarriekin sortzeko, sistema 2040an guztiz deskarbonizatzeko bidean. Gas bidezko ziklo konbinatuko zentralak aldi baterako mantentzea, babes gisa. Erregai fosilei lotutako edozein lan-jarduera amaitu aurretik, eskualde berean bi lanpostu sortzeko prozesua abiatzea, lan- eta soldata-baldintza berberekin edo hobeekin, eta eragindako pertsonei erabateko lehentasuna ematea.",
+            "oc": "Revisar eth Plan Nacional Integrado de Energía y Clima entà arténher aumens eth 95 % de generacion electrica renovabla en 2035, en tot auançar entara descarbonizacion totau deth sistèma en 2040. Mantier temporaument es centraus de cicle combinat de gas coma supòrt. Abans dera cessacion de quinsevolh activitat laborau restacada as combustibles fossils, activar era creacion de dus lòcs de trabalh ena madeisha comarca damb condicions laboraus e salariaus eguaus o melhores e prioritat absoluda entàs persones afectades.",
+            "en": "Revise the Plan Nacional Integrado de Energía y Clima to reach at least 95% renewable electricity generation by 2035, moving towards full decarbonisation of the system by 2040. Temporarily retain combined-cycle gas power plants as backup. Before any work tied to fossil fuels ceases, start creating two jobs in the same local district with equal or better pay and working conditions, giving affected workers absolute hiring priority."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-98",
+              "quote": "Revisaremos el Plan Nacional Integrado de Energía y Clima",
+              "page": 98,
+              "printedPage": "98"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-98",
+              "quote": "alcanzar al menos un 95 % de generación eléctrica renovable en 2035, avan- zando hacia un sistema completamente descarbonizado en 2040.",
+              "page": 98,
+              "printedPage": "98"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-98",
+              "quote": "Mantendremos transitoriamente las centrales de ciclo combinado de gas como respaldo indispensable del sistema.",
+              "page": 98,
+              "printedPage": "98"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-98",
+              "quote": "antes del cese de cual- quier actividad laboral vinculada a los combustibles fósiles, se active la creación de dos nuevos empleos con condiciones laborales y sala- riales idénticas o mejoradas en la misma comarca, otorgando prio- ridad absoluta de contratación a las personas afectadas.",
+              "page": 98,
+              "printedPage": "98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--healthcare",
+      "partyId": "podemos",
+      "topicId": "healthcare",
+      "path": "/parties/podemos/healthcare",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-healthcare-public-healthcare-funding",
+          "title": {
+            "es": "Más financiación para la sanidad pública",
+            "ca": "Més finançament per a la sanitat pública",
+            "gl": "Máis financiamento para a sanidade pública",
+            "eu": "Osasun publikoaren finantzaketa handitzea",
+            "oc": "Mès finançament entara sanitat publica",
+            "en": "More funding for public healthcare"
+          },
+          "text": {
+            "es": "Aumentar progresivamente la financiación del Sistema Nacional de Salud hasta un mínimo de 2.900 euros por habitante y año. Crear un fondo estatal para la sanidad pública de gestión directa, con un euro autonómico por cada dos solicitados al Estado y sin reducir las partidas sanitarias autonómicas, que deberán aumentar al menos en la cantidad cofinanciada. Destinar al menos el 30 % de esos fondos a atención primaria y al menos el 20 % a salud mental pública.",
+            "ca": "Augmentar progressivament el finançament del Sistema Nacional de Salut fins a un mínim de 2.900 euros per habitant i any. Crear un fons estatal per a la sanitat pública de gestió directa, amb un euro autonòmic per cada dos de sol·licitats a l’Estat i sense reduir les partides sanitàries autonòmiques, que hauran d’augmentar almenys en l’import cofinançat. Destinar almenys el 30 % d’aquests fons a l’atenció primària i almenys el 20 % a la salut mental pública.",
+            "gl": "Aumentar progresivamente o financiamento do Sistema Nacional de Saúde ata un mínimo de 2.900 euros por habitante e ano. Crear un fondo estatal para a sanidade pública de xestión directa, cun euro autonómico por cada dous solicitados ao Estado e sen reducir as partidas sanitarias autonómicas, que deberán aumentar polo menos na cantidade cofinanciada. Destinar polo menos o 30 % deses fondos á atención primaria e polo menos o 20 % á saúde mental pública.",
+            "eu": "Osasun Sistema Nazionalaren finantzaketa pixkanaka handitzea, urtean biztanleko gutxienez 2.900 euroraino. Zuzenean kudeatutako osasun publikorako estatu-funtsa sortzea, autonomia-erkidegoek Estatuari eskatutako bi euro bakoitzeko euro bana jarrita eta erkidegoetako osasun-partidak murriztu gabe. Partida horiek gutxienez kofinantzatutako zenbatekoan handitu beharko dira. Funts horien gutxienez % 30 lehen mailako arretara eta gutxienez % 20 osasun mentaleko zerbitzu publikoetara bideratzea.",
+            "oc": "Aumentar progressivament eth finançament deth Sistèma Nacionau de Salut enquia un minim de 2.900 èuros per abitant e an. Crear un hons estatau entara sanitat publica de gestion dirècta, damb un èuro autonomic per cada dus sollicitadi ar Estat e sense redusir es partides sanitàries autonomiques, qu’auràn d’aumentar aumens ena quantitat cofinançada. Destinar aumens eth 30 % d’aguesti hons ara atencion primària e aumens eth 20 % ara salut mentau publica.",
+            "en": "Gradually raise National Health System funding to at least €2,900 per resident per year. Create a national fund for directly managed public healthcare, with autonomous communities contributing one euro for every two they request from the state and maintaining their healthcare allocations, which must rise by at least the co-funded amount. Allocate at least 30% of those funds to primary care and at least 20% to public mental health services."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-89",
+              "quote": "progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros por habi- tante y año",
+              "page": 89,
+              "printedPage": "89"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-89",
+              "quote": "Las comunidades se comprometerán a aportar un euro propio por cada dos solici- tados al Estado y a no reducir sus partidas sanitarias, que deberán aumentar al menos en la cantidad cofinanciada.",
+              "page": 89,
+              "printedPage": "89"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-89",
+              "quote": "Este dinero, y la aportación autonómica complementaria, solo podrá destinarse a la sanidad pública de gestión directa",
+              "page": 89,
+              "printedPage": "89"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-89",
+              "quote": "Al menos el 30% de los fondos se destinará a la Atención Primaria y al menos el 20% al sistema público de salud mental",
+              "page": 89,
+              "printedPage": "89"
+            }
+          ]
+        },
+        {
+          "id": "podemos-healthcare-primary-care-standards",
+          "title": {
+            "es": "Financiación y estándares de atención primaria",
+            "ca": "Finançament i estàndards d’atenció primària",
+            "gl": "Financiamento e estándares de atención primaria",
+            "eu": "Lehen mailako arretaren finantzaketa eta estandarrak",
+            "oc": "Finançament e estandards dera atencion primària",
+            "en": "Primary care funding and standards"
+          },
+          "text": {
+            "es": "Aprobar una ley que destine al menos el 25 % del presupuesto sanitario a atención primaria, con el objetivo de invertir 700 euros por habitante y año. Fijar un máximo de 1.300 pacientes por profesional de medicina de familia y 800 menores por profesional de pediatría, adaptando las ratios y las plantillas a las necesidades de cada zona. Garantizar una cita en un máximo de 48 horas hábiles y la continuidad con los mismos profesionales.",
+            "ca": "Aprovar una llei que destini almenys el 25 % del pressupost sanitari a l’atenció primària, amb l’objectiu d’invertir 700 euros per habitant i any. Fixar un màxim de 1.300 pacients per professional de medicina de família i 800 menors per professional de pediatria, adaptant les ràtios i les plantilles a les necessitats de cada zona. Garantir una cita en un màxim de 48 hores hàbils i la continuïtat amb els mateixos professionals.",
+            "gl": "Aprobar unha lei que destine polo menos o 25 % do orzamento sanitario á atención primaria, co obxectivo de investir 700 euros por habitante e ano. Fixar un máximo de 1.300 pacientes por profesional de medicina de familia e 800 menores por profesional de pediatría, adaptando as ratios e os cadros de persoal ás necesidades de cada zona. Garantir unha cita nun máximo de 48 horas hábiles e a continuidade cos mesmos profesionais.",
+            "eu": "Osasun-aurrekontuaren gutxienez % 25 lehen mailako arretara bideratuko duen legea onartzea, urtean biztanleko 700 euro inbertitzeko helburuarekin. Familia-medikuntzako profesional bakoitzeko gehienez 1.300 paziente eta pediatriako profesional bakoitzeko 800 adingabe ezartzea, ratioak eta langile kopuruak eremu bakoitzeko beharretara egokituz. Gehienez 48 ordu balioduneko epean hitzordua bermatzea, baita profesional berek emandako arretaren jarraitutasuna ere.",
+            "oc": "Aprovar ua lei que destine aumens eth 25 % deth pressupòst sanitari ara atencion primària, damb er objectiu d’invertir 700 èuros per abitant e an. Fixar un maxim de 1.300 pacients per professionau de medecina de familha e 800 menors per professionau de pediatria, en tot adaptar es ratios e es plantilhes as besonhs de cada zòna. Garantir ua cita en un maxim de 48 ores abiles e era continuïtat damb es madeishi professionaus.",
+            "en": "Pass a law allocating at least 25% of the healthcare budget to primary care, with a spending target of €700 per resident per year. Set caps of 1,300 patients per family medicine practitioner and 800 children per paediatric practitioner, adapting staffing and ratios to the needs of each area. Guarantee an appointment within 48 working hours and continuity of care with the same practitioners."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-90",
+              "quote": "La ley establecerá que al menos el 25% del presupuesto sanitario se destine efectivamente a Atención Primaria, con el objetivo de alcanzar una inversión de 700 euros por habitante y año",
+              "page": 90,
+              "printedPage": "90"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-90",
+              "quote": "fijará un máximo de 1.300 pacientes por profesional de medi- cina de familia y 800 menores por profesional de pediatría, adaptando las ratios y las plantillas a las necesidades demográficas, sociales y territoriales de cada zona",
+              "page": 90,
+              "printedPage": "90"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-90",
+              "quote": "garantizará una cita en un máximo de 48 horas hábiles y la continuidad asistencial con los mismos profesio- nales",
+              "page": 90,
+              "printedPage": "90"
+            }
+          ]
+        },
+        {
+          "id": "podemos-healthcare-universal-healthcare-coverage",
+          "title": {
+            "es": "Sanidad universal y ampliación de la cobertura",
+            "ca": "Sanitat universal i ampliació de la cobertura",
+            "gl": "Sanidade universal e ampliación da cobertura",
+            "eu": "Osasun-arreta unibertsala eta estaldura zabaltzea",
+            "oc": "Sanitat universau e ampliacion dera cobertura",
+            "en": "Universal healthcare and wider coverage"
+          },
+          "text": {
+            "es": "Garantizar el acceso a la sanidad pública a todas las personas que vivan en España, sea cual sea su situación administrativa. Ampliar al 100 % la cobertura bucodental, oftalmológica, auditiva, de fisioterapia y psicológica. Hacer el copago farmacéutico proporcional a la renta, con exenciones para las personas con menos recursos y otros colectivos especialmente protegidos, y devolver los importes que superen los límites establecidos.",
+            "ca": "Garantir l’accés a la sanitat pública a totes les persones que visquin a Espanya, sigui quina sigui la seva situació administrativa. Ampliar al 100 % la cobertura bucodental, oftalmològica, auditiva, de fisioteràpia i psicològica. Fer que el copagament farmacèutic sigui proporcional a la renda, amb exempcions per a les persones amb menys recursos i altres col·lectius especialment protegits, i retornar els imports que superin els límits establerts.",
+            "gl": "Garantir o acceso á sanidade pública a todas as persoas que vivan en España, sexa cal sexa a súa situación administrativa. Ampliar ao 100 % a cobertura bucodental, oftalmolóxica, auditiva, de fisioterapia e psicolóxica. Facer o copagamento farmacéutico proporcional á renda, con exencións para as persoas con menos recursos e outros colectivos especialmente protexidos, e devolver os importes que superen os límites establecidos.",
+            "eu": "Espainian bizi diren pertsona guztiei osasun-arreta publikorako sarbidea bermatzea, haien egoera administratiboa edozein dela ere. Aho-hortzetako, oftalmologiako, entzumeneko, fisioterapiako eta psikologiako zerbitzuen estaldura % 100era zabaltzea. Sendagaien koordainketa errentaren araberakoa izatea, baliabide gutxien dituzten pertsonak eta babes bereziko beste talde batzuk salbuetsita, eta ezarritako mugen gaineko zenbatekoak itzultzea.",
+            "oc": "Garantir er accès ara sanitat publica a totes es persones que visquen en Espanha, sigue quina sigue era sua situacion administrativa. Ampliar ath 100 % era cobertura bucodentau, oftalmologica, auditiva, de fisioteràpia e psicologica. Hèr qu’eth copagament farmaceutic sigue proporcionau ara renda, damb exempcions entàs persones damb mens recorsi e d’auti collectius especiaument protegidi, e tornar es impòrts que supèren es limits establidi.",
+            "en": "Guarantee access to public healthcare for everyone living in Spain, regardless of administrative status. Extend coverage to 100% for dental, ophthalmic, hearing, physiotherapy and psychological services. Make prescription co-payments proportional to income, exempt people with the fewest resources and other specially protected groups, and reimburse amounts paid above the set limits."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-91",
+              "quote": "para que ninguna persona que habite en suelo español, sea cual sea su situación administrativa, quede excluida del sistema.",
+              "page": 91,
+              "printedPage": "91"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-91",
+              "quote": "Aumentaremos hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva, así como de fisioterapia y psicológica",
+              "page": 91,
+              "printedPage": "91"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-92",
+              "quote": "Reformaremos el copago farmacéu- tico para que la aportación de cada persona sea proporcional a su renta, con exención para las personas con menores recursos y otros colectivos especialmente protegidos y reintegro de las cantidades que superen los límites establecidos.",
+              "page": 92,
+              "printedPage": "92"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--housing",
+      "partyId": "podemos",
+      "topicId": "housing",
+      "path": "/parties/podemos/housing",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-housing-rent-reduction",
+          "title": {
+            "es": "Rebaja legal de los alquileres",
+            "ca": "Rebaixa legal dels lloguers",
+            "gl": "Rebaixa legal dos alugueiros",
+            "eu": "Alokairuak legez jaistea",
+            "oc": "Rebaisha legau des loguèrs",
+            "en": "Statutory rent reduction"
+          },
+          "text": {
+            "es": "Reducir por ley un 40 % el precio del alquiler anterior en contratos vigentes, renovaciones, prórrogas y nuevos contratos, siempre que el precio resultante no baje del 60 % del precio medio actual de la zona. Si la vivienda nunca se ha alquilado, fijar el precio inicial en ese 60 %.",
+            "ca": "Reduir per llei un 40 % el preu del lloguer anterior en contractes vigents, renovacions, pròrrogues i contractes nous, sempre que el preu resultant no baixi del 60 % del preu mitjà actual de la zona. Si l’habitatge no s’ha llogat mai, fixar el preu inicial en aquest 60 %.",
+            "gl": "Reducir por lei un 40 % o prezo do alugueiro anterior nos contratos vixentes, nas renovacións, nas prórrogas e nos contratos novos, sempre que o prezo resultante non baixe do 60 % do prezo medio actual da zona. Se a vivenda nunca se alugou, fixar o prezo inicial nese 60 %.",
+            "eu": "Indarreko kontratuetan, berritzeetan, luzapenetan eta kontratu berrietan aurreko alokairuaren prezioa legez % 40 jaistea, baldin eta emaitzazko prezioa eremuko egungo batez besteko prezioaren % 60tik behera geratzen ez bada. Etxebizitza inoiz alokatu ez bada, hasierako prezioa % 60 horretan ezartzea.",
+            "oc": "Redusir per lei un 40 % eth prètz der anterior loguèr enes contractes en vigor, es renovacions, es prorògues e es naui contractes, tostemp qu’eth prètz resultant non baishe deth 60 % deth prètz miei actuau dera zòna. S’er abitatge non s’a logat jamès, fixar eth prètz iniciau en aguest 60 %.",
+            "en": "Cut the previous rent by 40% by law for existing leases, renewals, extensions and new leases, provided the resulting rent is at least 60% of the current local average. If the home has never been rented out, set the starting rent at that 60%."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-8",
+              "quote": "los contratos vigentes, sus renovaciones y prórrogas, así como a los nuevos contratos",
+              "page": 8,
+              "printedPage": "8"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-8",
+              "quote": "Se establecerá un precio que sea un 40% menor que el precio anterior, siempre y cuando el precio resultante no quede por debajo del 60% del precio medio actual en la correspon- diente zona.",
+              "page": 8,
+              "printedPage": "8"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-8",
+              "quote": "Si la vivienda nunca ha sido puesta antes en alquiler, el precio inicial será el 60% del precio medio actual de la zona.",
+              "page": 8,
+              "printedPage": "8"
+            }
+          ]
+        },
+        {
+          "id": "podemos-housing-open-ended-rental-contracts",
+          "title": {
+            "es": "Contratos de alquiler indefinidos",
+            "ca": "Contractes de lloguer indefinits",
+            "gl": "Contratos de alugueiro indefinidos",
+            "eu": "Alokairu-kontratu mugagabeak",
+            "oc": "Contractes de loguèr indefinidi",
+            "en": "Open-ended rental contracts"
+          },
+          "text": {
+            "es": "Convertir por defecto todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida.",
+            "ca": "Convertir per defecte tots els contractes de lloguer d’habitatge habitual en contractes de durada indefinida.",
+            "gl": "Converter por defecto todos os contratos de alugueiro de vivenda habitual en contratos de duración indefinida.",
+            "eu": "Ohiko etxebizitzaren alokairu-kontratu guztiak iraupen mugagabeko kontratu bihurtzea, besterik ezarri ezean.",
+            "oc": "Convertir per defècte toti es contractes de loguèr d’abitatge abituau en contractes de durada indefinida.",
+            "en": "Make all rental contracts for main homes open-ended by default."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-8",
+              "quote": "Convertiremos todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida por defecto",
+              "page": 8,
+              "printedPage": "8"
+            }
+          ]
+        },
+        {
+          "id": "podemos-housing-large-landlord-housing-use",
+          "title": {
+            "es": "Expropiación del uso de viviendas de grandes tenedores",
+            "ca": "Expropiació de l’ús d’habitatges de grans tenidors",
+            "gl": "Expropiación do uso de vivendas de grandes posuidores",
+            "eu": "Etxebizitza-jabe handien etxebizitzen erabilera desjabetzea",
+            "oc": "Expropriacion der us des abitatges de grani proprietaris",
+            "en": "Expropriation of rights to use homes held by large owners"
+          },
+          "text": {
+            "es": "Impulsar por interés social la expropiación del uso de las viviendas que excedan de diez en manos de grandes tenedores, fondos de inversión, entidades financieras y bancos. Incorporar al parque público de alquiler social las que estén vacías o se destinen al turismo si son habitables. En las ya alquiladas, aplicar alquiler social o precios regulados según la situación económica de las familias y garantizar los derechos de los inquilinos.",
+            "ca": "Impulsar per interès social l’expropiació de l’ús dels habitatges que excedeixin de deu en mans de grans tenidors, fons d’inversió, entitats financeres i bancs. Incorporar al parc públic de lloguer social els que estiguin buits o es destinin al turisme si són habitables. En els que ja estan llogats, aplicar lloguer social o preus regulats segons la situació econòmica de les famílies i garantir els drets dels llogaters.",
+            "gl": "Impulsar por interese social a expropiación do uso das vivendas que excedan de dez en mans de grandes posuidores, fondos de investimento, entidades financeiras e bancos. Incorporar ao parque público de alugueiro social as que estean baleiras ou se destinen ao turismo se son habitables. Nas xa alugadas, aplicar alugueiro social ou prezos regulados segundo a situación económica das familias e garantir os dereitos das persoas inquilinas.",
+            "eu": "Interes sozialagatik, jabe handien, inbertsio-funtsen, finantza-erakundeen eta bankuen esku dauden hamarretik gorako etxebizitzen erabilera desjabetzea bultzatzea. Hutsik daudenak edo turismorako erabiltzen direnak alokairu sozialeko parke publikoan sartzea, bizigarriak badira. Jada alokatuta daudenetan, alokairu soziala edo prezio arautuak ezartzea familien egoera ekonomikoaren arabera, eta maizterren eskubideak bermatzea.",
+            "oc": "Impulsar per interès sociau era expropriacion der us des abitatges que passen de dètz en mans de grani proprietaris, hons d’inversion, entitats financères e bancs. Incorporar ath parc public de loguèr sociau es que siguen uets o destinadi ath torisme, se son abitables. Enes ja logadi, aplicar loguèrs sociaus o prètzi reguladi segontes era situacion economica des familhes e garantir es drets des logataris.",
+            "en": "Pursue the expropriation on social-interest grounds of the right to use homes beyond the first ten held by large property owners, investment funds, financial institutions and banks. Add vacant homes and tourist lets to public social rental stock if they are habitable. Set social rents or regulated prices for tenanted homes based on families’ financial circumstances and protect tenants’ rights."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-8",
+              "quote": "Impulsaremos la expropia- ción de uso por interés social de las viviendas que superen las diez en manos de grandes tenedores, fondos de inversión, entidades finan- cieras y bancos",
+              "page": 8,
+              "printedPage": "8"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-8",
+              "quote": "Incorporaremos al parque público de vivienda aquellas que estén vacías o destinadas al uso turístico, siempre que reúnan las condiciones de habitabilidad, para destinarlas al alquiler social.",
+              "page": 8,
+              "printedPage": "8"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-8",
+              "quote": "En las viviendas que ya estén alqui- ladas, estableceremos rentas de alquiler social o precios regulados en función de la situación económica de las familias, garantizando en todo caso los derechos de las personas inquilinas.",
+              "page": 8,
+              "printedPage": "8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--institutions-and-rights",
+      "partyId": "podemos",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/podemos/institutions-and-rights",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-institutions-and-rights-nato-withdrawal",
+          "title": {
+            "es": "Salida de la OTAN y cierre de las bases estadounidenses",
+            "ca": "Sortida de l’OTAN i tancament de les bases nord-americanes",
+            "gl": "Saída da OTAN e peche das bases estadounidenses",
+            "eu": "NATOtik ateratzea eta AEBetako baseak ixtea",
+            "oc": "Gessuda dera OTAN e barrament des bases estatsunidenques",
+            "en": "Withdrawal from NATO and closure of US bases"
+          },
+          "text": {
+            "es": "Impulsar la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y poner fin a la presencia militar estadounidense en territorio español, incluidas la Base Naval de Rota y la Base Aérea de Morón.",
+            "ca": "Impulsar la sortida d’Espanya de l’OTAN mitjançant la denúncia del Tractat de l’Atlàntic Nord i posar fi a la presència militar dels Estats Units en territori espanyol, incloses la Base Naval de Rota i la Base Aérea de Morón.",
+            "gl": "Impulsar a saída de España da OTAN mediante a denuncia do Tratado do Atlántico Norte e poñer fin á presenza militar estadounidense en territorio español, incluídas a Base Naval de Rota e a Base Aérea de Morón.",
+            "eu": "Espainia NATOtik ateratzea bultzatzea, Ipar Atlantikoko Ituna salatuta, eta AEBen presentzia militarra Espainiako lurraldean amaitzea, Base Naval de Rota eta Base Aérea de Morón barne.",
+            "oc": "Impulsar era gessuda d’Espanha dera OTAN mejançant era denóncia deth Tractat der Atlantic Nòrd e méter fin ara preséncia militar des Estats Units en territòri espanhòu, includides era Base Naval de Rota e era Base Aérea de Morón.",
+            "en": "Pursue Spain’s withdrawal from NATO by formally denouncing the North Atlantic Treaty and end the US military presence in Spanish territory, including at the Base Naval de Rota and Base Aérea de Morón."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-28",
+              "quote": "Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y pondremos fin a la presencia militar estadounidense en nuestro territorio, incluida la Base Naval de Rota y la Base Aérea de Morón.",
+              "page": 28,
+              "printedPage": "28"
+            }
+          ]
+        },
+        {
+          "id": "podemos-institutions-and-rights-republic-referendum",
+          "title": {
+            "es": "Constitución republicana y referéndum",
+            "ca": "Constitució republicana i referèndum",
+            "gl": "Constitución republicana e referendo",
+            "eu": "Konstituzio errepublikanoa eta erreferenduma",
+            "oc": "Constitucion republicana e referendum",
+            "en": "Republican constitution and referendum"
+          },
+          "text": {
+            "es": "Impulsar una constitución republicana que reconozca la plurinacionalidad, profundice la democracia y ponga en el centro los derechos sociales de las personas trabajadoras. La reforma permitiría a la ciudadanía decidir en referéndum, de forma directa y separada, entre monarquía y república.",
+            "ca": "Impulsar una constitució republicana que reconegui la plurinacionalitat, aprofundeixi en la democràcia i posi al centre els drets socials de les persones treballadores. La reforma permetria a la ciutadania decidir en referèndum, de manera directa i separada, entre monarquia i república.",
+            "gl": "Impulsar unha constitución republicana que recoñeza a plurinacionalidade, afonde na democracia e poña no centro os dereitos sociais das persoas traballadoras. A reforma permitiríalle á cidadanía decidir en referendo, de xeito directo e separado, entre monarquía e república.",
+            "eu": "Nazio-aniztasuna aitortuko duen, demokrazian sakonduko duen eta langileen eskubide sozialak erdigunean jarriko dituen konstituzio errepublikanoa bultzatzea. Erreformak herritarrei monarkiaren eta errepublikaren artean erreferendum bidez, zuzenean eta bereizita, erabakitzeko aukera emango lieke.",
+            "oc": "Impulsar ua constitucion republicana que reconeishe era plurinacionalitat, aprofondisque era democracia e metesque en centre es drets sociaus des persones trabalhadores. Era reforma permeterie ara ciutadania decidir en referendum, de manèra dirècta e separada, entre monarquia e republica.",
+            "en": "Pursue a republican constitution that recognises the state’s plurinational character, deepens democracy and puts workers’ social rights at its centre. The reform would allow citizens to decide directly between monarchy and republic in a separate referendum."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-128",
+              "quote": "Impulsaremos la aprobación de una constitución republicana",
+              "page": 128,
+              "printedPage": "128"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-128",
+              "quote": "profundice la democracia, reconozca la plurinaciona- lidad y ponga los derechos sociales de los trabajadores y trabajadoras en el centro.",
+              "page": 128,
+              "printedPage": "128"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-128",
+              "quote": "que la ciudadanía decida de forma separada y directa entre monar- quía y república",
+              "page": 128,
+              "printedPage": "128"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-128",
+              "quote": "el referéndum como instrumento democrático básico",
+              "page": 128,
+              "printedPage": "128"
+            }
+          ]
+        },
+        {
+          "id": "podemos-institutions-and-rights-repeal-gag-law",
+          "title": {
+            "es": "Derogación de la Ley Mordaza y protección de la protesta",
+            "ca": "Derogació de la Ley Mordaza i protecció de la protesta",
+            "gl": "Derrogación da Ley Mordaza e protección da protesta",
+            "eu": "Ley Mordaza indargabetzea eta protesta babestea",
+            "oc": "Derogacion dera Ley Mordaza e proteccion dera protèsta",
+            "en": "Repeal of the Ley Mordaza and protection of protest"
+          },
+          "text": {
+            "es": "Derogar la Ley Mordaza y promover una regulación que proteja la libertad de expresión, reunión y manifestación y prohíba usar pelotas de goma como método de contención. Revisar las disposiciones penales que puedan restringir desproporcionadamente la protesta pacífica, la crítica política y la libertad de información.",
+            "ca": "Derogar la Ley Mordaza i promoure una regulació que protegeixi la llibertat d’expressió, reunió i manifestació i prohibeixi l’ús de pilotes de goma com a mètode de contenció. Revisar les disposicions penals que puguin restringir de manera desproporcionada la protesta pacífica, la crítica política i la llibertat d’informació.",
+            "gl": "Derrogar a Ley Mordaza e promover unha regulación que protexa a liberdade de expresión, reunión e manifestación e prohiba o uso de pelotas de goma como método de contención. Revisar as disposicións penais que poidan restrinxir de xeito desproporcionado a protesta pacífica, a crítica política e a liberdade de información.",
+            "eu": "Ley Mordaza indargabetzea eta adierazpen-, bilera- eta manifestazio-askatasuna babestu eta jendea geldiarazteko gomazko pilotak erabiltzea debekatuko duen araudia sustatzea. Protesta baketsua, kritika politikoa eta informazio-askatasuna neurriz kanpo muga ditzaketen zigor-xedapenak berrikustea.",
+            "oc": "Derogar era Ley Mordaza e promòir ua regulacion que proteguisque era libertat d’expression, reünion e manifestacion e proïbisque er us de pilotes de goma coma metòde de contencion. Revisar es disposicions penaus que poguen restringir de manèra desproporcionada era protèsta pacifica, era critica politica e era libertat d’informacion.",
+            "en": "Repeal the Ley Mordaza and promote rules protecting freedom of expression, assembly and demonstration and banning the use of rubber bullets for crowd control. Review criminal provisions that may disproportionately restrict peaceful protest, political criticism and freedom of information."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-133",
+              "quote": "Derogar la Ley Mordaza y reformar la legislación que limita los derechos fundamentales.",
+              "page": 133,
+              "printedPage": "133"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-133",
+              "quote": "una nueva regulación garantista que proteja la libertad de expresión, reunión y manifestación, y que incluya expresamente la prohibición del uso de pelotas de goma como método de contención.",
+              "page": 133,
+              "printedPage": "133"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-133",
+              "quote": "Revisaremos también las disposiciones del Código Penal que puedan restringir desproporcionadamente la protesta pacífica, la crítica política y la libertad de información.",
+              "page": 133,
+              "printedPage": "133"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "podemos--pensions-and-social-protection",
+      "partyId": "podemos",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/podemos/pensions-and-social-protection",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-18T10:50:28Z",
+      "sourceIds": [
+        "podemos-2026-086211fb272f"
+      ],
+      "points": [
+        {
+          "id": "podemos-pensions-and-social-protection-early-retirement-penalties",
+          "title": {
+            "es": "Jubilación anticipada con 40 años cotizados",
+            "ca": "Jubilació anticipada amb 40 anys cotitzats",
+            "gl": "Xubilación anticipada con 40 anos cotizados",
+            "eu": "Erretiro aurreratua 40 urte kotizatuta",
+            "oc": "Jubilacion anticipada damb 40 ans cotizadi",
+            "en": "Early retirement after 40 years of contributions"
+          },
+          "text": {
+            "es": "Eliminar retroactivamente las penalizaciones por jubilación anticipada para las personas con 40 años o más de cotización y revisar las pensiones ya reconocidas.",
+            "ca": "Eliminar retroactivament les penalitzacions per jubilació anticipada per a les persones amb 40 anys o més cotitzats i revisar les pensions ja reconegudes.",
+            "gl": "Eliminar retroactivamente as penalizacións por xubilación anticipada para as persoas con 40 anos ou máis de cotización e revisar as pensións xa recoñecidas.",
+            "eu": "Gutxienez 40 urtez kotizatu duten pertsonei erretiroa aurreratzeagatik ezarritako murrizketak atzeraeraginez kentzea, eta jada aitortutako pentsioak berrikustea.",
+            "oc": "Eliminar retroactivament es penalizacions pera jubilacion anticipada entàs persones damb 40 ans o mès de cotizacion e revisar es pensions ja reconeishudes.",
+            "en": "Retroactively remove early retirement penalties for people with at least 40 years of contributions and review pensions already awarded."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "Eliminar las penalizaciones por jubilación anticipada para las personas con 40 años cotizados.",
+              "page": 41,
+              "printedPage": "41"
+            },
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "eliminando retroactivamente las penalizaciones para los traba- jadores y trabajadoras con 40 años o más de cotización. La reforma incluirá la revisión de las pensiones ya reconocidas",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "podemos-pensions-and-social-protection-retirement-at-63",
+          "title": {
+            "es": "Edad ordinaria de jubilación a los 63 años",
+            "ca": "Edat ordinària de jubilació als 63 anys",
+            "gl": "Idade ordinaria de xubilación aos 63 anos",
+            "eu": "Erretiro-adin arrunta 63 urtera aurreratzea",
+            "oc": "Edat ordinària de jubilacion as 63 ans",
+            "en": "Standard retirement age of 63"
+          },
+          "text": {
+            "es": "Reformar el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años y garantizar la sostenibilidad y suficiencia de las pensiones financiándolas a través de los Presupuestos Generales del Estado.",
+            "ca": "Reformar el sistema de pensions per avançar l’edat ordinària de jubilació als 63 anys i garantir la sostenibilitat i suficiència de les pensions finançant-les a través dels pressupostos generals de l’Estat.",
+            "gl": "Reformar o sistema de pensións para adiantar a idade ordinaria de xubilación aos 63 anos e garantir a sustentabilidade e suficiencia das pensións financiándoas a través dos orzamentos xerais do Estado.",
+            "eu": "Pentsio-sistema erreformatzea ohiko erretiro-adina 63 urtera aurreratzeko eta pentsioen jasangarritasuna eta nahikotasuna bermatzeko, Estatuko Aurrekontu Orokorren bidez finantzatuta.",
+            "oc": "Reformar eth sistèma de pensions entà auançar era edat ordinària de jubilacion as 63 ans e garantir era sostenibilitat e sufisença des pensions en tot finançar-les a trauès des pressupòsti generaus der Estat.",
+            "en": "Reform the pension system to bring the standard retirement age down to 63 and ensure pensions are sustainable and adequate by funding them through the General State Budget."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-41",
+              "quote": "Reforma- remos el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presu- puestos Generales del Estado.",
+              "page": 41,
+              "printedPage": "41"
+            }
+          ]
+        },
+        {
+          "id": "podemos-pensions-and-social-protection-minimum-pensions",
+          "title": {
+            "es": "Pensiones mínimas vinculadas al salario mínimo",
+            "ca": "Pensions mínimes vinculades al salari mínim",
+            "gl": "Pensións mínimas vinculadas ao salario mínimo",
+            "eu": "Gutxieneko soldatari lotutako pentsioak",
+            "oc": "Pensions minimes vinculades ath salari minim",
+            "en": "Pensions tied to the minimum wage"
+          },
+          "text": {
+            "es": "Equiparar la pensión mínima contributiva al salario mínimo interprofesional y fijar la pensión no contributiva en el 80 % de ese salario.",
+            "ca": "Equiparar la pensió mínima contributiva al salari mínim interprofessional i fixar la pensió no contributiva en el 80 % d’aquest salari.",
+            "gl": "Equiparar a pensión mínima contributiva ao salario mínimo interprofesional e fixar a pensión non contributiva no 80 % dese salario.",
+            "eu": "Gutxieneko kotizaziopeko pentsioa lanbide arteko gutxieneko soldatarekin parekatzea, eta kotizaziorik gabeko pentsioa soldata horren % 80an ezartzea.",
+            "oc": "Equiparar era pension minima contributiva ath salari minim interprofessionau e fixar era pension non contributiva en 80 % d’aguest salari.",
+            "en": "Set the minimum contributory pension at the statutory minimum wage and the non-contributory pension at 80% of that wage."
+          },
+          "citations": [
+            {
+              "sourceId": "podemos-2026-086211fb272f",
+              "segmentId": "page-44",
+              "quote": "Garantizaremos que la pensión mínima contributiva se equipare al SMI, y la pensión no contributiva al 80% del SMI.",
+              "page": 44,
+              "printedPage": "44"
             }
           ]
         }

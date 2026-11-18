@@ -1,0 +1,127 @@
+{
+  "id": "podemos--healthcare",
+  "partyId": "podemos",
+  "topicId": "healthcare",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-healthcare-public-healthcare-funding",
+      "title": {
+        "es": "Más financiación para la sanidad pública",
+        "ca": "Més finançament per a la sanitat pública",
+        "gl": "Máis financiamento para a sanidade pública",
+        "eu": "Osasun publikoaren finantzaketa handitzea",
+        "oc": "Mès finançament entara sanitat publica",
+        "en": "More funding for public healthcare"
+      },
+      "text": {
+        "es": "Aumentar progresivamente la financiación del Sistema Nacional de Salud hasta un mínimo de 2.900 euros por habitante y año. Crear un fondo estatal para la sanidad pública de gestión directa, con un euro autonómico por cada dos solicitados al Estado y sin reducir las partidas sanitarias autonómicas, que deberán aumentar al menos en la cantidad cofinanciada. Destinar al menos el 30 % de esos fondos a atención primaria y al menos el 20 % a salud mental pública.",
+        "ca": "Augmentar progressivament el finançament del Sistema Nacional de Salut fins a un mínim de 2.900 euros per habitant i any. Crear un fons estatal per a la sanitat pública de gestió directa, amb un euro autonòmic per cada dos de sol·licitats a l’Estat i sense reduir les partides sanitàries autonòmiques, que hauran d’augmentar almenys en l’import cofinançat. Destinar almenys el 30 % d’aquests fons a l’atenció primària i almenys el 20 % a la salut mental pública.",
+        "gl": "Aumentar progresivamente o financiamento do Sistema Nacional de Saúde ata un mínimo de 2.900 euros por habitante e ano. Crear un fondo estatal para a sanidade pública de xestión directa, cun euro autonómico por cada dous solicitados ao Estado e sen reducir as partidas sanitarias autonómicas, que deberán aumentar polo menos na cantidade cofinanciada. Destinar polo menos o 30 % deses fondos á atención primaria e polo menos o 20 % á saúde mental pública.",
+        "eu": "Osasun Sistema Nazionalaren finantzaketa pixkanaka handitzea, urtean biztanleko gutxienez 2.900 euroraino. Zuzenean kudeatutako osasun publikorako estatu-funtsa sortzea, autonomia-erkidegoek Estatuari eskatutako bi euro bakoitzeko euro bana jarrita eta erkidegoetako osasun-partidak murriztu gabe. Partida horiek gutxienez kofinantzatutako zenbatekoan handitu beharko dira. Funts horien gutxienez % 30 lehen mailako arretara eta gutxienez % 20 osasun mentaleko zerbitzu publikoetara bideratzea.",
+        "oc": "Aumentar progressivament eth finançament deth Sistèma Nacionau de Salut enquia un minim de 2.900 èuros per abitant e an. Crear un hons estatau entara sanitat publica de gestion dirècta, damb un èuro autonomic per cada dus sollicitadi ar Estat e sense redusir es partides sanitàries autonomiques, qu’auràn d’aumentar aumens ena quantitat cofinançada. Destinar aumens eth 30 % d’aguesti hons ara atencion primària e aumens eth 20 % ara salut mentau publica.",
+        "en": "Gradually raise National Health System funding to at least €2,900 per resident per year. Create a national fund for directly managed public healthcare, with autonomous communities contributing one euro for every two they request from the state and maintaining their healthcare allocations, which must rise by at least the co-funded amount. Allocate at least 30% of those funds to primary care and at least 20% to public mental health services."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-89",
+          "quote": "progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros por habi- tante y año"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-89",
+          "quote": "Las comunidades se comprometerán a aportar un euro propio por cada dos solici- tados al Estado y a no reducir sus partidas sanitarias, que deberán aumentar al menos en la cantidad cofinanciada."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-89",
+          "quote": "Este dinero, y la aportación autonómica complementaria, solo podrá destinarse a la sanidad pública de gestión directa"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-89",
+          "quote": "Al menos el 30% de los fondos se destinará a la Atención Primaria y al menos el 20% al sistema público de salud mental"
+        }
+      ]
+    },
+    {
+      "id": "podemos-healthcare-primary-care-standards",
+      "title": {
+        "es": "Financiación y estándares de atención primaria",
+        "ca": "Finançament i estàndards d’atenció primària",
+        "gl": "Financiamento e estándares de atención primaria",
+        "eu": "Lehen mailako arretaren finantzaketa eta estandarrak",
+        "oc": "Finançament e estandards dera atencion primària",
+        "en": "Primary care funding and standards"
+      },
+      "text": {
+        "es": "Aprobar una ley que destine al menos el 25 % del presupuesto sanitario a atención primaria, con el objetivo de invertir 700 euros por habitante y año. Fijar un máximo de 1.300 pacientes por profesional de medicina de familia y 800 menores por profesional de pediatría, adaptando las ratios y las plantillas a las necesidades de cada zona. Garantizar una cita en un máximo de 48 horas hábiles y la continuidad con los mismos profesionales.",
+        "ca": "Aprovar una llei que destini almenys el 25 % del pressupost sanitari a l’atenció primària, amb l’objectiu d’invertir 700 euros per habitant i any. Fixar un màxim de 1.300 pacients per professional de medicina de família i 800 menors per professional de pediatria, adaptant les ràtios i les plantilles a les necessitats de cada zona. Garantir una cita en un màxim de 48 hores hàbils i la continuïtat amb els mateixos professionals.",
+        "gl": "Aprobar unha lei que destine polo menos o 25 % do orzamento sanitario á atención primaria, co obxectivo de investir 700 euros por habitante e ano. Fixar un máximo de 1.300 pacientes por profesional de medicina de familia e 800 menores por profesional de pediatría, adaptando as ratios e os cadros de persoal ás necesidades de cada zona. Garantir unha cita nun máximo de 48 horas hábiles e a continuidade cos mesmos profesionais.",
+        "eu": "Osasun-aurrekontuaren gutxienez % 25 lehen mailako arretara bideratuko duen legea onartzea, urtean biztanleko 700 euro inbertitzeko helburuarekin. Familia-medikuntzako profesional bakoitzeko gehienez 1.300 paziente eta pediatriako profesional bakoitzeko 800 adingabe ezartzea, ratioak eta langile kopuruak eremu bakoitzeko beharretara egokituz. Gehienez 48 ordu balioduneko epean hitzordua bermatzea, baita profesional berek emandako arretaren jarraitutasuna ere.",
+        "oc": "Aprovar ua lei que destine aumens eth 25 % deth pressupòst sanitari ara atencion primària, damb er objectiu d’invertir 700 èuros per abitant e an. Fixar un maxim de 1.300 pacients per professionau de medecina de familha e 800 menors per professionau de pediatria, en tot adaptar es ratios e es plantilhes as besonhs de cada zòna. Garantir ua cita en un maxim de 48 ores abiles e era continuïtat damb es madeishi professionaus.",
+        "en": "Pass a law allocating at least 25% of the healthcare budget to primary care, with a spending target of €700 per resident per year. Set caps of 1,300 patients per family medicine practitioner and 800 children per paediatric practitioner, adapting staffing and ratios to the needs of each area. Guarantee an appointment within 48 working hours and continuity of care with the same practitioners."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-90",
+          "quote": "La ley establecerá que al menos el 25% del presupuesto sanitario se destine efectivamente a Atención Primaria, con el objetivo de alcanzar una inversión de 700 euros por habitante y año"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-90",
+          "quote": "fijará un máximo de 1.300 pacientes por profesional de medi- cina de familia y 800 menores por profesional de pediatría, adaptando las ratios y las plantillas a las necesidades demográficas, sociales y territoriales de cada zona"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-90",
+          "quote": "garantizará una cita en un máximo de 48 horas hábiles y la continuidad asistencial con los mismos profesio- nales"
+        }
+      ]
+    },
+    {
+      "id": "podemos-healthcare-universal-healthcare-coverage",
+      "title": {
+        "es": "Sanidad universal y ampliación de la cobertura",
+        "ca": "Sanitat universal i ampliació de la cobertura",
+        "gl": "Sanidade universal e ampliación da cobertura",
+        "eu": "Osasun-arreta unibertsala eta estaldura zabaltzea",
+        "oc": "Sanitat universau e ampliacion dera cobertura",
+        "en": "Universal healthcare and wider coverage"
+      },
+      "text": {
+        "es": "Garantizar el acceso a la sanidad pública a todas las personas que vivan en España, sea cual sea su situación administrativa. Ampliar al 100 % la cobertura bucodental, oftalmológica, auditiva, de fisioterapia y psicológica. Hacer el copago farmacéutico proporcional a la renta, con exenciones para las personas con menos recursos y otros colectivos especialmente protegidos, y devolver los importes que superen los límites establecidos.",
+        "ca": "Garantir l’accés a la sanitat pública a totes les persones que visquin a Espanya, sigui quina sigui la seva situació administrativa. Ampliar al 100 % la cobertura bucodental, oftalmològica, auditiva, de fisioteràpia i psicològica. Fer que el copagament farmacèutic sigui proporcional a la renda, amb exempcions per a les persones amb menys recursos i altres col·lectius especialment protegits, i retornar els imports que superin els límits establerts.",
+        "gl": "Garantir o acceso á sanidade pública a todas as persoas que vivan en España, sexa cal sexa a súa situación administrativa. Ampliar ao 100 % a cobertura bucodental, oftalmolóxica, auditiva, de fisioterapia e psicolóxica. Facer o copagamento farmacéutico proporcional á renda, con exencións para as persoas con menos recursos e outros colectivos especialmente protexidos, e devolver os importes que superen os límites establecidos.",
+        "eu": "Espainian bizi diren pertsona guztiei osasun-arreta publikorako sarbidea bermatzea, haien egoera administratiboa edozein dela ere. Aho-hortzetako, oftalmologiako, entzumeneko, fisioterapiako eta psikologiako zerbitzuen estaldura % 100era zabaltzea. Sendagaien koordainketa errentaren araberakoa izatea, baliabide gutxien dituzten pertsonak eta babes bereziko beste talde batzuk salbuetsita, eta ezarritako mugen gaineko zenbatekoak itzultzea.",
+        "oc": "Garantir er accès ara sanitat publica a totes es persones que visquen en Espanha, sigue quina sigue era sua situacion administrativa. Ampliar ath 100 % era cobertura bucodentau, oftalmologica, auditiva, de fisioteràpia e psicologica. Hèr qu’eth copagament farmaceutic sigue proporcionau ara renda, damb exempcions entàs persones damb mens recorsi e d’auti collectius especiaument protegidi, e tornar es impòrts que supèren es limits establidi.",
+        "en": "Guarantee access to public healthcare for everyone living in Spain, regardless of administrative status. Extend coverage to 100% for dental, ophthalmic, hearing, physiotherapy and psychological services. Make prescription co-payments proportional to income, exempt people with the fewest resources and other specially protected groups, and reimburse amounts paid above the set limits."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-91",
+          "quote": "para que ninguna persona que habite en suelo español, sea cual sea su situación administrativa, quede excluida del sistema."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-91",
+          "quote": "Aumentaremos hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva, así como de fisioterapia y psicológica"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-92",
+          "quote": "Reformaremos el copago farmacéu- tico para que la aportación de cada persona sea proporcional a su renta, con exención para las personas con menores recursos y otros colectivos especialmente protegidos y reintegro de las cantidades que superen los límites establecidos."
+        }
+      ]
+    }
+  ]
+}

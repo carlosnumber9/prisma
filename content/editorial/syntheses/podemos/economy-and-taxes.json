@@ -1,0 +1,102 @@
+{
+  "id": "podemos--economy-and-taxes",
+  "partyId": "podemos",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-economy-and-taxes-permanent-wealth-tax",
+      "title": {
+        "es": "Impuesto estatal permanente sobre las grandes fortunas",
+        "ca": "Impost estatal permanent sobre les grans fortunes",
+        "gl": "Imposto estatal permanente sobre as grandes fortunas",
+        "eu": "Ondasun handien gaineko estatu-zerga iraunkorra",
+        "oc": "Impòst estatau permanent sus es granes fortunes",
+        "en": "Permanent national tax on large fortunes"
+      },
+      "text": {
+        "es": "Convertir el Impuesto Temporal de Solidaridad de las Grandes Fortunas en un impuesto estatal permanente con las mismas características que el Impuesto sobre el Patrimonio. Ampliarlo a todos los sujetos obligados por ese impuesto y retirar en el de grandes fortunas la exención de las acciones de empresas en manos de quienes las gestionan cuando el patrimonio supere los 100 millones de euros.",
+        "ca": "Convertir l’Impuesto Temporal de Solidaridad de las Grandes Fortunas en un impost estatal permanent amb les mateixes característiques que l’Impuesto sobre el Patrimonio. Ampliar-lo a tots els subjectes obligats per aquest impost i retirar en el de grans fortunes l’exempció de les accions d’empreses en mans de les persones que les gestionen quan el patrimoni superi els 100 milions d’euros.",
+        "gl": "Converter o Impuesto Temporal de Solidaridad de las Grandes Fortunas nun imposto estatal permanente coas mesmas características que o Impuesto sobre el Patrimonio. Amplialo a todos os suxeitos obrigados por ese imposto e retirar no de grandes fortunas a exención das accións de empresas en mans das persoas que as xestionan cando o patrimonio supere os 100 millóns de euros.",
+        "eu": "Impuesto Temporal de Solidaridad de las Grandes Fortunas zerga ondarearen gaineko zergaren ezaugarri berak dituen estatu-zerga iraunkor bihurtzea. Ondarearen gaineko zergaren subjektu pasibo guztiei aplikatzea eta ondasun handien zergan enpresak kudeatzen dituztenen esku dauden enpresa-akzioen salbuespena kentzea, ondarea 100 milioi eurotik gorakoa denean.",
+        "oc": "Convertir er Impuesto Temporal de Solidaridad de las Grandes Fortunas en un impòst estatau permanent damb es madeishes caracteristiques qu’er Impuesto sobre el Patrimonio. Ampliar-lo a toti es subjèctes obligadi per aguest impòst e retirar en impòst sus es granes fortunes era exempcion des accions d’entrepreses en mans des persones que les gestionen quan eth patrimòni supère es 100 milions d’èuros.",
+        "en": "Turn the Impuesto Temporal de Solidaridad de las Grandes Fortunas into a permanent national tax with the same features as Spain’s wealth tax. Extend it to everyone liable for the wealth tax and remove the exemption under the large-fortunes tax for shares held by people who manage those companies when their wealth exceeds €100 million."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-17",
+          "quote": "Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-17",
+          "quote": "reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal perma- nente con idénticas características que el Impuesto del Patrimonio."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-17",
+          "quote": "las acciones de empresas en manos de quienes las gestionan dejen de estar exentas en el impuesto a las grandes fortunas cuando el patri- monio pase de 100 millones de euros."
+        }
+      ]
+    },
+    {
+      "id": "podemos-economy-and-taxes-public-bank",
+      "title": {
+        "es": "Creación de una banca pública",
+        "ca": "Creació d’una banca pública",
+        "gl": "Creación dunha banca pública",
+        "eu": "Banku publikoa sortzea",
+        "oc": "Creacion d’ua banca publica",
+        "en": "Creation of a public bank"
+      },
+      "text": {
+        "es": "Crear una banca pública que integre todos los recursos y las estructuras de ICO, CDTI y ENISA. Las administraciones públicas operarían exclusivamente con ella. Su objetivo sería captar ahorro y orientarlo a crear empleo estable y de calidad.",
+        "ca": "Crear una banca pública que integri tots els recursos i les estructures de l’ICO, el CDTI i ENISA. Les administracions públiques hi operarien en exclusiva. El seu objectiu seria captar estalvi i orientar-lo a crear ocupació estable i de qualitat.",
+        "gl": "Crear unha banca pública que integre todos os recursos e as estruturas do ICO, o CDTI e ENISA. As administracións públicas operarían exclusivamente con ela. O seu obxectivo sería captar aforro e orientalo a crear emprego estable e de calidade.",
+        "eu": "ICOren, CDTIren eta ENISAren baliabide eta egitura guztiak bilduko dituen banku publikoa sortzea. Administrazio publikoek banku horrekin soilik egingo lituzkete eragiketak. Helburua aurrezkia erakartzea eta enplegu egonkorra eta kalitatezkoa sortzera bideratzea litzateke.",
+        "oc": "Crear ua banca publica qu’intègre toti es recorsi e es estructures der ICO, eth CDTI e ENISA. Es administracions publiques operarien sonque damb aguesta banca. Eth sòn objectiu serie captar estauvi e orientar-lo a crear trabalh estable e de qualitat.",
+        "en": "Create a public bank incorporating all the resources and structures of ICO, CDTI and ENISA. Public authorities would bank exclusively with it. Its aim would be to attract savings and direct them towards creating stable, high-quality jobs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-17",
+          "quote": "Crearemos una Banca Pública a la que se integrarán todos los recursos y la estructura del ICO, CDTI y ENISA, que será con la que operen las administraciones públicas en exclusiva, con el fin de atraer ahorro y orientarlo a la creación de empleo estable y de calidad."
+        }
+      ]
+    },
+    {
+      "id": "podemos-economy-and-taxes-corporate-tax-rates",
+      "title": {
+        "es": "Tipos mínimos del impuesto de sociedades",
+        "ca": "Tipus mínims de l’impost de societats",
+        "gl": "Tipos mínimos do imposto sobre sociedades",
+        "eu": "Sozietateen gaineko zergaren gutxieneko tasak",
+        "oc": "Tipes minims der impòst sus societats",
+        "en": "Minimum corporate tax rates"
+      },
+      "text": {
+        "es": "Elevar del 15 % al 19 % el tipo efectivo mínimo general del impuesto de sociedades, calculado sobre los beneficios reales en lugar de la base imponible. Para las empresas que operen en régimen de oligopolio, fijar un tipo efectivo mínimo del 29 % y un tipo nominal del 35 %.",
+        "ca": "Elevar del 15 % al 19 % el tipus efectiu mínim general de l’impost de societats, calculat sobre els beneficis reals en comptes de la base imposable. Per a les empreses que operin en règim d’oligopoli, fixar un tipus efectiu mínim del 29 % i un tipus nominal del 35 %.",
+        "gl": "Elevar do 15 % ao 19 % o tipo efectivo mínimo xeral do imposto sobre sociedades, calculado sobre os beneficios reais en lugar da base impoñible. Para as empresas que operen en réxime de oligopolio, fixar un tipo efectivo mínimo do 29 % e un tipo nominal do 35 %.",
+        "eu": "Sozietateen gaineko zergaren gutxieneko tasa efektibo orokorra % 15etik % 19ra igotzea, zerga-oinarriaren ordez benetako mozkinen gainean kalkulatuta. Oligopolio-erregimenean ari diren enpresei gutxieneko tasa efektiboa % 29an eta tasa nominala % 35ean ezartzea.",
+        "oc": "Elevar deth 15 % ath 19 % eth tipe efectiu minim generau der impòst sus societats, calculat sus es beneficis reaus en lòc dera basa imposabla. Entàs empreses qu’opèren en regim d’oligopòli, fixar un tipe efectiu minim deth 29 % e un tipe nominau deth 35 %.",
+        "en": "Raise the general minimum effective corporate tax rate from 15% to 19%, calculated on actual profits instead of the taxable base. Set a minimum effective rate of 29% and a nominal rate of 35% for companies operating in oligopolies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-21",
+          "quote": "Elevaremos el tipo efectivo mínimo general del 15 % al 19 %, calculándolo sobre los beneficios reales y no sobre la base imponible, y estableceremos para las empresas que operen en régimen de oligopolio un tipo efectivo mínimo del 29 % y un tipo nominal del 35 %."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "podemos--housing",
+  "partyId": "podemos",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-housing-rent-reduction",
+      "title": {
+        "es": "Rebaja legal de los alquileres",
+        "ca": "Rebaixa legal dels lloguers",
+        "gl": "Rebaixa legal dos alugueiros",
+        "eu": "Alokairuak legez jaistea",
+        "oc": "Rebaisha legau des loguèrs",
+        "en": "Statutory rent reduction"
+      },
+      "text": {
+        "es": "Reducir por ley un 40 % el precio del alquiler anterior en contratos vigentes, renovaciones, prórrogas y nuevos contratos, siempre que el precio resultante no baje del 60 % del precio medio actual de la zona. Si la vivienda nunca se ha alquilado, fijar el precio inicial en ese 60 %.",
+        "ca": "Reduir per llei un 40 % el preu del lloguer anterior en contractes vigents, renovacions, pròrrogues i contractes nous, sempre que el preu resultant no baixi del 60 % del preu mitjà actual de la zona. Si l’habitatge no s’ha llogat mai, fixar el preu inicial en aquest 60 %.",
+        "gl": "Reducir por lei un 40 % o prezo do alugueiro anterior nos contratos vixentes, nas renovacións, nas prórrogas e nos contratos novos, sempre que o prezo resultante non baixe do 60 % do prezo medio actual da zona. Se a vivenda nunca se alugou, fixar o prezo inicial nese 60 %.",
+        "eu": "Indarreko kontratuetan, berritzeetan, luzapenetan eta kontratu berrietan aurreko alokairuaren prezioa legez % 40 jaistea, baldin eta emaitzazko prezioa eremuko egungo batez besteko prezioaren % 60tik behera geratzen ez bada. Etxebizitza inoiz alokatu ez bada, hasierako prezioa % 60 horretan ezartzea.",
+        "oc": "Redusir per lei un 40 % eth prètz der anterior loguèr enes contractes en vigor, es renovacions, es prorògues e es naui contractes, tostemp qu’eth prètz resultant non baishe deth 60 % deth prètz miei actuau dera zòna. S’er abitatge non s’a logat jamès, fixar eth prètz iniciau en aguest 60 %.",
+        "en": "Cut the previous rent by 40% by law for existing leases, renewals, extensions and new leases, provided the resulting rent is at least 60% of the current local average. If the home has never been rented out, set the starting rent at that 60%."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-8",
+          "quote": "los contratos vigentes, sus renovaciones y prórrogas, así como a los nuevos contratos"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-8",
+          "quote": "Se establecerá un precio que sea un 40% menor que el precio anterior, siempre y cuando el precio resultante no quede por debajo del 60% del precio medio actual en la correspon- diente zona."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-8",
+          "quote": "Si la vivienda nunca ha sido puesta antes en alquiler, el precio inicial será el 60% del precio medio actual de la zona."
+        }
+      ]
+    },
+    {
+      "id": "podemos-housing-open-ended-rental-contracts",
+      "title": {
+        "es": "Contratos de alquiler indefinidos",
+        "ca": "Contractes de lloguer indefinits",
+        "gl": "Contratos de alugueiro indefinidos",
+        "eu": "Alokairu-kontratu mugagabeak",
+        "oc": "Contractes de loguèr indefinidi",
+        "en": "Open-ended rental contracts"
+      },
+      "text": {
+        "es": "Convertir por defecto todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida.",
+        "ca": "Convertir per defecte tots els contractes de lloguer d’habitatge habitual en contractes de durada indefinida.",
+        "gl": "Converter por defecto todos os contratos de alugueiro de vivenda habitual en contratos de duración indefinida.",
+        "eu": "Ohiko etxebizitzaren alokairu-kontratu guztiak iraupen mugagabeko kontratu bihurtzea, besterik ezarri ezean.",
+        "oc": "Convertir per defècte toti es contractes de loguèr d’abitatge abituau en contractes de durada indefinida.",
+        "en": "Make all rental contracts for main homes open-ended by default."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-8",
+          "quote": "Convertiremos todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida por defecto"
+        }
+      ]
+    },
+    {
+      "id": "podemos-housing-large-landlord-housing-use",
+      "title": {
+        "es": "Expropiación del uso de viviendas de grandes tenedores",
+        "ca": "Expropiació de l’ús d’habitatges de grans tenidors",
+        "gl": "Expropiación do uso de vivendas de grandes posuidores",
+        "eu": "Etxebizitza-jabe handien etxebizitzen erabilera desjabetzea",
+        "oc": "Expropriacion der us des abitatges de grani proprietaris",
+        "en": "Expropriation of rights to use homes held by large owners"
+      },
+      "text": {
+        "es": "Impulsar por interés social la expropiación del uso de las viviendas que excedan de diez en manos de grandes tenedores, fondos de inversión, entidades financieras y bancos. Incorporar al parque público de alquiler social las que estén vacías o se destinen al turismo si son habitables. En las ya alquiladas, aplicar alquiler social o precios regulados según la situación económica de las familias y garantizar los derechos de los inquilinos.",
+        "ca": "Impulsar per interès social l’expropiació de l’ús dels habitatges que excedeixin de deu en mans de grans tenidors, fons d’inversió, entitats financeres i bancs. Incorporar al parc públic de lloguer social els que estiguin buits o es destinin al turisme si són habitables. En els que ja estan llogats, aplicar lloguer social o preus regulats segons la situació econòmica de les famílies i garantir els drets dels llogaters.",
+        "gl": "Impulsar por interese social a expropiación do uso das vivendas que excedan de dez en mans de grandes posuidores, fondos de investimento, entidades financeiras e bancos. Incorporar ao parque público de alugueiro social as que estean baleiras ou se destinen ao turismo se son habitables. Nas xa alugadas, aplicar alugueiro social ou prezos regulados segundo a situación económica das familias e garantir os dereitos das persoas inquilinas.",
+        "eu": "Interes sozialagatik, jabe handien, inbertsio-funtsen, finantza-erakundeen eta bankuen esku dauden hamarretik gorako etxebizitzen erabilera desjabetzea bultzatzea. Hutsik daudenak edo turismorako erabiltzen direnak alokairu sozialeko parke publikoan sartzea, bizigarriak badira. Jada alokatuta daudenetan, alokairu soziala edo prezio arautuak ezartzea familien egoera ekonomikoaren arabera, eta maizterren eskubideak bermatzea.",
+        "oc": "Impulsar per interès sociau era expropriacion der us des abitatges que passen de dètz en mans de grani proprietaris, hons d’inversion, entitats financères e bancs. Incorporar ath parc public de loguèr sociau es que siguen uets o destinadi ath torisme, se son abitables. Enes ja logadi, aplicar loguèrs sociaus o prètzi reguladi segontes era situacion economica des familhes e garantir es drets des logataris.",
+        "en": "Pursue the expropriation on social-interest grounds of the right to use homes beyond the first ten held by large property owners, investment funds, financial institutions and banks. Add vacant homes and tourist lets to public social rental stock if they are habitable. Set social rents or regulated prices for tenanted homes based on families’ financial circumstances and protect tenants’ rights."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-8",
+          "quote": "Impulsaremos la expropia- ción de uso por interés social de las viviendas que superen las diez en manos de grandes tenedores, fondos de inversión, entidades finan- cieras y bancos"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-8",
+          "quote": "Incorporaremos al parque público de vivienda aquellas que estén vacías o destinadas al uso turístico, siempre que reúnan las condiciones de habitabilidad, para destinarlas al alquiler social."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-8",
+          "quote": "En las viviendas que ya estén alqui- ladas, estableceremos rentas de alquiler social o precios regulados en función de la situación económica de las familias, garantizando en todo caso los derechos de las personas inquilinas."
+        }
+      ]
+    }
+  ]
+}

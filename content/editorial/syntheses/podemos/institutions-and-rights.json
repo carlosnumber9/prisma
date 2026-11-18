@@ -1,0 +1,117 @@
+{
+  "id": "podemos--institutions-and-rights",
+  "partyId": "podemos",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-18T10:50:28Z",
+  "sourceIds": ["podemos-2026-086211fb272f"],
+  "points": [
+    {
+      "id": "podemos-institutions-and-rights-nato-withdrawal",
+      "title": {
+        "es": "Salida de la OTAN y cierre de las bases estadounidenses",
+        "ca": "Sortida de l’OTAN i tancament de les bases nord-americanes",
+        "gl": "Saída da OTAN e peche das bases estadounidenses",
+        "eu": "NATOtik ateratzea eta AEBetako baseak ixtea",
+        "oc": "Gessuda dera OTAN e barrament des bases estatsunidenques",
+        "en": "Withdrawal from NATO and closure of US bases"
+      },
+      "text": {
+        "es": "Impulsar la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y poner fin a la presencia militar estadounidense en territorio español, incluidas la Base Naval de Rota y la Base Aérea de Morón.",
+        "ca": "Impulsar la sortida d’Espanya de l’OTAN mitjançant la denúncia del Tractat de l’Atlàntic Nord i posar fi a la presència militar dels Estats Units en territori espanyol, incloses la Base Naval de Rota i la Base Aérea de Morón.",
+        "gl": "Impulsar a saída de España da OTAN mediante a denuncia do Tratado do Atlántico Norte e poñer fin á presenza militar estadounidense en territorio español, incluídas a Base Naval de Rota e a Base Aérea de Morón.",
+        "eu": "Espainia NATOtik ateratzea bultzatzea, Ipar Atlantikoko Ituna salatuta, eta AEBen presentzia militarra Espainiako lurraldean amaitzea, Base Naval de Rota eta Base Aérea de Morón barne.",
+        "oc": "Impulsar era gessuda d’Espanha dera OTAN mejançant era denóncia deth Tractat der Atlantic Nòrd e méter fin ara preséncia militar des Estats Units en territòri espanhòu, includides era Base Naval de Rota e era Base Aérea de Morón.",
+        "en": "Pursue Spain’s withdrawal from NATO by formally denouncing the North Atlantic Treaty and end the US military presence in Spanish territory, including at the Base Naval de Rota and Base Aérea de Morón."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-28",
+          "quote": "Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y pondremos fin a la presencia militar estadounidense en nuestro territorio, incluida la Base Naval de Rota y la Base Aérea de Morón."
+        }
+      ]
+    },
+    {
+      "id": "podemos-institutions-and-rights-republic-referendum",
+      "title": {
+        "es": "Constitución republicana y referéndum",
+        "ca": "Constitució republicana i referèndum",
+        "gl": "Constitución republicana e referendo",
+        "eu": "Konstituzio errepublikanoa eta erreferenduma",
+        "oc": "Constitucion republicana e referendum",
+        "en": "Republican constitution and referendum"
+      },
+      "text": {
+        "es": "Impulsar una constitución republicana que reconozca la plurinacionalidad, profundice la democracia y ponga en el centro los derechos sociales de las personas trabajadoras. La reforma permitiría a la ciudadanía decidir en referéndum, de forma directa y separada, entre monarquía y república.",
+        "ca": "Impulsar una constitució republicana que reconegui la plurinacionalitat, aprofundeixi en la democràcia i posi al centre els drets socials de les persones treballadores. La reforma permetria a la ciutadania decidir en referèndum, de manera directa i separada, entre monarquia i república.",
+        "gl": "Impulsar unha constitución republicana que recoñeza a plurinacionalidade, afonde na democracia e poña no centro os dereitos sociais das persoas traballadoras. A reforma permitiríalle á cidadanía decidir en referendo, de xeito directo e separado, entre monarquía e república.",
+        "eu": "Nazio-aniztasuna aitortuko duen, demokrazian sakonduko duen eta langileen eskubide sozialak erdigunean jarriko dituen konstituzio errepublikanoa bultzatzea. Erreformak herritarrei monarkiaren eta errepublikaren artean erreferendum bidez, zuzenean eta bereizita, erabakitzeko aukera emango lieke.",
+        "oc": "Impulsar ua constitucion republicana que reconeishe era plurinacionalitat, aprofondisque era democracia e metesque en centre es drets sociaus des persones trabalhadores. Era reforma permeterie ara ciutadania decidir en referendum, de manèra dirècta e separada, entre monarquia e republica.",
+        "en": "Pursue a republican constitution that recognises the state’s plurinational character, deepens democracy and puts workers’ social rights at its centre. The reform would allow citizens to decide directly between monarchy and republic in a separate referendum."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-128",
+          "quote": "Impulsaremos la aprobación de una constitución republicana"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-128",
+          "quote": "profundice la democracia, reconozca la plurinaciona- lidad y ponga los derechos sociales de los trabajadores y trabajadoras en el centro."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-128",
+          "quote": "que la ciudadanía decida de forma separada y directa entre monar- quía y república"
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-128",
+          "quote": "el referéndum como instrumento democrático básico"
+        }
+      ]
+    },
+    {
+      "id": "podemos-institutions-and-rights-repeal-gag-law",
+      "title": {
+        "es": "Derogación de la Ley Mordaza y protección de la protesta",
+        "ca": "Derogació de la Ley Mordaza i protecció de la protesta",
+        "gl": "Derrogación da Ley Mordaza e protección da protesta",
+        "eu": "Ley Mordaza indargabetzea eta protesta babestea",
+        "oc": "Derogacion dera Ley Mordaza e proteccion dera protèsta",
+        "en": "Repeal of the Ley Mordaza and protection of protest"
+      },
+      "text": {
+        "es": "Derogar la Ley Mordaza y promover una regulación que proteja la libertad de expresión, reunión y manifestación y prohíba usar pelotas de goma como método de contención. Revisar las disposiciones penales que puedan restringir desproporcionadamente la protesta pacífica, la crítica política y la libertad de información.",
+        "ca": "Derogar la Ley Mordaza i promoure una regulació que protegeixi la llibertat d’expressió, reunió i manifestació i prohibeixi l’ús de pilotes de goma com a mètode de contenció. Revisar les disposicions penals que puguin restringir de manera desproporcionada la protesta pacífica, la crítica política i la llibertat d’informació.",
+        "gl": "Derrogar a Ley Mordaza e promover unha regulación que protexa a liberdade de expresión, reunión e manifestación e prohiba o uso de pelotas de goma como método de contención. Revisar as disposicións penais que poidan restrinxir de xeito desproporcionado a protesta pacífica, a crítica política e a liberdade de información.",
+        "eu": "Ley Mordaza indargabetzea eta adierazpen-, bilera- eta manifestazio-askatasuna babestu eta jendea geldiarazteko gomazko pilotak erabiltzea debekatuko duen araudia sustatzea. Protesta baketsua, kritika politikoa eta informazio-askatasuna neurriz kanpo muga ditzaketen zigor-xedapenak berrikustea.",
+        "oc": "Derogar era Ley Mordaza e promòir ua regulacion que proteguisque era libertat d’expression, reünion e manifestacion e proïbisque er us de pilotes de goma coma metòde de contencion. Revisar es disposicions penaus que poguen restringir de manèra desproporcionada era protèsta pacifica, era critica politica e era libertat d’informacion.",
+        "en": "Repeal the Ley Mordaza and promote rules protecting freedom of expression, assembly and demonstration and banning the use of rubber bullets for crowd control. Review criminal provisions that may disproportionately restrict peaceful protest, political criticism and freedom of information."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-133",
+          "quote": "Derogar la Ley Mordaza y reformar la legislación que limita los derechos fundamentales."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-133",
+          "quote": "una nueva regulación garantista que proteja la libertad de expresión, reunión y manifestación, y que incluya expresamente la prohibición del uso de pelotas de goma como método de contención."
+        },
+        {
+          "sourceId": "podemos-2026-086211fb272f",
+          "segmentId": "page-133",
+          "quote": "Revisaremos también las disposiciones del Código Penal que puedan restringir desproporcionadamente la protesta pacífica, la crítica política y la libertad de información."
+        }
+      ]
+    }
+  ]
+}
