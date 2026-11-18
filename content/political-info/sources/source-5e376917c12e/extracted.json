@@ -1,0 +1,11 @@
+{
+  "sourceId": "source-5e376917c12e",
+  "sourceSha256": "5e376917c12eaac6050c2b319a8694303567f10a2d9d3f27bea9f112e4ad6a81",
+  "segments": [
+    {
+      "id": "fill",
+      "section": "Wordmark path fill",
+      "text": "fill=\"#F03C00\""
+    }
+  ]
+}
