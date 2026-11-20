@@ -9,3 +9,5 @@ out/
 .vercel/
 next-env.d.ts
 public/dot-texture.svg
+content/generated-provincial/
+public/geography/provinces.json

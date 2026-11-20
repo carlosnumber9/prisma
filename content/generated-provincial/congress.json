@@ -1,0 +1,2937 @@
+{
+  "schemaVersion": 1,
+  "electionDate": "2026-11-29",
+  "revision": 1,
+  "provinces": [
+    {
+      "id": "01",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-euskal-herria-bildu-eh-bildu",
+          "label": "EH BILDU",
+          "programmeId": null
+        },
+        {
+          "id": "formation-euzko-alderdi-jeltzalea-partido-nacionalista-vasco-eaj-pnv",
+          "label": "EAJ-PNV",
+          "programmeId": null
+        },
+        {
+          "id": "formation-feministas-al-congreso-pfac",
+          "label": "PFAC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-fronte-zabala-frente-amplio-fronte-zabala",
+          "label": "FRENTE AMPLIO-FRONTE ZABALA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-euskadi-euskadiko-langileen-alderdi-komunista-pcte-elak",
+          "label": "PCTE/ELAK",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
+          "label": "PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "parties": [
+        {
+          "id": "formation-compromis-front-valencia-compromis-eupv-podem-erpv",
+          "label": "COMPROMIS-EUPV-PODEM-ERPV",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-autonomos-partido-autonomos",
+          "label": "PARTIDO AUTÓNOMOS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-democrata-social-jubilados-europeos-p-d-s-j-e",
+          "label": "P.D.S.J.E.",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-nuevo-extremenismo-adelante-extremadura-nex",
+          "label": "NEX",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "parties": [
+        {
+          "id": "formation-arames-front-ampli-arames-eu-ms",
+          "label": "ARAMÉS-EU-MS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-socialista-de-las-islas-baleares-psib-psoe",
+          "label": "PSIB-PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "parties": [
+        {
+          "id": "formation-alhora-alhora",
+          "label": "ALHORA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-comuns-front-ampli-comuns-front-ampli",
+          "label": "COMUNS-FRONT AMPLI",
+          "programmeId": null
+        },
+        {
+          "id": "formation-democracia-para-el-siglo-21-d21",
+          "label": "D21",
+          "programmeId": null
+        },
+        {
+          "id": "formation-esquerra-republicana-de-catalunya-erc",
+          "label": "ERC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-junts-per-catalunya-jxcat",
+          "label": "JxCat",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+          "label": "PCTC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+          "label": "PSC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-popular-partido-popular-pp",
+          "label": "PP",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-nuevo-extremenismo-adelante-extremadura-nex",
+          "label": "NEX",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-andaluz-fa",
+          "label": "FA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "parties": [
+        {
+          "id": "formation-compromis-front-valencia-compromis-eupv-podem-erpv",
+          "label": "COMPROMIS-EUPV-PODEM-ERPV",
+          "programmeId": null
+        },
+        {
+          "id": "formation-falange-espanola-de-las-jons-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-autonomos-partido-autonomos",
+          "label": "PARTIDO AUTÓNOMOS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-falange-espanola-de-las-jons-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-andaluz-fa",
+          "label": "FA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "parties": [
+        {
+          "id": "formation-bloque-nacionalista-galego-b-n-g",
+          "label": "B.N.G.",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+          "label": "FRENTE AMPLIO-FRONTE AMPLA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
+          "label": "PCTG",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+          "label": "PSdeG-PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "parties": [
+        {
+          "id": "formation-alhora-alhora",
+          "label": "ALHORA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-comuns-front-ampli-comuns-front-ampli",
+          "label": "COMUNS-FRONT AMPLI",
+          "programmeId": null
+        },
+        {
+          "id": "formation-esquerra-republicana-de-catalunya-erc",
+          "label": "ERC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-junts-per-catalunya-jxcat",
+          "label": "JxCat",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+          "label": "PCTC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+          "label": "PSC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-popular-partido-popular-pp",
+          "label": "PP",
+          "programmeId": null
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-andaluz-fa",
+          "label": "FA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "parties": [
+        {
+          "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-euskadiko-langileen-alderdi-komunista-partido-comunista-de-los-trabajadores-de-euskadi-elak-pcte",
+          "label": "ELAK/PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-euskal-herria-bildu-eh-bildu",
+          "label": "EH BILDU",
+          "programmeId": null
+        },
+        {
+          "id": "formation-euzko-alderdi-jeltzalea-partido-nacionalista-vasco-eaj-pnv",
+          "label": "EAJ-PNV",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
+          "label": "PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-andaluz-fa",
+          "label": "FA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-socialista-de-huelva-psoe",
+          "label": "PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "parties": [
+        {
+          "id": "formation-chunta-aragonesista-frente-amplio-aragon-cha-iu-ms-frente-amplio",
+          "label": "CHA-IU-MS-FRENTE AMPLIO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-federacion-de-los-independientes-de-aragon-fia",
+          "label": "FIA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-regionalista-del-pais-leones-prepal",
+          "label": "PREPAL",
+          "programmeId": null
+        },
+        {
+          "id": "formation-proyecto-alantre-p-alantre",
+          "label": "P. ALANTRE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "parties": [
+        {
+          "id": "formation-alhora-alhora",
+          "label": "ALHORA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-comuns-front-ampli-comuns-front-ampli",
+          "label": "COMUNS-FRONT AMPLI",
+          "programmeId": null
+        },
+        {
+          "id": "formation-esquerra-republicana-de-catalunya-erc",
+          "label": "ERC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-junts-per-catalunya-jxcat",
+          "label": "JxCat",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-animalista-amb-el-medi-ambient-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+          "label": "PCTC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+          "label": "PSC",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "parties": [
+        {
+          "id": "formation-bloque-nacionalista-galego-bng",
+          "label": "BNG",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+          "label": "FRENTE AMPLIO-FRONTE AMPLA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+          "label": "PSdeG-PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "parties": [
+        {
+          "id": "formation-democracia-para-el-siglo-21-d21",
+          "label": "D21",
+          "programmeId": null
+        },
+        {
+          "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-iustitia-europa-ie",
+          "label": "IE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-humanista-ph",
+          "label": "PH",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-alternativa-malaguena-29",
+          "label": "29",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "formation-tercera-edad-en-accion-3e",
+          "label": "3e",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "parties": [
+        {
+          "id": "formation-eguzkilore-eguzkilore",
+          "label": "EGUZKILORE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-euskal-herria-bildu-eh-bildu",
+          "label": "EH BILDU",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-fronte-zabala-frente-amplio-fronte-zabala",
+          "label": "FRENTE AMPLIO-FRONTE ZABALA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-geroa-bai-gbai",
+          "label": "GBAI",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-socialista-de-navarra-psoe-psn-psoe",
+          "label": "PSN-PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "formation-union-del-pueblo-navarro-en-coalicion-con-el-partido-popular-upn-pp",
+          "label": "UPN-PP",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "parties": [
+        {
+          "id": "formation-bloque-nacionalista-galego-bng",
+          "label": "BNG",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+          "label": "FRENTE AMPLIO-FRONTE AMPLA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
+          "label": "PCTG",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+          "label": "PSdeG-PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mais-xusto-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "parties": [
+        {
+          "id": "formation-frente-ampliu-por-asturies-fa",
+          "label": "FA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-unionista-estado-de-espana-puede",
+          "label": "PUEDE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-liberacion-canaria-lib",
+          "label": "LIB",
+          "programmeId": null
+        },
+        {
+          "id": "formation-municipalistas-primero-canarias-coalicion-canaria-1-ocan-cca",
+          "label": "1.ºCAN-CCa",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-del-pueblo-canario-pcpc",
+          "label": "PCPC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-drago-canarias-d-r-g",
+          "label": "D.R.G",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "formation-unidad-del-pueblo-canario-upc-nc-bc-podemos-iu-sumar",
+          "label": "NC-BC, PODEMOS, IU, SUMAR",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "parties": [
+        {
+          "id": "formation-bloque-nacionalista-galego-bng",
+          "label": "BNG",
+          "programmeId": null
+        },
+        {
+          "id": "formation-escanos-en-branco-para-deixar-escanos-baleiros-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+          "label": "FRENTE AMPLIO-FRONTE AMPLA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
+          "label": "PCTG",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+          "label": "PSdeG-PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-regionalista-del-pais-leones-prepal",
+          "label": "PREPAL",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "parties": [
+        {
+          "id": "formation-coalicion-canaria-municipalistas-primero-canarias-cca-1-ocan",
+          "label": "CCa-1.ºCAN",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-liberacion-canaria-lib",
+          "label": "LIB",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-autonomos-partido-autonomos",
+          "label": "PARTIDO AUTÓNOMOS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-drago-canarias-d-r-g",
+          "label": "D.R.G",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "formation-unidad-del-pueblo-canario-upc-nc-bc-podemos-iu-sumar",
+          "label": "NC-BC, PODEMOS, IU, SUMAR",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "parties": [
+        {
+          "id": "formation-adelante-andalucia-adelante-andalucia",
+          "label": "ADELANTE ANDALUCÍA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-amplio-andaluz-fa",
+          "label": "FA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "formation-soria-ya-sy",
+          "label": "SY",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "parties": [
+        {
+          "id": "formation-alhora-alhora",
+          "label": "ALHORA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-comuns-front-ampli-comuns-front-ampli",
+          "label": "COMUNS-FRONT AMPLI",
+          "programmeId": null
+        },
+        {
+          "id": "formation-convergents-cnv",
+          "label": "CNV",
+          "programmeId": null
+        },
+        {
+          "id": "formation-esquerra-republicana-de-catalunya-erc",
+          "label": "ERC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-junts-per-catalunya-jxcat",
+          "label": "JxCat",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+          "label": "PCTC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+          "label": "PSC",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partit-popular-partido-popular-pp",
+          "label": "PP",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "parties": [
+        {
+          "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "formation-teruel-existe-teruel-existe",
+          "label": "TERUEL EXISTE",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "parties": [
+        {
+          "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "parties": [
+        {
+          "id": "formation-agenda-valenciana-agenda-valenciana",
+          "label": "AGENDA VALENCIANA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-compromis-front-valencia-compromis-eupv-podem-erpv",
+          "label": "COMPROMIS-EUPV-PODEM-ERPV",
+          "programmeId": null
+        },
+        {
+          "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-renacer-renaixer-rrb",
+          "label": "RRB",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "formation-valencia-unida-vlc",
+          "label": "VLC",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "parties": [
+        {
+          "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+          "label": "ESCAÑOS EN BLANCO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+          "label": "FE de las JONS",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-nacionalista-de-castilla-y-leon-union-reformista-ciudadana-pancal-urci",
+          "label": "PANCAL-URCI",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "parties": [
+        {
+          "id": "formation-euskal-herria-bildu-eh-bildu",
+          "label": "EH BILDU",
+          "programmeId": null
+        },
+        {
+          "id": "formation-euzko-alderdi-jeltzalea-partido-nacionalista-vasco-eaj-pnv",
+          "label": "EAJ-PNV",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+          "label": "PACMA",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-euskadi-euskadiko-langileen-alderdi-komunista-pcte-elak",
+          "label": "PCTE/ELAK",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
+          "label": "PSOE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-regionalista-del-pais-leones-prepal",
+          "label": "PREPAL",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "frente-amplio",
+          "label": "Frente Amplio",
+          "programmeId": "frente-amplio"
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "parties": [
+        {
+          "id": "formation-chunta-aragonesista-frente-amplio-aragon-cha-iu-ms-frente-amplio",
+          "label": "CHA-IU-MS-FRENTE AMPLIO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-federacion-de-los-independientes-de-aragon-f-i-a",
+          "label": "F.I.A.",
+          "programmeId": null
+        },
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+          "label": "PCTE",
+          "programmeId": null
+        },
+        {
+          "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+          "label": "MUNDO+JUSTO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "podemos",
+          "label": "Podemos",
+          "programmeId": "podemos"
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "parties": [
+        {
+          "id": "formation-frente-obrero",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-podemos-paz-casa-y-trabajo",
+          "label": "PAZ,CASA Y TRABAJO",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "parties": [
+        {
+          "id": "formation-frente-obrero-fo",
+          "label": "Frente Obrero",
+          "programmeId": null
+        },
+        {
+          "id": "formation-se-acabo-la-fiesta-salf",
+          "label": "SALF",
+          "programmeId": null
+        },
+        {
+          "id": "pp",
+          "label": "PP",
+          "programmeId": "pp"
+        },
+        {
+          "id": "psoe",
+          "label": "PSOE",
+          "programmeId": "psoe"
+        },
+        {
+          "id": "vox",
+          "label": "VOX",
+          "programmeId": "vox"
+        }
+      ]
+    }
+  ]
+}

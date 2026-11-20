@@ -1,0 +1,20 @@
+{
+  "source": "Instituto Geográfico Nacional (IGN), BDDAE, provincial administrative units, 3rdOrder; codes 01–52",
+  "url": "https://www.ign.es/wfs-inspire/unidades-administrativas",
+  "request": {
+    "service": "WFS",
+    "version": "2.0.0",
+    "request": "GetFeature",
+    "typenames": "au:AdministrativeUnit",
+    "outputFormat": "application/geo+json",
+    "srsName": "urn:ogc:def:crs:OGC::CRS84",
+    "filter": "nationalLevel/@xlink:href = https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/3rdOrder"
+  },
+  "capturedAt": "2026-11-20T19:00:00Z",
+  "sourceSha256": "e1743dbf69598224411dda9585f608b0ff6d7aad9864d0af82992d0e15938468",
+  "derivativeSha256": "c5d4e657ef2ae240d689c122e176964dbf7a13d492562ae637b07f2912586446",
+  "derivative": "public/geography/provinces.json",
+  "processing": "Shapely 2.1.2 simplify(0.0002, preserve_topology=True), EPSG:4326 longitude/latitude, rounded to six decimal places. Non-provincial territory 54 excluded. Original response retained temporarily outside the repository.",
+  "licence": "CC-BY 4.0 compatible; derived from IGN administrative boundaries",
+  "attribution": "Obra derivada de BDDAE CC-BY 4.0 ign.es"
+}

@@ -7,13 +7,13 @@
     "npm": "10.8.2"
   },
   "scripts": {
-    "content:generate": "node scripts/generate-content.mjs",
-    "content:check": "node scripts/generate-content.mjs --check",
+    "content:generate": "node scripts/generate-content.mjs && npm run provincial:generate",
+    "content:check": "node scripts/generate-content.mjs --check && npm run provincial:check",
     "test": "node --test tests/*.test.mjs",
     "dev": "next dev",
     "start": "next start",
     "build": "npm run content:check && next build && node scripts/check-portal-build.mjs",
-    "test:app": "node --test tests/content.test.mjs tests/presentation.test.mjs tests/halftone.test.mjs tests/reader.test.mjs tests/i18n.test.mjs tests/proxy.test.mjs tests/navigation-motion.test.mjs tests/disclosure-motion.test.mjs",
+    "test:app": "node --test tests/content.test.mjs tests/presentation.test.mjs tests/halftone.test.mjs tests/reader.test.mjs tests/i18n.test.mjs tests/proxy.test.mjs tests/navigation-motion.test.mjs tests/disclosure-motion.test.mjs tests/provinces.test.mjs",
     "typecheck": "npm run typecheck:tools && npm run typecheck:app",
     "typecheck:tools": "tsc --project tsconfig.tools.json",
     "typecheck:app": "next typegen && tsc --project tsconfig.json",
@@ -22,7 +22,9 @@
     "docs:check": "node scripts/check-docs.mjs",
     "check": "npm run typecheck && npm run lint && npm run format:check && npm run docs:check && npm run content:check && npm run sources:check",
     "test:coverage": "node scripts/test-coverage.mjs",
-    "sources:check": "node scripts/check-source-secrets.mjs"
+    "sources:check": "node scripts/check-source-secrets.mjs",
+    "provincial:generate": "node scripts/generate-provincial-content.mjs",
+    "provincial:check": "node scripts/generate-provincial-content.mjs --check"
   },
   "version": "0.1.0",
   "packageManager": "npm@10.8.2",

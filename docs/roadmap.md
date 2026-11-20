@@ -38,11 +38,11 @@ The [18 November Podemos editorial review](../content/reviews/2026-11-18-podemos
 
 The initial catalogue included ERC alongside PP, PSOE, VOX and Frente Amplio. On 18 November the maintainer added Podemos and limited the public catalogue to formations with documented programmes. ERC had no approved synthesis in Prisma and was removed from the catalogue. Candidature coverage remains a separate concern. See [catalogue provenance](catalogue-provenance.md).
 
-## Political reference documentation — skill implemented; corpus and app integration pending
+## Political reference documentation — provincial data validated; app integration pending
 
 The repository now includes [`document-political-info`](../.agents/skills/document-political-info/SKILL.md) and a separate reference JSON contract. It accepts consumable user material or researches official sources directly, verifies claims online, preserves dated evidence and saves only explicitly accepted facts. The contract distinguishes formations, people, elections, institutions, territories and ordered constituency candidatures, with partial coverage and stable references. It is not limited to the programme pipeline's configured election.
 
-No real political-reference batch has been incorporated. Dedicated schema validation, deterministic generation if needed, app imports, public presentation and geographic matching remain future implementation. The existing programme generator and portal still consume only their four schema-v3 files. Creating this skill does not establish nationwide electoral coverage or approve any political facts.
+The approved Congress presence batch contains 534 proclaimed candidatures across 52 constituencies, with source evidence and a deterministic, presence-only projection. Scoped validation checks references, source hashes and citations. A frozen IGN provincial geometry derivative and location-selection helpers have deterministic tests. Portal integration follows in the next delivery unit; existing pages still consume only the programme catalogue. See [provincial data](provincial-data.md).
 
 ## Delivery 3 — Accessible Next portal: implemented; browser verification pending
 

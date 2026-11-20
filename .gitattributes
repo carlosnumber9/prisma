@@ -3,3 +3,6 @@ content/sources/** -text
 content/sources/**/*.pdf binary
 content/political-info/sources/** -text
 content/generated/*.json text eol=lf
+
+# Immutable originals retain upstream whitespace as well as line endings.
+content/political-info/sources/**/original.* -whitespace
