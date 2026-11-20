@@ -170,3 +170,27 @@
     transition-delay: 0s;
   }
 }
+
+.preferences {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  min-width: 0;
+}
+@media (max-width: 768px) {
+  .preferences {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+@media (min-width: 769px) and (max-width: 1100px) {
+  .panelContent {
+    gap: 0.75rem;
+  }
+  .item a {
+    padding-inline: 0.6rem;
+  }
+  .navigation {
+    margin-inline-end: 0;
+  }
+}

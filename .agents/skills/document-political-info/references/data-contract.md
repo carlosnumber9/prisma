@@ -117,7 +117,7 @@ A candidature contains exactly `id`, `formationId`, `electionId`, `institutionId
 - `candidates` contains objects with exactly `personId`, `position`, `category` and `citations`. `personId` references a person; `position` is a positive integer preserving the published order; `category` is `regular` or `substitute`. Positions are unique within a category, which is ordered independently. Do not alphabetize candidates or renumber an extracted partial list to close gaps.
 - Each person can appear only once in a candidature unless the actual electoral structure requires a reviewed contract extension. An empty candidate array is allowed only for a partial record whose evidence establishes the candidature but not its members. It never proves an officially empty list.
 
-Use territory entities and `territory-kind`/`parent-territory` facts to represent provinces, islands, municipalities, autonomous cities and other actual constituencies. Do not store citizen addresses or infer a person's constituency from residence. Geographic matching and user-location features are future app work; this skill preserves the official constituency identity needed by them.
+Use territory entities and `territory-kind`/`parent-territory` facts to represent provinces, islands, municipalities, autonomous cities and other actual constituencies. Do not store citizen addresses or infer a person's constituency from residence. The homepage uses a separately implemented provincial matcher and presence-only projection; this skill preserves official constituency identity rather than citizen coordinates.
 
 ## Public sources and final verification
 

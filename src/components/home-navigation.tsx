@@ -66,7 +66,7 @@ export function HomeNavigation({
             });
 
             const reveals = items.map((item, index) => {
-              const link = item.querySelector<HTMLAnchorElement>('a');
+              const link = item.querySelector<HTMLElement>('a, button');
               if (!link) return null;
               const id = `${revealId}-ribbon-${maskIndex++}`;
               const reveal = createRibbonReveal(
@@ -161,7 +161,7 @@ export function HomeNavigation({
     );
 
     return () => media.revert();
-  }, [revealId, revealed, onRevealComplete]);
+  }, [revealId, revealed, onRevealComplete, parties]);
 
   return (
     <div id="home-navigation" ref={navigationRef} className={styles.navigation}>
@@ -186,15 +186,6 @@ export function HomeNavigation({
               </NavigationLink>
             </li>
           ))}
-          <li className={styles.parties} data-compact-link>
-            <NavigationLink
-              href={localizedPath('/parties', locale)}
-              className={styles.link}
-              tone="accent"
-            >
-              {m.partyList}
-            </NavigationLink>
-          </li>
         </ul>
       </section>
       <section
@@ -207,9 +198,10 @@ export function HomeNavigation({
         </h2>
         <ul className={styles.links}>
           {parties.map((party) => (
-            <li key={party.href}>
+            <li key={party.id ?? party.href}>
               <NavigationLink
                 href={localizedPath(party.href, locale)}
+                disabled={party.disabled}
                 className={styles.link}
               >
                 {party.label}

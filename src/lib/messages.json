@@ -16,8 +16,8 @@
     "byTopic": "Por área",
     "byParty": "Por partidos",
     "partyList": "Lista de partidos",
-    "partiesMeta": "Consulta las áreas y resúmenes disponibles de cada formación de la selección inicial.",
-    "partiesDescription": "Selección inicial de formaciones. Entra en un partido para consultar sus áreas.",
+    "partiesMeta": "Consulta los partidos y coaliciones que concurren al Congreso en la provincia seleccionada y sus resúmenes disponibles.",
+    "partiesDescription": "Partidos y coaliciones que concurren al Congreso en la provincia seleccionada. Consulta los resúmenes disponibles.",
     "partyMeta": "Consulta resúmenes de {party} por área.",
     "officialWebsite": "Web oficial de {party}",
     "officialWebsiteBadge": "Web oficial",
@@ -28,7 +28,7 @@
     "topicsMeta": "Explora las ocho áreas de los programas y consulta los resúmenes disponibles por formación.",
     "topicsDescription": "Elige un tema para consultar qué resúmenes están disponibles en cada formación.",
     "topicMeta": "Consulta disponibilidad de resúmenes sobre {topic} por formación.",
-    "topicDescription": "Consulta la disponibilidad por formación. Cada enlace abre el resumen de este tema para ese partido.",
+    "topicDescription": "Consulta los partidos que concurren en la provincia seleccionada. Los enlaces disponibles muestran sus propuestas cotejadas para esta área.",
     "pending": "Resumen todavía no disponible",
     "pendingDescription": "Este apartado todavía no tiene un resumen disponible.",
     "absenceNote": "La ausencia de resumen no significa que el partido no tenga propuestas.",
@@ -51,7 +51,9 @@
     "proposals": "Propuestas",
     "copyLink": "Copiar enlace a {title}",
     "linkCopied": "Enlace copiado",
-    "copyError": "No se pudo copiar el enlace. Selecciona el campo para copiarlo manualmente."
+    "copyError": "No se pudo copiar el enlace. Selecciona el campo para copiarlo manualmente.",
+    "province": "Provincia",
+    "noProvinceMatches": "Ninguna provincia coincide."
   },
   "ca": {
     "language": "Idioma",
@@ -70,8 +72,8 @@
     "byTopic": "Per àrea",
     "byParty": "Per partits",
     "partyList": "Llista de partits",
-    "partiesMeta": "Consulta les àrees i els resums disponibles de cada formació de la selecció inicial.",
-    "partiesDescription": "Selecció inicial de formacions. Entra en un partit per consultar-ne les àrees.",
+    "partiesMeta": "Consulta els partits i les coalicions que concorren al Congrés a la província seleccionada i els resums disponibles.",
+    "partiesDescription": "Partits i coalicions que concorren al Congrés a la província seleccionada. Consulta els resums disponibles.",
     "partyMeta": "Consulta resums de {party} per àrea.",
     "officialWebsite": "Web oficial de {party}",
     "officialWebsiteBadge": "Web oficial",
@@ -82,7 +84,7 @@
     "topicsMeta": "Explora les vuit àrees dels programes i consulta els resums disponibles per formació.",
     "topicsDescription": "Tria un tema per consultar quins resums estan disponibles a cada formació.",
     "topicMeta": "Consulta la disponibilitat de resums sobre {topic} per formació.",
-    "topicDescription": "Consulta la disponibilitat per formació. Cada enllaç obre el resum d’aquest tema per a aquell partit.",
+    "topicDescription": "Consulta els partits que concorren a la província seleccionada. Els enllaços disponibles mostren les seves propostes contrastades per a aquesta àrea.",
     "pending": "Resum encara no disponible",
     "pendingDescription": "Aquest apartat encara no té un resum disponible.",
     "absenceNote": "L’absència de resum no significa que el partit no tingui propostes.",
@@ -105,7 +107,9 @@
     "proposals": "Propostes",
     "copyLink": "Copia l’enllaç a {title}",
     "linkCopied": "Enllaç copiat",
-    "copyError": "No s’ha pogut copiar l’enllaç. Selecciona el camp per copiar-lo manualment."
+    "copyError": "No s’ha pogut copiar l’enllaç. Selecciona el camp per copiar-lo manualment.",
+    "province": "Província",
+    "noProvinceMatches": "No hi ha cap província coincident."
   },
   "gl": {
     "language": "Idioma",
@@ -124,8 +128,8 @@
     "byTopic": "Por área",
     "byParty": "Por partidos",
     "partyList": "Lista de partidos",
-    "partiesMeta": "Consulta as áreas e os resumos dispoñibles de cada formación da selección inicial.",
-    "partiesDescription": "Selección inicial de formacións. Entra nun partido para consultar as súas áreas.",
+    "partiesMeta": "Consulta os partidos e as coalicións que concorren ao Congreso na provincia seleccionada e os seus resumos dispoñibles.",
+    "partiesDescription": "Partidos e coalicións que concorren ao Congreso na provincia seleccionada. Consulta os resumos dispoñibles.",
     "partyMeta": "Consulta resumos de {party} por área.",
     "officialWebsite": "Web oficial de {party}",
     "officialWebsiteBadge": "Web oficial",
@@ -136,7 +140,7 @@
     "topicsMeta": "Explora as oito áreas dos programas e consulta os resumos dispoñibles por formación.",
     "topicsDescription": "Escolle un tema para consultar que resumos están dispoñibles en cada formación.",
     "topicMeta": "Consulta a dispoñibilidade de resumos sobre {topic} por formación.",
-    "topicDescription": "Consulta a dispoñibilidade por formación. Cada ligazón abre o resumo deste tema para ese partido.",
+    "topicDescription": "Consulta os partidos que concorren na provincia seleccionada. As ligazóns dispoñibles mostran as súas propostas contrastadas para esta área.",
     "pending": "Resumo aínda non dispoñible",
     "pendingDescription": "Este apartado aínda non ten un resumo dispoñible.",
     "absenceNote": "A ausencia de resumo non significa que o partido non teña propostas.",
@@ -159,7 +163,9 @@
     "proposals": "Propostas",
     "copyLink": "Copiar ligazón a {title}",
     "linkCopied": "Ligazón copiada",
-    "copyError": "Non se puido copiar a ligazón. Selecciona o campo para copiala manualmente."
+    "copyError": "Non se puido copiar a ligazón. Selecciona o campo para copiala manualmente.",
+    "province": "Provincia",
+    "noProvinceMatches": "Ningunha provincia coincide."
   },
   "eu": {
     "language": "Hizkuntza",
@@ -178,8 +184,8 @@
     "byTopic": "Arloka",
     "byParty": "Alderdika",
     "partyList": "Alderdien zerrenda",
-    "partiesMeta": "Kontsultatu hasierako hautaketako talde bakoitzaren arloak eta laburpen eskuragarriak.",
-    "partiesDescription": "Alderdi eta koalizioen hasierako hautaketa. Sartu alderdi batean haren arloak kontsultatzeko.",
+    "partiesMeta": "Kontsultatu hautatutako probintzian Kongresurako aurkezten diren alderdiak eta koalizioak, eta eskuragarri dauden laburpenak.",
+    "partiesDescription": "Hautatutako probintzian Kongresurako aurkezten diren alderdiak eta koalizioak. Kontsultatu eskuragarri dauden laburpenak.",
     "partyMeta": "Kontsultatu {party} alderdiaren laburpenak arloka.",
     "officialWebsite": "{party} taldearen webgune ofiziala",
     "officialWebsiteBadge": "Webgune ofiziala",
@@ -190,7 +196,7 @@
     "topicsMeta": "Arakatu programen zortzi arloak eta kontsultatu talde bakoitzaren laburpen eskuragarriak.",
     "topicsDescription": "Aukeratu gai bat talde bakoitzaren laburpen eskuragarriak ikusteko.",
     "topicMeta": "Kontsultatu {topic} gaiari buruzko laburpenen eskuragarritasuna taldeka.",
-    "topicDescription": "Kontsultatu eskuragarritasuna taldeka. Esteka bakoitzak alderdi horren gai honetako laburpena irekitzen du.",
+    "topicDescription": "Kontsultatu hautatutako probintzian aurkezten diren alderdiak. Eskuragarri dauden estekek arlo honetarako egiaztatutako proposamenak erakusten dituzte.",
     "pending": "Laburpena oraindik ez dago eskuragarri",
     "pendingDescription": "Atal honek ez du oraindik laburpenik eskuragarri.",
     "absenceNote": "Laburpenik ez egoteak ez du esan nahi alderdiak proposamenik ez duenik.",
@@ -213,7 +219,9 @@
     "proposals": "Proposamenak",
     "copyLink": "Kopiatu {title} proposamenaren esteka",
     "linkCopied": "Esteka kopiatuta",
-    "copyError": "Ezin izan da esteka kopiatu. Hautatu eremua eskuz kopiatzeko."
+    "copyError": "Ezin izan da esteka kopiatu. Hautatu eremua eskuz kopiatzeko.",
+    "province": "Probintzia",
+    "noProvinceMatches": "Ez dago bat datorren probintziarik."
   },
   "oc": {
     "language": "Lengua",
@@ -232,8 +240,8 @@
     "byTopic": "Per airau",
     "byParty": "Per partits",
     "partyList": "Lista de partits",
-    "partiesMeta": "Consulta es airaus e es resums disponibles de cada formacion dera seleccion iniciau.",
-    "partiesDescription": "Seleccion iniciau de formacions. Entra en un partit entà consultar-ne es airaus.",
+    "partiesMeta": "Consulta es partits e es coalicions que concorren ath Congrès ena província seleccionada e es sòns resums disponibles.",
+    "partiesDescription": "Partits e coalicions que concorren ath Congrès ena província seleccionada. Consulta es resums disponibles.",
     "partyMeta": "Consulta resums de {party} per airau.",
     "officialWebsite": "Web oficiau de {party}",
     "officialWebsiteBadge": "Web oficiau",
@@ -244,7 +252,7 @@
     "topicsMeta": "Explòra es ueit airaus des programes e consulta es resums disponibles per formacion.",
     "topicsDescription": "Triga un tèma entà consultar quini resums son disponibles en cada formacion.",
     "topicMeta": "Consulta era disponibilitat de resums sus {topic} per formacion.",
-    "topicDescription": "Consulta era disponibilitat per formacion. Cada ligam daurís eth resum d’aguest tèma entad aqueth partit.",
+    "topicDescription": "Consulta es partits que concorren ena província seleccionada. Es ligams disponibles mòstren es sues prepauses contrastades entà aguesta airau.",
     "pending": "Resum encara non disponible",
     "pendingDescription": "Aguest apartat encara non a un resum disponible.",
     "absenceNote": "Era abséncia de resum non vò díder qu’eth partit non age prepauses.",
@@ -267,7 +275,9 @@
     "proposals": "Prepauses",
     "copyLink": "Copiar eth ligam a {title}",
     "linkCopied": "Ligam copiat",
-    "copyError": "Non s’a pogut copiar eth ligam. Selecciona eth camp entà copiar-lo manuaument."
+    "copyError": "Non s’a pogut copiar eth ligam. Selecciona eth camp entà copiar-lo manuaument.",
+    "province": "Província",
+    "noProvinceMatches": "Cap província coincidís."
   },
   "en": {
     "language": "Language",
@@ -286,8 +296,8 @@
     "byTopic": "By policy area",
     "byParty": "By party",
     "partyList": "Party list",
-    "partiesMeta": "Browse the policy areas and available summaries for each formation in the initial selection.",
-    "partiesDescription": "Initial selection of formations. Open a party to browse its policy areas.",
+    "partiesMeta": "Browse the parties and coalitions standing for Congress in the selected province and their available summaries.",
+    "partiesDescription": "Parties and coalitions standing for Congress in the selected province. Browse the available summaries.",
     "partyMeta": "Browse summaries for {party} by policy area.",
     "officialWebsite": "Official website of {party}",
     "officialWebsiteBadge": "Official website",
@@ -298,7 +308,7 @@
     "topicsMeta": "Explore the eight programme policy areas and browse available summaries by formation.",
     "topicsDescription": "Choose a policy area to see which summaries are available for each formation.",
     "topicMeta": "Check the availability of summaries on {topic} by formation.",
-    "topicDescription": "Check availability by formation. Each link opens that party’s summary for this policy area.",
+    "topicDescription": "Browse the parties standing in the selected province. Available links show their reviewed proposals for this policy area.",
     "pending": "Summary not yet available",
     "pendingDescription": "This section does not yet have a summary available.",
     "absenceNote": "The absence of a summary does not mean the party has no proposals.",
@@ -321,6 +331,8 @@
     "proposals": "Proposals",
     "copyLink": "Copy link to {title}",
     "linkCopied": "Link copied",
-    "copyError": "The link could not be copied. Select the field to copy it manually."
+    "copyError": "The link could not be copied. Select the field to copy it manually.",
+    "province": "Province",
+    "noProvinceMatches": "No matching province."
   }
 }

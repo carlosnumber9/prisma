@@ -2,7 +2,7 @@ import { ribbonRevealEase, ribbonRevealGeometry } from '../lib/ribbon-reveal';
 
 export function createRibbonReveal(
   definitions: SVGSVGElement,
-  link: HTMLAnchorElement,
+  link: HTMLElement,
   id: string,
   mirrored: boolean,
 ) {

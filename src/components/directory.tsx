@@ -3,6 +3,7 @@ import { NavigationLink } from './navigation-link';
 import styles from './portal.module.css';
 
 export type DirectoryEntry = {
+  id?: string;
   label: string;
   href: string;
   disabled?: boolean;
@@ -22,7 +23,7 @@ export function Directory({
   return (
     <ul className={columns ? styles.topicGrid : styles.directory}>
       {entries.map((entry) => (
-        <li key={entry.href}>
+        <li key={entry.id ?? entry.href}>
           <NavigationLink
             href={localizedPath(entry.href, locale)}
             disabled={entry.disabled}

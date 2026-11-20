@@ -11,6 +11,7 @@ import { HomeNavigation } from './home-navigation';
 import type { DirectoryEntry } from './directory';
 import { dictionaries, type Locale } from '../lib/i18n';
 import styles from './portal.module.css';
+import { useProvincialParties } from './province-state';
 
 export function HomeExperience({
   children,
@@ -23,6 +24,7 @@ export function HomeExperience({
   topics: DirectoryEntry[];
   parties: DirectoryEntry[];
 }) {
+  const provincialParties = useProvincialParties(parties);
   const root = useRef<HTMLDivElement>(null);
   const [active, setActive] = useState(false);
   const [prismFinished, setPrismFinished] = useState(false);
@@ -59,6 +61,10 @@ export function HomeExperience({
       const availableHeight = Math.max(
         1,
         element.clientHeight - headingBottom - 24,
+      );
+      element.style.setProperty(
+        '--home-navigation-max-height',
+        `${availableHeight}px`,
       );
       const scale = Math.min(1, availableHeight / unscaledHeight);
       const height = unscaledHeight * scale;
@@ -163,7 +169,7 @@ export function HomeExperience({
         <HomeNavigation
           locale={locale}
           topics={topics}
-          parties={parties}
+          parties={provincialParties}
           revealed={active}
           onRevealComplete={finishRibbons}
         />

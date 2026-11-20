@@ -1,7 +1,7 @@
 import { dictionaries, text, type Locale } from '../../../../lib/i18n';
 import { notFound } from 'next/navigation';
 import { Shell, PageHeader } from '../../../../components/shell';
-import { Directory } from '../../../../components/directory';
+import { ProvincialPartyDirectory } from '../../../../components/provincial-party-directory';
 import { content } from '../../../../lib/public-content';
 import { pageSeo } from '../../../../lib/seo';
 import { origin } from '../../../../lib/site';
@@ -36,13 +36,15 @@ export default async function TopicPage({ params }: Props) {
         title={topic.label[locale]}
         description={m.topicDescription}
       />
-      <Directory
+      <ProvincialPartyDirectory
         locale={locale}
-        entries={content.parties.map((party) => {
+        topicId={topic.id}
+        parties={content.parties.map((party) => {
           const synthesis = content.getSynthesis(party.id, topic.id)!;
           return {
             label: party.name,
             href: synthesis.path,
+            disabled: synthesis.points.length === 0,
           };
         })}
       />

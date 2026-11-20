@@ -104,6 +104,64 @@ for (const path of paths) {
     );
 }
 for (const locale of locales) {
+  const home = htmlByPath.get(localizedPath('/', locale));
+  const partySection = home.match(
+    /<section[^>]*aria-labelledby="parties-heading"[\s\S]*?<\/section>/,
+  )?.[0];
+  const madrid = readJson(
+    'content/generated-provincial/congress.json',
+  ).provinces.find((province) => province.id === '28');
+  assert.ok(
+    partySection,
+    'Home must expose its provincial party list before hydration',
+  );
+  assert.equal(
+    (partySection.match(/<li\b/g) ?? []).length,
+    madrid.parties.length,
+  );
+  assert.match(home, /role="combobox"/);
+  assert.match(home, /value="Madrid"/);
+  const directory = htmlByPath.get(localizedPath('/parties', locale));
+  const directoryMain = directory.match(/<main\b[\s\S]*?<\/main>/)?.[0];
+  const directoryList = directoryMain?.match(/<ul\b[\s\S]*?<\/ul>/)?.[0];
+  assert.ok(
+    directoryList,
+    'Party directory must expose its provincial list before hydration',
+  );
+  assert.equal(
+    (directoryList.match(/<li\b/g) ?? []).length,
+    madrid.parties.length,
+  );
+  for (const topic of repository.topics) {
+    const area = htmlByPath.get(localizedPath(topic.path, locale));
+    const areaMain = area.match(/<main\b[\s\S]*?<\/main>/)?.[0];
+    const areaList = areaMain?.match(/<ul\b[\s\S]*?<\/ul>/)?.[0];
+    assert.ok(areaList, `${topic.path}: missing provincial party list`);
+    assert.equal(
+      (areaList.match(/<li\b/g) ?? []).length,
+      madrid.parties.length,
+    );
+    let enabled = 0;
+    for (const entry of madrid.parties) {
+      if (!entry.programmeId) continue;
+      const synthesis = repository.getSynthesis(entry.programmeId, topic.id);
+      const available = !!synthesis?.points.length;
+      const destination = localizedPath(
+        `/parties/${entry.programmeId}/${topic.id}`,
+        locale,
+      );
+      assert.equal(
+        areaList.includes(`href="${destination}"`),
+        available,
+        `${topic.path}: reviewed proposals required for ${entry.id}`,
+      );
+      if (available) enabled++;
+    }
+    assert.equal(
+      (areaList.match(/<button\b[^>]*disabled=""/g) ?? []).length,
+      madrid.parties.length - enabled,
+    );
+  }
   for (const synthesis of repository.syntheses) {
     const html = htmlByPath.get(localizedPath(synthesis.path, locale));
     if (synthesis.reviewStatus === 'pending') {

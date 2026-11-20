@@ -1,6 +1,6 @@
 import { dictionaries, type Locale } from '../../../lib/i18n';
 import { Shell, PageHeader } from '../../../components/shell';
-import { Directory } from '../../../components/directory';
+import { ProvincialPartyDirectory } from '../../../components/provincial-party-directory';
 import { content } from '../../../lib/public-content';
 import { pageSeo } from '../../../lib/seo';
 import { origin } from '../../../lib/site';
@@ -18,9 +18,9 @@ export default async function PartiesPage({ params }: Props) {
   return (
     <Shell>
       <PageHeader title={m.parties} description={m.partiesDescription} />
-      <Directory
+      <ProvincialPartyDirectory
         locale={locale}
-        entries={content.parties.map((party) => ({
+        parties={content.parties.map((party) => ({
           label: party.name,
           href: `/parties/${party.id}`,
         }))}

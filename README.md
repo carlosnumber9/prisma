@@ -34,6 +34,8 @@ The language-picker visual trial shapes its options as progressively wider trape
 
 Party pages now place a full-width formation-coloured banner after the breadcrumb, with optional official typography and a compact official-website badge. The shared rally photograph is supplied at `public/images/party-rally.webp` and rendered at full opacity in black and white before applying a separate formation tint that preserves photo luminosity. Missing colours use light grey, and missing fonts use Mako. Empty areas are disabled without pending-summary captions. The political documentation skill now requests official colour and typeface evidence. Desktop and mobile checks against the existing local server verify photograph visibility; cross-browser verification remains pending. See [party banners](docs/portal.md#party-banners).
 
+The homepage now selects Congress candidatures by province using the BOE-backed 52-constituency inventory. It requests browser location on first home, party-directory or area-page entry, resolves coordinates locally with IGN boundaries and falls back to Madrid when location is denied, unavailable or outside the covered provinces. A searchable navbar selector supports manual changes; a manual choice survives locale reloads for the current tab. The home, party directory and each policy-area page list the same provincial formations and react to navbar province changes. Links open existing reviewed programmes; area links require approved proposals in that specific area. No candidate names or new routes are exposed. See [province selection](docs/portal.md#province-selection-and-home-candidatures).
+
 ## Working in this repository
 
 The portal pins Next.js and its ESLint configuration to 16.4.6 for the security update from 16.4.0. Its `experimental.agentUpgrade` policy is `security`; see [portal implementation](docs/portal.md).
@@ -60,7 +62,7 @@ npm run build
 
 ## Electoral research team
 
-The native Codex [research team](docs/research-factory.md) coordinates scoped official-source discovery, cited editorial JSON synthesis and independent QA using the existing editorial contracts. Candidate data stays outside the repository until reviewed; the provincial Congress presence dataset now has a scoped offline validator. Portal integration follows in the next delivery unit.
+The native Codex [research team](docs/research-factory.md) coordinates scoped official-source discovery, cited editorial JSON synthesis and independent QA using the existing editorial contracts. Candidate data stays outside the repository until reviewed; the provincial Congress presence dataset now has a scoped validator and a minimal homepage consumer. Other political-reference datasets remain research-only.
 
 The [11 November PP editorial review](content/reviews/2026-11-11-pp-programme-draft.md) records the preserved national programme and 24 approved proposals in all six languages. Comparison with the second official PDF remains pending.
 
@@ -78,7 +80,7 @@ The election is permanently the Spanish general election of 29 November 2026. Th
 - [`triage-suggestion`](.agents/skills/triage-suggestion/SKILL.md): review a user-supplied suggestion and agree on a correction, a tracking issue or a reasoned dismissal. Example: `Use $triage-suggestion to review this suggestion: [anonymised text]`.
 - [`document-political-info`](.agents/skills/document-political-info/SKILL.md): verify supplied political reference material online or research official sources directly, then save an explicitly accepted JSON batch covering formations, politicians and constituency candidatures. Example: `Use $document-political-info to research the official candidatures of [formation] for the general election of 29 November 2026, [chamber], in [constituencies]`.
 
-The programme and triage skills share the [editorial policy](docs/editorial-policy.md), [content contract](docs/content-contract.md) and [Git publication workflow](docs/git-workflow.md). Political reference research follows the same provenance and agreement principles with its own [data contract](.agents/skills/document-political-info/references/data-contract.md): evidence and reviews are separate from accepted files in `content/political-info/approved`. Political-reference sources and candidature reviews are preserved; the approved provincial Congress presence dataset now has a dedicated offline validator and public projection. Portal consumption follows in the next delivery unit. These skills do not read mail automatically or generate text during page loads.
+The programme and triage skills share the [editorial policy](docs/editorial-policy.md), [content contract](docs/content-contract.md) and [Git publication workflow](docs/git-workflow.md). Political reference research follows the same provenance and agreement principles with its own [data contract](.agents/skills/document-political-info/references/data-contract.md): evidence and reviews are separate from accepted files in `content/political-info/approved`. Political-reference sources and candidature reviews are preserved; the approved provincial Congress dataset is validated separately and projected for the homepage. This does not provide a general political-reference validator or public candidate directory. These skills do not read mail automatically or generate text during page loads.
 
 ```sh
 npm run content:generate

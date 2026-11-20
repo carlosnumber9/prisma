@@ -12,6 +12,7 @@ import {
 } from 'react';
 import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
 import { LanguageSelect } from './language-select';
+import { ProvinceSelect } from './province-select';
 import styles from './header-navigation.module.css';
 
 type Section = 'parties' | 'topics';
@@ -265,7 +266,10 @@ export function HeaderNavigation({
               </li>
             ))}
           </ul>
-          <LanguageSelect locale={locale} label={m.language} />
+          <div className={styles.preferences}>
+            <ProvinceSelect locale={locale} />
+            <LanguageSelect locale={locale} label={m.language} />
+          </div>
         </div>
       </div>
     </nav>

@@ -28,7 +28,7 @@ test('home ribbons expose complete localized links before client animation is in
     );
     assert.ok(html.includes(`href="/${locale}/topics/fixture"`));
     assert.ok(html.includes(`href="/${locale}/parties/fixture"`));
-    assert.ok(html.includes(dictionaries[locale].partyList));
+    assert.ok(html.includes(dictionaries[locale].byParty));
     assert.ok(html.includes('Synthetic area'));
     assert.ok(html.includes('Synthetic party'));
     assert.match(html, /<svg[^>]*aria-hidden="true"[^>]*focusable="false"/);
