@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { dictionaries, localizedPath, type Locale } from '../lib/i18n';
 import { useId, useLayoutEffect, useRef } from 'react';
 import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import type { DirectoryEntry } from './directory';
 import { NavigationLink } from './navigation-link';
 import { createRibbonReveal } from './ribbon-reveal';
@@ -14,10 +13,14 @@ export function HomeNavigation({
   topics,
   locale,
   parties,
+  revealed = true,
+  onRevealComplete,
 }: {
   topics: DirectoryEntry[];
   locale: Locale;
   parties: DirectoryEntry[];
+  revealed?: boolean;
+  onRevealComplete?: () => void;
 }) {
   const m = dictionaries[locale];
   const navigationRef = useRef<HTMLDivElement>(null);
@@ -27,9 +30,8 @@ export function HomeNavigation({
   useLayoutEffect(() => {
     const navigation = navigationRef.current;
     const definitions = definitionsRef.current;
-    if (!navigation || !definitions) return;
+    if (!navigation || !definitions || !revealed) return;
 
-    gsap.registerPlugin(ScrollTrigger);
     const media = gsap.matchMedia();
     media.add(
       {
@@ -37,7 +39,11 @@ export function HomeNavigation({
         wide: '(min-width: 1024px)',
       },
       (context) => {
-        if (!context.conditions?.motion) return;
+        if (!context.conditions?.motion) {
+          onRevealComplete?.();
+          return;
+        }
+        const entrance = gsap.timeline({ onComplete: onRevealComplete });
         const wide = context.conditions.wide;
         const cleanups: (() => void)[] = [];
         let maskIndex = 0;
@@ -50,13 +56,8 @@ export function HomeNavigation({
             const items = Array.from(section.querySelectorAll('li')).filter(
               (item) => !(wide && item.hasAttribute('data-compact-link')),
             );
-            const timeline = gsap.timeline({
-              scrollTrigger: {
-                trigger: section,
-                start: 'clamp(top 85%)',
-                once: true,
-              },
-            });
+            const timeline = gsap.timeline();
+            entrance.add(timeline, 0);
 
             timeline.from(heading, {
               opacity: 0,
@@ -160,10 +161,10 @@ export function HomeNavigation({
     );
 
     return () => media.revert();
-  }, [revealId]);
+  }, [revealId, revealed, onRevealComplete]);
 
   return (
-    <div ref={navigationRef} className={styles.navigation}>
+    <div id="home-navigation" ref={navigationRef} className={styles.navigation}>
       <svg
         ref={definitionsRef}
         className={styles.revealDefinitions}

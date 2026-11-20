@@ -1,7 +1,7 @@
 import { dictionaries, type Locale } from '../../lib/i18n';
 import Image from 'next/image';
 import { Shell } from '../../components/shell';
-import { HomeNavigation } from '../../components/home-navigation';
+import { HomeExperience } from '../../components/home-experience';
 import { PrismBackground } from '../../components/prism-background';
 import styles from '../../components/portal.module.css';
 import { content } from '../../lib/public-content';
@@ -23,28 +23,7 @@ export default async function HomePage({ params }: Props) {
   const m = dictionaries[locale];
   return (
     <Shell background={<PrismBackground anchorId="prism-anchor" />}>
-      <section className={styles.homeIntro} aria-labelledby="prism-title">
-        <div className={styles.homeComposition}>
-          <h1 id="prism-title">{m.hero}</h1>
-          <div
-            id="prism-anchor"
-            className={styles.prismAnchor}
-            aria-hidden="true"
-          >
-            <Image
-              className={styles.prismPoster}
-              src="/prism-poster.png"
-              alt=""
-              width={1440}
-              height={720}
-              priority
-              unoptimized
-            />
-          </div>
-          <p className={styles.homeSubtitle}>{m.intro}</p>
-        </div>
-      </section>
-      <HomeNavigation
+      <HomeExperience
         locale={locale}
         parties={content.parties.map((party) => ({
           label: party.name,
@@ -54,7 +33,31 @@ export default async function HomePage({ params }: Props) {
           label: topic.label[locale],
           href: topic.path,
         }))}
-      />
+      >
+        <section className={styles.homeIntro} aria-labelledby="prism-title">
+          <div className={styles.homeComposition}>
+            <h1 id="prism-title">{m.hero}</h1>
+            <div
+              id="prism-anchor"
+              className={styles.prismAnchor}
+              aria-hidden="true"
+            >
+              <Image
+                className={styles.prismPoster}
+                src="/prism-poster.png"
+                alt=""
+                width={1440}
+                height={720}
+                priority
+                unoptimized
+              />
+            </div>
+            <p className={styles.homeSubtitle} data-home-subtitle>
+              {m.intro}
+            </p>
+          </div>
+        </section>
+      </HomeExperience>
     </Shell>
   );
 }

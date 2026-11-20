@@ -42,9 +42,11 @@ export async function startPrism(
     const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
     const canvasSurface = surface(gpu, canvas, { dpr: [1, 1.5] });
     const measureScene = () => {
-      const bounds = canvas.getBoundingClientRect();
+      const bounds =
+        canvas.parentElement?.getBoundingClientRect() ??
+        canvas.getBoundingClientRect();
       const reference = anchor.getBoundingClientRect();
-      const height = Math.max(bounds.height, 1);
+      const height = Math.max(canvas.clientHeight, 1);
       // The layout anchor reserves the central half of the shader's image height.
       const worldUnitsPerPixel = 3.65 / Math.max(reference.height * 2, 1);
       return {
