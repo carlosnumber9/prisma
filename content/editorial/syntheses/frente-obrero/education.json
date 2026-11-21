@@ -1,0 +1,119 @@
+{
+  "id": "frente-obrero--education",
+  "partyId": "frente-obrero",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-free-education",
+      "title": {
+        "es": "Gratuidad para rentas bajas",
+        "ca": "Gratuïtat per a rendes baixes",
+        "gl": "Gratuidade para rendas baixas",
+        "eu": "Doakotasuna errenta baxuentzat",
+        "oc": "Gratuïtat entà rendes baishes",
+        "en": "Free education for low incomes"
+      },
+      "text": {
+        "es": "Ofrecer educación gratuita en todos los niveles académicos, incluidos los superiores, para las rentas más bajas, y becas para compatibilizar formación y trabajo o atender necesidades especiales.",
+        "ca": "Oferir educació gratuïta en tots els nivells acadèmics, inclosos els superiors, per a les rendes més baixes, i beques per compatibilitzar formació i feina o atendre necessitats especials.",
+        "gl": "Ofrecer educación gratuíta en todos os niveis académicos, incluídos os superiores, para as rendas máis baixas, e bolsas para compatibilizar formación e traballo ou atender necesidades especiais.",
+        "eu": "Errenta baxuenentzat hezkuntza doan eskaintzea maila akademiko guztietan, goi mailak barne, eta bekak ematea ikasketak eta lana uztartzeko edo behar bereziei erantzuteko.",
+        "oc": "Auferir educacion gratuïta en toti es nivèus academics, includidi es superiors, entàs rendes mès baishes, e borses entà compatibilizar formacion e trabalh o atier besonhs especiaus.",
+        "en": "Offer free education at all academic levels, including higher education, for the lowest incomes, with grants to combine study and work or address special needs."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-22",
+          "quote": "1. Ofrecer una educación gratuita en todos los niveles académicos, incluidos los su - periores para las rentas más bajas. Implementación de un sistema de becas que sirva de apoyo para compaginar la formación con la vida laboral o condiciones de especial necesidad."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-free-school-meals",
+      "title": {
+        "es": "Comedor escolar gratuito",
+        "ca": "Menjador escolar gratuït",
+        "gl": "Comedor escolar gratuíto",
+        "eu": "Doako eskola jantokia",
+        "oc": "Minjador escolar gratuït",
+        "en": "Free school meals"
+      },
+      "text": {
+        "es": "Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
+        "ca": "Oferir menjador escolar gratuït per facilitar la conciliació familiar i fomentar hàbits alimentaris saludables.",
+        "gl": "Ofrecer comedor escolar gratuíto para facilitar a conciliación familiar e fomentar hábitos alimentarios saudables.",
+        "eu": "Doako eskola jantokia eskaintzea, familia eta lana uztartzea errazteko eta elikadura ohitura osasungarriak sustatzeko.",
+        "oc": "Auferir minjador escolar gratuït entà facilitar era conciliacion familhau e fomentar abituds alimentaris saludables.",
+        "en": "Offer free school meals to facilitate family life and promote healthy eating habits."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-22",
+          "quote": "2. Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-private-school-subsidies",
+      "title": {
+        "es": "Financiación de la escuela pública",
+        "ca": "Finançament de l'escola pública",
+        "gl": "Financiamento da escola pública",
+        "eu": "Eskola publikoaren finantzaketa",
+        "oc": "Finançament dera escòla publica",
+        "en": "Public school funding"
+      },
+      "text": {
+        "es": "Eliminar las subvenciones a la escuela privada para fortalecer el sistema público de educación.",
+        "ca": "Eliminar les subvencions a l'escola privada per enfortir el sistema públic d'educació.",
+        "gl": "Eliminar as subvencións á escola privada para fortalecer o sistema público de educación.",
+        "eu": "Eskola pribatuentzako dirulaguntzak kentzea, hezkuntza sistema publikoa indartzeko.",
+        "oc": "Eliminar es subvencions ara escòla privada entà enfortir eth sistèma public d'educacion.",
+        "en": "End subsidies to private schools to strengthen the public education system."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-22",
+          "quote": "4. Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-paid-placements",
+      "title": {
+        "es": "Prácticas remuneradas",
+        "ca": "Pràctiques remunerades",
+        "gl": "Prácticas remuneradas",
+        "eu": "Ordaindutako praktikak",
+        "oc": "Practiques remunerades",
+        "en": "Paid placements"
+      },
+      "text": {
+        "es": "Remunerar las prácticas de formación profesional y universidad según el trabajo desarrollado, sin excepciones.",
+        "ca": "Remunerar les pràctiques de formació professional i universitat segons la feina desenvolupada, sense excepcions.",
+        "gl": "Remunerar as prácticas de formación profesional e universidade segundo o traballo desenvolvido, sen excepcións.",
+        "eu": "Lanbide heziketako eta unibertsitateko praktikak egindako lanaren arabera ordaintzea, salbuespenik gabe.",
+        "oc": "Remunerar es practiques de formacion professionau e universitat segontes eth trabalh hèt, sense excepcions.",
+        "en": "Pay for vocational and university placements according to work performed, without exceptions."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-22",
+          "quote": "6. Ofrecer prácticas de formación profesional y universidad remuneradas en base al trabajo desarrollado, sin excepciones."
+        }
+      ]
+    }
+  ]
+}

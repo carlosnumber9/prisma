@@ -1,0 +1,119 @@
+{
+  "id": "frente-obrero--healthcare",
+  "partyId": "frente-obrero",
+  "topicId": "healthcare",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-unified-public-healthcare",
+      "title": {
+        "es": "Sanidad pública unificada",
+        "ca": "Sanitat pública unificada",
+        "gl": "Sanidade pública unificada",
+        "eu": "Osasun publiko bateratua",
+        "oc": "Sanitat publica unificada",
+        "en": "Unified public healthcare"
+      },
+      "text": {
+        "es": "Centralizar, unificar y homogeneizar el sistema nacional de salud, y acabar con su externalización y privatización.",
+        "ca": "Centralitzar, unificar i homogeneïtzar el sistema nacional de salut, i acabar amb la seva externalització i privatització.",
+        "gl": "Centralizar, unificar e homoxeneizar o sistema nacional de saúde, e acabar coa súa externalización e privatización.",
+        "eu": "Osasun sistema nazionala zentralizatzea, bateratzea eta homogeneizatzea, eta haren kanporatzea eta pribatizazioa amaitzea.",
+        "oc": "Centralizar, unificar e omogeneïzar eth sistèma nacionau de salut, e acabar damb era sua externalizacion e privatizacion.",
+        "en": "Centralise, unify and standardise the national health system, and end its outsourcing and privatisation."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-42",
+          "quote": "Centralizar, unificar y homogeneizar el sistema nacional de salud. Acabar con el proceso de externalización y privatización de la sanidad. Mayor control sobre la actuación de las mutuas y protección de los trabajadores frente a las reclamacio- nes contra estas."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-primary-care",
+      "title": {
+        "es": "Más atención primaria",
+        "ca": "Més atenció primària",
+        "gl": "Máis atención primaria",
+        "eu": "Lehen mailako arreta gehiago",
+        "oc": "Mès atencion primària",
+        "en": "More primary care"
+      },
+      "text": {
+        "es": "Crear más centros de atención primaria con los medios necesarios, especialmente en zonas rurales y barrios obreros.",
+        "ca": "Crear més centres d'atenció primària amb els mitjans necessaris, especialment en zones rurals i barris obrers.",
+        "gl": "Crear máis centros de atención primaria cos medios necesarios, especialmente en zonas rurais e barrios obreiros.",
+        "eu": "Lehen mailako arretako zentro gehiago sortzea beharrezko baliabideekin, bereziki landa eremuetan eta langile auzoetan.",
+        "oc": "Crear mès centres d'atencion primària damb es mejans de besonh, especiaument en zònes ruraus e barris obrèrs.",
+        "en": "Provide more primary care centres with the necessary resources, especially in rural areas and working-class neighbourhoods."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-42",
+          "quote": "2. Dotar al sistema nacional de salud de más centros de atención primaria con los re- cursos y medios necesarios, en especial en las zonas rurales y barrios obreros."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-free-dental-physio-eye-care",
+      "title": {
+        "es": "Nuevas prestaciones gratuitas",
+        "ca": "Noves prestacions gratuïtes",
+        "gl": "Novas prestacións gratuítas",
+        "eu": "Doako prestazio berriak",
+        "oc": "Naues prestacions gratuïtes",
+        "en": "New free services"
+      },
+      "text": {
+        "es": "Crear la estructura necesaria para garantizar cuidados y tratamientos bucodentales, fisioterapéuticos y oftalmológicos gratuitos.",
+        "ca": "Crear l'estructura necessària per garantir cures i tractaments bucodentals, fisioterapèutics i oftalmològics gratuïts.",
+        "gl": "Crear a estrutura necesaria para garantir coidados e tratamentos bucodentais, fisioterapéuticos e oftalmolóxicos gratuítos.",
+        "eu": "Aho eta hortzetako, fisioterapiako eta oftalmologiako arreta eta tratamenduak doan bermatzeko beharrezko egitura sortzea.",
+        "oc": "Crear era estructura de besonh entà garantir suenhs e tractaments bucodentaus, fisioterapeutics e oftalmologics gratuïts.",
+        "en": "Create the necessary structure to ensure free dental, physiotherapy and ophthalmological care and treatment."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-42",
+          "quote": "4. Implantar la estructura adecuada para asegurar el cuidado y tratamiento bucoden- tal, fisioterapéutico y oftalmológico gratuito."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-prescription-medicines",
+      "title": {
+        "es": "Medicamentos e industria farmacéutica",
+        "ca": "Medicaments i indústria farmacèutica",
+        "gl": "Medicamentos e industria farmacéutica",
+        "eu": "Sendagaiak eta industria farmazeutikoa",
+        "oc": "Medicaments e indústria farmaceutica",
+        "en": "Medicines and pharmaceutical industry"
+      },
+      "text": {
+        "es": "Abaratar los medicamentos con receta y tender a su gratuidad en casos de especial necesidad; desarrollar una industria farmacéutica nacional.",
+        "ca": "Abaratir els medicaments amb recepta i tendir a la gratuïtat en casos d'especial necessitat; desenvolupar una indústria farmacèutica nacional.",
+        "gl": "Abaratar os medicamentos con receita e tender á súa gratuidade en casos de especial necesidade; desenvolver unha industria farmacéutica nacional.",
+        "eu": "Errezetadun sendagaiak merkatzea eta behar bereziko kasuetan doakotasunerantz jotzea; industria farmazeutiko nazionala garatzea.",
+        "oc": "Abaishar eth prètz des medicaments damb recèpta e ténder ara gratuïtat en casi de besonh especiau; desvolopar ua indústria farmaceutica nacionau.",
+        "en": "Make prescription medicines cheaper and move towards free access in cases of special need; develop a national pharmaceutical industry."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-43",
+          "quote": "8. Abaratar el acceso a medicamentos con receta y tender a su gratuidad en casos de especial necesidad. Desarrollar una industria farmacéutica nacional que permita romper con la dependencia de grandes corporaciones privadas."
+        }
+      ]
+    }
+  ]
+}

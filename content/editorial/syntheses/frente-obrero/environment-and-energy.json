@@ -1,0 +1,119 @@
+{
+  "id": "frente-obrero--environment-and-energy",
+  "partyId": "frente-obrero",
+  "topicId": "environment-and-energy",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-end-ecological-transition",
+      "title": {
+        "es": "Fin de la «transición ecológica»",
+        "ca": "Fi de la «transició ecològica»",
+        "gl": "Fin da «transición ecolóxica»",
+        "eu": "«Trantsizio ekologikoa» amaitzea",
+        "oc": "Fin dera «transicion ecologica»",
+        "en": "End the «ecological transition»"
+      },
+      "text": {
+        "es": "Poner fin a la llamada «transición ecológica», que el programa vincula al desmantelamiento productivo y a las restricciones de la Unión Europea.",
+        "ca": "Posar fi a l'anomenada «transició ecològica», que el programa vincula al desmantellament productiu i a les restriccions de la Unió Europea.",
+        "gl": "Poñer fin á chamada «transición ecolóxica», que o programa vincula ao desmantelamento produtivo e ás restricións da Unión Europea.",
+        "eu": "«Trantsizio ekologikoa» deitutakoa amaitzea; programak ekoizpen gaitasuna desegitearekin eta Europar Batasunaren murrizketekin lotzen du.",
+        "oc": "Meter fin ara nomentada «transicion ecologica», qu'eth programa restaque ath desmantelament productiu e as restriccions dera Union Europèa.",
+        "en": "End the so-called «ecological transition», which the programme links to dismantling productive capacity and European Union restrictions."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-15",
+          "quote": "1. Poner fin a la llamada “transición ecológica”, la cual permite el desmantelamiento de la capacidad productiva del país y el sometimiento a las políticas restrictivas de la Unión Europea."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-energy-price-regulation",
+      "title": {
+        "es": "Regulación de luz y combustibles",
+        "ca": "Regulació de llum i combustibles",
+        "gl": "Regulación de luz e combustibles",
+        "eu": "Argindarraren eta erregaien erregulazioa",
+        "oc": "Regulacion dera lum e des combustibles",
+        "en": "Electricity and fuel regulation"
+      },
+      "text": {
+        "es": "Regular inmediatamente la factura de la luz y de los combustibles.",
+        "ca": "Regular immediatament la factura de la llum i dels combustibles.",
+        "gl": "Regular inmediatamente a factura da luz e dos combustibles.",
+        "eu": "Argindarraren eta erregaien fakturak berehala arautzea.",
+        "oc": "Regular immediatament era factura dera lum e des combustibles.",
+        "en": "Immediately regulate electricity and fuel bills."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-16",
+          "quote": "2. La regulación inmediata de la factura de la luz y de los combustibles. Las familias españolas no pueden seguir pagando los precios abusivos impuestos por empresas que especulan con la energía, así como con el precio de los combustibles, inflados por los costosos impuestos que los regulan."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-nuclear-and-renewables",
+      "title": {
+        "es": "Nuclear con renovables complementarias",
+        "ca": "Nuclear amb renovables complementàries",
+        "gl": "Nuclear con renovables complementarias",
+        "eu": "Nuklearra eta berriztagarri osagarriak",
+        "oc": "Nucleara damb renovables complementàries",
+        "en": "Nuclear with complementary renewables"
+      },
+      "text": {
+        "es": "Ampliar y modernizar el parque nuclear, poner en marcha plantas y explotar el uranio nacional; apoyar las renovables como complemento e invertir en su investigación y desarrollo.",
+        "ca": "Ampliar i modernitzar el parc nuclear, posar en marxa plantes i explotar l'urani nacional; donar suport a les renovables com a complement i invertir en la seva recerca i desenvolupament.",
+        "gl": "Ampliar e modernizar o parque nuclear, poñer en marcha plantas e explotar o uranio nacional; apoiar as renovables como complemento e investir na súa investigación e desenvolvemento.",
+        "eu": "Parke nuklearra handitu eta modernizatzea, zentralak martxan jartzea eta uranio nazionala ustiatzea; berriztagarriak osagarri gisa babestea eta haien ikerketan eta garapenean inbertitzea.",
+        "oc": "Ampliar e modernizar eth parc nuclear, meter en marcha plantes e explotar er urani nacionau; sostier es renovables coma complement e invertir ena sua recèrca e desvolopament.",
+        "en": "Expand and modernise the nuclear fleet, bring plants into operation and exploit domestic uranium; support renewables as a complement and invest in their research and development."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-16",
+          "quote": "5. Apuesta por la energía nuclear, como fuente de energía fiable, estable y controla - ble. Aumentar la inversión para la puesta en marcha y modernización de las plantas nucleares del país. Ampliación del parque nuclear e igualmente se explotarán los recursos nacionales de uranio. 6. Apoyar la producción basada en fuentes de energías renovables como complemen- to a la nuclear. Aumentar la inversión en la investigación y desarrollo de las nuevas y también existentes tecnologías para la producción con fuentes renovables."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-biodiversity-recovery",
+      "title": {
+        "es": "Biodiversidad y especies amenazadas",
+        "ca": "Biodiversitat i espècies amenaçades",
+        "gl": "Biodiversidade e especies ameazadas",
+        "eu": "Biodibertsitatea eta espezie mehatxatuak",
+        "oc": "Biodiversitat e espècies menaçades",
+        "en": "Biodiversity and threatened species"
+      },
+      "text": {
+        "es": "Elaborar planes para recuperar la biodiversidad y el patrimonio natural, proteger especies en peligro y prevenir y reducir el impacto de las invasoras.",
+        "ca": "Elaborar plans per recuperar la biodiversitat i el patrimoni natural, protegir espècies en perill i prevenir i reduir l'impacte de les invasores.",
+        "gl": "Elaborar plans para recuperar a biodiversidade e o patrimonio natural, protexer especies en perigo e previr e reducir o impacto das invasoras.",
+        "eu": "Biodibertsitatea eta natura ondarea berreskuratzeko planak egitea, arriskuan dauden espezieak babestea eta inbaditzaileen eragina prebenitzea eta murriztea.",
+        "oc": "Elaborar plans entà recuperar era biodiversitat e eth patrimòni naturau, protegir espècies en perilh e previer e redusir er impacte des invasores.",
+        "en": "Prepare plans to restore biodiversity and natural heritage, protect endangered species and prevent and reduce invasive species' impact."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-38",
+          "quote": "9. Elaborar planes de recuperación de la biodiversidad y del patrimonio natural. Pro - teger incansablemente especies en peligro de extinción y luchar por prevenir y re - ducir el impacto de las especies invasoras."
+        }
+      ]
+    }
+  ]
+}

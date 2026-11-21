@@ -21,5 +21,10 @@
     "name": "Podemos",
     "officialWebsite": "https://podemos.info/"
   },
-  { "id": "frente-amplio", "name": "Frente Amplio", "officialWebsite": null }
+  { "id": "frente-amplio", "name": "Frente Amplio", "officialWebsite": null },
+  {
+    "id": "frente-obrero",
+    "name": "Frente Obrero",
+    "officialWebsite": "https://frenteobrero.es/"
+  }
 ]

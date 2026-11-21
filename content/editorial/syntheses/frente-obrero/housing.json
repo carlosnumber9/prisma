@@ -1,0 +1,146 @@
+{
+  "id": "frente-obrero--housing",
+  "partyId": "frente-obrero",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-public-housing",
+      "title": {
+        "es": "Vivienda pública",
+        "ca": "Habitatge públic",
+        "gl": "Vivenda pública",
+        "eu": "Etxebizitza publikoa",
+        "oc": "Abitatge public",
+        "en": "Public housing"
+      },
+      "text": {
+        "es": "Construir vivienda pública de calidad para que los trabajadores accedan a una vivienda digna y asequible.",
+        "ca": "Construir habitatge públic de qualitat perquè els treballadors accedeixin a un habitatge digne i assequible.",
+        "gl": "Construír vivenda pública de calidade para que os traballadores accedan a unha vivenda digna e accesible economicamente.",
+        "eu": "Kalitatezko etxebizitza publikoak eraikitzea, langileek etxebizitza duina eta ekonomikoki eskuragarria izan dezaten.",
+        "oc": "Bastir abitatge public de qualitat entà qu'es trabalhadors accedisquen a un abitatge digne e economicament accessible.",
+        "en": "Build quality public housing so workers can access decent, affordable homes."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-45",
+          "quote": "Construir vivienda pública de calidad para aumentar el número de inmuebles existen- tes y lograr que los trabajadores puedan acceder a una vivienda digna y asequible económicamente."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-housing-speculation",
+      "title": {
+        "es": "Especulación y pisos turísticos",
+        "ca": "Especulació i pisos turístics",
+        "gl": "Especulación e pisos turísticos",
+        "eu": "Espekulazioa eta turismo etxebizitzak",
+        "oc": "Especulacion e apartaments toristics",
+        "en": "Speculation and tourist rentals"
+      },
+      "text": {
+        "es": "Combatir la especulación de bancos, fondos buitre y grandes rentistas, y frenar la gentrificación y el auge de los pisos turísticos.",
+        "ca": "Combatre l'especulació de bancs, fons voltor i grans rendistes, i frenar la gentrificació i l'auge dels pisos turístics.",
+        "gl": "Combater a especulación de bancos, fondos voitre e grandes rendistas, e frear a xentrificación e o auxe dos pisos turísticos.",
+        "eu": "Bankuen, funts putreen eta errentadun handien espekulazioari aurre egitea, eta gentrifikazioa eta turismo etxebizitzen gorakada geldiaraztea.",
+        "oc": "Combàter era especulacion de bancs, hons voltor e grani rendistes, e frenar era gentrificacion e er aument des apartaments toristics.",
+        "en": "Combat speculation by banks, vulture funds and large rentiers, and curb gentrification and the growth of tourist rentals."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-46",
+          "quote": "Luchar contra la especulación de bancos, fondos buitre y grandes rentistas; la vivien- da no es una mercancía con la que hacer negocio. Aplicar medidas que detengan la gentrificación, el auge de los pisos turísticos y las consecuencias negativas del turismo destructivo."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-eviction-suspension",
+      "title": {
+        "es": "Desahucios y alternativa habitacional",
+        "ca": "Desnonaments i alternativa d'habitatge",
+        "gl": "Desafiuzamentos e alternativa habitacional",
+        "eu": "Etxegabetzeak eta bizitoki alternatiboa",
+        "oc": "Deslotjaments e alternativa d'abitatge",
+        "en": "Evictions and alternative housing"
+      },
+      "text": {
+        "es": "Paralizar inmediatamente los desahucios de familias trabajadoras vulnerables que no puedan pagar alquiler o hipoteca hasta encontrar una alternativa habitacional.",
+        "ca": "Aturar immediatament els desnonaments de famílies treballadores vulnerables que no puguin pagar el lloguer o la hipoteca fins a trobar una alternativa d'habitatge.",
+        "gl": "Paralizar inmediatamente os desafiuzamentos de familias traballadoras vulnerables que non poidan pagar o alugueiro ou a hipoteca ata atopar unha alternativa habitacional.",
+        "eu": "Alokairua edo hipoteka ordaindu ezin duten langile familia zaurgarrien etxegabetzeak berehala geldiaraztea, bizitoki alternatiboa aurkitu arte.",
+        "oc": "Arturar immediatament es deslotjaments de familhes trabalhadores vulnerables que non poguen pagar eth loguèr o era ipotèca enquia trobar ua alternativa d'abitatge.",
+        "en": "Immediately suspend evictions of vulnerable working families unable to pay rent or mortgages until alternative housing is found."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-46",
+          "quote": "Paralizar inmediatamente todos los procesos de desahucio de las familias trabajado - ras en situación de vulnerabilidad que no pueden hacer frente al pago del alquiler/ hipoteca hasta encontrar una alternativa habitacional. Se deben conceder segundas oportunidades para deudas hipotecarias y garantizar la posibilidad de dación en pago en todas las situaciones."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-private-home-occupation",
+      "title": {
+        "es": "Ocupación de viviendas particulares",
+        "ca": "Ocupació d'habitatges particulars",
+        "gl": "Ocupación de vivendas particulares",
+        "eu": "Partikularren etxebizitzen okupazioa",
+        "oc": "Ocupacion d'abitatges particulars",
+        "en": "Occupation of privately owned homes"
+      },
+      "text": {
+        "es": "Actuar contra las mafias de la ocupación y los narcopisos, no permitir en ningún caso la ocupación de viviendas de particulares y actuar contra los «inquiokupas» que practican la estafa.",
+        "ca": "Actuar contra les màfies de l'ocupació i els narcopisos, no permetre en cap cas l'ocupació d'habitatges de particulars i actuar contra els «inquiokupas» que practiquen l'estafa.",
+        "gl": "Actuar contra as mafias da ocupación e os narcopisos, non permitir en ningún caso a ocupación de vivendas de particulares e actuar contra os «inquiokupas» que practican a estafa.",
+        "eu": "Okupazio mafien eta droga pisuen aurka jardutea, partikularren etxebizitzen okupazioa inolaz ere ez onartzea eta iruzurra egiten duten «inquiokupas» direlakoen aurka jardutea.",
+        "oc": "Actuar contra es màfies dera ocupacion e es narcopisos, non perméter en cap cas era ocupacion d'abitatges de particulars e actuar contra es «inquiokupas» que practiquen era estafa.",
+        "en": "Act against occupation mafias and drug flats, never permit occupation of individuals' homes, and act against «inquiokupas» who engage in fraud."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-46",
+          "quote": "Luchar por terminar con las mafias de la ocupación y de la delincuencia relacionada con el uso indebido de inmuebles, acabando con la lacra de los narcopisos. Se actua- rá a su vez contra la ocupación de viviendas de particulares, que no debe ser permi - tida en ningún caso. También se actuará contra los inquiokupas, que han hecho de la estafa su modo de vida."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-native-spaniards-housing",
+      "title": {
+        "es": "Acceso de españoles autóctonos",
+        "ca": "Accés dels espanyols autòctons",
+        "gl": "Acceso dos españois autóctonos",
+        "eu": "Espainiar autoktonoen sarbidea",
+        "oc": "Accès des espanhòus autoctòns",
+        "en": "Access for native Spaniards"
+      },
+      "text": {
+        "es": "Orientar el acceso a la vivienda pública hacia los «españoles autóctonos», según la expresión del programa.",
+        "ca": "Orientar l'accés a l'habitatge públic cap als «españoles autóctonos», segons l'expressió del programa.",
+        "gl": "Orientar o acceso á vivenda pública cara aos «españoles autóctonos», segundo a expresión do programa.",
+        "eu": "Etxebizitza publikorako sarbidea «españoles autóctonos» deitutakoengana bideratzea, programaren adierazpenaren arabera.",
+        "oc": "Orientar er accès ar abitatge public entàs «españoles autóctonos», segontes era expression deth programa.",
+        "en": "Direct access to public housing towards people described as «españoles autóctonos» (native Spaniards), using the programme's wording."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-46",
+          "quote": "Enfocar el acceso a la vivienda pública hacia los españoles autóctonos. No permitir que suceda como con las ayudas, que, como se ha visto en el programa, también de- ben cambiar, pues se suele priorizar al extranjero."
+        }
+      ]
+    }
+  ]
+}

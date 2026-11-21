@@ -2473,6 +2473,94 @@
       ]
     },
     {
+      "id": "frente-obrero--economy-and-taxes",
+      "partyId": "frente-obrero",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/frente-obrero/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "frente-obrero--education",
+      "partyId": "frente-obrero",
+      "topicId": "education",
+      "path": "/parties/frente-obrero/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "frente-obrero--employment",
+      "partyId": "frente-obrero",
+      "topicId": "employment",
+      "path": "/parties/frente-obrero/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "frente-obrero--environment-and-energy",
+      "partyId": "frente-obrero",
+      "topicId": "environment-and-energy",
+      "path": "/parties/frente-obrero/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "frente-obrero--healthcare",
+      "partyId": "frente-obrero",
+      "topicId": "healthcare",
+      "path": "/parties/frente-obrero/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "frente-obrero--housing",
+      "partyId": "frente-obrero",
+      "topicId": "housing",
+      "path": "/parties/frente-obrero/housing",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "frente-obrero--institutions-and-rights",
+      "partyId": "frente-obrero",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/frente-obrero/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "frente-obrero--pensions-and-social-protection",
+      "partyId": "frente-obrero",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/frente-obrero/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
       "id": "podemos--economy-and-taxes",
       "partyId": "podemos",
       "topicId": "economy-and-taxes",

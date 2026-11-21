@@ -1,0 +1,146 @@
+{
+  "id": "frente-obrero--economy-and-taxes",
+  "partyId": "frente-obrero",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-strategic-industries",
+      "title": {
+        "es": "Industria y sectores estratégicos",
+        "ca": "Indústria i sectors estratègics",
+        "gl": "Industria e sectores estratéxicos",
+        "eu": "Industria eta sektore estrategikoak",
+        "oc": "Indústria e sectors estrategics",
+        "en": "Industry and strategic sectors"
+      },
+      "text": {
+        "es": "Reindustrializar España priorizando las industrias estratégicas y los recursos nacionales, con una estrategia independiente de Bruselas, y nacionalizar los sectores estratégicos de la economía.",
+        "ca": "Reindustrialitzar Espanya prioritzant les indústries estratègiques i els recursos nacionals, amb una estratègia independent de Brussel·les, i nacionalitzar els sectors estratègics de l'economia.",
+        "gl": "Reindustrializar España priorizando as industrias estratéxicas e os recursos nacionais, cunha estratexia independente de Bruxelas, e nacionalizar os sectores estratéxicos da economía.",
+        "eu": "Espainia berrindustrializatzea, industria estrategikoak eta baliabide nazionalak lehenetsiz, Bruselarekiko estrategia independentearekin, eta ekonomiaren sektore estrategikoak nazionalizatzea.",
+        "oc": "Reindustrializar Espanha priorizant es indústries estrategiques e es recorsi nacionaus, damb ua estrategia independenta de Brussèlles, e nacionalizar es sectors estrategics dera economia.",
+        "en": "Reindustrialise Spain, prioritising strategic industries and national resources, with a strategy independent of Brussels, and nationalise strategic sectors of the economy."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-13",
+          "quote": "1. Reindustrialización del país, priorizando el desarrollo de industrias estratégicas y que exploten los recursos con los que cuenta España. 2. Desarrollar una estrategia independiente de desarrollo industrial, que ponga fin a las imposiciones de Bruselas en beneficio de otras potencias. 3. Nacionalización de los sectores estratégicos de la economía. Fuerte intervención para priorizar los intereses de los españoles."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-income-tax",
+      "title": {
+        "es": "IRPF según renta",
+        "ca": "IRPF segons renda",
+        "gl": "IRPF segundo a renda",
+        "eu": "Errentaren araberako zerga",
+        "oc": "IRPF segontes era renda",
+        "en": "Income tax by income level"
+      },
+      "text": {
+        "es": "Reducir el impuesto sobre la renta a los trabajadores con menos recursos y aumentarlo para las rentas más altas, ampliando los tramos y elevando los tipos.",
+        "ca": "Reduir l'impost sobre la renda als treballadors amb menys recursos i augmentar-lo per a les rendes més altes, ampliant els trams i elevant els tipus.",
+        "gl": "Reducir o imposto sobre a renda aos traballadores con menos recursos e aumentalo para as rendas máis altas, ampliando os tramos e elevando os tipos.",
+        "eu": "Baliabide gutxien dituzten langileen errenta zerga jaistea eta errenta altuenentzat igotzea, tarteak zabalduz eta zerga tasak handituz.",
+        "oc": "Redusir er impòst sus era renda as trabalhadors damb mens recorsi e aumentar-lo entàs rendes mès nautes, ampliant es trams e pujant es tipes.",
+        "en": "Reduce income tax for workers with fewer resources and increase it for the highest incomes by expanding bands and raising rates."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-18",
+          "quote": "1. Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-essential-goods-vat",
+      "title": {
+        "es": "IVA de productos básicos",
+        "ca": "IVA de productes bàsics",
+        "gl": "IVE de produtos básicos",
+        "eu": "Oinarrizko ondasunen BEZa",
+        "oc": "IVA de productes basics",
+        "en": "VAT on essential goods"
+      },
+      "text": {
+        "es": "Reducir la carga del IVA e incorporar progresivamente todas las mercancías de primera necesidad al tipo superreducido.",
+        "ca": "Reduir la càrrega de l'IVA i incorporar progressivament totes les mercaderies de primera necessitat al tipus superreduït.",
+        "gl": "Reducir a carga do IVE e incorporar progresivamente todas as mercadorías de primeira necesidade ao tipo superreducido.",
+        "eu": "BEZaren zama murriztea eta premiazko ondasun guztiak pixkanaka tasa oso murriztuan sartzea.",
+        "oc": "Redusir era carga der IVA e incorporar progressivament totes es mercaderies de prumèra necessitat ath tipe superredusit.",
+        "en": "Reduce the VAT burden and gradually include all essential goods in the super-reduced rate."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-18",
+          "quote": "3. Disminuir la carga fiscal del IVA e incorporar de forma progresiva todas las mercan- cías de primera necesidad en el tipo superreducido."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-inheritance-wealth-tax",
+      "title": {
+        "es": "Sucesiones y patrimonio",
+        "ca": "Successions i patrimoni",
+        "gl": "Sucesións e patrimonio",
+        "eu": "Oinordetzak eta ondarea",
+        "oc": "Successions e patrimòni",
+        "en": "Inheritance and wealth taxes"
+      },
+      "text": {
+        "es": "Centralizar los impuestos de sucesiones y patrimonio, suprimir las bonificaciones que benefician sobre todo a los más ricos y eliminar sucesiones para las rentas bajas.",
+        "ca": "Centralitzar els impostos de successions i patrimoni, suprimir les bonificacions que beneficien sobretot els més rics i eliminar successions per a les rendes baixes.",
+        "gl": "Centralizar os impostos de sucesións e patrimonio, suprimir as bonificacións que benefician sobre todo os máis ricos e eliminar sucesións para as rendas baixas.",
+        "eu": "Oinordetza eta ondare zergak zentralizatzea, batez ere aberatsenei mesede egiten dieten hobariak kentzea eta errenta baxuentzako oinordetza zerga ezabatzea.",
+        "oc": "Centralizar es impòsti de successions e patrimòni, suprimir es bonificacions que beneficien sustot es mès rics e eliminar successions entàs rendes baishes.",
+        "en": "Centralise inheritance and wealth taxes, remove reliefs mainly benefiting the richest, and abolish inheritance tax for low incomes."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-19",
+          "quote": "6. El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las boni- ficaciones que benefician sobre todo a los más ricos. Eliminación del impuesto de sucesiones para las rentas bajas."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-unused-large-estate-land",
+      "title": {
+        "es": "Tierras sin uso y parques solares",
+        "ca": "Terres sense ús i parcs solars",
+        "gl": "Terras sen uso e parques solares",
+        "eu": "Erabili gabeko lurrak eta eguzki parkeak",
+        "oc": "Tèrres sense usatge e parcs solars",
+        "en": "Unused land and solar farms"
+      },
+      "text": {
+        "es": "Expropiar tierras sin usar de grandes terratenientes y repartirlas entre agricultores y cooperativas para su aprovechamiento colectivo; prohibir la construcción de parques solares en tierras aptas para el cultivo.",
+        "ca": "Expropiar terres sense ús de grans terratinents i repartir-les entre agricultors i cooperatives per aprofitar-les col·lectivament; prohibir la construcció de parcs solars en terres aptes per al conreu.",
+        "gl": "Expropiar terras sen usar de grandes terratenentes e repartilas entre agricultores e cooperativas para o aproveitamento colectivo; prohibir a construción de parques solares en terras aptas para o cultivo.",
+        "eu": "Lurjabe handien erabili gabeko lurrak desjabetzea eta nekazari eta kooperatiben artean banatzea, kolektiboki ustiatzeko; laborantzarako lur egokietan eguzki parkeak eraikitzea debekatzea.",
+        "oc": "Expropriar tèrres sense usatge de grani terratinents e repartir-les entre agricultors e cooperatives entar aprofitament collectiu; proïbir era construccion de parcs solars en tèrres aptes entath cultiu.",
+        "en": "Expropriate large landowners' unused land and distribute it among farmers and cooperatives for collective use; ban construction of solar farms on land suitable for cultivation."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-38",
+          "quote": "2. Expropiar las tierras sin usar en propiedad de grandes terratenientes y reparto entre los agricultores y cooperativas para el aprovechamiento colectivo. Prohibición de la construcción de parques solares en tierras aptas para el cultivo."
+        }
+      ]
+    }
+  ]
+}

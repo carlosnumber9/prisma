@@ -1,0 +1,119 @@
+{
+  "id": "frente-obrero--employment",
+  "partyId": "frente-obrero",
+  "topicId": "employment",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-wages-living-costs",
+      "title": {
+        "es": "Salarios y coste de la vida",
+        "ca": "Salaris i cost de la vida",
+        "gl": "Salarios e custo da vida",
+        "eu": "Soldatak eta bizi kostua",
+        "oc": "Salaris e còst dera vida",
+        "en": "Wages and living costs"
+      },
+      "text": {
+        "es": "Aumentar los salarios de forma general en relación con el coste de la vida.",
+        "ca": "Augmentar els salaris de manera general en relació amb el cost de la vida.",
+        "gl": "Aumentar os salarios de forma xeral en relación co custo da vida.",
+        "eu": "Soldatak oro har igotzea, bizi kostuaren arabera.",
+        "oc": "Aumentar es salaris de forma generau en relacion damb eth còst dera vida.",
+        "en": "Raise wages generally in relation to the cost of living."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-9",
+          "quote": "1. Aumento general de los salarios en relación al coste de la vida."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-worker-representation",
+      "title": {
+        "es": "Representación desde diez trabajadores",
+        "ca": "Representació des de deu treballadors",
+        "gl": "Representación desde dez traballadores",
+        "eu": "Ordezkaritza hamar langiletik aurrera",
+        "oc": "Representacion a compdar de dètz trabalhadors",
+        "en": "Representation from ten workers"
+      },
+      "text": {
+        "es": "Implantar representación obligatoria de los trabajadores en todas las empresas con diez trabajadores o más, sin excepciones, para fortalecer la negociación colectiva.",
+        "ca": "Implantar representació obligatòria dels treballadors en totes les empreses amb deu treballadors o més, sense excepcions, per enfortir la negociació col·lectiva.",
+        "gl": "Implantar representación obrigatoria dos traballadores en todas as empresas con dez traballadores ou máis, sen excepcións, para fortalecer a negociación colectiva.",
+        "eu": "Hamar langile edo gehiago dituzten enpresa guztietan langileen nahitaezko ordezkaritza ezartzea, salbuespenik gabe, negoziazio kolektiboa indartzeko.",
+        "oc": "Implantar representacion obligatòria des trabalhadors en totes es empreses damb dètz trabalhadors o mès, sense excepcions, entà enfortir era negociacion collectiva.",
+        "en": "Require worker representation in every company with ten or more workers, without exceptions, to strengthen collective bargaining."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-9",
+          "quote": "2. Fortalecer la negociación colectiva a través de la implementación de un sistema obligatorio de representación de los trabajadores en todos las empresas con diez trabajadores o más, sin excepciones."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-temporary-work-agencies",
+      "title": {
+        "es": "Temporalidad y ETT",
+        "ca": "Temporalitat i ETT",
+        "gl": "Temporalidade e ETT",
+        "eu": "Aldi baterako lana eta lan enpresak",
+        "oc": "Temporalitat e ETT",
+        "en": "Temporary work and agencies"
+      },
+      "text": {
+        "es": "Restringir las condiciones que permiten contratos temporales o fijos-discontinuos y prohibir las empresas de trabajo temporal.",
+        "ca": "Restringir les condicions que permeten contractes temporals o fixos discontinus i prohibir les empreses de treball temporal.",
+        "gl": "Restrinxir as condicións que permiten contratos temporais ou fixos descontinuos e prohibir as empresas de traballo temporal.",
+        "eu": "Aldi baterako edo aldizkako kontratu finkoak erabiltzeko baldintzak murriztea eta aldi baterako laneko enpresak debekatzea.",
+        "oc": "Restrénher es condicions que permeten contractes temporaus o fixes discontinus e proïbir es empreses de trabalh temporau.",
+        "en": "Restrict the conditions permitting temporary or permanent intermittent contracts and ban temporary employment agencies."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-9",
+          "quote": "4. Fomentar la lucha contra la temporalidad. Restricción de las condiciones que per - miten a las empresas acogerse a contratos temporales o fijos-discontinuos. Prohibi- ción de las empresas de trabajo temporal (ETTS)."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-self-employed-contributions",
+      "title": {
+        "es": "Cotizaciones de autónomos",
+        "ca": "Cotitzacions d'autònoms",
+        "gl": "Cotizacións de autónomos",
+        "eu": "Autonomoen kotizazioak",
+        "oc": "Cotizacions d'autonòms",
+        "en": "Self-employed contributions"
+      },
+      "text": {
+        "es": "Eliminar la cuota de los autónomos que no lleguen al SMI, reducir las cuotas, establecer una bonificación total por baja y garantizar su jubilación.",
+        "ca": "Eliminar la quota dels autònoms que no arribin al SMI, reduir les quotes, establir una bonificació total per baixa i garantir-ne la jubilació.",
+        "gl": "Eliminar a cota dos autónomos que non cheguen ao SMI, reducir as cotas, establecer unha bonificación total por baixa e garantir a súa xubilación.",
+        "eu": "SMIra iristen ez diren autonomoen kuota kentzea, kuotak murriztea, bajagatik hobari osoa ezartzea eta erretiroa bermatzea.",
+        "oc": "Eliminar era quòta des autonòms que non arriben ath SMI, redusir es quòtes, establir ua bonificacion totau per baisha e garantir era sua jubilacion.",
+        "en": "Abolish contributions for self-employed people below the SMI minimum wage, reduce contributions, introduce full relief during leave and guarantee retirement."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-9",
+          "quote": "5. Eliminación de la cuota para los autónomos que no llegan al SMI e implementación de una bonificación total por baja. Cuotas más reducidas para los autónomos. Ga - rantizar la jubilación a los autónomos."
+        }
+      ]
+    }
+  ]
+}

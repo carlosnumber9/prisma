@@ -1,0 +1,301 @@
+{
+  "id": "frente-obrero--institutions-and-rights",
+  "partyId": "frente-obrero",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-eu-nato-withdrawal",
+      "title": {
+        "es": "Salida de la UE y la OTAN",
+        "ca": "Sortida de la UE i l'OTAN",
+        "gl": "Saída da UE e da OTAN",
+        "eu": "EBtik eta NATOtik irtetea",
+        "oc": "Gessuda dera UE e dera OTAN",
+        "en": "Withdrawal from the EU and NATO"
+      },
+      "text": {
+        "es": "Salir de la Unión Europea y salir inmediatamente de la OTAN, reforzando el ejército español.",
+        "ca": "Sortir de la Unió Europea i sortir immediatament de l'OTAN, reforçant l'exèrcit espanyol.",
+        "gl": "Saír da Unión Europea e saír inmediatamente da OTAN, reforzando o exército español.",
+        "eu": "Europar Batasunetik irtetea eta NATOtik berehala irtetea, Espainiako armada indartuz.",
+        "oc": "Gésser dera Union Europèa e gésser immediatament dera OTAN, en tot refortir er exercit espanhòu.",
+        "en": "Leave the European Union and immediately leave NATO, strengthening the Spanish army."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-11",
+          "quote": "1. Salida de la Unión Europea para recuperar nuestra soberanía nacional. 2. Salida inmediata de la OTAN y reforzamiento de nuestro ejército."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-positive-discrimination-quotas",
+      "title": {
+        "es": "Discriminación positiva y cupos",
+        "ca": "Discriminació positiva i quotes",
+        "gl": "Discriminación positiva e cotas",
+        "eu": "Diskriminazio positiboa eta kuotak",
+        "oc": "Discriminacion positiva e quòtes",
+        "en": "Positive discrimination and quotas"
+      },
+      "text": {
+        "es": "Derogar parcial o totalmente todas las leyes basadas en la discriminación positiva y suprimir los cupos.",
+        "ca": "Derogar parcialment o totalment totes les lleis basades en la discriminació positiva i suprimir les quotes.",
+        "gl": "Derrogar parcial ou totalmente todas as leis baseadas na discriminación positiva e suprimir as cotas.",
+        "eu": "Diskriminazio positiboan oinarritutako lege guztiak partzialki edo osorik indargabetzea eta kuotak ezabatzea.",
+        "oc": "Derogar parciaument o totaument totes es leis basades ena discriminacion positiva e suprimir es quòtes.",
+        "en": "Partially or fully repeal all laws based on positive discrimination and abolish quotas."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-32",
+          "quote": "1. Derogación parcial o total de todas las leyes basadas en la discriminación positiva. Supresión de los cupos."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-trans-law-repeal",
+      "title": {
+        "es": "Derogación de la Ley Trans",
+        "ca": "Derogació de la Ley Trans",
+        "gl": "Derrogación da Ley Trans",
+        "eu": "Ley Trans indargabetzea",
+        "oc": "Derogacion dera Ley Trans",
+        "en": "Repeal of the Ley Trans"
+      },
+      "text": {
+        "es": "Derogar la Ley Trans.",
+        "ca": "Derogar la Ley Trans.",
+        "gl": "Derrogar a Ley Trans.",
+        "eu": "Ley Trans indargabetzea.",
+        "oc": "Derogar era Ley Trans.",
+        "en": "Repeal the Ley Trans."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-32",
+          "quote": "2. Derogación de la Ley Trans. Es necesario proteger a los niños y adolescentes del adoctrinamiento queer, que solo crea y agrava problemas."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-equality-ministry",
+      "title": {
+        "es": "Supresión del Ministerio de Igualdad",
+        "ca": "Supressió del Ministerio de Igualdad",
+        "gl": "Supresión do Ministerio de Igualdad",
+        "eu": "Ministerio de Igualdad ezabatzea",
+        "oc": "Supression deth Ministerio de Igualdad",
+        "en": "Abolition of the Ministerio de Igualdad"
+      },
+      "text": {
+        "es": "Suprimir el Ministerio de Igualdad y destinar íntegramente su presupuesto a cuestiones sociales.",
+        "ca": "Suprimir el Ministerio de Igualdad i destinar íntegrament el seu pressupost a qüestions socials.",
+        "gl": "Suprimir o Ministerio de Igualdad e destinar integramente o seu orzamento a cuestións sociais.",
+        "eu": "Ministerio de Igualdad ezabatzea eta haren aurrekontu osoa gizarte gaietara bideratzea.",
+        "oc": "Suprimir eth Ministerio de Igualdad e destinar integraument eth sòn pressupòst a qüestions sociaus.",
+        "en": "Abolish the Ministerio de Igualdad and allocate its entire budget to social matters."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-32",
+          "quote": "3. Supresión del Ministerio de Igualdad. Es un gasto superfluo que, lejos de repercutir en el bienestar de la mujer, va en contra de la misma, llegando incluso a negar la existencia material, biológica, de la mujer. El presupuesto del ministerio será desti- nado en su totalidad a cuestiones sociales."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-immigration-expulsions",
+      "title": {
+        "es": "Expulsiones y regularización",
+        "ca": "Expulsions i regularització",
+        "gl": "Expulsións e regularización",
+        "eu": "Kanporaketak eta erregularizazioa",
+        "oc": "Expulsions e regularizacion",
+        "en": "Expulsions and regularisation"
+      },
+      "text": {
+        "es": "Expulsar inmediatamente a inmigrantes que delincan reiteradamente o estén en situación irregular; impedir su regularización si intentaron entrar ilegalmente y revisar los permisos obtenidos en los últimos años por quienes entraron ilegalmente. El programa señala que será necesaria una nueva Constitución para aplicar estas medidas.",
+        "ca": "Expulsar immediatament els immigrants que delinqueixin reiteradament o estiguin en situació irregular; impedir-ne la regularització si van intentar entrar il·legalment i revisar els permisos obtinguts els darrers anys pels qui van entrar il·legalment. El programa assenyala que caldrà una nova Constitució per aplicar aquestes mesures.",
+        "gl": "Expulsar inmediatamente os inmigrantes que delincan reiteradamente ou estean en situación irregular; impedir a súa regularización se intentaron entrar ilegalmente e revisar os permisos obtidos nos últimos anos por quen entrou ilegalmente. O programa sinala que será necesaria unha nova Constitución para aplicar estas medidas.",
+        "eu": "Behin eta berriz delituak egiten dituzten edo egoera irregularrean dauden etorkinak berehala kanporatzea; legez kanpo sartzen saiatu badira erregularizazioa eragoztea eta legez kanpo sartu zirenen azken urteetako baimenak berrikustea. Programak dio Konstituzio berri bat beharko dela neurri horiek aplikatzeko.",
+        "oc": "Expulsar immediatament es immigrants que delinquisquen reiteradament o siguen en situacion irregulara; impedir era sua regularizacion s'ensagèren d'entrar illegaument e revisar es permisi obtengudi es darrèri ans pes que i entrèren illegaument. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
+        "en": "Immediately expel immigrants who repeatedly offend or are in an irregular situation; bar regularisation if they attempted illegal entry and review permits obtained in recent years by those who entered illegally. The programme states that a new Constitution will be required to implement these measures."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-53",
+          "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:"
+        },
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-53",
+          "quote": "3. Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reite - rada o que están de forma irregular en el país. Imposibilidad de regularse si han intentado entrar de forma ilegal. Revisión de los permisos de residencia a aquellos que hayan entrado de forma ilegal y lo hayan conseguido en los últimos años."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-nationality-review",
+      "title": {
+        "es": "Nacionalidad y revisión de concesiones",
+        "ca": "Nacionalitat i revisió de concessions",
+        "gl": "Nacionalidade e revisión de concesións",
+        "eu": "Nazionalitatea eta emakiden berrikuspena",
+        "oc": "Nacionalitat e revision de concessions",
+        "en": "Nationality grants and review"
+      },
+      "text": {
+        "es": "Suspender la concesión de nacionalidades hasta revisar exhaustivamente las otorgadas en los últimos veinte años y elevar los requisitos futuros, primando el Ius Sanguinis y limitando las excepciones a casos meritorios y anecdóticos. El programa señala que será necesaria una nueva Constitución para aplicar estas medidas.",
+        "ca": "Suspendre la concessió de nacionalitats fins a revisar exhaustivament les atorgades els darrers vint anys i elevar els requisits futurs, prioritzant el Ius Sanguinis i limitant les excepcions a casos meritoris i anecdòtics. El programa assenyala que caldrà una nova Constitució per aplicar aquestes mesures.",
+        "gl": "Suspender a concesión de nacionalidades ata revisar exhaustivamente as outorgadas nos últimos vinte anos e elevar os requisitos futuros, primando o Ius Sanguinis e limitando as excepcións a casos meritorios e anecdóticos. O programa sinala que será necesaria unha nova Constitución para aplicar estas medidas.",
+        "eu": "Nazionalitateen emakida etetea azken hogei urteetan emandakoak sakon berrikusi arte, eta etorkizuneko baldintzak zorroztea, Ius Sanguinis lehenetsiz eta salbuespenak merezimenduzko kasu bakanetara mugatuz. Programak dio Konstituzio berri bat beharko dela neurri horiek aplikatzeko.",
+        "oc": "Suspéner era concession de nacionalitats enquia revisar exaustivament es autrejades es darrèri vint ans e aumentar es requisits futurs, priorizant eth Ius Sanguinis e limitant es excepcions a casi meritoris e anecdòtics. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
+        "en": "Suspend nationality grants until an exhaustive review of those granted in the last twenty years, and raise future requirements, prioritising Ius Sanguinis and limiting exceptions to meritorious, exceptional cases. The programme states that a new Constitution will be required to implement these measures."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-53",
+          "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:"
+        },
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-53",
+          "quote": "6. Cese de entrega de nacionalidades hasta que se pueda realizar una revisión ex - haustiva de las que se han entregado en los últimos veinte años. Elevación de las condiciones para la obtención futura de la nacionalidad, primando de verdad el Ius Sanguinis. La entrega de la nacionalidad a personas que no cumplan este requisito deben ser meritorias de ello, siendo algo anecdótico y no cientos de miles al año como pasa en la actualidad."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-regional-powers",
+      "title": {
+        "es": "Competencias y régimen fiscal autonómicos",
+        "ca": "Competències i règim fiscal autonòmics",
+        "gl": "Competencias e réxime fiscal autonómicos",
+        "eu": "Autonomien eskumenak eta zerga araubidea",
+        "oc": "Competéncies e regim fiscau autonomics",
+        "en": "Regional powers and tax systems"
+      },
+      "text": {
+        "es": "Igualar las competencias y el régimen fiscal de todas las comunidades autónomas y centralizar sanidad, educación y servicios de emergencia.",
+        "ca": "Igualar les competències i el règim fiscal de totes les comunitats autònomes i centralitzar sanitat, educació i serveis d'emergència.",
+        "gl": "Igualar as competencias e o réxime fiscal de todas as comunidades autónomas e centralizar sanidade, educación e servizos de emerxencia.",
+        "eu": "Autonomia erkidego guztien eskumenak eta zerga araubidea berdintzea, eta osasuna, hezkuntza eta larrialdi zerbitzuak zentralizatzea.",
+        "oc": "Igualar es competéncies e eth regim fiscau de totes es comunitats autonòmes e centralizar sanitat, educacion e servicis d'emergéncia.",
+        "en": "Equalise powers and tax systems across all autonomous communities and centralise healthcare, education and emergency services."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-56",
+          "quote": "1. Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones. 2. Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-platforms-public-media",
+      "title": {
+        "es": "Plataformas y medios públicos",
+        "ca": "Plataformes i mitjans públics",
+        "gl": "Plataformas e medios públicos",
+        "eu": "Plataformak eta hedabide publikoak",
+        "oc": "Plataformes e mejans publics",
+        "en": "Platforms and public media"
+      },
+      "text": {
+        "es": "Establecer control estatal sobre las grandes plataformas digitales para evitar privilegios entre discursos o sesgos informativos, y garantizar medios públicos objetivos, neutrales e independientes del gobierno.",
+        "ca": "Establir control estatal sobre les grans plataformes digitals per evitar privilegis entre discursos o biaixos informatius, i garantir mitjans públics objectius, neutrals i independents del govern.",
+        "gl": "Establecer control estatal sobre as grandes plataformas dixitais para evitar privilexios entre discursos ou nesgos informativos, e garantir medios públicos obxectivos, neutrais e independentes do goberno.",
+        "eu": "Plataforma digital handien gaineko estatu kontrola ezartzea, diskurtsoen arteko pribilegioak edo informazio joerak saihesteko, eta gobernuarekiko independenteak diren hedabide publiko objektibo eta neutralak bermatzea.",
+        "oc": "Establir contròtle estatau sus es granes plataformes digitaus entà evitar privilègis entre discorsi o biaishi informatius, e garantir mejans publics objectius, neutraus e independents deth govèrn.",
+        "en": "Establish state control over major digital platforms to prevent preferential treatment of viewpoints or information bias, and ensure objective, neutral public media independent of government."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-40",
+          "quote": "2. Desarrollo de una política de control del Estado sobre las grandes plataformas digitales, que garanticen que no se privilegian unos discursos de opinión sobre otros, o un sesgo informativo determinado. 3. Garantizar la objetividad y la neutralidad en medios de comunicación públicos, que de- ben tener una independencia real respecto al gobierno de turno."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-islam-related-measures",
+      "title": {
+        "es": "Medidas sobre el islam",
+        "ca": "Mesures sobre l'islam",
+        "gl": "Medidas sobre o islam",
+        "eu": "Islamari buruzko neurriak",
+        "oc": "Mesures sus er islam",
+        "en": "Measures concerning Islam"
+      },
+      "text": {
+        "es": "Expulsar a radicales islámicos y estructuras religiosas que actúen como lobby de países extranjeros; sacar el islam de la escuela pública y suprimir las subvenciones a cualquier actividad islámica; prohibir el hiyab en lugares y puestos de trabajo públicos y ayudar a las mujeres amenazadas por querer dejar la vestimenta islámica. El programa señala que será necesaria una nueva Constitución para aplicar estas medidas.",
+        "ca": "Expulsar radicals islàmics i estructures religioses que actuïn com a lobby de països estrangers; treure l'islam de l'escola pública i suprimir les subvencions a qualsevol activitat islàmica; prohibir el hijab en llocs i llocs de treball públics i ajudar les dones amenaçades per voler deixar la vestimenta islàmica. El programa assenyala que caldrà una nova Constitució per aplicar aquestes mesures.",
+        "gl": "Expulsar os radicais islámicos e as estruturas relixiosas que actúen como lobby de países estranxeiros; sacar o islam da escola pública e suprimir as subvencións a calquera actividade islámica; prohibir o hiyab en lugares e postos de traballo públicos e axudar as mulleres ameazadas por querer deixar a vestimenta islámica. O programa sinala que será necesaria unha nova Constitución para aplicar estas medidas.",
+        "eu": "Erradikal islamikoak eta atzerriko herrialdeen lobby gisa jarduten duten erlijio egiturak kanporatzea; islama eskola publikoetatik kentzea eta jarduera islamikoentzako dirulaguntza guztiak ezabatzea; hijaba toki eta lanpostu publikoetan debekatzea eta jantzi islamikoak utzi nahi izateagatik mehatxatutako emakumeei laguntzea. Programak dio Konstituzio berri bat beharko dela neurri horiek aplikatzeko.",
+        "oc": "Expulsar es radicaus islamics e es estructures religioses que actuen coma lobby de païsi estrangèrs; trèir er islam dera escòla publica e suprimir es subvencions a quinsevolh activitat islamica; proïbir eth hijab en lòcs e pòsts de trabalh publics e ajudar es hemnes menaçades per voler deishar era vestimenta islamica. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
+        "en": "Expel Islamic radicals and religious structures acting as lobbies for foreign countries; remove Islam from public schools and end subsidies for any Islamic activity; ban the hijab in public places and public jobs, and help women threatened for wanting to stop wearing Islamic clothing. The programme states that a new Constitution will be required to implement these measures."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-53",
+          "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:"
+        },
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-53",
+          "quote": "4. Expulsión de los radicales islámicos y de las estructuras religiosas que actúan como lobby para países extranjeros. El islam debe ser sacado de las escuelas públicas y no se debe subvencionar ninguna actividad islámica. Prohibición del hijab en luga- res y puestos de trabajo públicos. Además, se ofrecerán ayudas a las mujeres que quieran dejar el uso de la vestimenta islámica y se vean amenazadas en el proceso."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-constituent-process-republic",
+      "title": {
+        "es": "Proceso constituyente y república",
+        "ca": "Procés constituent i república",
+        "gl": "Proceso constituínte e república",
+        "eu": "Prozesu konstituziogilea eta errepublika",
+        "oc": "Procès constituent e republica",
+        "en": "Constituent process and republic"
+      },
+      "text": {
+        "es": "Impulsar un proceso constituyente para acabar con el régimen actual. Defender una república encaminada al socialismo, dejando la nueva forma de Estado para una decisión futura.",
+        "ca": "Impulsar un procés constituent per acabar amb el règim actual. Defensar una república encaminada al socialisme, deixant la nova forma d'Estat per a una decisió futura.",
+        "gl": "Impulsar un proceso constituínte para acabar co réxime actual. Defender unha república encamiñada ao socialismo, deixando a nova forma de Estado para unha decisión futura.",
+        "eu": "Egungo erregimena amaitzeko prozesu konstituziogilea bultzatzea. Sozialismorantz bideratutako errepublika defendatzea, Estatuaren forma berria etorkizuneko erabaki baterako utziz.",
+        "oc": "Impulsar un procès constituent entà acabar damb eth regim actuau. Deféner ua republica encaminada tath socialisme, deishant era naua forma d'Estat entà ua decision futura.",
+        "en": "Promote a constituent process to end the current regime. Advocate a republic oriented towards socialism, leaving the new form of State for a future decision."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-6",
+          "quote": "Nuestro objetivo sigue siendo acabar con el régimen actual y dar solución a los gran - des problemas que afectan a nuestro país. Por ello apostamos por la realización de un proceso constituyente. No hay solución posible dentro de los marcos actuales."
+        },
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-56",
+          "quote": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensa- mos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías."
+        }
+      ]
+    }
+  ]
+}

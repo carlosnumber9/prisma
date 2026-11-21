@@ -1,0 +1,146 @@
+{
+  "id": "frente-obrero--pensions-and-social-protection",
+  "partyId": "frente-obrero",
+  "topicId": "pensions-and-social-protection",
+  "revision": 1,
+  "reviewStatus": "pending",
+  "reviewedAt": null,
+  "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
+  "points": [
+    {
+      "id": "frente-obrero-retirement-age",
+      "title": {
+        "es": "Edad de jubilación",
+        "ca": "Edat de jubilació",
+        "gl": "Idade de xubilación",
+        "eu": "Erretiro adina",
+        "oc": "Edat de jubilacion",
+        "en": "Retirement age"
+      },
+      "text": {
+        "es": "Revertir el incremento de la edad de jubilación y establecer una edad de retiro adecuada al puesto desempeñado.",
+        "ca": "Revertir l'increment de l'edat de jubilació i establir una edat de retir adequada al lloc exercit.",
+        "gl": "Reverter o incremento da idade de xubilación e establecer unha idade de retiro adecuada ao posto desempeñado.",
+        "eu": "Erretiro adinaren igoera atzera botatzea eta egindako lanpostuari egokitutako erretiro adina ezartzea.",
+        "oc": "Revertir er increment dera edat de jubilacion e establir ua edat de retirada adequada ath pòst exercit.",
+        "en": "Reverse the increase in retirement age and set a retirement age appropriate to the job performed."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-48",
+          "quote": "1. Revertir el incremento de la edad de jubilación y establecer una edad de retiro ade- cuada al puesto laboral desempeñado."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-minimum-pensions",
+      "title": {
+        "es": "Pensiones mínimas y no contributivas",
+        "ca": "Pensions mínimes i no contributives",
+        "gl": "Pensións mínimas e non contributivas",
+        "eu": "Gutxieneko eta kotizazio gabeko pentsioak",
+        "oc": "Pensions minimes e non contributives",
+        "en": "Minimum and non-contributory pensions"
+      },
+      "text": {
+        "es": "Incrementar las pensiones mínimas y no contributivas para asegurar recursos suficientes a todos los pensionistas.",
+        "ca": "Incrementar les pensions mínimes i no contributives per assegurar recursos suficients a tots els pensionistes.",
+        "gl": "Incrementar as pensións mínimas e non contributivas para asegurar recursos suficientes a todos os pensionistas.",
+        "eu": "Gutxieneko eta kotizazio gabeko pentsioak handitzea, pentsiodun guztiei baliabide nahikoak bermatzeko.",
+        "oc": "Aumentar es pensions minimes e non contributives entà assegurar recorsi sufisents a toti es pensionistes.",
+        "en": "Increase minimum and non-contributory pensions to ensure sufficient resources for all pensioners."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-49",
+          "quote": "2. Incrementar las pensiones no contributivas y mínimas asegurando una correcta su - ficiencia de recursos de todos los pensionistas."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-best-contribution-years",
+      "title": {
+        "es": "Cálculo con los mejores años",
+        "ca": "Càlcul amb els millors anys",
+        "gl": "Cálculo cos mellores anos",
+        "eu": "Urte onenekin kalkulatzea",
+        "oc": "Calcul damb es milhors ans",
+        "en": "Calculation using the best years"
+      },
+      "text": {
+        "es": "Calcular la pensión mediante la media de los mejores años cotizados, evitando penalizar los despidos o menores salarios al final de la vida laboral.",
+        "ca": "Calcular la pensió amb la mitjana dels millors anys cotitzats, evitant penalitzar els acomiadaments o salaris més baixos al final de la vida laboral.",
+        "gl": "Calcular a pensión coa media dos mellores anos cotizados, evitando penalizar os despedimentos ou menores salarios ao final da vida laboral.",
+        "eu": "Pentsioa kotizatutako urte onenen batezbestekoarekin kalkulatzea, lan bizitzaren amaierako kaleratzeek edo soldata baxuagoek kalterik ez eragiteko.",
+        "oc": "Calcular era pension damb era mejana des milhors ans cotizats, evitant penalizar es acomiadaments o salaris mès baishi ara fin dera vida laborau.",
+        "en": "Calculate pensions using the average of the best contribution years, avoiding penalties for dismissal or lower wages towards the end of working life."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-49",
+          "quote": "3. Introducir el cálculo de la pensión mediante la media de los mejores años cotizados, para evitar que los trabajadores que han sido despedidos o han obtenido un salario menor en los últimos años de su vida laboral obtengan una pensión menor."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-free-public-nurseries",
+      "title": {
+        "es": "Guarderías públicas gratuitas",
+        "ca": "Escoles bressol públiques gratuïtes",
+        "gl": "Escolas infantís públicas gratuítas",
+        "eu": "Doako haur eskola publikoak",
+        "oc": "Escòles mairaus publiques gratuïtes",
+        "en": "Free public nurseries"
+      },
+      "text": {
+        "es": "Construir guarderías y jardines de infancia públicos y gratuitos para compatibilizar trabajo y maternidad.",
+        "ca": "Construir escoles bressol i jardins d'infància públics i gratuïts per compatibilitzar feina i maternitat.",
+        "gl": "Construír gardarías e xardíns de infancia públicos e gratuítos para compatibilizar traballo e maternidade.",
+        "eu": "Haurtzaindegi eta haur eskola publiko eta doakoak eraikitzea, lana eta amatasuna uztartzeko.",
+        "oc": "Bastir escòles mairaus e jardins d'enfància publics e gratuïts entà compatibilizar trabalh e maternitat.",
+        "en": "Build free public nurseries and kindergartens to make work and motherhood compatible."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-34",
+          "quote": "2. Se construirán guarderías y jardines de infancia públicos y gratuitos para facilitar la com- patibilidad del trabajo y la maternidad."
+        }
+      ]
+    },
+    {
+      "id": "frente-obrero-parental-leave-flexibility",
+      "title": {
+        "es": "Permisos y conciliación",
+        "ca": "Permisos i conciliació",
+        "gl": "Permisos e conciliación",
+        "eu": "Baimenak eta kontziliazioa",
+        "oc": "Permisi e conciliacion",
+        "en": "Leave and work-family balance"
+      },
+      "text": {
+        "es": "Alargar las bajas por paternidad y maternidad y obligar a las empresas a ofrecer flexibilidad parcial en teletrabajo, reducción de jornada y horarios para cuidar a los hijos.",
+        "ca": "Allargar les baixes per paternitat i maternitat i obligar les empreses a oferir flexibilitat parcial en teletreball, reducció de jornada i horaris per cuidar els fills.",
+        "gl": "Alongar as baixas por paternidade e maternidade e obrigar as empresas a ofrecer flexibilidade parcial en teletraballo, redución de xornada e horarios para coidar os fillos.",
+        "eu": "Aitatasun eta amatasun bajak luzatzea eta enpresak telelanean, lanaldi murrizketan eta ordutegietan malgutasun partziala eskaintzera behartzea, seme-alabak zaintzeko.",
+        "oc": "Alargar es baishes per paternitat e maternitat e obligar es empreses a auferir flexibilitat parciau en teletrabalh, reduccion de jornada e oraris entà suenhar es hilhs.",
+        "en": "Extend paternity and maternity leave and require companies to offer partial flexibility in remote work, reduced hours and schedules for childcare."
+      },
+      "status": "draft",
+      "citations": [
+        {
+          "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+          "segmentId": "page-35",
+          "quote": "3. Se alargarán las bajas por paternidad y maternidad y se obligará a las empresas a ser flexibles parcialmente en cuanto al teletrabajo, reducción de jornada y modificación de horarios, para poder conciliar trabajo y el cuidado de los hijos."
+        }
+      ]
+    }
+  ]
+}

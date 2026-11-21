@@ -20,6 +20,10 @@ Frente Amplio retains the catalogue's initial nullable website value. Its separa
 
 The stable identifier is `podemos`, with display name Podemos and official website `https://podemos.info/`, as listed in the Centro de Estudios Políticos y Constitucionales directory. The programme is hosted on the separate campaign website. The catalogue omits colour and font metadata for Podemos. [Institutional directory](https://www.cepc.gob.es/documentacion/enlaces-de-interes/partidos-sindicatos-organizaciones-empresariales) · [Podemos editorial review](../content/reviews/2026-11-18-podemos-programme-draft.md)
 
+## Frente Obrero draft addition
+
+The programme incorporation uses the new stable ID `frente-obrero`, display name Frente Obrero and official website `https://frenteobrero.es/`. The official homepage and its linked programme page explicitly associate the preserved political programme with the 29 November 2026 campaign. This addition prepares an editorial draft; it does not approve proposals or assert exhaustive Congress or Senate candidature coverage. No official colour or licensed official font is added. See the [21 November programme review](../content/reviews/2026-11-21-frente-obrero-programme-draft.md).
+
 ## Interface colour evidence
 
 Only primary brand evidence is used. The interface applies subtle tints of the base colour while keeping text and focus indicators legible. These tints are interface treatments, not claims about an official complete palette.
