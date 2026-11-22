@@ -9,7 +9,7 @@ The public catalogue is a limited editorial selection of formations with reviewe
 - VOX: [official legal notice](https://www.voxespana.es/espana/aviso-legal), checked 12 October 2026.
 - Podemos: [institutional CEPC directory](https://www.cepc.gob.es/documentacion/enlaces-de-interes/partidos-sindicatos-organizaciones-empresariales), checked 18 November 2026; its separate campaign domain supplies the programme.
 - Frente Amplio: [official programme domain](https://frenteamplio.info/programa/), verified 17 November 2026. The catalogue retains its accepted nullable website; verification is not an automatic catalogue change.
-- Frente Obrero: [official homepage](https://frenteobrero.es/) and [programme page](https://frenteobrero.es/quienes-somos/), checked 21 November 2026. The campaign adopts the preserved political programme for 29N; this does not assert a newly dated electoral edition or Senate participation.
+- Frente Obrero: [official homepage](https://frenteobrero.es/) and [programme page](https://frenteobrero.es/quienes-somos/), checked 21 November 2026. The campaign adopts the consulted political programme for 29N; this does not assert a newly dated electoral edition or Senate participation.
 
 ## Displayed branding
 
@@ -19,3 +19,7 @@ The public catalogue is a limited editorial selection of formations with reviewe
 Other formations use the neutral theme. No official formation font is bundled. Preserve a minimal official URL, consultation date and embedding licence evidence before adding displayed branding. Do not retain research about unused palettes, logo variants or possible fonts.
 
 Territorial programme associations are declared in `content/editorial/programme-identities.json` under the [provincial identity rules](provincial-data.md#programme-identity-and-geography). They do not merge electoral legal identities or assign a coalition member's programme automatically.
+
+## Programme coverage limits
+
+All area syntheses are partial. The PP second official download still needs comparison; byte equivalence between the supplied PSOE copy and both official URLs remains unverified. Frente Amplio's separate Galicia document was not obtained. Specialist language copyediting, particularly Basque and Aranese terminology, remains useful across selections. Frente Obrero's adopted political programme is not asserted to be a newly published electoral edition. These limits survive removal of historical review reports.

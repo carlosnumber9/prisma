@@ -18,4 +18,4 @@ The fixed election is 29 November 2026. Collect official programme proposals for
 
 Editorial syntheses use `content/editorial/syntheses/<party>/<topic>.json`; only approved points enter the four programme envelopes. Province presence has a separate small projection. Builds and visits never generate prose, translate content or perform research. No-source research cannot withdraw published proposals or manufacture an empty approved dataset.
 
-Programme/suggestion reviews may use temporary records while agreement is pending. Keep durable product constraints in current documentation and surprising trade-offs in ADRs, rather than appending run histories here.
+Programme/suggestion reviews use external temporary records while agreement is pending. Retain only approved wording, cited excerpts and minimal source metadata in Git; raw originals and complete extractions stay external. Keep durable product constraints in current documentation and surprising trade-offs in ADRs, rather than appending run histories here.

@@ -123,7 +123,7 @@ test('right ribbon reveal mirrors the complete path while preserving its timing 
 
 function dataset(status = 'pending', points = []) {
   const envelope = (key, items) => ({
-    schemaVersion: 3,
+    schemaVersion: 4,
     electionDate: '2026-11-29',
     [key]: items,
   });

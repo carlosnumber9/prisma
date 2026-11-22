@@ -8,7 +8,7 @@ import {
 
 export function publicFixture() {
   const envelope = (key, values) => ({
-    schemaVersion: 3,
+    schemaVersion: 4,
     electionDate: '2026-11-29',
     [key]: values,
   });
@@ -42,7 +42,6 @@ export function publicFixture() {
             sourceId: source.id,
             segmentId: 'page-3',
             page: 3,
-            quote: 'Synthetic quotation',
           },
         ],
       },
@@ -109,6 +108,8 @@ test('an empty catalogue retains its topic index without manufacturing formation
 test('rejects obsolete schemas, missing envelopes and mixed election dates', () => {
   for (const key of ['parties', 'topics', 'sources', 'syntheses']) {
     const input = publicFixture();
+    input[key].schemaVersion = 3;
+    assert.throws(() => readPublicContent(input), /Unsupported public schema/);
     input[key].schemaVersion = 2;
     assert.throws(() => readPublicContent(input), /Unsupported public schema/);
     input[key].schemaVersion = 1;

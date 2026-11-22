@@ -33,7 +33,6 @@ function fixture(t) {
   for (const directory of [
     'content/editorial/syntheses/fixture-party',
     'content/sources',
-    'content/reviews',
   ])
     mkdirSync(join(root, directory), { recursive: true });
   writeJson(join(root, 'content/editorial/parties.json'), [
@@ -47,19 +46,17 @@ function fixture(t) {
     { id: 'housing', label: localizedFixture('Housing') },
     { id: 'education', label: localizedFixture('Education') },
   ]);
-  // Synthetic snapshots exercise the data contract, not PDF parsing or real programmes.
+  // A historical original digest identifies the externally reviewed edition.
   const original =
     '%PDF-1.7\nSynthetic document for hash and reference checks.\n';
   const sourceSha256 = sha256(original);
   const sourceId = `fixture-party-2026-${sourceSha256.slice(0, 12)}`;
   const sourceDirectory = join(root, 'content/sources', sourceId);
   mkdirSync(sourceDirectory);
-  writeFileSync(join(sourceDirectory, 'original.pdf'), original);
   const extraction = {
     sourceId,
     sourceSha256,
     segments: [
-      { id: 'page-1', page: 1, text: '' },
       {
         id: 'page-2',
         page: 2,
@@ -77,7 +74,7 @@ function fixture(t) {
     url: 'https://example.org/program.pdf',
     format: 'pdf',
     capturedAt: '2026-10-12T10:00:00Z',
-    originalFile: 'original.pdf',
+    evidenceKind: 'citation-excerpts',
     sha256: sourceSha256,
     extractionSha256: sha256(json(extraction)),
     pageCount: 2,
@@ -149,7 +146,7 @@ function outputSnapshot(root) {
     .map((name) => [name, readFileSync(join(directory, name), 'utf8')]);
 }
 
-test('publishes schema v3 in all envelopes and preserves a null official website', (t) => {
+test('publishes schema v4 in all envelopes and preserves a null official website', (t) => {
   const { root } = fixture(t);
   const path = join(root, 'content/editorial/parties.json');
   const parties = readJson(path);
@@ -157,7 +154,7 @@ test('publishes schema v3 in all envelopes and preserves a null official website
   writeJson(path, parties);
   const output = buildContent(root);
   for (const bytes of output.values())
-    assert.equal(JSON.parse(bytes).schemaVersion, 3);
+    assert.equal(JSON.parse(bytes).schemaVersion, 4);
   assert.equal(publicData(root, 'parties')[0].officialWebsite, null);
 });
 
@@ -224,7 +221,7 @@ test('rejects malformed branding, remote font URLs and CSS injection', (t) => {
   }
 });
 
-test('publishes v3 for an empty formation catalogue', (t) => {
+test('publishes v4 for an empty formation catalogue', (t) => {
   const f = fixture(t);
   writeJson(join(f.root, 'content/editorial/parties.json'), []);
   rmSync(join(f.root, 'content/editorial/syntheses/fixture-party'), {
@@ -232,7 +229,7 @@ test('publishes v3 for an empty formation catalogue', (t) => {
   });
   rmSync(f.sourceDirectory, { recursive: true });
   for (const bytes of buildContent(f.root).values())
-    assert.equal(JSON.parse(bytes).schemaVersion, 3);
+    assert.equal(JSON.parse(bytes).schemaVersion, 4);
   assert.deepEqual(publicData(f.root, 'parties'), []);
   assert.deepEqual(publicData(f.root, 'syntheses'), []);
 });
@@ -310,7 +307,12 @@ test('excludes draft-only content and unpublished sources from public JSON', (t)
 });
 
 test('preserves reviewed sources when a complete review finds no proposals', (t) => {
-  const { root, synthesis, synthesisPath, sourceId } = fixture(t);
+  const f = fixture(t);
+  const { root, synthesis, synthesisPath, sourceId } = f;
+  f.extraction.segments = [];
+  writeJson(join(f.sourceDirectory, 'extracted.json'), f.extraction);
+  f.metadata.extractionSha256 = sha256(json(f.extraction));
+  writeJson(join(f.sourceDirectory, 'metadata.json'), f.metadata);
   synthesis.points = [];
   synthesis.reviewStatus = 'complete';
   writeJson(synthesisPath, synthesis);
@@ -443,11 +445,11 @@ for (const [name, change, expected] of [
     /only programmes/,
   ],
   [
-    'a modified original',
+    'a full original added to the repository',
     (f) => {
       writeFileSync(join(f.sourceDirectory, 'original.pdf'), 'another version');
     },
-    /original hash/,
+    /keep only metadata/,
   ],
   [
     'a modified extraction',
@@ -467,14 +469,14 @@ for (const [name, change, expected] of [
     /another version/,
   ],
   [
-    'missing extraction pages',
+    'an excerpt beyond the original page count',
     (f) => {
-      f.extraction.segments.shift();
+      f.extraction.segments[0].page = 3;
       writeJson(join(f.sourceDirectory, 'extracted.json'), f.extraction);
       f.metadata.extractionSha256 = sha256(json(f.extraction));
       writeJson(join(f.sourceDirectory, 'metadata.json'), f.metadata);
     },
-    /one entry per physical page/,
+    /within pageCount/,
   ],
 ]) {
   test(`rejects ${name}`, (t) => {
@@ -493,7 +495,6 @@ test('supports HTML section and anchor references without requiring PDF', (t) =>
   const sourceId = `fixture-party-2026-${sourceSha256.slice(0, 12)}`;
   const directory = join(f.root, 'content/sources', sourceId);
   mkdirSync(directory);
-  writeFileSync(join(directory, 'original.html'), html);
   const extraction = {
     sourceId,
     sourceSha256,
@@ -512,7 +513,7 @@ test('supports HTML section and anchor references without requiring PDF', (t) =>
     ...metadata,
     id: sourceId,
     format: 'html',
-    originalFile: 'original.html',
+    evidenceKind: 'citation-excerpts',
     sha256: sourceSha256,
     extractionSha256: sha256(json(extraction)),
     url: 'https://example.org/program',
@@ -571,9 +572,9 @@ test('rejects cross-formation sources', (t) => {
   );
 });
 
-test('rejects symlinked originals and preserves unexpected outputs', (t) => {
+test('rejects symlinked evidence and preserves unexpected outputs', (t) => {
   const f = fixture(t);
-  const originalPath = join(f.sourceDirectory, 'original.pdf');
+  const originalPath = join(f.sourceDirectory, 'extracted.json');
   const externalPath = join(f.root, 'external.pdf');
   writeFileSync(externalPath, readFileSync(originalPath));
   rmSync(originalPath);
@@ -630,7 +631,8 @@ test('six-language approval preserves meaning fields, shared citations and point
   assert.deepEqual(point.title, expected.title);
   assert.deepEqual(point.text, expected.text);
   assert.equal(point.id, expected.id);
-  assert.equal(point.citations[0].quote, expected.citations[0].quote);
+  assert.equal(point.citations[0].sourceId, expected.citations[0].sourceId);
+  assert.ok(!Object.hasOwn(point.citations[0], 'quote'));
 });
 
 for (const [description, mutate] of [
@@ -687,4 +689,47 @@ test('topic catalogues also require every supported language', (t) => {
   delete topics[0].label.ca;
   writeJson(path, topics);
   assert.throws(() => buildContent(f.root), /missing ca/);
+});
+
+test('rejects uncited pages, surplus source text and unused source archives', (t) => {
+  for (const change of [
+    (f) => {
+      f.metadata.pageCount = 3;
+      f.extraction.segments.push({
+        id: 'uncited',
+        page: 3,
+        text: 'Unrelated background',
+      });
+    },
+    (f) => {
+      f.extraction.segments[0].text += '\nUnrelated background';
+    },
+    (f) => {
+      f.synthesis.sourceIds = [];
+      f.synthesis.points = [];
+      f.synthesis.reviewStatus = 'pending';
+      f.synthesis.reviewedAt = null;
+      writeJson(f.synthesisPath, f.synthesis);
+    },
+  ]) {
+    const f = fixture(t);
+    change(f);
+    writeJson(join(f.sourceDirectory, 'extracted.json'), f.extraction);
+    f.metadata.extractionSha256 = sha256(json(f.extraction));
+    writeJson(join(f.sourceDirectory, 'metadata.json'), f.metadata);
+    assert.throws(() => buildContent(f.root), /unused|surplus/);
+  }
+});
+
+test('repository mode rejects drafts and all roots reject accumulated research reviews', (t) => {
+  const f = fixture(t);
+  assert.throws(
+    () => buildContent(f.root, { approvedOnly: true }),
+    /unapproved work/,
+  );
+  f.synthesis.points[1].status = 'approved';
+  writeJson(f.synthesisPath, f.synthesis);
+  assert.doesNotThrow(() => buildContent(f.root, { approvedOnly: true }));
+  mkdirSync(join(f.root, 'content/reviews'));
+  assert.throws(() => buildContent(f.root), /reviews belong outside/);
 });

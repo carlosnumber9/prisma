@@ -19,7 +19,6 @@ export type ReviewStatus = 'pending' | 'partial' | 'complete';
 export type Citation = {
   sourceId: string;
   segmentId: string;
-  quote: string;
 } & (
   | { page: number; printedPage?: string; section?: never; anchor?: never }
   | { section: string; anchor?: string; page?: never; printedPage?: never }
@@ -53,7 +52,7 @@ export type Source = {
   pageCount?: number;
 };
 export type Envelope<K extends string, T> = {
-  schemaVersion: 3;
+  schemaVersion: 4;
   electionDate: string;
 } & Record<K, T[]>;
 export type PublicContent = {
@@ -75,7 +74,7 @@ export function readPublicContent(input: unknown): PublicContent {
     if (!envelope || typeof envelope !== 'object')
       throw new Error(`Missing public envelope: ${key}`);
     const value = envelope as Record<string, unknown>;
-    if (value.schemaVersion !== 3)
+    if (value.schemaVersion !== 4)
       throw new Error(`Unsupported public schema: ${key}`);
     if (typeof value.electionDate !== 'string' || !Array.isArray(value[key]))
       throw new Error(`Invalid public envelope: ${key}`);

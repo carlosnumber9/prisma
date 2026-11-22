@@ -1,22 +1,20 @@
-# Content contract
+# Programme content contract
 
-Use Node.js 24.x. The generator uses standard libraries only: it does not fetch sources, parse originals, call models or redact prose.
+The offline generator validates reviewed summaries and supporting citation excerpts. The portal imports only the four generated programme envelopes; [provincial presence](provincial-data.md) has its own small contract. Builds never fetch originals, generate prose or translate text.
 
-This contract covers programme summaries and their catalogues. [Provincial formation presence](provincial-data.md) has a separate, minimal editable inventory and projection. No politician profiles, individual candidate lists or general political-reference archive are collected.
-
-## Layout and ownership
+## Storage and ownership
 
 ```text
 content/
   editorial/
     parties.json
     topics.json
+    programme-identities.json
+    provincial-presence.json
     syntheses/<partyId>/<topicId>.json
   sources/<sourceId>/
     metadata.json
-    original.pdf | original.html | original.<ext>
     extracted.json
-  reviews/<date>-<identifier>.md
   generated/
     parties.json
     topics.json
@@ -24,146 +22,57 @@ content/
     syntheses.json
 ```
 
-Originals, extractions, editorial records and reviews are versioned in Git. `.gitattributes` prevents source/extraction line-ending conversion, because hashes refer to bytes. `generated` files are derived and must not be hand-edited. Next must import these four files explicitly, never expose the entire content tree.
-
-Examples below are templates: replace markers with verified values. They are not publishable programme data. Automated fixtures live in temporary directories, never in the real content corpus.
+Store only accepted programme/catalogue data and the minimum evidence needed to maintain it. New drafts, raw downloads, complete PDFs/HTML, full-page extractions, search results, task packets and review reports belong outside Git. `content/reviews` and `content/political-info` are rejected. Generated files are derived, never hand-edited. Do not expose the entire content tree.
 
 ## Catalogues and identifiers
 
-`parties.json` is an array of objects with required `id`, `name` and `officialWebsite`, plus optional `officialColor` and `officialFont`. IDs are stable slugs; the visible formation name retains its intended language. The website field is required and accepts either an HTTP(S) URL without credentials or `null` when no official website has been verified. Do not substitute a constituent party's website for a coalition's website. The initial limited catalogue and its evidence are documented in [catalogue provenance](catalogue-provenance.md).
+`parties.json` is an array with required `id`, `name`, nullable `officialWebsite` and optional nullable `officialColor` and `officialFont`. Websites are credential-free HTTP(S) URLs, or `null` when not accepted. Do not assign a constituent party's website to its coalition. [Catalogue provenance](catalogue-provenance.md) records only evidence and limits relevant to displayed values.
 
-`officialColor` is absent, `null` or a six-digit hexadecimal colour (`#RRGGBB`) verified from official brand evidence. `officialFont` is absent, `null` or an object with exactly `family` (the documented nonempty font family), `src` (a local `/fonts/parties/<slug>.woff2`, `.woff`, `.ttf` or `.otf` path) and `weight` (an integer from 1 to 1000 matching the bundled face). The generator requires that font file under `public/fonts/parties` to exist as a regular file. Preserve the applicable licence alongside the font and document official provenance and web-embedding permission before adding an asset. Do not substitute an incidental website font for an official typeface. Remote font loading and arbitrary CSS values are not accepted.
+Colours are evidenced six-digit hexadecimal values. Fonts have exactly `family`, local `src` under `/fonts/parties/` with a supported font extension, and integer `weight` from 1 to 1000. The regular local file and embedding licence must exist before inclusion. Missing branding uses the neutral theme and site font; do not research unused brand variants.
 
-These fields are an additive schema-v3 extension: existing catalogues and consumers remain valid when branding is omitted, and consumers may ignore the new fields. The public projection includes only these allowlisted branding fields; evidence and licence review stay outside public JSON. Missing colour gives the party banner a light grey background and other accents the neutral breadcrumb colour; missing font uses the site font. The separate political-reference dataset remains outside this generator.
+`topics.json` is the sole area catalogue, with exactly `id` and six-language `label`. All catalogue IDs are stable lowercase ASCII slugs separated by single hyphens. `programme-identities.json` contains the evidenced aliases described in [provincial programme identity](provincial-data.md#programme-identity-and-geography). Unknown fields and duplicate IDs fail validation.
 
-`topics.json` is an array with exactly `id` and `label` and is the sole definition of the eight initial areas. Each label is a complete `LocalizedText` map. Catalogue IDs are unique lowercase ASCII letters/numbers separated by single hyphens, without leading or trailing hyphens. Unknown fields are rejected.
+Base paths are `/parties/<party>/<topic>` and `/topics/<topic>`, prefixed at presentation time with a supported locale. Preserve public IDs and anchors through wording/order changes.
 
-Generated base paths remain `/parties/<partyId>/<topicId>` and `/topics/<topicId>`. The portal prefixes these paths with `/es`, `/ca`, `/gl`, `/eu`, `/oc` or `/en`; editorial IDs and paths are locale-neutral. Changing labels does not change slugs. Do not silently rename published IDs or renumber points when reordering them. See [versioning](versioning.md) for compatibility rules.
+## Source versions and citation excerpts
 
-## Source snapshots
+Each source directory has exactly `metadata.json` and `extracted.json`, without symlinks or extra captures. Metadata contains exactly:
 
-Hash the original bytes with SHA-256. The source ID is `<partyId>-2026-<first-12-hash-characters>`; retain and verify the full hash. Different original bytes create another directory, even if the URL is unchanged.
+- `id`, `partyId`, `electionDate`, `title`, official `url`, `format`, `capturedAt`;
+- `evidenceKind: "citation-excerpts"`, `sha256`, `extractionSha256`;
+- positive `pageCount` for PDF only.
 
-Each source directory contains the original, `metadata.json` and `extracted.json`. Name PDF originals `original.pdf`, HTML `original.html` or `original.htm`, and other formats `original.<ext>`. Symlinks are rejected. Keep extraction methods and limitations in the review record, not extra source-directory files. `.gitkeep` and Finder metadata are ignored.
+The fixed election date is `2026-11-29`; format is `pdf`, `html` or `other`. `capturedAt` is the actual UTC consultation time, not a publication date. URLs must be credential-free HTTP(S). Both hashes are full lowercase SHA-256. Source IDs remain `<partyId>-2026-<first-12-original-hash-characters>`.
 
-Metadata fields are:
+`sha256` identifies the original bytes consulted during authoring. That original is no longer stored or rehashed during builds. Do not claim the excerpt authenticates the original, and do not invent an original digest from a search result or edited derivative. A changed original gets a new source version. `extractionSha256` is checked against the exact retained `extracted.json` bytes, including whitespace.
 
-```json
-{
-  "id": "<sourceId>",
-  "partyId": "<partyId>",
-  "electionDate": "2026-11-29",
-  "title": "<official document title and edition>",
-  "url": "<official HTTP(S) URL>",
-  "format": "pdf",
-  "capturedAt": "<UTC ISO 8601 timestamp>",
-  "originalFile": "original.pdf",
-  "sha256": "<full original SHA-256>",
-  "extractionSha256": "<full extracted.json SHA-256>",
-  "pageCount": 1
-}
-```
+Extraction contains exactly `sourceId`, `sourceSha256` and `segments`. Each segment contains `id`, `text` and either a positive physical `page` with optional `printedPage`, or nonempty `section` with optional real `anchor`. PDF pages are unique, increasing and no greater than `pageCount`; omitted uncited pages are expected. Section anchors must exist in the official source.
 
-`format` is `pdf`, `html` or `other`. A positive `pageCount` is required for PDF and prohibited for other formats. UTC timestamps accept seconds and optional three-digit milliseconds, such as `2026-10-12T10:00:00Z`. `capturedAt` is consultation time, not an invented publication date.
+Retain only cited segments. Segment text is the sorted, unique set of normalized original quotations used for that segment, joined with blank lines. Normalize whitespace only; preserve wording, punctuation, hyphens, negations and conditions. All retained text must be accounted for by actual citations; surplus text and unused segments fail validation. A completed review with no points may retain source metadata and an empty segment array. Undeclared sources fail validation.
 
-Use `shasum -a 256 <file>` to obtain hashes. Compute the extraction hash after writing its final bytes; whitespace changes also affect the hash.
-
-## Extracted segments
-
-```json
-{
-  "sourceId": "<sourceId>",
-  "sourceSha256": "<full original SHA-256>",
-  "segments": [
-    {
-      "id": "page-1",
-      "page": 1,
-      "printedPage": "i",
-      "text": "<extracted text>"
-    }
-  ]
-}
-```
-
-For PDF, preserve exactly one segment for each physical page, in order from 1 to `pageCount`, including covers and blank pages. `printedPage` is an optional string allowing numbers, Roman numerals or labels. Physical page numbers must not be replaced by printed numbers.
-
-For HTML and other formats, each segment has `id`, `section`, `text` and an optional real `anchor`, such as `#housing`, with no page fields. Do not invent anchors absent from the site. Capture each necessary URL separately for a multi-page programme. For a rendered page, retain a snapshot containing the verified visible programme text and explain the capture method in review.
-
-Segment IDs are unique within a source. Blank-page text can be empty, but the full extraction needs verifiable text. Correcting extraction of the same original updates its hash and review record without breaking existing segment references.
+Verify quotations and their surrounding context against the full official original during authoring or correction, using an external temporary copy. The small repository evidence supports reference integrity and exact quote occurrence, not independent offline reinspection of the complete original. See [ADR 0005](adr/0005-minimal-citation-evidence.md).
 
 ## Editable syntheses
 
-Each `syntheses/<partyId>/<topicId>.json` has this structure:
+A synthesis has exactly `id`, `partyId`, `topicId`, positive `revision`, `reviewStatus`, `reviewedAt`, `sourceIds`, `points` and optional `internalNotes`. Its ID is `<party>--<topic>` and must match its path. Each point has exactly stable `id`, `title`, `text`, `status`, `citations` and optional `internalNotes`. Notes are only for a material interpretation limit needed to maintain that point; do not retain execution histories or duplicate wording.
 
-```json
-{
-  "id": "<partyId>--<topicId>",
-  "partyId": "<partyId>",
-  "topicId": "<topicId>",
-  "revision": 1,
-  "reviewStatus": "partial",
-  "reviewedAt": "<UTC review timestamp>",
-  "sourceIds": ["<sourceId>"],
-  "internalNotes": "<optional anonymised review note>",
-  "points": [
-    {
-      "id": "<globally-stable-point-id>",
-      "title": {
-        "es": "<Castilian heading>",
-        "ca": "<Catalan/Valencian heading>",
-        "gl": "<Galician heading>",
-        "eu": "<Basque heading>",
-        "oc": "<Aranese heading>",
-        "en": "<English heading>"
-      },
-      "text": {
-        "es": "<Castilian synthesis>",
-        "ca": "<Catalan/Valencian translation>",
-        "gl": "<Galician translation>",
-        "eu": "<Basque translation>",
-        "oc": "<Aranese translation>",
-        "en": "<English translation>"
-      },
-      "status": "approved",
-      "citations": [
-        {
-          "sourceId": "<sourceId>",
-          "segmentId": "page-1",
-          "quote": "<supporting original quotation>"
-        }
-      ]
-    }
-  ]
-}
-```
+Titles and texts of approved points are complete maps of `es`, `ca`, `gl`, `eu`, `oc` and `en`. Drafts in an external staging root require at least Castilian and may contain other supported locales. The actual repository commands use `--approved-only` and reject draft points. All point IDs are globally unique. Quotes and official names remain in their original language.
 
-`LocalizedText` is an object with exactly six nonempty string values keyed by `es`, `ca`, `gl`, `eu`, `oc` and `en`. Catalan/Valencian share `ca`; `oc` contains Aranese wording. All topic labels and approved point titles/texts require complete maps. Draft titles/texts require `es`, may omit other supported locales and reject unknown or blank values. Incomplete drafts never enter public output.
+Each citation has exactly `sourceId`, `segmentId` and a nonempty original `quote`. It must resolve to a declared source of the same formation and occur in the retained segment after whitespace normalization. Preserve sufficient source context during review to avoid misleading excerpts.
 
-Castilian is the editorial reference, checked against the original programme. All six versions publish as one agreed batch with shared IDs, order, citations, approval status, revision and review timestamp. Any change to public wording in any language increments the shared revision. A correction checks equivalence across all six versions before agreement; no automatic or stale-language fallback is published. Official formation names, source titles, section names and supporting quotations remain original.
+- `pending`: no approved points, `reviewedAt: null`.
+- `partial`: at least one approved point, reviewed sources and an actual UTC review timestamp.
+- `complete`: all points approved, or no points after reviewing the relevant corpus; retain reviewed source references.
 
-Point IDs are globally unique, including drafts. Every point needs a title, text, `draft` or `approved` status and at least one verifiable citation. Optional point and synthesis `internalNotes` never enter public JSON.
-
-A citation must reference an existing segment in a declared source belonging to the same formation. The quote must occur in extraction allowing only whitespace differences; do not change words, hyphens, punctuation or conditions. Public page/section/anchor fields are derived from the segment rather than entered twice.
-
-`revision` is a positive integer, incremented on public wording, order, citation or review-state changes. Preserve synthesis and point IDs. `reviewedAt` describes the last editorial review of the public batch, not generator execution.
-
-| `reviewStatus` | Points                                                     | `reviewedAt`  | Sources                       |
-| -------------- | ---------------------------------------------------------- | ------------- | ----------------------------- |
-| `pending`      | No approved points; drafts permitted                       | `null`        | Sources supporting any drafts |
-| `partial`      | At least one approved point; drafts permitted              | UTC timestamp | At least one                  |
-| `complete`     | All approved, or empty after reviewing the relevant corpus | UTC timestamp | At least one                  |
-
-Missing formation/area files generate empty pending entries, not placeholder prose. While debating changes to a published point, retain its approved editorial version and keep alternatives in review records. The approved state cannot itself prove human consensus or semantic fidelity; skills must verify both before publication.
+Missing formation/area files produce empty pending entries. Completion describes the reviewed synthesis, not an exhaustive programme catalogue. Preserve the approved version during debate. Any change to public wording, order, references or review state increments the shared revision and checks all six versions. Storage-only cleanup and removal of unused public evidence fields do not rewrite editorial history.
 
 ## Public projection
 
-Every generated file contains `schemaVersion: 3`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`. Version 3 replaces scalar topic labels and point titles/texts with complete locale maps in all four envelopes together; the portal accepts only version 3. Version 2 introduced required nullable official websites; that behavior remains. When schema v3 was introduced, the real corpus had no points to migrate: catalogue labels are translated, pending syntheses retain their IDs and state, and synthetic fixtures exercise translated points. Older consumers must be rebuilt together with the regenerated envelopes.
+All four envelopes use `schemaVersion: 4`, `electionDate: "2026-11-29"` and an array named `parties`, `topics`, `sources` or `syntheses`. Schema 4 removes supporting literal `quote` from public citations; all consumers migrate together. Editorial evidence retains quotes. Older programme schemas are rejected by the reader. Provincial schema 1 is independent.
 
-- Catalogues are sorted by ID; topics include their public path.
-- Syntheses contain `id`, `partyId`, `topicId`, `path`, `revision`, `reviewStatus`, `reviewedAt`, `sourceIds` and approved `points` in editorial order.
-- Public points contain only `id`, `title`, `text` and `citations`. IDs can be used as page anchors.
-- Pending entries expose a null revision, no points and no sources. Partial entries expose only approved-point sources. Complete entries retain all reviewed sources, including when no proposals were identified.
-- Public sources contain only `id`, `partyId`, `electionDate`, `title`, `url`, `format`, `capturedAt`, `sha256` and, for PDF, `pageCount`. Extraction text and local paths are excluded.
+Public syntheses have `id`, `partyId`, `topicId`, `path`, `revision`, `reviewStatus`, `reviewedAt`, `sourceIds` and approved `points` in editorial order. Public points have `id`, six-language `title` and `text`, and citations with `sourceId`, `segmentId` and derived page/section locators. No literal quotes, internal notes, draft text, extraction text or local paths are exposed. State and revision remain necessary for availability, indexing and correction identity even when not displayed.
+
+Pending entries expose no revision, points or sources. Partial entries expose only approved-point sources; complete entries retain reviewed sources. Public sources have exactly `id`, `partyId`, `electionDate`, `title`, `url`, `format`, `capturedAt`, the recorded original `sha256` and PDF `pageCount` when applicable. Their hashes identify consulted versions rather than a downloadable local archive.
 
 ## Generation and verification
 
@@ -173,8 +82,6 @@ npm run content:check
 npm run test
 ```
 
-Generation validates all catalogues, snapshots, hashes, extraction and syntheses before writing public output. Invalid input preserves prior JSON. Valid output replaces each file by rename; an I/O failure may interrupt the set, so regenerate and validate the whole set before publication.
+The content commands validate both programme and provincial pipelines. Invalid inputs preserve previous JSON. Generation writes each public file by rename; an interrupted set must be regenerated and checked together. `--check` compares expected bytes without writing and rejects unexpected output files. Identical inputs produce identical bytes and never rewrite review dates or editable prose.
 
-`content:check` compares expected bytes without writing. Unexpected output files are rejected rather than deleted. The generator neither inserts current timestamps nor rewrites editable records. Identical inputs produce identical bytes.
-
-For isolated rehearsals use `node scripts/generate-content.mjs --root <temporary-directory> [--check]`; keep synthetic content outside the real corpus.
+For unapproved preparation use `node scripts/generate-content.mjs --root <external-staging-root> [--check]`. Omit `--approved-only` only in such an isolated root. Real/synthetic drafts and raw source artifacts must never be copied into the actual corpus for a rehearsal.

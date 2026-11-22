@@ -1,4 +1,3 @@
-# Preserve source and extraction bytes used for hash verification.
+# Preserve the exact retained excerpt bytes used for hash verification.
 content/sources/** -text
-content/sources/**/*.pdf binary
 content/generated/*.json text eol=lf

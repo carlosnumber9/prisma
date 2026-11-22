@@ -6,8 +6,8 @@
   "url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26-1.pdf",
   "format": "pdf",
   "capturedAt": "2026-11-15T18:50:16Z",
-  "originalFile": "original.pdf",
   "sha256": "e9c8341339538b550641b6ddb1c3fdfeef7fda6a8a1a4be9e8d6a44cbc229bf5",
-  "extractionSha256": "b6dc87a2eb409d6b588f87139c2dcdadeeecdc19c7feb03ed84fb45e074c2bc1",
-  "pageCount": 114
+  "extractionSha256": "4c91f6094a2941a1ce738a7e4b54fc828136a09d8166056dddeac5c5945e1e88",
+  "pageCount": 114,
+  "evidenceKind": "citation-excerpts"
 }

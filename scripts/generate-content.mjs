@@ -215,7 +215,7 @@ function loadSources(root, parties) {
         'url',
         'format',
         'capturedAt',
-        'originalFile',
+        'evidenceKind',
         'sha256',
         'extractionSha256',
       ],
@@ -242,25 +242,15 @@ function loadSources(root, parties) {
       `source ${id}: invalid format`,
     );
     requireCondition(
-      typeof meta.originalFile === 'string' &&
-        /^original\.[a-z0-9]+$/.test(meta.originalFile),
-      `source ${id}: originalFile must be named original.ext`,
+      meta.evidenceKind === 'citation-excerpts',
+      `source ${id}: only citation excerpts belong in the repository`,
     );
     requireCondition(
-      meta.format !== 'pdf' || meta.originalFile === 'original.pdf',
-      `source ${id}: a PDF must be stored as original.pdf`,
-    );
-    requireCondition(
-      meta.format !== 'html' ||
-        ['original.html', 'original.htm'].includes(meta.originalFile),
-      `source ${id}: HTML must be stored as original.html or original.htm`,
-    );
-    requireCondition(
-      names.length === 3 &&
+      names.length === 2 &&
         names.every((name) =>
-          [meta.originalFile, 'metadata.json', 'extracted.json'].includes(name),
+          ['metadata.json', 'extracted.json'].includes(name),
         ),
-      `source ${id}: keep only the original, metadata.json and extracted.json`,
+      `source ${id}: keep only metadata.json and extracted.json`,
     );
     for (const key of ['sha256', 'extractionSha256']) {
       requireCondition(
@@ -268,12 +258,6 @@ function loadSources(root, parties) {
         `source ${id}.${key}: invalid hash`,
       );
     }
-    const original = regularFile(join(directory, meta.originalFile));
-    requireCondition(original.length > 0, `source ${id}: empty original`);
-    requireCondition(
-      hash(original) === meta.sha256,
-      `source ${id}: original hash mismatch`,
-    );
     requireCondition(
       id === `${meta.partyId}-2026-${meta.sha256.slice(0, 12)}`,
       `source ${id}: incorrect version ID`,
@@ -295,10 +279,6 @@ function loadSources(root, parties) {
       `source ${id}: extraction linked to another version`,
     );
     array(extraction.segments, `source ${id}.segments`);
-    requireCondition(
-      extraction.segments.length > 0,
-      `source ${id}: extraction has no segments`,
-    );
     const segments = new Map();
     for (const segment of extraction.segments) {
       fields(
@@ -308,7 +288,7 @@ function loadSources(root, parties) {
         `segment ${id}`,
       );
       slug(segment.id, `source ${id}.segment.id`);
-      string(segment.text, `source ${id}.${segment.id}.text`, true);
+      string(segment.text, `source ${id}.${segment.id}.text`);
       requireCondition(
         !segments.has(segment.id),
         `source ${id}: duplicate segment ${segment.id}`,
@@ -342,21 +322,18 @@ function loadSources(root, parties) {
       }
       segments.set(segment.id, segment);
     }
-    requireCondition(
-      extraction.segments.some((segment) => normalize(segment.text).length > 0),
-      `source ${id}: extraction has no verifiable text`,
-    );
     if (meta.format === 'pdf') {
       requireCondition(
         Number.isInteger(meta.pageCount) && meta.pageCount > 0,
         `source ${id}: missing pageCount`,
       );
       requireCondition(
-        extraction.segments.length === meta.pageCount &&
-          extraction.segments.every(
-            (segment, index) => segment.page === index + 1,
-          ),
-        `source ${id}: keep one entry per physical page in order, including empty pages`,
+        extraction.segments.every(
+          (segment, index) =>
+            segment.page <= meta.pageCount &&
+            (index === 0 || segment.page > extraction.segments[index - 1].page),
+        ),
+        `source ${id}: excerpt pages must be ordered, unique and within pageCount`,
       );
     } else {
       requireCondition(
@@ -364,7 +341,7 @@ function loadSources(root, parties) {
         `source ${id}: pageCount is only valid for PDF`,
       );
     }
-    sources.set(id, { meta, segments });
+    sources.set(id, { meta, segments, quotes: new Map(), declared: false });
   }
   return sources;
 }
@@ -388,6 +365,9 @@ function publicCitation(citation, sources, partyId, sourceIds, context) {
     normalize(segment.text).includes(normalize(citation.quote)),
     `${context}: quote does not occur in extracted text`,
   );
+  const quotes = source.quotes.get(citation.segmentId) ?? new Set();
+  quotes.add(normalize(citation.quote));
+  source.quotes.set(citation.segmentId, quotes);
   const location =
     source.meta.format === 'pdf'
       ? {
@@ -401,12 +381,11 @@ function publicCitation(citation, sources, partyId, sourceIds, context) {
   return {
     sourceId: citation.sourceId,
     segmentId: citation.segmentId,
-    quote: citation.quote,
     ...location,
   };
 }
 
-function loadSyntheses(root, parties, topics, sources) {
+function loadSyntheses(root, parties, topics, sources, approvedOnly) {
   const syntheses = new Map();
   const pointIds = new Set();
   const directory = join(root, 'content/editorial/syntheses');
@@ -469,6 +448,8 @@ function loadSyntheses(root, parties, topics, sources) {
           `synthesis ${id}: source is missing or belongs to another formation ${sourceId}`,
         );
       }
+      for (const sourceId of synthesis.sourceIds)
+        sources.get(sourceId).declared = true;
       array(synthesis.points, `synthesis ${id}.points`);
       const approved = [];
       for (const point of synthesis.points) {
@@ -497,6 +478,10 @@ function loadSyntheses(root, parties, topics, sources) {
         requireCondition(
           ['draft', 'approved'].includes(point.status),
           `point ${point.id}: invalid status`,
+        );
+        requireCondition(
+          !approvedOnly || point.status === 'approved',
+          `point ${point.id}: unapproved work belongs outside the repository`,
         );
         if (Object.hasOwn(point, 'internalNotes'))
           string(point.internalNotes, `point ${point.id}.internalNotes`, true);
@@ -571,7 +556,11 @@ function loadSyntheses(root, parties, topics, sources) {
   return syntheses;
 }
 
-export function buildContent(root) {
+export function buildContent(root, { approvedOnly = false } = {}) {
+  requireCondition(
+    !existsSync(join(root, 'content/reviews')),
+    'Research reviews belong outside the repository',
+  );
   // Reject symlinks in the input tree before following any nested path.
   entries(join(root, 'content'));
   entries(join(root, 'content/editorial'));
@@ -586,7 +575,21 @@ export function buildContent(root) {
     root,
   );
   const sources = loadSources(root, parties);
-  const syntheses = loadSyntheses(root, parties, topics, sources);
+  const syntheses = loadSyntheses(root, parties, topics, sources, approvedOnly);
+  for (const [id, source] of sources) {
+    requireCondition(source.declared, `source ${id}: unused source`);
+    for (const [segmentId, segment] of source.segments) {
+      const quotes = source.quotes.get(segmentId);
+      requireCondition(
+        quotes?.size > 0,
+        `source ${id}.${segmentId}: unused evidence segment`,
+      );
+      requireCondition(
+        normalize(segment.text) === normalize([...quotes].sort().join('\n\n')),
+        `source ${id}.${segmentId}: surplus evidence beyond cited quotations`,
+      );
+    }
+  }
   for (const party of parties.values()) {
     for (const topic of topics.values()) {
       const id = `${party.id}--${topic.id}`;
@@ -624,7 +627,7 @@ export function buildContent(root) {
   );
   const envelope = (key, values) =>
     JSON.stringify(
-      { schemaVersion: 3, electionDate: ELECTION_DATE, [key]: values },
+      { schemaVersion: 4, electionDate: ELECTION_DATE, [key]: values },
       null,
       2,
     ) + '\n';
@@ -645,9 +648,12 @@ export function buildContent(root) {
   ]);
 }
 
-export function generateContent(root, { check = false } = {}) {
+export function generateContent(
+  root,
+  { check = false, approvedOnly = false } = {},
+) {
   // Complete validation before touching any public output.
-  const output = buildContent(root);
+  const output = buildContent(root, { approvedOnly });
   const directory = join(root, 'content/generated');
   if (existsSync(directory)) {
     for (const name of entries(directory)) {
@@ -687,18 +693,20 @@ export function generateContent(root, { check = false } = {}) {
 function main(args) {
   let root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
   let check = false;
+  let approvedOnly = false;
   for (let index = 0; index < args.length; index++) {
     if (args[index] === '--check') check = true;
+    else if (args[index] === '--approved-only') approvedOnly = true;
     else if (args[index] === '--root' && args[index + 1])
       root = resolve(args[++index]);
     else if (args[index] === '--help') {
       process.stdout.write(
-        'Usage: node scripts/generate-content.mjs [--check] [--root directory]\n',
+        'Usage: node scripts/generate-content.mjs [--check] [--approved-only] [--root directory]\n',
       );
       return;
     } else throw new Error(`Unknown or incomplete argument: ${args[index]}`);
   }
-  generateContent(root, { check });
+  generateContent(root, { check, approvedOnly });
   process.stdout.write(
     check
       ? 'Content validated; generated JSON is up to date.\n'

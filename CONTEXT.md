@@ -19,10 +19,10 @@ The official set of proposals a formation publishes for a particular election. I
 _Avoid_: Substituting campaign announcements or programmes from another election.
 
 **Source version**:
-A preserved version of an official programme document consulted during review. The same URL may serve different versions at different times.
+An identified edition of an official programme consulted during review. The same URL may serve different versions at different times.
 
 **Extracted segment**:
-A localisable portion of source text, corresponding to a physical page or a document section. Its evidence remains distinct from the wording of a summary.
+A localisable original quotation corresponding to a physical page or document section. Retained excerpts support proposal citations rather than representing full source pages.
 
 **Policy area**:
 A shared thematic category used to organise proposals across formations, such as housing or education.

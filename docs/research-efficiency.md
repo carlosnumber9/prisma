@@ -46,7 +46,7 @@ Spawn each task with `fork_turns="none"`, the named `agent_type` and a short mes
 
 ## Reuse evidence and work
 
-Maintain a local run directory outside Git with per-task subdirectories, an immutable source store and a source index. Reuse existing programme/reference snapshots by source hash; never merge their contracts. Each entry in the cache-check index is the relative path of an existing `metadata.json` under the assigned source root. Both contracts' common original/extraction hash fields are supported by this byte check.
+Maintain a local run directory outside Git with per-task subdirectories, an immutable source store and a source index. Reuse complete programme originals in that external cache by hash. Repository citation excerpts are not full snapshots and cannot satisfy original-byte checks. Each entry in the cache-check index is the relative path of an existing `metadata.json` under the assigned source root. Both contracts' common original/extraction hash fields are supported by this byte check.
 
 ```sh
 node scripts/research-efficiency.mjs snapshots <metadata-paths.json> <source-root>
@@ -60,7 +60,7 @@ Resume by source hash, scope and unresolved issue ID. Reuse prior extraction and
 
 ## Deterministic checks and escalation
 
-Use the existing programme generator for source hashes, exact quotation occurrence, references, identifiers, field allowlists and public projection. It never calls a model. Use the offline snapshot check before reusing a source. These commands do not substitute for independent semantic QA and do not validate the separate political-reference envelope. Keep extraction/OCR verification and any missing Senate representation explicitly pending rather than inventing a contract.
+Use the existing programme generator for retained-excerpt hashes, exact quotation occurrence, references, identifiers, field allowlists and public projection. It does not rehash complete originals; use the external snapshot cache helper for that purpose. It never calls a model. Use the offline snapshot check before reusing a source. These commands do not substitute for independent semantic QA and do not validate the separate political-reference envelope. Keep extraction/OCR verification and any missing Senate representation explicitly pending rather than inventing a contract.
 
 Each issue receives at most two initial attempts, including the first attempt. Record attempts and the reason before retrying. Escalate early for conflicting official evidence, uncertain identity, difficult extraction, ambiguous proposal scope or failed semantic/translation QA. Builder permits at most one additional targeted stronger-model attempt per issue, passing only the packet, relevant evidence and exact failure. Network failures require an accessible official alternative or a permitted read-only capture; a stronger model is not a network permission workaround. Persistent gaps remain pending.
 

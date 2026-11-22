@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "electionDate": "2026-11-29",
   "syntheses": [
     {
@@ -36,13 +36,11 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-44",
-              "quote": "un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado",
               "page": 44
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-44",
-              "quote": "sin elevar la carga fiscal de las pymes.",
               "page": 44
             }
           ]
@@ -69,28 +67,24 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-45",
-              "quote": "3 % anual sobre el patrimonio neto individual que supere los 50 millones de euros.",
               "page": 45,
               "printedPage": "50"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-45",
-              "quote": "mantendrá la obligación de tributar durante los 5 años posteriores al traslado de residencia a un paraíso o país extranjero.",
               "page": 45,
               "printedPage": "50"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-45",
-              "quote": "recaudación financiará la Prestación Universal por Crianza.",
               "page": 45,
               "printedPage": "50"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-45",
-              "quote": "No se admitirán exenciones a la empresa familiar ni bonifica- ciones de comunidades autónomas.",
               "page": 45,
               "printedPage": "50"
             }
@@ -118,35 +112,30 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "a un máximo de 10 millones de euros por heredero.",
               "page": 46,
               "printedPage": "51"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "marginal del 100 % sobre el tramo de la base imponible que supere esa cifra",
               "page": 46,
               "printedPage": "51"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "las donaciones recibidas en vida y no se permitirán las bonificaciones autonómi- cas.",
               "page": 46,
               "printedPage": "51"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "quedará exenta una vivienda por heredero hasta un máximo de 5.",
               "page": 46,
               "printedPage": "51"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "la recaudación lograda se destinará a doblar el gasto actual en políticas sociales de vivienda",
               "page": 46,
               "printedPage": "51"
             }
@@ -174,21 +163,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "quien cobre el salario mínimo no pague IRPF",
               "page": 46,
               "printedPage": "51"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "extenderemos esa rebaja, de forma de- creciente, hasta los 27.000 euros.",
               "page": 46,
               "printedPage": "51"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-46",
-              "quote": "a partir de 120.000 euros anuales y elevaremos progresivamente los tipos marginales hasta alcanzar el 52 % para rentas a partir de 300.000 euros.",
               "page": 46,
               "printedPage": "51"
             }
@@ -216,14 +202,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-47",
-              "quote": "servicios veterinarios pasarán del tipo general al reducido",
               "page": 47,
               "printedPage": "52"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-47",
-              "quote": "los paña- les del reducido al superreducido y los productos sin gluten tendrán IVA cero",
               "page": 47,
               "printedPage": "52"
             }
@@ -251,21 +235,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-84",
-              "quote": "la red de oficinas de Correos (Banco Postal) y la activación de los derechos de voto en el 18 % público de CaixaBank.",
               "page": 84,
               "printedPage": "93"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-84",
-              "quote": "recibirá como aportación a su capital los acti- vos de la Sociedad Estatal de Correos y Telégrafos y las acciones de CaixaBank en manos del FROB.",
               "page": 84,
               "printedPage": "93"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-84",
-              "quote": "políticas públicas estratégicas, será motor de la reindustrialización, facilitará cré- ditos ventajosos a pymes y autónomos",
               "page": 84,
               "printedPage": "93"
             }
@@ -293,13 +274,11 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-92",
-              "quote": "Transpondremos de in- mediato la directiva europea del IVA franquiciado",
               "page": 92
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-92",
-              "quote": "facturen menos de 85.000 euros anuales quedarán exentos de liquidaciones periódicas y solo tendrán que presentar una declaración informativa anual.",
               "page": 92
             }
           ]
@@ -340,14 +319,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-31",
-              "quote": "Ley de Financiación",
               "page": 31,
               "printedPage": "35"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-31",
-              "quote": "deberá llegar al 7 % del PIB en 2030",
               "page": 31,
               "printedPage": "35"
             }
@@ -375,21 +352,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-31",
-              "quote": "Crearemos de forma prioritaria plazas públicas en todas las etapas",
               "page": 31,
               "printedPage": "35"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-31",
-              "quote": "se prohibirán de forma inmediata las cuotas",
               "page": 31,
               "printedPage": "35"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-25",
-              "quote": "gratuitas garantizadas para toda familia solicitante",
               "page": 25,
               "printedPage": "29"
             }
@@ -417,21 +391,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-31",
-              "quote": "Fijaremos por ley ratios máximas por aula",
               "page": 31,
               "printedPage": "35"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-31",
-              "quote": "15 en Primaria y FP, 20 en Secundaria y 23 en Bachillerato",
               "page": 31,
               "printedPage": "35"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-31",
-              "quote": "alumnado NEAE compute el doble a efectos de ratio",
               "page": 31,
               "printedPage": "35"
             }
@@ -459,28 +430,24 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-32",
-              "quote": "las cuantías de becas postobligatorias hasta el 0,44 % del PIB",
               "page": 32,
               "printedPage": "36"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-32",
-              "quote": "alcanzando a 500.000 estudiantes más",
               "page": 32,
               "printedPage": "36"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-32",
-              "quote": "un 60 % las becas para alumnado NEAE",
               "page": 32,
               "printedPage": "36"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-32",
-              "quote": "renta familiar como determinante tras la acreditación técnica.",
               "page": 32,
               "printedPage": "36"
             }
@@ -508,21 +475,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-32",
-              "quote": "Fijación estatal por ley de un máximo de",
               "page": 32,
               "printedPage": "36"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-32",
-              "quote": "18 horas lectivas en Secundaria, Bachillerato, FP y Régimen Especial",
               "page": 32,
               "printedPage": "36"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-32",
-              "quote": "horas en Infantil y Primaria",
               "page": 32,
               "printedPage": "36"
             }
@@ -550,14 +514,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-33",
-              "quote": "destinen al menos el 1 % de su PIB regional",
               "page": 33,
               "printedPage": "37"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-33",
-              "quote": "especialmente en titulaciones necesarias para acceder a una profesión",
               "page": 33,
               "printedPage": "37"
             }
@@ -585,28 +547,24 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "la gratuidad total y universal del servicio de comedor escolar",
               "page": 22,
               "printedPage": "26"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "todo el alumnado matriculado en Educación Infantil y Primaria",
               "page": 22,
               "printedPage": "26"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "productos frescos de proximidad y temporada",
               "page": 22,
               "printedPage": "26"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "libres de ultraprocesados y adaptados a requerimientos nutricionales y alergias",
               "page": 22,
               "printedPage": "26"
             }
@@ -648,13 +606,11 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-51",
-              "quote": "suelo permanente equivalente al 60 % del salario medio neto de la economía.",
               "page": 51
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-51",
-              "quote": "prohibición explícita de que pueda ser absorbido o compensado mediante complementos o pluses salariales.",
               "page": 51
             }
           ]
@@ -681,21 +637,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-55",
-              "quote": "Hacia una jornada laboral máxima de 32 horas semanales sin reducción salarial",
               "page": 55,
               "printedPage": "61"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-55",
-              "quote": "Implantación inmediata a 37,5 horas en 2026 y 35 horas en el sector público, prohibiendo la compensación mediante horas extraordinarias y exigiendo la subi- da proporcional del salario hora en contratos a tiempo parcial.",
               "page": 55,
               "printedPage": "61"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-55",
-              "quote": "de forma progresiva hasta las 32 horas semanales.",
               "page": 55,
               "printedPage": "61"
             }
@@ -723,14 +676,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-52",
-              "quote": "repare el daño real causado a la persona trabajadora y di- suada de los despidos injustificados",
               "page": 52,
               "printedPage": "58"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-52",
-              "quote": "artículo 24 de la Carta Social Europea revisada",
               "page": 52,
               "printedPage": "58"
             }
@@ -758,7 +709,6 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-53",
-              "quote": "del 70 % al 80 % de la base reguladora durante los primeros seis meses (y 70 % el resto) y subiremos un 25 % los topes máximos.",
               "page": 53,
               "printedPage": "59"
             }
@@ -786,21 +736,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-53",
-              "quote": "priorizando parados de larga du- ración y jóvenes.",
               "page": 53,
               "printedPage": "59"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-101",
-              "quote": "mediante conve- nios con las comunidades autónomas",
               "page": 101,
               "printedPage": "114"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-101",
-              "quote": "no podrán referirse a puestos de trabajo estructurales o estatutarios de las admi- nistraciones públicas.",
               "page": 101,
               "printedPage": "114"
             }
@@ -828,19 +775,16 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-115",
-              "quote": "un tercio del consejo en empresas de 50 a 1.000 trabajadores y el 50 % (paritaria entre trabajadores y accionistas) en empresas de más de 1.000 trabajadores.",
               "page": 115
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-115",
-              "quote": "La fórmula concreta de elección se acordará mediante convenio colectivo",
               "page": 115
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-115",
-              "quote": "Este modelo se aplicará igualmente a las empresas públicas",
               "page": 115
             }
           ]
@@ -881,7 +825,6 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-60",
-              "quote": "Compromiso presupuestario legal para destinar el 3,5 % del PIB anual a proyectos de transi- ción ecológica justa, descarbonización industrial, adaptación al cambio climáti- co e infraestructuras verdes.",
               "page": 60
             }
           ]
@@ -908,13 +851,11 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-60",
-              "quote": "Reduciremos las emisiones respecto a 1990 un 38 % en 2035, un 85 % en 2040 y alcanzaremos la neutralidad climática en 2050",
               "page": 60
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-60",
-              "quote": "con sendas sectoriales que permitan evaluar su cumplimiento y ajustar las medidas de ejecución.",
               "page": 60
             }
           ]
@@ -941,14 +882,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-62",
-              "quote": "con participación pública del 30 % en las nuevas instalaciones renovables y de almacenamiento pequeñas y medianas.",
               "page": 62,
               "printedPage": "69"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-62",
-              "quote": "La mitad de los beneficios se reinvertirá en el fondo y la otra mitad irá a vivienda pública, rehabilitación y pensiones.",
               "page": 62,
               "printedPage": "69"
             }
@@ -976,14 +915,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-62",
-              "quote": "Antes de 2030, todas las comunidades de vecinos con un tejado o una azotea útiles tendrán una instalación solar de autoconsumo com- partido.",
               "page": 62,
               "printedPage": "69"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-62",
-              "quote": "adelantará el coste y la comuni- dad lo devolverá sin intereses con una parte de lo que ahorre en la luz.",
               "page": 62,
               "printedPage": "69"
             }
@@ -1011,21 +948,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-62",
-              "quote": "Sustituire- mos los bonos sociales por una tarifa social de la energía, con reconocimiento de oficio",
               "page": 62,
               "printedPage": "69"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-62",
-              "quote": "Actualizaremos las cuantías y los límites de consumo protegido",
               "page": 62,
               "printedPage": "69"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-62",
-              "quote": "Convertiremos en permanente la protección frente a los cortes por impago de los hogares vulnerables.",
               "page": 62,
               "printedPage": "69"
             }
@@ -1053,21 +987,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-73",
-              "quote": "el derecho humano al agua y el saneamiento, con el alcance y contenido definido por Naciones Unidas.",
               "page": 73,
               "printedPage": "80"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-73",
-              "quote": "Garantizaremos un mínimo vital de agua gratuito para las personas y hogares en situación de vulnerabilidad",
               "page": 73,
               "printedPage": "80"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-73",
-              "quote": "Ciclo del agua 100 % de gestión pública directa, prohi- bición legal de cortes de suministro por motivos económicos",
               "page": 73,
               "printedPage": "80"
             }
@@ -1095,14 +1026,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-88",
-              "quote": "impulsando una Ley de Agricultura con el objetivo de alcanzar al menos un 25 % de superficie agraria útil en producción ecológica para 2030 y el 100 % para 2050.",
               "page": 88,
               "printedPage": "98"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-88",
-              "quote": "priorizar las prác- ticas agroecológicas y los cultivos de secano, las variedades tradicionales y las leguminosas",
               "page": 88,
               "printedPage": "98"
             }
@@ -1130,7 +1059,6 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-98",
-              "quote": "Garantizaremos conexiones mínimas durante todo el año entre las islas y con la península, reforzando las obligaciones de servicio público, en especial entre las islas no capitalinas y la península",
               "page": 98,
               "printedPage": "110"
             }
@@ -1172,14 +1100,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-26",
-              "quote": "del 8 % del PIB estatal para la sanidad pública",
               "page": 26,
               "printedPage": "30"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-26",
-              "quote": "destinar el 25 % del presupuesto sanitario a Atención Primaria",
               "page": 26,
               "printedPage": "30"
             }
@@ -1207,28 +1133,24 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-26",
-              "quote": "gestión pública directa como la vía general",
               "page": 26,
               "printedPage": "30"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-26",
-              "quote": "los modelos de gestión indirecta pasarán a ser estrictamente excepcionales",
               "page": 26,
               "printedPage": "30"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-26",
-              "quote": "previa obligatoria por un comité técnico especializado",
               "page": 26,
               "printedPage": "30"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-27",
-              "quote": "la Ley de universalidad del SNS",
               "page": 27,
               "printedPage": "31"
             }
@@ -1256,21 +1178,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-27",
-              "quote": "alcanzar al menos el 50 % de la población residente al final de la legislatura",
               "page": 27,
               "printedPage": "31"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-27",
-              "quote": "«Plan Veo» (gafas y lentillas gratuitas)",
               "page": 27,
               "printedPage": "31"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-27",
-              "quote": "común de servicios para toda la población que los necesite",
               "page": 27,
               "printedPage": "31"
             }
@@ -1298,21 +1217,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-28",
-              "quote": "un fondo específico para la Red de",
               "page": 28,
               "printedPage": "32"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-28",
-              "quote": "hasta un mínimo de 10 por cada 100.000 habitantes",
               "page": 28,
               "printedPage": "32"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-28",
-              "quote": "«Cero Contenciones»",
               "page": 28,
               "printedPage": "32"
             }
@@ -1340,28 +1256,24 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-28",
-              "quote": "Reformaremos el artículo 43 de la Constitución para incluir el derecho al aborto",
               "page": 28,
               "printedPage": "32"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-28",
-              "quote": "Estrategia para garantizar la IVE en centros públicos",
               "page": 28,
               "printedPage": "32"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-28",
-              "quote": "incluyendo gastos de desplazamiento",
               "page": 28,
               "printedPage": "32"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-28",
-              "quote": "ejercicio del derecho de las mujeres a la interrupción voluntaria del embarazo",
               "page": 28,
               "printedPage": "32"
             }
@@ -1389,21 +1301,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-29",
-              "quote": "iniciando el cómputo con la indicación",
               "page": 29,
               "printedPage": "33"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-29",
-              "quote": "y prohíba las listas paralelas o de «paso B»",
               "page": 29,
               "printedPage": "33"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-29",
-              "quote": "seguirán en el registro oficial hasta recibir asistencia",
               "page": 29,
               "printedPage": "33"
             }
@@ -1445,25 +1354,21 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "Asignación presupuestaria permanente del 1 % del PIB anual",
               "page": 10
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "se incorporarán 1,5 millones de viviendas públicas en 12 años",
               "page": 10
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "de 600 € mensuales para inmuebles tipo de 80 m²",
               "page": 10
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "para que no supere el 25 % de la renta",
               "page": 10
             }
           ]
@@ -1490,21 +1395,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-11",
-              "quote": "que no sea la residencia habitual y permanente de la persona compradora o su",
               "page": 11,
               "printedPage": "14"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-11",
-              "quote": "arrendamiento bajo el régimen de alquiler asequible regulado.",
               "page": 11,
               "printedPage": "14"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-11",
-              "quote": "a cualquier persona jurídica con ánimo de lucro",
               "page": 11,
               "printedPage": "14"
             }
@@ -1532,21 +1434,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-12",
-              "quote": "extinción progresiva y definitiva de todas las licencias",
               "page": 12,
               "printedPage": "15"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-12",
-              "quote": "un plazo máximo de 3 años",
               "page": 12,
               "printedPage": "15"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-12",
-              "quote": "Los alquileres con una duración igual o menor a 30 días",
               "page": 12,
               "printedPage": "15"
             }
@@ -1574,21 +1473,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-13",
-              "quote": "el 25 % de la renta neta media por hogar de la sección censal",
               "page": 13,
               "printedPage": "16"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-13",
-              "quote": "por el índice SERPAVI",
               "page": 13,
               "printedPage": "16"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-13",
-              "quote": "una rebaja adicional obligatoria del 30 % sobre el valor regulado",
               "page": 13,
               "printedPage": "16"
             }
@@ -1616,21 +1512,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-15",
-              "quote": "Prohibiremos de forma permanente y con rango de ley",
               "page": 15,
               "printedPage": "18"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-15",
-              "quote": "una alternativa habitacional digna, adecuada y estable",
               "page": 15,
               "printedPage": "18"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-15",
-              "quote": "alquiler social de al menos 7 años",
               "page": 15,
               "printedPage": "18"
             }
@@ -1658,21 +1551,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-19",
-              "quote": "adquirirá la condición de derecho",
               "page": 19,
               "printedPage": "22"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-19",
-              "quote": "un derecho subjetivo",
               "page": 19,
               "printedPage": "22"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-19",
-              "quote": "las familias con menores y las víctimas de violencia machista",
               "page": 19,
               "printedPage": "22"
             }
@@ -1700,25 +1590,21 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "poseedoras de más de 1.000 viviendas",
               "page": 10
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "a tenedores de más de 700 viviendas",
               "page": 10
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "de más de 50 inmuebles",
               "page": 10
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-10",
-              "quote": "todas las fincas urbanas y suelos residenciales de la SAREB",
               "page": 10
             }
           ]
@@ -1745,28 +1631,24 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-18",
-              "quote": "un impuesto del 10 % sobre el valor de los pisos que afectará a las empresas desde el primer inmueble y a los particulares a partir del cuarto, cuan- do sus propiedades superen conjuntamente los 800.000 euros.",
               "page": 18,
               "printedPage": "21"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-18",
-              "quote": "dejar exentas las viviendas destinadas al alquiler asequible y estable.",
               "page": 18,
               "printedPage": "21"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-18",
-              "quote": "excepciones para particulares con participaciones minoritarias heredadas, inmuebles de escaso valor o circunstancias familiares acreditadas.",
               "page": 18,
               "printedPage": "21"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-18",
-              "quote": "quedarán fuera las cooperativas de vivienda, las adminis- traciones públicas y las organizaciones sin ánimo de lucro.",
               "page": 18,
               "printedPage": "21"
             }
@@ -1808,19 +1690,16 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-140",
-              "quote": "Nuestro horizonte es avanzar hacia una República Federal que nos permita al- canzar una democracia real en la que también elijamos la Jefatura del Estado.",
               "page": 140
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-140",
-              "quote": "Promoveremos el debate para formar una mayoría social y política",
               "page": 140
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-140",
-              "quote": "en un sentido federal y plurinacional incluyendo el derecho a decidir mediante referéndum",
               "page": 140
             }
           ]
@@ -1847,19 +1726,16 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-103",
-              "quote": "Impulsaremos de forma inmediata la reforma del sistema de financiación auto- nómica.",
               "page": 103
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-103",
-              "quote": "Destinaremos al menos un 2,3 % del PIB adicional al sistema de financiación au- tonómica cada año.",
               "page": 103
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-103",
-              "quote": "solidaridad interterritorial, a similar esfuerzo fiscal, para la convergencia en la fi- nanciación por población ajustada, sin que suponga perjuicio alguno para ninguna comunidad autónoma.",
               "page": 103
             }
           ]
@@ -1886,25 +1762,21 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-109",
-              "quote": "Aumentaremos la participación de los ayuntamientos en los tributos del Estado hasta el 2,5 % del PIB.",
               "page": 109
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-109",
-              "quote": "incremento del 0,4 % del PIB (6.000 millones de euros) el primer año",
               "page": 109
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-109",
-              "quote": "una garantía transitoria para que ningún ayuntamiento pierda financiación.",
               "page": 109
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-109",
-              "quote": "se condicionarán a la mejora de los servicios públicos, de forma que no se utilicen para realizar rebajas fiscales regresivas",
               "page": 109
             }
           ]
@@ -1931,14 +1803,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-141",
-              "quote": "pasar de las 500.000 en la actualidad a 250.000",
               "page": 141,
               "printedPage": "168"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-141",
-              "quote": "puedan retirarla si el Congreso la desvirtúa, o que puedan solicitar una consulta popular al respecto.",
               "page": 141,
               "printedPage": "168"
             }
@@ -1966,14 +1836,12 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-141",
-              "quote": "Aprobaremos una Ley de Integridad Pública",
               "page": 141,
               "printedPage": "168"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-141",
-              "quote": "los cambios de propiedad de las sociedades limitadas y las anónimas no cotizadas, identificando a sus socios, la cadena de propiedad y las personas que ejercen el control efectivo",
               "page": 141,
               "printedPage": "168"
             }
@@ -2001,19 +1869,16 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-119",
-              "quote": "supervisar a las grandes plataformas digitales con plantilla y recursos adecuados, pudiendo imponer multas de hasta el 6 % de su facturación mundial.",
               "page": 119
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-119",
-              "quote": "plataformas con sede en otro país europeo, se elevará la denuncia ante la Comisión Europea, rindiendo cuentas anualmente de los casos tramitados.",
               "page": 119
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-119",
-              "quote": "Garantizaremos el acceso de los investigadores a los datos internos de las plataformas.",
               "page": 119
             }
           ]
@@ -2040,13 +1905,11 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-123",
-              "quote": "Desplegaremos de forma efectiva la Ley Trans, reconoceremos a las personas no binarias y protegeremos frente a la violencia intragénero.",
               "page": 123
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-123",
-              "quote": "personas trans y de las personas LGTBIQA+, con medidas contra la discrimina- ción en el empleo, la educación, la salud, la vivienda, el deporte, la cultura y los servicios públicos.",
               "page": 123
             }
           ]
@@ -2073,13 +1936,11 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-126",
-              "quote": "ninguna persona quede fuera por retrasos de la Administración.",
               "page": 126
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-126",
-              "quote": "para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
               "page": 126
             }
           ]
@@ -2106,7 +1967,6 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-127",
-              "quote": "Cerraremos los Centros de Internamiento de Extranjeros (CIE). En los procedimientos de asilo en frontera, la detención se aplicará únicamente como último recurso excepcional, priorizando medidas alternativas y garantizando la no prolongación de plazos.",
               "page": 127,
               "printedPage": "150"
             }
@@ -2134,19 +1994,16 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-130",
-              "quote": "el compromiso de destinar el 5 % del PIB a gasto militar en el marco de la OTAN",
               "page": 130
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-130",
-              "quote": "los recursos presupuestarios hacia la seguridad humana, la protección civil, emergencias climáticas, sanidad y educación.",
               "page": 130
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-130",
-              "quote": "Todo ello debe contar con el opor- tuno control parlamentario.",
               "page": 130
             }
           ]
@@ -2187,21 +2044,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-57",
-              "quote": "revalorización automática con arreglo al IPC",
               "page": 57,
               "printedPage": "63"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-57",
-              "quote": "ninguna sea inferior al SMI",
               "page": 57,
               "printedPage": "63"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-57",
-              "quote": "no se privatice la gestión de las pensiones",
               "page": 57,
               "printedPage": "63"
             }
@@ -2229,21 +2083,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-57",
-              "quote": "Devolveremos la edad de jubilación a los 65 años",
               "page": 57,
               "printedPage": "63"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-58",
-              "quote": "deben poder acceder a los 60 años por su especial esfuerzo físico",
               "page": 58,
               "printedPage": "64"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-58",
-              "quote": "quienes han cotizado más de 40 años",
               "page": 58,
               "printedPage": "64"
             }
@@ -2271,21 +2122,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-58",
-              "quote": "Subiremos las pensiones",
               "page": 58,
               "printedPage": "64"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-58",
-              "quote": "del complemento de brecha de género con incrementos progresivos",
               "page": 58,
               "printedPage": "64"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-58",
-              "quote": "las carreras laborales interrumpidas o marcadas por la parcialidad",
               "page": 58,
               "printedPage": "64"
             }
@@ -2313,19 +2161,16 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-21",
-              "quote": "al mes por cada menor de 18 años a cargo",
               "page": 21
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-21",
-              "quote": "forma automática como deducción reembolsable del IRPF",
               "page": 21
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-21",
-              "quote": "Implementación en 3 fases durante la legislatura",
               "page": 21
             }
           ]
@@ -2352,35 +2197,30 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "la interconexión automatizada de datos fiscales",
               "page": 22,
               "printedPage": "26"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "la regla de las unidades de consumo",
               "page": 22,
               "printedPage": "26"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "el 60 % de la renta mediana",
               "page": 22,
               "printedPage": "26"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "equivalente al 40 % de la mediana",
               "page": 22,
               "printedPage": "26"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-22",
-              "quote": "Extenderemos de forma plena el IMV a jóvenes de 18 a 30 años",
               "page": 22,
               "printedPage": "26"
             }
@@ -2408,21 +2248,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-23",
-              "quote": "la inversión pública del 0,8 % al 1,7 % del PIB en 2030",
               "page": 23,
               "printedPage": "27"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-23",
-              "quote": "las horas e intensidad mínima de ayuda a domicilio",
               "page": 23,
               "printedPage": "27"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-23",
-              "quote": "mínimo 1 mes al año con centros de día o estancias temporales",
               "page": 23,
               "printedPage": "27"
             }
@@ -2450,21 +2287,18 @@
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-24",
-              "quote": "a la Ley de Familias el princi- pio de libre designación de personas de referencia",
               "page": 24,
               "printedPage": "28"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-24",
-              "quote": "Las personas designadas, sin necesidad de parentesco ni convivencia, serán referentes a efectos de permisos retribuidos por enfermedad, hospitalización, fallecimiento y cuidados, así como para el acompañamiento y la crianza de menores.",
               "page": 24,
               "printedPage": "28"
             },
             {
               "sourceId": "frente-amplio-2026-df6e4d967a3a",
               "segmentId": "page-24",
-              "quote": "El reconocimiento será voluntario y no impon- drá obligaciones automáticas de cuidado ni sustituirá la responsabilidad pública",
               "page": 24,
               "printedPage": "28"
             }
@@ -2506,7 +2340,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-13",
-              "quote": "1. Reindustrialización del país, priorizando el desarrollo de industrias estratégicas y que exploten los recursos con los que cuenta España. 2. Desarrollar una estrategia independiente de desarrollo industrial, que ponga fin a las imposiciones de Bruselas en beneficio de otras potencias. 3. Nacionalización de los sectores estratégicos de la economía. Fuerte intervención para priorizar los intereses de los españoles.",
               "page": 13,
               "printedPage": "13"
             }
@@ -2534,7 +2367,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-18",
-              "quote": "1. Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos.",
               "page": 18,
               "printedPage": "18"
             }
@@ -2562,7 +2394,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-18",
-              "quote": "3. Disminuir la carga fiscal del IVA e incorporar de forma progresiva todas las mercan- cías de primera necesidad en el tipo superreducido.",
               "page": 18,
               "printedPage": "18"
             }
@@ -2590,7 +2421,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-19",
-              "quote": "6. El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las boni- ficaciones que benefician sobre todo a los más ricos. Eliminación del impuesto de sucesiones para las rentas bajas.",
               "page": 19,
               "printedPage": "19"
             }
@@ -2618,7 +2448,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-38",
-              "quote": "2. Expropiar las tierras sin usar en propiedad de grandes terratenientes y reparto entre los agricultores y cooperativas para el aprovechamiento colectivo. Prohibición de la construcción de parques solares en tierras aptas para el cultivo.",
               "page": 38,
               "printedPage": "38"
             }
@@ -2660,7 +2489,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-22",
-              "quote": "1. Ofrecer una educación gratuita en todos los niveles académicos, incluidos los su - periores para las rentas más bajas. Implementación de un sistema de becas que sirva de apoyo para compaginar la formación con la vida laboral o condiciones de especial necesidad.",
               "page": 22,
               "printedPage": "22"
             }
@@ -2688,7 +2516,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-22",
-              "quote": "2. Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
               "page": 22,
               "printedPage": "22"
             }
@@ -2716,7 +2543,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-22",
-              "quote": "4. Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación.",
               "page": 22,
               "printedPage": "22"
             }
@@ -2744,7 +2570,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-22",
-              "quote": "6. Ofrecer prácticas de formación profesional y universidad remuneradas en base al trabajo desarrollado, sin excepciones.",
               "page": 22,
               "printedPage": "22"
             }
@@ -2786,7 +2611,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-9",
-              "quote": "1. Aumento general de los salarios en relación al coste de la vida.",
               "page": 9,
               "printedPage": "9"
             }
@@ -2814,7 +2638,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-9",
-              "quote": "2. Fortalecer la negociación colectiva a través de la implementación de un sistema obligatorio de representación de los trabajadores en todos las empresas con diez trabajadores o más, sin excepciones.",
               "page": 9,
               "printedPage": "9"
             }
@@ -2842,7 +2665,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-9",
-              "quote": "4. Fomentar la lucha contra la temporalidad. Restricción de las condiciones que per - miten a las empresas acogerse a contratos temporales o fijos-discontinuos. Prohibi- ción de las empresas de trabajo temporal (ETTS).",
               "page": 9,
               "printedPage": "9"
             }
@@ -2870,7 +2692,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-9",
-              "quote": "5. Eliminación de la cuota para los autónomos que no llegan al SMI e implementación de una bonificación total por baja. Cuotas más reducidas para los autónomos. Ga - rantizar la jubilación a los autónomos.",
               "page": 9,
               "printedPage": "9"
             }
@@ -2912,7 +2733,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-15",
-              "quote": "1. Poner fin a la llamada “transición ecológica”, la cual permite el desmantelamiento de la capacidad productiva del país y el sometimiento a las políticas restrictivas de la Unión Europea.",
               "page": 15,
               "printedPage": "15"
             }
@@ -2940,7 +2760,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-16",
-              "quote": "2. La regulación inmediata de la factura de la luz y de los combustibles. Las familias españolas no pueden seguir pagando los precios abusivos impuestos por empresas que especulan con la energía, así como con el precio de los combustibles, inflados por los costosos impuestos que los regulan.",
               "page": 16,
               "printedPage": "16"
             }
@@ -2968,7 +2787,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-16",
-              "quote": "5. Apuesta por la energía nuclear, como fuente de energía fiable, estable y controla - ble. Aumentar la inversión para la puesta en marcha y modernización de las plantas nucleares del país. Ampliación del parque nuclear e igualmente se explotarán los recursos nacionales de uranio. 6. Apoyar la producción basada en fuentes de energías renovables como complemen- to a la nuclear. Aumentar la inversión en la investigación y desarrollo de las nuevas y también existentes tecnologías para la producción con fuentes renovables.",
               "page": 16,
               "printedPage": "16"
             }
@@ -2996,7 +2814,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-38",
-              "quote": "9. Elaborar planes de recuperación de la biodiversidad y del patrimonio natural. Pro - teger incansablemente especies en peligro de extinción y luchar por prevenir y re - ducir el impacto de las especies invasoras.",
               "page": 38,
               "printedPage": "38"
             }
@@ -3038,7 +2855,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-42",
-              "quote": "Centralizar, unificar y homogeneizar el sistema nacional de salud. Acabar con el proceso de externalización y privatización de la sanidad. Mayor control sobre la actuación de las mutuas y protección de los trabajadores frente a las reclamacio- nes contra estas.",
               "page": 42,
               "printedPage": "42"
             }
@@ -3066,7 +2882,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-42",
-              "quote": "2. Dotar al sistema nacional de salud de más centros de atención primaria con los re- cursos y medios necesarios, en especial en las zonas rurales y barrios obreros.",
               "page": 42,
               "printedPage": "42"
             }
@@ -3094,7 +2909,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-42",
-              "quote": "4. Implantar la estructura adecuada para asegurar el cuidado y tratamiento bucoden- tal, fisioterapéutico y oftalmológico gratuito.",
               "page": 42,
               "printedPage": "42"
             }
@@ -3122,7 +2936,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-43",
-              "quote": "8. Abaratar el acceso a medicamentos con receta y tender a su gratuidad en casos de especial necesidad. Desarrollar una industria farmacéutica nacional que permita romper con la dependencia de grandes corporaciones privadas.",
               "page": 43,
               "printedPage": "43"
             }
@@ -3164,7 +2977,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-45",
-              "quote": "Construir vivienda pública de calidad para aumentar el número de inmuebles existen- tes y lograr que los trabajadores puedan acceder a una vivienda digna y asequible económicamente.",
               "page": 45,
               "printedPage": "45"
             }
@@ -3192,7 +3004,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-46",
-              "quote": "Luchar contra la especulación de bancos, fondos buitre y grandes rentistas; la vivien- da no es una mercancía con la que hacer negocio. Aplicar medidas que detengan la gentrificación, el auge de los pisos turísticos y las consecuencias negativas del turismo destructivo.",
               "page": 46,
               "printedPage": "46"
             }
@@ -3220,7 +3031,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-46",
-              "quote": "Paralizar inmediatamente todos los procesos de desahucio de las familias trabajado - ras en situación de vulnerabilidad que no pueden hacer frente al pago del alquiler/ hipoteca hasta encontrar una alternativa habitacional. Se deben conceder segundas oportunidades para deudas hipotecarias y garantizar la posibilidad de dación en pago en todas las situaciones.",
               "page": 46,
               "printedPage": "46"
             }
@@ -3248,7 +3058,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-46",
-              "quote": "Luchar por terminar con las mafias de la ocupación y de la delincuencia relacionada con el uso indebido de inmuebles, acabando con la lacra de los narcopisos. Se actua- rá a su vez contra la ocupación de viviendas de particulares, que no debe ser permi - tida en ningún caso. También se actuará contra los inquiokupas, que han hecho de la estafa su modo de vida.",
               "page": 46,
               "printedPage": "46"
             }
@@ -3276,7 +3085,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-46",
-              "quote": "Enfocar el acceso a la vivienda pública hacia los españoles autóctonos. No permitir que suceda como con las ayudas, que, como se ha visto en el programa, también de- ben cambiar, pues se suele priorizar al extranjero.",
               "page": 46,
               "printedPage": "46"
             }
@@ -3318,7 +3126,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-11",
-              "quote": "1. Salida de la Unión Europea para recuperar nuestra soberanía nacional. 2. Salida inmediata de la OTAN y reforzamiento de nuestro ejército.",
               "page": 11,
               "printedPage": "11"
             }
@@ -3346,7 +3153,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-32",
-              "quote": "1. Derogación parcial o total de todas las leyes basadas en la discriminación positiva. Supresión de los cupos.",
               "page": 32,
               "printedPage": "32"
             }
@@ -3374,7 +3180,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-32",
-              "quote": "2. Derogación de la Ley Trans. Es necesario proteger a los niños y adolescentes del adoctrinamiento queer, que solo crea y agrava problemas.",
               "page": 32,
               "printedPage": "32"
             }
@@ -3402,7 +3207,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-32",
-              "quote": "3. Supresión del Ministerio de Igualdad. Es un gasto superfluo que, lejos de repercutir en el bienestar de la mujer, va en contra de la misma, llegando incluso a negar la existencia material, biológica, de la mujer. El presupuesto del ministerio será desti- nado en su totalidad a cuestiones sociales.",
               "page": 32,
               "printedPage": "32"
             }
@@ -3430,14 +3234,12 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-53",
-              "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:",
               "page": 53,
               "printedPage": "53"
             },
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-53",
-              "quote": "3. Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reite - rada o que están de forma irregular en el país. Imposibilidad de regularse si han intentado entrar de forma ilegal. Revisión de los permisos de residencia a aquellos que hayan entrado de forma ilegal y lo hayan conseguido en los últimos años.",
               "page": 53,
               "printedPage": "53"
             }
@@ -3465,14 +3267,12 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-53",
-              "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:",
               "page": 53,
               "printedPage": "53"
             },
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-53",
-              "quote": "6. Cese de entrega de nacionalidades hasta que se pueda realizar una revisión ex - haustiva de las que se han entregado en los últimos veinte años. Elevación de las condiciones para la obtención futura de la nacionalidad, primando de verdad el Ius Sanguinis. La entrega de la nacionalidad a personas que no cumplan este requisito deben ser meritorias de ello, siendo algo anecdótico y no cientos de miles al año como pasa en la actualidad.",
               "page": 53,
               "printedPage": "53"
             }
@@ -3500,7 +3300,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-56",
-              "quote": "1. Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones. 2. Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia.",
               "page": 56,
               "printedPage": "56"
             }
@@ -3528,7 +3327,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-40",
-              "quote": "2. Desarrollo de una política de control del Estado sobre las grandes plataformas digitales, que garanticen que no se privilegian unos discursos de opinión sobre otros, o un sesgo informativo determinado. 3. Garantizar la objetividad y la neutralidad en medios de comunicación públicos, que de- ben tener una independencia real respecto al gobierno de turno.",
               "page": 40,
               "printedPage": "40"
             }
@@ -3556,14 +3354,12 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-53",
-              "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:",
               "page": 53,
               "printedPage": "53"
             },
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-53",
-              "quote": "4. Expulsión de los radicales islámicos y de las estructuras religiosas que actúan como lobby para países extranjeros. El islam debe ser sacado de las escuelas públicas y no se debe subvencionar ninguna actividad islámica. Prohibición del hijab en luga- res y puestos de trabajo públicos. Además, se ofrecerán ayudas a las mujeres que quieran dejar el uso de la vestimenta islámica y se vean amenazadas en el proceso.",
               "page": 53,
               "printedPage": "53"
             }
@@ -3591,14 +3387,12 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-6",
-              "quote": "Nuestro objetivo sigue siendo acabar con el régimen actual y dar solución a los gran - des problemas que afectan a nuestro país. Por ello apostamos por la realización de un proceso constituyente. No hay solución posible dentro de los marcos actuales.",
               "page": 6,
               "printedPage": "6"
             },
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-56",
-              "quote": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensa- mos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías.",
               "page": 56,
               "printedPage": "56"
             }
@@ -3640,7 +3434,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-48",
-              "quote": "1. Revertir el incremento de la edad de jubilación y establecer una edad de retiro ade- cuada al puesto laboral desempeñado.",
               "page": 48,
               "printedPage": "48"
             }
@@ -3668,7 +3461,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-49",
-              "quote": "2. Incrementar las pensiones no contributivas y mínimas asegurando una correcta su - ficiencia de recursos de todos los pensionistas.",
               "page": 49,
               "printedPage": "49"
             }
@@ -3696,7 +3488,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-49",
-              "quote": "3. Introducir el cálculo de la pensión mediante la media de los mejores años cotizados, para evitar que los trabajadores que han sido despedidos o han obtenido un salario menor en los últimos años de su vida laboral obtengan una pensión menor.",
               "page": 49,
               "printedPage": "49"
             }
@@ -3724,7 +3515,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-34",
-              "quote": "2. Se construirán guarderías y jardines de infancia públicos y gratuitos para facilitar la com- patibilidad del trabajo y la maternidad.",
               "page": 34,
               "printedPage": "34"
             }
@@ -3752,7 +3542,6 @@
             {
               "sourceId": "frente-obrero-2026-7b9f423f2c1a",
               "segmentId": "page-35",
-              "quote": "3. Se alargarán las bajas por paternidad y maternidad y se obligará a las empresas a ser flexibles parcialmente en cuanto al teletrabajo, reducción de jornada y modificación de horarios, para poder conciliar trabajo y el cuidado de los hijos.",
               "page": 35,
               "printedPage": "35"
             }
@@ -3794,21 +3583,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-17",
-              "quote": "Ampliaremos el impuesto a las grandes fortunas a todos los obligados tributarios del Impuesto del Patrimonio",
               "page": 17,
               "printedPage": "17"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-17",
-              "quote": "reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal perma- nente con idénticas características que el Impuesto del Patrimonio.",
               "page": 17,
               "printedPage": "17"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-17",
-              "quote": "las acciones de empresas en manos de quienes las gestionan dejen de estar exentas en el impuesto a las grandes fortunas cuando el patri- monio pase de 100 millones de euros.",
               "page": 17,
               "printedPage": "17"
             }
@@ -3836,7 +3622,6 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-17",
-              "quote": "Crearemos una Banca Pública a la que se integrarán todos los recursos y la estructura del ICO, CDTI y ENISA, que será con la que operen las administraciones públicas en exclusiva, con el fin de atraer ahorro y orientarlo a la creación de empleo estable y de calidad.",
               "page": 17,
               "printedPage": "17"
             }
@@ -3864,7 +3649,6 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-21",
-              "quote": "Elevaremos el tipo efectivo mínimo general del 15 % al 19 %, calculándolo sobre los beneficios reales y no sobre la base imponible, y estableceremos para las empresas que operen en régimen de oligopolio un tipo efectivo mínimo del 29 % y un tipo nominal del 35 %.",
               "page": 21,
               "printedPage": "21"
             }
@@ -3906,21 +3690,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-79",
-              "quote": "Avanzaremos hacia una única red educativa de gestión pública directa",
               "page": 79,
               "printedPage": "79"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-79",
-              "quote": "Estableceremos una moratoria indefinida a la concesión de nuevos conciertos y a la apertura de nuevos centros privados en todas las etapas educativas",
               "page": 79,
               "printedPage": "79"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-79",
-              "quote": "reabsor- ción progresiva y voluntaria de los centros privados-concertados en la red pública, garantizando en todo momento los puestos de trabajo y el mantenimiento o mejora de las condiciones laborales",
               "page": 79,
               "printedPage": "79"
             }
@@ -3948,28 +3729,24 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-79",
-              "quote": "Reduciremos el número máximo de alumnos y alumnas por aula en todas las etapas educativas",
               "page": 79,
               "printedPage": "79"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-79",
-              "quote": "Fijar nuevas ratios máximas en 15 alumnos y alumnas en Primaria, 20 en Secundaria y 23 en Bachillerato.",
               "page": 79,
               "printedPage": "79"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-80",
-              "quote": "Reducir a 15 estudiantes la ratio máxima en Formación Profesional.",
               "page": 80,
               "printedPage": "80"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-80",
-              "quote": "específicas de apoyo educativo (NEAE) compute como dos a efectos de ratio, en todas las etapas y modalidades educativas.",
               "page": 80,
               "printedPage": "80"
             }
@@ -3997,28 +3774,24 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-80",
-              "quote": "Crearemos un fondo estatal para reforzar exclusivamente la educación pública de gestión directa",
               "page": 80,
               "printedPage": "80"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-80",
-              "quote": "Las comunidades autónomas deberán complementar la financiación estatal con un euro de recursos propios por cada dos euros recibidos y mantener el esfuerzo presupuestario educativo",
               "page": 80,
               "printedPage": "80"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-80",
-              "quote": "Nuestro objetivo será alcanzar una inversión pública en educación equivalente al 7 % del PIB durante la próxima legisla- tura.",
               "page": 80,
               "printedPage": "80"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-80",
-              "quote": "En Educación Infantil de 0 a 3 años, construiremos en un plazo máximo de cuatro años todas las plazas públicas necesarias para garantizar una cobertura universal, gratuita y de gestión pública directa.",
               "page": 80,
               "printedPage": "80"
             }
@@ -4060,14 +3833,12 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "Aumentaremos el SMI hasta los 1.800 euros al mes en una legislatura",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "Estableceremos por ley que nunca pueda ser inferior al 75% del salario mediano.",
               "page": 41,
               "printedPage": "41"
             }
@@ -4095,21 +3866,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "Reducir la jornada laboral sin reducir los salarios.",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "Reduciremos la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas, con la posibilidad de reducir la semana laboral a cuatro días en función del trabajo concreto, de los tiempos de desplazamiento y de la voluntad del trabajador o traba- jadora.",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "se implementará el teletrabajo dos días a la semana en todos los puestos en los que sea posible.",
               "page": 41,
               "printedPage": "41"
             }
@@ -4137,7 +3905,6 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "Llevaremos a cabo la estabilización de todos los trabajadores y traba- jadoras públicas en fraude de ley o abuso de temporalidad, de acuerdo a las exigencias de la Unión Europea convirtiéndolos en trabajadores y trabajadoras fijas.",
               "page": 41,
               "printedPage": "41"
             }
@@ -4179,14 +3946,12 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-94",
-              "quote": "Reformaremos la Ley de Cambio Climá- tico y Transición Energética para elevar la ambición de los objetivos de reducción de emisiones",
               "page": 94,
               "printedPage": "94"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-95",
-              "quote": "emisiones de gases de efecto invernadero al menos un 55 % para 2030 respecto a 1990, con la ambición de alcanzar el 65 %, y adelantaremos a 2040 el horizonte de neutralidad climática.",
               "page": 95,
               "printedPage": "95"
             }
@@ -4214,21 +3979,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-98",
-              "quote": "Cerrar los rega- díos ilegales en torno a Doñana y las Tablas de Daimiel para recuperar sus acuíferos y su biodiversidad.",
               "page": 98,
               "printedPage": "98"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-98",
-              "quote": "Doñana tendrá personalidad jurídica, con derecho a existir y a ser protegida, conservada y restaurada, en el Parque Nacional y su zona periférica, y se recuperará el Guadiamar.",
               "page": 98,
               "printedPage": "98"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-98",
-              "quote": "Se cumplirá la ley del Mar Menor y se acabará con los vertidos que lo envenenan.",
               "page": 98,
               "printedPage": "98"
             }
@@ -4256,28 +4018,24 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-98",
-              "quote": "Revisaremos el Plan Nacional Integrado de Energía y Clima",
               "page": 98,
               "printedPage": "98"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-98",
-              "quote": "alcanzar al menos un 95 % de generación eléctrica renovable en 2035, avan- zando hacia un sistema completamente descarbonizado en 2040.",
               "page": 98,
               "printedPage": "98"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-98",
-              "quote": "Mantendremos transitoriamente las centrales de ciclo combinado de gas como respaldo indispensable del sistema.",
               "page": 98,
               "printedPage": "98"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-98",
-              "quote": "antes del cese de cual- quier actividad laboral vinculada a los combustibles fósiles, se active la creación de dos nuevos empleos con condiciones laborales y sala- riales idénticas o mejoradas en la misma comarca, otorgando prio- ridad absoluta de contratación a las personas afectadas.",
               "page": 98,
               "printedPage": "98"
             }
@@ -4319,28 +4077,24 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-89",
-              "quote": "progresivamente la financiación del Sistema Nacional de Salud hasta alcanzar una dotación mínima de 2.900 euros por habi- tante y año",
               "page": 89,
               "printedPage": "89"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-89",
-              "quote": "Las comunidades se comprometerán a aportar un euro propio por cada dos solici- tados al Estado y a no reducir sus partidas sanitarias, que deberán aumentar al menos en la cantidad cofinanciada.",
               "page": 89,
               "printedPage": "89"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-89",
-              "quote": "Este dinero, y la aportación autonómica complementaria, solo podrá destinarse a la sanidad pública de gestión directa",
               "page": 89,
               "printedPage": "89"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-89",
-              "quote": "Al menos el 30% de los fondos se destinará a la Atención Primaria y al menos el 20% al sistema público de salud mental",
               "page": 89,
               "printedPage": "89"
             }
@@ -4368,21 +4122,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-90",
-              "quote": "La ley establecerá que al menos el 25% del presupuesto sanitario se destine efectivamente a Atención Primaria, con el objetivo de alcanzar una inversión de 700 euros por habitante y año",
               "page": 90,
               "printedPage": "90"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-90",
-              "quote": "fijará un máximo de 1.300 pacientes por profesional de medi- cina de familia y 800 menores por profesional de pediatría, adaptando las ratios y las plantillas a las necesidades demográficas, sociales y territoriales de cada zona",
               "page": 90,
               "printedPage": "90"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-90",
-              "quote": "garantizará una cita en un máximo de 48 horas hábiles y la continuidad asistencial con los mismos profesio- nales",
               "page": 90,
               "printedPage": "90"
             }
@@ -4410,21 +4161,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-91",
-              "quote": "para que ninguna persona que habite en suelo español, sea cual sea su situación administrativa, quede excluida del sistema.",
               "page": 91,
               "printedPage": "91"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-91",
-              "quote": "Aumentaremos hasta el 100% la cobertura de la cartera de servicios de salud bucodental, oftalmológica y auditiva, así como de fisioterapia y psicológica",
               "page": 91,
               "printedPage": "91"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-92",
-              "quote": "Reformaremos el copago farmacéu- tico para que la aportación de cada persona sea proporcional a su renta, con exención para las personas con menores recursos y otros colectivos especialmente protegidos y reintegro de las cantidades que superen los límites establecidos.",
               "page": 92,
               "printedPage": "92"
             }
@@ -4466,21 +4214,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-8",
-              "quote": "los contratos vigentes, sus renovaciones y prórrogas, así como a los nuevos contratos",
               "page": 8,
               "printedPage": "8"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-8",
-              "quote": "Se establecerá un precio que sea un 40% menor que el precio anterior, siempre y cuando el precio resultante no quede por debajo del 60% del precio medio actual en la correspon- diente zona.",
               "page": 8,
               "printedPage": "8"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-8",
-              "quote": "Si la vivienda nunca ha sido puesta antes en alquiler, el precio inicial será el 60% del precio medio actual de la zona.",
               "page": 8,
               "printedPage": "8"
             }
@@ -4508,7 +4253,6 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-8",
-              "quote": "Convertiremos todos los contratos de alquiler de vivienda habitual en contratos de duración indefinida por defecto",
               "page": 8,
               "printedPage": "8"
             }
@@ -4536,21 +4280,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-8",
-              "quote": "Impulsaremos la expropia- ción de uso por interés social de las viviendas que superen las diez en manos de grandes tenedores, fondos de inversión, entidades finan- cieras y bancos",
               "page": 8,
               "printedPage": "8"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-8",
-              "quote": "Incorporaremos al parque público de vivienda aquellas que estén vacías o destinadas al uso turístico, siempre que reúnan las condiciones de habitabilidad, para destinarlas al alquiler social.",
               "page": 8,
               "printedPage": "8"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-8",
-              "quote": "En las viviendas que ya estén alqui- ladas, estableceremos rentas de alquiler social o precios regulados en función de la situación económica de las familias, garantizando en todo caso los derechos de las personas inquilinas.",
               "page": 8,
               "printedPage": "8"
             }
@@ -4592,7 +4333,6 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-28",
-              "quote": "Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y pondremos fin a la presencia militar estadounidense en nuestro territorio, incluida la Base Naval de Rota y la Base Aérea de Morón.",
               "page": 28,
               "printedPage": "28"
             }
@@ -4620,28 +4360,24 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-128",
-              "quote": "Impulsaremos la aprobación de una constitución republicana",
               "page": 128,
               "printedPage": "128"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-128",
-              "quote": "profundice la democracia, reconozca la plurinaciona- lidad y ponga los derechos sociales de los trabajadores y trabajadoras en el centro.",
               "page": 128,
               "printedPage": "128"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-128",
-              "quote": "que la ciudadanía decida de forma separada y directa entre monar- quía y república",
               "page": 128,
               "printedPage": "128"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-128",
-              "quote": "el referéndum como instrumento democrático básico",
               "page": 128,
               "printedPage": "128"
             }
@@ -4669,21 +4405,18 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-133",
-              "quote": "Derogar la Ley Mordaza y reformar la legislación que limita los derechos fundamentales.",
               "page": 133,
               "printedPage": "133"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-133",
-              "quote": "una nueva regulación garantista que proteja la libertad de expresión, reunión y manifestación, y que incluya expresamente la prohibición del uso de pelotas de goma como método de contención.",
               "page": 133,
               "printedPage": "133"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-133",
-              "quote": "Revisaremos también las disposiciones del Código Penal que puedan restringir desproporcionadamente la protesta pacífica, la crítica política y la libertad de información.",
               "page": 133,
               "printedPage": "133"
             }
@@ -4725,14 +4458,12 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "Eliminar las penalizaciones por jubilación anticipada para las personas con 40 años cotizados.",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "eliminando retroactivamente las penalizaciones para los traba- jadores y trabajadoras con 40 años o más de cotización. La reforma incluirá la revisión de las pensiones ya reconocidas",
               "page": 41,
               "printedPage": "41"
             }
@@ -4760,7 +4491,6 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-41",
-              "quote": "Reforma- remos el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presu- puestos Generales del Estado.",
               "page": 41,
               "printedPage": "41"
             }
@@ -4788,7 +4518,6 @@
             {
               "sourceId": "podemos-2026-086211fb272f",
               "segmentId": "page-44",
-              "quote": "Garantizaremos que la pensión mínima contributiva se equipare al SMI, y la pensión no contributiva al 80% del SMI.",
               "page": 44,
               "printedPage": "44"
             }
@@ -4830,7 +4559,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-60",
-              "quote": "Elevaremos los míni- mos personales y familiares del IRPF y bajaremos el IRPF de las rentas medias y bajas y de las familias. Quien cobre el salario mínimo no pagará IRPF: por ley, el umbral subirá automáticamente cada vez que suba el SMI,",
               "page": 60
             }
           ]
@@ -4857,7 +4585,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-60",
-              "quote": "Reduciremos el IRPF de los trabajadores y autónomos de 18 a 35 años durante los cuatro prime- ros años en que paguen IRPF. La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto. Se aplicará des- de la primera declaración tras la aprobación de la ley.",
               "page": 60
             }
           ]
@@ -4884,7 +4611,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-61",
-              "quote": "Mien- tras persista la actual crisis de inflación y de poder adquisitivo, aplicare- mos un IVA del 0% a los alimentos básicos, incluidos la carne, el pescado y las conservas.",
               "page": 61
             }
           ]
@@ -4925,13 +4651,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-67",
-              "quote": "TODOS SALDRÁN DE PRIMARIA LEYENDO Y CALCULANDO BIEN.",
               "page": 67
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-67",
-              "quote": "Acordaremos con docentes, inspectores, expertos y familias un nuevo marco educativo que sustituya a la LOMLOE. Detectaremos a tiempo las dificultades de lectura y cálculo y cada alumno que las tenga recibirá refuerzo específi- co en ese mismo curso dentro del horario escolar.",
               "page": 67
             }
           ]
@@ -4958,13 +4682,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-68",
-              "quote": "Ampliaremos con las Comunidades Autó- nomas las plazas de FP en los ciclos que más empleo generan, guiados por un Mapa Nacional de la FP, también en los oficios que hoy faltan, como los de la construcción.",
               "page": 68
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-68",
-              "quote": "La FP dual tendrá las mismas reglas en toda España y llegará a todo el tejido empresarial, con independencia del tamaño de cada empresa;",
               "page": 68
             }
           ]
@@ -4991,7 +4713,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-57",
-              "quote": "Acordaremos con las Comunidades Autónomas que el Estado financie la mitad del coste de cada plaza de cero a tres años, pública o concertada, y las Comunidades, la otra mitad. Al terminar la legislatura, la etapa será gratuita para todas las familias que la soliciten.",
               "page": 57
             }
           ]
@@ -5032,13 +4753,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-58",
-              "quote": "LA INTELIGENCIA ARTIFICIAL AMPLIARÁ LAS OPORTUNI- DADES DE TRABAJAR, Y CADA TRABAJADOR TENDRÁ UN CHE- QUE PARA FORMARSE EN ELLA.",
               "page": 58
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-58",
-              "quote": "Cada trabajador ten- drá un cheque de formación, que conservará, aunque cambie de em- presa, para formarse donde elija. Los trabajadores mayores y los de los sectores más expuestos tendrán más recursos. Lo financiaremos con las cuotas de formación que ya pagan empresas y trabajadores, sin im- ponerles nuevas cargas.",
               "page": 58
             }
           ]
@@ -5065,7 +4784,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-59",
-              "quote": "Los nuevos autónomos no pagarán cuota a la Seguridad Social durante su primer año, ni durante el segundo si sus ingresos no llegan al salario mínimo.",
               "page": 59
             }
           ]
@@ -5092,7 +4810,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-59",
-              "quote": "Las empresas que mantengan sus plan- tillas más estables que la media de su sector cotizarán menos por des- empleo. Y publicaremos cada mes, junto al paro registrado, cuántos fijos discontinuos no están trabajando,",
               "page": 59
             }
           ]
@@ -5133,7 +4850,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-71",
-              "quote": "ELIMINAREMOS EL CALENDARIO DE CIERRE DE ALMARAZ, ASCÓ, VANDELLÓS, COFRENTES Y TRILLO. En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil con el visto bue- no del Consejo de Seguridad Nuclear, garantizando la seguridad de las instalaciones.",
               "page": 71
             }
           ]
@@ -5160,13 +4876,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-71",
-              "quote": "Eliminaremos de inmedia- to el impuesto del 7% a la producción eléctrica y reduciremos la carga fis- cal del recibo.",
               "page": 71
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-71",
-              "quote": "Los hogares más vulnerables tendrán una Tarifa Social Única que susti- tuirá y mejorará los actuales bonos eléctrico y térmico. La ayuda llegará a quienes la necesitan y será compatible con cualquier contrato de luz y gas.",
               "page": 71
             }
           ]
@@ -5193,13 +4907,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-72",
-              "quote": "La lucha contra el cambio climático y la descarbonización son objetivos irrenun- ciables para Europa por razones ambientales, geoestratégicas y econó- micas. Pero ha llegado el momento de revisar los ritmos de cada sector atendiendo a tres factores: lo que está ocurriendo en el resto del mundo, la tecnología realmente disponible y la evolución de la demanda.",
               "page": 72
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-72",
-              "quote": "No impondremos obligaciones innecesarias y retiraremos las que perjudi- quen la competitividad, la industria o el empleo.",
               "page": 72
             }
           ]
@@ -5240,13 +4952,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-69",
-              "quote": "pondremos en marcha, de acuerdo con las Comunidades Autónomas y respetando sus competencias de gestión, un plan urgen- te de reducción de listas de espera para asegurar una atención ágil y de calidad.",
               "page": 69
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-69",
-              "quote": "El nuevo sistema de financiación autonómica tendrá en la sanidad uno de sus pilares y garantizará recursos suficientes para ase- gurar la sostenibilidad de la sanidad pública y una atención de calidad en condiciones de igualdad.",
               "page": 69
             }
           ]
@@ -5273,13 +4983,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-69",
-              "quote": "En Atención Primaria, al menos 4.500 médicos más.",
               "page": 69
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-69",
-              "quote": "en coordinación con las Comunidades Autónomas, más profesio- nales al Sistema Nacional de Salud —médicos, enfermeras y resto de profesionales sanitarios— para contar con las plantillas que se necesi- tan hoy y en el futuro.",
               "page": 69
             }
           ]
@@ -5306,13 +5014,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-70",
-              "quote": "Aprobaremos un Plan Nacional de Salud Men- tal 2027-2037, con financiación garantizada,",
               "page": 70
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-70",
-              "quote": "Aumentaremos el número de profesionales dedicados a la salud mental y mejoraremos la prevención, la detección precoz y el acceso a la atención psicológica y psiquiátrica desde Atención Primaria, con especial prioridad para la in- fancia y la adolescencia, la prevención del suicidio y los trastornos men- tales graves.",
               "page": 70
             }
           ]
@@ -5353,7 +5059,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-53",
-              "quote": "CONSTRUIREMOS UN MILLÓN DE VIVIENDAS. Movilizaremos suelo público y privado en colaboración con las Comunidades Autóno- mas y las entidades locales. Aprobaremos una nueva Ley del Suelo para agilizar el planeamiento urbanístico y reforzar su seguridad jurídica.",
               "page": 53
             }
           ]
@@ -5380,19 +5085,16 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-53",
-              "quote": "DEROGAREMOS LA LEY DE VIVIENDA.",
               "page": 53
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-53",
-              "quote": "Eliminaremos las zonas tensionadas y el índice de precios,",
               "page": 53
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-53",
-              "quote": "en el mercado del al- quiler.",
               "page": 53
             }
           ]
@@ -5419,7 +5121,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-55",
-              "quote": "Los inquilinos tendrán una deducción en el IRPF por el alquiler de su vivienda habitual, graduada según sus ingresos, con más apoyo para quien menos gana. El propietario particular que, al vencer el contrato de una vivienda habi- tual, lo renueve a su inquilino por tres años más subiendo la renta por debajo del IPC tendrá una deducción en el IRPF o un crédito fiscal que compense ese esfuerzo.",
               "page": 55
             }
           ]
@@ -5460,7 +5161,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-30",
-              "quote": "presentar cada año los Presupuestos Generales del Estado para que las Cortes los debatan. Promoveremos las reformas necesarias para que una segunda prórroga consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones.",
               "page": 30
             }
           ]
@@ -5487,13 +5187,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-32",
-              "quote": "Los jueces y magistra- dos de todas las categorías elegirán a los doce vocales judiciales del Con- sejo General del Poder Judicial. Mantendremos la evaluación pública de méritos de los ocho juristas que designan las Cortes.",
               "page": 32
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-32",
-              "quote": "Extenderemos a to- dos los vocales la incompatibilidad por haber ocupado cargos políticos en los cinco años anteriores a su elección.",
               "page": 32
             }
           ]
@@ -5520,7 +5218,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-36",
-              "quote": "Regularemos la actividad de los lobbies ante el Gobierno y las Cortes. Crearemos un Registro Nacional público y obligatorio, dependiente de la Autoridad Independiente de Transparencia, en el que conste a quién representa cada grupo de interés.",
               "page": 36
             }
           ]
@@ -5561,19 +5258,16 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-42",
-              "quote": "Reconstruiremos el Pacto de Toledo sobre un principio claro: las pen- siones son un compromiso de Estado, por encima de la confrontación partidista.",
               "page": 42
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-42",
-              "quote": "Aseguraremos que mantengan su poder adquisitivo y suban",
               "page": 42
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-43",
-              "quote": "cada año con el IPC.",
               "page": 43
             }
           ]
@@ -5600,7 +5294,6 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-44",
-              "quote": "Haremos compatibles las pen- siones de discapacidad con el empleo y ampliaremos los apoyos para adaptar los puestos de trabajo y favorecer el empleo con apoyo.",
               "page": 44
             }
           ]
@@ -5627,13 +5320,11 @@
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-44",
-              "quote": "Impulsaremos un Pacto de Estado por la Dependencia para asegurar una financiación estable y plurianual de acuerdo con las Comunidades Autónomas y haremos efectiva la apor- tación estatal del 50% del coste público del sistema.",
               "page": 44
             },
             {
               "sourceId": "pp-2026-cea8f2a05227",
               "segmentId": "page-44",
-              "quote": "Las familias se dedu- cirán el 40% de lo que paguen por la atención profesional de un mayor dependiente, y el Estado cotizará por quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente, cobre o no la prestación por cuidados en el entorno familiar.",
               "page": 44
             }
           ]
@@ -5674,7 +5365,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-48",
-              "quote": "Mantener intactos los dos primeros tramos (19% hasta 6.000€ y 21% hasta 50.000 €) y elevar los tipos a partir de ahí, llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€.",
               "page": 48,
               "printedPage": "49"
             }
@@ -5702,7 +5392,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "Convertiremos el mínimo exento por descendiente en el IRPF en un crédito fiscal reembolsable, lo que permitirá que se beneficien de él 2 millones de hogares de ingresos medios y bajos que no tienen obligación de presentar declaración o que carecen de cuota para beneficiarse del mínimo actual.",
               "page": 49,
               "printedPage": "50"
             }
@@ -5730,7 +5419,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-14",
-              "quote": "A través del Fondo España Crece y de nuevos instrumentos de financiación público-privada, impulsaremos el crecimiento de las empresas, la reindustrialización y la atracción de inversiones estratégicas, con especial atención a las pymes y a los territorios con mayor potencial industrial.",
               "page": 14,
               "printedPage": "15"
             }
@@ -5758,7 +5446,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-16",
-              "quote": "Seguiremos aumentando cada año la inversión pública en I+D con una senda plurianual incorporada al plan fiscal estructural hasta alcanzar el objetivo fijado por la Ley de la Ciencia de 2022 (1,25% del PIB), y aumentando la ambición en este objetivo hasta el 1,5% del PIB para 2035.",
               "page": 16,
               "printedPage": "17"
             }
@@ -5800,14 +5487,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-51",
-              "quote": "Universalizar la educación de 0 a 3 años, promoviendo su inclusión plena en el sistema, aumentando progresivamente la oferta de escuelas infantiles públicas,",
               "page": 51,
               "printedPage": "52"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-52",
-              "quote": "reduciendo el número de alumnos por aula",
               "page": 52,
               "printedPage": "53"
             }
@@ -5835,14 +5520,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-52",
-              "quote": "Reducir la tasa de abandono escolar temprano por debajo del 10% antes de 2030",
               "page": 52,
               "printedPage": "53"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-52",
-              "quote": "las segundas oportunidades y las unidades de acompañamiento y orientación familiar.",
               "page": 52,
               "printedPage": "53"
             }
@@ -5870,14 +5553,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-53",
-              "quote": "Fomentar la ampliación de las plazas públicas de Formación Profesional Media y Superior",
               "page": 53,
               "printedPage": "54"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-53",
-              "quote": "asegurando que nadie quede sin acceso a la formación deseada por falta de oferta.",
               "page": 53,
               "printedPage": "54"
             }
@@ -5905,7 +5586,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-54",
-              "quote": "Impulsar la gratuidad de la matrícula del primer curso de grado en las universidades públicas de todo el país.",
               "page": 54,
               "printedPage": "55"
             }
@@ -5947,7 +5627,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-37",
-              "quote": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente según los precios, los salarios, la productividad y las necesidades de las personas trabajadoras, garantizando que cada subida mejore efectivamente la nómina y no quede neutralizada por la absorción de complementos salariales.",
               "page": 37,
               "printedPage": "38"
             }
@@ -5975,14 +5654,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-41",
-              "quote": "Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas.",
               "page": 41,
               "printedPage": "42"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-41",
-              "quote": "sin perder salario. Se aplicará con un calendario que beba del diálogo social y periodos transitorios que faciliten a las pymes su implementación.",
               "page": 41,
               "printedPage": "42"
             }
@@ -6010,7 +5687,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-41",
-              "quote": "Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria, teniendo en cuenta las circunstancias y los daños causados, y adecuar la normativa al artículo 24.b de la Carta Social Europea revisada y a las decisiones del Comité Europeo de Derechos Sociales.",
               "page": 41,
               "printedPage": "42"
             }
@@ -6038,21 +5714,18 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-42",
-              "quote": "Reconoceremos su derecho a la protección por desempleo, tanto en las prácticas curriculares como en las extracurriculares.",
               "page": 42,
               "printedPage": "43"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-42",
-              "quote": "aprobar un Estatuto del Becario (Estatuto de las",
               "page": 42,
               "printedPage": "43"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-43",
-              "quote": "Prácticas no Laborales en las Empresas) que proteja los derechos de los becarios y blinde las prácticas remuneradas;",
               "page": 43,
               "printedPage": "44"
             }
@@ -6094,7 +5767,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-65",
-              "quote": "Impulsar el despliegue de energías renovables, para alcanzar el 81% de generación eléctrica en 2030, priorizando su ubicación en las Zonas de Aceleración Renovable para garantizar el máximo consenso social y la compatibilidad con la preservación de la biodiversidad y la actividad agroganadera.",
               "page": 65,
               "printedPage": "66"
             }
@@ -6122,7 +5794,6 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-66",
-              "quote": "Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas, preservando las capacidades tecnológicas y de conocimiento vinculadas al sector.",
               "page": 66,
               "printedPage": "67"
             }
@@ -6150,14 +5821,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-67",
-              "quote": "Crear la Agencia Estatal de Protección Civil y Emergencias para mejorar la coordinación y la capacidad de respuesta ante riesgos y catástrofes, en colaboración con las comunidades autónomas.",
               "page": 67,
               "printedPage": "68"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-67",
-              "quote": "Aprobar una Ley de Adaptación al Cambio Climático y reforzar la ejecución del Plan Nacional de Adaptación con más recursos y mecanismos de seguimiento.",
               "page": 67,
               "printedPage": "68"
             }
@@ -6185,14 +5854,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-72",
-              "quote": "Impulsar la restauración y recuperación de ecosistemas degradados, tanto marinos como terrestres, desarrollando el Plan Nacional de Restauración de la Naturaleza",
               "page": 72,
               "printedPage": "73"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-72",
-              "quote": "avanzando hacia la conservación efectiva de las especies amenazadas y de los espacios de alto valor ecológico, protegiendo al menos el 30 % de los ecosistemas y hasta el 10% de las áreas marinas con protección estricta.",
               "page": 72,
               "printedPage": "73"
             }
@@ -6234,21 +5901,18 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "Acabar con las listas de espera",
               "page": 49,
               "printedPage": "50"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "sanidad en torno al 7% del PIB, reforzando el carácter público del Sistema Nacional de Salud",
               "page": 49,
               "printedPage": "50"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "aumentando progresivamente la inversión en prevención hasta converger con la media europea.",
               "page": 49,
               "printedPage": "50"
             }
@@ -6276,28 +5940,24 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "Desplegar el Plan Sonríe: salud bucodental pública.",
               "page": 49,
               "printedPage": "50"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "Incorporaremos progresivamente a la sanidad pública los tratamientos básicos para toda la población adulta",
               "page": 49,
               "printedPage": "50"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "empezando por empastes, endodoncias, reconstrucciones y tratamientos periodontales.",
               "page": 49,
               "printedPage": "50"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-49",
-              "quote": "crearemos una ayuda directa de hasta 200 euros anuales por persona, que empezará por los hogares de rentas medias y bajas",
               "page": 49,
               "printedPage": "50"
             }
@@ -6325,21 +5985,18 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-50",
-              "quote": "Reforzar la atención primaria y garantizar su continuidad asistencial",
               "page": 50,
               "printedPage": "51"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-50",
-              "quote": "desarrollando el Plan de Acción de Atención Primaria y Comunitaria más allá de 2027",
               "page": 50,
               "printedPage": "51"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-50",
-              "quote": "potenciar los equipos multidisciplinares y ampliar la capacidad diagnóstica y resolutiva de los centros de salud.",
               "page": 50,
               "printedPage": "51"
             }
@@ -6367,21 +6024,18 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-50",
-              "quote": "Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con una primera consulta en un plazo máximo de 30 días.",
               "page": 50,
               "printedPage": "51"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-50",
-              "quote": "reforzaremos la presencia de profesionales de psicología clínica en el Sistema Nacional de Salud, especialmente en atención primaria",
               "page": 50,
               "printedPage": "51"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-50",
-              "quote": "programas de salud mental infantojuvenil y prevención del suicidio, con atención inmediata para los casos urgentes.",
               "page": 50,
               "printedPage": "51"
             }
@@ -6423,14 +6077,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-27",
-              "quote": "Movilizar anualmente un 1% del PIB para garantizar el acceso a la vivienda.",
               "page": 27,
               "printedPage": "28"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-27",
-              "quote": "Se unirán a este esfuerzo todas las administraciones públicas y el ICO a través del Fondo España Crece.",
               "page": 27,
               "printedPage": "28"
             }
@@ -6458,28 +6110,24 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-28",
-              "quote": "Consolidar CASA 47 como un actor clave en el mercado de la vivienda asequible",
               "page": 28,
               "printedPage": "29"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-28",
-              "quote": "Constituir un parque público estatal de 100.000 viviendas mediante la construcción y adquisición",
               "page": 28,
               "printedPage": "29"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-28",
-              "quote": "la venta o alquiler estable a precio asequible",
               "page": 28,
               "printedPage": "29"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-28",
-              "quote": "que se sumarán a las promovidas por las comunidades autónomas y las entidades locales",
               "page": 28,
               "printedPage": "29"
             }
@@ -6507,14 +6155,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-30",
-              "quote": "Ampliar la duración de los contratos de arrendamiento",
               "page": 30,
               "printedPage": "31"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-30",
-              "quote": "Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados.",
               "page": 30,
               "printedPage": "31"
             }
@@ -6542,21 +6188,18 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-31",
-              "quote": "Se gravará con un impuesto progresivo la posesión de todas aquellas viviendas de grandes propietarios y fondos buitre",
               "page": 31,
               "printedPage": "32"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-31",
-              "quote": "que no se destinen a alquiler residencial",
               "page": 31,
               "printedPage": "32"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-32",
-              "quote": "asequible. Las viviendas que se dediquen a fines turísticos, que estén vacías, o que se pongan en alquiler a un precio abusivo serán objeto de este nuevo impuesto.",
               "page": 32,
               "printedPage": "33"
             }
@@ -6598,14 +6241,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-89",
-              "quote": "garantizando la máxima protección jurídica del matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo y la eutanasia.",
               "page": 89,
               "printedPage": "90"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-81",
-              "quote": "Impulsaremos la reforma del artículo 43 de la Constitución, iniciada en 2026, para reforzar la garantía del derecho al aborto en condiciones de igualdad en todo el territorio",
               "page": 81,
               "printedPage": "82"
             }
@@ -6633,14 +6274,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-90",
-              "quote": "Crear un escaño ciudadano en el Congreso y en el Senado, sin voto, para que la sociedad civil pueda preguntar al Gobierno y presentar iniciativas y enmiendas, y reducir las firmas necesarias para la iniciativa legislativa popular.",
               "page": 90,
               "printedPage": "91"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-90",
-              "quote": "rebajando la edad de voto a los 16 años",
               "page": 90,
               "printedPage": "91"
             }
@@ -6668,14 +6307,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-95",
-              "quote": "Establecer a 16 años la edad mínima para usar redes sociales. Aprobar en el primer año de legislatura la Ley de protección de las personas menores de edad en los entornos digitales.",
               "page": 95,
               "printedPage": "96"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-95",
-              "quote": "La edad mínima solo podrá rebajarse cuando las plataformas demuestren que son seguras por defecto. La ley incluirá la verificación obligatoria de la edad, la restricción de los diseños y algoritmos adictivos",
               "page": 95,
               "printedPage": "96"
             }
@@ -6703,21 +6340,18 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-89",
-              "quote": "Crearemos una nueva figura jurídica de unión de amistad que dotará de un amparo legal a aquellas situaciones en las que personas unidas por un vínculo de amistad o compañerismo deciden asumir un compromiso mutuo de cuidados.",
               "page": 89,
               "printedPage": "90"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-89",
-              "quote": "Incluir en el código civil la figura de la unión de amistad.",
               "page": 89,
               "printedPage": "90"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-90",
-              "quote": "permitirá desplegar beneficios para quienes formen parte de ellos.",
               "page": 90,
               "printedPage": "91"
             }
@@ -6759,14 +6393,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-40",
-              "quote": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC",
               "page": 40,
               "printedPage": "41"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-40",
-              "quote": "garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada.",
               "page": 40,
               "printedPage": "41"
             }
@@ -6794,14 +6426,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-40",
-              "quote": "Reforzar el complemento por hijos para compensar los perjuicios sufridos en la carrera profesional tras su nacimiento o adopción",
               "page": 40,
               "printedPage": "41"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-40",
-              "quote": "reconociendo además un año adicional de cotización por cada hijo o hija",
               "page": 40,
               "printedPage": "41"
             }
@@ -6829,14 +6459,12 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-57",
-              "quote": "Aprobar la primera Ley de Servicios Sociales para blindar el cuarto pilar del Estado de bienestar",
               "page": 57,
               "printedPage": "58"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-57",
-              "quote": "pactando con las CC.AA. una cartera común de servicios y estándares de calidad y acceso, con financiación estable y seguimiento público.",
               "page": 57,
               "printedPage": "58"
             }
@@ -6864,28 +6492,24 @@
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-57",
-              "quote": "Asegurar la plena aplicación de la reforma de los sistemas de discapacidad y dependencia (Ley 4/2026)",
               "page": 57,
               "printedPage": "58"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-57",
-              "quote": "una programación económica plurianual orientada a seguir reduciendo las listas de espera y un sistema de seguimiento por territorios.",
               "page": 57,
               "printedPage": "58"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-57",
-              "quote": "Consolidar el Servicio de Ayuda a Domicilio como servicio público esencial del sistema de dependencia",
               "page": 57,
               "printedPage": "58"
             },
             {
               "sourceId": "psoe-2026-e9c834133953",
               "segmentId": "page-57",
-              "quote": "una financiación suficiente y estable, una atención de calidad centrada en las personas y la mejora progresiva de las condiciones laborales de sus profesionales.",
               "page": 57,
               "printedPage": "58"
             }
@@ -6927,7 +6551,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-9",
-              "quote": "Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.",
               "page": 9,
               "printedPage": "9"
             }
@@ -6955,14 +6578,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-9",
-              "quote": "Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.",
               "page": 9,
               "printedPage": "9"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-9",
-              "quote": "Reducir el tipo del Impuesto de Sociedades",
               "page": 9,
               "printedPage": "9"
             }
@@ -6990,14 +6611,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-9",
-              "quote": "Reducción de la deuda pública. Compatibilizar la re- baja de impuestos con la financiación de los servicios",
               "page": 9,
               "printedPage": "9"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-10",
-              "quote": "públicos esenciales, mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el impul- so del crecimiento económico.",
               "page": 10,
               "printedPage": "10"
             }
@@ -7025,21 +6644,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-10",
-              "quote": "Reforzar la inversión en I+D+i, los incenti- vos fiscales a la innovación empresarial, la colaboración entre centros de investigación y empresas e industrias",
               "page": 10,
               "printedPage": "10"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-10",
-              "quote": "y la transferencia de conocimiento a nuestro tejido pro- ductivo, especialmente a las pymes.",
               "page": 10,
               "printedPage": "10"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-10",
-              "quote": "Plan para recupe- rar el talento que se ha tenido que marchar ante la falta de oportunidades.",
               "page": 10,
               "printedPage": "10"
             }
@@ -7067,14 +6683,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-28",
-              "quote": "Ley de Unidad de Mercado.",
               "page": 28,
               "printedPage": "28"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-28",
-              "quote": "Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el res- to del territorio nacional sin trámites, licencias ni re- gistros adicionales.",
               "page": 28,
               "printedPage": "28"
             }
@@ -7116,7 +6730,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-41",
-              "quote": "Igualar las oportunidades para todos los alumnos es- pañoles: unificar currículo, evaluaciones nacionales e inspección. Reválidas y EVAU única. Se garantizará la educación en español en todo el territorio nacional.",
               "page": 41,
               "printedPage": "41"
             }
@@ -7144,28 +6757,24 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-41",
-              "quote": "Garantizar la libre elección de centro educa- tivo en todos los niveles",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-41",
-              "quote": "sin que su situa- ción económica o social sea un impedimento para ello.",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-42",
-              "quote": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc.",
               "page": 42,
               "printedPage": "42"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-42",
-              "quote": "Distrito único y libre elección de centro escolar para los padres.",
               "page": 42,
               "printedPage": "42"
             }
@@ -7193,7 +6802,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-41",
-              "quote": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos. Mejorar el sistema de becas en las etapas universitaria y preuniversitaria",
               "page": 41,
               "printedPage": "41"
             }
@@ -7221,21 +6829,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-41",
-              "quote": "Derogación de la LOMLOE",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-41",
-              "quote": "Potenciación de las matemáti- cas, la lectura, las humanidades y las ciencias.",
               "page": 41,
               "printedPage": "41"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-41",
-              "quote": "Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan nacional contra el acoso escolar y el ciberacoso.",
               "page": 41,
               "printedPage": "41"
             }
@@ -7263,14 +6868,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-42",
-              "quote": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español.",
               "page": 42,
               "printedPage": "42"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-42",
-              "quote": "Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tar- de al sistema español alcancen el nivel requerido antes de integrarse en su clase",
               "page": 42,
               "printedPage": "42"
             }
@@ -7312,7 +6915,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-9",
-              "quote": "Apoyo a los trabajadores autónomos. Cuota de cero euros si los ingresos no llegan al Salario Mínimo In- terprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus in- gresos.",
               "page": 9,
               "printedPage": "9"
             }
@@ -7340,7 +6942,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-13",
-              "quote": "Derogar la legislación laboral de Sánchez",
               "page": 13,
               "printedPage": "13"
             }
@@ -7368,14 +6969,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-12",
-              "quote": "Aprobación de un Plan Nacional de Reindustrializa- ción enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo indus- trial y la baja participación de la industria en el PIB.",
               "page": 12,
               "printedPage": "12"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-12",
-              "quote": "Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo.",
               "page": 12,
               "printedPage": "12"
             }
@@ -7403,14 +7002,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-35",
-              "quote": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares en el mundo rural apoyan- do la incorporación de los jóvenes al sector primario y a las cooperativas agroalimentarias.",
               "page": 35,
               "printedPage": "35"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-35",
-              "quote": "Impulso de la Forma- ción Profesional en el sector primario a través de pro- gramas públicos y concertados.",
               "page": 35,
               "printedPage": "35"
             }
@@ -7438,7 +7035,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-52",
-              "quote": "facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla.",
               "page": 52,
               "printedPage": "52"
             }
@@ -7480,28 +7076,24 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-12",
-              "quote": "Recuperar urgentemente el plan nuclear nacional.",
               "page": 12,
               "printedPage": "12"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-12",
-              "quote": "Se garantizará la supervivencia de las centrales nu- cleares actuales, derogando el calendario de cierre.",
               "page": 12,
               "printedPage": "12"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-12",
-              "quote": "Se promoverán estudios urgentes para instalar cen- trales nucleares en los emplazamientos disponibles adyacentes a las actuales.",
               "page": 12,
               "printedPage": "12"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-12",
-              "quote": "Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible.",
               "page": 12,
               "printedPage": "12"
             }
@@ -7529,14 +7121,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-11",
-              "quote": "Eliminar el tope a la inversión en redes",
               "page": 11,
               "printedPage": "11"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-11",
-              "quote": "las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo posi- tivo.",
               "page": 11,
               "printedPage": "11"
             }
@@ -7564,28 +7154,24 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-11",
-              "quote": "Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de",
               "page": 11,
               "printedPage": "11"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-12",
-              "quote": "combustión, impuestos a las emisiones de CO2) ins- piradas en el Pacto Verde Europeo, la Agenda 2030",
               "page": 12,
               "printedPage": "12"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-29",
-              "quote": "Acabar con todas las imposiciones climáticas como el Pacto Verde",
               "page": 29,
               "printedPage": "29"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-29",
-              "quote": "libertad de circulación de los españoles, como la impo- sición de ZBE.",
               "page": 29,
               "printedPage": "29"
             }
@@ -7613,21 +7199,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-34",
-              "quote": "Limpieza y aprovecha- miento de los montes. Revisión de las restricciones am- bientales que obstaculizan las labores de prevención y aprovechamiento forestal.",
               "page": 34,
               "printedPage": "34"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-34",
-              "quote": "protocolos comunes, coordinación de bom- beros y protección civil de distintas administraciones y aumento de los medios humanos, materiales y tecnoló- gicos.",
               "page": 34,
               "printedPage": "34"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-34",
-              "quote": "Endurecimiento de las penas a los incendiarios.",
               "page": 34,
               "printedPage": "34"
             }
@@ -7655,14 +7238,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-61",
-              "quote": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a",
               "page": 61,
               "printedPage": "61"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-62",
-              "quote": "nuestro sector primario, así como para impulsar y mo- dernizar los regadíos y la producción de energía.",
               "page": 62,
               "printedPage": "62"
             }
@@ -7704,14 +7285,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-19",
-              "quote": "Garantizar la sostenibilidad del sistema sanitario do- tándolo de los medios necesarios para atender las ne- cesidades de los españoles, excluyendo a los extran- jeros en situación ilegal salvo casos de urgencia grave.",
               "page": 19,
               "printedPage": "19"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-19",
-              "quote": "Auditoría del coste de la inmigración masiva en la sani- dad pública.",
               "page": 19,
               "printedPage": "19"
             }
@@ -7739,7 +7318,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional.",
               "page": 37,
               "printedPage": "37"
             }
@@ -7767,14 +7345,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional.",
               "page": 37,
               "printedPage": "37"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Mejorar su accesibilidad y capa- cidad asistencial, con especial atención a las zonas ru- rales y de difícil cobertura y a la continuidad de la aten- ción entre centros de salud, especialistas y hospitales.",
               "page": 37,
               "printedPage": "37"
             }
@@ -7802,28 +7378,24 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Plan nacional de reducción de listas de espera",
               "page": 37,
               "printedPage": "37"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Reorganizar circuitos asis- tenciales, mejorar la capacidad diagnóstica y la activi- dad quirúrgica y facilitar derivaciones entre centros y territorios.",
               "page": 37,
               "printedPage": "37"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gas- to.",
               "page": 37,
               "printedPage": "37"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Publicación de indicadores comparables y periódi- cos de listas de espera, actividad y resultados.",
               "page": 37,
               "printedPage": "37"
             }
@@ -7851,21 +7423,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Mejora progresiva de retribucio- nes, reconocimiento de guardias y turnos, conciliación efectiva y carrera profesional basada en formación, ex- periencia y méritos.",
               "page": 37,
               "printedPage": "37"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-37",
-              "quote": "Incentivos económicos y profesio- nales para plazas rurales o de difícil cobertura",
               "page": 37,
               "printedPage": "37"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-38",
-              "quote": "de contratos estables y contratos puente tras la resi- dencia, y un programa de retorno de sanitarios españo- les que trabajan en el extranjero.",
               "page": 38,
               "printedPage": "38"
             }
@@ -7893,21 +7462,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-38",
-              "quote": "Refor- zar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos",
               "page": 38,
               "printedPage": "38"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-38",
-              "quote": "mejorar el diag- nóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres",
               "page": 38,
               "printedPage": "38"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-38",
-              "quote": "garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas.",
               "page": 38,
               "printedPage": "38"
             }
@@ -7949,14 +7515,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-23",
-              "quote": "Prioridad na- cional para acceder a una vivienda protegida, social o a una ayuda al alquiler.",
               "page": 23,
               "printedPage": "23"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-23",
-              "quote": "Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional.",
               "page": 23,
               "printedPage": "23"
             }
@@ -7984,14 +7548,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-23",
-              "quote": "Reforma de la Ley del Suelo.",
               "page": 23,
               "printedPage": "23"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-23",
-              "quote": "Incrementar de manera sustancial y sostenida en el tiempo la construcción de vivienda nueva: ampliación de suelo disponible, agilización de procedimientos, su- presión de trabas regulatorias innecesarias, simplifica- ción administrativa.",
               "page": 23,
               "printedPage": "23"
             }
@@ -8019,14 +7581,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-23",
-              "quote": "Ampliación de la inversión pública en vivienda por habitante.",
               "page": 23,
               "printedPage": "23"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-23",
-              "quote": "Aumentar con urgencia la construcción de vivienda protegida para las familias españolas median- te su promoción y colaboración público-privada: cesio- nes de suelo, subvenciones, descuentos, avales a finan- ciación y créditos blandos.",
               "page": 23,
               "printedPage": "23"
             }
@@ -8054,14 +7614,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-23",
-              "quote": "Derogación de la Ley de Vivienda. Incentivos fiscales al alquiler de larga",
               "page": 23,
               "printedPage": "23"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-24",
-              "quote": "duración y deducciones para inquilinos españoles. Re- gulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales.",
               "page": 24,
               "printedPage": "24"
             }
@@ -8089,21 +7647,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-24",
-              "quote": "Desalojo de la vivienda okupada en menos de 24 ho- ras y recuperación inmediata de la posesión por su le- gítimo titular, el propietario.",
               "page": 24,
               "printedPage": "24"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-24",
-              "quote": "Asistencia jurídica gratui- ta para los afectados y exención de impuestos y de las cargas fiscales y de suministros del inmueble mientras dure la okupación.",
               "page": 24,
               "printedPage": "24"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-24",
-              "quote": "Tipificación de la inquiocupación como delito de estafa.",
               "page": 24,
               "printedPage": "24"
             }
@@ -8131,21 +7686,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-24",
-              "quote": "La primera vivienda habitual de una familia española no paga impuestos.",
               "page": 24,
               "printedPage": "24"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-24",
-              "quote": "Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción- y bonificación 100% del ITP para la compra de tu primera vivienda habitual -de segunda mano-.",
               "page": 24,
               "printedPage": "24"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-24",
-              "quote": "Recuperación de la deducción por inversión en vivienda habitual.",
               "page": 24,
               "printedPage": "24"
             }
@@ -8187,14 +7739,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-15",
-              "quote": "Prohibición de las regularizaciones masivas. Quien en- tra de forma ilegal jamás podrá regularizar su situación.",
               "page": 15,
               "printedPage": "15"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-15",
-              "quote": "Supresión de la institución del arraigo",
               "page": 15,
               "printedPage": "15"
             }
@@ -8222,14 +7772,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-15",
-              "quote": "Endurecimiento de los requisitos de adquisición de la nacionalidad española. Revisión de las concesiones frau- dulentas de la nacionalidad.",
               "page": 15,
               "printedPage": "15"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-15",
-              "quote": "Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados.",
               "page": 15,
               "printedPage": "15"
             }
@@ -8257,14 +7805,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-15",
-              "quote": "Repatriación de quienes permanezcan en situación ile- gal en nuestra nación.",
               "page": 15,
               "printedPage": "15"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-15",
-              "quote": "Plan para facilitar el retorno a sus países de los extranjeros que no contribuyan o vivan de subsi- dios públicos que no alcanzan a los españoles.",
               "page": 15,
               "printedPage": "15"
             }
@@ -8292,14 +7838,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-30",
-              "quote": "Derogar las leyes que han criminalizado a los hom- bres y desprotegido a las mujeres. Las leyes de género",
               "page": 30,
               "printedPage": "30"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-30",
-              "quote": "impulsar la aprobación de leyes y normas que protejan de verdad a las mujeres víctimas de violencia, en especial a aquellas que sufran maltrato, y que no dejen a ninguna víctima desampa- rada.",
               "page": 30,
               "printedPage": "30"
             }
@@ -8327,7 +7871,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-45",
-              "quote": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales.",
               "page": 45,
               "printedPage": "45"
             }
@@ -8355,7 +7898,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-55",
-              "quote": "Modi- ficar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo Ge- neral del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jue- ces y magistrados",
               "page": 55,
               "printedPage": "55"
             }
@@ -8383,14 +7925,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-57",
-              "quote": "Auditoría integral de to- das las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia.",
               "page": 57,
               "printedPage": "57"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-57",
-              "quote": "Refor- zaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes pre- sentes y futuros por la totalidad del perjuicio econó- mico causado a las arcas públicas",
               "page": 57,
               "printedPage": "57"
             }
@@ -8432,14 +7972,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-10",
-              "quote": "Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza.",
               "page": 10,
               "printedPage": "10"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-11",
-              "quote": "impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza",
               "page": 11,
               "printedPage": "11"
             }
@@ -8467,14 +8005,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-19",
-              "quote": "El Ingreso Mínimo Vital atenderá únicamente las nece- sidades de los españoles con menos recursos.",
               "page": 19,
               "printedPage": "19"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-19",
-              "quote": "Se pro- moverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos.",
               "page": 19,
               "printedPage": "19"
             }
@@ -8502,14 +8038,12 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-51",
-              "quote": "Plan nacional de natalidad y apoyo a las familias espa- ñolas.",
               "page": 51,
               "printedPage": "51"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-51",
-              "quote": "Todos los beneficios que ahora existen para las fa- milias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el pri- mer hijo, intensificando las ayudas y bonificaciones en función del número de hijos.",
               "page": 51,
               "printedPage": "51"
             }
@@ -8537,7 +8071,6 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-51",
-              "quote": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos.",
               "page": 51,
               "printedPage": "51"
             }
@@ -8565,21 +8098,18 @@
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-52",
-              "quote": "Refor- zar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo.",
               "page": 52,
               "printedPage": "52"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-52",
-              "quote": "Au- mento de los programas de atención a la soledad no deseada y de las plazas en residencias.",
               "page": 52,
               "printedPage": "52"
             },
             {
               "sourceId": "vox-2026-065abf6720be",
               "segmentId": "page-52",
-              "quote": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios.",
               "page": 52,
               "printedPage": "52"
             }

@@ -1,38 +1,11 @@
 # Editorial validation
 
-## Automated generator checks
+`npm run check` validates types, lint, formatting, documentation, current generated content and bounded credential signatures. `npm run test` runs synthetic deterministic tests; `test:coverage` measures generator coverage without a global threshold. A build separately verifies prerendered routes and source links without an app server.
 
-`npm run test` uses synthetic snapshots and proposals in temporary directories, removed after execution. It does not parse real PDF programmes or verify official provenance. The tests cover:
+Programme tests cover six-language approved-only projection, private external drafts, stable IDs and source references, physical/printed pages, HTML sections, review-state distinctions, quote occurrence, source-version linkage, excerpt hashes, repeatable bytes, non-mutating checks and prior-output preservation on failure. They reject full originals in source folders, missing/altered evidence, uncited segments, surplus text, unused sources, archived review directories and draft points under repository mode. Fixtures remain synthetic in temporary roots.
 
-- Approved-only projection, draft/review exclusion, pending/partial state and reviewed sources for a completed area with no identified proposals.
-- Repeatable bytes, unchanged editorial inputs and non-mutating `--check`.
-- Prior-output preservation on validation failure and rejection of unexpected public output files.
-- Duplicate IDs, missing references, cross-formation sources, altered quotes and incompatible review states.
-- Invalid dates, other election editions, original/extraction hash changes, wrong extraction versions and omitted pages.
-- Physical/printed PDF page references, HTML section/anchor references and whitespace-only quote differences.
-- Offline CLI use with a temporary root, invalid arguments, symlink rejection and harmless Finder metadata.
+Provincial tests validate all 52 provinces and the 534-presence inventory, accepted programme identities, unknown fields, duplicate/unknown formations, invalid dates/sources and incomplete geographic coverage. App tests exercise availability, actual reader markup, locale selection, existing programme destinations and province state.
 
-The programme corpus remains empty. The initial catalogue contains five real formations, eight areas and 40 pending summaries; fixtures under `tests` are not projected. Tests also cover schema v3 and required nullable official websites, including invalid URL rejection. Human agreement and semantic fidelity cannot be established by the generator. Coverage measures the generator and is diagnostic, without a global threshold.
+The 22 November storage migration compares all 224 approved proposals, 1,344 language versions, stable anchors, source locations, revisions, review timestamps and provincial links with the previous projection. The only programme wire change is schema 4 and removal of undisplayed literal quotes. No current proposal is reinterpreted or newly approved by that migration.
 
-## Read-only triage rehearsal
-
-An independent read-only rehearsal applied the triage skill and shared references to the four independent synthetic packets in `tests/triage-scenarios.json`. No GitHub publication, external fact lookup or citizen messaging was performed. The synthetic originals and histories were supplied as checked evidence for this rehearsal only.
-
-| Case | Observed result                                                                                                                                                             |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A    | Detects that a conditional pilot for Beta became a promise for everyone. Disagrees with the maintainer, proposes faithful wording and leaves publication pending consensus. |
-| B    | Distinguishes a political preference from an editorial correction. Retains the faithful summary and proposes reasoned dismissal without an issue.                           |
-| C    | Identifies the error and equivalent existing issue. Proposes linking it without duplication or modification and explains that the textual error already has evidence.       |
-| D    | Compares revisions and recognises an already-applied correction. Proposes closure without another editorial revision or issue.                                              |
-
-The rehearsal led to explicit repository-scoped duplicate searches with truncation handling and an explicit pending-consensus phase. Maintainer comments were not treated as automatic final approval. English technical wording retains these behaviours.
-
-The first real programme incorporation still needs original-capture and visual extraction validation. The portal adds isolated content/presentation tests and an offline prerendered HTML check during build; see [portal verification](portal.md#verification-and-remaining-limits). Browser checks, remote CI results and Vercel deployment remain separate verification; this record does not claim them.
-
-Multilingual tests require six approved translations, reject missing/blank/unknown locale fields, preserve previous output on validation failure, retain shared IDs/citations and exclude incomplete drafts. Synthetic markup checks select each locale while preserving original quotations. Semantic and language review remain human responsibilities.
-
-## Multilingual skill forward test
-
-An independent read-only forward test on 17 October 2026 used the translation-only scenario now preserved as case E. It identified an English-only meaning error, proposed “Pilot project subject to funding.”, retained original evidence and the other faithful versions, and kept approved revision 4 intact during debate. Agreement would create shared revision 5 with an actual review timestamp; no issue, external lookup, publication or repository mutation was performed by the evaluator. The supplied scenario was not a complete source corpus, so this exercise does not claim a successful content generation or human six-language approval. Cases A–D retain the original historical scalar rehearsal inputs.
-
-Repository documentation checks validate both skills and their metadata. The standalone skill-creator Python validator could not run with the host Python because PyYAML is unavailable; no global dependency installation was performed.
+Offline checks validate stored excerpts and structure, not full remote originals, political truth, editorial consensus, specialist translation quality or current online availability. Those need source review. Browser behaviour, remote CI and hosting success remain separate verification. See [portal limits](portal.md#verification-and-remaining-limits).

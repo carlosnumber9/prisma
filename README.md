@@ -30,7 +30,7 @@ npm run build
 - [document-political-info](.agents/skills/document-political-info/SKILL.md): verify only displayed formation information and provincial Congress presence.
 - [triage-suggestion](.agents/skills/triage-suggestion/SKILL.md): evaluate a supplied correction; never read mail or reply automatically.
 
-Follow the [editorial policy](docs/editorial-policy.md), [programme contract](docs/content-contract.md), [catalogue provenance](docs/catalogue-provenance.md) and [scoped research workflow](docs/research-factory.md). Keep unapproved work and investigation reports outside Git. No person records, full candidate lists or historical political research archives belong in the repository.
+Follow the [editorial policy](docs/editorial-policy.md), [programme contract](docs/content-contract.md), [catalogue provenance](docs/catalogue-provenance.md) and [scoped research workflow](docs/research-factory.md). Keep unapproved work, complete originals and investigation reports outside Git. Retain only cited programme excerpts and the minimal provenance needed to maintain displayed content; schema 4 omits literal quotes from the app projection. No person records, full candidate lists or historical political research archives belong in the repository.
 
 ```sh
 npm run content:generate

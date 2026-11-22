@@ -182,7 +182,7 @@ test('directory buttons retain localized destinations, titles and empty-catalogu
 function fixture(status, empty = false) {
   const reviewed = status !== 'pending';
   const envelope = (key, items) => ({
-    schemaVersion: 3,
+    schemaVersion: 4,
     electionDate: '2026-11-29',
     [key]: items,
   });

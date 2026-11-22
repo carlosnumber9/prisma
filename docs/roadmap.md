@@ -5,6 +5,7 @@
 - Reviewed six-language programme summaries, stable point IDs, source locators, deterministic generation and separate editorial/public data. Six formations have 224 approved proposals across 48 partial area syntheses. Counts describe selected proposals, not complete programmes.
 - Prerendered programme, party and topic routes; localized navigation, proposal links, source disclosures and responsive presentation. See [portal implementation](portal.md) for animation, accessibility and browser verification limits.
 - Shared province selection, local IGN matching, Madrid fallback and 534 proclaimed Congress formation presences across 52 provinces. Existing national programme identities are reused across provincial variants. See [provincial data](provincial-data.md).
+- Minimal citation evidence instead of full originals and extraction archives; schema 4 omits undisplayed public quotations. Offline validation checks retained excerpts, not original bytes. See [the contract](content-contract.md).
 - Scope-limited authoring: displayed programme content, formation information and provincial presence. Politician profiles, individual candidate lists, substitutes and Senate research are excluded. Investigation ledgers and raw political archives stay outside Git.
 - Local static checks, deterministic tests, generated-content validation, bounded credential screening and a separate production-build checker. These do not prove remote CI or deployment status.
 
