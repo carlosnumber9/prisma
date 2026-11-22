@@ -3,6 +3,7 @@ import { createHash } from 'node:crypto';
 import { readFileSync, writeFileSync, mkdirSync, lstatSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { programmeForFormation } from './programme-identity.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const hash = (bytes) => createHash('sha256').update(bytes).digest('hex');
@@ -41,6 +42,7 @@ export function projectProvincialContent(
   provinces,
   programmeParties,
   readSource,
+  programmeAliases = {},
 ) {
   keys(dataset, [
     'schemaVersion',
@@ -159,7 +161,14 @@ export function projectProvincialContent(
     return { id: province.id, parties: [] };
   });
   const byProvince = new Map(output.map((p) => [p.id, p]));
-  const catalogue = new Map(programmeParties.map((p) => [p.id, p]));
+  const programmeByFormation = new Map(
+    [...entities.values()]
+      .filter((entity) => entity.kind === 'formation')
+      .map((formation) => [
+        formation.id,
+        programmeForFormation(formation, programmeParties, programmeAliases),
+      ]),
+  );
   const pairs = new Set();
   unique(dataset.candidatures);
   for (const candidature of dataset.candidatures) {
@@ -194,9 +203,8 @@ export function projectProvincialContent(
     const pair = `${province.id}/${formation.id}`;
     assert.ok(!pairs.has(pair), 'Duplicate formation in constituency');
     pairs.add(pair);
-    // Only identical, already-reviewed formation IDs can expose programme routes.
-    // Coalition members and similar territorial labels do not imply identity.
-    const programme = catalogue.get(formation.id);
+    // Every candidature of the same formation reuses its national programme.
+    const programme = programmeByFormation.get(formation.id);
     const abbreviation = formation.name.match(/\(([^()]*)\)\s*$/)?.[1];
     const label =
       programme?.name ??
@@ -251,6 +259,7 @@ export function generateProvincialContent(directory, check = false) {
     json(join(directory, 'content/geography/provinces.json')),
     json(join(directory, 'content/editorial/parties.json')),
     readSource,
+    json(join(directory, 'content/editorial/programme-identities.json')),
   );
   const path = join(directory, 'content/generated-provincial/congress.json');
   const bytes = `${JSON.stringify(output, null, 2)}\n`;

@@ -34,7 +34,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -49,7 +49,7 @@
         {
           "id": "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
           "label": "PSOE",
-          "programmeId": null
+          "programmeId": "psoe"
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
@@ -84,7 +84,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -139,7 +139,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -194,7 +194,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -249,7 +249,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -304,7 +304,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-nuevo-extremenismo-adelante-extremadura-nex",
@@ -359,7 +359,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -368,8 +368,8 @@
         },
         {
           "id": "formation-partido-socialista-de-las-islas-baleares-psib-psoe",
-          "label": "PSIB-PSOE",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -414,7 +414,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-junts-per-catalunya-jxcat",
@@ -428,13 +428,13 @@
         },
         {
           "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
-          "label": "PSC",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-partit-popular-partido-popular-pp",
           "label": "PP",
-          "programmeId": null
+          "programmeId": "pp"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -454,7 +454,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -504,7 +504,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-nuevo-extremenismo-adelante-extremadura-nex",
@@ -564,7 +564,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -624,7 +624,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -669,7 +669,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "frente-amplio",
@@ -724,7 +724,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -779,7 +779,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
@@ -788,8 +788,8 @@
         },
         {
           "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
-          "label": "PSdeG-PSOE",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -819,7 +819,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -889,7 +889,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-junts-per-catalunya-jxcat",
@@ -908,13 +908,13 @@
         },
         {
           "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
-          "label": "PSC",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-partit-popular-partido-popular-pp",
           "label": "PP",
-          "programmeId": null
+          "programmeId": "pp"
         },
         {
           "id": "vox",
@@ -939,7 +939,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -994,7 +994,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -1064,7 +1064,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1074,7 +1074,7 @@
         {
           "id": "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
           "label": "PSOE",
-          "programmeId": null
+          "programmeId": "psoe"
         },
         {
           "id": "frente-amplio",
@@ -1114,7 +1114,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1129,7 +1129,7 @@
         {
           "id": "formation-partido-socialista-de-huelva-psoe",
           "label": "PSOE",
-          "programmeId": null
+          "programmeId": "psoe"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1169,7 +1169,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1224,7 +1224,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1284,7 +1284,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1359,7 +1359,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-junts-per-catalunya-jxcat",
@@ -1378,8 +1378,8 @@
         },
         {
           "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
-          "label": "PSC",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "pp",
@@ -1404,7 +1404,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1464,12 +1464,12 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
-          "label": "PSdeG-PSOE",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1509,7 +1509,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-iustitia-europa-ie",
@@ -1584,7 +1584,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1639,7 +1639,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -1704,7 +1704,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-geroa-bai-gbai",
@@ -1723,8 +1723,8 @@
         },
         {
           "id": "formation-partido-socialista-de-navarra-psoe-psn-psoe",
-          "label": "PSN-PSOE",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
@@ -1769,7 +1769,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
@@ -1778,8 +1778,8 @@
         },
         {
           "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
-          "label": "PSdeG-PSOE",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-por-un-mundo-mais-xusto-mundo-justo",
@@ -1819,7 +1819,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -1884,7 +1884,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -1939,7 +1939,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-liberacion-canaria-lib",
@@ -2024,7 +2024,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
@@ -2033,8 +2033,8 @@
         },
         {
           "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
-          "label": "PSdeG-PSOE",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2064,7 +2064,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -2119,7 +2119,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-liberacion-canaria-lib",
@@ -2179,7 +2179,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -2219,7 +2219,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -2284,7 +2284,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -2339,7 +2339,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -2414,7 +2414,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-junts-per-catalunya-jxcat",
@@ -2433,13 +2433,13 @@
         },
         {
           "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
-          "label": "PSC",
-          "programmeId": null
+          "label": "PSOE",
+          "programmeId": "psoe"
         },
         {
           "id": "formation-partit-popular-partido-popular-pp",
           "label": "PP",
-          "programmeId": null
+          "programmeId": "pp"
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
@@ -2469,7 +2469,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -2524,7 +2524,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -2584,7 +2584,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -2649,7 +2649,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -2719,7 +2719,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -2734,7 +2734,7 @@
         {
           "id": "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
           "label": "PSOE",
-          "programmeId": null
+          "programmeId": "psoe"
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
@@ -2769,7 +2769,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -2829,7 +2829,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -2874,12 +2874,12 @@
         {
           "id": "formation-frente-obrero",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-podemos-paz-casa-y-trabajo",
-          "label": "PAZ,CASA Y TRABAJO",
-          "programmeId": null
+          "label": "Podemos",
+          "programmeId": "podemos"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2909,7 +2909,7 @@
         {
           "id": "formation-frente-obrero-fo",
           "label": "Frente Obrero",
-          "programmeId": null
+          "programmeId": "frente-obrero"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",

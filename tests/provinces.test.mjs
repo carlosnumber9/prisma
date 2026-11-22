@@ -258,8 +258,8 @@ test('BOE projection covers 52 provinces and exposes formations without people, 
       ]);
       if (party.programmeId)
         assert.ok(
-          ['pp', 'psoe', 'vox', 'podemos', 'frente-amplio'].includes(
-            party.programmeId,
+          read('content/editorial/parties.json').some(
+            (programme) => programme.id === party.programmeId,
           ),
         );
     }

@@ -123,3 +123,60 @@ test('all area directories render provincial parties in every locale with only r
     }
   }
 });
+
+test('Frente Obrero uses its single national programme in every province including Ceuta', () => {
+  const programme = { href: '/parties/frente-obrero' };
+  const topic = 'housing';
+  for (const province of provinces) {
+    const entries = provincialPartyEntries(province.id, [programme]);
+    const frenteObrero = entries.filter(
+      (entry) => entry.label === 'Frente Obrero',
+    );
+    assert.equal(frenteObrero.length, 1, province.name);
+    assert.equal(frenteObrero[0].href, programme.href, province.name);
+    assert.equal(frenteObrero[0].disabled, false, province.name);
+    const area = provincialPartyEntries(
+      province.id,
+      [{ href: `${programme.href}/${topic}` }],
+      topic,
+    );
+    assert.equal(
+      area.find((entry) => entry.id === frenteObrero[0].id).href,
+      `${programme.href}/${topic}`,
+      province.name,
+    );
+    const draft = provincialPartyEntries(
+      province.id,
+      [{ href: `${programme.href}/${topic}`, disabled: true }],
+      topic,
+    );
+    assert.equal(
+      draft.find((entry) => entry.id === frenteObrero[0].id).disabled,
+      true,
+      province.name,
+    );
+  }
+});
+
+test('province selection reads the same global reviewed synthesis availability for Frente Obrero', () => {
+  const syntheses = read('content/generated/syntheses.json').syntheses.filter(
+    (synthesis) => synthesis.partyId === 'frente-obrero',
+  );
+  assert.equal(syntheses.length, 8);
+  for (const synthesis of syntheses) {
+    for (const province of provinces) {
+      const entries = provincialPartyEntries(
+        province.id,
+        [{ href: synthesis.path, disabled: synthesis.points.length === 0 }],
+        synthesis.topicId,
+      );
+      const entry = entries.find((party) => party.label === 'Frente Obrero');
+      assert.equal(
+        entry.disabled,
+        synthesis.points.length === 0,
+        `${province.name}/${synthesis.topicId}`,
+      );
+      assert.equal(entry.href, synthesis.path);
+    }
+  }
+});
