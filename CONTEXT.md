@@ -2,7 +2,7 @@
 
 Prisma organises citizens' access to political programmes through reviewed summaries, with evidence and an explicit editorial review process.
 
-The electoral scope is permanently the Spanish general election of 29 November 2026. Unqualified programmes, lists and candidatures refer to that election, covering Congress and Senate nationwide unless the request narrows the scope.
+The electoral scope is the Spanish general election of 29 November 2026. Prisma covers programme summaries and electoral formations present in provincial Congress constituencies.
 
 ## Language
 
@@ -10,8 +10,9 @@ The electoral scope is permanently the Spanish general election of 29 November 2
 A party, coalition or other electoral organisation whose programme is represented in the portal. A coalition is not interchangeable with each of its constituent parties.
 _Avoid_: Treating one formation as one constituency candidature.
 
-**Candidature**:
-An electoral list or set of candidates presented for a particular election and constituency. Counting candidatures does not count distinct programmes.
+**Provincial presence**:
+An electoral formation's officially proclaimed participation in a provincial Congress constituency for the scoped election. Presence identifies the formation available to citizens, not individual candidates.
+_Avoid_: Counting presences as distinct programmes or treating coalition membership as programme identity.
 
 **Programme**:
 The official set of proposals a formation publishes for a particular election. It can span several documents or web pages.

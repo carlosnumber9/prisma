@@ -10,7 +10,7 @@ Prisma tracks several independent kinds of version. Do not substitute one for an
 | Source version       | Preserved original snapshot                       | Source ID includes the first 12 SHA-256 characters; retain the full hash and create another snapshot when bytes change.             |
 | Synthesis `revision` | Public editorial version for a formation and area | Increment when published text, order, references or review state changes; keep synthesis and point IDs stable.                      |
 
-The separate [political reference contract](../.agents/skills/document-political-info/references/data-contract.md) starts at `schemaVersion: 1`, independently of programme schema 3. Its accepted dataset has its own positive `revision`, incremented for changes to public facts, references, coverage or review. This does not change the package version or integrate those records into the app.
+The separate [provincial presence contract](provincial-data.md) uses schema version 1 independently. Its revision describes accepted electoral content and remains unchanged when storage alone is simplified. It contains no people or generic fact records.
 
 Use semantic package versioning. Before 1.0, incompatible tooling changes increment the minor version; compatible fixes increment the patch. After 1.0, incompatible changes increment major, capabilities minor and fixes patch. A private package version is not evidence of an npm publication or a GitHub release.
 

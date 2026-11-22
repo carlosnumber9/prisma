@@ -2,7 +2,7 @@
 
 This is the shared reference for `document-program` and `triage-suggestion`.
 
-`document-political-info` also follows the provenance, evidence, multilingual prose and explicit-agreement principles below. Its [political reference contract](../.agents/skills/document-political-info/references/data-contract.md) defines separate storage, dates, approval and JSON shapes. Prisma's standing scope is the Spanish general election of 29 November 2026, including political-reference and candidature research. Do not ask for election selection again or investigate another electoral process. The reference contract's generic capacity for historical facts does not expand this scope. Programme synthesis states and proposal rules remain separate from reference data; reference research must not rewrite programme proposals or automatically expand the programme catalogue.
+`document-political-info` follows the same official-provenance and explicit-agreement principles for displayed formation information and [provincial Congress presence](provincial-data.md). Politicians, personal roles, individual candidates, substitutes and Senate lists are outside the product scope. Keep unrelated investigations and unaccepted previews outside Git.
 
 ## Provenance and coverage
 

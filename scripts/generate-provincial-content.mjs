@@ -1,14 +1,20 @@
 import assert from 'node:assert/strict';
-import { createHash } from 'node:crypto';
-import { readFileSync, writeFileSync, mkdirSync, lstatSync } from 'node:fs';
+import {
+  readFileSync,
+  writeFileSync,
+  mkdirSync,
+  lstatSync,
+  existsSync,
+} from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { programmeForFormation } from './programme-identity.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const hash = (bytes) => createHash('sha256').update(bytes).digest('hex');
-const normalize = (value) => value.replace(/\s+/gu, ' ').trim();
-const json = (path) => JSON.parse(readFileSync(path, 'utf8'));
+const json = (path) => {
+  assert.ok(lstatSync(path).isFile() && !lstatSync(path).isSymbolicLink());
+  return JSON.parse(readFileSync(path, 'utf8'));
+};
 function keys(value, names) {
   assert.ok(value && typeof value === 'object' && !Array.isArray(value));
   assert.deepEqual(Object.keys(value).sort(), [...names].sort());
@@ -20,11 +26,6 @@ function date(value) {
     value,
   );
 }
-function utc(value) {
-  assert.match(value, /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{1,9})?Z$/);
-  assert.equal(new Date(value).toISOString().slice(0, 19), value.slice(0, 19));
-}
-
 function unique(items) {
   const result = new Map();
   for (const item of items) {
@@ -35,230 +36,114 @@ function unique(items) {
   return result;
 }
 
-// This validates only the presence-only Congress subset used by this feature.
-// It is not a general validator for political biographies or candidate lists.
+// This contract stores only the formation presence needed by the portal.
+// Official URLs document provenance; offline checks do not reverify the BOE.
 export function projectProvincialContent(
   dataset,
   provinces,
   programmeParties,
-  readSource,
   programmeAliases = {},
 ) {
   keys(dataset, [
     'schemaVersion',
-    'datasetId',
+    'electionDate',
     'revision',
-    'reviewedAt',
-    'coverage',
-    'entities',
-    'facts',
-    'candidatures',
+    'asOf',
     'sources',
+    'formations',
+    'provinces',
   ]);
   assert.equal(dataset.schemaVersion, 1);
-  assert.equal(dataset.datasetId, 'congress-2026-provinces');
+  assert.equal(dataset.electionDate, '2026-11-29');
   assert.ok(Number.isInteger(dataset.revision) && dataset.revision > 0);
-  utc(dataset.reviewedAt);
-  keys(dataset.coverage, ['entityIds', 'asOf', 'status', 'limitations']);
-  date(dataset.coverage.asOf);
-  assert.equal(dataset.coverage.status, 'partial');
-  keys(dataset.coverage.limitations, ['es', 'ca', 'gl', 'eu', 'oc', 'en']);
-  Object.values(dataset.coverage.limitations).forEach((text) =>
-    assert.ok(typeof text === 'string' && text.trim()),
-  );
-  assert.deepEqual(dataset.facts, []);
-  const entities = unique(dataset.entities);
-  const sources = unique(dataset.sources);
-  const segments = new Map();
-  for (const source of sources.values()) {
-    keys(source, [
-      'id',
-      'title',
-      'url',
-      'authority',
-      'publishedAt',
-      'capturedAt',
-      'sha256',
-      'redacted',
-    ]);
-    assert.equal(source.authority, 'electoral');
+  date(dataset.asOf);
+  assert.ok(dataset.asOf <= dataset.electionDate);
+  assert.ok(Array.isArray(dataset.sources) && dataset.sources.length > 0);
+  unique(dataset.sources);
+  for (const source of dataset.sources) {
+    keys(source, ['id', 'title', 'url', 'publishedAt']);
+    assert.ok(typeof source.title === 'string' && source.title.trim());
     const url = new URL(source.url);
     assert.equal(url.protocol, 'https:');
     assert.equal(url.hostname, 'www.boe.es');
     assert.equal(url.username + url.password, '');
     date(source.publishedAt);
-    assert.ok(source.publishedAt <= dataset.coverage.asOf);
-    assert.ok(source.capturedAt.slice(0, 10) >= source.publishedAt);
-    utc(source.capturedAt);
-    assert.match(source.sha256, /^[a-f0-9]{64}$/);
-    assert.equal(source.id, `source-${source.sha256.slice(0, 12)}`);
-    const { metadata, original, extractedBytes } = readSource(source.id);
-    keys(metadata, [
-      ...Object.keys(source),
-      'originalFile',
-      'extractionSha256',
-    ]);
-    for (const key of Object.keys(source))
-      assert.deepEqual(metadata[key], source[key]);
-    assert.equal(
-      metadata.originalFile,
-      source.redacted ? 'redacted.html' : 'original.html',
-    );
-    assert.equal(hash(original), source.sha256);
-    assert.equal(hash(extractedBytes), metadata.extractionSha256);
-    const extracted = JSON.parse(extractedBytes.toString('utf8'));
-    keys(extracted, ['sourceId', 'sourceSha256', 'segments']);
-    assert.equal(extracted.sourceId, source.id);
-    assert.equal(extracted.sourceSha256, source.sha256);
-    const entries = unique(extracted.segments);
-    for (const segment of entries.values()) {
-      keys(segment, ['id', 'text', 'section']);
-      assert.ok(segment.text.trim() && segment.section.trim());
-    }
-    segments.set(source.id, entries);
+    assert.ok(source.publishedAt <= dataset.asOf);
   }
-  const citations = (items) => {
-    assert.ok(Array.isArray(items) && items.length > 0);
-    for (const citation of items) {
-      keys(citation, ['sourceId', 'segmentId', 'quote']);
-      const segment = segments.get(citation.sourceId)?.get(citation.segmentId);
-      assert.ok(
-        segment &&
-          citation.quote.trim() &&
-          normalize(segment.text).includes(normalize(citation.quote)),
-        'Unverifiable citation',
-      );
-    }
-  };
-  for (const entity of entities.values()) {
-    keys(entity, ['id', 'kind', 'name', 'citations']);
-    assert.ok(
-      ['formation', 'territory', 'election', 'institution'].includes(
-        entity.kind,
-      ),
-    );
-    assert.ok(typeof entity.name === 'string' && entity.name.trim());
-    citations(entity.citations);
+  assert.ok(Array.isArray(dataset.formations));
+  const formations = unique(dataset.formations);
+  for (const formation of formations.values()) {
+    keys(formation, ['id', 'name']);
+    assert.ok(typeof formation.name === 'string' && formation.name.trim());
   }
-  for (const id of dataset.coverage.entityIds) assert.ok(entities.has(id));
-  assert.equal(
-    new Set(dataset.coverage.entityIds).size,
-    dataset.coverage.entityIds.length,
-  );
-  const provinceIds = new Set();
-  const output = provinces.map((province) => {
-    keys(province, ['id', 'name', 'aliases']);
-    assert.match(province.id, /^\d{2}$/);
-    assert.ok(!provinceIds.has(province.id));
-    provinceIds.add(province.id);
-    assert.ok(
-      dataset.coverage.entityIds.includes(`territory-province-${province.id}`),
-    );
-    assert.equal(
-      entities.get(`territory-province-${province.id}`)?.kind,
-      'territory',
-    );
-    return { id: province.id, parties: [] };
-  });
-  const byProvince = new Map(output.map((p) => [p.id, p]));
   const programmeByFormation = new Map(
-    [...entities.values()]
-      .filter((entity) => entity.kind === 'formation')
-      .map((formation) => [
-        formation.id,
-        programmeForFormation(formation, programmeParties, programmeAliases),
-      ]),
+    [...formations.values()].map((formation) => [
+      formation.id,
+      programmeForFormation(formation, programmeParties, programmeAliases),
+    ]),
   );
-  const pairs = new Set();
-  unique(dataset.candidatures);
-  for (const candidature of dataset.candidatures) {
-    keys(candidature, [
-      'id',
-      'formationId',
-      'electionId',
-      'institutionId',
-      'constituencyId',
-      'status',
-      'asOf',
-      'listCoverage',
-      'candidates',
-      'citations',
-    ]);
-    assert.equal(candidature.institutionId, 'institution-congress');
-    assert.equal(candidature.electionId, 'election-general-2026');
-    assert.equal(entities.get(candidature.institutionId)?.kind, 'institution');
-    assert.equal(entities.get(candidature.electionId)?.kind, 'election');
-    assert.equal(candidature.status, 'proclaimed');
-    assert.equal(candidature.listCoverage, 'partial');
-    assert.deepEqual(candidature.candidates, []);
-    date(candidature.asOf);
-    assert.equal(candidature.asOf, dataset.coverage.asOf);
-    citations(candidature.citations);
-    const formation = entities.get(candidature.formationId);
-    assert.equal(formation?.kind, 'formation');
-    const province = byProvince.get(
-      candidature.constituencyId.replace('territory-province-', ''),
+  assert.ok(Array.isArray(dataset.provinces));
+  const expected = new Set(provinces.map((province) => province.id));
+  assert.equal(expected.size, 52);
+  const seen = new Set();
+  const used = new Set();
+  const output = dataset.provinces.map((province) => {
+    keys(province, ['id', 'formationIds']);
+    assert.ok(
+      expected.has(province.id) && !seen.has(province.id),
+      'Unknown or duplicate province',
     );
-    assert.ok(province, 'Unknown province');
-    const pair = `${province.id}/${formation.id}`;
-    assert.ok(!pairs.has(pair), 'Duplicate formation in constituency');
-    pairs.add(pair);
-    // Every candidature of the same formation reuses its national programme.
-    const programme = programmeByFormation.get(formation.id);
-    const abbreviation = formation.name.match(/\(([^()]*)\)\s*$/)?.[1];
-    const label =
-      programme?.name ??
-      (formation.name.startsWith('FRENTE OBRERO')
-        ? 'Frente Obrero'
-        : (abbreviation ?? formation.name));
-    province.parties.push({
-      id: formation.id,
-      label,
-      programmeId: programme?.id ?? null,
+    seen.add(province.id);
+    assert.ok(
+      Array.isArray(province.formationIds) && province.formationIds.length > 0,
+    );
+    assert.equal(
+      new Set(province.formationIds).size,
+      province.formationIds.length,
+      'Duplicate formation in constituency',
+    );
+    const parties = province.formationIds.map((id) => {
+      const formation = formations.get(id);
+      assert.ok(formation, 'Unknown formation');
+      used.add(id);
+      const programme = programmeByFormation.get(id);
+      const abbreviation = formation.name.match(/\(([^()]*)\)\s*$/)?.[1];
+      return {
+        id,
+        label:
+          programme?.name ??
+          (formation.name.startsWith('FRENTE OBRERO')
+            ? 'Frente Obrero'
+            : (abbreviation ?? formation.name)),
+        programmeId: programme?.id ?? null,
+      };
     });
-  }
-  assert.equal(provinces.length, 52);
-  for (const province of output) {
-    assert.ok(province.parties.length > 0, `Missing province ${province.id}`);
-    province.parties.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
-  }
+    parties.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
+    return { id: province.id, parties };
+  });
+  assert.equal(seen.size, expected.size, 'Missing province');
+  assert.equal(used.size, formations.size, 'Unused formation');
+  output.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0));
   return {
     schemaVersion: 1,
-    electionDate: '2026-11-29',
+    electionDate: dataset.electionDate,
     revision: dataset.revision,
     provinces: output,
   };
 }
 
 export function generateProvincialContent(directory, check = false) {
-  const dataset = json(
-    join(
-      directory,
-      'content/political-info/approved/congress-2026-provinces.json',
-    ),
+  assert.ok(
+    !existsSync(join(directory, 'content/political-info')),
+    'Legacy political research must remain outside the repository',
   );
-  const readSource = (id) => {
-    const base = join(directory, 'content/political-info/sources', id);
-    const metadata = json(join(base, 'metadata.json'));
-    assert.ok(
-      ['original.html', 'redacted.html'].includes(metadata.originalFile),
-    );
-    const read = (name) => {
-      const path = join(base, name);
-      assert.ok(lstatSync(path).isFile() && !lstatSync(path).isSymbolicLink());
-      return readFileSync(path);
-    };
-    return {
-      metadata,
-      original: read(metadata.originalFile),
-      extractedBytes: read('extracted.json'),
-    };
-  };
+  const dataset = json(
+    join(directory, 'content/editorial/provincial-presence.json'),
+  );
   const output = projectProvincialContent(
     dataset,
     json(join(directory, 'content/geography/provinces.json')),
     json(join(directory, 'content/editorial/parties.json')),
-    readSource,
     json(join(directory, 'content/editorial/programme-identities.json')),
   );
   const path = join(directory, 'content/generated-provincial/congress.json');

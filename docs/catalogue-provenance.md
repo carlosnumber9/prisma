@@ -1,37 +1,21 @@
 # Catalogue provenance
 
-The maintainer selected PP, PSOE, VOX, ERC and Frente Amplio for the first portal. Since 18 November 2026 the public catalogue lists formations with documented programmes. The maintainer added Podemos with its first approved batch and removed ERC, which had no approved synthesis in Prisma. The catalogue is a limited editorial selection with stable formation IDs.
+The public catalogue is a limited editorial selection of formations with reviewed programmes for 29 November 2026. Stable IDs identify programme owners, not provincial candidatures. Current names, official websites and optional interface branding live only in `content/editorial/parties.json`.
 
-## Initial identity and official website evidence
+## Identity and websites
 
-Evidence consulted on 12 October 2026:
+- PP: [official legal notice](https://www.pp.es/aviso-legal/), checked 12 October 2026.
+- PSOE: [official legal notice](https://www.psoe.es/aviso-legal/), checked 12 October 2026.
+- VOX: [official legal notice](https://www.voxespana.es/espana/aviso-legal), checked 12 October 2026.
+- Podemos: [institutional CEPC directory](https://www.cepc.gob.es/documentacion/enlaces-de-interes/partidos-sindicatos-organizaciones-empresariales), checked 18 November 2026; its separate campaign domain supplies the programme.
+- Frente Amplio: [official programme domain](https://frenteamplio.info/programa/), verified 17 November 2026. The catalogue retains its accepted nullable website; verification is not an automatic catalogue change.
+- Frente Obrero: [official homepage](https://frenteobrero.es/) and [programme page](https://frenteobrero.es/quienes-somos/), checked 21 November 2026. The campaign adopts the preserved political programme for 29N; this does not assert a newly dated electoral edition or Senate participation.
 
-| ID              | Display name  | Official website          | Identity evidence                                                                                                                                                                                                                                                                                                                                            |
-| --------------- | ------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `pp`            | PP            | https://www.pp.es/        | [PP legal notice](https://www.pp.es/aviso-legal/)                                                                                                                                                                                                                                                                                                            |
-| `psoe`          | PSOE          | https://www.psoe.es/      | [PSOE legal notice](https://www.psoe.es/aviso-legal/)                                                                                                                                                                                                                                                                                                        |
-| `vox`           | VOX           | https://www.voxespana.es/ | [VOX legal notice](https://www.voxespana.es/espana/aviso-legal)                                                                                                                                                                                                                                                                                              |
-| `erc`           | ERC           | https://www.esquerra.cat/ | [ERC legal notice](https://www.esquerra.cat/avis-legal/)                                                                                                                                                                                                                                                                                                     |
-| `frente-amplio` | Frente Amplio | Not verified; `null`      | [IU statement of 11 October 2026](https://izquierdaunida.org/2026/10/11/izquierda-unida-reafirma-su-compromiso-con-un-frente-amplio-que-reuna-a-todas-las-fuerzas-de-la-izquierda-y-a-la-sociedad-movilizada/) identifies the Spanish project. It does not establish a separate official website, complete coalition membership or a proclaimed candidature. |
+## Displayed branding
 
-Frente Amplio retains the catalogue's initial nullable website value. Its separate editorial review verifies the coalition's programme domain. [Frente Amplio editorial review](../content/reviews/2026-11-17-frente-amplio-programme-draft.md)
+- PP `#21599E`: [official short-logo SVG](https://www.pp.es/wp-content/uploads/2022/08/logo-short.svg), checked 12 October 2026.
+- PSOE `#E20025`: RGB 226/0/37 on page 6 of the [official 2020 identity manual](https://psoedejaen.com/wp-content/uploads/2020/12/MANUAL-IDENTIDAD-CORPORATIVA-PSOE-2020.pdf), checked 12 October 2026. No newer manual was verified.
 
-## Podemos addition
+Other formations use the neutral theme. No official formation font is bundled. Preserve a minimal official URL, consultation date and embedding licence evidence before adding displayed branding. Do not retain research about unused palettes, logo variants or possible fonts.
 
-The stable identifier is `podemos`, with display name Podemos and official website `https://podemos.info/`, as listed in the Centro de Estudios Políticos y Constitucionales directory. The programme is hosted on the separate campaign website. The catalogue omits colour and font metadata for Podemos. [Institutional directory](https://www.cepc.gob.es/documentacion/enlaces-de-interes/partidos-sindicatos-organizaciones-empresariales) · [Podemos editorial review](../content/reviews/2026-11-18-podemos-programme-draft.md)
-
-## Frente Obrero addition
-
-The programme incorporation uses the new stable ID `frente-obrero`, display name Frente Obrero and official website `https://frenteobrero.es/`. The official homepage and its linked programme page explicitly associate the preserved political programme with the 29 November 2026 campaign. The maintainer approved 41 programme points in all six languages. This catalogue addition does not assert exhaustive Congress or Senate candidature coverage. No official colour or licensed official font is added. See the [21 November programme review](../content/reviews/2026-11-21-frente-obrero-programme-draft.md).
-
-## Interface colour evidence
-
-Only primary brand evidence is used. The interface applies subtle tints of the base colour while keeping text and focus indicators legible. These tints are interface treatments, not claims about an official complete palette.
-
-- PP: `#21599E`, the fill in the [official logo SVG used by its website](https://www.pp.es/wp-content/uploads/2022/08/logo-short.svg).
-- PSOE: `#E20025`, RGB 226/0/37 on page 6 of the [PSOE–CEF 2020 identity manual published by its Jaén federation](https://psoedejaen.com/wp-content/uploads/2020/12/MANUAL-IDENTIDAD-CORPORATIVA-PSOE-2020.pdf). No later manual was verified.
-- VOX, ERC and Frente Amplio: no current primary colour asset was verified in this review. Use the neutral theme, including for any newly added formation, until evidence is reviewed.
-
-The existing evidenced PP and PSOE colours are stored as `officialColor` in `content/editorial/parties.json` and projected to public JSON. Other formations omit the field: their banners use light grey and their breadcrumb/badge accents remain neutral. No official formation font has been verified or bundled; the party names retain the site font. Future official colour and typeface research follows the political documentation skill and requires evidence before catalogue incorporation.
-
-The [18 November colour review](../content/political-info/reviews/2026-11-18-formation-brand-colours.md) verifies the digital green in the official VOX wordmark, the digital purple in the official Podemos wordmark, and the two Frente Amplio web branding colours. It records their source and scope for a future catalogue change.
+Territorial programme associations are declared in `content/editorial/programme-identities.json` under the [provincial identity rules](provincial-data.md#programme-identity-and-geography). They do not merge electoral legal identities or assign a coalition member's programme automatically.

@@ -69,7 +69,7 @@ if (
     ? directories
     : [
         join(projectRoot, 'content/sources'),
-        join(projectRoot, 'content/political-info/sources'),
+        join(projectRoot, 'content/editorial'),
       ];
   try {
     const findings = paths.flatMap((path) => scanSourceDirectory(path));

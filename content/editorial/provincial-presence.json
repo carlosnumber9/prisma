@@ -1,0 +1,1118 @@
+{
+  "schemaVersion": 1,
+  "electionDate": "2026-11-29",
+  "revision": 1,
+  "asOf": "2026-11-20",
+  "sources": [
+    {
+      "id": "source-7f2c05abb419",
+      "title": "Corrección de errores de las candidaturas proclamadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre.",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23383",
+      "publishedAt": "2026-11-07"
+    },
+    {
+      "id": "source-a8f0ada0b76e",
+      "title": "Candidaturas proclamadas para las elecciones al Congreso y al Senado (BOE-A-2026-23103)",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
+      "publishedAt": "2026-11-03"
+    }
+  ],
+  "formations": [
+    {
+      "id": "formation-adelante-andalucia-adelante-andalucia",
+      "name": "ADELANTE ANDALUCÍA (ADELANTE ANDALUCÍA)"
+    },
+    {
+      "id": "formation-agenda-valenciana-agenda-valenciana",
+      "name": "AGENDA VALENCIANA (AGENDA VALENCIANA)"
+    },
+    {
+      "id": "formation-alhora-alhora",
+      "name": "ALHORA (ALHORA)"
+    },
+    {
+      "id": "formation-alternativa-malaguena-29",
+      "name": "ALTERNATIVA MALAGUEÑA (29)"
+    },
+    {
+      "id": "formation-arames-front-ampli-arames-eu-ms",
+      "name": "ARAMÉS-FRONT AMPLI (ARAMÉS-EU-MS)"
+    },
+    {
+      "id": "formation-bloque-nacionalista-galego-b-n-g",
+      "name": "BLOQUE NACIONALISTA GALEGO (B.N.G.)"
+    },
+    {
+      "id": "formation-bloque-nacionalista-galego-bng",
+      "name": "BLOQUE NACIONALISTA GALEGO (BNG)"
+    },
+    {
+      "id": "formation-chunta-aragonesista-frente-amplio-aragon-cha-iu-ms-frente-amplio",
+      "name": "CHUNTA ARAGONESISTA-FRENTE AMPLIO ARAGÓN (CHA-IU-MS-FRENTE AMPLIO)"
+    },
+    {
+      "id": "formation-coalicion-canaria-municipalistas-primero-canarias-cca-1-ocan",
+      "name": "Coalición Canaria-Municipalistas Primero Canarias (CCa-1.ºCAN)"
+    },
+    {
+      "id": "formation-compromis-front-valencia-compromis-eupv-podem-erpv",
+      "name": "COMPROMÍS: FRONT VALENCIÀ (COMPROMIS-EUPV-PODEM-ERPV)"
+    },
+    {
+      "id": "formation-comuns-front-ampli-comuns-front-ampli",
+      "name": "Comuns-Front Ampli (COMUNS-FRONT AMPLI)"
+    },
+    {
+      "id": "formation-convergents-cnv",
+      "name": "CONVERGENTS (CNV)"
+    },
+    {
+      "id": "formation-democracia-para-el-siglo-21-d21",
+      "name": "DEMOCRACIA para el siglo 21 (D21)"
+    },
+    {
+      "id": "formation-eguzkilore-eguzkilore",
+      "name": "EGUZKILORE (EGUZKILORE)"
+    },
+    {
+      "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+      "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS (ESCAÑOS EN BLANCO)"
+    },
+    {
+      "id": "formation-escanos-en-branco-para-deixar-escanos-baleiros-escanos-en-blanco",
+      "name": "Escanos en Branco para deixar Escanos Baleiros (ESCAÑOS EN BLANCO)"
+    },
+    {
+      "id": "formation-esquerra-republicana-de-catalunya-erc",
+      "name": "ESQUERRA REPUBLICANA DE CATALUNYA (ERC)"
+    },
+    {
+      "id": "formation-euskadiko-langileen-alderdi-komunista-partido-comunista-de-los-trabajadores-de-euskadi-elak-pcte",
+      "name": "EUSKADIKO LANGILEEN ALDERDI KOMUNISTA/PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI (ELAK/PCTE)"
+    },
+    {
+      "id": "formation-euskal-herria-bildu-eh-bildu",
+      "name": "EUSKAL HERRIA BILDU (EH BILDU)"
+    },
+    {
+      "id": "formation-euzko-alderdi-jeltzalea-partido-nacionalista-vasco-eaj-pnv",
+      "name": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO (EAJ-PNV)"
+    },
+    {
+      "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+      "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S. (FE de las JONS)"
+    },
+    {
+      "id": "formation-falange-espanola-de-las-jons-fe-de-las-jons",
+      "name": "FALANGE ESPAÑOLA DE LAS JONS (FE de las JONS)"
+    },
+    {
+      "id": "formation-federacion-de-los-independientes-de-aragon-f-i-a",
+      "name": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (F.I.A.)"
+    },
+    {
+      "id": "formation-federacion-de-los-independientes-de-aragon-fia",
+      "name": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON (FIA)"
+    },
+    {
+      "id": "formation-feministas-al-congreso-pfac",
+      "name": "FEMINISTAS AL CONGRESO (PFAC)"
+    },
+    {
+      "id": "formation-frente-amplio-andaluz-fa",
+      "name": "Frente Amplio Andaluz (FA)"
+    },
+    {
+      "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+      "name": "Frente Amplio-Fronte Ampla (FRENTE AMPLIO-FRONTE AMPLA)"
+    },
+    {
+      "id": "formation-frente-amplio-fronte-zabala-frente-amplio-fronte-zabala",
+      "name": "FRENTE AMPLIO-FRONTE ZABALA (FRENTE AMPLIO-FRONTE ZABALA)"
+    },
+    {
+      "id": "formation-frente-ampliu-por-asturies-fa",
+      "name": "FRENTE AMPLIU POR ASTURIES (FA)"
+    },
+    {
+      "id": "formation-frente-obrero",
+      "name": "FRENTE OBRERO"
+    },
+    {
+      "id": "formation-frente-obrero-fo",
+      "name": "FRENTE OBRERO (FO)"
+    },
+    {
+      "id": "formation-geroa-bai-gbai",
+      "name": "GEROA BAI (GBAI)"
+    },
+    {
+      "id": "formation-iustitia-europa-ie",
+      "name": "IUSTITIA EUROPA (IE)"
+    },
+    {
+      "id": "formation-junts-per-catalunya-jxcat",
+      "name": "JUNTS PER CATALUNYA (JxCat)"
+    },
+    {
+      "id": "formation-liberacion-canaria-lib",
+      "name": "LIBERACIÓN CANARIA (LIB)"
+    },
+    {
+      "id": "formation-municipalistas-primero-canarias-coalicion-canaria-1-ocan-cca",
+      "name": "MUNICIPALISTAS PRIMERO CANARIAS-COALICIÓN CANARIA (1.ºCAN-CCa)"
+    },
+    {
+      "id": "formation-nuevo-extremenismo-adelante-extremadura-nex",
+      "name": "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA (NEX)"
+    },
+    {
+      "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
+      "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE (PACMA)"
+    },
+    {
+      "id": "formation-partido-autonomos-partido-autonomos",
+      "name": "PARTIDO AUTÓNOMOS (PARTIDO AUTÓNOMOS)"
+    },
+    {
+      "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+      "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA (PCTE)"
+    },
+    {
+      "id": "formation-partido-comunista-de-los-trabajadores-de-euskadi-euskadiko-langileen-alderdi-komunista-pcte-elak",
+      "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA (PCTE/ELAK)"
+    },
+    {
+      "id": "formation-partido-comunista-del-pueblo-canario-pcpc",
+      "name": "PARTIDO COMUNISTA DEL PUEBLO CANARIO (PCPC)"
+    },
+    {
+      "id": "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
+      "name": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA (PCTG)"
+    },
+    {
+      "id": "formation-partido-democrata-social-jubilados-europeos-p-d-s-j-e",
+      "name": "PARTIDO DEMÓCRATA SOCIAL JUBILADOS EUROPEOS (P.D.S.J.E.)"
+    },
+    {
+      "id": "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+      "name": "Partido dos Socialistas de Galicia-PSOE (PSdeG-PSOE)"
+    },
+    {
+      "id": "formation-partido-drago-canarias-d-r-g",
+      "name": "PARTIDO DRAGO CANARIAS (D.R.G)"
+    },
+    {
+      "id": "formation-partido-humanista-ph",
+      "name": "PARTIDO HUMANISTA (PH)"
+    },
+    {
+      "id": "formation-partido-nacionalista-de-castilla-y-leon-union-reformista-ciudadana-pancal-urci",
+      "name": "PARTIDO NACIONALISTA DE CASTILLA Y LEÓN - UNION REFORMISTA CIUDADANA (PANCAL-URCI)"
+    },
+    {
+      "id": "formation-partido-regionalista-del-pais-leones-prepal",
+      "name": "PARTIDO REGIONALISTA DEL PAIS LEONES (PREPAL)"
+    },
+    {
+      "id": "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
+      "name": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE (PSOE)"
+    },
+    {
+      "id": "formation-partido-socialista-de-huelva-psoe",
+      "name": "PARTIDO SOCIALISTA DE HUELVA (PSOE)"
+    },
+    {
+      "id": "formation-partido-socialista-de-las-islas-baleares-psib-psoe",
+      "name": "PARTIDO SOCIALISTA DE LAS ISLAS BALEARES (PSIB-PSOE)"
+    },
+    {
+      "id": "formation-partido-socialista-de-navarra-psoe-psn-psoe",
+      "name": "PARTIDO SOCIALISTA DE NAVARRA-PSOE (PSN-PSOE)"
+    },
+    {
+      "id": "formation-partido-unionista-estado-de-espana-puede",
+      "name": "PARTIDO UNIONISTA ESTADO DE ESPAÑA (PUEDE)"
+    },
+    {
+      "id": "formation-partit-animalista-amb-el-medi-ambient-pacma",
+      "name": "PARTIT ANIMALISTA AMB EL MEDI AMBIENT (PACMA)"
+    },
+    {
+      "id": "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+      "name": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA (PCTC)"
+    },
+    {
+      "id": "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+      "name": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE) (PSC)"
+    },
+    {
+      "id": "formation-partit-popular-partido-popular-pp",
+      "name": "PARTIT POPULAR / PARTIDO POPULAR (PP)"
+    },
+    {
+      "id": "formation-podemos-paz-casa-y-trabajo",
+      "name": "PODEMOS (PAZ,CASA Y TRABAJO)"
+    },
+    {
+      "id": "formation-por-un-mundo-mais-xusto-mundo-justo",
+      "name": "POR UN MUNDO MAIS XUSTO (MUNDO+JUSTO)"
+    },
+    {
+      "id": "formation-por-un-mundo-mas-justo-mundo-justo",
+      "name": "POR UN MUNDO MAS JUSTO (MUNDO+JUSTO)"
+    },
+    {
+      "id": "formation-proyecto-alantre-p-alantre",
+      "name": "PROYECTO ALANTRE (P. ALANTRE)"
+    },
+    {
+      "id": "formation-renacer-renaixer-rrb",
+      "name": "RENACER RENAIXER (RRB)"
+    },
+    {
+      "id": "formation-se-acabo-la-fiesta-salf",
+      "name": "SE ACABÓ LA FIESTA (SALF)"
+    },
+    {
+      "id": "formation-soria-ya-sy",
+      "name": "SORIA ¡YA! (SY)"
+    },
+    {
+      "id": "formation-tercera-edad-en-accion-3e",
+      "name": "TERCERA EDAD EN ACCIÓN (3e)"
+    },
+    {
+      "id": "formation-teruel-existe-teruel-existe",
+      "name": "TERUEL EXISTE (TERUEL EXISTE)"
+    },
+    {
+      "id": "formation-unidad-del-pueblo-canario-upc-nc-bc-podemos-iu-sumar",
+      "name": "UNIDAD DEL PUEBLO CANARIO UPC (NC-BC, PODEMOS, IU, SUMAR)"
+    },
+    {
+      "id": "formation-union-del-pueblo-navarro-en-coalicion-con-el-partido-popular-upn-pp",
+      "name": "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON EL PARTIDO POPULAR (UPN-PP)"
+    },
+    {
+      "id": "formation-valencia-unida-vlc",
+      "name": "VALENCIA UNIDA (VLC)"
+    },
+    {
+      "id": "frente-amplio",
+      "name": "Frente Amplio (FA)"
+    },
+    {
+      "id": "podemos",
+      "name": "PODEMOS (PODEMOS)"
+    },
+    {
+      "id": "pp",
+      "name": "PARTIDO POPULAR (PP)"
+    },
+    {
+      "id": "psoe",
+      "name": "PARTIDO SOCIALISTA OBRERO ESPAÑOL (PSOE)"
+    },
+    {
+      "id": "vox",
+      "name": "VOX (VOX)"
+    }
+  ],
+  "provinces": [
+    {
+      "id": "01",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-euskal-herria-bildu-eh-bildu",
+        "formation-euzko-alderdi-jeltzalea-partido-nacionalista-vasco-eaj-pnv",
+        "formation-feministas-al-congreso-pfac",
+        "formation-frente-amplio-fronte-zabala-frente-amplio-fronte-zabala",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-euskadi-euskadiko-langileen-alderdi-komunista-pcte-elak",
+        "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "02",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "03",
+      "formationIds": [
+        "formation-compromis-front-valencia-compromis-eupv-podem-erpv",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-autonomos-partido-autonomos",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "04",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "05",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-democrata-social-jubilados-europeos-p-d-s-j-e",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "06",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-nuevo-extremenismo-adelante-extremadura-nex",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "07",
+      "formationIds": [
+        "formation-arames-front-ampli-arames-eu-ms",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-socialista-de-las-islas-baleares-psib-psoe",
+        "formation-se-acabo-la-fiesta-salf",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "08",
+      "formationIds": [
+        "formation-alhora-alhora",
+        "formation-comuns-front-ampli-comuns-front-ampli",
+        "formation-democracia-para-el-siglo-21-d21",
+        "formation-esquerra-republicana-de-catalunya-erc",
+        "formation-frente-obrero-fo",
+        "formation-junts-per-catalunya-jxcat",
+        "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+        "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+        "formation-partit-popular-partido-popular-pp",
+        "formation-se-acabo-la-fiesta-salf",
+        "vox"
+      ]
+    },
+    {
+      "id": "09",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "10",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-nuevo-extremenismo-adelante-extremadura-nex",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "11",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-frente-amplio-andaluz-fa",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "12",
+      "formationIds": [
+        "formation-compromis-front-valencia-compromis-eupv-podem-erpv",
+        "formation-falange-espanola-de-las-jons-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-autonomos-partido-autonomos",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "13",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "14",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-falange-espanola-de-las-jons-fe-de-las-jons",
+        "formation-frente-amplio-andaluz-fa",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "15",
+      "formationIds": [
+        "formation-bloque-nacionalista-galego-b-n-g",
+        "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
+        "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "16",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "17",
+      "formationIds": [
+        "formation-alhora-alhora",
+        "formation-comuns-front-ampli-comuns-front-ampli",
+        "formation-esquerra-republicana-de-catalunya-erc",
+        "formation-frente-obrero-fo",
+        "formation-junts-per-catalunya-jxcat",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+        "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+        "formation-partit-popular-partido-popular-pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "18",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-frente-amplio-andaluz-fa",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "19",
+      "formationIds": [
+        "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "20",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-euskadiko-langileen-alderdi-komunista-partido-comunista-de-los-trabajadores-de-euskadi-elak-pcte",
+        "formation-euskal-herria-bildu-eh-bildu",
+        "formation-euzko-alderdi-jeltzalea-partido-nacionalista-vasco-eaj-pnv",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "21",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-frente-amplio-andaluz-fa",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-socialista-de-huelva-psoe",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "22",
+      "formationIds": [
+        "formation-chunta-aragonesista-frente-amplio-aragon-cha-iu-ms-frente-amplio",
+        "formation-federacion-de-los-independientes-de-aragon-fia",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "23",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "24",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-regionalista-del-pais-leones-prepal",
+        "formation-proyecto-alantre-p-alantre",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "25",
+      "formationIds": [
+        "formation-alhora-alhora",
+        "formation-comuns-front-ampli-comuns-front-ampli",
+        "formation-esquerra-republicana-de-catalunya-erc",
+        "formation-frente-obrero-fo",
+        "formation-junts-per-catalunya-jxcat",
+        "formation-partit-animalista-amb-el-medi-ambient-pacma",
+        "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+        "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "26",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "27",
+      "formationIds": [
+        "formation-bloque-nacionalista-galego-bng",
+        "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+        "formation-frente-obrero-fo",
+        "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "28",
+      "formationIds": [
+        "formation-democracia-para-el-siglo-21-d21",
+        "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-iustitia-europa-ie",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-humanista-ph",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "29",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-alternativa-malaguena-29",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "30",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "formation-tercera-edad-en-accion-3e",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "31",
+      "formationIds": [
+        "formation-eguzkilore-eguzkilore",
+        "formation-euskal-herria-bildu-eh-bildu",
+        "formation-frente-amplio-fronte-zabala-frente-amplio-fronte-zabala",
+        "formation-frente-obrero-fo",
+        "formation-geroa-bai-gbai",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-socialista-de-navarra-psoe-psn-psoe",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "formation-union-del-pueblo-navarro-en-coalicion-con-el-partido-popular-upn-pp",
+        "podemos",
+        "vox"
+      ]
+    },
+    {
+      "id": "32",
+      "formationIds": [
+        "formation-bloque-nacionalista-galego-bng",
+        "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
+        "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+        "formation-por-un-mundo-mais-xusto-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "33",
+      "formationIds": [
+        "formation-frente-ampliu-por-asturies-fa",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-unionista-estado-de-espana-puede",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "34",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "35",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-frente-obrero-fo",
+        "formation-liberacion-canaria-lib",
+        "formation-municipalistas-primero-canarias-coalicion-canaria-1-ocan-cca",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-comunista-del-pueblo-canario-pcpc",
+        "formation-partido-drago-canarias-d-r-g",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "formation-unidad-del-pueblo-canario-upc-nc-bc-podemos-iu-sumar",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "36",
+      "formationIds": [
+        "formation-bloque-nacionalista-galego-bng",
+        "formation-escanos-en-branco-para-deixar-escanos-baleiros-escanos-en-blanco",
+        "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-dos-traballadores-da-galiza-pctg",
+        "formation-partido-dos-socialistas-de-galicia-psoe-psdeg-psoe",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "37",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-regionalista-del-pais-leones-prepal",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "38",
+      "formationIds": [
+        "formation-coalicion-canaria-municipalistas-primero-canarias-cca-1-ocan",
+        "formation-frente-obrero-fo",
+        "formation-liberacion-canaria-lib",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-autonomos-partido-autonomos",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-drago-canarias-d-r-g",
+        "formation-se-acabo-la-fiesta-salf",
+        "formation-unidad-del-pueblo-canario-upc-nc-bc-podemos-iu-sumar",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "39",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "40",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "41",
+      "formationIds": [
+        "formation-adelante-andalucia-adelante-andalucia",
+        "formation-frente-amplio-andaluz-fa",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "42",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "formation-soria-ya-sy",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "43",
+      "formationIds": [
+        "formation-alhora-alhora",
+        "formation-comuns-front-ampli-comuns-front-ampli",
+        "formation-convergents-cnv",
+        "formation-esquerra-republicana-de-catalunya-erc",
+        "formation-frente-obrero-fo",
+        "formation-junts-per-catalunya-jxcat",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partit-comunista-dels-treballadors-de-catalunya-pctc",
+        "formation-partit-dels-socialistes-de-catalunya-psc-psoe-psc",
+        "formation-partit-popular-partido-popular-pp",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "vox"
+      ]
+    },
+    {
+      "id": "44",
+      "formationIds": [
+        "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "formation-teruel-existe-teruel-existe",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "45",
+      "formationIds": [
+        "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "46",
+      "formationIds": [
+        "formation-agenda-valenciana-agenda-valenciana",
+        "formation-compromis-front-valencia-compromis-eupv-podem-erpv",
+        "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-renacer-renaixer-rrb",
+        "formation-se-acabo-la-fiesta-salf",
+        "formation-valencia-unida-vlc",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "47",
+      "formationIds": [
+        "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
+        "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-nacionalista-de-castilla-y-leon-union-reformista-ciudadana-pancal-urci",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "48",
+      "formationIds": [
+        "formation-euskal-herria-bildu-eh-bildu",
+        "formation-euzko-alderdi-jeltzalea-partido-nacionalista-vasco-eaj-pnv",
+        "formation-frente-obrero-fo",
+        "formation-partido-animalista-con-el-medio-ambiente-pacma",
+        "formation-partido-comunista-de-los-trabajadores-de-euskadi-euskadiko-langileen-alderdi-komunista-pcte-elak",
+        "formation-partido-socialista-de-euskadi-euskadiko-ezkerra-psoe-pse-ee-psoe",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "vox"
+      ]
+    },
+    {
+      "id": "49",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-partido-regionalista-del-pais-leones-prepal",
+        "formation-se-acabo-la-fiesta-salf",
+        "frente-amplio",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "50",
+      "formationIds": [
+        "formation-chunta-aragonesista-frente-amplio-aragon-cha-iu-ms-frente-amplio",
+        "formation-federacion-de-los-independientes-de-aragon-f-i-a",
+        "formation-frente-obrero-fo",
+        "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
+        "formation-por-un-mundo-mas-justo-mundo-justo",
+        "formation-se-acabo-la-fiesta-salf",
+        "podemos",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "51",
+      "formationIds": [
+        "formation-frente-obrero",
+        "formation-podemos-paz-casa-y-trabajo",
+        "formation-se-acabo-la-fiesta-salf",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    },
+    {
+      "id": "52",
+      "formationIds": [
+        "formation-frente-obrero-fo",
+        "formation-se-acabo-la-fiesta-salf",
+        "pp",
+        "psoe",
+        "vox"
+      ]
+    }
+  ]
+}

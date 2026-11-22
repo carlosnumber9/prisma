@@ -1,7 +1,6 @@
 node_modules/
 coverage/
 content/sources/
-content/political-info/sources/
 content/generated/
 package-lock.json
 .next/

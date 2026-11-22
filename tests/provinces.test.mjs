@@ -271,47 +271,42 @@ test('BOE projection covers 52 provinces and exposes formations without people, 
   assert.ok(!byProvince('03').some((p) => p.label === 'FE de las JONS'));
 });
 
-test('provincial validation rejects unknown fields, people, duplicate lists and unsupported citations before projection', () => {
-  const dataset = read(
-    'content/political-info/approved/congress-2026-provinces.json',
-  );
-  const readSource = (id) => {
-    const path = `content/political-info/sources/${id}/`;
-    const metadata = read(path + 'metadata.json');
-    return {
-      metadata,
-      original: readFileSync(
-        new URL('../' + path + metadata.originalFile, import.meta.url),
-      ),
-      extractedBytes: readFileSync(
-        new URL('../' + path + 'extracted.json', import.meta.url),
-      ),
-    };
-  };
+test('provincial validation rejects people, surplus records, invalid sources and incomplete coverage', () => {
+  const dataset = read('content/editorial/provincial-presence.json');
   for (const mutate of [
     (data) => {
-      data.entities[0].unexpected = true;
+      data.formations[0].unexpected = true;
     },
     (data) => {
-      data.entities[0].kind = 'person';
+      data.formations[0].kind = 'person';
     },
     (data) => {
-      data.candidatures.push(data.candidatures[0]);
+      data.provinces[0].formationIds.push(data.provinces[0].formationIds[0]);
     },
     (data) => {
-      data.candidatures[0].citations[0].quote = 'Unsupported assertion';
+      data.provinces[0].formationIds[0] = 'unknown';
     },
     (data) => {
-      data.candidatures[0].candidates = [{ personId: 'person-fixture' }];
+      data.provinces[0].candidates = [{ personId: 'person-fixture' }];
     },
     (data) => {
-      data.sources[0].sha256 = '0'.repeat(64);
+      data.sources[0].url = 'https://example.org';
+    },
+    (data) => {
+      data.sources[0].publishedAt = '2026-02-30';
+    },
+    (data) => {
+      data.provinces.pop();
+    },
+    (data) => {
+      data.provinces[1].id = data.provinces[0].id;
+    },
+    (data) => {
+      data.formations.push({ id: 'unused', name: 'Unused formation' });
     },
   ]) {
     const changed = structuredClone(dataset);
     mutate(changed);
-    assert.throws(() =>
-      projectProvincialContent(changed, provinces, [], readSource),
-    );
+    assert.throws(() => projectProvincialContent(changed, provinces, []));
   }
 });
