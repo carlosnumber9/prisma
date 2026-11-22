@@ -3,6 +3,242 @@
   "electionDate": "2026-11-29",
   "syntheses": [
     {
+      "id": "comuns-front-ampli--economy-and-taxes",
+      "partyId": "comuns-front-ampli",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/comuns-front-ampli/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "comuns-front-ampli--education",
+      "partyId": "comuns-front-ampli",
+      "topicId": "education",
+      "path": "/parties/comuns-front-ampli/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "comuns-front-ampli--employment",
+      "partyId": "comuns-front-ampli",
+      "topicId": "employment",
+      "path": "/parties/comuns-front-ampli/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "comuns-front-ampli--environment-and-energy",
+      "partyId": "comuns-front-ampli",
+      "topicId": "environment-and-energy",
+      "path": "/parties/comuns-front-ampli/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "comuns-front-ampli--healthcare",
+      "partyId": "comuns-front-ampli",
+      "topicId": "healthcare",
+      "path": "/parties/comuns-front-ampli/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "comuns-front-ampli--housing",
+      "partyId": "comuns-front-ampli",
+      "topicId": "housing",
+      "path": "/parties/comuns-front-ampli/housing",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:32:29.616Z",
+      "sourceIds": [
+        "comuns-front-ampli-2026-593f518765ab"
+      ],
+      "points": [
+        {
+          "id": "comuns-front-ampli-housing-vulnerable-eviction-alternative",
+          "title": {
+            "es": "Protección de personas vulnerables ante desahucios",
+            "ca": "Protecció de persones vulnerables davant els desnonaments",
+            "gl": "Protección das persoas vulnerables ante os desafiuzamentos",
+            "eu": "Pertsona kalteberak etxegabetzeen aurrean babestea",
+            "oc": "Proteccion des persones vulnerables deuant es desnonaments",
+            "en": "Protection for vulnerable people facing eviction"
+          },
+          "text": {
+            "es": "Impedir que se desahucie a personas vulnerables sin una alternativa habitacional.",
+            "ca": "Impedir que es desnonin persones vulnerables sense una alternativa habitacional.",
+            "gl": "Impedir que se desafiúcen persoas vulnerables sen unha alternativa habitacional.",
+            "eu": "Pertsona kalteberak bizitoki-alternatibarik gabe etxegabetzea eragoztea.",
+            "oc": "Empedir que se desnonen persones vulnerables sense ua alternativa d’allotjament.",
+            "en": "Prevent vulnerable people from being evicted without alternative accommodation."
+          },
+          "citations": [
+            {
+              "sourceId": "comuns-front-ampli-2026-593f518765ab",
+              "segmentId": "page-5",
+              "page": 5,
+              "printedPage": "04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comuns-front-ampli--institutions-and-rights",
+      "partyId": "comuns-front-ampli",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/comuns-front-ampli/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "comuns-front-ampli--pensions-and-social-protection",
+      "partyId": "comuns-front-ampli",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/comuns-front-ampli/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "eaj-pnv--economy-and-taxes",
+      "partyId": "eaj-pnv",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/eaj-pnv/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "eaj-pnv--education",
+      "partyId": "eaj-pnv",
+      "topicId": "education",
+      "path": "/parties/eaj-pnv/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "eaj-pnv--employment",
+      "partyId": "eaj-pnv",
+      "topicId": "employment",
+      "path": "/parties/eaj-pnv/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "eaj-pnv--environment-and-energy",
+      "partyId": "eaj-pnv",
+      "topicId": "environment-and-energy",
+      "path": "/parties/eaj-pnv/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "eaj-pnv--healthcare",
+      "partyId": "eaj-pnv",
+      "topicId": "healthcare",
+      "path": "/parties/eaj-pnv/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "eaj-pnv--housing",
+      "partyId": "eaj-pnv",
+      "topicId": "housing",
+      "path": "/parties/eaj-pnv/housing",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:32:29.616Z",
+      "sourceIds": [
+        "eaj-pnv-2026-5af7a5b6f67c"
+      ],
+      "points": [
+        {
+          "id": "eaj-pnv-housing-empty-homes-rehabilitation",
+          "title": {
+            "es": "Viviendas vacías y rehabilitación para ampliar la oferta",
+            "ca": "Habitatges buits i rehabilitació per ampliar l’oferta",
+            "gl": "Vivendas baleiras e rehabilitación para ampliar a oferta",
+            "eu": "Etxebizitza hutsak eta birgaitzea eskaintza handitzeko",
+            "oc": "Abitatges vuets e reabilitacion entà ampliar era aufèrta",
+            "en": "Empty homes and rehabilitation to increase supply"
+          },
+          "text": {
+            "es": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+            "ca": "Mobilitzar habitatges buits i rehabilitar edificis per augmentar l’oferta residencial.",
+            "gl": "Mobilizar vivendas baleiras e rehabilitar edificios para aumentar a oferta residencial.",
+            "eu": "Etxebizitza hutsak mobilizatzea eta eraikinak birgaitzea, etxebizitza-eskaintza handitzeko.",
+            "oc": "Mobilizar abitatges vuets e reabilitar bastisses entà aumentar era aufèrta residenciau.",
+            "en": "Bring empty homes into use and rehabilitate buildings to increase the housing supply."
+          },
+          "citations": [
+            {
+              "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+              "segmentId": "page-7",
+              "page": 7,
+              "printedPage": "7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv--institutions-and-rights",
+      "partyId": "eaj-pnv",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/eaj-pnv/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "eaj-pnv--pensions-and-social-protection",
+      "partyId": "eaj-pnv",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/eaj-pnv/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
       "id": "frente-amplio--economy-and-taxes",
       "partyId": "frente-amplio",
       "topicId": "economy-and-taxes",

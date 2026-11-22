@@ -3,6 +3,16 @@
   "electionDate": "2026-11-29",
   "parties": [
     {
+      "id": "comuns-front-ampli",
+      "name": "Comuns–Front Ampli",
+      "officialWebsite": "https://comuns.cat/"
+    },
+    {
+      "id": "eaj-pnv",
+      "name": "EAJ-PNV",
+      "officialWebsite": "https://www.eaj-pnv.eus/"
+    },
+    {
       "id": "frente-amplio",
       "name": "Frente Amplio",
       "officialWebsite": null

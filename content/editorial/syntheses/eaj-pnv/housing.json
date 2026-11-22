@@ -1,0 +1,39 @@
+{
+  "id": "eaj-pnv--housing",
+  "partyId": "eaj-pnv",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:32:29.616Z",
+  "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
+  "points": [
+    {
+      "id": "eaj-pnv-housing-empty-homes-rehabilitation",
+      "title": {
+        "es": "Viviendas vacías y rehabilitación para ampliar la oferta",
+        "ca": "Habitatges buits i rehabilitació per ampliar l’oferta",
+        "gl": "Vivendas baleiras e rehabilitación para ampliar a oferta",
+        "eu": "Etxebizitza hutsak eta birgaitzea eskaintza handitzeko",
+        "oc": "Abitatges vuets e reabilitacion entà ampliar era aufèrta",
+        "en": "Empty homes and rehabilitation to increase supply"
+      },
+      "text": {
+        "es": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial.",
+        "ca": "Mobilitzar habitatges buits i rehabilitar edificis per augmentar l’oferta residencial.",
+        "gl": "Mobilizar vivendas baleiras e rehabilitar edificios para aumentar a oferta residencial.",
+        "eu": "Etxebizitza hutsak mobilizatzea eta eraikinak birgaitzea, etxebizitza-eskaintza handitzeko.",
+        "oc": "Mobilizar abitatges vuets e reabilitar bastisses entà aumentar era aufèrta residenciau.",
+        "en": "Bring empty homes into use and rehabilitate buildings to increase the housing supply."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-7",
+          "quote": "Movilizar viviendas vacías y rehabilitar edificios para aumentar la oferta residencial."
+        }
+      ],
+      "internalNotes": "The surrounding programme frames advocacy in Madrid as enabling Basque institutions to act while respecting their competences; this point does not assert direct State implementation or an override of those competences."
+    }
+  ]
+}

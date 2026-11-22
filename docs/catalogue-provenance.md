@@ -10,6 +10,8 @@ The public catalogue is a limited editorial selection of formations with reviewe
 - Podemos: [institutional CEPC directory](https://www.cepc.gob.es/documentacion/enlaces-de-interes/partidos-sindicatos-organizaciones-empresariales), checked 18 November 2026; its separate campaign domain supplies the programme.
 - Frente Amplio: [official programme domain](https://frenteamplio.info/programa/), verified 17 November 2026. The catalogue retains its accepted nullable website; verification is not an automatic catalogue change.
 - Frente Obrero: [official homepage](https://frenteobrero.es/) and [programme page](https://frenteobrero.es/quienes-somos/), checked 21 November 2026. The campaign adopts the consulted political programme for 29N; this does not assert a newly dated electoral edition or Senate participation.
+- EAJ-PNV: [official programme](https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n), checked 22 November 2026. The document identifies the 2026 general election and 29 November.
+- Comuns–Front Ampli: [official programme announcement](https://comuns.cat/programa-comuns-front-ampli-29n/) and [linked programme](https://comuns.cat/wp-content/uploads/2026/11/Comuns-FA-Programa29N-1.pdf), checked 22 November 2026. The announcement explicitly identifies the coalition; its 16 November launch date is not asserted as the publication date of the consulted PDF version.
 
 ## Displayed branding
 
@@ -22,4 +24,4 @@ Territorial programme associations are declared in `content/editorial/programme-
 
 ## Programme coverage limits
 
-All area syntheses are partial. The PP second official download still needs comparison; byte equivalence between the supplied PSOE copy and both official URLs remains unverified. Frente Amplio's separate Galicia document was not obtained. Specialist language copyediting, particularly Basque and Aranese terminology, remains useful across selections. Frente Obrero's adopted political programme is not asserted to be a newly published electoral edition. These limits survive removal of historical review reports.
+All reviewed area syntheses are partial. EAJ-PNV and Comuns–Front Ampli each currently have one selected housing proposal; their other seven areas remain pending. The PP second official download still needs comparison; byte equivalence between the supplied PSOE copy and both official URLs remains unverified. Frente Amplio's separate Galicia document was not obtained. Specialist language copyediting, particularly Basque and Aranese terminology, remains useful across selections. Frente Obrero's adopted political programme is not asserted to be a newly published electoral edition. These limits survive removal of historical review reports.

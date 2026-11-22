@@ -21,10 +21,24 @@
     "name": "Podemos",
     "officialWebsite": "https://podemos.info/"
   },
-  { "id": "frente-amplio", "name": "Frente Amplio", "officialWebsite": null },
+  {
+    "id": "frente-amplio",
+    "name": "Frente Amplio",
+    "officialWebsite": null
+  },
   {
     "id": "frente-obrero",
     "name": "Frente Obrero",
     "officialWebsite": "https://frenteobrero.es/"
+  },
+  {
+    "id": "eaj-pnv",
+    "name": "EAJ-PNV",
+    "officialWebsite": "https://www.eaj-pnv.eus/"
+  },
+  {
+    "id": "comuns-front-ampli",
+    "name": "Comuns–Front Ampli",
+    "officialWebsite": "https://comuns.cat/"
   }
 ]

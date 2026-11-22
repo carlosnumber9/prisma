@@ -1,0 +1,39 @@
+{
+  "id": "comuns-front-ampli--housing",
+  "partyId": "comuns-front-ampli",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:32:29.616Z",
+  "sourceIds": ["comuns-front-ampli-2026-593f518765ab"],
+  "points": [
+    {
+      "id": "comuns-front-ampli-housing-vulnerable-eviction-alternative",
+      "title": {
+        "es": "Protección de personas vulnerables ante desahucios",
+        "ca": "Protecció de persones vulnerables davant els desnonaments",
+        "gl": "Protección das persoas vulnerables ante os desafiuzamentos",
+        "eu": "Pertsona kalteberak etxegabetzeen aurrean babestea",
+        "oc": "Proteccion des persones vulnerables deuant es desnonaments",
+        "en": "Protection for vulnerable people facing eviction"
+      },
+      "text": {
+        "es": "Impedir que se desahucie a personas vulnerables sin una alternativa habitacional.",
+        "ca": "Impedir que es desnonin persones vulnerables sense una alternativa habitacional.",
+        "gl": "Impedir que se desafiúcen persoas vulnerables sen unha alternativa habitacional.",
+        "eu": "Pertsona kalteberak bizitoki-alternatibarik gabe etxegabetzea eragoztea.",
+        "oc": "Empedir que se desnonen persones vulnerables sense ua alternativa d’allotjament.",
+        "en": "Prevent vulnerable people from being evicted without alternative accommodation."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "comuns-front-ampli-2026-593f518765ab",
+          "segmentId": "page-5",
+          "quote": "Cap desnonament de persones vulnerables sense una alternativa habitacional."
+        }
+      ],
+      "internalNotes": "The selected assertion preserves both vulnerability and the absence of alternative accommodation. It does not assert an unconditional ban on all evictions or summarise the adjacent measures."
+    }
+  ]
+}
