@@ -2,9 +2,9 @@
   "id": "frente-obrero--healthcare",
   "partyId": "frente-obrero",
   "topicId": "healthcare",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Centralizar, unificar e omogeneïzar eth sistèma nacionau de salut, e acabar damb era sua externalizacion e privatizacion.",
         "en": "Centralise, unify and standardise the national health system, and end its outsourcing and privatisation."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Crear mès centres d'atencion primària damb es mejans de besonh, especiaument en zònes ruraus e barris obrèrs.",
         "en": "Provide more primary care centres with the necessary resources, especially in rural areas and working-class neighbourhoods."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Crear era estructura de besonh entà garantir suenhs e tractaments bucodentaus, fisioterapeutics e oftalmologics gratuïts.",
         "en": "Create the necessary structure to ensure free dental, physiotherapy and ophthalmological care and treatment."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Abaishar eth prètz des medicaments damb recèpta e ténder ara gratuïtat en casi de besonh especiau; desvolopar ua indústria farmaceutica nacionau.",
         "en": "Make prescription medicines cheaper and move towards free access in cases of special need; develop a national pharmaceutical industry."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",

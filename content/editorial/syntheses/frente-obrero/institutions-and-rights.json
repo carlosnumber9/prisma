@@ -2,9 +2,9 @@
   "id": "frente-obrero--institutions-and-rights",
   "partyId": "frente-obrero",
   "topicId": "institutions-and-rights",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Gésser dera Union Europèa e gésser immediatament dera OTAN, en tot refortir er exercit espanhòu.",
         "en": "Leave the European Union and immediately leave NATO, strengthening the Spanish army."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Derogar parciaument o totaument totes es leis basades ena discriminacion positiva e suprimir es quòtes.",
         "en": "Partially or fully repeal all laws based on positive discrimination and abolish quotas."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Derogar era Ley Trans.",
         "en": "Repeal the Ley Trans."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Suprimir eth Ministerio de Igualdad e destinar integraument eth sòn pressupòst a qüestions sociaus.",
         "en": "Abolish the Ministerio de Igualdad and allocate its entire budget to social matters."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -133,7 +133,7 @@
         "oc": "Expulsar immediatament es immigrants que delinquisquen reiteradament o siguen en situacion irregulara; impedir era sua regularizacion s'ensagèren d'entrar illegaument e revisar es permisi obtengudi es darrèri ans pes que i entrèren illegaument. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
         "en": "Immediately expel immigrants who repeatedly offend or are in an irregular situation; bar regularisation if they attempted illegal entry and review permits obtained in recent years by those who entered illegally. The programme states that a new Constitution will be required to implement these measures."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -165,7 +165,7 @@
         "oc": "Suspéner era concession de nacionalitats enquia revisar exaustivament es autrejades es darrèri vint ans e aumentar es requisits futurs, priorizant eth Ius Sanguinis e limitant es excepcions a casi meritoris e anecdòtics. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
         "en": "Suspend nationality grants until an exhaustive review of those granted in the last twenty years, and raise future requirements, prioritising Ius Sanguinis and limiting exceptions to meritorious, exceptional cases. The programme states that a new Constitution will be required to implement these measures."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -197,7 +197,7 @@
         "oc": "Igualar es competéncies e eth regim fiscau de totes es comunitats autonòmes e centralizar sanitat, educacion e servicis d'emergéncia.",
         "en": "Equalise powers and tax systems across all autonomous communities and centralise healthcare, education and emergency services."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -224,7 +224,7 @@
         "oc": "Establir contròtle estatau sus es granes plataformes digitaus entà evitar privilègis entre discorsi o biaishi informatius, e garantir mejans publics objectius, neutraus e independents deth govèrn.",
         "en": "Establish state control over major digital platforms to prevent preferential treatment of viewpoints or information bias, and ensure objective, neutral public media independent of government."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -251,7 +251,7 @@
         "oc": "Expulsar es radicaus islamics e es estructures religioses que actuen coma lobby de païsi estrangèrs; trèir er islam dera escòla publica e suprimir es subvencions a quinsevolh activitat islamica; proïbir eth hijab en lòcs e pòsts de trabalh publics e ajudar es hemnes menaçades per voler deishar era vestimenta islamica. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
         "en": "Expel Islamic radicals and religious structures acting as lobbies for foreign countries; remove Islam from public schools and end subsidies for any Islamic activity; ban the hijab in public places and public jobs, and help women threatened for wanting to stop wearing Islamic clothing. The programme states that a new Constitution will be required to implement these measures."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -283,7 +283,7 @@
         "oc": "Impulsar un procès constituent entà acabar damb eth regim actuau. Deféner ua republica encaminada tath socialisme, deishant era naua forma d'Estat entà ua decision futura.",
         "en": "Promote a constituent process to end the current regime. Advocate a republic oriented towards socialism, leaving the new form of State for a future decision."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",

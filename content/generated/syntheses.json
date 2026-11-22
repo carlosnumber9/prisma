@@ -2477,88 +2477,1288 @@
       "partyId": "frente-obrero",
       "topicId": "economy-and-taxes",
       "path": "/parties/frente-obrero/economy-and-taxes",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-strategic-industries",
+          "title": {
+            "es": "Industria y sectores estratégicos",
+            "ca": "Indústria i sectors estratègics",
+            "gl": "Industria e sectores estratéxicos",
+            "eu": "Industria eta sektore estrategikoak",
+            "oc": "Indústria e sectors estrategics",
+            "en": "Industry and strategic sectors"
+          },
+          "text": {
+            "es": "Reindustrializar España priorizando las industrias estratégicas y los recursos nacionales, con una estrategia independiente de Bruselas, y nacionalizar los sectores estratégicos de la economía.",
+            "ca": "Reindustrialitzar Espanya prioritzant les indústries estratègiques i els recursos nacionals, amb una estratègia independent de Brussel·les, i nacionalitzar els sectors estratègics de l'economia.",
+            "gl": "Reindustrializar España priorizando as industrias estratéxicas e os recursos nacionais, cunha estratexia independente de Bruxelas, e nacionalizar os sectores estratéxicos da economía.",
+            "eu": "Espainia berrindustrializatzea, industria estrategikoak eta baliabide nazionalak lehenetsiz, Bruselarekiko estrategia independentearekin, eta ekonomiaren sektore estrategikoak nazionalizatzea.",
+            "oc": "Reindustrializar Espanha priorizant es indústries estrategiques e es recorsi nacionaus, damb ua estrategia independenta de Brussèlles, e nacionalizar es sectors estrategics dera economia.",
+            "en": "Reindustrialise Spain, prioritising strategic industries and national resources, with a strategy independent of Brussels, and nationalise strategic sectors of the economy."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-13",
+              "quote": "1. Reindustrialización del país, priorizando el desarrollo de industrias estratégicas y que exploten los recursos con los que cuenta España. 2. Desarrollar una estrategia independiente de desarrollo industrial, que ponga fin a las imposiciones de Bruselas en beneficio de otras potencias. 3. Nacionalización de los sectores estratégicos de la economía. Fuerte intervención para priorizar los intereses de los españoles.",
+              "page": 13,
+              "printedPage": "13"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-income-tax",
+          "title": {
+            "es": "IRPF según renta",
+            "ca": "IRPF segons renda",
+            "gl": "IRPF segundo a renda",
+            "eu": "Errentaren araberako zerga",
+            "oc": "IRPF segontes era renda",
+            "en": "Income tax by income level"
+          },
+          "text": {
+            "es": "Reducir el impuesto sobre la renta a los trabajadores con menos recursos y aumentarlo para las rentas más altas, ampliando los tramos y elevando los tipos.",
+            "ca": "Reduir l'impost sobre la renda als treballadors amb menys recursos i augmentar-lo per a les rendes més altes, ampliant els trams i elevant els tipus.",
+            "gl": "Reducir o imposto sobre a renda aos traballadores con menos recursos e aumentalo para as rendas máis altas, ampliando os tramos e elevando os tipos.",
+            "eu": "Baliabide gutxien dituzten langileen errenta zerga jaistea eta errenta altuenentzat igotzea, tarteak zabalduz eta zerga tasak handituz.",
+            "oc": "Redusir er impòst sus era renda as trabalhadors damb mens recorsi e aumentar-lo entàs rendes mès nautes, ampliant es trams e pujant es tipes.",
+            "en": "Reduce income tax for workers with fewer resources and increase it for the highest incomes by expanding bands and raising rates."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-18",
+              "quote": "1. Reducir el impuesto sobre la renta a los trabajadores con menos recursos, a la par que incrementarlo para las rentas más altas con la ampliación de los tramos de renta y aumento de los tipos impositivos.",
+              "page": 18,
+              "printedPage": "18"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-essential-goods-vat",
+          "title": {
+            "es": "IVA de productos básicos",
+            "ca": "IVA de productes bàsics",
+            "gl": "IVE de produtos básicos",
+            "eu": "Oinarrizko ondasunen BEZa",
+            "oc": "IVA de productes basics",
+            "en": "VAT on essential goods"
+          },
+          "text": {
+            "es": "Reducir la carga del IVA e incorporar progresivamente todas las mercancías de primera necesidad al tipo superreducido.",
+            "ca": "Reduir la càrrega de l'IVA i incorporar progressivament totes les mercaderies de primera necessitat al tipus superreduït.",
+            "gl": "Reducir a carga do IVE e incorporar progresivamente todas as mercadorías de primeira necesidade ao tipo superreducido.",
+            "eu": "BEZaren zama murriztea eta premiazko ondasun guztiak pixkanaka tasa oso murriztuan sartzea.",
+            "oc": "Redusir era carga der IVA e incorporar progressivament totes es mercaderies de prumèra necessitat ath tipe superredusit.",
+            "en": "Reduce the VAT burden and gradually include all essential goods in the super-reduced rate."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-18",
+              "quote": "3. Disminuir la carga fiscal del IVA e incorporar de forma progresiva todas las mercan- cías de primera necesidad en el tipo superreducido.",
+              "page": 18,
+              "printedPage": "18"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-inheritance-wealth-tax",
+          "title": {
+            "es": "Sucesiones y patrimonio",
+            "ca": "Successions i patrimoni",
+            "gl": "Sucesións e patrimonio",
+            "eu": "Oinordetzak eta ondarea",
+            "oc": "Successions e patrimòni",
+            "en": "Inheritance and wealth taxes"
+          },
+          "text": {
+            "es": "Centralizar los impuestos de sucesiones y patrimonio, suprimir las bonificaciones que benefician sobre todo a los más ricos y eliminar sucesiones para las rentas bajas.",
+            "ca": "Centralitzar els impostos de successions i patrimoni, suprimir les bonificacions que beneficien sobretot els més rics i eliminar successions per a les rendes baixes.",
+            "gl": "Centralizar os impostos de sucesións e patrimonio, suprimir as bonificacións que benefician sobre todo os máis ricos e eliminar sucesións para as rendas baixas.",
+            "eu": "Oinordetza eta ondare zergak zentralizatzea, batez ere aberatsenei mesede egiten dieten hobariak kentzea eta errenta baxuentzako oinordetza zerga ezabatzea.",
+            "oc": "Centralizar es impòsti de successions e patrimòni, suprimir es bonificacions que beneficien sustot es mès rics e eliminar successions entàs rendes baishes.",
+            "en": "Centralise inheritance and wealth taxes, remove reliefs mainly benefiting the richest, and abolish inheritance tax for low incomes."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-19",
+              "quote": "6. El impuesto de sucesiones y de patrimonio se centralizará y se suprimirán las boni- ficaciones que benefician sobre todo a los más ricos. Eliminación del impuesto de sucesiones para las rentas bajas.",
+              "page": 19,
+              "printedPage": "19"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-unused-large-estate-land",
+          "title": {
+            "es": "Tierras sin uso y parques solares",
+            "ca": "Terres sense ús i parcs solars",
+            "gl": "Terras sen uso e parques solares",
+            "eu": "Erabili gabeko lurrak eta eguzki parkeak",
+            "oc": "Tèrres sense usatge e parcs solars",
+            "en": "Unused land and solar farms"
+          },
+          "text": {
+            "es": "Expropiar tierras sin usar de grandes terratenientes y repartirlas entre agricultores y cooperativas para su aprovechamiento colectivo; prohibir la construcción de parques solares en tierras aptas para el cultivo.",
+            "ca": "Expropiar terres sense ús de grans terratinents i repartir-les entre agricultors i cooperatives per aprofitar-les col·lectivament; prohibir la construcció de parcs solars en terres aptes per al conreu.",
+            "gl": "Expropiar terras sen usar de grandes terratenentes e repartilas entre agricultores e cooperativas para o aproveitamento colectivo; prohibir a construción de parques solares en terras aptas para o cultivo.",
+            "eu": "Lurjabe handien erabili gabeko lurrak desjabetzea eta nekazari eta kooperatiben artean banatzea, kolektiboki ustiatzeko; laborantzarako lur egokietan eguzki parkeak eraikitzea debekatzea.",
+            "oc": "Expropriar tèrres sense usatge de grani terratinents e repartir-les entre agricultors e cooperatives entar aprofitament collectiu; proïbir era construccion de parcs solars en tèrres aptes entath cultiu.",
+            "en": "Expropriate large landowners' unused land and distribute it among farmers and cooperatives for collective use; ban construction of solar farms on land suitable for cultivation."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-38",
+              "quote": "2. Expropiar las tierras sin usar en propiedad de grandes terratenientes y reparto entre los agricultores y cooperativas para el aprovechamiento colectivo. Prohibición de la construcción de parques solares en tierras aptas para el cultivo.",
+              "page": 38,
+              "printedPage": "38"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-obrero--education",
       "partyId": "frente-obrero",
       "topicId": "education",
       "path": "/parties/frente-obrero/education",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-free-education",
+          "title": {
+            "es": "Gratuidad para rentas bajas",
+            "ca": "Gratuïtat per a rendes baixes",
+            "gl": "Gratuidade para rendas baixas",
+            "eu": "Doakotasuna errenta baxuentzat",
+            "oc": "Gratuïtat entà rendes baishes",
+            "en": "Free education for low incomes"
+          },
+          "text": {
+            "es": "Ofrecer educación gratuita en todos los niveles académicos, incluidos los superiores, para las rentas más bajas, y becas para compatibilizar formación y trabajo o atender necesidades especiales.",
+            "ca": "Oferir educació gratuïta en tots els nivells acadèmics, inclosos els superiors, per a les rendes més baixes, i beques per compatibilitzar formació i feina o atendre necessitats especials.",
+            "gl": "Ofrecer educación gratuíta en todos os niveis académicos, incluídos os superiores, para as rendas máis baixas, e bolsas para compatibilizar formación e traballo ou atender necesidades especiais.",
+            "eu": "Errenta baxuenentzat hezkuntza doan eskaintzea maila akademiko guztietan, goi mailak barne, eta bekak ematea ikasketak eta lana uztartzeko edo behar bereziei erantzuteko.",
+            "oc": "Auferir educacion gratuïta en toti es nivèus academics, includidi es superiors, entàs rendes mès baishes, e borses entà compatibilizar formacion e trabalh o atier besonhs especiaus.",
+            "en": "Offer free education at all academic levels, including higher education, for the lowest incomes, with grants to combine study and work or address special needs."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-22",
+              "quote": "1. Ofrecer una educación gratuita en todos los niveles académicos, incluidos los su - periores para las rentas más bajas. Implementación de un sistema de becas que sirva de apoyo para compaginar la formación con la vida laboral o condiciones de especial necesidad.",
+              "page": 22,
+              "printedPage": "22"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-free-school-meals",
+          "title": {
+            "es": "Comedor escolar gratuito",
+            "ca": "Menjador escolar gratuït",
+            "gl": "Comedor escolar gratuíto",
+            "eu": "Doako eskola jantokia",
+            "oc": "Minjador escolar gratuït",
+            "en": "Free school meals"
+          },
+          "text": {
+            "es": "Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
+            "ca": "Oferir menjador escolar gratuït per facilitar la conciliació familiar i fomentar hàbits alimentaris saludables.",
+            "gl": "Ofrecer comedor escolar gratuíto para facilitar a conciliación familiar e fomentar hábitos alimentarios saudables.",
+            "eu": "Doako eskola jantokia eskaintzea, familia eta lana uztartzea errazteko eta elikadura ohitura osasungarriak sustatzeko.",
+            "oc": "Auferir minjador escolar gratuït entà facilitar era conciliacion familhau e fomentar abituds alimentaris saludables.",
+            "en": "Offer free school meals to facilitate family life and promote healthy eating habits."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-22",
+              "quote": "2. Ofrecer comedor escolar gratuito para facilitar la conciliación familiar y fomentar hábitos alimenticios saludables.",
+              "page": 22,
+              "printedPage": "22"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-private-school-subsidies",
+          "title": {
+            "es": "Financiación de la escuela pública",
+            "ca": "Finançament de l'escola pública",
+            "gl": "Financiamento da escola pública",
+            "eu": "Eskola publikoaren finantzaketa",
+            "oc": "Finançament dera escòla publica",
+            "en": "Public school funding"
+          },
+          "text": {
+            "es": "Eliminar las subvenciones a la escuela privada para fortalecer el sistema público de educación.",
+            "ca": "Eliminar les subvencions a l'escola privada per enfortir el sistema públic d'educació.",
+            "gl": "Eliminar as subvencións á escola privada para fortalecer o sistema público de educación.",
+            "eu": "Eskola pribatuentzako dirulaguntzak kentzea, hezkuntza sistema publikoa indartzeko.",
+            "oc": "Eliminar es subvencions ara escòla privada entà enfortir eth sistèma public d'educacion.",
+            "en": "End subsidies to private schools to strengthen the public education system."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-22",
+              "quote": "4. Eliminar las subvenciones a la escuela privada con el fin de fortalecer el sistema público de educación.",
+              "page": 22,
+              "printedPage": "22"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-paid-placements",
+          "title": {
+            "es": "Prácticas remuneradas",
+            "ca": "Pràctiques remunerades",
+            "gl": "Prácticas remuneradas",
+            "eu": "Ordaindutako praktikak",
+            "oc": "Practiques remunerades",
+            "en": "Paid placements"
+          },
+          "text": {
+            "es": "Remunerar las prácticas de formación profesional y universidad según el trabajo desarrollado, sin excepciones.",
+            "ca": "Remunerar les pràctiques de formació professional i universitat segons la feina desenvolupada, sense excepcions.",
+            "gl": "Remunerar as prácticas de formación profesional e universidade segundo o traballo desenvolvido, sen excepcións.",
+            "eu": "Lanbide heziketako eta unibertsitateko praktikak egindako lanaren arabera ordaintzea, salbuespenik gabe.",
+            "oc": "Remunerar es practiques de formacion professionau e universitat segontes eth trabalh hèt, sense excepcions.",
+            "en": "Pay for vocational and university placements according to work performed, without exceptions."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-22",
+              "quote": "6. Ofrecer prácticas de formación profesional y universidad remuneradas en base al trabajo desarrollado, sin excepciones.",
+              "page": 22,
+              "printedPage": "22"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-obrero--employment",
       "partyId": "frente-obrero",
       "topicId": "employment",
       "path": "/parties/frente-obrero/employment",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-wages-living-costs",
+          "title": {
+            "es": "Salarios y coste de la vida",
+            "ca": "Salaris i cost de la vida",
+            "gl": "Salarios e custo da vida",
+            "eu": "Soldatak eta bizi kostua",
+            "oc": "Salaris e còst dera vida",
+            "en": "Wages and living costs"
+          },
+          "text": {
+            "es": "Aumentar los salarios de forma general en relación con el coste de la vida.",
+            "ca": "Augmentar els salaris de manera general en relació amb el cost de la vida.",
+            "gl": "Aumentar os salarios de forma xeral en relación co custo da vida.",
+            "eu": "Soldatak oro har igotzea, bizi kostuaren arabera.",
+            "oc": "Aumentar es salaris de forma generau en relacion damb eth còst dera vida.",
+            "en": "Raise wages generally in relation to the cost of living."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-9",
+              "quote": "1. Aumento general de los salarios en relación al coste de la vida.",
+              "page": 9,
+              "printedPage": "9"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-worker-representation",
+          "title": {
+            "es": "Representación desde diez trabajadores",
+            "ca": "Representació des de deu treballadors",
+            "gl": "Representación desde dez traballadores",
+            "eu": "Ordezkaritza hamar langiletik aurrera",
+            "oc": "Representacion a compdar de dètz trabalhadors",
+            "en": "Representation from ten workers"
+          },
+          "text": {
+            "es": "Implantar representación obligatoria de los trabajadores en todas las empresas con diez trabajadores o más, sin excepciones, para fortalecer la negociación colectiva.",
+            "ca": "Implantar representació obligatòria dels treballadors en totes les empreses amb deu treballadors o més, sense excepcions, per enfortir la negociació col·lectiva.",
+            "gl": "Implantar representación obrigatoria dos traballadores en todas as empresas con dez traballadores ou máis, sen excepcións, para fortalecer a negociación colectiva.",
+            "eu": "Hamar langile edo gehiago dituzten enpresa guztietan langileen nahitaezko ordezkaritza ezartzea, salbuespenik gabe, negoziazio kolektiboa indartzeko.",
+            "oc": "Implantar representacion obligatòria des trabalhadors en totes es empreses damb dètz trabalhadors o mès, sense excepcions, entà enfortir era negociacion collectiva.",
+            "en": "Require worker representation in every company with ten or more workers, without exceptions, to strengthen collective bargaining."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-9",
+              "quote": "2. Fortalecer la negociación colectiva a través de la implementación de un sistema obligatorio de representación de los trabajadores en todos las empresas con diez trabajadores o más, sin excepciones.",
+              "page": 9,
+              "printedPage": "9"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-temporary-work-agencies",
+          "title": {
+            "es": "Temporalidad y ETT",
+            "ca": "Temporalitat i ETT",
+            "gl": "Temporalidade e ETT",
+            "eu": "Aldi baterako lana eta lan enpresak",
+            "oc": "Temporalitat e ETT",
+            "en": "Temporary work and agencies"
+          },
+          "text": {
+            "es": "Restringir las condiciones que permiten contratos temporales o fijos-discontinuos y prohibir las empresas de trabajo temporal.",
+            "ca": "Restringir les condicions que permeten contractes temporals o fixos discontinus i prohibir les empreses de treball temporal.",
+            "gl": "Restrinxir as condicións que permiten contratos temporais ou fixos descontinuos e prohibir as empresas de traballo temporal.",
+            "eu": "Aldi baterako edo aldizkako kontratu finkoak erabiltzeko baldintzak murriztea eta aldi baterako laneko enpresak debekatzea.",
+            "oc": "Restrénher es condicions que permeten contractes temporaus o fixes discontinus e proïbir es empreses de trabalh temporau.",
+            "en": "Restrict the conditions permitting temporary or permanent intermittent contracts and ban temporary employment agencies."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-9",
+              "quote": "4. Fomentar la lucha contra la temporalidad. Restricción de las condiciones que per - miten a las empresas acogerse a contratos temporales o fijos-discontinuos. Prohibi- ción de las empresas de trabajo temporal (ETTS).",
+              "page": 9,
+              "printedPage": "9"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-self-employed-contributions",
+          "title": {
+            "es": "Cotizaciones de autónomos",
+            "ca": "Cotitzacions d'autònoms",
+            "gl": "Cotizacións de autónomos",
+            "eu": "Autonomoen kotizazioak",
+            "oc": "Cotizacions d'autonòms",
+            "en": "Self-employed contributions"
+          },
+          "text": {
+            "es": "Eliminar la cuota de los autónomos que no lleguen al SMI, reducir las cuotas, establecer una bonificación total por baja y garantizar su jubilación.",
+            "ca": "Eliminar la quota dels autònoms que no arribin al SMI, reduir les quotes, establir una bonificació total per baixa i garantir-ne la jubilació.",
+            "gl": "Eliminar a cota dos autónomos que non cheguen ao SMI, reducir as cotas, establecer unha bonificación total por baixa e garantir a súa xubilación.",
+            "eu": "SMIra iristen ez diren autonomoen kuota kentzea, kuotak murriztea, bajagatik hobari osoa ezartzea eta erretiroa bermatzea.",
+            "oc": "Eliminar era quòta des autonòms que non arriben ath SMI, redusir es quòtes, establir ua bonificacion totau per baisha e garantir era sua jubilacion.",
+            "en": "Abolish contributions for self-employed people below the SMI minimum wage, reduce contributions, introduce full relief during leave and guarantee retirement."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-9",
+              "quote": "5. Eliminación de la cuota para los autónomos que no llegan al SMI e implementación de una bonificación total por baja. Cuotas más reducidas para los autónomos. Ga - rantizar la jubilación a los autónomos.",
+              "page": 9,
+              "printedPage": "9"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-obrero--environment-and-energy",
       "partyId": "frente-obrero",
       "topicId": "environment-and-energy",
       "path": "/parties/frente-obrero/environment-and-energy",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-end-ecological-transition",
+          "title": {
+            "es": "Fin de la «transición ecológica»",
+            "ca": "Fi de la «transició ecològica»",
+            "gl": "Fin da «transición ecolóxica»",
+            "eu": "«Trantsizio ekologikoa» amaitzea",
+            "oc": "Fin dera «transicion ecologica»",
+            "en": "End the «ecological transition»"
+          },
+          "text": {
+            "es": "Poner fin a la llamada «transición ecológica», que el programa vincula al desmantelamiento productivo y a las restricciones de la Unión Europea.",
+            "ca": "Posar fi a l'anomenada «transició ecològica», que el programa vincula al desmantellament productiu i a les restriccions de la Unió Europea.",
+            "gl": "Poñer fin á chamada «transición ecolóxica», que o programa vincula ao desmantelamento produtivo e ás restricións da Unión Europea.",
+            "eu": "«Trantsizio ekologikoa» deitutakoa amaitzea; programak ekoizpen gaitasuna desegitearekin eta Europar Batasunaren murrizketekin lotzen du.",
+            "oc": "Meter fin ara nomentada «transicion ecologica», qu'eth programa restaque ath desmantelament productiu e as restriccions dera Union Europèa.",
+            "en": "End the so-called «ecological transition», which the programme links to dismantling productive capacity and European Union restrictions."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-15",
+              "quote": "1. Poner fin a la llamada “transición ecológica”, la cual permite el desmantelamiento de la capacidad productiva del país y el sometimiento a las políticas restrictivas de la Unión Europea.",
+              "page": 15,
+              "printedPage": "15"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-energy-price-regulation",
+          "title": {
+            "es": "Regulación de luz y combustibles",
+            "ca": "Regulació de llum i combustibles",
+            "gl": "Regulación de luz e combustibles",
+            "eu": "Argindarraren eta erregaien erregulazioa",
+            "oc": "Regulacion dera lum e des combustibles",
+            "en": "Electricity and fuel regulation"
+          },
+          "text": {
+            "es": "Regular inmediatamente la factura de la luz y de los combustibles.",
+            "ca": "Regular immediatament la factura de la llum i dels combustibles.",
+            "gl": "Regular inmediatamente a factura da luz e dos combustibles.",
+            "eu": "Argindarraren eta erregaien fakturak berehala arautzea.",
+            "oc": "Regular immediatament era factura dera lum e des combustibles.",
+            "en": "Immediately regulate electricity and fuel bills."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-16",
+              "quote": "2. La regulación inmediata de la factura de la luz y de los combustibles. Las familias españolas no pueden seguir pagando los precios abusivos impuestos por empresas que especulan con la energía, así como con el precio de los combustibles, inflados por los costosos impuestos que los regulan.",
+              "page": 16,
+              "printedPage": "16"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-nuclear-and-renewables",
+          "title": {
+            "es": "Nuclear con renovables complementarias",
+            "ca": "Nuclear amb renovables complementàries",
+            "gl": "Nuclear con renovables complementarias",
+            "eu": "Nuklearra eta berriztagarri osagarriak",
+            "oc": "Nucleara damb renovables complementàries",
+            "en": "Nuclear with complementary renewables"
+          },
+          "text": {
+            "es": "Ampliar y modernizar el parque nuclear, poner en marcha plantas y explotar el uranio nacional; apoyar las renovables como complemento e invertir en su investigación y desarrollo.",
+            "ca": "Ampliar i modernitzar el parc nuclear, posar en marxa plantes i explotar l'urani nacional; donar suport a les renovables com a complement i invertir en la seva recerca i desenvolupament.",
+            "gl": "Ampliar e modernizar o parque nuclear, poñer en marcha plantas e explotar o uranio nacional; apoiar as renovables como complemento e investir na súa investigación e desenvolvemento.",
+            "eu": "Parke nuklearra handitu eta modernizatzea, zentralak martxan jartzea eta uranio nazionala ustiatzea; berriztagarriak osagarri gisa babestea eta haien ikerketan eta garapenean inbertitzea.",
+            "oc": "Ampliar e modernizar eth parc nuclear, meter en marcha plantes e explotar er urani nacionau; sostier es renovables coma complement e invertir ena sua recèrca e desvolopament.",
+            "en": "Expand and modernise the nuclear fleet, bring plants into operation and exploit domestic uranium; support renewables as a complement and invest in their research and development."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-16",
+              "quote": "5. Apuesta por la energía nuclear, como fuente de energía fiable, estable y controla - ble. Aumentar la inversión para la puesta en marcha y modernización de las plantas nucleares del país. Ampliación del parque nuclear e igualmente se explotarán los recursos nacionales de uranio. 6. Apoyar la producción basada en fuentes de energías renovables como complemen- to a la nuclear. Aumentar la inversión en la investigación y desarrollo de las nuevas y también existentes tecnologías para la producción con fuentes renovables.",
+              "page": 16,
+              "printedPage": "16"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-biodiversity-recovery",
+          "title": {
+            "es": "Biodiversidad y especies amenazadas",
+            "ca": "Biodiversitat i espècies amenaçades",
+            "gl": "Biodiversidade e especies ameazadas",
+            "eu": "Biodibertsitatea eta espezie mehatxatuak",
+            "oc": "Biodiversitat e espècies menaçades",
+            "en": "Biodiversity and threatened species"
+          },
+          "text": {
+            "es": "Elaborar planes para recuperar la biodiversidad y el patrimonio natural, proteger especies en peligro y prevenir y reducir el impacto de las invasoras.",
+            "ca": "Elaborar plans per recuperar la biodiversitat i el patrimoni natural, protegir espècies en perill i prevenir i reduir l'impacte de les invasores.",
+            "gl": "Elaborar plans para recuperar a biodiversidade e o patrimonio natural, protexer especies en perigo e previr e reducir o impacto das invasoras.",
+            "eu": "Biodibertsitatea eta natura ondarea berreskuratzeko planak egitea, arriskuan dauden espezieak babestea eta inbaditzaileen eragina prebenitzea eta murriztea.",
+            "oc": "Elaborar plans entà recuperar era biodiversitat e eth patrimòni naturau, protegir espècies en perilh e previer e redusir er impacte des invasores.",
+            "en": "Prepare plans to restore biodiversity and natural heritage, protect endangered species and prevent and reduce invasive species' impact."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-38",
+              "quote": "9. Elaborar planes de recuperación de la biodiversidad y del patrimonio natural. Pro - teger incansablemente especies en peligro de extinción y luchar por prevenir y re - ducir el impacto de las especies invasoras.",
+              "page": 38,
+              "printedPage": "38"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-obrero--healthcare",
       "partyId": "frente-obrero",
       "topicId": "healthcare",
       "path": "/parties/frente-obrero/healthcare",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-unified-public-healthcare",
+          "title": {
+            "es": "Sanidad pública unificada",
+            "ca": "Sanitat pública unificada",
+            "gl": "Sanidade pública unificada",
+            "eu": "Osasun publiko bateratua",
+            "oc": "Sanitat publica unificada",
+            "en": "Unified public healthcare"
+          },
+          "text": {
+            "es": "Centralizar, unificar y homogeneizar el sistema nacional de salud, y acabar con su externalización y privatización.",
+            "ca": "Centralitzar, unificar i homogeneïtzar el sistema nacional de salut, i acabar amb la seva externalització i privatització.",
+            "gl": "Centralizar, unificar e homoxeneizar o sistema nacional de saúde, e acabar coa súa externalización e privatización.",
+            "eu": "Osasun sistema nazionala zentralizatzea, bateratzea eta homogeneizatzea, eta haren kanporatzea eta pribatizazioa amaitzea.",
+            "oc": "Centralizar, unificar e omogeneïzar eth sistèma nacionau de salut, e acabar damb era sua externalizacion e privatizacion.",
+            "en": "Centralise, unify and standardise the national health system, and end its outsourcing and privatisation."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-42",
+              "quote": "Centralizar, unificar y homogeneizar el sistema nacional de salud. Acabar con el proceso de externalización y privatización de la sanidad. Mayor control sobre la actuación de las mutuas y protección de los trabajadores frente a las reclamacio- nes contra estas.",
+              "page": 42,
+              "printedPage": "42"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-primary-care",
+          "title": {
+            "es": "Más atención primaria",
+            "ca": "Més atenció primària",
+            "gl": "Máis atención primaria",
+            "eu": "Lehen mailako arreta gehiago",
+            "oc": "Mès atencion primària",
+            "en": "More primary care"
+          },
+          "text": {
+            "es": "Crear más centros de atención primaria con los medios necesarios, especialmente en zonas rurales y barrios obreros.",
+            "ca": "Crear més centres d'atenció primària amb els mitjans necessaris, especialment en zones rurals i barris obrers.",
+            "gl": "Crear máis centros de atención primaria cos medios necesarios, especialmente en zonas rurais e barrios obreiros.",
+            "eu": "Lehen mailako arretako zentro gehiago sortzea beharrezko baliabideekin, bereziki landa eremuetan eta langile auzoetan.",
+            "oc": "Crear mès centres d'atencion primària damb es mejans de besonh, especiaument en zònes ruraus e barris obrèrs.",
+            "en": "Provide more primary care centres with the necessary resources, especially in rural areas and working-class neighbourhoods."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-42",
+              "quote": "2. Dotar al sistema nacional de salud de más centros de atención primaria con los re- cursos y medios necesarios, en especial en las zonas rurales y barrios obreros.",
+              "page": 42,
+              "printedPage": "42"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-free-dental-physio-eye-care",
+          "title": {
+            "es": "Nuevas prestaciones gratuitas",
+            "ca": "Noves prestacions gratuïtes",
+            "gl": "Novas prestacións gratuítas",
+            "eu": "Doako prestazio berriak",
+            "oc": "Naues prestacions gratuïtes",
+            "en": "New free services"
+          },
+          "text": {
+            "es": "Crear la estructura necesaria para garantizar cuidados y tratamientos bucodentales, fisioterapéuticos y oftalmológicos gratuitos.",
+            "ca": "Crear l'estructura necessària per garantir cures i tractaments bucodentals, fisioterapèutics i oftalmològics gratuïts.",
+            "gl": "Crear a estrutura necesaria para garantir coidados e tratamentos bucodentais, fisioterapéuticos e oftalmolóxicos gratuítos.",
+            "eu": "Aho eta hortzetako, fisioterapiako eta oftalmologiako arreta eta tratamenduak doan bermatzeko beharrezko egitura sortzea.",
+            "oc": "Crear era estructura de besonh entà garantir suenhs e tractaments bucodentaus, fisioterapeutics e oftalmologics gratuïts.",
+            "en": "Create the necessary structure to ensure free dental, physiotherapy and ophthalmological care and treatment."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-42",
+              "quote": "4. Implantar la estructura adecuada para asegurar el cuidado y tratamiento bucoden- tal, fisioterapéutico y oftalmológico gratuito.",
+              "page": 42,
+              "printedPage": "42"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-prescription-medicines",
+          "title": {
+            "es": "Medicamentos e industria farmacéutica",
+            "ca": "Medicaments i indústria farmacèutica",
+            "gl": "Medicamentos e industria farmacéutica",
+            "eu": "Sendagaiak eta industria farmazeutikoa",
+            "oc": "Medicaments e indústria farmaceutica",
+            "en": "Medicines and pharmaceutical industry"
+          },
+          "text": {
+            "es": "Abaratar los medicamentos con receta y tender a su gratuidad en casos de especial necesidad; desarrollar una industria farmacéutica nacional.",
+            "ca": "Abaratir els medicaments amb recepta i tendir a la gratuïtat en casos d'especial necessitat; desenvolupar una indústria farmacèutica nacional.",
+            "gl": "Abaratar os medicamentos con receita e tender á súa gratuidade en casos de especial necesidade; desenvolver unha industria farmacéutica nacional.",
+            "eu": "Errezetadun sendagaiak merkatzea eta behar bereziko kasuetan doakotasunerantz jotzea; industria farmazeutiko nazionala garatzea.",
+            "oc": "Abaishar eth prètz des medicaments damb recèpta e ténder ara gratuïtat en casi de besonh especiau; desvolopar ua indústria farmaceutica nacionau.",
+            "en": "Make prescription medicines cheaper and move towards free access in cases of special need; develop a national pharmaceutical industry."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-43",
+              "quote": "8. Abaratar el acceso a medicamentos con receta y tender a su gratuidad en casos de especial necesidad. Desarrollar una industria farmacéutica nacional que permita romper con la dependencia de grandes corporaciones privadas.",
+              "page": 43,
+              "printedPage": "43"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-obrero--housing",
       "partyId": "frente-obrero",
       "topicId": "housing",
       "path": "/parties/frente-obrero/housing",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-public-housing",
+          "title": {
+            "es": "Vivienda pública",
+            "ca": "Habitatge públic",
+            "gl": "Vivenda pública",
+            "eu": "Etxebizitza publikoa",
+            "oc": "Abitatge public",
+            "en": "Public housing"
+          },
+          "text": {
+            "es": "Construir vivienda pública de calidad para que los trabajadores accedan a una vivienda digna y asequible.",
+            "ca": "Construir habitatge públic de qualitat perquè els treballadors accedeixin a un habitatge digne i assequible.",
+            "gl": "Construír vivenda pública de calidade para que os traballadores accedan a unha vivenda digna e accesible economicamente.",
+            "eu": "Kalitatezko etxebizitza publikoak eraikitzea, langileek etxebizitza duina eta ekonomikoki eskuragarria izan dezaten.",
+            "oc": "Bastir abitatge public de qualitat entà qu'es trabalhadors accedisquen a un abitatge digne e economicament accessible.",
+            "en": "Build quality public housing so workers can access decent, affordable homes."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-45",
+              "quote": "Construir vivienda pública de calidad para aumentar el número de inmuebles existen- tes y lograr que los trabajadores puedan acceder a una vivienda digna y asequible económicamente.",
+              "page": 45,
+              "printedPage": "45"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-housing-speculation",
+          "title": {
+            "es": "Especulación y pisos turísticos",
+            "ca": "Especulació i pisos turístics",
+            "gl": "Especulación e pisos turísticos",
+            "eu": "Espekulazioa eta turismo etxebizitzak",
+            "oc": "Especulacion e apartaments toristics",
+            "en": "Speculation and tourist rentals"
+          },
+          "text": {
+            "es": "Combatir la especulación de bancos, fondos buitre y grandes rentistas, y frenar la gentrificación y el auge de los pisos turísticos.",
+            "ca": "Combatre l'especulació de bancs, fons voltor i grans rendistes, i frenar la gentrificació i l'auge dels pisos turístics.",
+            "gl": "Combater a especulación de bancos, fondos voitre e grandes rendistas, e frear a xentrificación e o auxe dos pisos turísticos.",
+            "eu": "Bankuen, funts putreen eta errentadun handien espekulazioari aurre egitea, eta gentrifikazioa eta turismo etxebizitzen gorakada geldiaraztea.",
+            "oc": "Combàter era especulacion de bancs, hons voltor e grani rendistes, e frenar era gentrificacion e er aument des apartaments toristics.",
+            "en": "Combat speculation by banks, vulture funds and large rentiers, and curb gentrification and the growth of tourist rentals."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-46",
+              "quote": "Luchar contra la especulación de bancos, fondos buitre y grandes rentistas; la vivien- da no es una mercancía con la que hacer negocio. Aplicar medidas que detengan la gentrificación, el auge de los pisos turísticos y las consecuencias negativas del turismo destructivo.",
+              "page": 46,
+              "printedPage": "46"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-eviction-suspension",
+          "title": {
+            "es": "Desahucios y alternativa habitacional",
+            "ca": "Desnonaments i alternativa d'habitatge",
+            "gl": "Desafiuzamentos e alternativa habitacional",
+            "eu": "Etxegabetzeak eta bizitoki alternatiboa",
+            "oc": "Deslotjaments e alternativa d'abitatge",
+            "en": "Evictions and alternative housing"
+          },
+          "text": {
+            "es": "Paralizar inmediatamente los desahucios de familias trabajadoras vulnerables que no puedan pagar alquiler o hipoteca hasta encontrar una alternativa habitacional.",
+            "ca": "Aturar immediatament els desnonaments de famílies treballadores vulnerables que no puguin pagar el lloguer o la hipoteca fins a trobar una alternativa d'habitatge.",
+            "gl": "Paralizar inmediatamente os desafiuzamentos de familias traballadoras vulnerables que non poidan pagar o alugueiro ou a hipoteca ata atopar unha alternativa habitacional.",
+            "eu": "Alokairua edo hipoteka ordaindu ezin duten langile familia zaurgarrien etxegabetzeak berehala geldiaraztea, bizitoki alternatiboa aurkitu arte.",
+            "oc": "Arturar immediatament es deslotjaments de familhes trabalhadores vulnerables que non poguen pagar eth loguèr o era ipotèca enquia trobar ua alternativa d'abitatge.",
+            "en": "Immediately suspend evictions of vulnerable working families unable to pay rent or mortgages until alternative housing is found."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-46",
+              "quote": "Paralizar inmediatamente todos los procesos de desahucio de las familias trabajado - ras en situación de vulnerabilidad que no pueden hacer frente al pago del alquiler/ hipoteca hasta encontrar una alternativa habitacional. Se deben conceder segundas oportunidades para deudas hipotecarias y garantizar la posibilidad de dación en pago en todas las situaciones.",
+              "page": 46,
+              "printedPage": "46"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-private-home-occupation",
+          "title": {
+            "es": "Ocupación de viviendas particulares",
+            "ca": "Ocupació d'habitatges particulars",
+            "gl": "Ocupación de vivendas particulares",
+            "eu": "Partikularren etxebizitzen okupazioa",
+            "oc": "Ocupacion d'abitatges particulars",
+            "en": "Occupation of privately owned homes"
+          },
+          "text": {
+            "es": "Actuar contra las mafias de la ocupación y los narcopisos, no permitir en ningún caso la ocupación de viviendas de particulares y actuar contra los «inquiokupas» que practican la estafa.",
+            "ca": "Actuar contra les màfies de l'ocupació i els narcopisos, no permetre en cap cas l'ocupació d'habitatges de particulars i actuar contra els «inquiokupas» que practiquen l'estafa.",
+            "gl": "Actuar contra as mafias da ocupación e os narcopisos, non permitir en ningún caso a ocupación de vivendas de particulares e actuar contra os «inquiokupas» que practican a estafa.",
+            "eu": "Okupazio mafien eta droga pisuen aurka jardutea, partikularren etxebizitzen okupazioa inolaz ere ez onartzea eta iruzurra egiten duten «inquiokupas» direlakoen aurka jardutea.",
+            "oc": "Actuar contra es màfies dera ocupacion e es narcopisos, non perméter en cap cas era ocupacion d'abitatges de particulars e actuar contra es «inquiokupas» que practiquen era estafa.",
+            "en": "Act against occupation mafias and drug flats, never permit occupation of individuals' homes, and act against «inquiokupas» who engage in fraud."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-46",
+              "quote": "Luchar por terminar con las mafias de la ocupación y de la delincuencia relacionada con el uso indebido de inmuebles, acabando con la lacra de los narcopisos. Se actua- rá a su vez contra la ocupación de viviendas de particulares, que no debe ser permi - tida en ningún caso. También se actuará contra los inquiokupas, que han hecho de la estafa su modo de vida.",
+              "page": 46,
+              "printedPage": "46"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-native-spaniards-housing",
+          "title": {
+            "es": "Acceso de españoles autóctonos",
+            "ca": "Accés dels espanyols autòctons",
+            "gl": "Acceso dos españois autóctonos",
+            "eu": "Espainiar autoktonoen sarbidea",
+            "oc": "Accès des espanhòus autoctòns",
+            "en": "Access for native Spaniards"
+          },
+          "text": {
+            "es": "Orientar el acceso a la vivienda pública hacia los «españoles autóctonos», según la expresión del programa.",
+            "ca": "Orientar l'accés a l'habitatge públic cap als «españoles autóctonos», segons l'expressió del programa.",
+            "gl": "Orientar o acceso á vivenda pública cara aos «españoles autóctonos», segundo a expresión do programa.",
+            "eu": "Etxebizitza publikorako sarbidea «españoles autóctonos» deitutakoengana bideratzea, programaren adierazpenaren arabera.",
+            "oc": "Orientar er accès ar abitatge public entàs «españoles autóctonos», segontes era expression deth programa.",
+            "en": "Direct access to public housing towards people described as «españoles autóctonos» (native Spaniards), using the programme's wording."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-46",
+              "quote": "Enfocar el acceso a la vivienda pública hacia los españoles autóctonos. No permitir que suceda como con las ayudas, que, como se ha visto en el programa, también de- ben cambiar, pues se suele priorizar al extranjero.",
+              "page": 46,
+              "printedPage": "46"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-obrero--institutions-and-rights",
       "partyId": "frente-obrero",
       "topicId": "institutions-and-rights",
       "path": "/parties/frente-obrero/institutions-and-rights",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-eu-nato-withdrawal",
+          "title": {
+            "es": "Salida de la UE y la OTAN",
+            "ca": "Sortida de la UE i l'OTAN",
+            "gl": "Saída da UE e da OTAN",
+            "eu": "EBtik eta NATOtik irtetea",
+            "oc": "Gessuda dera UE e dera OTAN",
+            "en": "Withdrawal from the EU and NATO"
+          },
+          "text": {
+            "es": "Salir de la Unión Europea y salir inmediatamente de la OTAN, reforzando el ejército español.",
+            "ca": "Sortir de la Unió Europea i sortir immediatament de l'OTAN, reforçant l'exèrcit espanyol.",
+            "gl": "Saír da Unión Europea e saír inmediatamente da OTAN, reforzando o exército español.",
+            "eu": "Europar Batasunetik irtetea eta NATOtik berehala irtetea, Espainiako armada indartuz.",
+            "oc": "Gésser dera Union Europèa e gésser immediatament dera OTAN, en tot refortir er exercit espanhòu.",
+            "en": "Leave the European Union and immediately leave NATO, strengthening the Spanish army."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-11",
+              "quote": "1. Salida de la Unión Europea para recuperar nuestra soberanía nacional. 2. Salida inmediata de la OTAN y reforzamiento de nuestro ejército.",
+              "page": 11,
+              "printedPage": "11"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-positive-discrimination-quotas",
+          "title": {
+            "es": "Discriminación positiva y cupos",
+            "ca": "Discriminació positiva i quotes",
+            "gl": "Discriminación positiva e cotas",
+            "eu": "Diskriminazio positiboa eta kuotak",
+            "oc": "Discriminacion positiva e quòtes",
+            "en": "Positive discrimination and quotas"
+          },
+          "text": {
+            "es": "Derogar parcial o totalmente todas las leyes basadas en la discriminación positiva y suprimir los cupos.",
+            "ca": "Derogar parcialment o totalment totes les lleis basades en la discriminació positiva i suprimir les quotes.",
+            "gl": "Derrogar parcial ou totalmente todas as leis baseadas na discriminación positiva e suprimir as cotas.",
+            "eu": "Diskriminazio positiboan oinarritutako lege guztiak partzialki edo osorik indargabetzea eta kuotak ezabatzea.",
+            "oc": "Derogar parciaument o totaument totes es leis basades ena discriminacion positiva e suprimir es quòtes.",
+            "en": "Partially or fully repeal all laws based on positive discrimination and abolish quotas."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-32",
+              "quote": "1. Derogación parcial o total de todas las leyes basadas en la discriminación positiva. Supresión de los cupos.",
+              "page": 32,
+              "printedPage": "32"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-trans-law-repeal",
+          "title": {
+            "es": "Derogación de la Ley Trans",
+            "ca": "Derogació de la Ley Trans",
+            "gl": "Derrogación da Ley Trans",
+            "eu": "Ley Trans indargabetzea",
+            "oc": "Derogacion dera Ley Trans",
+            "en": "Repeal of the Ley Trans"
+          },
+          "text": {
+            "es": "Derogar la Ley Trans.",
+            "ca": "Derogar la Ley Trans.",
+            "gl": "Derrogar a Ley Trans.",
+            "eu": "Ley Trans indargabetzea.",
+            "oc": "Derogar era Ley Trans.",
+            "en": "Repeal the Ley Trans."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-32",
+              "quote": "2. Derogación de la Ley Trans. Es necesario proteger a los niños y adolescentes del adoctrinamiento queer, que solo crea y agrava problemas.",
+              "page": 32,
+              "printedPage": "32"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-equality-ministry",
+          "title": {
+            "es": "Supresión del Ministerio de Igualdad",
+            "ca": "Supressió del Ministerio de Igualdad",
+            "gl": "Supresión do Ministerio de Igualdad",
+            "eu": "Ministerio de Igualdad ezabatzea",
+            "oc": "Supression deth Ministerio de Igualdad",
+            "en": "Abolition of the Ministerio de Igualdad"
+          },
+          "text": {
+            "es": "Suprimir el Ministerio de Igualdad y destinar íntegramente su presupuesto a cuestiones sociales.",
+            "ca": "Suprimir el Ministerio de Igualdad i destinar íntegrament el seu pressupost a qüestions socials.",
+            "gl": "Suprimir o Ministerio de Igualdad e destinar integramente o seu orzamento a cuestións sociais.",
+            "eu": "Ministerio de Igualdad ezabatzea eta haren aurrekontu osoa gizarte gaietara bideratzea.",
+            "oc": "Suprimir eth Ministerio de Igualdad e destinar integraument eth sòn pressupòst a qüestions sociaus.",
+            "en": "Abolish the Ministerio de Igualdad and allocate its entire budget to social matters."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-32",
+              "quote": "3. Supresión del Ministerio de Igualdad. Es un gasto superfluo que, lejos de repercutir en el bienestar de la mujer, va en contra de la misma, llegando incluso a negar la existencia material, biológica, de la mujer. El presupuesto del ministerio será desti- nado en su totalidad a cuestiones sociales.",
+              "page": 32,
+              "printedPage": "32"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-immigration-expulsions",
+          "title": {
+            "es": "Expulsiones y regularización",
+            "ca": "Expulsions i regularització",
+            "gl": "Expulsións e regularización",
+            "eu": "Kanporaketak eta erregularizazioa",
+            "oc": "Expulsions e regularizacion",
+            "en": "Expulsions and regularisation"
+          },
+          "text": {
+            "es": "Expulsar inmediatamente a inmigrantes que delincan reiteradamente o estén en situación irregular; impedir su regularización si intentaron entrar ilegalmente y revisar los permisos obtenidos en los últimos años por quienes entraron ilegalmente. El programa señala que será necesaria una nueva Constitución para aplicar estas medidas.",
+            "ca": "Expulsar immediatament els immigrants que delinqueixin reiteradament o estiguin en situació irregular; impedir-ne la regularització si van intentar entrar il·legalment i revisar els permisos obtinguts els darrers anys pels qui van entrar il·legalment. El programa assenyala que caldrà una nova Constitució per aplicar aquestes mesures.",
+            "gl": "Expulsar inmediatamente os inmigrantes que delincan reiteradamente ou estean en situación irregular; impedir a súa regularización se intentaron entrar ilegalmente e revisar os permisos obtidos nos últimos anos por quen entrou ilegalmente. O programa sinala que será necesaria unha nova Constitución para aplicar estas medidas.",
+            "eu": "Behin eta berriz delituak egiten dituzten edo egoera irregularrean dauden etorkinak berehala kanporatzea; legez kanpo sartzen saiatu badira erregularizazioa eragoztea eta legez kanpo sartu zirenen azken urteetako baimenak berrikustea. Programak dio Konstituzio berri bat beharko dela neurri horiek aplikatzeko.",
+            "oc": "Expulsar immediatament es immigrants que delinquisquen reiteradament o siguen en situacion irregulara; impedir era sua regularizacion s'ensagèren d'entrar illegaument e revisar es permisi obtengudi es darrèri ans pes que i entrèren illegaument. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
+            "en": "Immediately expel immigrants who repeatedly offend or are in an irregular situation; bar regularisation if they attempted illegal entry and review permits obtained in recent years by those who entered illegally. The programme states that a new Constitution will be required to implement these measures."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-53",
+              "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:",
+              "page": 53,
+              "printedPage": "53"
+            },
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-53",
+              "quote": "3. Expulsión inmediata de todos aquellos inmigrantes que delinquen de forma reite - rada o que están de forma irregular en el país. Imposibilidad de regularse si han intentado entrar de forma ilegal. Revisión de los permisos de residencia a aquellos que hayan entrado de forma ilegal y lo hayan conseguido en los últimos años.",
+              "page": 53,
+              "printedPage": "53"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-nationality-review",
+          "title": {
+            "es": "Nacionalidad y revisión de concesiones",
+            "ca": "Nacionalitat i revisió de concessions",
+            "gl": "Nacionalidade e revisión de concesións",
+            "eu": "Nazionalitatea eta emakiden berrikuspena",
+            "oc": "Nacionalitat e revision de concessions",
+            "en": "Nationality grants and review"
+          },
+          "text": {
+            "es": "Suspender la concesión de nacionalidades hasta revisar exhaustivamente las otorgadas en los últimos veinte años y elevar los requisitos futuros, primando el Ius Sanguinis y limitando las excepciones a casos meritorios y anecdóticos. El programa señala que será necesaria una nueva Constitución para aplicar estas medidas.",
+            "ca": "Suspendre la concessió de nacionalitats fins a revisar exhaustivament les atorgades els darrers vint anys i elevar els requisits futurs, prioritzant el Ius Sanguinis i limitant les excepcions a casos meritoris i anecdòtics. El programa assenyala que caldrà una nova Constitució per aplicar aquestes mesures.",
+            "gl": "Suspender a concesión de nacionalidades ata revisar exhaustivamente as outorgadas nos últimos vinte anos e elevar os requisitos futuros, primando o Ius Sanguinis e limitando as excepcións a casos meritorios e anecdóticos. O programa sinala que será necesaria unha nova Constitución para aplicar estas medidas.",
+            "eu": "Nazionalitateen emakida etetea azken hogei urteetan emandakoak sakon berrikusi arte, eta etorkizuneko baldintzak zorroztea, Ius Sanguinis lehenetsiz eta salbuespenak merezimenduzko kasu bakanetara mugatuz. Programak dio Konstituzio berri bat beharko dela neurri horiek aplikatzeko.",
+            "oc": "Suspéner era concession de nacionalitats enquia revisar exaustivament es autrejades es darrèri vint ans e aumentar es requisits futurs, priorizant eth Ius Sanguinis e limitant es excepcions a casi meritoris e anecdòtics. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
+            "en": "Suspend nationality grants until an exhaustive review of those granted in the last twenty years, and raise future requirements, prioritising Ius Sanguinis and limiting exceptions to meritorious, exceptional cases. The programme states that a new Constitution will be required to implement these measures."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-53",
+              "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:",
+              "page": 53,
+              "printedPage": "53"
+            },
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-53",
+              "quote": "6. Cese de entrega de nacionalidades hasta que se pueda realizar una revisión ex - haustiva de las que se han entregado en los últimos veinte años. Elevación de las condiciones para la obtención futura de la nacionalidad, primando de verdad el Ius Sanguinis. La entrega de la nacionalidad a personas que no cumplan este requisito deben ser meritorias de ello, siendo algo anecdótico y no cientos de miles al año como pasa en la actualidad.",
+              "page": 53,
+              "printedPage": "53"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-regional-powers",
+          "title": {
+            "es": "Competencias y régimen fiscal autonómicos",
+            "ca": "Competències i règim fiscal autonòmics",
+            "gl": "Competencias e réxime fiscal autonómicos",
+            "eu": "Autonomien eskumenak eta zerga araubidea",
+            "oc": "Competéncies e regim fiscau autonomics",
+            "en": "Regional powers and tax systems"
+          },
+          "text": {
+            "es": "Igualar las competencias y el régimen fiscal de todas las comunidades autónomas y centralizar sanidad, educación y servicios de emergencia.",
+            "ca": "Igualar les competències i el règim fiscal de totes les comunitats autònomes i centralitzar sanitat, educació i serveis d'emergència.",
+            "gl": "Igualar as competencias e o réxime fiscal de todas as comunidades autónomas e centralizar sanidade, educación e servizos de emerxencia.",
+            "eu": "Autonomia erkidego guztien eskumenak eta zerga araubidea berdintzea, eta osasuna, hezkuntza eta larrialdi zerbitzuak zentralizatzea.",
+            "oc": "Igualar es competéncies e eth regim fiscau de totes es comunitats autonòmes e centralizar sanitat, educacion e servicis d'emergéncia.",
+            "en": "Equalise powers and tax systems across all autonomous communities and centralise healthcare, education and emergency services."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-56",
+              "quote": "1. Implantar medidas para que todas las Comunidades Autónomas tengan las mismas competencias y el mismo régimen fiscal. Se acabaron las desigualdades entre regiones. 2. Centralizar determinadas competencias como sanidad, educación y los servicios de emergencia.",
+              "page": 56,
+              "printedPage": "56"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-platforms-public-media",
+          "title": {
+            "es": "Plataformas y medios públicos",
+            "ca": "Plataformes i mitjans públics",
+            "gl": "Plataformas e medios públicos",
+            "eu": "Plataformak eta hedabide publikoak",
+            "oc": "Plataformes e mejans publics",
+            "en": "Platforms and public media"
+          },
+          "text": {
+            "es": "Establecer control estatal sobre las grandes plataformas digitales para evitar privilegios entre discursos o sesgos informativos, y garantizar medios públicos objetivos, neutrales e independientes del gobierno.",
+            "ca": "Establir control estatal sobre les grans plataformes digitals per evitar privilegis entre discursos o biaixos informatius, i garantir mitjans públics objectius, neutrals i independents del govern.",
+            "gl": "Establecer control estatal sobre as grandes plataformas dixitais para evitar privilexios entre discursos ou nesgos informativos, e garantir medios públicos obxectivos, neutrais e independentes do goberno.",
+            "eu": "Plataforma digital handien gaineko estatu kontrola ezartzea, diskurtsoen arteko pribilegioak edo informazio joerak saihesteko, eta gobernuarekiko independenteak diren hedabide publiko objektibo eta neutralak bermatzea.",
+            "oc": "Establir contròtle estatau sus es granes plataformes digitaus entà evitar privilègis entre discorsi o biaishi informatius, e garantir mejans publics objectius, neutraus e independents deth govèrn.",
+            "en": "Establish state control over major digital platforms to prevent preferential treatment of viewpoints or information bias, and ensure objective, neutral public media independent of government."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-40",
+              "quote": "2. Desarrollo de una política de control del Estado sobre las grandes plataformas digitales, que garanticen que no se privilegian unos discursos de opinión sobre otros, o un sesgo informativo determinado. 3. Garantizar la objetividad y la neutralidad en medios de comunicación públicos, que de- ben tener una independencia real respecto al gobierno de turno.",
+              "page": 40,
+              "printedPage": "40"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-islam-related-measures",
+          "title": {
+            "es": "Medidas sobre el islam",
+            "ca": "Mesures sobre l'islam",
+            "gl": "Medidas sobre o islam",
+            "eu": "Islamari buruzko neurriak",
+            "oc": "Mesures sus er islam",
+            "en": "Measures concerning Islam"
+          },
+          "text": {
+            "es": "Expulsar a radicales islámicos y estructuras religiosas que actúen como lobby de países extranjeros; sacar el islam de la escuela pública y suprimir las subvenciones a cualquier actividad islámica; prohibir el hiyab en lugares y puestos de trabajo públicos y ayudar a las mujeres amenazadas por querer dejar la vestimenta islámica. El programa señala que será necesaria una nueva Constitución para aplicar estas medidas.",
+            "ca": "Expulsar radicals islàmics i estructures religioses que actuïn com a lobby de països estrangers; treure l'islam de l'escola pública i suprimir les subvencions a qualsevol activitat islàmica; prohibir el hijab en llocs i llocs de treball públics i ajudar les dones amenaçades per voler deixar la vestimenta islàmica. El programa assenyala que caldrà una nova Constitució per aplicar aquestes mesures.",
+            "gl": "Expulsar os radicais islámicos e as estruturas relixiosas que actúen como lobby de países estranxeiros; sacar o islam da escola pública e suprimir as subvencións a calquera actividade islámica; prohibir o hiyab en lugares e postos de traballo públicos e axudar as mulleres ameazadas por querer deixar a vestimenta islámica. O programa sinala que será necesaria unha nova Constitución para aplicar estas medidas.",
+            "eu": "Erradikal islamikoak eta atzerriko herrialdeen lobby gisa jarduten duten erlijio egiturak kanporatzea; islama eskola publikoetatik kentzea eta jarduera islamikoentzako dirulaguntza guztiak ezabatzea; hijaba toki eta lanpostu publikoetan debekatzea eta jantzi islamikoak utzi nahi izateagatik mehatxatutako emakumeei laguntzea. Programak dio Konstituzio berri bat beharko dela neurri horiek aplikatzeko.",
+            "oc": "Expulsar es radicaus islamics e es estructures religioses que actuen coma lobby de païsi estrangèrs; trèir er islam dera escòla publica e suprimir es subvencions a quinsevolh activitat islamica; proïbir eth hijab en lòcs e pòsts de trabalh publics e ajudar es hemnes menaçades per voler deishar era vestimenta islamica. Eth programa indique que calerà ua naua Constitucion entà aplicar aguestes mesures.",
+            "en": "Expel Islamic radicals and religious structures acting as lobbies for foreign countries; remove Islam from public schools and end subsidies for any Islamic activity; ban the hijab in public places and public jobs, and help women threatened for wanting to stop wearing Islamic clothing. The programme states that a new Constitution will be required to implement these measures."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-53",
+              "quote": "Por todo esto, proponemos una serie de medidas que deben ser de inmediato cumpli- miento. Siendo conscientes de que habrá que tener una nueva constitución para poder llevarlas a cabo:",
+              "page": 53,
+              "printedPage": "53"
+            },
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-53",
+              "quote": "4. Expulsión de los radicales islámicos y de las estructuras religiosas que actúan como lobby para países extranjeros. El islam debe ser sacado de las escuelas públicas y no se debe subvencionar ninguna actividad islámica. Prohibición del hijab en luga- res y puestos de trabajo públicos. Además, se ofrecerán ayudas a las mujeres que quieran dejar el uso de la vestimenta islámica y se vean amenazadas en el proceso.",
+              "page": 53,
+              "printedPage": "53"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-constituent-process-republic",
+          "title": {
+            "es": "Proceso constituyente y república",
+            "ca": "Procés constituent i república",
+            "gl": "Proceso constituínte e república",
+            "eu": "Prozesu konstituziogilea eta errepublika",
+            "oc": "Procès constituent e republica",
+            "en": "Constituent process and republic"
+          },
+          "text": {
+            "es": "Impulsar un proceso constituyente para acabar con el régimen actual. Defender una república encaminada al socialismo, dejando la nueva forma de Estado para una decisión futura.",
+            "ca": "Impulsar un procés constituent per acabar amb el règim actual. Defensar una república encaminada al socialisme, deixant la nova forma d'Estat per a una decisió futura.",
+            "gl": "Impulsar un proceso constituínte para acabar co réxime actual. Defender unha república encamiñada ao socialismo, deixando a nova forma de Estado para unha decisión futura.",
+            "eu": "Egungo erregimena amaitzeko prozesu konstituziogilea bultzatzea. Sozialismorantz bideratutako errepublika defendatzea, Estatuaren forma berria etorkizuneko erabaki baterako utziz.",
+            "oc": "Impulsar un procès constituent entà acabar damb eth regim actuau. Deféner ua republica encaminada tath socialisme, deishant era naua forma d'Estat entà ua decision futura.",
+            "en": "Promote a constituent process to end the current regime. Advocate a republic oriented towards socialism, leaving the new form of State for a future decision."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-6",
+              "quote": "Nuestro objetivo sigue siendo acabar con el régimen actual y dar solución a los gran - des problemas que afectan a nuestro país. Por ello apostamos por la realización de un proceso constituyente. No hay solución posible dentro de los marcos actuales.",
+              "page": 6,
+              "printedPage": "6"
+            },
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-56",
+              "quote": "Nosotros somos contrarios a la monarquía, somos partidarios de una República encaminada al socialismo, pero hasta que llegue el momento de decidir la nueva forma de Estado pensa- mos que es necesario igualar las competencias y regímenes fiscales de todas las autonomías.",
+              "page": 56,
+              "printedPage": "56"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "frente-obrero--pensions-and-social-protection",
       "partyId": "frente-obrero",
       "topicId": "pensions-and-social-protection",
       "path": "/parties/frente-obrero/pensions-and-social-protection",
-      "revision": null,
-      "reviewStatus": "pending",
-      "reviewedAt": null,
-      "sourceIds": [],
-      "points": []
+      "revision": 2,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-21T01:10:09Z",
+      "sourceIds": [
+        "frente-obrero-2026-7b9f423f2c1a"
+      ],
+      "points": [
+        {
+          "id": "frente-obrero-retirement-age",
+          "title": {
+            "es": "Edad de jubilación",
+            "ca": "Edat de jubilació",
+            "gl": "Idade de xubilación",
+            "eu": "Erretiro adina",
+            "oc": "Edat de jubilacion",
+            "en": "Retirement age"
+          },
+          "text": {
+            "es": "Revertir el incremento de la edad de jubilación y establecer una edad de retiro adecuada al puesto desempeñado.",
+            "ca": "Revertir l'increment de l'edat de jubilació i establir una edat de retir adequada al lloc exercit.",
+            "gl": "Reverter o incremento da idade de xubilación e establecer unha idade de retiro adecuada ao posto desempeñado.",
+            "eu": "Erretiro adinaren igoera atzera botatzea eta egindako lanpostuari egokitutako erretiro adina ezartzea.",
+            "oc": "Revertir er increment dera edat de jubilacion e establir ua edat de retirada adequada ath pòst exercit.",
+            "en": "Reverse the increase in retirement age and set a retirement age appropriate to the job performed."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-48",
+              "quote": "1. Revertir el incremento de la edad de jubilación y establecer una edad de retiro ade- cuada al puesto laboral desempeñado.",
+              "page": 48,
+              "printedPage": "48"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-minimum-pensions",
+          "title": {
+            "es": "Pensiones mínimas y no contributivas",
+            "ca": "Pensions mínimes i no contributives",
+            "gl": "Pensións mínimas e non contributivas",
+            "eu": "Gutxieneko eta kotizazio gabeko pentsioak",
+            "oc": "Pensions minimes e non contributives",
+            "en": "Minimum and non-contributory pensions"
+          },
+          "text": {
+            "es": "Incrementar las pensiones mínimas y no contributivas para asegurar recursos suficientes a todos los pensionistas.",
+            "ca": "Incrementar les pensions mínimes i no contributives per assegurar recursos suficients a tots els pensionistes.",
+            "gl": "Incrementar as pensións mínimas e non contributivas para asegurar recursos suficientes a todos os pensionistas.",
+            "eu": "Gutxieneko eta kotizazio gabeko pentsioak handitzea, pentsiodun guztiei baliabide nahikoak bermatzeko.",
+            "oc": "Aumentar es pensions minimes e non contributives entà assegurar recorsi sufisents a toti es pensionistes.",
+            "en": "Increase minimum and non-contributory pensions to ensure sufficient resources for all pensioners."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-49",
+              "quote": "2. Incrementar las pensiones no contributivas y mínimas asegurando una correcta su - ficiencia de recursos de todos los pensionistas.",
+              "page": 49,
+              "printedPage": "49"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-best-contribution-years",
+          "title": {
+            "es": "Cálculo con los mejores años",
+            "ca": "Càlcul amb els millors anys",
+            "gl": "Cálculo cos mellores anos",
+            "eu": "Urte onenekin kalkulatzea",
+            "oc": "Calcul damb es milhors ans",
+            "en": "Calculation using the best years"
+          },
+          "text": {
+            "es": "Calcular la pensión mediante la media de los mejores años cotizados, evitando penalizar los despidos o menores salarios al final de la vida laboral.",
+            "ca": "Calcular la pensió amb la mitjana dels millors anys cotitzats, evitant penalitzar els acomiadaments o salaris més baixos al final de la vida laboral.",
+            "gl": "Calcular a pensión coa media dos mellores anos cotizados, evitando penalizar os despedimentos ou menores salarios ao final da vida laboral.",
+            "eu": "Pentsioa kotizatutako urte onenen batezbestekoarekin kalkulatzea, lan bizitzaren amaierako kaleratzeek edo soldata baxuagoek kalterik ez eragiteko.",
+            "oc": "Calcular era pension damb era mejana des milhors ans cotizats, evitant penalizar es acomiadaments o salaris mès baishi ara fin dera vida laborau.",
+            "en": "Calculate pensions using the average of the best contribution years, avoiding penalties for dismissal or lower wages towards the end of working life."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-49",
+              "quote": "3. Introducir el cálculo de la pensión mediante la media de los mejores años cotizados, para evitar que los trabajadores que han sido despedidos o han obtenido un salario menor en los últimos años de su vida laboral obtengan una pensión menor.",
+              "page": 49,
+              "printedPage": "49"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-free-public-nurseries",
+          "title": {
+            "es": "Guarderías públicas gratuitas",
+            "ca": "Escoles bressol públiques gratuïtes",
+            "gl": "Escolas infantís públicas gratuítas",
+            "eu": "Doako haur eskola publikoak",
+            "oc": "Escòles mairaus publiques gratuïtes",
+            "en": "Free public nurseries"
+          },
+          "text": {
+            "es": "Construir guarderías y jardines de infancia públicos y gratuitos para compatibilizar trabajo y maternidad.",
+            "ca": "Construir escoles bressol i jardins d'infància públics i gratuïts per compatibilitzar feina i maternitat.",
+            "gl": "Construír gardarías e xardíns de infancia públicos e gratuítos para compatibilizar traballo e maternidade.",
+            "eu": "Haurtzaindegi eta haur eskola publiko eta doakoak eraikitzea, lana eta amatasuna uztartzeko.",
+            "oc": "Bastir escòles mairaus e jardins d'enfància publics e gratuïts entà compatibilizar trabalh e maternitat.",
+            "en": "Build free public nurseries and kindergartens to make work and motherhood compatible."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-34",
+              "quote": "2. Se construirán guarderías y jardines de infancia públicos y gratuitos para facilitar la com- patibilidad del trabajo y la maternidad.",
+              "page": 34,
+              "printedPage": "34"
+            }
+          ]
+        },
+        {
+          "id": "frente-obrero-parental-leave-flexibility",
+          "title": {
+            "es": "Permisos y conciliación",
+            "ca": "Permisos i conciliació",
+            "gl": "Permisos e conciliación",
+            "eu": "Baimenak eta kontziliazioa",
+            "oc": "Permisi e conciliacion",
+            "en": "Leave and work-family balance"
+          },
+          "text": {
+            "es": "Alargar las bajas por paternidad y maternidad y obligar a las empresas a ofrecer flexibilidad parcial en teletrabajo, reducción de jornada y horarios para cuidar a los hijos.",
+            "ca": "Allargar les baixes per paternitat i maternitat i obligar les empreses a oferir flexibilitat parcial en teletreball, reducció de jornada i horaris per cuidar els fills.",
+            "gl": "Alongar as baixas por paternidade e maternidade e obrigar as empresas a ofrecer flexibilidade parcial en teletraballo, redución de xornada e horarios para coidar os fillos.",
+            "eu": "Aitatasun eta amatasun bajak luzatzea eta enpresak telelanean, lanaldi murrizketan eta ordutegietan malgutasun partziala eskaintzera behartzea, seme-alabak zaintzeko.",
+            "oc": "Alargar es baishes per paternitat e maternitat e obligar es empreses a auferir flexibilitat parciau en teletrabalh, reduccion de jornada e oraris entà suenhar es hilhs.",
+            "en": "Extend paternity and maternity leave and require companies to offer partial flexibility in remote work, reduced hours and schedules for childcare."
+          },
+          "citations": [
+            {
+              "sourceId": "frente-obrero-2026-7b9f423f2c1a",
+              "segmentId": "page-35",
+              "quote": "3. Se alargarán las bajas por paternidad y maternidad y se obligará a las empresas a ser flexibles parcialmente en cuanto al teletrabajo, reducción de jornada y modificación de horarios, para poder conciliar trabajo y el cuidado de los hijos.",
+              "page": 35,
+              "printedPage": "35"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "podemos--economy-and-taxes",

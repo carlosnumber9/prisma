@@ -2,7 +2,7 @@
 
 Prisma will help Spanish citizens read reviewed summaries of official programmes for the general election on 29 November 2026, by electoral formation and policy area.
 
-The editorial foundation and statically prerendered Next.js portal are implemented. Five formations have approved programme summaries: PP has 24 proposals, PSOE 32, VOX 44, Frente Amplio 59 and Podemos 24, with eight partial summaries each. The Frente Obrero incorporation remains a draft. The correction form, comparator, chat and Vercel integration remain future deliveries.
+The editorial foundation and statically prerendered Next.js portal are implemented. Six formations have approved programme summaries: PP has 24 proposals, PSOE 32, VOX 44, Frente Amplio 59, Podemos 24 and Frente Obrero 41, with eight partial summaries each. The correction form, comparator, chat and Vercel integration remain future deliveries.
 
 Breadcrumbs now retain their common route prefix. New pieces slide out from behind the preceding piece over 160 milliseconds; removed pieces slide back before disappearing. Sibling navigation replaces only the differing suffix. Reduced motion, resizing and font changes settle immediately.
 
@@ -64,7 +64,7 @@ npm run build
 
 The native Codex [research team](docs/research-factory.md) coordinates scoped official-source discovery, cited editorial JSON synthesis and independent QA using the existing editorial contracts. Candidate data stays outside the repository until reviewed; the provincial Congress presence dataset now has a scoped validator and a minimal homepage consumer. Other political-reference datasets remain research-only.
 
-The [21 November Frente Obrero review](content/reviews/2026-11-21-frente-obrero-programme-draft.md) documents a 64-page political programme adopted by the formation's official 29 November campaign website. The supplied PDF matches the current official download byte for byte. Its own text distinguishes a political programme from an electoral programme; no newly dated 2026 edition is asserted. The 41 proposed six-language points remain drafts pending editorial agreement and are excluded from public proposal JSON.
+The [21 November Frente Obrero review](content/reviews/2026-11-21-frente-obrero-programme-draft.md) documents a 64-page political programme adopted by the formation's official 29 November campaign website. The supplied PDF matches the current official download byte for byte. Its own text distinguishes a political programme from an electoral programme; no newly dated 2026 edition is asserted. The maintainer approved all 41 points in six languages for production publication. The eight syntheses remain partial because this is a selection from the programme, not an exhaustive inventory.
 
 The [11 November PP editorial review](content/reviews/2026-11-11-pp-programme-draft.md) records the preserved national programme and 24 approved proposals in all six languages. Comparison with the second official PDF remains pending.
 

@@ -2,9 +2,9 @@
   "id": "frente-obrero--housing",
   "partyId": "frente-obrero",
   "topicId": "housing",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Bastir abitatge public de qualitat entà qu'es trabalhadors accedisquen a un abitatge digne e economicament accessible.",
         "en": "Build quality public housing so workers can access decent, affordable homes."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Combàter era especulacion de bancs, hons voltor e grani rendistes, e frenar era gentrificacion e er aument des apartaments toristics.",
         "en": "Combat speculation by banks, vulture funds and large rentiers, and curb gentrification and the growth of tourist rentals."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Arturar immediatament es deslotjaments de familhes trabalhadores vulnerables que non poguen pagar eth loguèr o era ipotèca enquia trobar ua alternativa d'abitatge.",
         "en": "Immediately suspend evictions of vulnerable working families unable to pay rent or mortgages until alternative housing is found."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Actuar contra es màfies dera ocupacion e es narcopisos, non perméter en cap cas era ocupacion d'abitatges de particulars e actuar contra es «inquiokupas» que practiquen era estafa.",
         "en": "Act against occupation mafias and drug flats, never permit occupation of individuals' homes, and act against «inquiokupas» who engage in fraud."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -133,7 +133,7 @@
         "oc": "Orientar er accès ar abitatge public entàs «españoles autóctonos», segontes era expression deth programa.",
         "en": "Direct access to public housing towards people described as «españoles autóctonos» (native Spaniards), using the programme's wording."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",

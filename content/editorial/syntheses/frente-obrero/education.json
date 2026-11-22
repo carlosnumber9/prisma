@@ -2,9 +2,9 @@
   "id": "frente-obrero--education",
   "partyId": "frente-obrero",
   "topicId": "education",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Auferir educacion gratuïta en toti es nivèus academics, includidi es superiors, entàs rendes mès baishes, e borses entà compatibilizar formacion e trabalh o atier besonhs especiaus.",
         "en": "Offer free education at all academic levels, including higher education, for the lowest incomes, with grants to combine study and work or address special needs."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Auferir minjador escolar gratuït entà facilitar era conciliacion familhau e fomentar abituds alimentaris saludables.",
         "en": "Offer free school meals to facilitate family life and promote healthy eating habits."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Eliminar es subvencions ara escòla privada entà enfortir eth sistèma public d'educacion.",
         "en": "End subsidies to private schools to strengthen the public education system."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Remunerar es practiques de formacion professionau e universitat segontes eth trabalh hèt, sense excepcions.",
         "en": "Pay for vocational and university placements according to work performed, without exceptions."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",

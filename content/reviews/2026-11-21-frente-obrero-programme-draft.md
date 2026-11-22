@@ -1,6 +1,6 @@
-# Frente Obrero programme synthesis — draft batch
+# Frente Obrero programme synthesis — approved partial batch
 
-This is an unapproved editorial batch for the Spanish general election of 29 November 2026, with a requested cutoff of 21 November 2026. It contains 41 proposed points in the eight established areas. Every new point is `draft`; each synthesis has revision 1, `reviewStatus: pending` and `reviewedAt: null`. No political content or translation is approved by this record.
+The maintainer approved this exact 41-point batch in all six languages for the Spanish general election of 29 November 2026 and authorised production publication. The source-research cutoff remains 21 November 2026. Every point is `approved`; all eight syntheses have revision 2, `reviewStatus: partial` and `reviewedAt: 2026-11-21T01:10:09Z`. Approval changes status and publication only; all previously reviewed titles, bodies, citations, IDs and editorial order are unchanged. Partial status preserves the documented selection and corpus limits.
 
 ## Evidence and identity
 
@@ -14,9 +14,9 @@ The source is **Recuperar España — Programa político del Frente Obrero**, pr
 - Both supplied hashes were recomputed before reuse. All 45 proposed citation quotes were checked against a fresh parse of the preserved original PDF, allowing only whitespace differences. Pages 46 and 53 were also rendered and visually inspected. Research and independent QA own broader source comparison and provenance checks.
 - The preserved extraction was not edited. Quotes below keep source spelling, punctuation and line-break hyphenation; whitespace is collapsed for readability. Such hyphenation is not editorial wording.
 
-## Selection, interpretation and language questions
+## Selection, interpretation and language review
 
-These are principal selections, not an exhaustive inventory. The established classification is unchanged. All six language versions below are proposals for review, not certified or approved translations. No translations are missing. Basque (`eu`) and Aranese (`oc`) require particularly careful independent language review across the entire batch. Check official legal titles, public-employment terminology, pension terminology, contractual categories, and the strength of mandatory commitments in every language.
+These are principal selections, not an exhaustive inventory. The established classification is unchanged. All six language versions below were reviewed for semantic fidelity and are now approved by the maintainer as one batch. No translations are missing. The earlier review flagged Basque (`eu`) and Aranese (`oc`) idiom for particular care, including legal, pension and contractual terminology. Maintainer acceptance does not certify specialist or native fluency.
 
 - **Housing:** «españoles autóctonos» is the source's undefined expression, retained literally in translated bodies rather than silently equated with all Spanish nationals or an eligibility test. «Inquiokupas» is also an undefined political term; the point keeps the source's fraud qualifier and makes no finding about particular tenants. The eviction point retains vulnerability, inability to pay, immediate suspension and the alternative-housing endpoint. Mortgage debt second chances and payment in kind are omitted from this selection, not rejected.
 - **Education:** the placement of «para las rentas más bajas» after «incluidos los superiores» permits uncertainty over which levels it qualifies. This draft applies the income condition to the education offer conservatively and flags the interpretation for maintainer/QA review. It must not be presented as an unqualified promise of universal free higher education. Meals and paid placements retain their separate unconditional wording. Digital education restrictions, study-language rights, private firms in universities and disability education remain outside the selection.
@@ -29,14 +29,14 @@ These are principal selections, not an exhaustive inventory. The established cla
 
 The programme's descriptions of social conditions, legal effects and opponents are not independently adopted as facts by these summaries. Builder is supplying separately dated primary legal context for disputed implications. Such context belongs in review, not in the programme points. Legal feasibility and the political desirability of the proposals are separate from faithful attribution.
 
-## Approval gates and technical validation
+## Pre-approval gates and draft validation (historical)
 
 1. Independent QA must confirm source eligibility, extraction, semantic fidelity, selection and the final JSON; this author cannot approve its own work.
 2. Resolve or explicitly accept the interpretation questions above, including income scope, undefined terms and the constitutional prerequisite.
 3. The maintainer must review or delegate review of all six exact versions and accept the complete multilingual batch before any point is marked approved. Changed wording must be shown again; approval of Castilian alone is insufficient.
 4. Builder alone may apply an exactly accepted batch to approved repository content, set genuine review dates, increment public revisions when appropriate and regenerate output. No approval or review timestamp has been invented here.
 
-The existing generator completed successfully with `node scripts/generate-content.mjs --root <staging-root>` and then the same command with `--check`, on Node `v24.22.3`. Its checks cover hashes, references, exact quote occurrence, field/ID contracts and deterministic output. They do not establish semantic truth or human approval. All four files use schema version 3. The eight Frente Obrero public entries remain pending, have null revisions and contain no proposals or source IDs. Draft points are intentionally excluded from public JSON; pending areas produce the app's existing unavailable state. Existing source and synthesis files were byte-compared against the repository baseline and preserved.
+The following records the initial draft validation before the approval documented below. The existing generator completed successfully with `node scripts/generate-content.mjs --root <staging-root>` and then the same command with `--check`, on Node `v24.22.3`. Its checks cover hashes, references, exact quote occurrence, field/ID contracts and deterministic output. They do not establish semantic truth or human approval. All four files use schema version 3. The eight Frente Obrero public entries remain pending, have null revisions and contain no proposals or source IDs. Draft points are intentionally excluded from public JSON; pending areas produce the app's existing unavailable state. Existing source and synthesis files were byte-compared against the repository baseline and preserved.
 
 The four generated files are `content/generated/parties.json`, `content/generated/topics.json`, `content/generated/sources.json` and `content/generated/syntheses.json`. Editable draft paths and all proposed wording follow. No application code, contract, approved point, remote state or publication was changed by Synthesis.
 
@@ -72,15 +72,15 @@ Builder consulted the following primary consolidated legislation on 21 November 
 
 The consolidated BOE pages state that consolidation is informative and has no legal force of its own; the underlying official enactments and judgments would be needed for a formal legal opinion. No claim about financial cost, implementation certainty, clinical effectiveness or factual truth of the programme's socioeconomic diagnoses has been established here. No formation is scored.
 
-## Exact proposed batch
+## Exact approved batch
 
 ### Vivienda
 
-Synthesis `frente-obrero--housing`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/housing.json`.
+Synthesis `frente-obrero--housing`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/housing.json`.
 
 #### 1. Vivienda pública
 
-Point `frente-obrero-public-housing` — draft.
+Point `frente-obrero-public-housing` — approved.
 
 **es — Vivienda pública**
 
@@ -112,7 +112,7 @@ Evidence:
 
 #### 2. Especulación y pisos turísticos
 
-Point `frente-obrero-housing-speculation` — draft.
+Point `frente-obrero-housing-speculation` — approved.
 
 **es — Especulación y pisos turísticos**
 
@@ -144,7 +144,7 @@ Evidence:
 
 #### 3. Desahucios y alternativa habitacional
 
-Point `frente-obrero-eviction-suspension` — draft.
+Point `frente-obrero-eviction-suspension` — approved.
 
 **es — Desahucios y alternativa habitacional**
 
@@ -176,7 +176,7 @@ Evidence:
 
 #### 4. Ocupación de viviendas particulares
 
-Point `frente-obrero-private-home-occupation` — draft.
+Point `frente-obrero-private-home-occupation` — approved.
 
 **es — Ocupación de viviendas particulares**
 
@@ -208,7 +208,7 @@ Evidence:
 
 #### 5. Acceso de españoles autóctonos
 
-Point `frente-obrero-native-spaniards-housing` — draft.
+Point `frente-obrero-native-spaniards-housing` — approved.
 
 **es — Acceso de españoles autóctonos**
 
@@ -240,11 +240,11 @@ Evidence:
 
 ### Educación
 
-Synthesis `frente-obrero--education`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/education.json`.
+Synthesis `frente-obrero--education`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/education.json`.
 
 #### 1. Gratuidad para rentas bajas
 
-Point `frente-obrero-free-education` — draft.
+Point `frente-obrero-free-education` — approved.
 
 **es — Gratuidad para rentas bajas**
 
@@ -276,7 +276,7 @@ Evidence:
 
 #### 2. Comedor escolar gratuito
 
-Point `frente-obrero-free-school-meals` — draft.
+Point `frente-obrero-free-school-meals` — approved.
 
 **es — Comedor escolar gratuito**
 
@@ -308,7 +308,7 @@ Evidence:
 
 #### 3. Financiación de la escuela pública
 
-Point `frente-obrero-private-school-subsidies` — draft.
+Point `frente-obrero-private-school-subsidies` — approved.
 
 **es — Financiación de la escuela pública**
 
@@ -340,7 +340,7 @@ Evidence:
 
 #### 4. Prácticas remuneradas
 
-Point `frente-obrero-paid-placements` — draft.
+Point `frente-obrero-paid-placements` — approved.
 
 **es — Prácticas remuneradas**
 
@@ -372,11 +372,11 @@ Evidence:
 
 ### Sanidad
 
-Synthesis `frente-obrero--healthcare`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/healthcare.json`.
+Synthesis `frente-obrero--healthcare`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/healthcare.json`.
 
 #### 1. Sanidad pública unificada
 
-Point `frente-obrero-unified-public-healthcare` — draft.
+Point `frente-obrero-unified-public-healthcare` — approved.
 
 **es — Sanidad pública unificada**
 
@@ -408,7 +408,7 @@ Evidence:
 
 #### 2. Más atención primaria
 
-Point `frente-obrero-primary-care` — draft.
+Point `frente-obrero-primary-care` — approved.
 
 **es — Más atención primaria**
 
@@ -440,7 +440,7 @@ Evidence:
 
 #### 3. Nuevas prestaciones gratuitas
 
-Point `frente-obrero-free-dental-physio-eye-care` — draft.
+Point `frente-obrero-free-dental-physio-eye-care` — approved.
 
 **es — Nuevas prestaciones gratuitas**
 
@@ -472,7 +472,7 @@ Evidence:
 
 #### 4. Medicamentos e industria farmacéutica
 
-Point `frente-obrero-prescription-medicines` — draft.
+Point `frente-obrero-prescription-medicines` — approved.
 
 **es — Medicamentos e industria farmacéutica**
 
@@ -504,11 +504,11 @@ Evidence:
 
 ### Economía e impuestos
 
-Synthesis `frente-obrero--economy-and-taxes`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/economy-and-taxes.json`.
+Synthesis `frente-obrero--economy-and-taxes`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/economy-and-taxes.json`.
 
 #### 1. Industria y sectores estratégicos
 
-Point `frente-obrero-strategic-industries` — draft.
+Point `frente-obrero-strategic-industries` — approved.
 
 **es — Industria y sectores estratégicos**
 
@@ -540,7 +540,7 @@ Evidence:
 
 #### 2. IRPF según renta
 
-Point `frente-obrero-income-tax` — draft.
+Point `frente-obrero-income-tax` — approved.
 
 **es — IRPF según renta**
 
@@ -572,7 +572,7 @@ Evidence:
 
 #### 3. IVA de productos básicos
 
-Point `frente-obrero-essential-goods-vat` — draft.
+Point `frente-obrero-essential-goods-vat` — approved.
 
 **es — IVA de productos básicos**
 
@@ -604,7 +604,7 @@ Evidence:
 
 #### 4. Sucesiones y patrimonio
 
-Point `frente-obrero-inheritance-wealth-tax` — draft.
+Point `frente-obrero-inheritance-wealth-tax` — approved.
 
 **es — Sucesiones y patrimonio**
 
@@ -636,7 +636,7 @@ Evidence:
 
 #### 5. Tierras sin uso y parques solares
 
-Point `frente-obrero-unused-large-estate-land` — draft.
+Point `frente-obrero-unused-large-estate-land` — approved.
 
 **es — Tierras sin uso y parques solares**
 
@@ -668,11 +668,11 @@ Evidence:
 
 ### Empleo
 
-Synthesis `frente-obrero--employment`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/employment.json`.
+Synthesis `frente-obrero--employment`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/employment.json`.
 
 #### 1. Salarios y coste de la vida
 
-Point `frente-obrero-wages-living-costs` — draft.
+Point `frente-obrero-wages-living-costs` — approved.
 
 **es — Salarios y coste de la vida**
 
@@ -704,7 +704,7 @@ Evidence:
 
 #### 2. Representación desde diez trabajadores
 
-Point `frente-obrero-worker-representation` — draft.
+Point `frente-obrero-worker-representation` — approved.
 
 **es — Representación desde diez trabajadores**
 
@@ -736,7 +736,7 @@ Evidence:
 
 #### 3. Temporalidad y ETT
 
-Point `frente-obrero-temporary-work-agencies` — draft.
+Point `frente-obrero-temporary-work-agencies` — approved.
 
 **es — Temporalidad y ETT**
 
@@ -768,7 +768,7 @@ Evidence:
 
 #### 4. Cotizaciones de autónomos
 
-Point `frente-obrero-self-employed-contributions` — draft.
+Point `frente-obrero-self-employed-contributions` — approved.
 
 **es — Cotizaciones de autónomos**
 
@@ -800,11 +800,11 @@ Evidence:
 
 ### Pensiones y protección social
 
-Synthesis `frente-obrero--pensions-and-social-protection`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/pensions-and-social-protection.json`.
+Synthesis `frente-obrero--pensions-and-social-protection`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/pensions-and-social-protection.json`.
 
 #### 1. Edad de jubilación
 
-Point `frente-obrero-retirement-age` — draft.
+Point `frente-obrero-retirement-age` — approved.
 
 **es — Edad de jubilación**
 
@@ -836,7 +836,7 @@ Evidence:
 
 #### 2. Pensiones mínimas y no contributivas
 
-Point `frente-obrero-minimum-pensions` — draft.
+Point `frente-obrero-minimum-pensions` — approved.
 
 **es — Pensiones mínimas y no contributivas**
 
@@ -868,7 +868,7 @@ Evidence:
 
 #### 3. Cálculo con los mejores años
 
-Point `frente-obrero-best-contribution-years` — draft.
+Point `frente-obrero-best-contribution-years` — approved.
 
 **es — Cálculo con los mejores años**
 
@@ -900,7 +900,7 @@ Evidence:
 
 #### 4. Guarderías públicas gratuitas
 
-Point `frente-obrero-free-public-nurseries` — draft.
+Point `frente-obrero-free-public-nurseries` — approved.
 
 **es — Guarderías públicas gratuitas**
 
@@ -932,7 +932,7 @@ Evidence:
 
 #### 5. Permisos y conciliación
 
-Point `frente-obrero-parental-leave-flexibility` — draft.
+Point `frente-obrero-parental-leave-flexibility` — approved.
 
 **es — Permisos y conciliación**
 
@@ -964,11 +964,11 @@ Evidence:
 
 ### Medioambiente y energía
 
-Synthesis `frente-obrero--environment-and-energy`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/environment-and-energy.json`.
+Synthesis `frente-obrero--environment-and-energy`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/environment-and-energy.json`.
 
 #### 1. Fin de la «transición ecológica»
 
-Point `frente-obrero-end-ecological-transition` — draft.
+Point `frente-obrero-end-ecological-transition` — approved.
 
 **es — Fin de la «transición ecológica»**
 
@@ -1000,7 +1000,7 @@ Evidence:
 
 #### 2. Regulación de luz y combustibles
 
-Point `frente-obrero-energy-price-regulation` — draft.
+Point `frente-obrero-energy-price-regulation` — approved.
 
 **es — Regulación de luz y combustibles**
 
@@ -1032,7 +1032,7 @@ Evidence:
 
 #### 3. Nuclear con renovables complementarias
 
-Point `frente-obrero-nuclear-and-renewables` — draft.
+Point `frente-obrero-nuclear-and-renewables` — approved.
 
 **es — Nuclear con renovables complementarias**
 
@@ -1064,7 +1064,7 @@ Evidence:
 
 #### 4. Biodiversidad y especies amenazadas
 
-Point `frente-obrero-biodiversity-recovery` — draft.
+Point `frente-obrero-biodiversity-recovery` — approved.
 
 **es — Biodiversidad y especies amenazadas**
 
@@ -1096,11 +1096,11 @@ Evidence:
 
 ### Instituciones y derechos
 
-Synthesis `frente-obrero--institutions-and-rights`, revision 1, pending. Editorial path: `content/editorial/syntheses/frente-obrero/institutions-and-rights.json`.
+Synthesis `frente-obrero--institutions-and-rights`, revision 2, partial. Editorial path: `content/editorial/syntheses/frente-obrero/institutions-and-rights.json`.
 
 #### 1. Salida de la UE y la OTAN
 
-Point `frente-obrero-eu-nato-withdrawal` — draft.
+Point `frente-obrero-eu-nato-withdrawal` — approved.
 
 **es — Salida de la UE y la OTAN**
 
@@ -1132,7 +1132,7 @@ Evidence:
 
 #### 2. Discriminación positiva y cupos
 
-Point `frente-obrero-positive-discrimination-quotas` — draft.
+Point `frente-obrero-positive-discrimination-quotas` — approved.
 
 **es — Discriminación positiva y cupos**
 
@@ -1164,7 +1164,7 @@ Evidence:
 
 #### 3. Derogación de la Ley Trans
 
-Point `frente-obrero-trans-law-repeal` — draft.
+Point `frente-obrero-trans-law-repeal` — approved.
 
 **es — Derogación de la Ley Trans**
 
@@ -1196,7 +1196,7 @@ Evidence:
 
 #### 4. Supresión del Ministerio de Igualdad
 
-Point `frente-obrero-equality-ministry` — draft.
+Point `frente-obrero-equality-ministry` — approved.
 
 **es — Supresión del Ministerio de Igualdad**
 
@@ -1228,7 +1228,7 @@ Evidence:
 
 #### 5. Expulsiones y regularización
 
-Point `frente-obrero-immigration-expulsions` — draft.
+Point `frente-obrero-immigration-expulsions` — approved.
 
 **es — Expulsiones y regularización**
 
@@ -1261,7 +1261,7 @@ Evidence:
 
 #### 6. Nacionalidad y revisión de concesiones
 
-Point `frente-obrero-nationality-review` — draft.
+Point `frente-obrero-nationality-review` — approved.
 
 **es — Nacionalidad y revisión de concesiones**
 
@@ -1294,7 +1294,7 @@ Evidence:
 
 #### 7. Competencias y régimen fiscal autonómicos
 
-Point `frente-obrero-regional-powers` — draft.
+Point `frente-obrero-regional-powers` — approved.
 
 **es — Competencias y régimen fiscal autonómicos**
 
@@ -1326,7 +1326,7 @@ Evidence:
 
 #### 8. Plataformas y medios públicos
 
-Point `frente-obrero-platforms-public-media` — draft.
+Point `frente-obrero-platforms-public-media` — approved.
 
 **es — Plataformas y medios públicos**
 
@@ -1358,7 +1358,7 @@ Evidence:
 
 #### 9. Medidas sobre el islam
 
-Point `frente-obrero-islam-related-measures` — draft.
+Point `frente-obrero-islam-related-measures` — approved.
 
 **es — Medidas sobre el islam**
 
@@ -1391,7 +1391,7 @@ Evidence:
 
 #### 10. Proceso constituyente y república
 
-Point `frente-obrero-constituent-process-republic` — draft.
+Point `frente-obrero-constituent-process-republic` — approved.
 
 **es — Proceso constituyente y república**
 
@@ -1442,4 +1442,23 @@ Initial research outcome: 41 proposed points in six languages across eight pendi
 
 ## Git publication authorisation
 
-On 21 November 2026, after receiving the exact Castilian proposals, the complete six-language review and the verification results, the maintainer explicitly requested commit and push of the prepared batch. This authorises publishing the research, source, draft editorial records, catalogue addition and pending generated output on `master`. The batch retains all 41 points as `draft`; it does not resolve the recorded editorial questions or promote the multilingual proposals to approved public content. No additional publication confirmation is required for this unchanged batch. Remote CI and deployment remain unverified.
+The first Git publication on 21 November 2026 retained the batch as drafts because Builder interpreted the commit-and-push request as research-only publication. The maintainer explicitly corrected that interpretation: requesting commit and push approves the presented synthesis. The maintainer then instructed Builder to mark it approved, prepare it for production, and commit and push the result. This clarification supersedes the earlier draft-only interpretation and authorises the unchanged complete six-language batch without further confirmation.
+
+Approval recorded at `2026-11-21T01:10:09Z` covers all 41 points, their translations, the disclosed education-income interpretation and the retention of undefined source terms without invented definitions. The record preserves those evidential ambiguities and the political-programme/current-campaign-adoption caveat; acceptance does not establish factual truth, legal feasibility, exhaustive coverage or certified fluency.
+
+The eight syntheses change from pending revision 1 to partial revision 2. All point statuses change from `draft` to `approved`. The deterministic public projection now exposes 41 Frente Obrero points and its preserved source, while retaining all 183 previously public points unchanged, for a total of 224. Programme prose, source bytes, extraction, citations, IDs and ordering remain unchanged. Production readiness here means approved content and a verified production build; a Git push does not prove remote CI or deployment.
+
+Concurrent working-tree changes to provincial programme identity resolution and related documentation are outside this approval commit. They are preserved separately; this publication does not silently stage or publish them. Verification is performed against an isolated copy of the committed application plus this approval batch. The province-link limitation recorded during research remains outside this editorial change.
+
+## Approval publication checks
+
+Verification used an isolated export of the committed application at `9565d9b` plus only this approval batch, with Node 24.22.3 and npm 10.8.2. Dependencies were copied locally; no app server or deployment setting was started or changed. Initial environment selection and sandbox loader-port failures were corrected in the isolated copy; the final checks below passed under the required toolchain.
+
+- Regenerated and checked all programme JSON with the existing deterministic generator. All 41 Frente Obrero points are public in six languages; the total public count is 224.
+- Compared every point with the accepted draft: titles, bodies, citations, IDs and order are identical. Only point approval and synthesis revision/review metadata changed. All 183 other public points and existing syntheses are unchanged. Source originals and extraction hashes are unchanged.
+- `npm run check` passed: tooling/app types, lint, formatting, documentation, generated content, provincial baseline and bounded source screening.
+- All 129 deterministic tests passed.
+- `npm run build` passed after clearing the isolated failed cache and allowing Turbopack's internal loader communication. The production HTML checker verified 390 portal pages.
+- Final staging includes only this approval batch and the documented publication convention. The independent provincial identity work and its related files and documentation hunks remain outside the commit.
+
+The approved batch is ready for production publication. Commit and push are authorised; no further editorial confirmation is needed for these unchanged six-language points. Remote CI and actual production deployment remain unverified.

@@ -2,9 +2,9 @@
   "id": "frente-obrero--environment-and-energy",
   "partyId": "frente-obrero",
   "topicId": "environment-and-energy",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Meter fin ara nomentada «transicion ecologica», qu'eth programa restaque ath desmantelament productiu e as restriccions dera Union Europèa.",
         "en": "End the so-called «ecological transition», which the programme links to dismantling productive capacity and European Union restrictions."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Regular immediatament era factura dera lum e des combustibles.",
         "en": "Immediately regulate electricity and fuel bills."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Ampliar e modernizar eth parc nuclear, meter en marcha plantes e explotar er urani nacionau; sostier es renovables coma complement e invertir ena sua recèrca e desvolopament.",
         "en": "Expand and modernise the nuclear fleet, bring plants into operation and exploit domestic uranium; support renewables as a complement and invest in their research and development."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Elaborar plans entà recuperar era biodiversitat e eth patrimòni naturau, protegir espècies en perilh e previer e redusir er impacte des invasores.",
         "en": "Prepare plans to restore biodiversity and natural heritage, protect endangered species and prevent and reduce invasive species' impact."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",

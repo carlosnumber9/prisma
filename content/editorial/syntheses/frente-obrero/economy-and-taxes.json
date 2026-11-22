@@ -2,9 +2,9 @@
   "id": "frente-obrero--economy-and-taxes",
   "partyId": "frente-obrero",
   "topicId": "economy-and-taxes",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Reindustrializar Espanha priorizant es indústries estrategiques e es recorsi nacionaus, damb ua estrategia independenta de Brussèlles, e nacionalizar es sectors estrategics dera economia.",
         "en": "Reindustrialise Spain, prioritising strategic industries and national resources, with a strategy independent of Brussels, and nationalise strategic sectors of the economy."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Redusir er impòst sus era renda as trabalhadors damb mens recorsi e aumentar-lo entàs rendes mès nautes, ampliant es trams e pujant es tipes.",
         "en": "Reduce income tax for workers with fewer resources and increase it for the highest incomes by expanding bands and raising rates."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Redusir era carga der IVA e incorporar progressivament totes es mercaderies de prumèra necessitat ath tipe superredusit.",
         "en": "Reduce the VAT burden and gradually include all essential goods in the super-reduced rate."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Centralizar es impòsti de successions e patrimòni, suprimir es bonificacions que beneficien sustot es mès rics e eliminar successions entàs rendes baishes.",
         "en": "Centralise inheritance and wealth taxes, remove reliefs mainly benefiting the richest, and abolish inheritance tax for low incomes."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -133,7 +133,7 @@
         "oc": "Expropriar tèrres sense usatge de grani terratinents e repartir-les entre agricultors e cooperatives entar aprofitament collectiu; proïbir era construccion de parcs solars en tèrres aptes entath cultiu.",
         "en": "Expropriate large landowners' unused land and distribute it among farmers and cooperatives for collective use; ban construction of solar farms on land suitable for cultivation."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",

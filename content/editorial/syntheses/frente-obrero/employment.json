@@ -2,9 +2,9 @@
   "id": "frente-obrero--employment",
   "partyId": "frente-obrero",
   "topicId": "employment",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Aumentar es salaris de forma generau en relacion damb eth còst dera vida.",
         "en": "Raise wages generally in relation to the cost of living."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Implantar representacion obligatòria des trabalhadors en totes es empreses damb dètz trabalhadors o mès, sense excepcions, entà enfortir era negociacion collectiva.",
         "en": "Require worker representation in every company with ten or more workers, without exceptions, to strengthen collective bargaining."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Restrénher es condicions que permeten contractes temporaus o fixes discontinus e proïbir es empreses de trabalh temporau.",
         "en": "Restrict the conditions permitting temporary or permanent intermittent contracts and ban temporary employment agencies."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Eliminar era quòta des autonòms que non arriben ath SMI, redusir es quòtes, establir ua bonificacion totau per baisha e garantir era sua jubilacion.",
         "en": "Abolish contributions for self-employed people below the SMI minimum wage, reduce contributions, introduce full relief during leave and guarantee retirement."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",

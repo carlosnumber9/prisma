@@ -6,6 +6,8 @@ Read this document before **every commit and push**. Repository rules override g
 
 Work in small, reviewable changes. Inspect the existing implementation and Git status before editing. Preserve unrelated and pre-existing edits, and include them only with explicit scope authorisation. A final agreed editorial batch authorises its commit and push when publication is the agreed outcome; do not request a second routine confirmation for that same batch. Explicit publication holds take precedence.
 
+When a programme synthesis and its six-language review and verification have been presented, the maintainer's request to commit and push that synthesis approves the presented multilingual batch and its publication. Apply the approval state and regenerate public JSON before committing; do not retain draft status or request approval again for that unchanged batch. Preserve documented source and coverage limits. An explicit request to publish only research or drafts keeps that narrower scope.
+
 Ordinary commit, push, publish or upload requests mean: stage intended files, commit on `master`, and push to `origin/master`. They do not authorise creating a branch, fork, PR, merge commit, release tag or deployment configuration change. Create one of those only when explicitly requested. Never force-push `master`.
 
 ## Tools and transport

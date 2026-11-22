@@ -2,9 +2,9 @@
   "id": "frente-obrero--pensions-and-social-protection",
   "partyId": "frente-obrero",
   "topicId": "pensions-and-social-protection",
-  "revision": 1,
-  "reviewStatus": "pending",
-  "reviewedAt": null,
+  "revision": 2,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-21T01:10:09Z",
   "sourceIds": ["frente-obrero-2026-7b9f423f2c1a"],
   "points": [
     {
@@ -25,7 +25,7 @@
         "oc": "Revertir er increment dera edat de jubilacion e establir ua edat de retirada adequada ath pòst exercit.",
         "en": "Reverse the increase in retirement age and set a retirement age appropriate to the job performed."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -52,7 +52,7 @@
         "oc": "Aumentar es pensions minimes e non contributives entà assegurar recorsi sufisents a toti es pensionistes.",
         "en": "Increase minimum and non-contributory pensions to ensure sufficient resources for all pensioners."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -79,7 +79,7 @@
         "oc": "Calcular era pension damb era mejana des milhors ans cotizats, evitant penalizar es acomiadaments o salaris mès baishi ara fin dera vida laborau.",
         "en": "Calculate pensions using the average of the best contribution years, avoiding penalties for dismissal or lower wages towards the end of working life."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -106,7 +106,7 @@
         "oc": "Bastir escòles mairaus e jardins d'enfància publics e gratuïts entà compatibilizar trabalh e maternitat.",
         "en": "Build free public nurseries and kindergartens to make work and motherhood compatible."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
@@ -133,7 +133,7 @@
         "oc": "Alargar es baishes per paternitat e maternitat e obligar es empreses a auferir flexibilitat parciau en teletrabalh, reduccion de jornada e oraris entà suenhar es hilhs.",
         "en": "Extend paternity and maternity leave and require companies to offer partial flexibility in remote work, reduced hours and schedules for childcare."
       },
-      "status": "draft",
+      "status": "approved",
       "citations": [
         {
           "sourceId": "frente-obrero-2026-7b9f423f2c1a",
