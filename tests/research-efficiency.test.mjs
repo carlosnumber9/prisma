@@ -47,6 +47,46 @@ const metric = () => ({
   qualityErrors: 0,
 });
 
+test('task packets accept the bounded discovery role and reject unrecognised roles', () => {
+  for (const agent of [
+    'prisma-discovery',
+    'prisma-research',
+    'prisma-synthesis',
+    'prisma-qa',
+  ]) {
+    const packet = prepareTask({
+      ...task(),
+      agent,
+      maxSearchQueries: 3,
+      maxSourceOpens: 4,
+    });
+    assert.equal(packet.agent, agent);
+    assert.equal(packet.maxSearchQueries, 3);
+    assert.equal(packet.maxSourceOpens, 4);
+  }
+  for (const agent of ['discovery', 'prisma-coordinator', '', null])
+    assert.throws(
+      () => prepareTask({ ...task(), agent }),
+      /Unknown research agent/,
+    );
+});
+
+test('offline handoffs permit zero web work and reject invalid budgets', () => {
+  const packet = prepareTask({
+    ...task(),
+    maxSearchQueries: 0,
+    maxSourceOpens: 0,
+  });
+  assert.equal(packet.maxSearchQueries, 0);
+  assert.equal(packet.maxSourceOpens, 0);
+  for (const key of ['maxSearchQueries', 'maxSourceOpens'])
+    for (const value of [-1, 0.5, 51, '0'])
+      assert.throws(
+        () => prepareTask({ ...task(), [key]: value }),
+        new RegExp(`Invalid ${key}`),
+      );
+});
+
 test('task packets reject history and oversized handoffs, fixing electoral scope', () => {
   const packet = prepareTask(task());
   assert.throws(

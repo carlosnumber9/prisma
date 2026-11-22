@@ -5,7 +5,12 @@ import { pathToFileURL } from 'node:url';
 
 const hash = (bytes) => createHash('sha256').update(bytes).digest('hex');
 const digest = /^[a-f0-9]{64}$/;
-const roles = ['prisma-research', 'prisma-synthesis', 'prisma-qa'];
+const roles = [
+  'prisma-discovery',
+  'prisma-research',
+  'prisma-synthesis',
+  'prisma-qa',
+];
 function requireValue(condition, message) {
   if (!condition) throw new Error(message);
 }
@@ -67,7 +72,7 @@ export function prepareTask(input) {
   ]) {
     const value = input[key] ?? fallback;
     requireValue(
-      Number.isSafeInteger(value) && value > 0 && value <= 50,
+      Number.isSafeInteger(value) && value >= 0 && value <= 50,
       `Invalid ${key}`,
     );
     limits[key] = value;

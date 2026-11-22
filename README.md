@@ -32,6 +32,8 @@ npm run build
 
 Follow the [editorial policy](docs/editorial-policy.md), [programme contract](docs/content-contract.md), [catalogue provenance](docs/catalogue-provenance.md) and [scoped research workflow](docs/research-factory.md). Keep unapproved work, complete originals and investigation reports outside Git. Retain only cited programme excerpts and the minimal provenance needed to maintain displayed content; schema 4 omits literal quotes from the app projection. No person records, full candidate lists or historical political research archives belong in the repository.
 
+The research workflow includes bounded Luna/medium source discovery, separate Research, Synthesis and independent QA profiles, and offline task/cache/metrics helpers. Query limits require coordinator tracking; token savings and Standard speed are not established by these profiles. See the [efficiency protocol](docs/research-efficiency.md).
+
 ```sh
 npm run content:generate
 npm run content:check
