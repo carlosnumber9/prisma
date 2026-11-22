@@ -3,6 +3,28 @@
   "electionDate": "2026-11-29",
   "sources": [
     {
+      "id": "adelante-andalucia-2026-9edf2c74216c",
+      "partyId": "adelante-andalucia",
+      "electionDate": "2026-11-29",
+      "title": "Programa completo · Elecciones Generales 29 · 11 · 2026",
+      "url": "https://programa.adelanteandalucia.org/programa-29n-adelante-andalucia.pdf",
+      "format": "pdf",
+      "capturedAt": "2026-11-22T11:37:14.089Z",
+      "sha256": "9edf2c74216c3d68319355de782e979307f2bad8b545ea3cffb53c2113065494",
+      "pageCount": 134
+    },
+    {
+      "id": "bng-2026-59135bc98292",
+      "partyId": "bng",
+      "electionDate": "2026-11-29",
+      "title": "Programa electoral do BNG · Xerais 29N 2026",
+      "url": "https://xerais2026.bng.gal/wp-content/uploads/2026/11/bng-xerais-2026-programa-electoral.pdf",
+      "format": "pdf",
+      "capturedAt": "2026-11-22T11:39:17Z",
+      "sha256": "59135bc98292c5e256380c4cf5c203d4406f5dc61354d6928b950c01d1c5d0b6",
+      "pageCount": 94
+    },
+    {
       "id": "comuns-front-ampli-2026-593f518765ab",
       "partyId": "comuns-front-ampli",
       "electionDate": "2026-11-29",
@@ -23,6 +45,27 @@
       "capturedAt": "2026-11-22T11:19:08.320Z",
       "sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314",
       "pageCount": 43
+    },
+    {
+      "id": "escanos-en-blanco-2026-b174ec60857e",
+      "partyId": "escanos-en-blanco",
+      "electionDate": "2026-11-29",
+      "title": "Programa electoral de Escaños en Blanco",
+      "url": "https://escanos.org/conocenos/programa-electoral-de-escanos-en-blanco/",
+      "format": "html",
+      "capturedAt": "2026-11-22T11:37:10.556Z",
+      "sha256": "b174ec60857ec1d7682e750c48cba5e511bbc76acd7b029313ae1a07f439ffd5"
+    },
+    {
+      "id": "falange-espanola-de-las-jons-2026-46edb0c2db12",
+      "partyId": "falange-espanola-de-las-jons",
+      "electionDate": "2026-11-29",
+      "title": "Programa electoral · Elecciones Generales 2026 · 29N",
+      "url": "https://falange.es/wp-content/uploads/2026/11/FEDELASJONS_ProgramaElectoral_29NGenerales2026.pdf",
+      "format": "pdf",
+      "capturedAt": "2026-11-22T11:37:12.864Z",
+      "sha256": "46edb0c2db121b8da6a05b9adb65b990086e5e4173fef7bd1b39d1d3757a1026",
+      "pageCount": 60
     },
     {
       "id": "frente-amplio-2026-df6e4d967a3a",
@@ -47,6 +90,17 @@
       "pageCount": 64
     },
     {
+      "id": "partido-autonomos-2026-2df2537bd762",
+      "partyId": "partido-autonomos",
+      "electionDate": "2026-11-29",
+      "title": "Programa político 2026 · Elecciones Generales 29N",
+      "url": "https://www.partidoautonomos.es/wp-content/uploads/2026/11/PARTIDO-AUTONOMOS-PROGRAMA-ELECCIONES-GENERALES-2026-29N.pdf",
+      "format": "pdf",
+      "capturedAt": "2026-11-22T11:39:17Z",
+      "sha256": "2df2537bd762f280c139a0d9b28c77de713d2dcadaf89d1bef6bb75277e7975f",
+      "pageCount": 15
+    },
+    {
       "id": "podemos-2026-086211fb272f",
       "partyId": "podemos",
       "electionDate": "2026-11-29",
@@ -56,6 +110,17 @@
       "capturedAt": "2026-11-18T10:13:17Z",
       "sha256": "086211fb272f0eeceddfa630796e58e5f4910e81efb0385a43b563a2e3f097fb",
       "pageCount": 141
+    },
+    {
+      "id": "por-un-mundo-mas-justo-2026-a3c7c807411d",
+      "partyId": "por-un-mundo-mas-justo",
+      "electionDate": "2026-11-29",
+      "title": "M+J Programa electoral · Elecciones Generales 29N 2026",
+      "url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf",
+      "format": "pdf",
+      "capturedAt": "2026-11-22T11:37:09.668Z",
+      "sha256": "a3c7c807411d8565b310a9b566c6fa2cbe643e99c91f3f9f4e7d8712d949c613",
+      "pageCount": 95
     },
     {
       "id": "pp-2026-cea8f2a05227",

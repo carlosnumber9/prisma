@@ -1,0 +1,38 @@
+{
+  "id": "bng--housing",
+  "partyId": "bng",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:45:02.511Z",
+  "sourceIds": ["bng-2026-59135bc98292"],
+  "points": [
+    {
+      "id": "bng-housing-public-rental-budget",
+      "title": {
+        "es": "Presupuesto estatal para alquiler público",
+        "ca": "Pressupost estatal per al lloguer públic",
+        "gl": "Orzamento estatal para alugueiro público",
+        "eu": "Estatuko aurrekontua alokairu publikorako",
+        "oc": "Pressupòst estatau entath loguèr public",
+        "en": "State funding for public rental housing"
+      },
+      "text": {
+        "es": "Destinar el 3% de los Presupuestos Generales del Estado, mediante el Plan estatal de vivienda, a crear un parque público de alquiler permanente.",
+        "ca": "Destinar el 3% dels pressupostos generals de l'Estat, mitjançant el Pla estatal d'habitatge, a crear un parc públic de lloguer permanent.",
+        "gl": "Destinar o 3% dos Orzamentos Xerais do Estado, mediante o Plan estatal de vivenda, a crear un parque público de alugueiro permanente.",
+        "eu": "Estatuko Aurrekontu Orokorren %3 bideratzea, Estatuko Etxebizitza Planaren bidez, alokairu publikoko etxebizitza-parke iraunkorra sortzera.",
+        "oc": "Destinar eth 3% des pressupòsti generaus der Estat, mejançant eth Plan estatau d'abitatge, a crear un parc public de loguèr permanent.",
+        "en": "Allocate 3% of the General State Budget, through the State Housing Plan, to create a permanent public rental housing stock."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "bng-2026-59135bc98292",
+          "segmentId": "page-12",
+          "quote": "Destinar o 3% dos Orzamentos Xerais do Estado para financiar mediante o Plan estatal de vivenda a creación dun parque público de alugueiro permanente."
+        }
+      ]
+    }
+  ]
+}

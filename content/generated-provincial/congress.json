@@ -8,8 +8,8 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-euskal-herria-bildu-eh-bildu",
@@ -53,8 +53,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -93,8 +93,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -148,8 +148,8 @@
         },
         {
           "id": "formation-partido-autonomos-partido-autonomos",
-          "label": "PARTIDO AUTÓNOMOS",
-          "programmeId": null
+          "label": "Partido Autónomos",
+          "programmeId": "partido-autonomos"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -183,13 +183,13 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -208,8 +208,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -263,8 +263,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -313,8 +313,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -463,8 +463,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -553,8 +553,8 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-frente-amplio-andaluz-fa",
@@ -578,8 +578,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -618,8 +618,8 @@
         },
         {
           "id": "formation-falange-espanola-de-las-jons-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -633,8 +633,8 @@
         },
         {
           "id": "formation-partido-autonomos-partido-autonomos",
-          "label": "PARTIDO AUTÓNOMOS",
-          "programmeId": null
+          "label": "Partido Autónomos",
+          "programmeId": "partido-autonomos"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -703,18 +703,18 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-falange-espanola-de-las-jons-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-amplio-andaluz-fa",
@@ -768,8 +768,8 @@
       "parties": [
         {
           "id": "formation-bloque-nacionalista-galego-b-n-g",
-          "label": "B.N.G.",
-          "programmeId": null
+          "label": "BNG",
+          "programmeId": "bng"
         },
         {
           "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
@@ -833,8 +833,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -928,8 +928,8 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-frente-amplio-andaluz-fa",
@@ -953,8 +953,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -988,8 +988,8 @@
       "parties": [
         {
           "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1003,8 +1003,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1043,8 +1043,8 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-euskadiko-langileen-alderdi-komunista-partido-comunista-de-los-trabajadores-de-euskadi-elak-pcte",
@@ -1103,8 +1103,8 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-frente-amplio-andaluz-fa",
@@ -1183,8 +1183,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1218,8 +1218,8 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1238,8 +1238,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1278,8 +1278,8 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1398,8 +1398,8 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1454,7 +1454,7 @@
         {
           "id": "formation-bloque-nacionalista-galego-bng",
           "label": "BNG",
-          "programmeId": null
+          "programmeId": "bng"
         },
         {
           "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
@@ -1503,8 +1503,8 @@
         },
         {
           "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1533,8 +1533,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1573,8 +1573,8 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-alternativa-malaguena-29",
@@ -1633,8 +1633,8 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1728,8 +1728,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1759,7 +1759,7 @@
         {
           "id": "formation-bloque-nacionalista-galego-bng",
           "label": "BNG",
-          "programmeId": null
+          "programmeId": "bng"
         },
         {
           "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
@@ -1783,8 +1783,8 @@
         },
         {
           "id": "formation-por-un-mundo-mais-xusto-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1838,8 +1838,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1873,13 +1873,13 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1893,8 +1893,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -1933,8 +1933,8 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -1973,8 +1973,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2009,12 +2009,12 @@
         {
           "id": "formation-bloque-nacionalista-galego-bng",
           "label": "BNG",
-          "programmeId": null
+          "programmeId": "bng"
         },
         {
           "id": "formation-escanos-en-branco-para-deixar-escanos-baleiros-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-frente-amplio-fronte-ampla-frente-amplio-fronte-ampla",
@@ -2133,8 +2133,8 @@
         },
         {
           "id": "formation-partido-autonomos-partido-autonomos",
-          "label": "PARTIDO AUTÓNOMOS",
-          "programmeId": null
+          "label": "Partido Autónomos",
+          "programmeId": "partido-autonomos"
         },
         {
           "id": "formation-partido-comunista-de-los-trabajadores-de-espana-pcte",
@@ -2233,8 +2233,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2273,8 +2273,8 @@
       "parties": [
         {
           "id": "formation-adelante-andalucia-adelante-andalucia",
-          "label": "ADELANTE ANDALUCÍA",
-          "programmeId": null
+          "label": "Adelante Andalucía",
+          "programmeId": "adelante-andalucia"
         },
         {
           "id": "formation-frente-amplio-andaluz-fa",
@@ -2298,8 +2298,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2333,8 +2333,8 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -2348,8 +2348,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2443,8 +2443,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2463,8 +2463,8 @@
       "parties": [
         {
           "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -2518,8 +2518,8 @@
       "parties": [
         {
           "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -2578,8 +2578,8 @@
         },
         {
           "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -2598,8 +2598,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-renacer-renaixer-rrb",
@@ -2638,13 +2638,13 @@
       "parties": [
         {
           "id": "formation-escanos-en-blanco-para-dejar-escanos-vacios-escanos-en-blanco",
-          "label": "ESCAÑOS EN BLANCO",
-          "programmeId": null
+          "label": "Escaños en Blanco",
+          "programmeId": "escanos-en-blanco"
         },
         {
           "id": "formation-falange-espanola-de-las-j-o-n-s-fe-de-las-jons",
-          "label": "FE de las JONS",
-          "programmeId": null
+          "label": "Falange Española de las JONS",
+          "programmeId": "falange-espanola-de-las-jons"
         },
         {
           "id": "formation-frente-obrero-fo",
@@ -2668,8 +2668,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",
@@ -2738,8 +2738,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "frente-amplio",
@@ -2838,8 +2838,8 @@
         },
         {
           "id": "formation-por-un-mundo-mas-justo-mundo-justo",
-          "label": "MUNDO+JUSTO",
-          "programmeId": null
+          "label": "Por un Mundo Más Justo",
+          "programmeId": "por-un-mundo-mas-justo"
         },
         {
           "id": "formation-se-acabo-la-fiesta-salf",

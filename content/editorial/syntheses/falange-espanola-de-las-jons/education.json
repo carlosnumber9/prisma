@@ -1,0 +1,39 @@
+{
+  "id": "falange-espanola-de-las-jons--education",
+  "partyId": "falange-espanola-de-las-jons",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:45:02.511Z",
+  "sourceIds": ["falange-espanola-de-las-jons-2026-46edb0c2db12"],
+  "points": [
+    {
+      "id": "falange-espanola-de-las-jons-education-primary-diagnostic-tests",
+      "title": {
+        "es": "Pruebas diagnósticas en primaria",
+        "ca": "Proves diagnòstiques a primària",
+        "gl": "Probas diagnósticas en primaria",
+        "eu": "Diagnostiko-probak Lehen Hezkuntzan",
+        "oc": "Pròves diagnostiques en primària",
+        "en": "Diagnostic tests in primary education"
+      },
+      "text": {
+        "es": "Realizar pruebas diagnósticas en 2.º, 4.º y 6.º de primaria en competencias como matemáticas y lengua, con refuerzo para quienes no alcancen los mínimos exigidos.",
+        "ca": "Fer proves diagnòstiques a 2n, 4t i 6è de primària en competències com matemàtiques i llengua, amb reforç per a qui no assoleixi els mínims exigits.",
+        "gl": "Realizar probas diagnósticas en 2.º, 4.º e 6.º de primaria en competencias como matemáticas e lingua, con reforzo para quen non acade os mínimos esixidos.",
+        "eu": "Lehen Hezkuntzako 2., 4. eta 6. mailetan diagnostiko-probak egitea, matematika eta hizkuntza bezalako gaitasunetan, eskatutako gutxieneko mailak lortzen ez dituzten ikasleei laguntza osagarria emanez.",
+        "oc": "Hèr pròves diagnostiques en 2au, 4au e 6au de primària en competéncies coma matematiques e lengua, damb refòrç entàs escolans que non artenhen es minims exigits.",
+        "en": "Conduct diagnostic tests in primary years 2, 4 and 6 in skills such as mathematics and language, supporting pupils below the required minimum levels."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "falange-espanola-de-las-jons-2026-46edb0c2db12",
+          "segmentId": "page-46",
+          "quote": "Pruebas diagnósticas de evaluación de nivel en 2º , 4º y 6º de primaria en competencias como matemáticas y lengua, dando refuerzo a aquellos alumnos que no alcancen los niveles mínimos exigidos, todo ello con objeto de que promocionen a la ESO con los conocimientos adecuados."
+        }
+      ],
+      "internalNotes": "These are diagnostic primary-school assessments with reinforcement, not the separate final examination proposed elsewhere in the programme. Physical page 46 is printed page 44."
+    }
+  ]
+}

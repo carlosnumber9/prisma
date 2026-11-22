@@ -3,6 +3,242 @@
   "electionDate": "2026-11-29",
   "syntheses": [
     {
+      "id": "adelante-andalucia--economy-and-taxes",
+      "partyId": "adelante-andalucia",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/adelante-andalucia/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "adelante-andalucia--education",
+      "partyId": "adelante-andalucia",
+      "topicId": "education",
+      "path": "/parties/adelante-andalucia/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "adelante-andalucia--employment",
+      "partyId": "adelante-andalucia",
+      "topicId": "employment",
+      "path": "/parties/adelante-andalucia/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "adelante-andalucia--environment-and-energy",
+      "partyId": "adelante-andalucia",
+      "topicId": "environment-and-energy",
+      "path": "/parties/adelante-andalucia/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "adelante-andalucia--healthcare",
+      "partyId": "adelante-andalucia",
+      "topicId": "healthcare",
+      "path": "/parties/adelante-andalucia/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "adelante-andalucia--housing",
+      "partyId": "adelante-andalucia",
+      "topicId": "housing",
+      "path": "/parties/adelante-andalucia/housing",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:45:02.511Z",
+      "sourceIds": [
+        "adelante-andalucia-2026-9edf2c74216c"
+      ],
+      "points": [
+        {
+          "id": "adelante-andalucia-housing-protected-development-social-rent",
+          "title": {
+            "es": "Vivienda protegida en cada promoción",
+            "ca": "Habitatge protegit en cada promoció",
+            "gl": "Vivenda protexida en cada promoción",
+            "eu": "Etxebizitza babestuak sustapen bakoitzean",
+            "oc": "Abitatge protegit en cada promocion",
+            "en": "Protected housing in every development"
+          },
+          "text": {
+            "es": "Destinar al menos el 50% de cada nueva promoción a vivienda protegida y el 60% de esa parte protegida a alquiler social.",
+            "ca": "Destinar almenys el 50% de cada nova promoció a habitatge protegit i el 60% d'aquesta part protegida a lloguer social.",
+            "gl": "Destinar polo menos o 50% de cada nova promoción a vivenda protexida e o 60% desa parte protexida a alugueiro social.",
+            "eu": "Etxebizitza-sustapen berri bakoitzaren gutxienez %50 etxebizitza babestuetara bideratzea, eta zati babestu horren %60 alokairu sozialera.",
+            "oc": "Destinar aumens eth 50% de cada naua promocion a abitatge protegit e eth 60% d'aquera part protegida a loguèr sociau.",
+            "en": "Allocate at least 50% of every new housing development to protected housing, with 60% of that protected portion for social rent."
+          },
+          "citations": [
+            {
+              "sourceId": "adelante-andalucia-2026-9edf2c74216c",
+              "segmentId": "page-50",
+              "page": 50,
+              "printedPage": "50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adelante-andalucia--institutions-and-rights",
+      "partyId": "adelante-andalucia",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/adelante-andalucia/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "adelante-andalucia--pensions-and-social-protection",
+      "partyId": "adelante-andalucia",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/adelante-andalucia/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "bng--economy-and-taxes",
+      "partyId": "bng",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/bng/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "bng--education",
+      "partyId": "bng",
+      "topicId": "education",
+      "path": "/parties/bng/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "bng--employment",
+      "partyId": "bng",
+      "topicId": "employment",
+      "path": "/parties/bng/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "bng--environment-and-energy",
+      "partyId": "bng",
+      "topicId": "environment-and-energy",
+      "path": "/parties/bng/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "bng--healthcare",
+      "partyId": "bng",
+      "topicId": "healthcare",
+      "path": "/parties/bng/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "bng--housing",
+      "partyId": "bng",
+      "topicId": "housing",
+      "path": "/parties/bng/housing",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:45:02.511Z",
+      "sourceIds": [
+        "bng-2026-59135bc98292"
+      ],
+      "points": [
+        {
+          "id": "bng-housing-public-rental-budget",
+          "title": {
+            "es": "Presupuesto estatal para alquiler público",
+            "ca": "Pressupost estatal per al lloguer públic",
+            "gl": "Orzamento estatal para alugueiro público",
+            "eu": "Estatuko aurrekontua alokairu publikorako",
+            "oc": "Pressupòst estatau entath loguèr public",
+            "en": "State funding for public rental housing"
+          },
+          "text": {
+            "es": "Destinar el 3% de los Presupuestos Generales del Estado, mediante el Plan estatal de vivienda, a crear un parque público de alquiler permanente.",
+            "ca": "Destinar el 3% dels pressupostos generals de l'Estat, mitjançant el Pla estatal d'habitatge, a crear un parc públic de lloguer permanent.",
+            "gl": "Destinar o 3% dos Orzamentos Xerais do Estado, mediante o Plan estatal de vivenda, a crear un parque público de alugueiro permanente.",
+            "eu": "Estatuko Aurrekontu Orokorren %3 bideratzea, Estatuko Etxebizitza Planaren bidez, alokairu publikoko etxebizitza-parke iraunkorra sortzera.",
+            "oc": "Destinar eth 3% des pressupòsti generaus der Estat, mejançant eth Plan estatau d'abitatge, a crear un parc public de loguèr permanent.",
+            "en": "Allocate 3% of the General State Budget, through the State Housing Plan, to create a permanent public rental housing stock."
+          },
+          "citations": [
+            {
+              "sourceId": "bng-2026-59135bc98292",
+              "segmentId": "page-12",
+              "page": 12,
+              "printedPage": "12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bng--institutions-and-rights",
+      "partyId": "bng",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/bng/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "bng--pensions-and-social-protection",
+      "partyId": "bng",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/bng/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
       "id": "comuns-front-ampli--economy-and-taxes",
       "partyId": "comuns-front-ampli",
       "topicId": "economy-and-taxes",
@@ -232,6 +468,241 @@
       "partyId": "eaj-pnv",
       "topicId": "pensions-and-social-protection",
       "path": "/parties/eaj-pnv/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "escanos-en-blanco--economy-and-taxes",
+      "partyId": "escanos-en-blanco",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/escanos-en-blanco/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "escanos-en-blanco--education",
+      "partyId": "escanos-en-blanco",
+      "topicId": "education",
+      "path": "/parties/escanos-en-blanco/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "escanos-en-blanco--employment",
+      "partyId": "escanos-en-blanco",
+      "topicId": "employment",
+      "path": "/parties/escanos-en-blanco/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "escanos-en-blanco--environment-and-energy",
+      "partyId": "escanos-en-blanco",
+      "topicId": "environment-and-energy",
+      "path": "/parties/escanos-en-blanco/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "escanos-en-blanco--healthcare",
+      "partyId": "escanos-en-blanco",
+      "topicId": "healthcare",
+      "path": "/parties/escanos-en-blanco/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "escanos-en-blanco--housing",
+      "partyId": "escanos-en-blanco",
+      "topicId": "housing",
+      "path": "/parties/escanos-en-blanco/housing",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "escanos-en-blanco--institutions-and-rights",
+      "partyId": "escanos-en-blanco",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/escanos-en-blanco/institutions-and-rights",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:45:02.511Z",
+      "sourceIds": [
+        "escanos-en-blanco-2026-b174ec60857e"
+      ],
+      "points": [
+        {
+          "id": "escanos-en-blanco-institutions-and-rights-vacant-seats",
+          "title": {
+            "es": "No tomar posesión de los escaños",
+            "ca": "No prendre possessió dels escons",
+            "gl": "Non tomar posesión dos escanos",
+            "eu": "Eserlekuez ez jabetzea",
+            "oc": "Non préner possession des escòns",
+            "en": "Leave elected seats vacant"
+          },
+          "text": {
+            "es": "Si sus representantes resultan elegidos, no tomar posesión del cargo y dejar sus escaños vacíos.",
+            "ca": "Si els seus representants resulten elegits, no prendre possessió del càrrec i deixar els seus escons buits.",
+            "gl": "Se os seus representantes resultan elixidos, non tomar posesión do cargo e deixar os seus escanos baleiros.",
+            "eu": "Beren ordezkariak hautatuak izanez gero, karguaz ez jabetzea eta beren eserlekuak hutsik uztea.",
+            "oc": "Se es sòns representants son elegits, non préner possession deth cargue e deishar es sòns escòns vuets.",
+            "en": "If their representatives are elected, they will not take office and will leave their seats vacant."
+          },
+          "citations": [
+            {
+              "sourceId": "escanos-en-blanco-2026-b174ec60857e",
+              "segmentId": "single-point-programme",
+              "section": "Artículo único: No tomaremos posesión del cargo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "escanos-en-blanco--pensions-and-social-protection",
+      "partyId": "escanos-en-blanco",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/escanos-en-blanco/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "falange-espanola-de-las-jons--economy-and-taxes",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/falange-espanola-de-las-jons/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "falange-espanola-de-las-jons--education",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "education",
+      "path": "/parties/falange-espanola-de-las-jons/education",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:45:02.511Z",
+      "sourceIds": [
+        "falange-espanola-de-las-jons-2026-46edb0c2db12"
+      ],
+      "points": [
+        {
+          "id": "falange-espanola-de-las-jons-education-primary-diagnostic-tests",
+          "title": {
+            "es": "Pruebas diagnósticas en primaria",
+            "ca": "Proves diagnòstiques a primària",
+            "gl": "Probas diagnósticas en primaria",
+            "eu": "Diagnostiko-probak Lehen Hezkuntzan",
+            "oc": "Pròves diagnostiques en primària",
+            "en": "Diagnostic tests in primary education"
+          },
+          "text": {
+            "es": "Realizar pruebas diagnósticas en 2.º, 4.º y 6.º de primaria en competencias como matemáticas y lengua, con refuerzo para quienes no alcancen los mínimos exigidos.",
+            "ca": "Fer proves diagnòstiques a 2n, 4t i 6è de primària en competències com matemàtiques i llengua, amb reforç per a qui no assoleixi els mínims exigits.",
+            "gl": "Realizar probas diagnósticas en 2.º, 4.º e 6.º de primaria en competencias como matemáticas e lingua, con reforzo para quen non acade os mínimos esixidos.",
+            "eu": "Lehen Hezkuntzako 2., 4. eta 6. mailetan diagnostiko-probak egitea, matematika eta hizkuntza bezalako gaitasunetan, eskatutako gutxieneko mailak lortzen ez dituzten ikasleei laguntza osagarria emanez.",
+            "oc": "Hèr pròves diagnostiques en 2au, 4au e 6au de primària en competéncies coma matematiques e lengua, damb refòrç entàs escolans que non artenhen es minims exigits.",
+            "en": "Conduct diagnostic tests in primary years 2, 4 and 6 in skills such as mathematics and language, supporting pupils below the required minimum levels."
+          },
+          "citations": [
+            {
+              "sourceId": "falange-espanola-de-las-jons-2026-46edb0c2db12",
+              "segmentId": "page-46",
+              "page": 46,
+              "printedPage": "44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "falange-espanola-de-las-jons--employment",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "employment",
+      "path": "/parties/falange-espanola-de-las-jons/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "falange-espanola-de-las-jons--environment-and-energy",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "environment-and-energy",
+      "path": "/parties/falange-espanola-de-las-jons/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "falange-espanola-de-las-jons--healthcare",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "healthcare",
+      "path": "/parties/falange-espanola-de-las-jons/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "falange-espanola-de-las-jons--housing",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "housing",
+      "path": "/parties/falange-espanola-de-las-jons/housing",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "falange-espanola-de-las-jons--institutions-and-rights",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/falange-espanola-de-las-jons/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "falange-espanola-de-las-jons--pensions-and-social-protection",
+      "partyId": "falange-espanola-de-las-jons",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/falange-espanola-de-las-jons/pensions-and-social-protection",
       "revision": null,
       "reviewStatus": "pending",
       "reviewedAt": null,
@@ -3786,6 +4257,123 @@
       ]
     },
     {
+      "id": "partido-autonomos--economy-and-taxes",
+      "partyId": "partido-autonomos",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/partido-autonomos/economy-and-taxes",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:45:02.511Z",
+      "sourceIds": [
+        "partido-autonomos-2026-2df2537bd762"
+      ],
+      "points": [
+        {
+          "id": "partido-autonomos-economy-and-taxes-monthly-contribution-exemption",
+          "title": {
+            "es": "Exención de la cuota de autónomos",
+            "ca": "Exempció de la quota d'autònoms",
+            "gl": "Exención da cota de autónomos",
+            "eu": "Autonomoen kuotaren salbuespena",
+            "oc": "Exempcion dera quòta d'autonòms",
+            "en": "Exemption from self-employed contributions"
+          },
+          "text": {
+            "es": "Eximir total e inmediatamente de la cuota de autónomos en cualquier mes cuyos rendimientos netos no superen el salario mínimo interprofesional.",
+            "ca": "Eximir totalment i immediatament de la quota d'autònoms en qualsevol mes en què els rendiments nets no superin el salari mínim interprofessional.",
+            "gl": "Eximir total e inmediatamente da cota de autónomos en calquera mes en que os rendementos netos non superen o salario mínimo interprofesional.",
+            "eu": "Autonomoen kuota guztiz eta berehala salbuestea, hileko etekin garbiak lanbide arteko gutxieneko soldataren parekoak edo txikiagoak diren hilabete guztietan.",
+            "oc": "Eximir totaument e immediatament dera quòta d'autonòms en quinsevolh mes en qué es rendiments nets non supèren eth salari minim interprofessionau.",
+            "en": "Provide a full, immediate exemption from self-employed contributions in any month when net earnings are at or below the statutory minimum wage."
+          },
+          "citations": [
+            {
+              "sourceId": "partido-autonomos-2026-2df2537bd762",
+              "segmentId": "page-2",
+              "page": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos--education",
+      "partyId": "partido-autonomos",
+      "topicId": "education",
+      "path": "/parties/partido-autonomos/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "partido-autonomos--employment",
+      "partyId": "partido-autonomos",
+      "topicId": "employment",
+      "path": "/parties/partido-autonomos/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "partido-autonomos--environment-and-energy",
+      "partyId": "partido-autonomos",
+      "topicId": "environment-and-energy",
+      "path": "/parties/partido-autonomos/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "partido-autonomos--healthcare",
+      "partyId": "partido-autonomos",
+      "topicId": "healthcare",
+      "path": "/parties/partido-autonomos/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "partido-autonomos--housing",
+      "partyId": "partido-autonomos",
+      "topicId": "housing",
+      "path": "/parties/partido-autonomos/housing",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "partido-autonomos--institutions-and-rights",
+      "partyId": "partido-autonomos",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/partido-autonomos/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "partido-autonomos--pensions-and-social-protection",
+      "partyId": "partido-autonomos",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/partido-autonomos/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
       "id": "podemos--economy-and-taxes",
       "partyId": "podemos",
       "topicId": "economy-and-taxes",
@@ -4760,6 +5348,124 @@
           ]
         }
       ]
+    },
+    {
+      "id": "por-un-mundo-mas-justo--economy-and-taxes",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/por-un-mundo-mas-justo/economy-and-taxes",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "por-un-mundo-mas-justo--education",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "education",
+      "path": "/parties/por-un-mundo-mas-justo/education",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "por-un-mundo-mas-justo--employment",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "employment",
+      "path": "/parties/por-un-mundo-mas-justo/employment",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "por-un-mundo-mas-justo--environment-and-energy",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "environment-and-energy",
+      "path": "/parties/por-un-mundo-mas-justo/environment-and-energy",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "por-un-mundo-mas-justo--healthcare",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "healthcare",
+      "path": "/parties/por-un-mundo-mas-justo/healthcare",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "por-un-mundo-mas-justo--housing",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "housing",
+      "path": "/parties/por-un-mundo-mas-justo/housing",
+      "revision": 1,
+      "reviewStatus": "partial",
+      "reviewedAt": "2026-11-22T11:45:02.511Z",
+      "sourceIds": [
+        "por-un-mundo-mas-justo-2026-a3c7c807411d"
+      ],
+      "points": [
+        {
+          "id": "por-un-mundo-mas-justo-housing-income-based-public-rent",
+          "title": {
+            "es": "Alquiler público ajustado a la renta",
+            "ca": "Lloguer públic ajustat a la renda",
+            "gl": "Alugueiro público axustado á renda",
+            "eu": "Errentara egokitutako alokairu publikoa",
+            "oc": "Loguèr public ajustat ara renda",
+            "en": "Income-based public housing rents"
+          },
+          "text": {
+            "es": "En el parque público de alquiler asequible, revisar anualmente el alquiler según la renta, al alza o a la baja, sin superar el 30% de la renta familiar.",
+            "ca": "En el parc públic de lloguer assequible, revisar anualment el lloguer segons la renda, a l'alça o a la baixa, sense superar el 30% de la renda familiar.",
+            "gl": "No parque público de alugueiro accesible, revisar anualmente o alugueiro segundo a renda, á alza ou á baixa, sen superar o 30% da renda familiar.",
+            "eu": "Alokairu eskuragarriko etxebizitza publikoetan, alokairua urtero errentaren arabera gorantz edo beherantz egokitzea, familia-errentaren %30 gainditu gabe.",
+            "oc": "En eth parc public de loguèr accessible, revisar annaument eth loguèr segontes era renda, ara pujada o ara baishada, sense superar eth 30% dera renda familhau.",
+            "en": "In the public affordable rental housing stock, review rents annually, upwards or downwards according to income, never exceeding 30% of family income."
+          },
+          "citations": [
+            {
+              "sourceId": "por-un-mundo-mas-justo-2026-a3c7c807411d",
+              "segmentId": "page-5",
+              "page": 5,
+              "printedPage": "5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "por-un-mundo-mas-justo--institutions-and-rights",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/por-un-mundo-mas-justo/institutions-and-rights",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
+    },
+    {
+      "id": "por-un-mundo-mas-justo--pensions-and-social-protection",
+      "partyId": "por-un-mundo-mas-justo",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/por-un-mundo-mas-justo/pensions-and-social-protection",
+      "revision": null,
+      "reviewStatus": "pending",
+      "reviewedAt": null,
+      "sourceIds": [],
+      "points": []
     },
     {
       "id": "pp--economy-and-taxes",

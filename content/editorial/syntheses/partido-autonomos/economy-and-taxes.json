@@ -1,0 +1,39 @@
+{
+  "id": "partido-autonomos--economy-and-taxes",
+  "partyId": "partido-autonomos",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:45:02.511Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-economy-and-taxes-monthly-contribution-exemption",
+      "title": {
+        "es": "Exención de la cuota de autónomos",
+        "ca": "Exempció de la quota d'autònoms",
+        "gl": "Exención da cota de autónomos",
+        "eu": "Autonomoen kuotaren salbuespena",
+        "oc": "Exempcion dera quòta d'autonòms",
+        "en": "Exemption from self-employed contributions"
+      },
+      "text": {
+        "es": "Eximir total e inmediatamente de la cuota de autónomos en cualquier mes cuyos rendimientos netos no superen el salario mínimo interprofesional.",
+        "ca": "Eximir totalment i immediatament de la quota d'autònoms en qualsevol mes en què els rendiments nets no superin el salari mínim interprofessional.",
+        "gl": "Eximir total e inmediatamente da cota de autónomos en calquera mes en que os rendementos netos non superen o salario mínimo interprofesional.",
+        "eu": "Autonomoen kuota guztiz eta berehala salbuestea, hileko etekin garbiak lanbide arteko gutxieneko soldataren parekoak edo txikiagoak diren hilabete guztietan.",
+        "oc": "Eximir totaument e immediatament dera quòta d'autonòms en quinsevolh mes en qué es rendiments nets non supèren eth salari minim interprofessionau.",
+        "en": "Provide a full, immediate exemption from self-employed contributions in any month when net earnings are at or below the statutory minimum wage."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-2",
+          "quote": "Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI)"
+        }
+      ],
+      "internalNotes": "This selected clause concerns monthly net returns at or below the minimum wage, including equality. The adjacent extension of the initial reduced contribution rate is a separate assertion not included here."
+    }
+  ]
+}

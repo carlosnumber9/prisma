@@ -1,0 +1,39 @@
+{
+  "id": "por-un-mundo-mas-justo--housing",
+  "partyId": "por-un-mundo-mas-justo",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:45:02.511Z",
+  "sourceIds": ["por-un-mundo-mas-justo-2026-a3c7c807411d"],
+  "points": [
+    {
+      "id": "por-un-mundo-mas-justo-housing-income-based-public-rent",
+      "title": {
+        "es": "Alquiler público ajustado a la renta",
+        "ca": "Lloguer públic ajustat a la renda",
+        "gl": "Alugueiro público axustado á renda",
+        "eu": "Errentara egokitutako alokairu publikoa",
+        "oc": "Loguèr public ajustat ara renda",
+        "en": "Income-based public housing rents"
+      },
+      "text": {
+        "es": "En el parque público de alquiler asequible, revisar anualmente el alquiler según la renta, al alza o a la baja, sin superar el 30% de la renta familiar.",
+        "ca": "En el parc públic de lloguer assequible, revisar anualment el lloguer segons la renda, a l'alça o a la baixa, sense superar el 30% de la renda familiar.",
+        "gl": "No parque público de alugueiro accesible, revisar anualmente o alugueiro segundo a renda, á alza ou á baixa, sen superar o 30% da renda familiar.",
+        "eu": "Alokairu eskuragarriko etxebizitza publikoetan, alokairua urtero errentaren arabera gorantz edo beherantz egokitzea, familia-errentaren %30 gainditu gabe.",
+        "oc": "En eth parc public de loguèr accessible, revisar annaument eth loguèr segontes era renda, ara pujada o ara baishada, sense superar eth 30% dera renda familhau.",
+        "en": "In the public affordable rental housing stock, review rents annually, upwards or downwards according to income, never exceeding 30% of family income."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "por-un-mundo-mas-justo-2026-a3c7c807411d",
+          "segmentId": "page-5",
+          "quote": "Las personas inquilinas de estas viviendas pagarán un alquiler en función de su renta, que se revisará anualmente adecuándolo a las condiciones económicas en ese momento, ya sea al alza o a la baja, y que nunca superaría el 30% de la renta familiar."
+        }
+      ],
+      "internalNotes": "The cited measure concerns the proposed public or socially controlled affordable rental stock. It does not cap every private rental contract."
+    }
+  ]
+}

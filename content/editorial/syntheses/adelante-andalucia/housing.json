@@ -1,0 +1,39 @@
+{
+  "id": "adelante-andalucia--housing",
+  "partyId": "adelante-andalucia",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:45:02.511Z",
+  "sourceIds": ["adelante-andalucia-2026-9edf2c74216c"],
+  "points": [
+    {
+      "id": "adelante-andalucia-housing-protected-development-social-rent",
+      "title": {
+        "es": "Vivienda protegida en cada promoción",
+        "ca": "Habitatge protegit en cada promoció",
+        "gl": "Vivenda protexida en cada promoción",
+        "eu": "Etxebizitza babestuak sustapen bakoitzean",
+        "oc": "Abitatge protegit en cada promocion",
+        "en": "Protected housing in every development"
+      },
+      "text": {
+        "es": "Destinar al menos el 50% de cada nueva promoción a vivienda protegida y el 60% de esa parte protegida a alquiler social.",
+        "ca": "Destinar almenys el 50% de cada nova promoció a habitatge protegit i el 60% d'aquesta part protegida a lloguer social.",
+        "gl": "Destinar polo menos o 50% de cada nova promoción a vivenda protexida e o 60% desa parte protexida a alugueiro social.",
+        "eu": "Etxebizitza-sustapen berri bakoitzaren gutxienez %50 etxebizitza babestuetara bideratzea, eta zati babestu horren %60 alokairu sozialera.",
+        "oc": "Destinar aumens eth 50% de cada naua promocion a abitatge protegit e eth 60% d'aquera part protegida a loguèr sociau.",
+        "en": "Allocate at least 50% of every new housing development to protected housing, with 60% of that protected portion for social rent."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "adelante-andalucia-2026-9edf2c74216c",
+          "segmentId": "page-50",
+          "quote": "171 50 % protegida en toda promoción Al menos la mitad de cada nueva promoción, y de ella un 60 % en alquiler social."
+        }
+      ],
+      "internalNotes": "The 60% social-rental allocation applies to the protected half or greater protected share, not to the entire development."
+    }
+  ]
+}

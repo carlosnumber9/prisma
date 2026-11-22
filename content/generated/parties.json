@@ -3,6 +3,16 @@
   "electionDate": "2026-11-29",
   "parties": [
     {
+      "id": "adelante-andalucia",
+      "name": "Adelante Andalucía",
+      "officialWebsite": "https://adelanteandalucia.org/"
+    },
+    {
+      "id": "bng",
+      "name": "BNG",
+      "officialWebsite": "https://www.bng.gal/"
+    },
+    {
       "id": "comuns-front-ampli",
       "name": "Comuns–Front Ampli",
       "officialWebsite": "https://comuns.cat/"
@@ -11,6 +21,16 @@
       "id": "eaj-pnv",
       "name": "EAJ-PNV",
       "officialWebsite": "https://www.eaj-pnv.eus/"
+    },
+    {
+      "id": "escanos-en-blanco",
+      "name": "Escaños en Blanco",
+      "officialWebsite": "https://escanos.org/"
+    },
+    {
+      "id": "falange-espanola-de-las-jons",
+      "name": "Falange Española de las JONS",
+      "officialWebsite": "https://falange.es/"
     },
     {
       "id": "frente-amplio",
@@ -23,9 +43,19 @@
       "officialWebsite": "https://frenteobrero.es/"
     },
     {
+      "id": "partido-autonomos",
+      "name": "Partido Autónomos",
+      "officialWebsite": "https://www.partidoautonomos.es/"
+    },
+    {
       "id": "podemos",
       "name": "Podemos",
       "officialWebsite": "https://podemos.info/"
+    },
+    {
+      "id": "por-un-mundo-mas-justo",
+      "name": "Por un Mundo Más Justo",
+      "officialWebsite": "https://www.porunmundomasjusto.es/"
     },
     {
       "id": "pp",

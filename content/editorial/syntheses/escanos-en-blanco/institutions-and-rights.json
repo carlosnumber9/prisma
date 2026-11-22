@@ -1,0 +1,39 @@
+{
+  "id": "escanos-en-blanco--institutions-and-rights",
+  "partyId": "escanos-en-blanco",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "partial",
+  "reviewedAt": "2026-11-22T11:45:02.511Z",
+  "sourceIds": ["escanos-en-blanco-2026-b174ec60857e"],
+  "points": [
+    {
+      "id": "escanos-en-blanco-institutions-and-rights-vacant-seats",
+      "title": {
+        "es": "No tomar posesión de los escaños",
+        "ca": "No prendre possessió dels escons",
+        "gl": "Non tomar posesión dos escanos",
+        "eu": "Eserlekuez ez jabetzea",
+        "oc": "Non préner possession des escòns",
+        "en": "Leave elected seats vacant"
+      },
+      "text": {
+        "es": "Si sus representantes resultan elegidos, no tomar posesión del cargo y dejar sus escaños vacíos.",
+        "ca": "Si els seus representants resulten elegits, no prendre possessió del càrrec i deixar els seus escons buits.",
+        "gl": "Se os seus representantes resultan elixidos, non tomar posesión do cargo e deixar os seus escanos baleiros.",
+        "eu": "Beren ordezkariak hautatuak izanez gero, karguaz ez jabetzea eta beren eserlekuak hutsik uztea.",
+        "oc": "Se es sòns representants son elegits, non préner possession deth cargue e deishar es sòns escòns vuets.",
+        "en": "If their representatives are elected, they will not take office and will leave their seats vacant."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "escanos-en-blanco-2026-b174ec60857e",
+          "segmentId": "single-point-programme",
+          "quote": "No tomaremos posesión del cargo."
+        }
+      ],
+      "internalNotes": "The live programme has no newly dated 2026 edition. Article 6 of the official statutes adopts the same single-point programme for every electoral process."
+    }
+  ]
+}
