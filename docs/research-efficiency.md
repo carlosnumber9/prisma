@@ -2,6 +2,8 @@
 
 This protocol applies to the native [research team](research-factory.md). It reduces unnecessary context and repeated work without relaxing electoral evidence, independent QA or editorial approval. It adds an offline handoff/cache/metrics helper, not an orchestrator or a model API. There is no automatic scheduler or claimed savings percentage.
 
+Efficiency must preserve the requested editorial scope. Whole-programme incorporation has no implicit number-of-points limit: read all eligible components, account for all actionable measures in the eight areas and pass the coverage inventory to independent QA. Source-discovery budgets and chunk sizes control operations and context, not the quantity of programme content retained. Reuse a live in-memory PDF reader across page chunks to avoid downloading the same original repeatedly; check that tool output was not truncated before counting a page as inspected.
+
 ## Models and rollout
 
 | Responsibility   | Model         | Reasoning |

@@ -8,6 +8,7 @@
 - Minimal citation evidence instead of full originals and extraction archives; schema 4 omits undisplayed public quotations. Offline validation checks retained excerpts, not original bytes. See [the contract](content-contract.md).
 - Scope-limited authoring: displayed programme content, formation information and provincial presence. Politician profiles, individual candidate lists, substitutes and Senate research are excluded. Investigation ledgers and raw political archives stay outside Git.
 - Bounded source discovery with a Luna/medium profile, separate Research/Synthesis/QA responsibilities and offline task, evidence-cache and metrics checks. The coordinator tracks search limits; no scheduler, automatic token cap or measured savings is implied. See the [efficiency protocol](research-efficiency.md).
+- Explicit whole-programme authoring requires full page/section review and measure-to-point coverage across all eight areas, without a point cap. Independent QA checks omissions; genuinely absent areas may be reviewed empty. This authoring rule does not assert that every existing synthesis is exhaustive.
 - Local static checks, deterministic tests, generated-content validation, bounded credential screening and a separate production-build checker. These do not prove remote CI or deployment status.
 
 ## Contextual correction form — pending
