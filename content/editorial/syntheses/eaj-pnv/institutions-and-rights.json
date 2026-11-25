@@ -1,0 +1,918 @@
+{
+  "id": "eaj-pnv--institutions-and-rights",
+  "partyId": "eaj-pnv",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:32:02Z",
+  "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
+  "points": [
+    {
+      "id": "eaj-pnv-institutions-and-rights-youth-participation",
+      "title": {
+        "es": "Participación y perspectiva juvenil",
+        "ca": "Participació i perspectiva juvenil",
+        "gl": "Participación e perspectiva xuvenil",
+        "eu": "Gazteen parte-hartzea eta ikuspegia",
+        "oc": "Participacion e perspectiva juvenila",
+        "en": "Youth participation and perspective"
+      },
+      "text": {
+        "es": "Crear mecanismos efectivos de participación juvenil en elaboración, seguimiento y evaluación de políticas, con propuestas escuchadas y tenidas en cuenta por las instituciones; incorporar la perspectiva juvenil a leyes estatales, especialmente vivienda, empleo, educación, investigación y protección social.",
+        "ca": "Crear mecanismes efectius de participació juvenil en elaboració, seguiment i avaluació de polítiques, amb propostes escoltades i tingudes en compte per les institucions; incorporar la perspectiva juvenil a lleis estatals, especialment habitatge, ocupació, educació, recerca i protecció social.",
+        "gl": "Crear mecanismos efectivos de participación xuvenil na elaboración, seguimento e avaliación de políticas, con propostas escoitadas e tidas en conta polas institucións; incorporar a perspectiva xuvenil ás leis estatais, especialmente vivenda, emprego, educación, investigación e protección social.",
+        "eu": "Politikak egiteko, jarraitzeko eta ebaluatzeko gazteen parte-hartze eraginkorra bermatzea, erakundeek haien proposamenak entzunez eta kontuan hartuz; gazte-ikuspegia Estatuko legeetan txertatzea, bereziki etxebizitza, enplegu, hezkuntza, ikerketa eta gizarte-babesean.",
+        "oc": "Crear mecanismes efectius de participacion juvenila ena elaboracion, seguiment e avaloracion de politiques, damb prepauses escotades e tengudes en compde pes institucions; incorporar era perspectiva juvenila as leis estataus, sustot abitatge, emplec, educacion, recèrca e proteccion sociau.",
+        "en": "Create effective youth participation in designing, monitoring and evaluating policies, with institutions listening to and taking account of their proposals; include youth perspectives in State legislation, especially housing, employment, education, research and social protection."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-11",
+          "quote": "Favorecer mecanismos efectivos de participación de las personas jóvenes en la elaboración, seguimiento y evaluación de las políticas públicas."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-11",
+          "quote": "Reforzar la participación juvenil en la vida pública y democrática, garantizando espacios en los que sus propuestas sean escuchadas y tenidas en cuenta por las instituciones."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-11",
+          "quote": "Incorporar la perspectiva juvenil en las iniciativas legislativas estatales, especialmente en vivienda, empleo, educación, investigación y protección social."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-police-capacity-cooperation",
+      "title": {
+        "es": "Ertzaintza y cooperación policial",
+        "ca": "Ertzaintza i cooperació policial",
+        "gl": "Ertzaintza e cooperación policial",
+        "eu": "Ertzaintza eta polizia-lankidetza",
+        "oc": "Ertzaintza e cooperacion policiala",
+        "en": "Ertzaintza and police cooperation"
+      },
+      "text": {
+        "es": "Reconocer a la Ertzaintza como policía integral y judicial vasca con plenas funciones; participación europea directa sin intermediaciones limitadoras, acceso recíproco pleno a bases policiales europeas y cooperación internacional operativa e informativa contra delincuencia organizada y transfronteriza.",
+        "ca": "Reconèixer l’Ertzaintza com a policia integral i judicial basca amb plenes funcions; participació europea directa sense intermediacions limitadores, accés recíproc ple a bases policials europees i cooperació internacional operativa i informativa contra delinqüència organitzada i transfronterera.",
+        "gl": "Recoñecer a Ertzaintza como policía integral e xudicial vasca con plenas funcións; participación europea directa sen intermediacións limitadoras, acceso recíproco pleno a bases policiais europeas e cooperación internacional operativa e informativa contra delincuencia organizada e transfronteiriza.",
+        "eu": "Ertzaintza euskal polizia integral eta judizial gisa aitortzea bere eginkizun osoekin; Europako zuzeneko parte-hartzea bitartekaritza mugatzailerik gabe, Europako polizia-datuetara elkarrekiko sarbide osoa eta nazioarteko lankidetza operatiboa zein informatiboa delinkuentzia antolatuaren eta mugaz gaindikoaren aurka.",
+        "oc": "Reconéisher era Ertzaintza coma policia integrau e judiciau basca damb plenes foncions; participacion europèa dirècta sense intermediacions limitadores, accès recipròc plen a bases policiaus europèes e cooperacion internacionau operativa e informativa contra delinquéncia organizada e transfronterèra.",
+        "en": "Recognise the Ertzaintza as Basque comprehensive and judicial police with full functions; ensure direct European participation without limiting intermediaries, full reciprocal European police-database access and international operational and information cooperation against organised and cross-border crime."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Defender el reconocimiento efectivo de la Ertzaintza como policía integral de Euskadi, respetando sus competencias y garantizando su capacidad para ejercer plenamente las funciones que le corresponden."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Asegurar la participación directa y efectiva de la Ertzaintza en los mecanismos europeos de cooperación policial, sin intermediaciones que limiten su capacidad operativa."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Asegurar el acceso recíproco y pleno de la Ertzaintza a las bases de datos policiales europeas, facilitando el intercambio de información con las agencias de seguridad de otros Estados."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Reforzar la cooperación policial internacional para prevenir y combatir la delincuencia, especialmente la organizada y transfronteriza, mediante mecanismos de intercambio de información y coordinación operativa."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Promover el reconocimiento de la Ertzaintza como Policía judicial en el ámbito vasco, con capacidad plena para ejercer las funciones correspondientes."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-repeat-offending",
+      "title": {
+        "es": "Respuesta judicial a la multirreincidencia",
+        "ca": "Resposta judicial a la multireincidència",
+        "gl": "Resposta xudicial á multirreincidencia",
+        "eu": "Errepikatutako delituen aurreko erantzun judiziala",
+        "oc": "Responsa judiciau ara multireincidéncia",
+        "en": "Judicial response to repeat offending"
+      },
+      "text": {
+        "es": "Reformar leyes para responder de forma ágil, eficaz y proporcionada a delitos reiterados en barrios, comercios y espacios públicos; coordinar Ertzaintza y Justicia para prevenir reincidencia y proteger víctimas con pleno respeto a garantías judiciales.",
+        "ca": "Reformar lleis per respondre àgilment, eficaçment i proporcionalment a delictes reiterats en barris, comerços i espais públics; coordinar Ertzaintza i Justícia per prevenir reincidència i protegir víctimes respectant plenament garanties judicials.",
+        "gl": "Reformar leis para responder de forma áxil, eficaz e proporcionada a delitos reiterados en barrios, comercios e espazos públicos; coordinar Ertzaintza e Xustiza para previr reincidencia e protexer vítimas con pleno respecto ás garantías xudiciais.",
+        "eu": "Legeak erreformatzea auzo, saltoki eta espazio publikoetako delitu errepikatuei erantzun arin, eraginkor eta proportzionatua emateko; Ertzaintza eta Justizia koordinatzea berrerortzea prebenitzeko eta biktimak babesteko, berme judizialak guztiz errespetatuz.",
+        "oc": "Reformar leis entà respóner de forma agila, eficaça e proporcionada a delictes reiteradi en barris, comèrci e espacis publics; coordinar Ertzaintza e Justícia entà previer reincidéncia e protegir victimes damb plen respècte as garanties judiciaus.",
+        "en": "Reform laws for swift, effective and proportionate responses to repeated offences in neighbourhoods, shops and public spaces; coordinate Ertzaintza and courts to prevent reoffending and protect victims while fully respecting judicial safeguards."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Combatir la multirreincidencia y proteger a las víctimas. Impulsar las reformas legales necesarias para garantizar una respuesta judicial ágil, eficaz y proporcionada frente a quienes cometen delitos de manera reiterada, especialmente aquellos que afectan a la seguridad de nuestros barrios, comercios y espacios públicos. Reforzar la coordinación entre la Ertzaintza y la Administración de Justicia para mejorar la prevención, evitar la reiteración delictiva y garantizar la protección de las víctimas, con pleno respeto a las garantías judiciales."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-migration-powers-reception",
+      "title": {
+        "es": "Gestión migratoria y acogida descentralizada",
+        "ca": "Gestió migratòria i acollida descentralitzada",
+        "gl": "Xestión migratoria e acollida descentralizada",
+        "eu": "Migrazio-kudeaketa eta harrera deszentralizatua",
+        "oc": "Gestion migratòria e acuelh descentralizat",
+        "en": "Migration powers and decentralised reception"
+      },
+      "text": {
+        "es": "Ampliar competencias vascas sobre llegada, acogida, residencia, trabajo e integración y extranjería de la Ertzaintza; reconocer Euskadi como frontera norte con recursos y coordinación. Planificar medios de acogida; acordar financiación suficiente y atención digna descentralizada a solicitantes de protección, rechazando grandes centros como Arana en Vitoria-Gasteiz.",
+        "ca": "Ampliar competències basques sobre arribada, acollida, residència, treball i integració i estrangeria de l’Ertzaintza; reconèixer Euskadi com a frontera nord amb recursos i coordinació. Planificar mitjans d’acollida; acordar finançament suficient i atenció digna descentralitzada a sol·licitants de protecció, rebutjant grans centres com Arana a Vitoria-Gasteiz.",
+        "gl": "Ampliar competencias vascas sobre chegada, acollida, residencia, traballo e integración e estranxeiría da Ertzaintza; recoñecer Euskadi como fronteira norte con recursos e coordinación. Planificar medios de acollida; acordar financiamento suficiente e atención digna descentralizada a solicitantes de protección, rexeitando grandes centros como Arana en Vitoria-Gasteiz.",
+        "eu": "Euskal eskumenak zabaltzea iritsiera, harrera, egoitza, lana eta integrazioan, baita Ertzaintzaren atzerritartasun-eskumenak ere; Euskadi iparraldeko muga gisa aitortzea baliabide eta koordinazioarekin. Harrera-baliabideak planifikatzea; babes-eskatzaileentzako finantzaketa nahikoa eta arreta duin deszentralizatua adostea, Gasteizko Arana bezalako zentro handiak baztertuz.",
+        "oc": "Ampliar competéncies basques sus arribada, acuelh, residéncia, trabalh e integracion e estrangeria dera Ertzaintza; reconéisher Euskadi coma frontèra nòrd damb recorsi e coordinacion. Planificar mejans d’acuelh; acordar finançament sufisent e atencion digna descentralizada as sollicitants de proteccion, refusant grani centres coma Arana en Vitoria-Gasteiz.",
+        "en": "Expand Basque powers over arrival, reception, residence, work and integration and Ertzaintza immigration functions; recognise Euskadi as the northern border with resources and coordination. Plan reception capacity; agree sufficient funding and dignified decentralised protection-seeker reception, rejecting large centres such as Arana in Vitoria-Gasteiz."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Promover mayores competencias para Euskadi en materia de migración y extranjería, avanzando hacia una gestión integral que abarque la llegada, la acogida, la residencia, el trabajo y la integración."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Reclamar que Euskadi sea reconocida y tenida en cuenta como frontera norte en la planificación y gestión migratoria, con recursos y coordinación adecuados."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-24",
+          "quote": "Avanzar en la asunción de competencias de extranjería por parte de la Ertzaintza, mediante los acuerdos y modificaciones normativas necesarios."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Reforzar la planificación y coordinación de los recursos de acogida e integración, garantizando que las instituciones dispongan de medios suficientes y puedan anticipar las necesidades."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Un modelo de acogida coordinado y adecuado. Reclamar un acuerdo entre el Estado y las instituciones vascas que garantice la coordinación, la financiación suficiente y una atención digna a las personas solicitantes de protección internacional, priorizando un modelo de acogida descentralizado y rechazando la implantación de grandes centros como el previsto en Arana, Vitoria-Gasteiz."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-migration-legal-pathways",
+      "title": {
+        "es": "Permisos, vías legales y titulaciones",
+        "ca": "Permisos, vies legals i titulacions",
+        "gl": "Permisos, vías legais e titulacións",
+        "eu": "Baimenak, legezko bideak eta titulazioak",
+        "oc": "Permisi, vies legaus e titulacions",
+        "en": "Permits, legal routes and qualifications"
+      },
+      "text": {
+        "es": "Ampliar gestión vasca de residencia y trabajo para agilizar plazos; promover migración legal, segura y ordenada con gestión planificada y respetuosa con los derechos humanos, y contratación en origen según necesidades laborales con garantías. Avanzar regularización legal de quienes cumplan requisitos y agilizar reconocimiento de títulos y cualificaciones extranjeras.",
+        "ca": "Ampliar gestió basca de residència i treball per agilitzar terminis; promoure migració legal, segura i ordenada amb gestió planificada i respectuosa amb els drets humans, i contractació en origen segons necessitats laborals amb garanties. Avançar regularització legal de qui compleixi requisits i agilitzar reconeixement de títols i qualificacions estrangeres.",
+        "gl": "Ampliar xestión vasca de residencia e traballo para axilizar prazos; promover migración legal, segura e ordenada con xestión planificada e respectuosa cos dereitos humanos, e contratación en orixe segundo necesidades laborais con garantías. Avanzar regularización legal de quen cumpra requisitos e axilizar recoñecemento de títulos e cualificacións estranxeiras.",
+        "eu": "Egoitza eta lanaren euskal kudeaketa zabaltzea epeak arintzeko; migrazio legezkoa, segurua eta ordenatua kudeaketa planifikatu eta giza eskubideekiko errespetuzkoarekin eta lan-premiei lotutako jatorrizko kontratazio bermatua sustatzea. Baldintzak betetzen dituztenen legezko erregularizazioan aurreratzea eta atzerriko titulu eta kualifikazioen aitortza arintzea.",
+        "oc": "Ampliar gestion basca de residéncia e trabalh entà agilizar tèrmes; promòir migracion legau, segura e ordenada damb gestion planificada e respectuosa damb es drets umans, e contractacion en origina segontes besonhs laboraus damb garanties. Auançar regularizacion legau de qui complisque requisits e agilizar reconeishement de títols e qualificacions estrangères.",
+        "en": "Expand Basque residence and work administration to shorten processing; promote legal, safe, orderly migration through planned management respecting human rights, and recruitment abroad matching labour needs with worker safeguards. Advance statutory regularisation for eligible people and speed recognition of foreign degrees and professional qualifications."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Ampliar la capacidad de gestión de Euskadi en los procedimientos de residencia y trabajo, para reducir los plazos de tramitación y responder a las necesidades laborales y sociales del país."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Promover vías legales, seguras y ordenadas de migración, mediante una gestión planificada y respetuosa con los derechos humanos."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Favorecer la contratación en origen, vinculada a las necesidades del mercado laboral vasco y con garantías para las personas trabajadoras."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Avanzar en los procesos de regularización previstos en la legislación, facilitando la integración social y laboral de las personas que cumplen los requisitos establecidos."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Agilizar la homologación y el reconocimiento de titulaciones y cualificaciones profesionales extranjeras, evitando que los trámites administrativos impidan aprovechar el talento y la formación de las personas migrantes."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-asylum-integration",
+      "title": {
+        "es": "Asilo e integración con derechos",
+        "ca": "Asil i integració amb drets",
+        "gl": "Asilo e integración con dereitos",
+        "eu": "Eskubidedun asiloa eta integrazioa",
+        "oc": "Asil e integracion damb drets",
+        "en": "Asylum and rights-based integration"
+      },
+      "text": {
+        "es": "Agilizar protección internacional y asilo con acceso efectivo a derechos y garantías; impulsar política europea solidaria con reparto equilibrado de solicitantes y menores no acompañados; fomentar integración social y laboral, autonomía, participación y aprendizaje del euskera.",
+        "ca": "Agilitzar protecció internacional i asil amb accés efectiu a drets i garanties; impulsar política europea solidària amb repartiment equilibrat de sol·licitants i menors no acompanyats; fomentar integració social i laboral, autonomia, participació i aprenentatge de l’euskera.",
+        "gl": "Axilizar protección internacional e asilo con acceso efectivo a dereitos e garantías; impulsar política europea solidaria con reparto equilibrado de solicitantes e menores non acompañados; fomentar integración social e laboral, autonomía, participación e aprendizaxe do éuscaro.",
+        "eu": "Nazioarteko babesa eta asiloa arintzea eskubide eta bermeetarako sarbide eraginkorrarekin; Europako politika solidarioa sustatzea eskatzaileak eta lagundu gabeko adingabeak modu orekatuan banatuz; integrazio sozial eta laborala, autonomia, parte-hartzea eta euskararen ikaskuntza sustatzea.",
+        "oc": "Agilizar proteccion internacionau e asil damb accès efectiu a drets e garanties; impulsar politica europèa solidària damb repartiment equilibrat de sollicitants e menors non acompanhadi; fomentar integracion sociau e laborau, autonomia, participacion e aprenedissatge der euskera.",
+        "en": "Speed international protection and asylum procedures with effective rights and safeguards; support a solidarity-based European policy with balanced distribution of applicants and unaccompanied minors; promote social and labour integration, independence, participation and Basque-language learning."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Promover la mejora y agilización de los procedimientos de protección internacional y asilo, garantizando el acceso efectivo a los derechos y las garantías legales de las personas solicitantes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Impulsar una política europea común de migración y asilo basada en la solidaridad y la responsabilidad compartida, con una distribución equilibrada de las personas solicitantes de protección internacional y de las personas menores migrantes no acompañadas."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-25",
+          "quote": "Promover la integración social y laboral de las personas migrantes, favoreciendo su autonomía, su participación en la sociedad vasca y el aprendizaje del euskera como herramienta de integración y convivencia."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-gender-equality",
+      "title": {
+        "es": "Leyes y organismos de igualdad",
+        "ca": "Lleis i organismes d’igualtat",
+        "gl": "Leis e organismos de igualdade",
+        "eu": "Berdintasun-legeak eta erakundeak",
+        "oc": "Leis e organismes d’egalitat",
+        "en": "Equality laws and bodies"
+      },
+      "text": {
+        "es": "Aplicar leyes y perspectiva de género desde diseño hasta evaluación; transponer y aplicar Directivas 2024/1499 y 2024/1500 reforzando organismos independientes y respetando competencias y funciones de Emakunde. Regular y reconocer la profesión de agente de igualdad, garantizando el reconocimiento de la formación universitaria especializada y la experiencia profesional acreditada.",
+        "ca": "Aplicar lleis i perspectiva de gènere des de disseny fins a avaluació; transposar i aplicar directives 2024/1499 i 2024/1500 reforçant organismes independents i respectant competències i funcions d’Emakunde. Regular i reconèixer la professió d’agent d’igualtat, garantint el reconeixement de la formació universitària especialitzada i l’experiència professional acreditada.",
+        "gl": "Aplicar leis e perspectiva de xénero desde deseño ata avaliación; transpor e aplicar directivas 2024/1499 e 2024/1500 reforzando organismos independentes e respectando competencias e funcións de Emakunde. Regular e recoñecer a profesión de axente de igualdade, garantindo o recoñecemento da formación universitaria especializada e a experiencia profesional acreditada.",
+        "eu": "Legeak eta genero-ikuspegia aplikatzea diseinutik ebaluaziora; 2024/1499 eta 2024/1500 Zuzentarauak txertatzea eta aplikatzea, erakunde independenteak indartuz eta Emakunderen eskumenak eta eginkizunak errespetatuz. Berdintasun-agenteen lanbidea arautzea eta aitortzea, unibertsitate-prestakuntza espezializatua eta egiaztatutako esperientzia aitortuz.",
+        "oc": "Aplicar leis e perspectiva de genre deth dessenh ara avaloracion; transposar e aplicar directives 2024/1499 e 2024/1500 refortint organismes independents e respectant competéncies e foncions d’Emakunde. Regular e reconéisher era profession d’agent d’egalitat, garantint eth reconeishement dera formacion universitària especializada e era experiéncia professionau acreditada.",
+        "en": "Apply equality laws and gender perspectives from policy design to evaluation; transpose and apply Directives 2024/1499 and 2024/1500 strengthening independent bodies while respecting Emakunde’s competences and functions. Regulate and recognise the equality officer profession, ensuring recognition of specialised university training and accredited professional experience."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Asegurar la aplicación efectiva de las leyes de igualdad y la incorporación de la perspectiva de género en las políticas públicas, desde su elaboración hasta su evaluación."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Asegurar la transposición y aplicación de las Directivas europeas 2024/1499 y 2024/1500, reforzando la independencia y capacidad de actuación de los organismos de igualdad y respetando las competencias y funciones de Emakunde."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Regular y reconocer la profesión de agente de igualdad, garantizando el reconocimiento de la formación universitaria especializada y la experiencia profesional acreditada."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-gender-violence-justice",
+      "title": {
+        "es": "Violencia machista y justicia especializada",
+        "ca": "Violència masclista i justícia especialitzada",
+        "gl": "Violencia machista e xustiza especializada",
+        "eu": "Indarkeria matxista eta justizia espezializatua",
+        "oc": "Violéncia masclista e justícia especializada",
+        "en": "Gender violence and specialised justice"
+      },
+      "text": {
+        "es": "Cumplir medidas estatales del Pacto de 2025, especialmente violencia digital, económica y protección; definir, prevenir y tratar la violencia vicaria en sistemas de protección y atención. Establecer formación judicial y fiscal obligatoria en género con calendarios y evaluaciones periódicas; crear y reforzar órganos especializados en Euskadi, especialmente Vitoria-Gasteiz y Barakaldo, con recursos suficientes.",
+        "ca": "Complir mesures estatals del Pacte de 2025, especialment violència digital, econòmica i protecció; definir, prevenir i tractar la violència vicària en sistemes de protecció i atenció. Establir formació judicial i fiscal obligatòria en gènere amb calendaris i avaluacions periòdiques; crear i reforçar òrgans especialitzats a Euskadi, especialment Vitoria-Gasteiz i Barakaldo, amb recursos suficients.",
+        "gl": "Cumprir medidas estatais do Pacto de 2025, especialmente violencia dixital, económica e protección; definir, previr e tratar a violencia vicaria en sistemas de protección e atención. Establecer formación xudicial e fiscal obrigatoria en xénero con calendarios e avaliacións periódicas; crear e reforzar órganos especializados en Euskadi, especialmente Vitoria-Gasteiz e Barakaldo, con recursos suficientes.",
+        "eu": "2025eko Ituneko Estatuko neurriak betetzea, bereziki indarkeria digitala, ekonomikoa eta babesa; indarkeria bikarioa definitzea, prebenitzea eta tratatzea babes- eta arreta-sistemetan. Epaile eta fiskalentzako genero-prestakuntza derrigorrezkoa ezartzea egutegiekin eta aldizkako ebaluazioekin; Euskadiko organo espezializatuak sortu eta indartzea, bereziki Gasteizen eta Barakaldon, baliabide nahikoekin.",
+        "oc": "Complir mesures estataus deth Pacte de 2025, sustot violéncia digitau, economica e proteccion; definir, previer e tractar era violéncia vicària en sistèmes de proteccion e atencion. Establir formacion judiciau e fiscau obligatòria en genre damb calendaris e avaloracions periodiques; crear e refortir organismes especializadi en Euskadi, sustot Vitoria-Gasteiz e Barakaldo, damb recorsi sufisents.",
+        "en": "Implement State measures in the 2025 Pact, especially digital and economic violence and victim protection; define, prevent and address vicarious violence in protection and care systems. Require judicial and prosecutorial gender training with timetables and periodic evaluations; create and strengthen specialised Basque courts, especially Vitoria-Gasteiz and Barakaldo, with sufficient resources."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Asegurar el cumplimiento íntegro de las medidas estatales del Pacto de Estado contra la Violencia de Género renovado en 2025, especialmente en materia de violencia digital, económica y protección de las víctimas."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Favorecer una regulación que reconozca y defina adecuadamente la violencia vicaria, garantizando su prevención y tratamiento en los sistemas de protección y atención."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Reforzar la formación obligatoria en perspectiva de género de la judicatura y la Fiscalía, mediante calendarios de aplicación y evaluaciones periódicas para prevenir estereotipos y evitar la revictimización."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Promover nuevos órganos judiciales especializados y reforzar las secciones de Violencia sobre la Mujer en Euskadi, especialmente en Vitoria-Gasteiz y Barakaldo, con medios humanos y materiales suficientes."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-lgtbi-rights-digital-hate",
+      "title": {
+        "es": "Derechos LGTBIQ+ y delitos de odio",
+        "ca": "Drets LGTBIQ+ i delictes d’odi",
+        "gl": "Dereitos LGTBIQ+ e delitos de odio",
+        "eu": "LGTBIQ+ eskubideak eta gorroto-delituak",
+        "oc": "Drets LGTBIQ+ e delictes d’òdi",
+        "en": "LGTBIQ+ rights and hate crimes"
+      },
+      "text": {
+        "es": "Garantizar la aplicación efectiva de los derechos LGTBIQ+ y protegerlos frente a retrocesos; reforzar prevención, investigación y persecución del odio con formación y legislación penal; exigir a plataformas cumplir el Reglamento de Servicios Digitales frente a contenidos ilícitos de odio y discriminación.",
+        "ca": "Garantir l’aplicació efectiva dels drets LGTBIQ+ i protegir-los davant retrocessos; reforçar prevenció, investigació i persecució de l’odi amb formació i legislació penal; exigir a plataformes complir el Reglament de Serveis Digitals davant continguts il·lícits d’odi i discriminació.",
+        "gl": "Garantir a aplicación efectiva dos dereitos LGTBIQ+ e protexelos fronte a retrocesos; reforzar prevención, investigación e persecución do odio con formación e lexislación penal; esixir ás plataformas cumprir o Regulamento de Servizos Dixitais fronte a contidos ilícitos de odio e discriminación.",
+        "eu": "LGTBIQ+ eskubideen benetako aplikazioa bermatzea eta atzerapausoetatik babestea; gorroto-delituen prebentzioa, ikerketa eta jazarpena indartzea prestakuntza eta zigor-legediarekin; plataformei Zerbitzu Digitalen Erregelamendua betetzea eskatzea legez kontrako gorroto- eta diskriminazio-edukien aurka.",
+        "oc": "Garantir era aplicacion efectiva des drets LGTBIQ+ e protegir-les deuant retrocèssi; refortir prevencion, investigacion e persecucion der òdi damb formacion e legislacion penau; exigir as plataformes complir eth Reglament de Servicis Digitaus deuant contenguts illicits d’òdi e discriminacion.",
+        "en": "Ensure effective application of LGTBIQ+ rights and protect them against rollback; strengthen hate-crime prevention, investigation and prosecution through training and criminal law; require platforms to comply with the Digital Services Act against illegal hate and discrimination content."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Reforzar la prevención, investigación y persecución de los delitos de odio contra las personas LGTBIQ+, mediante formación especializada y aplicación efectiva de la legislación penal."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Exigir a las plataformas digitales el cumplimiento del Reglamento europeo de Servicios Digitales, reforzando su respuesta frente a los contenidos ilícitos de odio y discriminación."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Garantizar la aplicación efectiva de los derechos de las personas LGTBIQ+ y proteger los avances alcanzados frente a cualquier retroceso."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-conversion-practices-trans-documents",
+      "title": {
+        "es": "Prácticas de conversión y documentación trans",
+        "ca": "Pràctiques de conversió i documentació trans",
+        "gl": "Prácticas de conversión e documentación trans",
+        "eu": "Konbertsio-praktikak eta trans dokumentazioa",
+        "oc": "Practiques de conversion e documentacion trans",
+        "en": "Conversion practices and trans documentation"
+      },
+      "text": {
+        "es": "Tipificar penalmente prácticas de conversión o aversión destinadas a modificar orientación sexual, identidad sexual o expresión de género; desarrollar el artículo 50 de la Ley 4/2023 con procedimientos claros para adecuar documentación expedida en España a la identidad de género de personas extranjeras trans.",
+        "ca": "Tipificar penalment pràctiques de conversió o aversió destinades a modificar orientació sexual, identitat sexual o expressió de gènere; desenvolupar l’article 50 de la Llei 4/2023 amb procediments clars per adequar documentació expedida a Espanya a la identitat de gènere de persones estrangeres trans.",
+        "gl": "Tipificar penalmente prácticas de conversión ou aversión destinadas a modificar orientación sexual, identidade sexual ou expresión de xénero; desenvolver o artigo 50 da Lei 4/2023 con procedementos claros para adecuar documentación expedida en España á identidade de xénero de persoas estranxeiras trans.",
+        "eu": "Sexu-orientazioa, sexu-identitatea edo genero-adierazpena aldatzeko konbertsio- edo abertsio-praktikak delitu berezi gisa tipifikatzea; 4/2023 Legearen 50. artikulua garatzea prozedura argiak bermatuz atzerriko trans pertsonen Espainian emandako dokumentazioa beren genero-identitatera egokitzeko.",
+        "oc": "Tipificar penaument practiques de conversion o aversion destinades a modificar orientacion sexuau, identitat sexuau o expression de genre; desvolopar er article 50 dera Lei 4/2023 damb procediments clars entà adaptar documentacion expedida en Espanha ara identitat de genre de persones estrangères trans.",
+        "en": "Specifically criminalise conversion or aversion practices intended to alter sexual orientation, sexual identity or gender expression; implement Article 50 of Law 4/2023 with clear procedures to align Spanish-issued documents with foreign trans people’s gender identity."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Favorecer la tipificación penal específica de las prácticas de conversión o aversión dirigidas a modificar la orientación sexual, la identidad sexual o la expresión de género."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Asegurar el desarrollo reglamentario del artículo 50 de la Ley 4/2023, garantizando procedimientos claros para adecuar la documentación expedida en España a la identidad de género de las personas extranjeras trans."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-human-rights-expression",
+      "title": {
+        "es": "Plan de derechos humanos y libertad de expresión",
+        "ca": "Pla de drets humans i llibertat d’expressió",
+        "gl": "Plan de dereitos humanos e liberdade de expresión",
+        "eu": "Giza eskubideen plana eta adierazpen-askatasuna",
+        "oc": "Plan de drets umans e libertat d’expression",
+        "en": "Human rights plan and freedom of expression"
+      },
+      "text": {
+        "es": "Elaborar un Plan Estatal de Derechos Humanos con objetivos, medidas, plazos y seguimiento público; reformar la «ley mordaza» suprimiendo restricciones desproporcionadas, y reformar los delitos de opinión sobre Corona, instituciones y símbolos conforme a estándares europeos de libertad de expresión.",
+        "ca": "Elaborar un Pla Estatal de Drets Humans amb objectius, mesures, terminis i seguiment públic; reformar la «llei mordassa» suprimint restriccions desproporcionades, i reformar els delictes d’opinió sobre Corona, institucions i símbols segons estàndards europeus de llibertat d’expressió.",
+        "gl": "Elaborar un Plan Estatal de Dereitos Humanos con obxectivos, medidas, prazos e seguimento público; reformar a «lei mordaza» suprimindo restricións desproporcionadas, e reformar os delitos de opinión sobre Coroa, institucións e símbolos conforme aos estándares europeos de liberdade de expresión.",
+        "eu": "Estatuko Giza Eskubideen Plana egitea helburu, neurri, epe eta jarraipen publikoarekin; «mozal legea» erreformatzea neurrigabeko murrizketak kenduz, eta Koroari, erakundeei eta sinboloei buruzko iritzi-delituak Europako adierazpen-askatasuneko estandarretara egokitzea.",
+        "oc": "Elaborar un Plan Estatau de Drets Umans damb objectius, mesures, tèrmes e seguiment public; reformar era «lei mordassa» suprimint restriccions desproporcionades, e reformar es delictes d’opinion sus Corona, institucions e simbòls segontes estandards europèus de libertat d’expression.",
+        "en": "Develop a State Human Rights Plan with objectives, measures, deadlines and public monitoring; remove disproportionate restrictions in the «gag law» and reform opinion offences concerning the Crown, institutions and State symbols to meet European freedom-of-expression standards."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Asegurar la elaboración de un Plan Estatal de Derechos Humanos, con objetivos, medidas, plazos y mecanismos públicos de seguimiento y evaluación."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Impulsar la reforma de la legislación conocida como «ley mordaza», eliminando las restricciones desproporcionadas al ejercicio de derechos y libertades."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-27",
+          "quote": "Favorecer la reforma del Código Penal en los delitos relacionados con la expresión de opiniones sobre la Corona, las instituciones y los símbolos del Estado, adecuando la legislación a los estándares europeos de libertad de expresión."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-universal-jurisdiction-prisons-borders",
+      "title": {
+        "es": "Justicia universal, reinserción y garantías fronterizas",
+        "ca": "Justícia universal, reinserció i garanties frontereres",
+        "gl": "Xustiza universal, reinserción e garantías fronteirizas",
+        "eu": "Justizia unibertsala, gizarteratzea eta mugako bermeak",
+        "oc": "Justícia universau, reinsercion e garanties fronterères",
+        "en": "Universal justice, rehabilitation and border safeguards"
+      },
+      "text": {
+        "es": "Recuperar jurisdicción universal efectiva para investigar crímenes internacionales graves y ratificar instrumentos internacionales; rechazar prisión permanente revisable y orientar prisiones a reeducación y reinserción con derechos. Reforzar garantías de migrantes y solicitantes de asilo, alternativas al internamiento en CIE e investigación de vulneraciones.",
+        "ca": "Recuperar jurisdicció universal efectiva per investigar crims internacionals greus i ratificar instruments internacionals; rebutjar presó permanent revisable i orientar presons a reeducació i reinserció amb drets. Reforçar garanties de migrants i sol·licitants d’asil, alternatives a l’internament en CIE i investigació de vulneracions.",
+        "gl": "Recuperar xurisdición universal efectiva para investigar crimes internacionais graves e ratificar instrumentos internacionais; rexeitar prisión permanente revisable e orientar prisións á reeducación e reinserción con dereitos. Reforzar garantías de migrantes e solicitantes de asilo, alternativas ao internamento en CIE e investigación de vulneracións.",
+        "eu": "Nazioarteko krimen larriak ikertzeko jurisdikzio unibertsal eraginkorra berreskuratzea eta nazioarteko tresnak berrestea; espetxealdi iraunkor berrikusgarria baztertzea eta espetxeak eskubidedun birheziketa eta gizarteratzera bideratzea. Migratzaile eta asilo-eskatzaileen bermeak, CIEko atxiloketaren alternatibak eta urraketen ikerketa indartzea.",
+        "oc": "Recuperar jurisdiccion universau efectiva entà investigar crimes internacionaus grèus e ratificar instruments internacionaus; refusar preson permanenta revisabla e orientar presons ara reeducacion e reinsercion damb drets. Refortir garanties de migrants e sollicitants d’asil, alternatives ar internament en CIE e investigacion de vulneracions.",
+        "en": "Restore effective universal jurisdiction to investigate serious international crimes and ratify international instruments; reject reviewable permanent imprisonment and orient prisons towards rights-respecting reeducation and reintegration. Strengthen migrant and asylum-seeker border safeguards, alternatives to immigration detention and investigations of violations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-28",
+          "quote": "Favorecer la reforma de la Ley Orgánica del Poder Judicial para recuperar una jurisdicción universal efectiva, facilitando la investigación de crímenes internacionales graves y promoviendo la ratificación de los instrumentos internacionales correspondientes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-28",
+          "quote": "Rechazar la prisión permanente revisable y defender un sistema penitenciario orientado a la reeducación y la reinserción, respetuoso con los derechos de las personas privadas de libertad."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-28",
+          "quote": "Reforzar las garantías de las personas migrantes y solicitantes de asilo en las fronteras, promoviendo alternativas a la privación de libertad en los Centros de Internamiento de Extranjeros y la investigación de posibles vulneraciones de derechos."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-foreign-policy-cooperation-death-penalty",
+      "title": {
+        "es": "Derechos humanos y cooperación internacional",
+        "ca": "Drets humans i cooperació internacional",
+        "gl": "Dereitos humanos e cooperación internacional",
+        "eu": "Giza eskubideak eta nazioarteko lankidetza",
+        "oc": "Drets umans e cooperacion internacionau",
+        "en": "Human rights and international cooperation"
+      },
+      "text": {
+        "es": "Defender derechos humanos y derecho internacional ante vulneraciones y crisis humanitarias; dotar suficientemente la cooperación respetando el modelo vasco; combatir la pena de muerte, exigir garantías para condenados y defender su abolición internacional.",
+        "ca": "Defensar drets humans i dret internacional davant vulneracions i crisis humanitàries; dotar suficientment la cooperació respectant el model basc; combatre la pena de mort, exigir garanties per a condemnats i defensar-ne l’abolició internacional.",
+        "gl": "Defender dereitos humanos e dereito internacional ante vulneracións e crises humanitarias; dotar suficientemente a cooperación respectando o modelo vasco; combater a pena de morte, esixir garantías para condenados e defender a súa abolición internacional.",
+        "eu": "Giza eskubideak eta nazioarteko zuzenbidea defendatzea urraketa eta krisi humanitarioen aurrean; lankidetza behar adina hornitzea euskal eredua errespetatuz; heriotza-zigorraren aurka egitea, zigortuentzako bermeak eskatzea eta nazioartean ezabatzea defendatzea.",
+        "oc": "Deféner drets umans e dret internacionau deuant vulneracions e crisis umanitàries; dotar sufisentament era cooperacion respectant eth modèl basc; combàter era pena de mòrt, exigir garanties entà condemnadi e deféner era sua abolicion internacionau.",
+        "en": "Defend human rights and international law against violations and humanitarian crises; adequately resource development cooperation while respecting the Basque model; oppose the death penalty, seek safeguards for condemned people and support worldwide abolition."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-28",
+          "quote": "Promover una política exterior comprometida con los derechos humanos y el derecho internacional, manteniendo una posición activa frente a las vulneraciones de derechos y las crisis humanitarias."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-28",
+          "quote": "Reforzar la cooperación internacional para el desarrollo, garantizando recursos suficientes y respetando la singularidad y capacidad de actuación del modelo vasco de cooperación."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-28",
+          "quote": "Mantener el compromiso contra la pena de muerte, exigiendo garantías jurídicas para las personas condenadas y defendiendo su abolición internacional."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-child-protection-digital-safety",
+      "title": {
+        "es": "Infancia protegida ante violencia y riesgos digitales",
+        "ca": "Infància protegida davant violència i riscos digitals",
+        "gl": "Infancia protexida fronte a violencia e riscos dixitais",
+        "eu": "Haurrak indarkeria eta arrisku digitaletatik babestea",
+        "oc": "Enfància protegida deuant violéncia e risqui digitaus",
+        "en": "Protecting children from violence and digital risks"
+      },
+      "text": {
+        "es": "Aplicar protección contra violencia y explotación con coordinación administrativa; crear órganos judiciales especializados en infancia y adolescencia en Euskadi con personal formado y procedimientos sin revictimización. Exigir protección digital ante ciberacoso, violencia sexual y mal uso de datos e imágenes; verificación de edad, denuncia y retirada de contenidos ilícitos proporcionadas respetando derechos y privacidad.",
+        "ca": "Aplicar protecció contra violència i explotació amb coordinació administrativa; crear òrgans judicials especialitzats en infància i adolescència a Euskadi amb personal format i procediments sense revictimització. Exigir protecció digital davant ciberassetjament, violència sexual i mal ús de dades i imatges; verificació d’edat, denúncia i retirada de continguts il·lícits proporcionades respectant drets i privacitat.",
+        "gl": "Aplicar protección contra violencia e explotación con coordinación administrativa; crear órganos xudiciais especializados en infancia e adolescencia en Euskadi con persoal formado e procedementos sen revitimización. Esixir protección dixital ante ciberacoso, violencia sexual e mal uso de datos e imaxes; verificación de idade, denuncia e retirada de contidos ilícitos proporcionadas respectando dereitos e privacidade.",
+        "eu": "Indarkeria eta esplotazioaren aurkako babesa aplikatzea administrazio-koordinazioarekin; Euskadin haur eta nerabeentzako organo judizial espezializatuak sortzea prestatutako langileekin eta birbiktimizaziorik gabeko prozedurekin. Ziberjazarpen, sexu-indarkeria eta datu zein irudien erabilera okerraren aurkako babes digitala eskatzea; adin-egiaztapen, salaketa eta legez kontrako edukien kentze proportzionatuak, eskubide eta pribatutasuna errespetatuz.",
+        "oc": "Aplicar proteccion contra violéncia e explotacion damb coordinacion administrativa; crear organismes judiciaus especializadi en enfància e adolescéncia en Euskadi damb personau format e procediments sense revictimizacion. Exigir proteccion digitau deuant ciberassetjament, violéncia sexuau e mau usatge de donades e imatges; verificacion d’edat, denóncia e retirada de contenguts illicits proporcionades respectant drets e privacitat.",
+        "en": "Apply protection against violence and exploitation with intergovernmental coordination; create specialised Basque courts for children and adolescents with trained staff and procedures avoiding revictimisation. Require digital protection against cyberbullying, sexual violence and misuse of data and images; proportionate age checks, reporting and removal of illegal content respecting rights and privacy."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-35",
+          "quote": "Asegurar la protección de la infancia frente a la violencia y la explotación, reforzando la aplicación de la legislación vigente y los mecanismos de coordinación entre administraciones."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-35",
+          "quote": "Promover órganos judiciales especializados en infancia y adolescencia en Euskadi, con profesionales formados y procedimientos adaptados a sus necesidades para evitar la revictimización."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-35",
+          "quote": "Reforzar las obligaciones de las plataformas digitales para proteger a la infancia, especialmente frente al ciberacoso, la violencia sexual digital y el uso indebido de datos e imágenes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-35",
+          "quote": "Favorecer mecanismos proporcionados de verificación de edad, denuncia y retirada de contenidos ilícitos, respetando los derechos y la privacidad de las personas menores de edad."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-statute-bilateral-guarantees",
+      "title": {
+        "es": "Autogobierno y nuevo pacto político",
+        "ca": "Autogovern i nou pacte polític",
+        "gl": "Autogoberno e novo pacto político",
+        "eu": "Autogobernua eta itun politiko berria",
+        "oc": "Autogovèrn e nau pacte politic",
+        "en": "Self-government and a new political pact"
+      },
+      "text": {
+        "es": "Cumplir íntegramente el Estatuto con transferencias y recursos, rechazando recentralización y vaciamiento competencial. Proteger Derechos Históricos y reconocimiento nacional; avanzar a un Concierto Político basado en voluntad democrática, pacto y bilateralidad, con negociación y seguimiento bilateral de acuerdos, prevención y resolución de conflictos entre Euskadi y el Estado y garantías imparciales contra incumplimientos o modificaciones unilaterales.",
+        "ca": "Complir íntegrament l’Estatut amb transferències i recursos, rebutjant recentralització i buidatge competencial. Protegir Drets Històrics i reconeixement nacional; avançar a un Concierto Político basat en voluntat democràtica, pacte i bilateralitat, amb negociació i seguiment bilateral d’acords, prevenció i resolució de conflictes entre Euskadi i l’Estat i garanties imparcials contra incompliments o modificacions unilaterals.",
+        "gl": "Cumprir integramente o Estatuto con transferencias e recursos, rexeitando recentralización e baleirado competencial. Protexer Dereitos Históricos e recoñecemento nacional; avanzar a un Concierto Político baseado en vontade democrática, pacto e bilateralidade, con negociación e seguimento bilateral de acordos, prevención e resolución de conflitos entre Euskadi e o Estado e garantías imparciais contra incumprimentos ou modificacións unilaterais.",
+        "eu": "Estatutua osorik betetzea transferentzia eta baliabideekin, birzentralizazioa eta eskumenak hustea baztertuz. Eskubide Historikoak eta nazio-aitortza babestea; borondate demokratikoan, itunean eta aldebikotasunean oinarritutako Kontzertu Politikora aurreratzea, akordioen aldebiko negoziazio eta jarraipenarekin, Euskadiren eta Estatuaren arteko gatazken prebentzio eta konponbidearekin eta ez-betetze edo alde bakarreko aldaketen aurkako berme inpartzialekin.",
+        "oc": "Complir integraument er Estatut damb transferéncies e recorsi, refusant recentralizacion e vuèit competénciau. Protegir Drets Istorics e reconeishement nacionau; auançar entà un Concierto Político basat en volontat democratica, pacte e bilateralitat, damb negociacion e seguiment bilaterau d’acòrds, prevencion e resolucion de conflictes entre Euskadi e er Estat e garanties imparciaus contra incompliments o modificacions unilateraus.",
+        "en": "Fully implement the Statute with transfers and resources, rejecting recentralisation and erosion of powers. Protect Historical Rights and national recognition; move towards a Political Concierto based on democratic will, agreement and bilateralism, with bilateral negotiation and agreement monitoring, prevention and resolution of Euskadi–State disputes and impartial safeguards against non-compliance or unilateral changes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-38",
+          "quote": "Asegurar el cumplimiento íntegro del Estatuto de Gernika y la culminación de todas las transferencias pendientes, garantizando que las competencias reconocidas puedan ejercerse de forma efectiva y con los recursos correspondientes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-38",
+          "quote": "Rechazar cualquier intento de recentralización, invasión o vaciamiento de las competencias vascas, tanto mediante reformas legislativas como a través de decisiones administrativas o presupuestarias."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-38",
+          "quote": "Establecer mecanismos bilaterales de negociación y seguimiento de los acuerdos entre Euskadi y el Estado, que permitan verificar su cumplimiento y resolver las diferencias institucionales."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-38",
+          "quote": "Proteger los Derechos Históricos del Pueblo Vasco y el reconocimiento nacional de Euskadi, como fundamento de una relación política basada en el pacto, la bilateralidad y el respeto mutuo."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Favorecer una nueva relación política entre Euskadi y el Estado basada en el reconocimiento de la realidad nacional vasca, el respeto a la voluntad democrática de la sociedad vasca y la capacidad de decisión de sus instituciones."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Avanzar hacia un Concierto Político que traslade los principios de pacto y bilateralidad al ámbito institucional."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Establecer mecanismos de prevención y resolución de conflictos entre Euskadi y el Estado, con garantías imparciales que impidan el incumplimiento, el vaciamiento o la modificación unilateral de los acuerdos."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-navarre-territorial-decisions",
+      "title": {
+        "es": "Navarra y decisiones territoriales democráticas",
+        "ca": "Navarra i decisions territorials democràtiques",
+        "gl": "Navarra e decisións territoriais democráticas",
+        "eu": "Nafarroa eta lurralde-erabaki demokratikoak",
+        "oc": "Navarra e decisions territoriaus democratiques",
+        "en": "Navarre and democratic territorial decisions"
+      },
+      "text": {
+        "es": "Defender junto a Geroa Bai Amejoramiento del Fuero, Convenio e instituciones navarras respetando su decisión y autogobierno. Apoyar que Trebiño y Villaverde Turtzioz decidan democráticamente su futuro, incluida eventual incorporación al territorio histórico vasco correspondiente mediante procedimientos legales y diálogo.",
+        "ca": "Defensar amb Geroa Bai Amejoramiento del Fuero, Convenio i institucions navarreses respectant-ne decisió i autogovern. Donar suport que Trebiño i Villaverde Turtzioz decideixin democràticament el seu futur, inclosa eventual incorporació al territori històric basc corresponent mitjançant procediments legals i diàleg.",
+        "gl": "Defender con Geroa Bai Amejoramiento del Fuero, Convenio e institucións navarras respectando a súa decisión e autogoberno. Apoiar que Trebiño e Villaverde Turtzioz decidan democraticamente o seu futuro, incluída eventual incorporación ao territorio histórico vasco correspondente mediante procedementos legais e diálogo.",
+        "eu": "Geroa Bairekin Foru Hobekuntza, Hitzarmena eta Nafarroako erakundeak defendatzea, haien erabakimena eta autogobernua errespetatuz. Trebiñok eta Villaverde Turtziozek etorkizuna demokratikoki erabakitzea babestea, dagokion euskal lurralde historikoan sartzeko aukera barne, legezko prozedura eta elkarrizketaren bidez.",
+        "oc": "Deféner damb Geroa Bai Amejoramiento del Fuero, Convenio e institucions navarreses respectant era sua decision e autogovèrn. Sostier que Trebiño e Villaverde Turtzioz decidisquen democraticament eth sòn futur, includida eventuau incorporacion ath territòri istoric basc corresponent mejançant procediments legaus e dialòg.",
+        "en": "With Geroa Bai defend Navarre’s Amejoramiento del Fuero, Convenio and institutions, respecting its decision-making and self-government. Support Trebiño and Villaverde Turtzioz democratically deciding their future, including possible incorporation into the corresponding Basque historical territory through legal procedures and institutional dialogue."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-38",
+          "quote": "Defender, junto a Geroa Bai, el Amejoramiento del Fuero, el Convenio Económico y las instituciones propias de Navarra, respetando su capacidad de decisión y el desarrollo de su autogobierno."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-38",
+          "quote": "Apoyar el derecho de la ciudadanía de Trebiño y Villaverde Turtzioz a pronunciarse democráticamente sobre su futuro, incluida, en su caso, la incorporación al territorio histórico correspondiente de Euskadi, mediante los procedimientos legales y el diálogo institucional necesarios."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-basque-judicial-organisation",
+      "title": {
+        "es": "Organización judicial vasca",
+        "ca": "Organització judicial basca",
+        "gl": "Organización xudicial vasca",
+        "eu": "Euskal antolaketa judiziala",
+        "oc": "Organizacion judiciau basca",
+        "en": "Basque judicial organisation"
+      },
+      "text": {
+        "es": "Reformar la organización para agotar instancias, casación o última instancia procedente ante el Tribunal Superior de Justicia vasco, salvo jurisdicción reservada al Supremo; crear Consejo Vasco de Justicia con funciones de gobierno judicial que atribuya el nuevo marco jurídico.",
+        "ca": "Reformar l’organització per esgotar instàncies, cassació o última instància procedent davant el Tribunal Superior de Justícia basc, llevat de jurisdicció reservada al Suprem; crear Consell Basc de Justícia amb funcions de govern judicial atribuïdes pel nou marc jurídic.",
+        "gl": "Reformar a organización para esgotar instancias, casación ou última instancia procedente ante o Tribunal Superior de Xustiza vasco, salvo xurisdición reservada ao Supremo; crear Consello Vasco de Xustiza con funcións de goberno xudicial atribuídas polo novo marco xurídico.",
+        "eu": "Antolaketa erreformatzea auzialdiak, kasazioa edo dagokion azken auzialdia Euskal Autonomia Erkidegoko Justizia Auzitegi Nagusian agortzeko, Auzitegi Gorenari gordetako jurisdikzioa salbu; Euskal Justizia Kontseilua sortzea esparru juridiko berriak emandako gobernu judizialeko eginkizunekin.",
+        "oc": "Reformar era organizacion entà esgotar instàncies, cassacion o darrèra instància procedenta deuant eth Tribunau Superior de Justícia basc, exceptat jurisdiccion reservada ath Suprèm; crear Conselh Basc de Justícia damb foncions de govèrn judiciau atribuïdes peth nau marc juridic.",
+        "en": "Reform judicial organisation so successive appeals, cassation or the applicable final instance end at the Basque High Court, except jurisdiction reserved to the Supreme Court; create a Basque Justice Council exercising judicial-governance powers assigned by the new legal framework."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Favorecer las reformas necesarias para que la organización judicial culmine en el Tribunal Superior de Justicia del País Vasco, ante el que se agoten las sucesivas instancias procesales, incluidos los recursos de casación o la última instancia que proceda, con la única excepción de la jurisdicción reservada al Tribunal Supremo."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Impulsar la creación de un Consejo Vasco de Justicia, con capacidad para ejercer las funciones de gobierno del Poder Judicial en Euskadi que le atribuya el nuevo marco jurídico."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-official-secrets-victim-truth",
+      "title": {
+        "es": "Secretos oficiales y esclarecimiento de hechos",
+        "ca": "Secrets oficials i aclariment de fets",
+        "gl": "Segredos oficiais e esclarecemento de feitos",
+        "eu": "Sekretu ofizialak eta gertakariak argitzea",
+        "oc": "Secrets oficiaus e esclariment de hèts",
+        "en": "Official secrets and establishing the truth"
+      },
+      "text": {
+        "es": "Sustituir la Ley de Secretos Oficiales con clasificación objetiva y plazos de desclasificación automática. Desclasificar o facilitar documentación para esclarecer el 3 de marzo de 1976 en Vitoria-Gasteiz, muerte de Mikel Zabalza, atentado del bar Aldana de Alonsotegi del 20 de enero de 1980 y Sanfermines de 1978, reconociendo y reparando víctimas.",
+        "ca": "Substituir la Llei de Secrets Oficials amb classificació objectiva i terminis de desclassificació automàtica. Desclassificar o facilitar documentació per aclarir el 3 de març de 1976 a Vitoria-Gasteiz, mort de Mikel Zabalza, atemptat del bar Aldana d’Alonsotegi del 20 de gener de 1980 i Sanfermines de 1978, reconeixent i reparant víctimes.",
+        "gl": "Substituír a Lei de Segredos Oficiais con clasificación obxectiva e prazos de desclasificación automática. Desclasificar ou facilitar documentación para esclarecer o 3 de marzo de 1976 en Vitoria-Gasteiz, morte de Mikel Zabalza, atentado do bar Aldana de Alonsotegi do 20 de xaneiro de 1980 e Sanfermines de 1978, recoñecendo e reparando vítimas.",
+        "eu": "Sekretu Ofizialen Legea ordeztea sailkapen objektiboarekin eta desklasifikazio automatikorako epeekin. Dokumentuak desklasifikatu edo eskuragarri jartzea Gasteizko 1976ko martxoaren 3a, Mikel Zabalzaren heriotza, Alonsotegiko Aldana tabernako 1980ko urtarrilaren 20ko atentatua eta 1978ko sanferminak argitzeko, biktimak aitortu eta erreparatuz.",
+        "oc": "Substituïr era Lei de Secrets Oficiaus damb classificacion objectiva e tèrmes de desclassificacion automatica. Desclassificar o facilitar documentacion entà esclarir eth 3 de març de 1976 en Vitoria-Gasteiz, mòrt de Mikel Zabalza, atemptat deth bar Aldana d’Alonsotegi deth 20 de gèr de 1980 e Sanfermines de 1978, reconeishent e reparant victimes.",
+        "en": "Replace official-secrets law with objective classification and automatic declassification deadlines. Declassify or provide documents to clarify 3 March 1976 in Vitoria-Gasteiz, Mikel Zabalza’s death, the Alonsotegi Aldana bar bombing of 20 January 1980 and Sanfermines 1978, recognising victims and providing reparation."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-40",
+          "quote": "Asegurar la aprobación de una nueva Ley de Secretos Oficiales, que sustituya la legislación vigente, establezca criterios objetivos de clasificación y fije plazos concretos de desclasificación automática."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-40",
+          "quote": "Promover la desclasificación de los documentos oficiales relacionados con los sucesos del 3 de marzo de 1976 en Vitoria-Gasteiz, para contribuir al esclarecimiento de los hechos y al reconocimiento y reparación de las víctimas."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-40",
+          "quote": "Asegurar el esclarecimiento de las circunstancias de la muerte de Mikel Zabalza, facilitando el acceso a la documentación oficial que pueda contribuir a conocer la verdad."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-40",
+          "quote": "Promover la desclasificación de la documentación relacionada con el atentado del bar Aldana de Alonsotegi, ocurrido el 20 de enero de 1980, y el esclarecimiento de los hechos y las responsabilidades correspondientes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-40",
+          "quote": "Asegurar el acceso a la documentación oficial sobre la actuación policial durante los Sanfermines de 1978, para avanzar en el conocimiento de la verdad y la reparación de las víctimas."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-democratic-memory-accountability",
+      "title": {
+        "es": "Memoria democrática y rendición de cuentas",
+        "ca": "Memòria democràtica i rendició de comptes",
+        "gl": "Memoria democrática e rendición de contas",
+        "eu": "Memoria demokratikoa eta kontuak ematea",
+        "oc": "Memòria democratica e rendicion de compdes",
+        "en": "Democratic memory and accountability"
+      },
+      "text": {
+        "es": "Aplicar íntegramente leyes de memoria para verdad, justicia y reparación de víctimas de Guerra Civil y dictadura; reparar violaciones específicas contra mujeres, especialmente del Patronato de Protección a la Mujer, con víctimas y Gogora. Garantizar transparencia y acceso comprensible a decisiones, presupuestos y resultados públicos.",
+        "ca": "Aplicar íntegrament lleis de memòria per a veritat, justícia i reparació de víctimes de Guerra Civil i dictadura; reparar vulneracions específiques contra dones, especialment del Patronato de Protección a la Mujer, amb víctimes i Gogora. Garantir transparència i accés comprensible a decisions, pressupostos i resultats públics.",
+        "gl": "Aplicar integramente leis de memoria para verdade, xustiza e reparación de vítimas da Guerra Civil e ditadura; reparar vulneracións específicas contra mulleres, especialmente do Patronato de Protección a la Mujer, con vítimas e Gogora. Garantir transparencia e acceso comprensible a decisións, orzamentos e resultados públicos.",
+        "eu": "Memoria-legeak osorik aplikatzea Gerra Zibileko eta diktadurako biktimen egia, justizia eta erreparaziorako; emakumeen aurkako urraketa bereziak erreparatzea, bereziki Patronato de Protección a la Mujer erakundekoak, biktimekin eta Gogorarekin. Erabaki, aurrekontu eta emaitza publikoetarako gardentasuna eta sarbide ulergarria bermatzea.",
+        "oc": "Aplicar integraument leis de memòria entà vertat, justícia e reparacion de victimes dera Guèrra Civiu e dictadura; reparar vulneracions especifiques contra hemnes, sustot deth Patronato de Protección a la Mujer, damb victimes e Gogora. Garantir transparéncia e accès comprensible a decisions, pressupòsti e resultats publics.",
+        "en": "Fully apply memory laws for truth, justice and reparation for Civil War and dictatorship victims; repair specific violations against women, especially those of the Patronato de Protección a la Mujer, involving victims and Gogora. Ensure transparency and understandable access to public decisions, budgets and results."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Reconocer y reparar las vulneraciones específicas de los derechos de las mujeres durante la dictadura franquista, especialmente las sufridas por las víctimas del Patronato de Protección a la Mujer, con participación de las víctimas y de Gogora."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-40",
+          "quote": "Promover la aplicación íntegra de la legislación de Memoria Histórica y Memoria Democrática, garantizando los derechos a la verdad, la justicia y la reparación de las víctimas de la Guerra Civil y la dictadura franquista."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-40",
+          "quote": "Reforzar la transparencia y la rendición de cuentas de las administraciones públicas, garantizando el acceso de la ciudadanía a información comprensible sobre sus decisiones, presupuestos y resultados."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-european-voice-languages",
+      "title": {
+        "es": "Voz propia y lenguas oficiales en Europa",
+        "ca": "Veu pròpia i llengües oficials a Europa",
+        "gl": "Voz propia e linguas oficiais en Europa",
+        "eu": "Ahots propioa eta hizkuntza ofizialak Europan",
+        "oc": "Votz pròpria e lengües oficiaus en Euròpa",
+        "en": "A Basque voice and official languages in Europe"
+      },
+      "text": {
+        "es": "Participar directamente en instituciones y formaciones del Consejo de la UE, especialmente ECOFIN y Justicia e Interior, sobre competencias vascas; reconocer y representar realidades nacionales incluido Parlamento Europeo. Promover oficialidad y uso efectivo de euskera, catalán y gallego en la UE.",
+        "ca": "Participar directament en institucions i formacions del Consell de la UE, especialment ECOFIN i Justícia i Interior, sobre competències basques; reconèixer i representar realitats nacionals inclòs Parlament Europeu. Promoure oficialitat i ús efectiu d’euskera, català i gallec a la UE.",
+        "gl": "Participar directamente en institucións e formacións do Consello da UE, especialmente ECOFIN e Xustiza e Interior, sobre competencias vascas; recoñecer e representar realidades nacionais incluído Parlamento Europeo. Promover oficialidade e uso efectivo de éuscaro, catalán e galego na UE.",
+        "eu": "EBko erakunde eta Kontseiluaren osaketetan zuzenean parte hartzea euskal eskumenei dagokienez, bereziki ECOFINen eta Justizia eta Barne Gaietan; nazio-errealitateak aitortzea eta ordezkatzea, Europako Parlamentuan ere bai. Euskararen, katalanaren eta galizieraren ofizialtasuna eta benetako erabilera sustatzea EBn.",
+        "oc": "Participar dirèctament en institucions e formacions deth Conselh dera UE, sustot ECOFIN e Justícia e Interior, sus competéncies basques; reconéisher e representar realitats nacionaus includit Parlament Europèu. Promòir oficialitat e usatge efectiu d’euskera, catalan e galhèc ena UE.",
+        "en": "Participate directly in EU institutions and Council formations, especially ECOFIN and Justice and Home Affairs, on Basque competences; recognise and represent national realities including in the European Parliament. Promote official status and effective institutional use of Basque, Catalan and Galician in the EU."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Asegurar la participación directa y efectiva de Euskadi en las instituciones de la Unión Europea, especialmente en aquellas decisiones relacionadas con sus competencias."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Impulsar la presencia con voz propia de Euskadi en las distintas formaciones del Consejo de la Unión Europea, particularmente en el Consejo ECOFIN y en el Consejo de Justicia y Asuntos de Interior, cuando se aborden materias vinculadas a nuestras competencias."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Favorecer el reconocimiento y la representación de las realidades nacionales en las instituciones europeas, incluido el Parlamento Europeo."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Promover la oficialidad del euskera, el catalán y el gallego en la Unión Europea, garantizando su presencia y utilización efectiva en las instituciones comunitarias."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-europe-atlantic-macroregion",
+      "title": {
+        "es": "Europa social y Macrorregión Atlántica",
+        "ca": "Europa social i Macroregió Atlàntica",
+        "gl": "Europa social e Macrorrexión Atlántica",
+        "eu": "Europa soziala eta Makroeskualde Atlantikoa",
+        "oc": "Euròpa sociau e Macroregion Atlantica",
+        "en": "Social Europe and an Atlantic Macroregion"
+      },
+      "text": {
+        "es": "Apoyar una Europa democrática, competitiva y social con autonomía estratégica, protección industrial y respuesta tecnológica, energética y climática; crear Macrorregión Atlántica Europea para cooperar en ferrocarril, energía, industria, digitalización, pesca, economía azul, sostenibilidad y relaciones con Reino Unido.",
+        "ca": "Donar suport a una Europa democràtica, competitiva i social amb autonomia estratègica, protecció industrial i resposta tecnològica, energètica i climàtica; crear Macroregió Atlàntica Europea per cooperar en ferrocarril, energia, indústria, digitalització, pesca, economia blava, sostenibilitat i relacions amb Regne Unit.",
+        "gl": "Apoiar unha Europa democrática, competitiva e social con autonomía estratéxica, protección industrial e resposta tecnolóxica, enerxética e climática; crear Macrorrexión Atlántica Europea para cooperar en ferrocarril, enerxía, industria, dixitalización, pesca, economía azul, sustentabilidade e relacións co Reino Unido.",
+        "eu": "Europa demokratiko, lehiakor eta soziala babestea, autonomia estrategikoarekin, industriaren babesarekin eta erantzun teknologiko, energetiko eta klimatikoarekin; Europako Makroeskualde Atlantikoa sortzea trenbide, energia, industria, digitalizazio, arrantza, ekonomia urdin, jasangarritasun eta Erresuma Batuarekiko harremanetan lankidetzarako.",
+        "oc": "Sostier ua Euròpa democratica, competitiva e sociau damb autonomia estrategica, proteccion industriau e responsa tecnologica, energetica e climatica; crear Macroregion Atlantica Europèa entà cooperar en camin de hèr, energia, industria, digitalizacion, pesca, economia blua, sostenibilitat e relacions damb Reiaume Unit.",
+        "en": "Support a democratic, competitive, social Europe with strategic autonomy, industrial protection and technological, energy and climate responses; create a European Atlantic Macroregion for cooperation in rail, energy, industry, digitalisation, fishing, the blue economy, sustainability and UK relations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Apoyar una Europa más democrática, competitiva y social, capaz de reforzar su autonomía estratégica, proteger su industria y responder a los desafíos tecnológicos, energéticos y climáticos."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Favorecer la creación de una Macrorregión Atlántica Europea, para reforzar la cooperación en infraestructuras ferroviarias y energéticas, industria, digitalización, pesca, economía azul, sostenibilidad y relaciones con el Reino Unido."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-european-funds",
+      "title": {
+        "es": "Fondos europeos gestionados desde Euskadi",
+        "ca": "Fons europeus gestionats des d’Euskadi",
+        "gl": "Fondos europeos xestionados desde Euskadi",
+        "eu": "Euskaditik kudeatutako Europako funtsak",
+        "oc": "Hons europèus gestionadi des d’Euskadi",
+        "en": "European funds managed from Euskadi"
+      },
+      "text": {
+        "es": "Participar en elaboración y gestión del Marco Financiero Plurianual 2028-2034, prioridades, reparto y decisiones; gestionar fondos descentralizadamente sin recentralización, con participación directa en programación, ejecución y seguimiento competencial y financiación adecuada a prioridades industriales, energéticas, tecnológicas, sociales y territoriales vascas.",
+        "ca": "Participar en elaboració i gestió del Marc Financer Pluriennal 2028-2034, prioritats, repartiment i decisions; gestionar fons descentralitzadament sense recentralització, amb participació directa en programació, execució i seguiment competencial i finançament adequat a prioritats industrials, energètiques, tecnològiques, socials i territorials basques.",
+        "gl": "Participar na elaboración e xestión do Marco Financeiro Plurianual 2028-2034, prioridades, reparto e decisións; xestionar fondos descentralizadamente sen recentralización, con participación directa en programación, execución e seguimento competencial e financiamento adecuado ás prioridades industriais, enerxéticas, tecnolóxicas, sociais e territoriais vascas.",
+        "eu": "2028-2034ko Urte Anitzeko Finantza Esparruaren prestakuntza eta kudeaketan, lehentasunetan, banaketan eta erabakietan parte hartzea; funtsak modu deszentralizatuan kudeatzea birzentralizaziorik gabe, eskumeneko programazio, gauzatze eta jarraipenean zuzeneko parte-hartzearekin eta euskal industria-, energia-, teknologia-, gizarte- eta lurralde-lehentasunetarako finantzaketa egokiarekin.",
+        "oc": "Participar ena elaboracion e gestion deth Marc Financèr Pluriennau 2028-2034, prioritats, repartiment e decisions; gestionar hons descentralizadament sense recentralizacion, damb participacion dirècta en programacion, execucion e seguiment competénciau e finançament adequat a prioritats industriaus, energetiques, tecnologiques, sociaus e territoriaus basques.",
+        "en": "Participate in preparing and managing the 2028-2034 Multiannual Financial Framework, priorities, allocation and decisions; decentralise funds without recentralisation, with direct involvement in programming, implementation and monitoring within Basque competences and adequate funding for Basque industrial, energy, technological, social and territorial priorities."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Asegurar la participación efectiva de Euskadi en la elaboración y gestión del Marco Financiero Plurianual europeo 2028-2034, interviniendo en la definición de prioridades, el reparto de recursos y la toma de decisiones."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Impulsar la gestión descentralizada de los fondos europeos, respetando las competencias de las instituciones vascas y evitando su recentralización por parte del Estado."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-42",
+          "quote": "Asegurar que Euskadi participe directamente en los mecanismos de programación, ejecución y seguimiento de los fondos europeos que afecten a sus ámbitos competenciales."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-42",
+          "quote": "Promover una financiación europea adecuada para las prioridades industriales, energéticas, tecnológicas, sociales y territoriales de Euskadi, garantizando que las decisiones sobre los recursos respondan a las necesidades de nuestro país."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-institutions-and-rights-government-no-vox",
+      "title": {
+        "es": "No facilitar gobiernos dependientes de Vox",
+        "ca": "No facilitar governs dependents de Vox",
+        "gl": "Non facilitar gobernos dependentes de Vox",
+        "eu": "Voxen mendeko gobernurik ez ahalbidetzea",
+        "oc": "Non facilitar govèrns dependents de Vox",
+        "en": "No enabling governments dependent on Vox"
+      },
+      "text": {
+        "es": "No facilitar nunca un gobierno que dependa de Vox; oponerse con instrumentos democráticos y parlamentarios a retrocesos en derechos, libertades y autogobierno, sin dar cheques en blanco a partidos estatales.",
+        "ca": "No facilitar mai un govern que depengui de Vox; oposar-se amb instruments democràtics i parlamentaris a retrocessos en drets, llibertats i autogovern, sense donar xecs en blanc a partits estatals.",
+        "gl": "Non facilitar nunca un goberno que dependa de Vox; opoñerse con instrumentos democráticos e parlamentarios a retrocesos en dereitos, liberdades e autogoberno, sen dar cheques en branco a partidos estatais.",
+        "eu": "Voxen mendeko gobernurik inoiz ez ahalbidetzea; tresna demokratiko eta parlamentarioekin eskubide, askatasun eta autogobernuaren atzerapausoen aurka egitea, Estatuko alderdiei txeke zuririk eman gabe.",
+        "oc": "Non facilitar jamès un govèrn que depengue de Vox; opausar-se damb instruments democratics e parlamentaris a retrocèssi en drets, libertats e autogovèrn, sense dar chècs en blanc a partits estataus.",
+        "en": "Never enable a government dependent on Vox; oppose rollbacks of rights, freedoms and self-government through democratic and parliamentary instruments, without giving State parties blank cheques."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-3",
+          "quote": "EAJ-PNV nunca facilitará un gobierno que dependa de Vox."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-3",
+          "quote": "No aceptaremos retrocesos en derechos y libertades ni renunciaremos a nuestros valores democráticos."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-3",
+          "quote": "Defenderemos nuestras instituciones, nuestra identidad y las libertades conquistadas, utilizando todos los instrumentos democráticos y parlamentarios a nuestro alcance."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-3",
+          "quote": "Y tampoco daremos cheques en blanco a ningún partido estatal."
+        }
+      ]
+    }
+  ],
+  "internalNotes": "The programme frames these commitments as advocacy in the Cortes Generales for Euskadi. Measures must be read within the stated Basque competences and any specific State or European legal limits; they do not imply direct State implementation of devolved policies."
+}

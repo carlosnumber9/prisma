@@ -1,0 +1,215 @@
+{
+  "id": "partido-autonomos--pensions-and-social-protection",
+  "partyId": "partido-autonomos",
+  "topicId": "pensions-and-social-protection",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-pensions-and-social-protection-self-employed-benefits",
+      "title": {
+        "es": "Cese de actividad y baja médica",
+        "ca": "Cessament d’activitat i baixa mèdica",
+        "gl": "Cesamento de actividade e baixa médica",
+        "eu": "Jarduera uztea eta osasun baja",
+        "oc": "Cessament d’activitat e baisha medica",
+        "en": "Cessation benefits and sick leave"
+      },
+      "text": {
+        "es": "Equiparar objetivamente la prestación por cese de actividad al desempleo asalariado, eliminar requisitos probatorios abusivos y bonificar el 100 % de la cuota desde el primer día de baja médica acreditada, reasignando fondos de mutuas sin elevar el déficit.",
+        "ca": "Equiparar objectivament la prestació per cessament d’activitat a l’atur assalariat, eliminar requisits probatoris abusius i bonificar el 100 % de la quota des del primer dia de baixa mèdica acreditada, reassignant fons de mútues sense augmentar el dèficit.",
+        "gl": "Equiparar obxectivamente a prestación por cesamento de actividade ao desemprego asalariado, eliminar requisitos probatorios abusivos e bonificar o 100 % da cota desde o primeiro día de baixa médica acreditada, reasignando fondos de mutuas sen elevar o déficit.",
+        "eu": "Jarduera uzteagatiko prestazioa soldatapekoen langabezia prestazioarekin objektiboki parekatzea, abusuzko froga baldintzak kentzea eta egiaztatutako osasun bajaren lehen egunetik kuotaren % 100eko hobaria ematea, mutualitateetako funtsak birbanatuz defizita handitu gabe.",
+        "oc": "Equiparar objectivament era prestacion per cessament d’activitat ath caumatge assalariat, eliminar requisits provatòris abusius e bonificar eth 100 % dera quòta des deth prumèr dia de baisha medica acreditada, reassignant hons de mútues sense aumentar eth deficit.",
+        "en": "Objectively align cessation-of-activity benefits with employee unemployment benefits, remove abusive proof requirements and waive 100% of contributions from the first day of certified sick leave, reallocating mutual-insurer funds without increasing the deficit."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-2",
+          "quote": "Paro automático y Baja Laboral digna desde el primer día"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-pensions-and-social-protection-family-care-and-collaborators",
+      "title": {
+        "es": "Cuidado y familiares colaboradores",
+        "ca": "Cures i familiars col·laboradors",
+        "gl": "Coidados e familiares colaboradores",
+        "eu": "Zaintza eta senide laguntzaileak",
+        "oc": "Suènh e familiars collaboradors",
+        "en": "Family care and assisting relatives"
+      },
+      "text": {
+        "es": "Bonificar el 100 % de la cuota hasta doce meses a autónomos que reduzcan actividad para cuidar hijos menores con enfermedad grave o familiares dependientes de primer grado; reconocer cotización y desempleo a familiares colaboradores con salario y jornada acreditados, sin exclusión automática del régimen general.",
+        "ca": "Bonificar el 100 % de la quota fins a dotze mesos a autònoms que redueixin activitat per cuidar fills menors amb malaltia greu o familiars dependents de primer grau; reconèixer cotització i atur a familiars col·laboradors amb salari i jornada acreditats, sense exclusió automàtica del règim general.",
+        "gl": "Bonificar o 100 % da cota ata doce meses a autónomos que reduzan actividade para coidar fillos menores con enfermidade grave ou familiares dependentes de primeiro grao; recoñecer cotización e desemprego a familiares colaboradores con salario e xornada acreditados, sen exclusión automática do réxime xeral.",
+        "eu": "Kuotaren % 100eko hobaria ematea gehienez hamabi hilabetez, gaixotasun larria duten seme-alaba adingabeak edo mendeko lehen mailako senideak zaintzeko jarduera murrizten duten autonomoei; soldata eta lanaldia egiaztatzen dituzten senide laguntzaileei kotizazioa eta langabezia prestazioa aitortzea, araubide orokorretik automatikoki kanporatu gabe.",
+        "oc": "Bonificar eth 100 % dera quòta enquia dotze mesi as autonòms que redusisquen activitat entà suenhar hilhs menors damb malautia grèu o familiars dependents de prumèr grad; reconéisher cotizacion e caumatge a familiars collaboradors damb salari e jornada acreditadi, sense exclusion automatica deth regim generau.",
+        "en": "Waive 100% of contributions for up to twelve months for self-employed workers reducing activity to care for seriously ill minor children or dependent first-degree relatives; give assisting relatives with proven pay and hours equal contribution and unemployment rights without automatic exclusion from the general regime."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Bonificación de cuota por cuidado de familiares de primer grado"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Plena equiparación laboral para hijos y familiares colaboradores del autónomo"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-pensions-and-social-protection-retirement-rules",
+      "title": {
+        "es": "Mejores años y jubilación sin penalización",
+        "ca": "Millors anys i jubilació sense penalització",
+        "gl": "Mellores anos e xubilación sen penalización",
+        "eu": "Urte onenak eta zigorrik gabeko erretiroa",
+        "oc": "Melhors ans e jubilacion sense penalizacion",
+        "en": "Best years and retirement without penalties"
+      },
+      "text": {
+        "es": "Permitir a autónomos elegir los 25 mejores años cotizados de toda su vida laboral para calcular la pensión; eliminar coeficientes reductores permanentes por jubilación anticipada para autónomos y asalariados con 40 o más años de cotización efectiva.",
+        "ca": "Permetre als autònoms triar els 25 millors anys cotitzats de tota la vida laboral per calcular la pensió; eliminar coeficients reductors permanents per jubilació anticipada per a autònoms i assalariats amb 40 anys o més de cotització efectiva.",
+        "gl": "Permitir a autónomos elixir os 25 mellores anos cotizados de toda a vida laboral para calcular a pensión; eliminar coeficientes redutores permanentes por xubilación anticipada para autónomos e asalariados con 40 ou máis anos de cotización efectiva.",
+        "eu": "Autonomoei lan bizitza osoko kotizatutako 25 urte onenak aukeratzen uztea pentsioa kalkulatzeko; benetako 40 urte edo gehiagoko kotizazioa duten autonomo eta soldatapekoen erretiro aurreratuaren koefiziente murriztaile iraunkorrak kentzea.",
+        "oc": "Perméter as autonòms escuélher es 25 melhors ans cotizadi de tota era vida laborau entà calcular era pension; eliminar coeficients reductors permanents per jubilacion anticipada entà autonòms e assalariats damb 40 ans o mès de cotizacion efectiva.",
+        "en": "Let self-employed workers choose their best 25 contribution years across their whole career for pension calculations; remove permanent early-retirement reductions for self-employed workers and employees with at least 40 years of effective contributions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Cómputo flexible de toda la vida laboral para jubilación y cese"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Jubilación anticipada sin penalización con 40 o más años cotizados"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-pensions-and-social-protection-private-savings",
+      "title": {
+        "es": "Ahorro y previsión complementaria",
+        "ca": "Estalvi i previsió complementària",
+        "gl": "Aforro e previsión complementaria",
+        "eu": "Aurrezkia eta aurreikuspen osagarria",
+        "oc": "Estauvi e prevision complementària",
+        "en": "Savings and supplementary pensions"
+      },
+      "text": {
+        "es": "Recuperar reducciones del IRPF por aportaciones a planes de pensiones individuales y previsión social empresarial hasta 5.000 € anuales y crear una cuenta ahorro vivienda con rendimientos libres de tributación.",
+        "ca": "Recuperar reduccions de l’IRPF per aportacions a plans de pensions individuals i previsió social empresarial fins a 5.000 € anuals i crear un compte d’estalvi habitatge amb rendiments lliures de tributació.",
+        "gl": "Recuperar reducións do IRPF por achegas a plans de pensións individuais e previsión social empresarial ata 5.000 € anuais e crear unha conta aforro vivenda con rendementos libres de tributación.",
+        "eu": "Banakako pentsio planetarako eta enpresako gizarte aurreikuspenerako ekarpenen PFEZ murrizketak urteko 5.000 €-raino berreskuratzea eta etekinak zergarik gabe dituen etxebizitzarako aurrezki kontua sortzea.",
+        "oc": "Recuperar reduccions der IRPF per aportacions a plans de pensions individuaus e prevision sociau empresariau enquia 5.000 € annaus e crear un compde estauvi abitatge damb rendiments liures de tributacion.",
+        "en": "Restore personal income-tax reductions for contributions to individual pension plans and employer social-protection plans up to €5,000 a year, and create a housing savings account with tax-free returns."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Incentivos fiscales al ahorro privado y a la previsión complementaria"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-pensions-and-social-protection-dependency-decisions-and-audits",
+      "title": {
+        "es": "Dependencia en 60 días y control de fondos",
+        "ca": "Dependència en 60 dies i control de fons",
+        "gl": "Dependencia en 60 días e control de fondos",
+        "eu": "Mendekotasuna 60 egunean eta funtsen kontrola",
+        "oc": "Dependéncia en 60 dies e contròl de hons",
+        "en": "60-day dependency decisions and funding audits"
+      },
+      "text": {
+        "es": "Resolver la dependencia en un máximo legal de 60 días con baremo médico unificado y silencio positivo en prestaciones vinculadas al servicio; auditar entidades gestoras subvencionadas, prohibir lucro encubierto y exigir auditoría autonómica antes de renovar conciertos.",
+        "ca": "Resoldre la dependència en un màxim legal de 60 dies amb barem mèdic unificat i silenci positiu en prestacions vinculades al servei; auditar entitats gestores subvencionades, prohibir lucre encobert i exigir auditoria autonòmica abans de renovar concerts.",
+        "gl": "Resolver a dependencia nun máximo legal de 60 días con baremo médico unificado e silencio positivo en prestacións vinculadas ao servizo; auditar entidades xestoras subvencionadas, prohibir lucro encuberto e esixir auditoría autonómica antes de renovar concertos.",
+        "eu": "Mendekotasun eskaerak legez gehienez 60 egunean ebaztea mediku baremo bateratuarekin eta zerbitzuari lotutako prestazioetan isiltasun positiboarekin; diruz lagundutako kudeatzaileak auditatzea, ezkutuko irabazia debekatzea eta hitzarmenak berritu aurretik autonomia erkidegoko auditoria eskatzea.",
+        "oc": "Resòlver era dependéncia en un maxim legau de 60 dies damb barèm medic unificat e silenci positiu en prestacions ligades ath servici; auditar entitats gestores subvencionades, proïbir lucre amagat e exigir auditoria autonomica abans de renovar concèrts.",
+        "en": "Decide dependency applications within a legal maximum of 60 days using unified medical assessment and positive administrative silence for service-linked benefits; audit subsidised providers, prohibit concealed profit and require regional financial audits before renewing public service agreements."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Agilización en 60 días de las valoraciones de la Ley de Dependencia"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Auditoría de fundaciones y entidades gestoras de servicios de dependencia"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-pensions-and-social-protection-children-in-care",
+      "title": {
+        "es": "Protección de menores tutelados",
+        "ca": "Protecció de menors tutelats",
+        "gl": "Protección de menores tutelados",
+        "eu": "Babespeko adingabeen babesa",
+        "oc": "Proteccion de menors tuteladi",
+        "en": "Protection of children in public care"
+      },
+      "text": {
+        "es": "Someter todos los centros de menores tutelados a supervisión judicial y control externo permanente, garantizando seguridad física, atención psicológica y transición al empleo al alcanzar la mayoría de edad, con más trabajo social e inspección de la Fiscalía de Menores.",
+        "ca": "Sotmetre tots els centres de menors tutelats a supervisió judicial i control extern permanent, garantint seguretat física, atenció psicològica i transició a l’ocupació en assolir la majoria d’edat, amb més treball social i inspecció de la Fiscalia de Menors.",
+        "gl": "Someter todos os centros de menores tutelados a supervisión xudicial e control externo permanente, garantindo seguridade física, atención psicolóxica e transición ao emprego ao acadar a maioría de idade, con máis traballo social e inspección da Fiscalía de Menores.",
+        "eu": "Babespeko adingabeen zentro guztiak zaintza judizialaren eta kanpoko etengabeko kontrolaren mende jartzea, segurtasun fisikoa, arreta psikologikoa eta adin nagusitasunean enplegurako trantsizioa bermatuz, gizarte lan eta adingabeen fiskaltzaren ikuskapen gehiagoz.",
+        "oc": "Someter toti es centres de menors tuteladi a supervision judiciau e contròl extèrn permanent, garantint seguretat fisica, atencion psicologica e transicion ar emplec en arribar ara majoritat, damb mès trabalh sociau e inspeccion dera Fiscalia de Menors.",
+        "en": "Place all children’s care centres under judicial supervision and continuous external oversight, ensuring physical safety, psychological care and transition to employment on reaching adulthood, with stronger social-work and juvenile prosecution inspection teams."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Protección integral del menor tutelado y auditoría de centros de acogida"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-pensions-and-social-protection-bank-bailout-social-return",
+      "title": {
+        "es": "Retorno social del rescate bancario",
+        "ca": "Retorn social del rescat bancari",
+        "gl": "Retorno social do rescate bancario",
+        "eu": "Banku erreskatearen gizarte itzulera",
+        "oc": "Retorn sociau deth rescat bancari",
+        "en": "Social return from bank bailouts"
+      },
+      "text": {
+        "es": "Evaluar transparentemente las ayudas bancarias pendientes de recuperar e impulsar acuerdos de retorno social para atención domiciliaria de mayores y educación financiera, vinculados a participaciones públicas todavía vigentes.",
+        "ca": "Avaluar transparentment els ajuts bancaris pendents de recuperar i impulsar acords de retorn social per a atenció domiciliària de gent gran i educació financera, vinculats a participacions públiques encara vigents.",
+        "gl": "Avaliar transparentemente as axudas bancarias pendentes de recuperar e impulsar acordos de retorno social para atención domiciliaria de maiores e educación financeira, vinculados a participacións públicas aínda vixentes.",
+        "eu": "Berreskuratu gabeko banku laguntzak gardentasunez ebaluatzea eta adinekoen etxeko arretarako eta finantza hezkuntzarako gizarte itzulerako akordioak bultzatzea, indarrean dauden partaidetza publikoei lotuta.",
+        "oc": "Avalorar transparentament es ajudes bancàries pendentes de recuperar e impulsar acòrds de retorn sociau entà atencion domiciliària de persones granes e educacion financèra, ligadi a participacions publiques encara vigentes.",
+        "en": "Transparently assess unrecovered bank-bailout aid and pursue social-return agreements for older people’s home care and financial education, linked to continuing public shareholdings."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-13",
+          "quote": "Auditoría social del rescate bancario y retorno en obra comunitaria"
+        }
+      ]
+    }
+  ]
+}

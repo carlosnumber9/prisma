@@ -1,0 +1,242 @@
+{
+  "id": "partido-autonomos--education",
+  "partyId": "partido-autonomos",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-education-vocational-skills",
+      "title": {
+        "es": "Formación profesional y continua",
+        "ca": "Formació professional i contínua",
+        "gl": "Formación profesional e continua",
+        "eu": "Lanbide eta etengabeko prestakuntza",
+        "oc": "Formacion professionau e continua",
+        "en": "Vocational and continuing training"
+      },
+      "text": {
+        "es": "Crear el título oficial de FP para celadores sanitarios mediante INCUAL; equiparar el prestigio de la FP al universitario, subvencionar a pymes que acojan alumnado en prácticas reales y permitir que autónomos mayores de 55 años enseñen como técnicos; dar a trabajadores por cuenta propia acceso directo a crédito FUNDAE con formación 100 % bonificada en IA, marketing digital, gestión financiera e idiomas relacionados con la actividad.",
+        "ca": "Crear el títol oficial de FP per a zeladors sanitaris mitjançant l’INCUAL; equiparar el prestigi de la FP a l’universitari, subvencionar pimes que acullin alumnat en pràctiques reals i permetre que autònoms majors de 55 anys ensenyin com a tècnics; donar als treballadors per compte propi accés directe a crèdit FUNDAE amb formació 100 % bonificada en IA, màrqueting digital, gestió financera i idiomes relacionats amb l’activitat.",
+        "gl": "Crear o título oficial de FP para celadores sanitarios mediante INCUAL; equiparar o prestixio da FP ao universitario, subvencionar pemes que acollan alumnado en prácticas reais e permitir que autónomos maiores de 55 anos ensinen como técnicos; dar aos traballadores por conta propia acceso directo a crédito FUNDAE con formación 100 % bonificada en IA, márketing dixital, xestión financeira e idiomas relacionados coa actividade.",
+        "eu": "INCUALen bidez osasun zeladoreen LHko titulu ofiziala sortzea; LHren prestigioa unibertsitatekoarekin parekatzea, ikasleak benetako praktiketan hartzen dituzten ETEak diruz laguntzea eta 55 urtetik gorako autonomoei irakasle tekniko izatea ahalbidetzea; norberaren konturako langileei FUNDAE kredituetara zuzeneko sarbidea ematea, jarduerarekin lotutako AA, marketin digital, finantza kudeaketa eta hizkuntzetako prestakuntzaren % 100eko hobariarekin.",
+        "oc": "Crear eth títol oficiau de FP entà zeladors sanitaris mejançant INCUAL; equiparar eth prestigi dera FP ar universitari, subvencionar pimes qu’acuelhen alumnes en practiques reaus e perméter qu’autonòms de mès de 55 ans ensenhen coma tecnics; dar as trabalhadors per compde pròpri accès dirècte a crèdit FUNDAE damb formacion 100 % bonificada en IA, marqueting digitau, gestion financèra e idiòmes ligadi ara activitat.",
+        "en": "Create an official vocational qualification for hospital orderlies through INCUAL; give vocational training equal standing with university, subsidise SMEs hosting students on real placements and let self-employed professionals aged over 55 teach technical subjects; give self-employed workers direct access to FUNDAE credits with 100% subsidised activity-related training in AI, digital marketing, financial management and languages."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Reconocimiento profesional del celador sanitario en Formación Profesional"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Revolución de la Formación Profesional Dual con incentivos a pymes"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-8",
+          "quote": "Formación continua bonificada 100 % adaptada al sector del autónomo"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-education-common-education",
+      "title": {
+        "es": "Marco educativo común y estable",
+        "ca": "Marc educatiu comú i estable",
+        "gl": "Marco educativo común e estable",
+        "eu": "Hezkuntza esparru bateratu eta egonkorra",
+        "oc": "Marc educatiu comun e estable",
+        "en": "A common stable education framework"
+      },
+      "text": {
+        "es": "Aprobar una ley educativa común, sin ideología y estable frente a cambios de gobierno, con igual nivel de matemáticas, lengua, ciencias e idiomas en todas las autonomías, recuperando la Alta Inspección estatal y evaluaciones nacionales homogéneas.",
+        "ca": "Aprovar una llei educativa comuna, sense ideologia i estable davant canvis de govern, amb el mateix nivell de matemàtiques, llengua, ciències i idiomes a totes les autonomies, recuperant l’Alta Inspecció estatal i avaluacions nacionals homogènies.",
+        "gl": "Aprobar unha lei educativa común, sen ideoloxía e estable fronte a cambios de goberno, co mesmo nivel de matemáticas, lingua, ciencias e idiomas en todas as autonomías, recuperando a Alta Inspección estatal e avaliacións nacionais homoxéneas.",
+        "eu": "Gobernu aldaketen aurrean hezkuntza lege bateratu, ideologiarik gabeko eta egonkorra onartzea, autonomia erkidego guztietan matematika, hizkuntza, zientzia eta hizkuntzen maila bera bermatuz, estatuko Goi Ikuskaritza eta ebaluazio nazional homogeneoak berreskuratuz.",
+        "oc": "Aprovar ua lei educativa comuna, sense ideologia e estable deuant cambiaments de govèrn, damb eth madeish nivèu de matematiques, lengua, ciéncies e idiòmes en totes es autonomies, recuperant era Nauta Inspeccion estatau e avaloracions nacionaus omogenèes.",
+        "en": "Pass a common, non-ideological education law stable across government changes, ensuring equal core standards in maths, language, science and foreign languages in all regions, restoring the state High Inspectorate and uniform national assessments."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Pacto Nacional por una Ley Única de Educación estable y sin ideología"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-education-language-rights",
+      "title": {
+        "es": "Castellano y lenguas cooficiales",
+        "ca": "Castellà i llengües cooficials",
+        "gl": "Castelán e linguas cooficiais",
+        "eu": "Gaztelania eta hizkuntza koofizialak",
+        "oc": "Castelhan e lengües cooficiaus",
+        "en": "Spanish and co-official languages"
+      },
+      "text": {
+        "es": "Garantizar por ley orgánica estudiar y relacionarse con la Administración en español en todo el territorio, considerando las lenguas cooficiales mérito cultural pero nunca barrera excluyente para la movilidad laboral.",
+        "ca": "Garantir per llei orgànica estudiar i relacionar-se amb l’Administració en espanyol a tot el territori, considerant les llengües cooficials mèrit cultural però mai barrera excloent per a la mobilitat laboral.",
+        "gl": "Garantir por lei orgánica estudar e relacionarse coa Administración en español en todo o territorio, considerando as linguas cooficiais mérito cultural pero nunca barreira excluínte para a mobilidade laboral.",
+        "eu": "Lege organikoz bermatzea lurralde osoan gaztelaniaz ikasi eta administrazioarekin harremanak izatea, hizkuntza koofizialak kultura merezimendutzat hartuz, baina inoiz lan mugikortasunerako oztopo baztertzailetzat ez.",
+        "oc": "Garantir per lei organica estudiar e relacionar-se damb era Administracion en espanhòu en tot eth territòri, considerant es lengües cooficiaus merit culturau mès jamès barrèra exclusenta entara mobilitat laborau.",
+        "en": "Guarantee through an organic law the right to study and deal with government in Spanish nationwide, treating co-official languages as a cultural merit but never an exclusionary barrier to labour mobility."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Garantía del castellano como lengua vehicular y respeto a lenguas cooficiales"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-education-secular-choice",
+      "title": {
+        "es": "Escuela pública laica y libertad de elección",
+        "ca": "Escola pública laica i llibertat d’elecció",
+        "gl": "Escola pública laica e liberdade de elección",
+        "eu": "Eskola publiko laikoa eta aukeratzeko askatasuna",
+        "oc": "Escòla publica laïca e libertat d’eleccion",
+        "en": "Secular public schools and parental choice"
+      },
+      "text": {
+        "es": "Consolidar una escuela pública laica centrada en excelencia académica y científica y respetar la elección familiar de centros concertados o privados con ideario propio, mediante financiación equitativa del puesto escolar.",
+        "ca": "Consolidar una escola pública laica centrada en excel·lència acadèmica i científica i respectar l’elecció familiar de centres concertats o privats amb ideari propi, amb finançament equitatiu de la plaça escolar.",
+        "gl": "Consolidar unha escola pública laica centrada na excelencia académica e científica e respectar a elección familiar de centros concertados ou privados con ideario propio, mediante financiamento equitativo do posto escolar.",
+        "eu": "Bikaintasun akademiko eta zientifikoan oinarritutako eskola publiko laikoa sendotzea eta familiek ideario propioa duten ikastetxe itundu edo pribatuak aukeratzea errespetatzea, eskola postuaren finantzaketa bidezkoarekin.",
+        "oc": "Consolidar ua escòla publica laïca centrada ena excelléncia academica e scientifica e respectar era eleccion familhau de centres concertadi o privats damb ideari pròpri, mejançant finançament equitatiu dera plaça escolara.",
+        "en": "Consolidate secular public schools focused on academic and scientific excellence and respect families’ choice of publicly subsidised or private schools with their own ethos, through equitable funding per school place."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Aconfesionalidad en la escuela pública y libertad de elección en concertada"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-education-practical-secondary-curriculum",
+      "title": {
+        "es": "Primeros auxilios y educación financiera",
+        "ca": "Primers auxilis i educació financera",
+        "gl": "Primeiros auxilios e educación financeira",
+        "eu": "Lehen sorospenak eta finantza hezkuntza",
+        "oc": "Prumèrs auxilis e educacion financèra",
+        "en": "First aid and financial education"
+      },
+      "text": {
+        "es": "Incorporar obligatoriamente en secundaria RCP, actuación ante emergencias y educación financiera básica sobre impuestos, ahorro y emprendimiento, reorganizando el currículo sin aumentar horas lectivas.",
+        "ca": "Incorporar obligatòriament a secundària RCP, actuació davant emergències i educació financera bàsica sobre impostos, estalvi i emprenedoria, reorganitzant el currículum sense augmentar hores lectives.",
+        "gl": "Incorporar obrigatoriamente en secundaria RCP, actuación ante emerxencias e educación financeira básica sobre impostos, aforro e emprendemento, reorganizando o currículo sen aumentar horas lectivas.",
+        "eu": "Bigarren hezkuntzan bihotz-biriketako bizkortzea, larrialdietako jarduna eta zerga, aurrezki eta ekintzailetzari buruzko oinarrizko finantza hezkuntza nahitaez sartzea, curriculuma berrantolatuz eskola orduak handitu gabe.",
+        "oc": "Incorporar obligatòriament en secundària RCP, actuacion deuant emergéncies e educacion financèra basica sus impòsti, estauvi e emprenedoria, reorganizant eth curriculum sense aumentar ores lectives.",
+        "en": "Require practical CPR, emergency response and basic financial education on taxes, saving and entrepreneurship in secondary school, reorganising the curriculum without increasing teaching hours."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Asignatura obligatoria de Primeros Auxilios, Emergencias y Educación Financiera"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-education-bullying-protocol",
+      "title": {
+        "es": "Protocolo nacional contra el acoso",
+        "ca": "Protocol nacional contra l’assetjament",
+        "gl": "Protocolo nacional contra o acoso",
+        "eu": "Jazarpenaren aurkako protokolo nazionala",
+        "oc": "Protocòl nacionau contra er assetjament",
+        "en": "National anti-bullying protocol"
+      },
+      "text": {
+        "es": "Implantar protocolos obligatorios y rápidos de detección, mediación e intervención psicológica contra acoso escolar y digital en todos los centros y actividades extraescolares, coordinando orientación, inspección y fiscalía de menores con plazos estrictos.",
+        "ca": "Implantar protocols obligatoris i ràpids de detecció, mediació i intervenció psicològica contra assetjament escolar i digital a tots els centres i activitats extraescolars, coordinant orientació, inspecció i fiscalia de menors amb terminis estrictes.",
+        "gl": "Implantar protocolos obrigatorios e rápidos de detección, mediación e intervención psicolóxica contra acoso escolar e dixital en todos os centros e actividades extraescolares, coordinando orientación, inspección e fiscalía de menores con prazos estritos.",
+        "eu": "Ikastetxe eta eskolaz kanpoko jarduera guztietan eskola eta ziberjazarpena antzemateko, bitartekaritzarako eta esku hartze psikologikorako protokolo nahitaezko eta azkarrak ezartzea, orientazioa, ikuskaritza eta adingabeen fiskaltza epe zorrotzekin koordinatuz.",
+        "oc": "Implantar protocòls obligatòris e rapids de deteccion, mediacion e intervencion psicologica contra assetjament escolar e digitau en toti es centres e activitats extraescolares, coordinant orientacion, inspeccion e fiscalia de menors damb tèrmes estrictes.",
+        "en": "Introduce mandatory rapid detection, mediation and psychological intervention protocols against school and online bullying in every school and extracurricular activity, coordinating guidance teams, inspectors and juvenile prosecutors under strict deadlines."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Protocolo nacional vinculante contra el acoso escolar y el ciberbullying"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-education-special-needs-and-nursery",
+      "title": {
+        "es": "Apoyos educativos y escuelas infantiles",
+        "ca": "Suports educatius i escoles infantils",
+        "gl": "Apoios educativos e escolas infantís",
+        "eu": "Hezkuntza laguntzak eta haur eskolak",
+        "oc": "Supòrts educatius e escòles infantiles",
+        "en": "Learning support and nursery education"
+      },
+      "text": {
+        "es": "Hacer gratuitos transporte adaptado, terapias complementarias y material específico para discapacidad o necesidades educativas especiales en centros ordinarios y especiales mediante becas directas universales; universalizar la educación de 0 a 3 años con plazas públicas gratuitas y cheques para elegir centro público o privado.",
+        "ca": "Fer gratuïts transport adaptat, teràpies complementàries i material específic per a discapacitat o necessitats educatives especials en centres ordinaris i especials mitjançant beques directes universals; universalitzar l’educació de 0 a 3 anys amb places públiques gratuïtes i xecs per triar centre públic o privat.",
+        "gl": "Facer gratuítos transporte adaptado, terapias complementarias e material específico para discapacidade ou necesidades educativas especiais en centros ordinarios e especiais mediante bolsas directas universais; universalizar a educación de 0 a 3 anos con prazas públicas gratuítas e cheques para elixir centro público ou privado.",
+        "eu": "Desgaitasuna edo hezkuntza premia bereziak dituztenentzat garraio egokitua, terapia osagarriak eta material espezifikoa doako egitea ikastetxe arrunt eta berezietan, zuzeneko beka unibertsalen bidez; 0 eta 3 urte arteko hezkuntza unibertsalizatzea doako plaza publikoekin eta zentro publiko edo pribatua aukeratzeko txekeekin.",
+        "oc": "Hèr gratuïts transpòrt adaptat, terapies complementàries e materiau especific entà discapacitat o besonhs educatius especiaus en centres ordinaris e especiaus mejançant bèques dirèctes universaus; universalizar era educacion de 0 a 3 ans damb places publiques gratuïtes e chècs entà escuélher centre public o privat.",
+        "en": "Make adapted transport, complementary therapies and specific materials free for pupils with disabilities or special educational needs in mainstream and special schools through universal direct grants; universalise education from ages 0 to 3 with free public places and vouchers for choosing public or private centres."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Reducción de costes educativos para familias con hijos con necesidades especiales"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Red nacional de escuelas infantiles gratuitas de 0 a 3 años"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-education-sport-education-and-media",
+      "title": {
+        "es": "Deporte escolar y difusión pública",
+        "ca": "Esport escolar i difusió pública",
+        "gl": "Deporte escolar e difusión pública",
+        "eu": "Eskola kirola eta hedapen publikoa",
+        "oc": "Espòrt escolar e difusion publica",
+        "en": "School sport and public broadcasting"
+      },
+      "text": {
+        "es": "Ampliar las actividades deportivas extraescolares y reservar franjas obligatorias de deporte de base, femenino y paralímpico en medios públicos, reorientando la programación sin coste presupuestario adicional.",
+        "ca": "Ampliar les activitats esportives extraescolars i reservar franges obligatòries d’esport de base, femení i paralímpic als mitjans públics, reorientant la programació sense cost pressupostari addicional.",
+        "gl": "Ampliar as actividades deportivas extraescolares e reservar franxas obrigatorias de deporte de base, feminino e paralímpico nos medios públicos, reorientando a programación sen custo orzamentario adicional.",
+        "eu": "Eskolaz kanpoko kirol jarduerak zabaltzea eta hedabide publikoetan oinarriko, emakumeen eta paralinpiar kirolerako nahitaezko tarteak gordetzea, programazioa birbideratuz aurrekontu kostu gehigarririk gabe.",
+        "oc": "Alargar es activitats esportives extraescolares e reservar franges obligatòries d’espòrt de basa, femenin e paralimpic en mejans publics, reorientant era programacion sense còst pressupostari addicionau.",
+        "en": "Expand extracurricular sports and require public-media time slots for grassroots, women’s and Paralympic sport, redirecting programming without additional budgetary cost."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Promoción del deporte y hábitos saludables en televisión y colegios"
+        }
+      ]
+    }
+  ]
+}

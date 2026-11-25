@@ -1,0 +1,621 @@
+{
+  "id": "eaj-pnv--economy-and-taxes",
+  "partyId": "eaj-pnv",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:32:02Z",
+  "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
+  "points": [
+    {
+      "id": "eaj-pnv-economy-and-taxes-industrial-investment",
+      "title": {
+        "es": "Inversión y arraigo industrial",
+        "ca": "Inversió i arrelament industrial",
+        "gl": "Investimento e arraigo industrial",
+        "eu": "Industria-inbertsioa eta errotzea",
+        "oc": "Inversion e arraïtzament industriau",
+        "en": "Industrial investment and local roots"
+      },
+      "text": {
+        "es": "Adaptar la legislación industrial a Euskadi; exigir el cumplimiento de compromisos del Estado con empresas vascas en las que tenga participación o financiación pública, preservando actividad, empleo y centros de decisión. Apoyar comarcas en crisis o transformación como Aiaraldea con inversión, innovación, descarbonización, suelo industrial y diálogo.",
+        "ca": "Adaptar la legislació industrial a Euskadi; exigir el compliment de compromisos de l’Estat amb empreses basques en què tingui participació o finançament públic, preservant activitat, ocupació i centres de decisió. Donar suport a comarques en crisi o transformació com Aiaraldea amb inversió, innovació, descarbonització, sòl industrial i diàleg.",
+        "gl": "Adaptar a lexislación industrial a Euskadi; esixir o cumprimento de compromisos do Estado con empresas vascas nas que teña participación ou financiamento público, preservando actividade, emprego e centros de decisión. Apoiar comarcas en crise ou transformación como Aiaraldea con investimento, innovación, descarbonización, solo industrial e diálogo.",
+        "eu": "Industria-legedia Euskadira egokitzea; Estatuak partaidetza edo finantzaketa publikoa duen euskal enpresekiko konpromisoak betearaztea, jarduera, enplegua eta erabakiguneak zainduz. Aiaraldea bezalako krisi edo eraldaketako eskualdeei inbertsio, berrikuntza, deskarbonizazio, industria-lurzoru eta elkarrizketarekin laguntzea.",
+        "oc": "Adaptar era legislacion industriau a Euskadi; exigir eth compliment de compromisi der Estat damb empreses basques en qué age participacion o finançament public, preservant activitat, emplec e centres de decision. Sostier comarques en crisi o transformacion coma Aiaraldea damb inversion, innovacion, descarbonizacion, sòu industriau e dialòg.",
+        "en": "Adapt industrial legislation to Basque needs; enforce State commitments to Basque businesses in which the State has a stake or provides public funding, preserving activity, jobs and decision centres. Support areas in crisis or transition such as Aiaraldea through investment, innovation, decarbonisation, industrial land and dialogue."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Fortalecer la industria vasca, facilitando la inversión, la innovación y la modernización productiva mediante una legislación industrial que tenga en cuenta nuestra realidad."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Asegurar el cumplimiento de los compromisos del Estado con las empresas vascas en las que tenga participación o financiación pública, defendiendo la actividad industrial, el empleo y el mantenimiento de los centros de decisión en Euskadi."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Proteger el futuro industrial de las comarcas especialmente afectadas por procesos de crisis o transformación, como Aiaraldea, mediante inversiones, innovación, descarbonización, disponibilidad de suelo industrial y diálogo con los agentes implicados."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-industrial-innovation",
+      "title": {
+        "es": "Innovación y digitalización industrial",
+        "ca": "Innovació i digitalització industrial",
+        "gl": "Innovación e dixitalización industrial",
+        "eu": "Industria-berrikuntza eta digitalizazioa",
+        "oc": "Innovacion e digitalizacion industriau",
+        "en": "Industrial innovation and digitalisation"
+      },
+      "text": {
+        "es": "Adaptar programas estatales de innovación a la industria vasca, facilitando el acceso de empresas vascas a financiación para digitalización, automatización, investigación y nuevas tecnologías; modernizar pymes con soluciones digitales, inteligencia artificial y procesos eficientes y sostenibles.",
+        "ca": "Adaptar programes estatals d’innovació a la indústria basca, facilitant l’accés d’empreses basques a finançament per a digitalització, automatització, recerca i noves tecnologies; modernitzar pimes amb solucions digitals, intel·ligència artificial i processos eficients i sostenibles.",
+        "gl": "Adaptar programas estatais de innovación á industria vasca, facilitando o acceso de empresas vascas a financiamento para dixitalización, automatización, investigación e novas tecnoloxías; modernizar pemes con solucións dixitais, intelixencia artificial e procesos eficientes e sostibles.",
+        "eu": "Estatuko berrikuntza-programak euskal industriara egokitzea, euskal enpresei digitalizazioa, automatizazioa, ikerketa eta teknologia berriak finantzatzeko sarbidea erraztuz; ETEak modernizatzea irtenbide digitalekin, adimen artifizialarekin eta prozesu eraginkor eta jasangarriekin.",
+        "oc": "Adaptar programes estataus d’innovacion ara industria basca, facilitant er accès d’empreses basques a finançament entà digitalizacion, automatizacion, recèrca e naues tecnologies; modernizar petites e mejanes empreses damb solucions digitaus, intelligéncia artificiau e procèssi eficients e sostenibles.",
+        "en": "Adapt State innovation programmes to Basque industry, facilitating Basque businesses’ access to finance for digitalisation, automation, research and new technologies; modernise SMEs through digital solutions, artificial intelligence and efficient, sustainable production."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Adaptar los programas estatales de innovación y desarrollo tecnológico a las necesidades de nuestra industria, facilitando el acceso de las empresas vascas a financiación para digitalización, automatización, investigación y nuevas tecnologías."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Favorecer la modernización tecnológica de las pymes, apoyando la incorporación de soluciones digitales, inteligencia artificial y procesos productivos más eficientes y sostenibles."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-cooperatives-internationalisation",
+      "title": {
+        "es": "Cooperativas e internacionalización",
+        "ca": "Cooperatives i internacionalització",
+        "gl": "Cooperativas e internacionalización",
+        "eu": "Kooperatibak eta nazioartekotzea",
+        "oc": "Cooperatives e internacionalizacion",
+        "en": "Cooperatives and internationalisation"
+      },
+      "text": {
+        "es": "Proteger las particularidades del modelo cooperativo vasco en la legislación estatal, su arraigo y empleo de calidad; apoyar nuevos mercados, diversificación de exportaciones y proveedores y proyectos industriales europeos.",
+        "ca": "Protegir les particularitats del model cooperatiu basc en la legislació estatal, el seu arrelament i ocupació de qualitat; donar suport a nous mercats, diversificació d’exportacions i proveïdors i projectes industrials europeus.",
+        "gl": "Protexer as particularidades do modelo cooperativo vasco na lexislación estatal, o seu arraigo e emprego de calidade; apoiar novos mercados, diversificación de exportacións e provedores e proxectos industriais europeos.",
+        "eu": "Euskal kooperatiba-ereduaren berezitasunak Estatuko legedian, errotzea eta kalitatezko enplegua babestea; merkatu berriak, esportazioen eta hornitzaileen dibertsifikazioa eta Europako industria-proiektuak sustatzea.",
+        "oc": "Protegir es particularitats deth modèl cooperatiu basc ena legislacion estatau, eth sòn arraïtzament e emplec de qualitat; sostier naui mercats, diversificacion d’exportacions e provedidors e projèctes industriaus europèus.",
+        "en": "Protect the Basque cooperative model’s distinct features in State law, local roots and quality employment; support access to new markets, diversified exports and suppliers and European industrial projects."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Proteger y promover el modelo cooperativo vasco, garantizando que la legislación estatal reconozca sus particularidades y favorezca su desarrollo, arraigo y contribución al empleo de calidad."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Reforzar el apoyo a la internacionalización de las empresas vascas, facilitando su acceso a nuevos mercados, la diversificación de exportaciones y proveedores y su participación en proyectos industriales europeos."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-business-growth-finance",
+      "title": {
+        "es": "Menos burocracia y financiación empresarial",
+        "ca": "Menys burocràcia i finançament empresarial",
+        "gl": "Menos burocracia e financiamento empresarial",
+        "eu": "Burokrazia gutxiago eta enpresa-finantzaketa",
+        "oc": "Mens burocracia e finançament empresariau",
+        "en": "Less bureaucracy and business finance"
+      },
+      "text": {
+        "es": "Reducir burocracia y eliminar duplicidades administrativas y barreras regulatorias al crecimiento; favorecer cooperación y nuevos proyectos. Reforzar líneas del ICO y garantías públicas para financiar inversión, modernización y ampliación de pymes y autónomos.",
+        "ca": "Reduir burocràcia i eliminar duplicitats administratives i barreres reguladores al creixement; afavorir cooperació i nous projectes. Reforçar línies de l’ICO i garanties públiques per finançar inversió, modernització i ampliació de pimes i autònoms.",
+        "gl": "Reducir burocracia e eliminar duplicidades administrativas e barreiras regulatorias ao crecemento; favorecer cooperación e novos proxectos. Reforzar liñas do ICO e garantías públicas para financiar investimento, modernización e ampliación de pemes e autónomos.",
+        "eu": "Burokrazia murriztea eta hazkundeari oztopo egiten dioten administrazio-bikoiztasunak eta arau-hesiak kentzea; lankidetza eta proiektu berriak sustatzea. ICOren lerroak eta berme publikoak indartzea, ETEen eta autonomoen inbertsioa, modernizazioa eta hedapena finantzatzeko.",
+        "oc": "Redusir burocracia e eliminar duplicitats administratives e barrères reguladores ath creishement; favorir cooperacion e naui projèctes. Refortir linhes der ICO e garanties publiques entà finançar inversion, modernizacion e ampliacion de petites e mejanes empreses e autonòms.",
+        "en": "Reduce bureaucracy and remove administrative duplication and regulatory growth barriers; encourage business cooperation and new projects. Strengthen ICO credit lines and public guarantees to finance SME and self-employed investment, modernisation and expansion."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Reducir la burocracia y eliminar duplicidades administrativas que dificultan la creación, ampliación y gestión de empresas y negocios."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-14",
+          "quote": "Mejorar el acceso de pymes y personas autónomas a la financiación, reforzando las líneas del Instituto de Crédito Oficial y los instrumentos públicos de garantía para invertir, modernizar instalaciones y ampliar la actividad."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-15",
+          "quote": "Eliminar barreras regulatorias al crecimiento de las pymes, favoreciendo la cooperación empresarial, los proyectos compartidos y la creación de nuevas actividades económicas."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-agriculture-cap-food-chain",
+      "title": {
+        "es": "PAC propia y cadena alimentaria",
+        "ca": "PAC pròpia i cadena alimentària",
+        "gl": "PAC propia e cadea alimentaria",
+        "eu": "Nekazaritza-politika propioa eta elikadura-katea",
+        "oc": "PAC pròpria e cadena alimentària",
+        "en": "Basque CAP and food chain"
+      },
+      "text": {
+        "es": "Reclamar una PAC 2028-2034 con Plan Estratégico vasco, gestión, programación, control y financiación suficiente y diferenciada. Combatir prácticas desleales, reforzar la negociación de productores y cooperativas y remuneraciones que consideren costes de producción.",
+        "ca": "Reclamar una PAC 2028-2034 amb Pla Estratègic basc, gestió, programació, control i finançament suficient i diferenciat. Combatre pràctiques deslleials, reforçar la negociació de productors i cooperatives i remuneracions que considerin costos de producció.",
+        "gl": "Reclamar unha PAC 2028-2034 con Plan Estratéxico vasco, xestión, programación, control e financiamento suficiente e diferenciado. Combater prácticas desleais, reforzar a negociación de produtores e cooperativas e remuneracións que consideren custos de produción.",
+        "eu": "2028-2034ko NPB eskatzea, euskal Plan Estrategikoarekin, kudeaketa, programazio, kontrol eta finantzaketa nahiko eta bereiziarekin. Jardun desleialen aurka egitea, ekoizleen eta kooperatiben negoziazioa eta ekoizpen-kostuak kontuan hartzen dituzten ordainsariak indartzea.",
+        "oc": "Reclamar ua PAC 2028-2034 damb Plan Estrategic basc, gestion, programacion, contròtle e finançament sufisent e diferenciat. Combàter practiques desleiaus, refortir era negociacion de productors e cooperatives e remuneracions que considèren còsti de produccion.",
+        "en": "Seek a 2028-2034 CAP with a Basque Strategic Plan, Basque management, programming and oversight and sufficient differentiated funding. Combat unfair practices, strengthen producers’ and cooperatives’ bargaining and remuneration reflecting production costs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-17",
+          "quote": "Asegurar una Política Agraria Común 2028-2034 que reconozca un Plan Estratégico propio para Euskadi, con capacidad de gestión, programación y control desde las instituciones vascas y financiación suficiente y diferenciada."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-17",
+          "quote": "Reforzar la protección frente a las prácticas comerciales desleales, mejorar la capacidad negociadora de personas productoras y cooperativas y garantizar una remuneración que tenga en cuenta los costes de producción."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-farming-succession-imports-emergencies",
+      "title": {
+        "es": "Relevo agrario y protección de explotaciones",
+        "ca": "Relleu agrari i protecció d’explotacions",
+        "gl": "Remuda agraria e protección de explotacións",
+        "eu": "Nekazaritza-erreleboa eta ustiategien babesa",
+        "oc": "Relèu agrari e proteccion d’explotacions",
+        "en": "Farm succession and protection"
+      },
+      "text": {
+        "es": "Facilitar relevo agrario con cotizaciones reducidas para jóvenes, transmisión de explotaciones y acceso a tierra. Exigir condiciones equivalentes a importaciones, controles, trazabilidad y protección de sectores sensibles; financiar sanidad animal, seguros y emergencias sin cargar todo a instituciones vascas y explotaciones.",
+        "ca": "Facilitar relleu agrari amb cotitzacions reduïdes per a joves, transmissió d’explotacions i accés a terra. Exigir condicions equivalents a importacions, controls, traçabilitat i protecció de sectors sensibles; finançar sanitat animal, assegurances i emergències sense carregar-ho tot a institucions basques i explotacions.",
+        "gl": "Facilitar remuda agraria con cotizacións reducidas para mozos, transmisión de explotacións e acceso á terra. Esixir condicións equivalentes ás importacións, controis, trazabilidade e protección de sectores sensibles; financiar sanidade animal, seguros e emerxencias sen cargar todo ás institucións vascas e explotacións.",
+        "eu": "Nekazaritza-erreleboa erraztea gazteentzako kotizazio murriztuekin, ustiategien eskualdatzearekin eta lurra eskuratzearekin. Inportazioei baldintza baliokideak, kontrolak, trazabilitatea eta sektore sentikorren babesa eskatzea; animalien osasuna, aseguruak eta larrialdiak finantzatzea, kostu guztia euskal erakunde eta ustiategien gain utzi gabe.",
+        "oc": "Facilitar relèu agrari damb cotizacions redusides entà joeni, transmission d’explotacions e accès ara tèrra. Exigir condicions equivalentes as importacions, contròtles, traçabilitat e proteccion de sectors sensibles; finançar sanitat animau, assegurances e emergéncies sense cargar tot as institucions basques e explotacions.",
+        "en": "Support farm succession through reduced young entrants’ contributions, farm transfers and land access. Require equivalent import conditions, checks, traceability and safeguards for sensitive sectors; fund animal health, insurance and emergencies without leaving all costs to Basque institutions and farms."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-17",
+          "quote": "Facilitar el relevo generacional en la agricultura y la ganadería, mediante cotizaciones reducidas para jóvenes que se incorporen al sector, medidas para la transmisión de explotaciones y apoyos al acceso a la tierra."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Impulsar condiciones comerciales equivalentes para los productos importados, reforzando los controles, la trazabilidad y los mecanismos de protección de los sectores más sensibles."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Asegurar financiación para la sanidad animal, los seguros agrarios y las situaciones de emergencia, evitando que sus costes recaigan exclusivamente sobre las instituciones vascas y las explotaciones."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-rioja-alavesa",
+      "title": {
+        "es": "Futuro de Rioja Alavesa",
+        "ca": "Futur de Rioja Alavesa",
+        "gl": "Futuro de Rioja Alavesa",
+        "eu": "Arabako Errioxaren etorkizuna",
+        "oc": "Futur de Rioja Alavesa",
+        "en": "Rioja Alavesa’s future"
+      },
+      "text": {
+        "es": "Apoyar rentabilidad y comercialización de Rioja Alavesa, diferenciando su origen en el etiquetado e identificación de los vinos.",
+        "ca": "Donar suport a rendibilitat i comercialització de Rioja Alavesa, diferenciant-ne l’origen en l’etiquetatge i identificació dels vins.",
+        "gl": "Apoiar rendibilidade e comercialización de Rioja Alavesa, diferenciando a súa orixe na etiquetaxe e identificación dos viños.",
+        "eu": "Arabako Errioxaren errentagarritasuna eta merkaturatzea sustatzea, ardoen etiketan eta identifikazioan jatorria bereiziz.",
+        "oc": "Sostier rendibilitat e comercializacion de Rioja Alavesa, diferenciant era sua origina en etiquetatge e identificacion des vins.",
+        "en": "Support Rioja Alavesa’s profitability and marketing, distinguishing its origin in wine labelling and identification."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Proteger el futuro de Rioja Alavesa, impulsando medidas de rentabilidad y comercialización y reforzando la diferenciación de su origen en el etiquetado y la identificación de los vinos."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-fisheries-policy-quotas",
+      "title": {
+        "es": "Política pesquera y cuotas",
+        "ca": "Política pesquera i quotes",
+        "gl": "Política pesqueira e cotas",
+        "eu": "Arrantza-politika eta kuotak",
+        "oc": "Politica pesquèra e quòtes",
+        "en": "Fisheries policy and quotas"
+      },
+      "text": {
+        "es": "Revisar la Política Pesquera Común para garantizar la viabilidad de la flota vasca con financiación europea suficiente y específica, estabilidad y criterios científicos y socioeconómicos con participación sectorial. Revisar restricciones de pesca de fondo en 87 zonas del Atlántico nororiental del Reglamento 2022/1614 con ciencia actualizada y conocimiento pesquero; repartir cuotas justamente con flexibilidad, capturas históricas y modalidades.",
+        "ca": "Revisar la Política Pesquera Comuna per garantir la viabilitat de la flota basca amb finançament europeu suficient i específic, estabilitat i criteris científics i socioeconòmics amb participació sectorial. Revisar restriccions de pesca de fons en 87 zones de l’Atlàntic nord-oriental del Reglament 2022/1614 amb ciència actualitzada i coneixement pesquer; repartir quotes justament amb flexibilitat, captures històriques i modalitats.",
+        "gl": "Revisar a Política Pesqueira Común para garantir a viabilidade da frota vasca con financiamento europeo suficiente e específico, estabilidade e criterios científicos e socioeconómicos con participación sectorial. Revisar restricións de pesca de fondo en 87 zonas do Atlántico nororiental do Regulamento 2022/1614 con ciencia actualizada e coñecemento pesqueiro; repartir cotas xustamente con flexibilidade, capturas históricas e modalidades.",
+        "eu": "Arrantza Politika Bateratua berrikustea euskal flotaren bideragarritasuna bermatzeko, Europako finantzaketa nahiko eta berariazkoarekin, egonkortasunarekin eta sektoreak parte hartzen duen irizpide zientifiko eta sozioekonomikoekin. 2022/1614 Erregelamenduko ipar-ekialdeko Atlantikoko 87 eremuetako hondoko arrantzaren murrizketak berrikustea, zientzia eguneratuarekin eta arrantzaleen ezagutzarekin; kuotak bidezko eta malgutasunez banatzea, harrapaketa historikoak eta modalitateak kontuan hartuz.",
+        "oc": "Revisar era Politica Pesquèra Comuna entà garantir era viabilitat dera flòta basca damb finançament europèu sufisent e especific, estabilitat e critèris scientifics e socioeconomics damb participacion sectoriau. Revisar restriccions de pesca de hons en 87 zònes der Atlantic nòrd-orientau deth Reglament 2022/1614 damb sciéncia actualizada e coneishement pesquèr; repartir quòtes justament damb flexibilitat, captures istoriques e modalitats.",
+        "en": "Review the Common Fisheries Policy to ensure the Basque fleet’s viability, with sufficient dedicated EU funding, stability and scientific and socioeconomic criteria involving the sector. Review Regulation 2022/1614 bottom-fishing restrictions in 87 northeast Atlantic areas using updated science and fishers’ knowledge; seek fair, flexible quotas reflecting historical catches and fishing methods."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Impulsar una revisión de la Política Pesquera Común que garantice la viabilidad de la flota vasca, con financiación europea suficiente y específica, estabilidad regulatoria y decisiones basadas en criterios científicos y socioeconómicos, con participación del sector pesquero."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Revisar las restricciones europeas a la pesca de fondo en las 87 zonas del Atlántico nororiental afectadas por el Reglamento (UE) 2022/1614, incorporando evaluaciones científicas actualizadas y el conocimiento de los arrantzales."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Trabajar por un reparto justo de las cuotas pesqueras y mayor flexibilidad en su gestión, atendiendo a las capturas históricas y a las necesidades de las diferentes modalidades de pesca."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-fleet-renewal-fair-fishing",
+      "title": {
+        "es": "Flota, ayudas y competencia pesquera",
+        "ca": "Flota, ajuts i competència pesquera",
+        "gl": "Frota, axudas e competencia pesqueira",
+        "eu": "Ontziteria, laguntzak eta arrantza-lehia",
+        "oc": "Flòta, ajudes e competéncia pesquèra",
+        "en": "Fleet renewal, support and fair competition"
+      },
+      "text": {
+        "es": "Renovar la flota con capacidad disponible GT y kW, seguridad, condiciones laborales, eficiencia y habitabilidad. Dar ayudas por costes energéticos extraordinarios, vedas y paralizaciones; combatir pesca ilegal y exigir equivalencia ambiental, laboral y sanitaria a importaciones y precios que cubran costes reforzando la Ley de la Cadena Alimentaria.",
+        "ca": "Renovar la flota amb capacitat disponible GT i kW, seguretat, condicions laborals, eficiència i habitabilitat. Donar ajuts per costos energètics extraordinaris, vedes i aturades; combatre pesca il·legal i exigir equivalència ambiental, laboral i sanitària a importacions i preus que cobreixin costos reforçant la Llei de la Cadena Alimentària.",
+        "gl": "Renovar a frota con capacidade dispoñible GT e kW, seguridade, condicións laborais, eficiencia e habitabilidade. Dar axudas por custos enerxéticos extraordinarios, vedas e paralizacións; combater pesca ilegal e esixir equivalencia ambiental, laboral e sanitaria ás importacións e prezos que cubran custos reforzando a Lei da Cadea Alimentaria.",
+        "eu": "Ontziteria berritzea erabilgarri dagoen GT eta kW gaitasunarekin, segurtasuna, lan-baldintzak, eraginkortasuna eta bizigarritasuna hobetuz. Ezohiko energia-kostu, debekualdi eta geldialdietarako laguntzak ematea; legez kanpoko arrantzaren aurka egitea, inportazioei ingurumen-, lan- eta osasun-baliokidetasuna eskatzea, eta kostuak estaltzen dituzten prezioak bermatzea Elikadura Katearen Legea indartuz.",
+        "oc": "Renovelar era flòta damb capacitat disponibla GT e kW, seguretat, condicions laboraus, eficiéncia e abitabilitat. Dar ajudes per còsti energetics extraordinaris, vedes e arturades; combàter pesca illegau e exigir equivaléncia ambientau, laborau e sanitària as importacions e prètzi que cobrissen còsti refortint era Lei dera Cadena Alimentària.",
+        "en": "Renew the fleet using available GT and kW capacity, improving safety, working conditions, efficiency and habitability. Provide support for exceptional energy costs, closed seasons and stoppages; combat illegal fishing, require equivalent environmental, labour and health import standards and cost-covering prices by strengthening food-chain law."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Facilitar la renovación de la flota pesquera vasca, utilizando la capacidad pesquera disponible (GT y kW) y mejorando la seguridad, las condiciones laborales, la eficiencia energética y la habitabilidad de los buques."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Establecer ayudas ante incrementos extraordinarios de los costes energéticos, vedas y paralizaciones pesqueras, garantizando que lleguen a los colectivos afectados."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Combatir la pesca ilegal y la competencia desleal, exigiendo a las importaciones garantías ambientales, laborales y sanitarias equivalentes, y reforzar la Ley de la Cadena Alimentaria para garantizar precios que cubran los costes de producción."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-rail-basque-y-local",
+      "title": {
+        "es": "Y vasca, cercanías y pasos a nivel",
+        "ca": "Y basca, rodalies i passos a nivell",
+        "gl": "Y vasca, proximidades e pasos a nivel",
+        "eu": "Euskal Y-a, aldirikoak eta trenbide-pasaguneak",
+        "oc": "Y basca, proximitat e passatges a nivèu",
+        "en": "Basque Y, commuter rail and crossings"
+      },
+      "text": {
+        "es": "Terminar la Y vasca con calendario verificable, accesos soterrados de Bilbao y Vitoria-Gasteiz y conexión con Iruñea. Transferir infraestructuras de cercanías íntegramente vascas para gestión, mantenimiento, accesibilidad y coordinación; exigir plazos vinculantes para suprimir pasos a nivel, especialmente Enkarterri y Zalla.",
+        "ca": "Acabar la Y basca amb calendari verificable, accessos soterrats de Bilbao i Vitoria-Gasteiz i connexió amb Iruñea. Transferir infraestructures de rodalies íntegrament basques per a gestió, manteniment, accessibilitat i coordinació; exigir terminis vinculants per suprimir passos a nivell, especialment Enkarterri i Zalla.",
+        "gl": "Rematar a Y vasca con calendario verificable, accesos soterrados de Bilbao e Vitoria-Gasteiz e conexión con Iruñea. Transferir infraestruturas de proximidades integramente vascas para xestión, mantemento, accesibilidade e coordinación; esixir prazos vinculantes para suprimir pasos a nivel, especialmente Enkarterri e Zalla.",
+        "eu": "Euskal Y-a amaitzea egutegi egiaztagarriarekin, Bilbo eta Gasteizko lurpeko sarbideekin eta Iruñerako loturarekin. Euskadi barruko aldiriko azpiegiturak transferitzea kudeaketa, mantentzea, irisgarritasuna eta koordinazioa hobetzeko; trenbide-pasaguneak kentzeko epe lotesleak eskatzea, bereziki Enkarterrin eta Zallan.",
+        "oc": "Acabar era Y basca damb calendari verificable, accèssi sosterradi de Bilbao e Vitoria-Gasteiz e connexion damb Iruñea. Transferir infraestructures de proximitat integraument basques entà gestion, manteniment, accessibilitat e coordinacion; exigir tèrmes vinculants entà suprimir passatges a nivèu, sustot Enkarterri e Zalla.",
+        "en": "Finish the Basque Y with a verifiable timetable, agreed underground approaches to Bilbao and Vitoria-Gasteiz and an Iruñea connection. Transfer wholly Basque commuter infrastructure for management, maintenance, accessibility and coordination; demand binding deadlines to remove level crossings, especially Enkarterri and Zalla."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Terminar la Y vasca sin más demoras, con un calendario de ejecución verificable, respetando los acuerdos sobre los accesos soterrados a Bilbao y Vitoria-Gasteiz y garantizando su conexión con Iruñea."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Culminar la transferencia de las infraestructuras ferroviarias de cercanías que discurren íntegramente por Euskadi, para mejorar su gestión, mantenimiento, accesibilidad y coordinación con el sistema vasco de transporte."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Exigir al Ministerio de Transportes que cumpla sus compromisos para eliminar los pasos a nivel pendientes, especialmente en Enkarterri y Zalla, fijando plazos vinculantes para su ejecución."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-donostia-irun-accessibility",
+      "title": {
+        "es": "Proyectos ferroviarios y accesibilidad universal",
+        "ca": "Projectes ferroviaris i accessibilitat universal",
+        "gl": "Proxectos ferroviarios e accesibilidade universal",
+        "eu": "Trenbide-proiektuak eta irisgarritasun unibertsala",
+        "oc": "Projèctes ferroviaris e accessibilitat universau",
+        "en": "Rail projects and universal accessibility"
+      },
+      "text": {
+        "es": "Ejecutar traslado del apeadero y nuevo viario de Martutene; cumplir el intercambiador de Riberas de Loiola con Estado, Gobierno Vasco y Diputación de Gipuzkoa; impulsar Vía Irun 2030 y liberar espacios ferroviarios. Eliminar barreras en estaciones y adaptar trenes a movilidad reducida.",
+        "ca": "Executar trasllat del baixador i nou vial de Martutene; complir l’intercanviador de Riberas de Loiola amb Estat, Govern Basc i Diputació de Gipuzkoa; impulsar Vía Irun 2030 i alliberar espais ferroviaris. Eliminar barreres en estacions i adaptar trens a mobilitat reduïda.",
+        "gl": "Executar traslado do apeadoiro e novo viario de Martutene; cumprir o intercambiador de Riberas de Loiola con Estado, Goberno Vasco e Deputación de Gipuzkoa; impulsar Vía Irun 2030 e liberar espazos ferroviarios. Eliminar barreiras en estacións e adaptar trens á mobilidade reducida.",
+        "eu": "Martutene geltokia lekualdatzea eta bide berria egitea; Riberas de Loiolako trukagunea betetzea Estatuarekin, Eusko Jaurlaritzarekin eta Gipuzkoako Aldundiarekin; Vía Irun 2030 bultzatzea eta trenbide-espazioak askatzea. Geltokietako oztopoak kentzea eta trenak mugikortasun urrira egokitzea.",
+        "oc": "Executar eth traslat der arturador e nau viari de Martutene; complir er intercambiador de Riberas de Loiola damb Estat, Govèrn Basc e Deputacion de Gipuzkoa; impulsar Vía Irun 2030 e liberar espacis ferroviaris. Eliminar barrères en estacions e adaptar trens a mobilitat redusida.",
+        "en": "Deliver the Martutene stop relocation and new road; fulfil the Riberas de Loiola interchange agreement with the State, Basque Government and Gipuzkoa council; support Vía Irun 2030 and release railway land. Remove station barriers and adapt trains for reduced mobility."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Promover la ejecución del traslado del apeadero de Martutene y del nuevo viario previsto, poniendo fin a los retrasos de estas actuaciones en Donostia."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Asegurar el cumplimiento del acuerdo para construir el intercambiador de Riberas de Loiola, mediante la colaboración del Estado, el Gobierno Vasco y la Diputación Foral de Gipuzkoa."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Favorecer el proyecto Vía Irun 2030, integrando la transformación ferroviaria y urbana y facilitando la liberación de los espacios ferroviarios necesarios."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Asegurar la accesibilidad universal del transporte ferroviario, eliminando barreras en estaciones y adaptando el material rodante para las personas con movilidad reducida."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-rail-freight-logistics",
+      "title": {
+        "es": "Corredor Atlántico y logística ferroviaria",
+        "ca": "Corredor Atlàntic i logística ferroviària",
+        "gl": "Corredor Atlántico e loxística ferroviaria",
+        "eu": "Korridore Atlantikoa eta trenbide-logistika",
+        "oc": "Corridor Atlantic e logistica ferroviària",
+        "en": "Atlantic Corridor and rail logistics"
+      },
+      "text": {
+        "es": "Ejecutar inversiones y plazos del Corredor Atlántico y redes transeuropeas transfronterizas; priorizar Variante Sur Ferroviaria de Bilbao para reducir el tráfico de mercancías por zonas urbanas, conectar el puerto y liberar capacidad de viajeros. Reforzar Jundiz y conexiones de Bilbao, Pasaia y Lezo-Gaintxurizketa con interoperabilidad europea.",
+        "ca": "Executar inversions i terminis del Corredor Atlàntic i xarxes transeuropees transfrontereres; prioritzar Variante Sur Ferroviaria de Bilbao per reduir el trànsit de mercaderies per zones urbanes, connectar el port i alliberar capacitat de viatgers. Reforçar Jundiz i connexions de Bilbao, Pasaia i Lezo-Gaintxurizketa amb interoperabilitat europea.",
+        "gl": "Executar investimentos e prazos do Corredor Atlántico e redes transeuropeas transfronteirizas; priorizar Variante Sur Ferroviaria de Bilbao para reducir o tráfico de mercadorías por zonas urbanas, conectar o porto e liberar capacidade de viaxeiros. Reforzar Jundiz e conexións de Bilbao, Pasaia e Lezo-Gaintxurizketa con interoperabilidade europea.",
+        "eu": "Korridore Atlantikoko eta mugaz gaindiko sare transeuroparretako inbertsioak eta epeak betetzea; Bilboko Hegoaldeko Tren Saihesbidea lehenestea hiriguneetako salgaien trafikoa murrizteko, portua lotzeko eta bidaiarientzako gaitasuna askatzeko. Jundiz eta Bilbo, Pasaia eta Lezo-Gaintxurizketako loturak indartzea Europako elkarreragingarritasunarekin.",
+        "oc": "Executar inversions e tèrmes deth Corridor Atlantic e hilats transeuropèus transfronterèrs; priorizar Variante Sur Ferroviaria de Bilbao entà redusir eth trafic de mercaderies per zònes urbanes, connectar eth pòrt e liberar capacitat de viatgèrs. Refortir Jundiz e connexions de Bilbao, Pasaia e Lezo-Gaintxurizketa damb interoperabilitat europèa.",
+        "en": "Deliver Atlantic Corridor investment and trans-European cross-border network deadlines; prioritise Bilbao’s southern rail bypass to reduce urban freight traffic, connect its port and free passenger capacity. Strengthen Jundiz and Bilbao, Pasaia and Lezo-Gaintxurizketa links with European interoperability."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Promover la ejecución de las inversiones comprometidas en el Corredor Ferroviario Atlántico, consolidando Euskadi como conexión ferroviaria estratégica entre la península ibérica y Europa."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Asegurar la ejecución prioritaria de la Variante Sur Ferroviaria de Bilbao, para reducir el tráfico de mercancías por entornos urbanos, mejorar la conexión con el Puerto de Bilbao y liberar capacidad para los servicios de viajeros."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-19",
+          "quote": "Favorecer la Plataforma Multimodal de Jundiz, reforzando su capacidad logística y ferroviaria como infraestructura del Corredor Atlántico."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-20",
+          "quote": "Desarrollar las conexiones ferroviarias de los puertos de Bilbao y Pasaia y del nodo logístico de Lezo-Gaintxurizketa, avanzando en la interoperabilidad con la red europea."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-41",
+          "quote": "Asegurar el cumplimiento de los plazos de las redes transeuropeas de transporte, especialmente en las conexiones ferroviarias transfronterizas que unen Euskadi con el resto de Europa."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-airports",
+      "title": {
+        "es": "Foronda y modelo aeroportuario vasco",
+        "ca": "Foronda i model aeroportuari basc",
+        "gl": "Foronda e modelo aeroportuario vasco",
+        "eu": "Foronda eta euskal aireportu-eredua",
+        "oc": "Foronda e modèl aeroportuari basc",
+        "en": "Foronda and a Basque airport model"
+      },
+      "text": {
+        "es": "Invertir en Foronda para logística, industria, pasajeros, entorno de pruebas efectivo y conectividad internacional; coordinar aeropuertos vascos con mayor decisión sobre planificación, inversiones y conexiones de Bilbao, Donostia y Vitoria-Gasteiz, colaborando con aeropuertos del entorno.",
+        "ca": "Invertir a Foronda per a logística, indústria, passatgers, entorn de proves efectiu i connectivitat internacional; coordinar aeroports bascos amb més decisió sobre planificació, inversions i connexions de Bilbao, Donostia i Vitoria-Gasteiz, col·laborant amb aeroports de l’entorn.",
+        "gl": "Investir en Foronda para loxística, industria, pasaxeiros, contorno de probas efectivo e conectividade internacional; coordinar aeroportos vascos con maior decisión sobre planificación, investimentos e conexións de Bilbao, Donostia e Vitoria-Gasteiz, colaborando con aeroportos da contorna.",
+        "eu": "Forondan inbertitzea logistika, industria, bidaiariak, proba-ingurunearen benetako abiaraztea eta nazioarteko konektibitatea sustatzeko; euskal aireportuak koordinatzea, Bilbo, Donostia eta Gasteizko plangintza, inbertsio eta loturen gaineko erabakimena handituz eta inguruko aireportuekin lankidetzan.",
+        "oc": "Invertir en Foronda entà logistica, industria, passatgèrs, entorn de pròves efectiu e connectivitat internacionau; coordinar aeropòrts basqui damb mès decision sus planificacion, inversions e connexions de Bilbao, Donostia e Vitoria-Gasteiz, collaborant damb aeropòrts der entorn.",
+        "en": "Invest in Foronda’s logistics, industry, passengers, operational testing environment and international connections; coordinate Basque airports with greater Basque control over planning, investment and connectivity in Bilbao, Donostia and Vitoria-Gasteiz, working with nearby airports."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-20",
+          "quote": "Promover más inversión y capacidad de desarrollo para el aeropuerto de Foronda, reforzando su actividad logística, industrial y de pasajeros, la puesta en marcha efectiva de su entorno de pruebas y su conectividad internacional."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-20",
+          "quote": "Impulsar un modelo aeroportuario vasco coordinado, con mayor capacidad de decisión de Euskadi sobre la planificación, las inversiones y la conectividad de Bilbao, Donostia y Vitoria-Gasteiz, en colaboración con los aeropuertos del entorno."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-port-autonomy-regeneration",
+      "title": {
+        "es": "Gestión portuaria y bahía de Pasaia",
+        "ca": "Gestió portuària i badia de Pasaia",
+        "gl": "Xestión portuaria e baía de Pasaia",
+        "eu": "Portuen kudeaketa eta Pasaiako badia",
+        "oc": "Gestion portuària e baia de Pasaia",
+        "en": "Port management and Pasaia Bay"
+      },
+      "text": {
+        "es": "Avanzar hacia gestión integral vasca de Bilbao y Pasaia; desclasificar Pasaia como puerto de interés general para transferirlo. Regenerar su bahía con acuerdos institucionales y planificación urbana, portuaria y ambiental.",
+        "ca": "Avançar cap a gestió integral basca de Bilbao i Pasaia; desclassificar Pasaia com a port d’interès general per transferir-lo. Regenerar-ne la badia amb acords institucionals i planificació urbana, portuària i ambiental.",
+        "gl": "Avanzar cara á xestión integral vasca de Bilbao e Pasaia; desclasificar Pasaia como porto de interese xeral para transferilo. Rexenerar a súa baía con acordos institucionais e planificación urbana, portuaria e ambiental.",
+        "eu": "Bilbo eta Pasaiaren euskal kudeaketa integralera aurreratzea; Pasaia interes orokorreko portu izatetik deskatalogatzea transferitzeko. Badia leheneratzea erakunde-akordioekin eta hiri-, portu- eta ingurumen-plangintzarekin.",
+        "oc": "Auançar entara gestion integrau basca de Bilbao e Pasaia; desclassificar Pasaia coma pòrt d’interès generau entà transferir-lo. Regenerar era sua baia damb acòrds institucionaus e planificacion urbana, portuària e ambientau.",
+        "en": "Move towards full Basque management of Bilbao and Pasaia ports; remove Pasaia’s general-interest classification to enable transfer. Regenerate its bay through institutional agreements integrating urban, port and environmental planning."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-20",
+          "quote": "Asegurar mayor autonomía de gestión para los puertos de Bilbao y Pasaia, avanzando hacia su gestión integral desde Euskadi. En el caso de Pasaia, promoveremos su desclasificación como puerto de interés general para posibilitar la transferencia."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-20",
+          "quote": "Favorecer la regeneración de la bahía de Pasaia, mediante acuerdos entre las instituciones competentes y una planificación que integre las necesidades urbanas, portuarias y ambientales."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-road-tolls",
+      "title": {
+        "es": "Repercusión de peajes en transporte",
+        "ca": "Repercussió de peatges en transport",
+        "gl": "Repercusión de peaxes no transporte",
+        "eu": "Bidesariak garraioan jasanaraztea",
+        "oc": "Repercussion de peatges en transpòrt",
+        "en": "Passing on road tolls"
+      },
+      "text": {
+        "es": "Modificar la Ley 15/2009 para que transportistas puedan repercutir peajes a clientes, sin asumirlos exclusivamente.",
+        "ca": "Modificar la Llei 15/2009 perquè transportistes puguin repercutir peatges als clients, sense assumir-los exclusivament.",
+        "gl": "Modificar a Lei 15/2009 para que transportistas poidan repercutir peaxes a clientes, sen asumilos exclusivamente.",
+        "eu": "15/2009 Legea aldatzea, garraiolariek bidesariak bezeroei jasanarazi ahal izateko, kostuak haiek bakarrik hartu gabe.",
+        "oc": "Modificar era Lei 15/2009 entà qu’es transportistes poguen repercutir peatges as clients, sense assumir-les exclusivament.",
+        "en": "Amend Law 15/2009 so transport firms can pass toll costs on to clients rather than bearing them alone."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-20",
+          "quote": "Modificar la Ley 15/2009 para garantizar que los costes de los peajes de carretera puedan repercutirse a los clientes del transporte, evitando que recaigan exclusivamente sobre las empresas transportistas."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-essential-cultural-vat",
+      "title": {
+        "es": "IVA esencial y cultural",
+        "ca": "IVA essencial i cultural",
+        "gl": "IVE esencial e cultural",
+        "eu": "Oinarrizko eta kulturako BEZa",
+        "oc": "IVA essenciau e culturau",
+        "en": "Essential-goods and cultural VAT"
+      },
+      "text": {
+        "es": "Reformar el IVA esencial estudiando tipos cero o superreducidos para alimentos básicos como pescado y carne y productos específicos como los de personas celíacas; revisar suministros, combustibles y transporte público dentro del marco europeo. Revisar IVA cultural para artistas y galerías.",
+        "ca": "Reformar l’IVA essencial estudiant tipus zero o superreduïts per a aliments bàsics com peix i carn i productes específics com els de persones celíaques; revisar subministraments, combustibles i transport públic dins del marc europeu. Revisar IVA cultural per a artistes i galeries.",
+        "gl": "Reformar o IVE esencial estudando tipos cero ou superreducidos para alimentos básicos como peixe e carne e produtos específicos como os de persoas celíacas; revisar subministracións, combustibles e transporte público dentro do marco europeo. Revisar IVE cultural para artistas e galerías.",
+        "eu": "Oinarrizko BEZa erreformatzea, arraina eta haragia bezalako elikagaientzat eta zeliakoentzako produktu berezientzat zero edo tasa supermurriztuak aztertuz; hornidurak, erregaiak eta garraio publikoa berrikustea Europako esparruan. Artista eta galerientzako kulturako BEZa berrikustea.",
+        "oc": "Reformar er IVA essenciau estudiant taus zèro o superredusides entà aliments basics coma peish e carn e productes especifics coma es de persones celiaques; revisar forniments, combustibles e transpòrt public laguens deth marc europèu. Revisar IVA culturau entà artistes e galeries.",
+        "en": "Reform essential-goods VAT, studying zero or super-reduced rates for basics such as fish and meat and specific products such as coeliac foods; review utilities, fuels and public transport within EU rules. Review cultural VAT for artists and galleries."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-21",
+          "quote": "Favorecer una reforma integral del IVA de los bienes y servicios esenciales, estudiando la aplicación de tipos cero o superreducidos a determinados alimentos básicos (pescado, carne, entre otros) y a productos alimenticios específicos (personas celíacas, entre otros colectivos) y la revisión de la tributación de suministros esenciales (electricidad, gas, combustibles…) y transporte público, dentro del marco europeo."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-21",
+          "quote": "Revisar el IVA cultural para favorecer la actividad de artistas y galerías, aprovechando las posibilidades de la normativa europea."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-economy-and-taxes-fiscal-investment-autonomy",
+      "title": {
+        "es": "Inversión pública y autonomía fiscal",
+        "ca": "Inversió pública i autonomia fiscal",
+        "gl": "Investimento público e autonomía fiscal",
+        "eu": "Inbertsio publikoa eta zerga-autonomia",
+        "oc": "Inversion publica e autonomia fiscau",
+        "en": "Public investment and fiscal autonomy"
+      },
+      "text": {
+        "es": "Flexibilizar reglas de gasto conforme al nuevo marco europeo y permitir destinar superávits municipales, forales y del Gobierno Vasco a inversiones prioritarias. Respetar Concierto y autonomía financiera; ampliar capacidades financiero-fiscales modificando Concierto y Convenio, y la capacidad normativa de las Haciendas Forales e instituciones competentes de los Territorios Históricos en IVA e Impuestos Especiales mediante Concierto y cambios legales, dentro de la armonización europea.",
+        "ca": "Flexibilitzar regles de despesa d’acord amb el nou marc europeu i permetre destinar superàvits municipals, forals i del Govern Basc a inversions prioritàries. Respectar Concierto i autonomia financera; ampliar capacitats financeres i fiscals modificant Concierto i Convenio, i la capacitat normativa de les hisendes forals i institucions competents dels territoris històrics en IVA i impostos especials mitjançant Concierto i canvis legals, dins de l’harmonització europea.",
+        "gl": "Flexibilizar regras de gasto conforme ao novo marco europeo e permitir destinar superávits municipais, forais e do Goberno Vasco a investimentos prioritarios. Respectar Concierto e autonomía financeira; ampliar capacidades financeiro-fiscais modificando Concierto e Convenio, e a capacidade normativa das facendas forais e institucións competentes dos territorios históricos en IVE e impostos especiais mediante Concierto e cambios legais, dentro da harmonización europea.",
+        "eu": "Gastu-arauak Europako esparru berrira malgutzea eta udal, foru eta Eusko Jaurlaritzaren superabitak lehentasunezko inbertsioetara bideratzea ahalbidetzea. Ekonomia Ituna eta finantza-autonomia errespetatzea; finantza- eta zerga-ahalmenak zabaltzea Ituna eta Hitzarmena aldatuz, eta foru-ogasunek eta lurralde historikoetako erakunde eskudunek BEZean eta zerga berezietan duten araugintza-ahalmena handitzea Itunaren eta lege-aldaketen bidez, Europako harmonizazioaren barruan.",
+        "oc": "Flexibilizar règles de despensa segontes eth nau marc europèu e perméter destinar superàvits municipaus, foraus e deth Govèrn Basc a inversions prioritàries. Respectar Concierto e autonomia financèra; ampliar capacitats financères e fiscaus modificant Concierto e Convenio, e era capacitat normativa des isendes foraus e institucions competentes des territòris istorics en IVA e impòsti especiaus mejançant Concierto e cambis legaus, laguens dera armonizacion europèa.",
+        "en": "Relax spending rules under the new EU fiscal framework and allow municipal, foral and Basque Government surpluses to fund priority investments. Respect the Concierto and financial autonomy; expand financial and fiscal powers by amending the Concierto and Convenio, and increase the foral treasuries’ and competent Historical Territory institutions’ rule-making powers over VAT and excise through Concierto and legislative changes, within EU harmonisation limits."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-21",
+          "quote": "Dar mayor margen de inversión a las administraciones vascas revisando la normativa de estabilidad presupuestaria, adaptándola al nuevo marco fiscal europeo y permitiendo reglas de gasto más flexibles."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-21",
+          "quote": "Facilitar que los ayuntamientos, las diputaciones forales y el Gobierno Vasco puedan utilizar sus superávits para inversiones prioritarias, evitando que recursos disponibles permanezcan bloqueados por restricciones generales."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-21",
+          "quote": "Asegurar que las reformas fiscales y presupuestarias respeten el Concierto Económico y la autonomía financiera de las instituciones vascas, así como sus mecanismos propios de coordinación y relación con el Estado."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-21",
+          "quote": "Ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales. Reclamar, mediante la actualización del Concierto Económico y las modificaciones legales necesarias, una mayor capacidad normativa de las instituciones competentes de los Territorios Históricos en estos impuestos, dentro de los límites de armonización establecidos por la Unión Europea, para adaptar mejor la fiscalidad a la realidad económica de Euskadi, apoyar la competitividad industrial y responder a las necesidades de las empresas y de las personas consumidoras."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Aumentar nuestras capacidades financiero-fiscales promoviendo la modificación de la Ley del Concierto económico y el convenio económico."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-39",
+          "quote": "Asegurar que las reformas fiscales y presupuestarias estatales respeten el Concierto Económico, la autonomía financiera de Euskadi y los mecanismos propios de relación y coordinación con el Estado."
+        }
+      ]
+    }
+  ],
+  "internalNotes": "The programme frames these commitments as advocacy in the Cortes Generales for Euskadi. Measures must be read within the stated Basque competences and any specific State or European legal limits; they do not imply direct State implementation of devolved policies."
+}

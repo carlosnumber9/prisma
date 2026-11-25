@@ -1,0 +1,155 @@
+{
+  "id": "eaj-pnv--healthcare",
+  "partyId": "eaj-pnv",
+  "topicId": "healthcare",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:32:02Z",
+  "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
+  "points": [
+    {
+      "id": "eaj-pnv-healthcare-reproductive-rights",
+      "title": {
+        "es": "Derechos reproductivos y protección frente al acoso",
+        "ca": "Drets reproductius i protecció davant l’assetjament",
+        "gl": "Dereitos reprodutivos e protección fronte ao acoso",
+        "eu": "Ugalketa-eskubideak eta jazarpenaren aurkako babesa",
+        "oc": "Drets reproductius e proteccion contra er assetjament",
+        "en": "Reproductive rights and protection from harassment"
+      },
+      "text": {
+        "es": "Garantizar los derechos sexuales y reproductivos de las mujeres y su acceso libre y seguro a servicios sanitarios; modificar la Ley de Seguridad Ciudadana para perímetros proporcionados de al menos 150 metros alrededor de centros de aborto, protegiendo la intimidad y libertad de las mujeres frente al acoso.",
+        "ca": "Garantir els drets sexuals i reproductius de les dones i el seu accés lliure i segur als serveis sanitaris; modificar la Llei de Seguretat Ciutadana per a perímetres proporcionats d’almenys 150 metres al voltant de centres d’avortament, protegint la intimitat i llibertat de les dones davant l’assetjament.",
+        "gl": "Garantir os dereitos sexuais e reprodutivos das mulleres e o seu acceso libre e seguro aos servizos sanitarios; modificar a Lei de Seguridade Cidadá para perímetros proporcionados de polo menos 150 metros arredor de centros de aborto, protexendo a intimidade e liberdade das mulleres fronte ao acoso.",
+        "eu": "Emakumeen sexu- eta ugalketa-eskubideak eta osasun-zerbitzuetarako sarbide libre eta segurua bermatzea; Herritarren Segurtasun Legea aldatzea, abortu-zentroen inguruan gutxienez 150 metroko babes-perimetro proportzionatuak ezartzeko, emakumeen intimitatea eta askatasuna jazarpenetik babestuz.",
+        "oc": "Garantir es drets sexuaus e reproductius des hemnes e eth sòn accès liure e segur as servicis sanitaris; modificar era Lei de Seguretat Ciutadana entà perimètres proporcionadi d’aumens 150 mètres ath torn de centres d’avortament, protegint era intimitat e libertat des hemnes deuant er assetjament.",
+        "en": "Ensure women’s sexual and reproductive rights and unrestricted and safe access to health services; amend citizen-security law for proportionate protection perimeters of at least 150 metres around abortion facilities, protecting women’s privacy and freedom from harassment."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Proteger el ejercicio efectivo de los derechos sexuales y reproductivos de las mujeres, garantizando el acceso libre y seguro a los servicios sanitarios."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Modificar la Ley de Seguridad Ciudadana para establecer perímetros de protección de al menos 150 metros alrededor de los centros donde se practica la interrupción voluntaria del embarazo, mediante medidas proporcionadas que impidan el acoso y protejan la intimidad y la libertad de las mujeres."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-healthcare-specialist-training-planning",
+      "title": {
+        "es": "Más especialistas y planificación sanitaria",
+        "ca": "Més especialistes i planificació sanitària",
+        "gl": "Máis especialistas e planificación sanitaria",
+        "eu": "Espezialista gehiago eta osasun-plangintza",
+        "oc": "Mès especialistes e planificacion sanitària",
+        "en": "More specialists and health workforce planning"
+      },
+      "text": {
+        "es": "Adaptar MIR a necesidades reales, evitar vacantes y agilizar acreditación docente; permitir valorar el conocimiento de lenguas oficiales al acceder a especialización en territorios plurilingües; coordinar plazas formativas con necesidades de los sistemas públicos.",
+        "ca": "Adaptar MIR a necessitats reals, evitar vacants i agilitzar acreditació docent; permetre valorar el coneixement de llengües oficials en accedir a especialització en territoris plurilingües; coordinar places formatives amb necessitats dels sistemes públics.",
+        "gl": "Adaptar MIR a necesidades reais, evitar vacantes e axilizar acreditación docente; permitir valorar o coñecemento de linguas oficiais ao acceder á especialización en territorios plurilingües; coordinar prazas formativas coas necesidades dos sistemas públicos.",
+        "eu": "MIR benetako beharretara egokitzea, hutsuneak saihestea eta irakaskuntza-unitateen akreditazioa arintzea; hizkuntza ofizialen ezagutza baloratzea ahalbidetzea espezializazioan sartzean lurralde eleaniztunetan; prestakuntza-plazak sistema publikoen beharrekin koordinatzea.",
+        "oc": "Adaptar MIR a besonhs reaus, evitar vacants e agilizar acreditacion docenta; perméter avalorar eth coneishement de lengües oficiaus en accès ara especializacion en territòris plurilingües; coordinar places formatives damb besonhs des sistèmes publics.",
+        "en": "Adapt MIR specialist training to real needs, avoid unfilled places and speed teaching-unit accreditation; allow official-language knowledge to count in specialist entry in multilingual territories; coordinate training places with public health-system needs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Formar más especialistas sanitarios donde se necesitan, adaptando el sistema MIR para adecuar la oferta de plazas a las necesidades reales de profesionales, evitar que queden vacantes y agilizar la acreditación de nuevas unidades docentes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Permitir la valoración del conocimiento de las lenguas oficiales en el acceso a la formación sanitaria especializada, en los territorios con más de una lengua oficial."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Reforzar la planificación de profesionales sanitarios, mejorando la coordinación entre la oferta de formación especializada y las necesidades de los sistemas públicos de salud."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-healthcare-medicines-research-cannabis",
+      "title": {
+        "es": "Medicamentos, investigación y cannabis medicinal",
+        "ca": "Medicaments, recerca i cànnabis medicinal",
+        "gl": "Medicamentos, investigación e cannabis medicinal",
+        "eu": "Sendagaiak, ikerketa eta kalamu medizinala",
+        "oc": "Medicaments, recèrca e cannabis medicinau",
+        "en": "Medicines, research and medicinal cannabis"
+      },
+      "text": {
+        "es": "Asegurar participación permanente de gobiernos Vasco y Navarro en autorización, registro y precios de medicamentos. Investigar y atender enfermedades raras y neurodegenerativas, incluido Alzheimer, facilitando medicamentos huérfanos y tratamientos especializados; regular cannabis medicinal con condiciones sanitarias y de seguridad.",
+        "ca": "Assegurar participació permanent dels governs Basc i Navarrès en autorització, registre i preus de medicaments. Investigar i atendre malalties rares i neurodegeneratives, inclòs Alzheimer, facilitant medicaments orfes i tractaments especialitzats; regular cànnabis medicinal amb condicions sanitàries i de seguretat.",
+        "gl": "Asegurar participación permanente dos gobernos Vasco e Navarro en autorización, rexistro e prezos de medicamentos. Investigar e atender enfermidades raras e neurodexenerativas, incluído Alzheimer, facilitando medicamentos orfos e tratamentos especializados; regular cannabis medicinal con condicións sanitarias e de seguridade.",
+        "eu": "Eusko Jaurlaritzaren eta Nafarroako Gobernuaren parte-hartze iraunkorra bermatzea sendagaien baimen, erregistro eta prezioetan. Gaixotasun arraro eta neurodegeneratiboak, Alzheimerra barne, ikertzea eta artatzea, sendagai umezurtzak eta tratamendu espezializatuak erraztuz; kalamu medizinala osasun- eta segurtasun-baldintzekin arautzea.",
+        "oc": "Assegurar participacion permanenta des govèrns Basc e Navarrés en autorizacion, registre e prètzi de medicaments. Investigar e atier malauties rares e neurodegeneratives, includit Alzheimer, facilitant medicaments òrfens e tractaments especializadi; regular cannabis medicinau damb condicions sanitàries e de seguretat.",
+        "en": "Ensure permanent Basque and Navarre government participation in medicine authorisation, registration and pricing. Support research and care for rare and neurodegenerative diseases, including Alzheimer’s, access to orphan medicines and specialist treatments; regulate medicinal cannabis with health and safety conditions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Asegurar la participación permanente de los Gobiernos Vasco y Navarro en los órganos estatales encargados de autorizar, registrar y fijar los precios de los medicamentos, incorporando las necesidades de sus respectivos sistemas sanitarios a la toma de decisiones."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Favorecer la investigación y mejorar la atención a las personas con enfermedades raras y neurodegenerativas, incluido el Alzheimer, favoreciendo el acceso a medicamentos huérfanos y tratamientos especializados."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Favorecer la regulación del uso medicinal del cannabis, estableciendo las condiciones sanitarias y de seguridad necesarias para su utilización terapéutica."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-healthcare-health-transfers-workforce-negotiation",
+      "title": {
+        "es": "Competencias sanitarias y diálogo profesional",
+        "ca": "Competències sanitàries i diàleg professional",
+        "gl": "Competencias sanitarias e diálogo profesional",
+        "eu": "Osasun-eskumenak eta lanbide-elkarrizketa",
+        "oc": "Competéncies sanitàries e dialòg professionau",
+        "en": "Health powers and professional dialogue"
+      },
+      "text": {
+        "es": "Completar transferencias de formación especializada, acreditación de plazas, control sanitario de incapacidades y sanidad exterior. Negociar Estatuto Marco con profesionales, sindicatos y autonomías, reconociendo especificidad médica y memoria económica; resolver conflictos por diálogo evitando perjuicios a pacientes y servicios.",
+        "ca": "Completar transferències de formació especialitzada, acreditació de places, control sanitari d’incapacitats i sanitat exterior. Negociar Estatut Marc amb professionals, sindicats i autonomies, reconeixent especificitat mèdica i memòria econòmica; resoldre conflictes per diàleg evitant perjudicis a pacients i serveis.",
+        "gl": "Completar transferencias de formación especializada, acreditación de prazas, control sanitario de incapacidades e sanidade exterior. Negociar Estatuto Marco con profesionais, sindicatos e autonomías, recoñecendo especificidade médica e memoria económica; resolver conflitos por diálogo evitando prexuízos a pacientes e servizos.",
+        "eu": "Prestakuntza espezializatua, plazen akreditazioa, lan-ezintasunen osasun-kontrola eta kanpo-osasuna transferitzea osatzea. Esparru Estatutua profesional, sindikatu eta autonomiekin negoziatzea, medikuntzaren berezitasuna eta memoria ekonomikoa bermatuz; gatazkak elkarrizketaz konpontzea pazienteei eta zerbitzuei kalterik egin gabe.",
+        "oc": "Completar transferéncies de formacion especializada, acreditacion de places, contròtle sanitari d’incapacitats e sanitat exteriora. Negociar Estatut Marc damb professionaus, sindicats e autonomies, reconeishent especificitat medica e memòria economica; resòlver conflictes per dialòg evitant perjudicis a pacients e servicis.",
+        "en": "Complete transfers covering specialist training, place accreditation, medical oversight of work incapacity and external health. Negotiate the workforce Framework Statute with professionals, unions and regions, recognising medical work’s specificity and ensuring financial assessment; resolve disputes through dialogue without harming patients or services."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Culminar las transferencias sanitarias pendientes a Euskadi, especialmente en formación sanitaria especializada, acreditación de plazas, control sanitario de las incapacidades laborales y sanidad exterior."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Impulsar que la reforma del Estatuto Marco de las profesiones sanitarias se negocie con profesionales, sindicatos y comunidades autónomas, reconociendo la especificidad del trabajo médico y garantizando una memoria económica que permita aplicar los acuerdos."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-32",
+          "quote": "Favorecer una solución dialogada a los conflictos laborales del ámbito sanitario, evitando que sus consecuencias recaigan sobre las personas pacientes y los servicios públicos de salud."
+        }
+      ]
+    }
+  ],
+  "internalNotes": "The programme frames these commitments as advocacy in the Cortes Generales for Euskadi. Measures must be read within the stated Basque competences and any specific State or European legal limits; they do not imply direct State implementation of devolved policies."
+}

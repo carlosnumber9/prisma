@@ -42,19 +42,29 @@
       "title": "Programa elecciones generales 2026",
       "url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n",
       "format": "pdf",
-      "capturedAt": "2026-11-22T11:19:08.320Z",
+      "capturedAt": "2026-11-22T17:50:53.617Z",
       "sha256": "5af7a5b6f67c26bad87ef6c3ca01ae38aa1f1d7d9029efb32fc52482de0c1314",
       "pageCount": 43
     },
     {
-      "id": "escanos-en-blanco-2026-b174ec60857e",
+      "id": "escanos-en-blanco-2026-ae753a669421",
+      "partyId": "escanos-en-blanco",
+      "electionDate": "2026-11-29",
+      "title": "Manifiesto de Escaños en Blanco",
+      "url": "https://escanos.org/conocenos/manifiesto-de-escanos-en-blanco/",
+      "format": "html",
+      "capturedAt": "2026-11-22T18:01:27Z",
+      "sha256": "ae753a669421e4dfb905f2a8b109e6bf86ca74155221aa9bcfbd7f760d48ab92"
+    },
+    {
+      "id": "escanos-en-blanco-2026-cce3e392c3de",
       "partyId": "escanos-en-blanco",
       "electionDate": "2026-11-29",
       "title": "Programa electoral de Escaños en Blanco",
       "url": "https://escanos.org/conocenos/programa-electoral-de-escanos-en-blanco/",
       "format": "html",
-      "capturedAt": "2026-11-22T11:37:10.556Z",
-      "sha256": "b174ec60857ec1d7682e750c48cba5e511bbc76acd7b029313ae1a07f439ffd5"
+      "capturedAt": "2026-11-22T17:52:06Z",
+      "sha256": "cce3e392c3de335defe9300d4d9534dcc3a247b4760931a1643c0bcae4568274"
     },
     {
       "id": "falange-espanola-de-las-jons-2026-46edb0c2db12",

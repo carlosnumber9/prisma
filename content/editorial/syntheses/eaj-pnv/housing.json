@@ -2,11 +2,38 @@
   "id": "eaj-pnv--housing",
   "partyId": "eaj-pnv",
   "topicId": "housing",
-  "revision": 1,
-  "reviewStatus": "partial",
-  "reviewedAt": "2026-11-22T11:32:29.616Z",
+  "revision": 2,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:32:02Z",
   "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
   "points": [
+    {
+      "id": "eaj-pnv-housing-planning",
+      "title": {
+        "es": "Trámites para construir vivienda",
+        "ca": "Tràmits per construir habitatge",
+        "gl": "Trámites para construír vivenda",
+        "eu": "Etxebizitzak eraikitzeko izapideak",
+        "oc": "Tramits entà bastir abitatges",
+        "en": "Housing construction procedures"
+      },
+      "text": {
+        "es": "Agilizar los trámites urbanísticos para construir nuevas viviendas, con plazos razonables y garantías legales.",
+        "ca": "Agilitzar els tràmits urbanístics per construir habitatges nous, amb terminis raonables i garanties legals.",
+        "gl": "Axilizar os trámites urbanísticos para construír novas vivendas, con prazos razoables e garantías legais.",
+        "eu": "Etxebizitza berriak eraikitzeko hirigintza-izapideak arintzea, arrazoizko epeekin eta legezko bermeekin.",
+        "oc": "Agilizar es tramits urbanistics entà bastir naui abitatges, damb tèrmes rasonables e garanties legaus.",
+        "en": "Speed up planning procedures for new housing, with reasonable deadlines and legal safeguards."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-7",
+          "quote": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas, con plazos razonables y garantías legales."
+        }
+      ]
+    },
     {
       "id": "eaj-pnv-housing-empty-homes-rehabilitation",
       "title": {
@@ -34,6 +61,118 @@
         }
       ],
       "internalNotes": "The surrounding programme frames advocacy in Madrid as enabling Basque institutions to act while respecting their competences; this point does not assert direct State implementation or an override of those competences."
+    },
+    {
+      "id": "eaj-pnv-housing-rental-abuse",
+      "title": {
+        "es": "Alquiler habitual y prevención de abusos",
+        "ca": "Lloguer habitual i prevenció d’abusos",
+        "gl": "Alugueiro habitual e prevención de abusos",
+        "eu": "Ohiko alokairua eta abusuen prebentzioa",
+        "oc": "Loguèr abituau e prevencion d’abusi",
+        "en": "Residential renting and preventing abuses"
+      },
+      "text": {
+        "es": "Evitar el uso fraudulento de contratos de temporada; regular alquileres de temporada y turísticos para preservar oferta residencial; reducir la especulación y dar seguridad jurídica a inquilinos y pequeños propietarios.",
+        "ca": "Evitar l’ús fraudulent de contractes de temporada; regular lloguers de temporada i turístics per preservar oferta residencial; reduir l’especulació i donar seguretat jurídica a llogaters i petits propietaris.",
+        "gl": "Evitar o uso fraudulento de contratos de tempada; regular alugueiros de tempada e turísticos para preservar oferta residencial; reducir a especulación e dar seguridade xurídica a inquilinos e pequenos propietarios.",
+        "eu": "Sasoiko kontratuen iruzurrezko erabilera saihestea; sasoiko eta turismo-alokairuak arautzea bizitegi-eskaintza zaintzeko; espekulazioa murriztea eta maizterrei eta jabe txikiei segurtasun juridikoa ematea.",
+        "oc": "Evitar er usatge fraudulent de contractes de temporada; regular loguèrs de temporada e toristics entà preservar aufèrta residenciau; redusir era especulacion e dar seguretat juridica a logataris e petits proprietaris.",
+        "en": "Prevent fraudulent seasonal contracts; regulate seasonal and tourist rentals to protect residential supply; reduce speculation and provide legal certainty for tenants and small landlords."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Evitar que los contratos de temporada se utilicen fraudulentamente para eludir las garantías del alquiler de vivienda habitual."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Regular los alquileres de temporada y turísticos para que no resten viviendas al alquiler residencial."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Reducir las prácticas especulativas que encarecen la vivienda y dificultan el acceso al alquiler y la compra."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Dar seguridad jurídica a las personas inquilinas y a los pequeños propietarios para favorecer el alquiler habitual."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-housing-vulnerable-families",
+      "title": {
+        "es": "Alternativas para familias vulnerables",
+        "ca": "Alternatives per a famílies vulnerables",
+        "gl": "Alternativas para familias vulnerables",
+        "eu": "Familia zaurgarrientzako aukerak",
+        "oc": "Alternatives entà familhes vulnerables",
+        "en": "Alternatives for vulnerable families"
+      },
+      "text": {
+        "es": "Ofrecer alternativas habitacionales a familias vulnerables sin trasladar toda la responsabilidad a pequeños propietarios.",
+        "ca": "Oferir alternatives residencials a famílies vulnerables sense traslladar tota la responsabilitat als petits propietaris.",
+        "gl": "Ofrecer alternativas residenciais a familias vulnerables sen trasladar toda a responsabilidade aos pequenos propietarios.",
+        "eu": "Familia zaurgarriei bizileku-aukerak eskaintzea, erantzukizun osoa jabe txikien gain utzi gabe.",
+        "oc": "Auferir alternatives residenciaus a familhes vulnerables sense transferir tota era responsabilitat as petits proprietaris.",
+        "en": "Offer housing alternatives for vulnerable families without placing all responsibility on small landlords."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Ofrecer alternativas habitacionales a las familias vulnerables sin trasladar toda la responsabilidad a los pequeños propietarios."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-housing-youth-emancipation",
+      "title": {
+        "es": "Primera vivienda y emancipación juvenil",
+        "ca": "Primer habitatge i emancipació juvenil",
+        "gl": "Primeira vivenda e emancipación xuvenil",
+        "eu": "Lehen etxebizitza eta gazteen emantzipazioa",
+        "oc": "Prumèr abitatge e emancipacion juvenila",
+        "en": "First homes and youth independence"
+      },
+      "text": {
+        "es": "Facilitar la primera vivienda joven en alquiler y propiedad, sin hacer del alquiler protegido la única opción. Priorizar y evaluar la emancipación en reformas estatales de vivienda, empleo, salarios y protección social, con políticas estables, financiación suficiente que complementen iniciativas vascas y respeten sus competencias.",
+        "ca": "Facilitar el primer habitatge jove de lloguer i propietat, sense fer del lloguer protegit l’única opció. Prioritzar i avaluar l’emancipació en reformes estatals d’habitatge, ocupació, salaris i protecció social, amb polítiques estables, finançament suficient que complementin iniciatives basques i respectin les seves competències.",
+        "gl": "Facilitar a primeira vivenda xuvenil en alugueiro e propiedade, sen facer do alugueiro protexido a única opción. Priorizar e avaliar a emancipación nas reformas estatais de vivenda, emprego, salarios e protección social, con políticas estables, financiamento suficiente que complementen iniciativas vascas e respecten as súas competencias.",
+        "eu": "Gazteen lehen etxebizitza alokairuan eta jabetzan erraztea, babestutako alokairua aukera bakarra izan gabe. Emantzipazioa lehenestea eta ebaluatzea Estatuko etxebizitza-, enplegu-, soldata- eta gizarte-babesaren erreformetan, politika egonkorrekin, finantzaketa nahikoarekin euskal ekimenak osatuz eta haien eskumenak errespetatuz.",
+        "oc": "Facilitar eth prumèr abitatge joen de loguèr e proprietat, sense hèr deth loguèr protegit era unica opcion. Priorizar e avalorar era emancipacion enes reformes estataus d’abitatge, emplec, salaris e proteccion sociau, damb politiques estables, finançament sufisent que complèten iniciatives basques e respècten es sues competéncies.",
+        "en": "Help young people access first homes through renting and ownership, without making protected renting their only option. Prioritise and assess independence in State housing, employment, pay and social-protection reforms, with stable, sufficiently funded policies complementing Basque initiatives and respecting their competences."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Promover medidas específicas para facilitar el acceso de las personas jóvenes a su primera vivienda, tanto en régimen de alquiler como en propiedad."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Asegurar que las políticas públicas de vivienda contemplen diferentes opciones de emancipación, evitando que el alquiler protegido se convierta en la única alternativa disponible para las personas jóvenes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Incorporar la emancipación juvenil como una prioridad en las reformas estatales de vivienda, empleo, salarios y protección social, evaluando cómo afectan estas decisiones a la capacidad de las personas jóvenes para vivir de forma independiente."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Promover políticas de emancipación estables y con financiación suficiente, que complementen las iniciativas de las instituciones vascas y respeten sus competencias."
+        }
+      ]
     }
-  ]
+  ],
+  "internalNotes": "The programme frames these commitments as advocacy in the Cortes Generales for Euskadi. Measures must be read within the stated Basque competences and any specific State or European legal limits; they do not imply direct State implementation of devolved policies."
 }

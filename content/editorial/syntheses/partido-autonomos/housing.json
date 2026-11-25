@@ -1,0 +1,173 @@
+{
+  "id": "partido-autonomos--housing",
+  "partyId": "partido-autonomos",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-housing-rent-deduction",
+      "title": {
+        "es": "Deducción estatal del alquiler",
+        "ca": "Deducció estatal del lloguer",
+        "gl": "Dedución estatal do alugueiro",
+        "eu": "Alokairuaren estatuko kenkaria",
+        "oc": "Deduccion estatau deth loguèr",
+        "en": "National rent deduction"
+      },
+      "text": {
+        "es": "Recuperar la deducción estatal en IRPF por alquiler habitual para rentas medias y bajas, con un tramo específico cuando parte de la vivienda esté declarada afecta al teletrabajo o actividad profesional.",
+        "ca": "Recuperar la deducció estatal en IRPF pel lloguer habitual per a rendes mitjanes i baixes, amb un tram específic quan part de l’habitatge estigui declarada afecta al teletreball o activitat professional.",
+        "gl": "Recuperar a dedución estatal no IRPF polo alugueiro habitual para rendas medias e baixas, cun tramo específico cando parte da vivenda estea declarada afecta ao teletraballo ou actividade profesional.",
+        "eu": "Ohiko etxebizitzaren alokairuko estatuko PFEZ kenkaria berreskuratzea errenta ertain eta baxuentzat, etxebizitzaren zati bat telelanari edo lanbide jarduerari atxikita aitortzen denean tarte espezifiko bat ezarriz.",
+        "oc": "Recuperar era deduccion estatau en IRPF peth loguèr abituau entà rendes mejanes e baishes, damb un tram especific quan ua part der abitatge sigue declarada afecta ath teletrabalh o activitat professionau.",
+        "en": "Restore the national personal income-tax deduction for main-home rent for low and middle incomes, with a specific deductible portion where part of the home is declared for teleworking or professional use."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-4",
+          "quote": "Deducción estatal por alquiler de vivienda habitual y local profesional"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-housing-renovation-tax",
+      "title": {
+        "es": "Rebaja del ICIO para reformas",
+        "ca": "Rebaixa de l’ICIO per a reformes",
+        "gl": "Rebaixa do ICIO para reformas",
+        "eu": "Obra zergaren beherapena",
+        "oc": "Rebaisha der ICIO entà reformes",
+        "en": "Construction-tax relief for renovations"
+      },
+      "text": {
+        "es": "Reducir obligatoriamente un 50 % el ICIO de reformas de mantenimiento, accesibilidad y eficiencia energética en viviendas y locales comerciales.",
+        "ca": "Reduir obligatòriament un 50 % l’ICIO de reformes de manteniment, accessibilitat i eficiència energètica en habitatges i locals comercials.",
+        "gl": "Reducir obrigatoriamente un 50 % o ICIO de reformas de mantemento, accesibilidade e eficiencia enerxética en vivendas e locais comerciais.",
+        "eu": "Etxebizitza eta merkataritza lokaletako mantentze, irisgarritasun eta energia eraginkortasun obren eraikuntza, instalazio eta obra zerga nahitaez % 50 jaistea.",
+        "oc": "Redusir obligatòriament un 50 % er ICIO de reformes de mantenença, accessibilitat e eficiéncia energetica en abitatges e locaus comerciaus.",
+        "en": "Require a 50% reduction in construction, installation and works tax for maintenance, accessibility and energy-efficiency renovations in homes and business premises."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Bonificación del 50 % en el ICIO para rehabilitación y eficiencia energética"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-housing-affordable-supply",
+      "title": {
+        "es": "Suelo público y alquiler asequible",
+        "ca": "Sòl públic i lloguer assequible",
+        "gl": "Solo público e alugueiro accesible",
+        "eu": "Lurzoru publikoa eta alokairu eskuragarria",
+        "oc": "Solèr public e loguèr accessible",
+        "en": "Public land and affordable rentals"
+      },
+      "text": {
+        "es": "Movilizar ágilmente suelo público en desuso para construir alquiler asequible mediante colaboración público-privada, reduciendo plazos urbanísticos y cargas fiscales sobre la primera vivienda.",
+        "ca": "Mobilitzar àgilment sòl públic en desús per construir lloguer assequible mitjançant col·laboració publicoprivada, reduint terminis urbanístics i càrregues fiscals sobre el primer habitatge.",
+        "gl": "Mobilizar axilmente solo público en desuso para construír alugueiro accesible mediante colaboración público-privada, reducindo prazos urbanísticos e cargas fiscais sobre a primeira vivenda.",
+        "eu": "Erabiltzen ez den lurzoru publikoa arin mobilizatzea, lankidetza publiko-pribatuaren bidez alokairu eskuragarriko etxebizitzak eraikitzeko, hirigintza epeak eta lehen etxebizitzaren zerga kargak murriztuz.",
+        "oc": "Mobilizar agilament solèr public en desús entà bastir loguèr accessible mejançant collaboracion publicoprivada, redusint tèrmes urbanistics e cargues fiscaus sus eth prumèr abitatge.",
+        "en": "Swiftly release unused public land for affordable rental housing through public-private partnerships, shortening planning procedures and reducing taxes on first homes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Plan Nacional de Vivienda Asequible y movilización de suelo público"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-housing-mortgage-relief",
+      "title": {
+        "es": "Segunda oportunidad habitacional",
+        "ca": "Segona oportunitat d’habitatge",
+        "gl": "Segunda oportunidade habitacional",
+        "eu": "Etxebizitzarako bigarren aukera",
+        "oc": "Dusau oportunitat d’abitatge",
+        "en": "Housing second chance"
+      },
+      "text": {
+        "es": "Establecer moratoria temporal y mediación obligatoria para familias vulnerables con desempleo sobrevenido en riesgo de ejecución hipotecaria de su vivienda habitual, facilitando alquiler social, reestructuración y dación en pago negociada.",
+        "ca": "Establir moratòria temporal i mediació obligatòria per a famílies vulnerables amb atur sobrevingut en risc d’execució hipotecària de l’habitatge habitual, facilitant lloguer social, reestructuració i dació en pagament negociada.",
+        "gl": "Establecer moratoria temporal e mediación obrigatoria para familias vulnerables con desemprego sobrevido en risco de execución hipotecaria da vivenda habitual, facilitando alugueiro social, reestruturación e dación en pagamento negociada.",
+        "eu": "Bat-bateko langabeziagatik ohiko etxebizitzaren hipoteka exekuzioa jasateko arriskuan dauden familia zaurgarrientzako aldi baterako moratoria eta nahitaezko bitartekaritza ezartzea, alokairu soziala, berregituraketa eta etxebizitza zorra kitatzeko hitzartuta ematea erraztuz.",
+        "oc": "Establir moratòria temporau e mediacion obligatòria entà familhes vulnerables damb caumatge subrevengut en risc d’execucion ipotecària der abitatge abituau, facilitant loguèr sociau, reestructuracion e dacion en pagament negociada.",
+        "en": "Provide temporary moratoria and mandatory mediation for vulnerable families facing foreclosure of their main home after unexpected unemployment, facilitating social rent, restructuring and negotiated surrender of the property in settlement."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-12",
+          "quote": "Segunda oportunidad habitacional y dación en pago negociada"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-housing-community-fees",
+      "title": {
+        "es": "Cuotas de comunidad de grandes tenedores",
+        "ca": "Quotes de comunitat de grans tenidors",
+        "gl": "Cotas de comunidade dos grandes propietarios",
+        "eu": "Jabe handien komunitate kuotak",
+        "oc": "Quòtes de comunitat de grani proprietaris",
+        "en": "Large owners’ community fees"
+      },
+      "text": {
+        "es": "Obligar inmediatamente a bancos y fondos con viviendas adjudicadas a pagar puntualmente cuotas ordinarias y derramas, reforzando la Ley de Propiedad Horizontal con embargos exprés de cuentas de grandes tenedores morosos.",
+        "ca": "Obligar immediatament bancs i fons amb habitatges adjudicats a pagar puntualment quotes ordinàries i derrames, reforçant la Llei de propietat horitzontal amb embargaments exprés de comptes de grans tenidors morosos.",
+        "gl": "Obrigar inmediatamente bancos e fondos con vivendas adxudicadas a pagar puntualmente cotas ordinarias e derramas, reforzando a Lei de propiedade horizontal con embargos exprés das contas de grandes propietarios morosos.",
+        "eu": "Esleitutako etxebizitzak dituzten banku eta funtsei kuota arruntak eta apartekoak garaiz ordainaraztea berehala, Jabetza Horizontalaren Legea indartuz ordaintzen ez duten jabe handien kontuak azkar bahitzeko.",
+        "oc": "Obligar immediatament bancs e hons damb abitatges adjudicadi a pagar puntualament quòtes ordinàries e derrames, enfortint era Lei de Proprietat Orizontau damb embargaments exprès de compdes de grani proprietaris morosi.",
+        "en": "Immediately require banks and funds holding repossessed homes to pay regular and extraordinary community fees on time, strengthening horizontal-property law with expedited account seizures against delinquent large owners."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-13",
+          "quote": "Obligación de bancos y grandes tenedores de pagar cuotas de comunidad"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-housing-illegal-occupation",
+      "title": {
+        "es": "Desalojo de ocupaciones ilegales",
+        "ca": "Desallotjament d’ocupacions il·legals",
+        "gl": "Desaloxo de ocupacións ilegais",
+        "eu": "Legez kanpoko okupazioak hustea",
+        "oc": "Deslotjament d’ocupacions illegaus",
+        "en": "Eviction of illegal occupations"
+      },
+      "text": {
+        "es": "Prever desalojo policial en menos de 24 horas por allanamiento o usurpación sin título, endurecer las penas para mafias de ocupación y suspender el empadronamiento fraudulento, protegiendo viviendas y locales.",
+        "ca": "Preveure desallotjament policial en menys de 24 hores per violació de domicili o usurpació sense títol, endurir les penes per a màfies d’ocupació i suspendre l’empadronament fraudulent, protegint habitatges i locals.",
+        "gl": "Prever desaloxo policial en menos de 24 horas por violación de domicilio ou usurpación sen título, endurecer as penas para mafias de ocupación e suspender o empadroamento fraudulento, protexendo vivendas e locais.",
+        "eu": "Etxe bortxaketa edo titulurik gabeko usurpazio kasuetan 24 ordu baino lehen poliziaren bidez hustea aurreikustea, okupazio mafien zigorrak gogortzea eta iruzurrezko erroldatzea etetea, etxebizitzak eta lokalak babesteko.",
+        "oc": "Preveir deslotjament policiau en mens de 24 ores per violacion de domicili o usurpacion sense títol, endurir es penes entà màfies d’ocupacion e suspéner er empadronament fraudulent, protegint abitatges e locaus.",
+        "en": "Provide police eviction in under 24 hours for unlawful entry into a home or occupation without legal title, increase penalties for occupation gangs and suspend fraudulent resident registration, protecting homes and business premises."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Ley integral contra la ocupación ilegal y protección de la propiedad privada"
+        }
+      ]
+    }
+  ]
+}

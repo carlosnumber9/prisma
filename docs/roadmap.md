@@ -2,7 +2,7 @@
 
 ## Implemented
 
-- Reviewed six-language programme summaries, stable point IDs, source locators, deterministic generation and separate editorial/public data. Fourteen formations have 232 approved proposals across 56 partial area syntheses, with 56 pending areas. Counts describe selected proposals, not complete programmes.
+- Reviewed six-language programme summaries, stable point IDs, source locators, deterministic generation and separate editorial/public data. Fourteen formations have 393 approved proposals across 24 complete, 53 partial and 35 pending area syntheses. EAJ-PNV, Partido Autónomos and Escaños en Blanco have whole-corpus coverage; seven Escaños areas were reviewed without applicable proposals. Other formations retain their documented selection or pending scope.
 - Prerendered programme, party and topic routes; localized navigation, proposal links, source disclosures and responsive presentation. See [portal implementation](portal.md) for animation, accessibility and browser verification limits.
 - Shared province selection, local IGN matching, Madrid fallback and 534 proclaimed Congress formation presences across 52 provinces. Existing national programme identities are reused across provincial variants. See [provincial data](provincial-data.md).
 - Minimal citation evidence instead of full originals and extraction archives; schema 4 omits undisplayed public quotations. Offline validation checks retained excerpts, not original bytes. See [the contract](content-contract.md).

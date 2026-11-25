@@ -1,0 +1,562 @@
+{
+  "id": "partido-autonomos--institutions-and-rights",
+  "partyId": "partido-autonomos",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-institutions-and-rights-express-licences",
+      "title": {
+        "es": "Apertura de negocios en 24 horas",
+        "ca": "Obertura de negocis en 24 hores",
+        "gl": "Apertura de negocios en 24 horas",
+        "eu": "Negozioak 24 orduan irekitzea",
+        "oc": "Dubertura de negòcis en 24 ores",
+        "en": "Business opening within 24 hours"
+      },
+      "text": {
+        "es": "Sustituir licencias previas municipales y autonómicas de apertura, reforma inocua o cambio de titularidad por una declaración responsable telemática única que permita abrir en 24 horas; mantener control previo solo para actividades peligrosas o contaminantes y realizar inspecciones aleatorias posteriores.",
+        "ca": "Substituir llicències prèvies municipals i autonòmiques d’obertura, reforma innòcua o canvi de titularitat per una declaració responsable telemàtica única que permeti obrir en 24 hores; mantenir control previ només per a activitats perilloses o contaminants i fer inspeccions aleatòries posteriors.",
+        "gl": "Substituír licenzas previas municipais e autonómicas de apertura, reforma inocua ou cambio de titularidade por unha declaración responsable telemática única que permita abrir en 24 horas; manter control previo só para actividades perigosas ou contaminantes e realizar inspeccións aleatorias posteriores.",
+        "eu": "Irekitzeko, kalterik gabeko berritzeetarako edo titulartasuna aldatzeko udal eta autonomia erkidegoko aurretiazko lizentziak erantzukizunpeko adierazpen telematiko bakarrarekin ordeztea, 24 orduan ireki ahal izateko; aurretiazko kontrola jarduera arriskutsu edo kutsatzaileetarako soilik mantentzea eta ondoren ausazko ikuskapenak egitea.",
+        "oc": "Remplaçar licéncies prèvies municipaus e autonomiques de dubertura, reforma innocua o cambiament de titularitat per ua declaracion responsabla telematica unica que permete daurir en 24 ores; mantier contròl previ sonque entà activitats perilhoses o contaminantes e hèr inspeccions aleatòries posteriores.",
+        "en": "Replace prior municipal and regional opening, harmless-renovation and ownership-change licences with one online declaration of responsibility allowing opening within 24 hours; retain prior controls only for dangerous or polluting activities and conduct random inspections afterwards."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-2",
+          "quote": "Licencia Exprés en 24 horas mediante Declaración Responsable"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-advisers-and-budgets",
+      "title": {
+        "es": "Recortar asesores y justificar cada gasto",
+        "ca": "Retallar assessors i justificar cada despesa",
+        "gl": "Recortar asesores e xustificar cada gasto",
+        "eu": "Aholkulariak murriztea eta gastu oro justifikatzea",
+        "oc": "Redusir assessors e justificar cada despensa",
+        "en": "Cut advisers and justify every expenditure"
+      },
+      "text": {
+        "es": "Recortar un 50 % los asesores y cargos de confianza, limitar número y retribución de eventuales y libre designación en ministerios, autonomías y diputaciones y sustituir asesoramiento partidista por funcionarios y colegios profesionales; destinar íntegramente el ahorro previsto superior a 600 millones anuales al inicio de actividad y relevo de pymes. Exigir presupuestos base cero y auditoría anual, eliminar organismos duplicados y controlar mediante Intervención General y Tribunal de Cuentas sin recortar sanidad, educación ni pensiones.",
+        "ca": "Retallar un 50 % assessors i càrrecs de confiança, limitar nombre i retribució d’eventuals i lliure designació en ministeris, autonomies i diputacions i substituir assessorament partidista per funcionaris i col·legis professionals; destinar íntegrament l’estalvi previst superior a 600 milions anuals a l’inici d’activitat i relleu de pimes. Exigir pressupostos base zero i auditoria anual, eliminar organismes duplicats i controlar mitjançant Intervenció General i Tribunal de Comptes sense retallar sanitat, educació ni pensions.",
+        "gl": "Recortar un 50 % asesores e cargos de confianza, limitar número e retribución de eventuais e libre designación en ministerios, autonomías e deputacións e substituír asesoramento partidista por funcionarios e colexios profesionais; destinar integramente o aforro previsto superior a 600 millóns anuais ao inicio de actividade e remuda de pemes. Esixir orzamentos base cero e auditoría anual, eliminar organismos duplicados e controlar mediante Intervención Xeral e Tribunal de Contas sen recortar sanidade, educación nin pensións.",
+        "eu": "Aholkulariak eta konfiantzazko karguak % 50 murriztea, ministerioetako, autonomia erkidegoetako eta diputazioetako behin-behinekoen eta izendapen askekoen kopurua eta ordainsaria mugatzea eta alderdien aholkularitza funtzionarioekin eta elkargo profesionalekin ordeztea; urtean aurreikusitako 600 milioitik gorako aurrezkia osorik jardueraren hasierara eta ETEen errelebora bideratzea. Urtero zero oinarriko aurrekontuak eta auditoria eskatzea, erakunde bikoiztuak kentzea eta Kontuhartzailetza Nagusiaren eta Kontu Auzitegiaren bidez kontrolatzea, osasuna, hezkuntza edo pentsioak murriztu gabe.",
+        "oc": "Redusir un 50 % assessors e cargues de confiança, limitar nombre e retribucion d’eventuaus e liura designacion en ministèris, autonomies e deputacions e remplaçar assessorament partidista per foncionaris e collègis professionaus; destinar integraument er estauvi previst superior a 600 milions annaus ar inici d’activitat e relèu de pimes. Exigir pressupòsti basa zèro e auditoria annau, eliminar organismes duplicadi e controlar mejançant Intervencion Generau e Tribunau de Compdes sense redusir sanitat, educacion ne pensions.",
+        "en": "Cut advisers and political appointees by 50%, cap their numbers and pay in ministries, autonomous administrations and provincial councils and replace partisan advice with career civil servants and professional bodies; direct all projected savings exceeding €600 million annually to business start-ups and SME succession. Require annual zero-based budgets and audits, abolish duplicated bodies and use General Comptroller and Court of Auditors oversight without cuts to healthcare, education or pensions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-2",
+          "quote": "Recorte del 50 % en asesores y cargos de confianza política"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-3",
+          "quote": "Presupuesto Base Cero y Auditoría anual de chiringuitos"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-single-data-and-tax-report",
+      "title": {
+        "es": "Dato único e información tributaria",
+        "ca": "Dada única i informació tributària",
+        "gl": "Dato único e información tributaria",
+        "eu": "Datu bakarra eta zerga informazioa",
+        "oc": "Donada unica e informacion tributària",
+        "en": "Single data entry and tax reporting"
+      },
+      "text": {
+        "es": "Interconectar Hacienda, Seguridad Social, SEPE, DGT y registros territoriales para no volver a pedir datos públicos ni sancionar o paralizar trámites por no aportarlos; dar a cada contribuyente un informe anual del destino de sus impuestos y calidad de los servicios frente a la media europea.",
+        "ca": "Interconnectar Hisenda, Seguretat Social, SEPE, DGT i registres territorials per no tornar a demanar dades públiques ni sancionar o paralitzar tràmits per no aportar-les; donar a cada contribuent un informe anual del destí dels impostos i qualitat dels serveis respecte de la mitjana europea.",
+        "gl": "Interconectar Facenda, Seguridade Social, SEPE, DGT e rexistros territoriais para non volver pedir datos públicos nin sancionar ou paralizar trámites por non achegalos; dar a cada contribuínte un informe anual do destino dos impostos e calidade dos servizos fronte á media europea.",
+        "eu": "Ogasuna, Gizarte Segurantza, SEPE, DGT eta lurralde erregistroak elkarlotzea, administrazioak dituen datuak berriz ez eskatzeko eta ez aurkezteagatik zehapenik edo izapide eteterik ez ezartzeko; zergadun bakoitzari zergen erabilerari eta zerbitzuen kalitateari buruzko urteko txostena ematea Europako batezbestekoarekin alderatuta.",
+        "oc": "Interconnectar Hisènda, Seguretat Sociau, SEPE, DGT e registres territoriaus entà non tornar a demanar donades publiques ne sancionar o paralizar tràmits per non aportar-les; dar a cada contribuent un rapòrt annau deth destin des impòsti e qualitat des servicis deuant era mejana europèa.",
+        "en": "Interconnect tax, social security, SEPE, DGT and territorial databases so citizens need not resubmit information already held by government and cannot be penalised or have procedures halted for failing to do so; give each taxpayer an annual report on tax spending and service quality against European averages."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-3",
+          "quote": "Dato Único Digital: prohibido pedir papeles que ya tiene el Estado"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-3",
+          "quote": "Reversión fiscal y transparencia en el retorno de impuestos"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-public-procurement",
+      "title": {
+        "es": "Contratos accesibles y control de sobrecostes",
+        "ca": "Contractes accessibles i control de sobrecostos",
+        "gl": "Contratos accesibles e control de sobrecustos",
+        "eu": "Kontratu eskuragarriak eta gainkostuen kontrola",
+        "oc": "Contractes accessibles e contròl de subercòsti",
+        "en": "Accessible procurement and cost control"
+      },
+      "text": {
+        "es": "Dividir obligatoriamente contratos públicos en lotes accesibles a autónomos y pymes locales; simplificar pliegos eliminando solvencia desproporcionada y exigir que adjudicatarios asuman sobrecostes de obra de hasta el 15 % con aval bancario previo.",
+        "ca": "Dividir obligatòriament contractes públics en lots accessibles a autònoms i pimes locals; simplificar plecs eliminant solvència desproporcionada i exigir que adjudicataris assumeixin sobrecostos d’obra de fins al 15 % amb aval bancari previ.",
+        "gl": "Dividir obrigatoriamente contratos públicos en lotes accesibles a autónomos e pemes locais; simplificar pregos eliminando solvencia desproporcionada e esixir que adxudicatarios asuman sobrecustos de obra de ata o 15 % con aval bancario previo.",
+        "eu": "Kontratu publikoak tokiko autonomo eta ETEentzat eskuragarriak diren loteetan nahitaez banatzea; pleguak sinplifikatzea kaudimen eskakizun neurrigabeak kenduz eta esleipendunei obraren % 15erainoko gainkostuak aurretiazko banku bermearekin ordainaraztea.",
+        "oc": "Dividir obligatòriament contractes publics en lòts accessibles a autonòms e pimes locaus; simplificar plecs eliminant solvéncia desproporcionada e exigir qu’adjudicataris assumisquen subercòsti d’òbra d’enquia eth 15 % damb avau bancari previ.",
+        "en": "Require public contracts to be split into lots accessible to local self-employed workers and SMEs; simplify specifications by removing disproportionate solvency requirements and make contractors bear construction overruns up to 15%, backed by a prior bank guarantee."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Modelo Preston y reserva de contratación local para pymes"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Transparencia en licitaciones y límite a sobrecostes de obra pública"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-market-unity-and-simplification",
+      "title": {
+        "es": "Unidad de mercado y simplificación normativa",
+        "ca": "Unitat de mercat i simplificació normativa",
+        "gl": "Unidade de mercado e simplificación normativa",
+        "eu": "Merkatu batasuna eta arau sinplifikazioa",
+        "oc": "Unitat de mercat e simplificacion normativa",
+        "en": "Market unity and regulatory simplification"
+      },
+      "text": {
+        "es": "Auditar constitucionalmente y transferir competencias duplicadas para garantizar unidad de mercado aplicando su ley; crear una Oficina Nacional de Simplificación Normativa independiente que evalúe el impacto de toda nueva ley o reglamento en autónomos y microempresas antes de aprobarse, con la regla obligatoria de una norma nueva y dos derogadas.",
+        "ca": "Auditar constitucionalment i transferir competències duplicades per garantir unitat de mercat aplicant-ne la llei; crear una Oficina Nacional de Simplificació Normativa independent que avaluï l’impacte de tota nova llei o reglament en autònoms i microempreses abans d’aprovar-se, amb la regla obligatòria d’una norma nova i dues derogades.",
+        "gl": "Auditar constitucionalmente e transferir competencias duplicadas para garantir unidade de mercado aplicando a súa lei; crear unha Oficina Nacional de Simplificación Normativa independente que avalíe o impacto de toda nova lei ou regulamento en autónomos e microempresas antes de aprobarse, coa regra obrigatoria dunha norma nova e dúas derrogadas.",
+        "eu": "Bikoiztutako eskumenen konstituzio auditoria eta transferentzia egitea merkatu batasuna bermatzeko, dagokion legea aplikatuz; Araugintza Sinplifikatzeko Bulego Nazional independentea sortzea, lege edo erregelamendu berri oro onartu aurretik autonomo eta mikroenpresetan duen eragina ebaluatzeko, arau berri bakoitzeko bi indargabetzeko nahitaezko arauarekin.",
+        "oc": "Auditar constitucionaument e transferir competéncies duplicades entà garantir unitat de mercat aplicant era sua lei; crear ua Oficina Nacionau de Simplificacion Normativa independenta qu’avalore er impacte de tota naua lei o reglament en autonòms e microempreses abans d’aprovar-se, damb era règla obligatòria d’ua norma naua e dues derogades.",
+        "en": "Conduct a constitutional audit and transfer duplicated powers to ensure market unity under its guarantee law; create an independent National Regulatory Simplification Office to assess every new law or regulation’s effects on self-employed workers and microbusinesses before approval, requiring two rules repealed for each new one."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-8",
+          "quote": "Reforma de competencias autonómicas y eliminación de duplicidades"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-15",
+          "quote": "Creación de la Oficina Nacional de Simplificación Normativa"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-judicial-independence",
+      "title": {
+        "es": "Elección judicial del CGPJ",
+        "ca": "Elecció judicial del CGPJ",
+        "gl": "Elección xudicial do CXPX",
+        "eu": "CGPJren hautaketa judiziala",
+        "oc": "Eleccion judiciau deth CGPJ",
+        "en": "Judicial election of the judicial council"
+      },
+      "text": {
+        "es": "Reformar la ley para que jueces y magistrados en activo elijan directamente los vocales del CGPJ, con consulta a colegios de abogados y fiscales y sin intervención parlamentaria.",
+        "ca": "Reformar la llei perquè jutges i magistrats en actiu elegeixin directament els vocals del CGPJ, amb consulta a col·legis d’advocats i fiscals i sense intervenció parlamentària.",
+        "gl": "Reformar a lei para que xuíces e maxistrados en activo elixan directamente os vogais do CXPX, con consulta a colexios de avogados e fiscais e sen intervención parlamentaria.",
+        "eu": "Legea erreformatzea, jarduneko epaile eta magistratuek CGPJko kideak zuzenean hautatzeko, abokatuen eta fiskalen elkargoei kontsulta eginez eta parlamentuaren esku hartzerik gabe.",
+        "oc": "Reformar era lei entà que jutges e magistrats en actiu elegisquen dirèctament es vocaus deth CGPJ, damb consulta a collègis d’avocats e fiscaus e sense intervencion parlamentària.",
+        "en": "Reform the law so serving judges and magistrates directly elect the General Council of the Judiciary’s members, with consultative participation by lawyers’ and prosecutors’ professional bodies and no parliamentary intervention."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-8",
+          "quote": "Independencia real del Poder Judicial sin cuotas de partidos"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-revolving-doors-and-privileges",
+      "title": {
+        "es": "Incompatibilidades y fin de privilegios",
+        "ca": "Incompatibilitats i fi de privilegis",
+        "gl": "Incompatibilidades e fin de privilexios",
+        "eu": "Bateraezintasunak eta pribilegioen amaiera",
+        "oc": "Incompatibilitats e fin de privilègis",
+        "en": "Conflicts of interest and political privileges"
+      },
+      "text": {
+        "es": "Ampliar a cinco años la incompatibilidad de exministros, secretarios de Estado y altos cargos para incorporarse a empresas reguladas o contratistas públicos, con pérdida de retribuciones como sanción; eliminar pensiones indemnizatorias, complementos vitalicios y privilegios de expresidentes, exministros y exparlamentarios, aplicándoles el régimen general de cotización.",
+        "ca": "Ampliar a cinc anys la incompatibilitat d’exministres, secretaris d’Estat i alts càrrecs per incorporar-se a empreses regulades o contractistes públics, amb pèrdua de retribucions com a sanció; eliminar pensions indemnitzatòries, complements vitalicis i privilegis d’expresidents, exministres i exparlamentaris, aplicant-los el règim general de cotització.",
+        "gl": "Ampliar a cinco anos a incompatibilidade de exministros, secretarios de Estado e altos cargos para incorporarse a empresas reguladas ou contratistas públicos, con perda de retribucións como sanción; eliminar pensións indemnizatorias, complementos vitalicios e privilexios de expresidentes, exministros e exparlamentarios, aplicándolles o réxime xeral de cotización.",
+        "eu": "Ministro ohiek, estatu idazkariek eta goi karguek araututako enpresetara edo kontratista publikoetara joateko bateraezintasun epea bost urtera luzatzea, ordainsariak galtzeko zehapenarekin; presidente ohien, ministro ohien eta parlamentari ohien kalte ordain pentsioak, biziarteko osagarriak eta pribilegioak kentzea, kotizazio araubide orokorra aplikatuz.",
+        "oc": "Alargar a cinc ans era incompatibilitat d’exministres, secretaris d’Estat e nauti cargues entà incorporar-se a empreses regulades o contractistes publics, damb pèrta de retribucions coma sancion; eliminar pensions indemnizatòries, complements vitalicis e privilègis d’expresidents, exministres e exparlamentaris, aplicant-les eth regim generau de cotizacion.",
+        "en": "Extend to five years the ban on former ministers, state secretaries and senior officials joining regulated companies or public contractors, with loss of remuneration as a sanction; abolish compensatory pensions, lifetime supplements and pay privileges for former presidents, ministers and legislators, applying the general contribution regime."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-8",
+          "quote": "Endurecimiento real del régimen de puertas giratorias"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-8",
+          "quote": "Supresión de pensiones y pagas vitalicias de altos cargos políticos"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-programme-accountability",
+      "title": {
+        "es": "Auditoría semestral del programa",
+        "ca": "Auditoria semestral del programa",
+        "gl": "Auditoría semestral do programa",
+        "eu": "Programaren seihileko auditoria",
+        "oc": "Auditoria semestrau deth programa",
+        "en": "Six-monthly programme audits"
+      },
+      "text": {
+        "es": "Establecer el cumplimiento vinculante del 50 % del programa en cuatro años. Obligar al gobierno a presentar al Congreso una auditoría pública semestral de ejecución del programa y activar rendición de cuentas si al tercer año no supera el 50 % de compromisos cumplidos, reformando el Reglamento del Congreso y la Ley de Transparencia.",
+        "ca": "Establir el compliment vinculant del 50 % del programa en quatre anys. Obligar el govern a presentar al Congrés una auditoria pública semestral d’execució del programa i activar rendició de comptes si al tercer any no supera el 50 % de compromisos complerts, reformant el Reglament del Congrés i la Llei de transparència.",
+        "gl": "Establecer o cumprimento vinculante do 50 % do programa en catro anos. Obrigar o goberno a presentar ao Congreso unha auditoría pública semestral de execución do programa e activar rendición de contas se ao terceiro ano non supera o 50 % de compromisos cumpridos, reformando o Regulamento do Congreso e a Lei de transparencia.",
+        "eu": "Programaren % 50 lau urtean betetzeko betebehar loteslea ezartzea. Gobernuari Kongresuan programaren betetze mailaren seihileko auditoria publikoa aurkezteko betebeharra ezartzea, eta hirugarren urtean konpromisoen % 50 baino gehiago bete ez baditu kontu emateko mekanismoak aktibatzea, Kongresuaren Erregelamendua eta Gardentasun Legea erreformatuz.",
+        "oc": "Establir eth compliment vinculant deth 50 % deth programa en quate ans. Obligar eth govèrn a presentar ath Congrès ua auditoria publica semestrau d’execucion deth programa e activar rendicion de compdes se ath tresau an non supère eth 50 % de compromisi complidi, reformant eth Reglament deth Congrès e era Lei de Transparéncia.",
+        "en": "Set a binding target to fulfil 50% of the programme within four years. Require the government to present public programme-implementation audits to Congress every six months and trigger accountability mechanisms if fulfilled commitments do not exceed 50% by the third year, amending Congress rules and transparency law."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-8",
+          "quote": "Cumplimiento vinculante del 50 % del programa electoral en 4 años"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-social-partner-subsidies",
+      "title": {
+        "es": "Eliminar subvenciones a agentes sociales",
+        "ca": "Eliminar subvencions a agents socials",
+        "gl": "Eliminar subvencións a axentes sociais",
+        "eu": "Gizarte eragileen dirulaguntzak kentzea",
+        "oc": "Eliminar subvencions a agents sociaus",
+        "en": "End subsidies to social partners"
+      },
+      "text": {
+        "es": "Suprimir subvenciones nominativas y estructurales estatales a sindicatos, patronales y asociaciones políticas, que se financiarían exclusivamente con cuotas de afiliados; destinar los recursos liberados a políticas activas de empleo directo.",
+        "ca": "Suprimir subvencions nominatives i estructurals estatals a sindicats, patronals i associacions polítiques, que es finançarien exclusivament amb quotes d’afiliats; destinar els recursos alliberats a polítiques actives d’ocupació directa.",
+        "gl": "Suprimir subvencións nominativas e estruturais estatais a sindicatos, patronais e asociacións políticas, que se financiarían exclusivamente con cotas de afiliados; destinar os recursos liberados a políticas activas de emprego directo.",
+        "eu": "Sindikatuen, patronalen eta elkarte politikoen estatuko dirulaguntza izendun eta egiturazkoak kentzea, kideen kuotekin soilik finantzatzeko; askatutako baliabideak zuzeneko enplegu politika aktiboetara bideratzea.",
+        "oc": "Suprimir subvencions nominatives e estructuraus estataus a sindicats, patronaus e associacions politiques, que se finançarien exclusivament damb quòtes d’afiliadi; destinar es recorsi liberadi a politiques actives d’emplec dirècte.",
+        "en": "Abolish named and structural state-budget subsidies to unions, employers’ organisations and political associations, requiring exclusive funding through membership fees; redirect released resources to active direct-employment policies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Eliminación de subvenciones públicas a sindicatos y patronales"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-media-independence",
+      "title": {
+        "es": "Financiación objetiva y medios públicos independientes",
+        "ca": "Finançament objectiu i mitjans públics independents",
+        "gl": "Financiamento obxectivo e medios públicos independentes",
+        "eu": "Finantzaketa objektiboa eta hedabide publiko independenteak",
+        "oc": "Finançament objectiu e mejans publics independents",
+        "en": "Objective funding and independent public media"
+      },
+      "text": {
+        "es": "Prohibir ayudas directas y publicidad institucional discrecional en medios privados, aplicando criterios objetivos de audiencia auditada y utilidad pública; impedir que afiliados o exdirigentes de partidos dirijan RTVE o entes autonómicos, con concurso independiente por méritos, techo de gasto y programación de servicio público.",
+        "ca": "Prohibir ajuts directes i publicitat institucional discrecional en mitjans privats, aplicant criteris objectius d’audiència auditada i utilitat pública; impedir que afiliats o exdirigents de partits dirigeixin RTVE o ens autonòmics, amb concurs independent per mèrits, sostre de despesa i programació de servei públic.",
+        "gl": "Prohibir axudas directas e publicidade institucional discrecional en medios privados, aplicando criterios obxectivos de audiencia auditada e utilidade pública; impedir que afiliados ou exdirixentes de partidos dirixan RTVE ou entes autonómicos, con concurso independente por méritos, teito de gasto e programación de servizo público.",
+        "eu": "Hedabide pribatuentzako zuzeneko laguntzak eta publizitate instituzional diskrezionala debekatzea, audientzia auditatuaren eta onura publikoaren irizpide objektiboak aplikatuz; alderdietako kide edo buruzagi ohiei RTVE edo autonomia erkidegoko erakundeak zuzentzea eragoztea, merezimenduen lehiaketa independentearekin, gastu mugarekin eta zerbitzu publikoko programazioarekin.",
+        "oc": "Proïbir ajudes dirèctes e publicitat institucionau discrecionau en mejans privats, aplicant critèris objectius d’audiéncia auditada e utilitat publica; empedir qu’afiliadi o exdirigents de partits dirigisquen RTVE o ens autonomics, damb concors independent per merits, plafon de despensa e programacion de servici public.",
+        "en": "Ban direct aid and discretionary institutional advertising in private media, using objective audited-audience and public-utility criteria; bar party members and former party leaders from managing RTVE or regional broadcasters, with independent merit-based selection, spending caps and public-service programming."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Fin de las subvenciones y publicidad institucional arbitraria en medios"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Despolitización y control presupuestario de radiotelevisiones públicas"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-electoral-and-local-participation",
+      "title": {
+        "es": "Reforma electoral y consultas vinculantes",
+        "ca": "Reforma electoral i consultes vinculants",
+        "gl": "Reforma electoral e consultas vinculantes",
+        "eu": "Hauteskunde erreforma eta kontsulta lotesleak",
+        "oc": "Reforma electorau e consultes vinculantes",
+        "en": "Electoral reform and binding local votes"
+      },
+      "text": {
+        "es": "Reformar la LOREG para corregir la sobrerrepresentación de minorías regionalistas frente a fuerzas nacionales y valorar doble vuelta en alcaldías; crear consultas telemáticas municipales vinculantes y seguras sobre urbanismo de gran impacto, tasas extraordinarias y prioridades vecinales de inversión usando identificación digital.",
+        "ca": "Reformar la LOREG per corregir la sobrerepresentació de minories regionalistes davant forces nacionals i valorar doble volta en alcaldies; crear consultes telemàtiques municipals vinculants i segures sobre urbanisme de gran impacte, taxes extraordinàries i prioritats veïnals d’inversió amb identificació digital.",
+        "gl": "Reformar a LOREG para corrixir a sobrerrepresentación de minorías rexionalistas fronte a forzas nacionais e valorar dobre volta en alcaldías; crear consultas telemáticas municipais vinculantes e seguras sobre urbanismo de gran impacto, taxas extraordinarias e prioridades veciñais de investimento usando identificación dixital.",
+        "eu": "LOREG erreformatzea, gutxiengo erregionalisten nazio mailako indarrekiko gehiegizko ordezkaritza zuzentzeko, eta alkatetzetarako bi itzuliko hautaketa aztertzea; eragin handiko hirigintzaz, aparteko tasez eta auzo inbertsioen lehentasunez udal kontsulta telematiko lotesle eta seguruak sortzea identifikazio digitalarekin.",
+        "oc": "Reformar era LOREG entà corregir era sobrerepresentacion de minories regionalistes deuant fòrces nacionaus e avalorar dobla tornada en alcaldies; crear consultes telematiques municipaus vinculantes e segures sus urbanisme de gran impacte, taxes extraordinàries e prioritats vesiaus d’inversion damb identificacion digitau.",
+        "en": "Reform LOREG to correct overrepresentation of regionalist minorities relative to national parties and consider run-off mayoral elections; create secure binding municipal online consultations on major planning projects, extraordinary local fees and neighbourhood investment priorities using digital identification."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Reforma de la Ley Electoral con circunscripción más proporcional y segunda vuelta"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Consultas ciudadanas telemáticas en ayuntamientos y grandes inversiones"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-modular-buildings",
+      "title": {
+        "es": "Edificios públicos modulares",
+        "ca": "Edificis públics modulars",
+        "gl": "Edificios públicos modulares",
+        "eu": "Eraikin publiko modularrak",
+        "oc": "Bastisses publiques modulares",
+        "en": "Modular public buildings"
+      },
+      "text": {
+        "es": "Aprobar proyectos tipo modulares y eficientes energéticamente para colegios, centros de salud, residencias y comisarías según ratios de población, buscando ahorrar hasta el 30 % de costes de diseño, licitación y desviaciones de obra.",
+        "ca": "Aprovar projectes tipus modulars i eficients energèticament per a escoles, centres de salut, residències i comissaries segons ràtios de població, buscant estalviar fins al 30 % de costos de disseny, licitació i desviacions d’obra.",
+        "gl": "Aprobar proxectos tipo modulares e eficientes enerxeticamente para colexios, centros de saúde, residencias e comisarías segundo ratios de poboación, buscando aforrar ata o 30 % de custos de deseño, licitación e desviacións de obra.",
+        "eu": "Biztanleria ratioen araberako eskola, osasun zentro, egoitza eta polizia etxeetarako proiektu estandar modular eta energetikoki eraginkorrak onartzea, diseinu, lizitazio eta obra desbideratze kostuen % 30eraino aurrezteko asmoz.",
+        "oc": "Aprovar projèctes tipe modulares e eficients energeticament entà escòles, centres de salut, residéncies e comissaries segontes ratios de poblacion, cercant estauviar enquia eth 30 % de còsti de dessenh, licitacion e desviacions d’òbra.",
+        "en": "Approve standard modular energy-efficient designs for schools, health centres, care homes and police stations based on population ratios, aiming to save up to 30% of design, tendering and construction-overrun costs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Estandarización modular de edificios públicos para evitar sobrecostes"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-security-services",
+      "title": {
+        "es": "Plantillas, salarios y medios de seguridad",
+        "ca": "Plantilles, salaris i mitjans de seguretat",
+        "gl": "Cadros, salarios e medios de seguridade",
+        "eu": "Segurtasun plantillak, soldatak eta baliabideak",
+        "oc": "Plantilhes, salaris e mejans de seguretat",
+        "en": "Security staffing, pay and equipment"
+      },
+      "text": {
+        "es": "Equiparar plenamente salarios, extras, productividad y jubilación de Policía Nacional y Guardia Civil con policías autonómicas financiándolo con recorte de gasto político; cubrir automáticamente el 100 % de vacantes por jubilación o traslado en policía, guardia civil, bomberos y protección civil mediante convocatorias anuales unificadas; renovar obligatoriamente chalecos individuales, patrullas, medios no letales y equipo técnico mediante compras centralizadas plurianuales.",
+        "ca": "Equiparar plenament salaris, extres, productivitat i jubilació de Policia Nacional i Guàrdia Civil amb policies autonòmiques finançant-ho amb retallada de despesa política; cobrir automàticament el 100 % de vacants per jubilació o trasllat en policia, guàrdia civil, bombers i protecció civil amb convocatòries anuals unificades; renovar obligatòriament armilles individuals, patrulles, mitjans no letals i equip tècnic amb compres centralitzades plurianuals.",
+        "gl": "Equiparar plenamente salarios, extras, produtividade e xubilación de Policía Nacional e Garda Civil coas policías autonómicas financiándoo con recorte de gasto político; cubrir automaticamente o 100 % de vacantes por xubilación ou traslado en policía, garda civil, bombeiros e protección civil mediante convocatorias anuais unificadas; renovar obrigatoriamente chalecos individuais, patrullas, medios non letais e equipo técnico mediante compras centralizadas plurianuais.",
+        "eu": "Polizia Nazionalaren eta Guardia Zibilaren soldatak, aparteko ordainsariak, produktibitatea eta erretiroa autonomia poliziekin guztiz parekatzea, gastu politikoa murriztuz finantzatuta; polizia, guardia zibil, suhiltzaile eta babes zibileko erretiro edo lekualdatze hutsuneen % 100 automatikoki betetzea urteko deialdi bateratuen bidez; banakako txalekoak, patruila ibilgailuak, baliabide ez-hilgarriak eta ekipo teknikoa nahitaez berritzea urte anitzeko erosketa zentralizatuen bidez.",
+        "oc": "Equiparar pleaument salaris, pagues extraordinàries, productivitat e jubilacion de Policia Nacionau e Guàrdia Civiu damb policies autonomiques finançant-ac damb reduccion de despensa politica; caperar automaticament eth 100 % de vacants per jubilacion o traslat en policia, guàrdia civiu, pompièrs e proteccion civiu damb convocatòries annaus unificades; renovar obligatòriament armilhes individuaus, patrulhes, mejans non letaus e equip tecnic damb crompes centralizades pluriennaus.",
+        "en": "Fully align National Police and Civil Guard pay, bonuses, productivity payments and retirement with regional police, funded through cuts to political spending; automatically fill 100% of retirement or transfer vacancies in police, Civil Guard, fire and civil-protection services through unified annual recruitment; require regular replacement of individual body armour, patrol vehicles, non-lethal devices and technical equipment through centralised multi-year purchasing."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Equiparación salarial total de Policía Nacional y Guardia Civil"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-9",
+          "quote": "Cobertura obligatoria del 100 % de plantillas de seguridad y emergencias"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Dotación moderna de medios de defensa y protección para agentes"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-self-defence",
+      "title": {
+        "es": "Legítima defensa en vivienda y negocio",
+        "ca": "Legítima defensa en habitatge i negoci",
+        "gl": "Lexítima defensa en vivenda e negocio",
+        "eu": "Etxeko eta negozioko bidezko defentsa",
+        "oc": "Legitima defensa en abitatge e negòci",
+        "en": "Self-defence at home and in businesses"
+      },
+      "text": {
+        "es": "Ampliar en el Código Penal la presunción de legítima defensa proporcionada cuando un ciudadano o comerciante repele una intrusión violenta en su vivienda habitual o establecimiento.",
+        "ca": "Ampliar al Codi penal la presumpció de legítima defensa proporcionada quan un ciutadà o comerciant repel·leix una intrusió violenta a l’habitatge habitual o establiment.",
+        "gl": "Ampliar no Código penal a presunción de lexítima defensa proporcionada cando un cidadán ou comerciante repele unha intrusión violenta na vivenda habitual ou establecemento.",
+        "eu": "Zigor Kodean defentsa proportzionatu zilegiaren presuntzioa zabaltzea, herritar edo merkatari batek ohiko etxebizitzan edo establezimenduan indarkeriazko sarrera bati aurre egiten dionean.",
+        "oc": "Alargar en Còdi Penau era presumpcion de legitima defensa proporcionada quan un ciutadan o comerçant repelís ua intrusion violenta en abitatge abituau o establiment.",
+        "en": "Extend the Criminal Code presumption of proportionate self-defence when a citizen or trader repels a violent intrusion into their main home or business premises."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Refuerzo de la legítima defensa en el domicilio y en el negocio"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-juvenile-and-false-complaints",
+      "title": {
+        "es": "Responsabilidad y garantías judiciales",
+        "ca": "Responsabilitat i garanties judicials",
+        "gl": "Responsabilidade e garantías xudiciais",
+        "eu": "Erantzukizuna eta berme judizialak",
+        "oc": "Responsabilitat e garanties judiciaus",
+        "en": "Responsibility and judicial safeguards"
+      },
+      "text": {
+        "es": "Agilizar mediante la Ley del Menor la reparación económica por vandalismo o agresiones y establecer servicio comunitario obligatorio bajo control judicial; garantizar presunción de inocencia y tutela judicial a todas las víctimas de violencia intrafamiliar sin discriminación y perseguir de oficio falso testimonio y denuncias falsas, reforzando juzgados especializados.",
+        "ca": "Agilitzar mitjançant la Llei del menor la reparació econòmica per vandalisme o agressions i establir servei comunitari obligatori sota control judicial; garantir presumpció d’innocència i tutela judicial a totes les víctimes de violència intrafamiliar sense discriminació i perseguir d’ofici fals testimoni i denúncies falses, reforçant jutjats especialitzats.",
+        "gl": "Axilizar mediante a Lei do menor a reparación económica por vandalismo ou agresións e establecer servizo comunitario obrigatorio baixo control xudicial; garantir presunción de inocencia e tutela xudicial a todas as vítimas de violencia intrafamiliar sen discriminación e perseguir de oficio falso testemuño e denuncias falsas, reforzando xulgados especializados.",
+        "eu": "Adingabeen Legearen bidez bandalismo edo erasoengatiko kalte ordain ekonomikoa arintzea eta zaintza judizialpeko nahitaezko komunitate zerbitzua ezartzea; errugabetasun presuntzioa eta babes judiziala bermatzea familia barruko indarkeriaren biktima guztiei diskriminaziorik gabe, eta lekukotza zein salaketa faltsuak ofizioz jazartzea, epaitegi espezializatuak indartuz.",
+        "oc": "Agilizar mejançant era Lei deth Menor era reparacion economica per vandalisme o agressions e establir servici comunitari obligatòri jos contròl judiciau; garantir presumpcion d’innocéncia e tutèla judiciau a totes es victimes de violéncia intrafamilhau sense discriminacion e perseguir d’ofici testimòni e denóncies fausses, enfortint jutjats especializadi.",
+        "en": "Expedite financial reparation for juvenile vandalism or assaults and require community service under judicial supervision; guarantee the presumption of innocence and effective judicial protection for all domestic-violence victims without discrimination and prosecute false testimony and false complaints ex officio, strengthening specialist courts."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Responsabilidad civil y trabajos comunitarios por vandalismo de menores"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Igualdad plena ante la ley y persecución de denuncias falsas"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-legal-migration",
+      "title": {
+        "es": "Inmigración laboral y expulsión de delincuentes",
+        "ca": "Immigració laboral i expulsió de delinqüents",
+        "gl": "Inmigración laboral e expulsión de delincuentes",
+        "eu": "Lan immigrazioa eta delitugileen kanporatzea",
+        "oc": "Immigracion laborau e expulsion de delinqüents",
+        "en": "Labour migration and removal of offenders"
+      },
+      "text": {
+        "es": "Agilizar visados laborales en origen para vacantes reales de sectores deficitarios, con control fronterizo riguroso y legalidad y arraigo efectivo para acceder a ayudas; ejecutar inmediatamente expulsión y prohibición de reentrada de extranjeros condenados por delitos graves o multirreincidencia en robos y agresiones, mediante acuerdos de repatriación y refuerzo judicial.",
+        "ca": "Agilitzar visats laborals en origen per a vacants reals de sectors deficitaris, amb control fronterer rigorós i legalitat i arrelament efectiu per accedir a ajuts; executar immediatament expulsió i prohibició de reentrada d’estrangers condemnats per delictes greus o multireincidència en robatoris i agressions, amb acords de repatriació i reforç judicial.",
+        "gl": "Axilizar visados laborais en orixe para vacantes reais de sectores deficitarios, con control fronteirizo rigoroso e legalidade e arraigamento efectivo para acceder a axudas; executar inmediatamente expulsión e prohibición de reentrada de estranxeiros condenados por delitos graves ou multirreincidencia en roubos e agresións, mediante acordos de repatriación e reforzo xudicial.",
+        "eu": "Jatorrian lan bisak arintzea langile eskasia duten sektoreetako benetako lanpostuetarako, mugen kontrol zorrotzarekin eta laguntzak jasotzeko legea betetzea eta benetako errotzea eskatuz; delitu larriengatik edo lapurreta eta erasoetako berrerortze anitzengatik kondenatutako atzerritarrak berehala kanporatzea eta berriz sartzea debekatzea, aberriratze akordioen eta indartze judizialaren bidez.",
+        "oc": "Agilizar visats laboraus en origina entà vacants reaus de sectors deficitaris, damb contròl fronterèr rigorós e legalitat e arraïtzament efectiu entà accedir a ajudes; executar immediatament expulsion e proïbicion de reentrada d’estrangèrs condemnadi per delictes grèus o multireïncidéncia en raubatòris e agressions, damb acòrds de repatriacion e refòrç judiciau.",
+        "en": "Speed up work visas at origin for genuine vacancies in shortage sectors, with rigorous border controls and legal compliance and effective integration required for aid; immediately remove and bar re-entry of foreign nationals convicted of serious crimes or repeated theft and assault, using repatriation agreements and stronger judicial resources."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Ordenación legal de la inmigración vinculada al empleo y la integración"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Expulsión efectiva de delincuentes extranjeros multirreincidentes"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-driving-tests",
+      "title": {
+        "es": "Exámenes de tráfico sin bloqueos",
+        "ca": "Exàmens de trànsit sense bloquejos",
+        "gl": "Exames de tráfico sen bloqueos",
+        "eu": "Gidabaimen azterketak oztoporik gabe",
+        "oc": "Examens de transit sense blocatges",
+        "en": "Remove driving-test bottlenecks"
+      },
+      "text": {
+        "es": "Convocar extraordinariamente examinadores de tráfico para eliminar esperas en provincias colapsadas con financiación de tasas de examen; sustituir el reparto rígido de minutos CAPA por planificación flexible según demanda y refuerzo itinerante de examinadores una vez ampliada la plantilla.",
+        "ca": "Convocar extraordinàriament examinadors de trànsit per eliminar esperes en províncies col·lapsades amb finançament de taxes d’examen; substituir el repartiment rígid de minuts CAPA per planificació flexible segons demanda i reforç itinerant d’examinadors un cop ampliada la plantilla.",
+        "gl": "Convocar extraordinariamente examinadores de tráfico para eliminar esperas en provincias colapsadas con financiamento de taxas de exame; substituír a repartición ríxida de minutos CAPA por planificación flexible segundo demanda e reforzo itinerante de examinadores unha vez ampliado o cadro.",
+        "eu": "Trafiko aztertzaileen aparteko deialdia egitea gainezka dauden probintzietako itxaronaldiak ezabatzeko, azterketa tasekin finantzatuta; plantilla handitu ondoren CAPAren minutu banaketa zurruna eskaeraren araberako plangintza malguarekin eta aztertzaile ibiltarien errefortzuarekin ordeztea.",
+        "oc": "Convocar extraordinàriament examinadors de transit entà eliminar demòres en províncies saturades damb finançament de taxes d’examen; remplaçar eth repartiment rigid de minuts CAPA per planificacion flexibla segontes demanda e refòrç itinerant d’examinadors un còp alargada era plantilha.",
+        "en": "Recruit additional driving examiners through an extraordinary call to remove waits in overloaded provinces, funded by test fees; after expanding staffing, replace rigid CAPA examination-minute allocations with demand-led flexible planning and mobile examiner support."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Ampliación urgente de la plantilla de examinadores de tráfico de la DGT"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Reforma y derogación de las rigideces del sistema CAPA en autoescuelas"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-institutions-and-rights-road-safety",
+      "title": {
+        "es": "Protección de motoristas y delitos viales",
+        "ca": "Protecció de motoristes i delictes viaris",
+        "gl": "Protección de motoristas e delitos viarios",
+        "eu": "Motorzaleen babesa eta bide delituak",
+        "oc": "Proteccion de motoristes e delictes viaris",
+        "en": "Motorcycle protection and road offences"
+      },
+      "text": {
+        "es": "Instalar mediante plan plurianual obligatorio protección de motoristas en todos los guardarraíles estatales y autonómicos, priorizando puntos de alta siniestralidad e incluyéndola en contratos de conservación; agravar prisión y retirada definitiva del permiso cuando se causen víctimas bajo alcohol o drogas, especialmente si hay fuga.",
+        "ca": "Instal·lar amb pla plurianual obligatori protecció de motoristes a tots els guardarraïls estatals i autonòmics, prioritzant punts d’alta sinistralitat i incloent-la en contractes de conservació; agreujar presó i retirada definitiva del permís quan es causin víctimes sota alcohol o drogues, especialment si hi ha fugida.",
+        "gl": "Instalar mediante plan plurianual obrigatorio protección de motoristas en todas as barreiras estatais e autonómicas, priorizando puntos de alta sinistralidade e incluíndoa en contratos de conservación; agravar prisión e retirada definitiva do permiso cando se causen vítimas baixo alcohol ou drogas, especialmente se hai fuga.",
+        "eu": "Nahitaezko urte anitzeko planaren bidez estatuko eta autonomia erkidegoko bide babes hesi guztietan motorzaleentzako babesa instalatzea, istripu askoko tarteak lehenetsiz eta mantentze kontratuetan sartuz; alkoholaren edo drogen eraginpean biktimak eragiteagatik espetxe zigorrak eta gidabaimena behin betiko kentzea gogortzea, bereziki ihes eginez gero.",
+        "oc": "Installar damb plan pluriennau obligatòri proteccion de motoristes en toti es guardarraïls estataus e autonomics, priorizant punts de nauta sinistralitat e includint-la en contractes de conservacion; agreujar preson e retirada definitiva deth permís quan se causen victimes jos alcoòl o drògues, especiaument se i a hujuda.",
+        "en": "Use a mandatory multi-year plan to fit motorcycle protection to every state and regional crash barrier, prioritising high-accident stretches and including it in maintenance contracts; increase imprisonment and permanent driving-licence withdrawal where driving under alcohol or drugs causes casualties, especially with flight from the scene."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Sustitución total de guardarraíles peligrosos para motoristas"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Endurecimiento penal por conducción bajo alcohol o drogas y fuga"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "eaj-pnv--education",
+  "partyId": "eaj-pnv",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:32:02Z",
+  "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
+  "points": [
+    {
+      "id": "eaj-pnv-education-educational-model",
+      "title": {
+        "es": "Modelo educativo y becas propios",
+        "ca": "Model educatiu i beques propis",
+        "gl": "Modelo educativo e bolsas propios",
+        "eu": "Hezkuntza-eredu eta beka propioak",
+        "oc": "Modèl educatiu e borses pròpris",
+        "en": "Basque education and scholarship policies"
+      },
+      "text": {
+        "es": "Preservar las competencias educativas y la capacidad normativa del Sistema Vasco de Becas. Impulsar educación inclusiva, plurilingüe e intercultural, derechos de la infancia y adolescencia, igualdad de oportunidades, coeducación y educación afectivo-sexual que respete la diversidad y prevenga discriminación y violencia.",
+        "ca": "Preservar les competències educatives i la capacitat normativa del Sistema Vasco de Becas. Impulsar educació inclusiva, plurilingüe i intercultural, drets de la infància i adolescència, igualtat d’oportunitats, coeducació i educació afectivosexual que respecti la diversitat i previngui discriminació i violència.",
+        "gl": "Preservar as competencias educativas e a capacidade normativa do Sistema Vasco de Becas. Impulsar educación inclusiva, plurilingüe e intercultural, dereitos da infancia e adolescencia, igualdade de oportunidades, coeducación e educación afectivo-sexual que respecte a diversidade e preveña discriminación e violencia.",
+        "eu": "Hezkuntza-eskumenak eta Euskal Beka Sistemaren araugintza-ahalmena zaintzea. Hezkuntza inklusiboa, eleaniztuna eta kulturartekoa, haur eta nerabeen eskubideak, aukera-berdintasuna, hezkidetza eta aniztasuna errespetatu eta diskriminazioa zein indarkeria prebenitzen dituen hezkuntza afektibo-sexuala bultzatzea.",
+        "oc": "Preservar es competéncies educatives e era capacitat normativa deth Sistema Vasco de Becas. Impulsar educacion inclusiva, plurilingua e interculturau, drets dera enfància e adolescéncia, egalitat d’oportunitats, coeducacion e educacion afectivosexuau que respècte era diversitat e prevengue discriminacion e violéncia.",
+        "en": "Preserve Basque education powers and the Basque Scholarship System’s rule-making capacity. Promote inclusive, multilingual, intercultural education, children’s and adolescents’ rights, equal opportunities, coeducation and relationship and sexuality education respecting diversity and preventing discrimination and violence."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Preservar las competencias educativas de Euskadi, evitando interferencias estatales en los ámbitos de decisión que corresponden a las instituciones vascas."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Impulsar una educación inclusiva, plurilingüe e intercultural, que garantice los derechos de la infancia y la adolescencia y la igualdad de oportunidades."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Reforzar la coeducación y la educación afectivo-sexual en igualdad, promoviendo el respeto a la diversidad y la prevención de cualquier forma de discriminación y violencia."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Defender la capacidad normativa del Sistema Vasco de Becas, para mantener una política propia de apoyo al estudio adaptada a la realidad de Euskadi."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-education-dual-training-universities",
+      "title": {
+        "es": "FP Dual y universidades",
+        "ca": "FP Dual i universitats",
+        "gl": "FP Dual e universidades",
+        "eu": "LH Duala eta unibertsitateak",
+        "oc": "FP Duau e universitats",
+        "en": "Dual vocational training and universities"
+      },
+      "text": {
+        "es": "Fortalecer la FP Dual y la colaboración entre centros, universidades y empresas para formación, investigación y empleo cualificado; defender la gobernanza universitaria vasca y participar en proyectos universitarios europeos.",
+        "ca": "Enfortir l’FP Dual i la col·laboració entre centres, universitats i empreses per a formació, recerca i ocupació qualificada; defensar la governança universitària basca i participar en projectes universitaris europeus.",
+        "gl": "Fortalecer a FP Dual e a colaboración entre centros, universidades e empresas para formación, investigación e emprego cualificado; defender a gobernanza universitaria vasca e participar en proxectos universitarios europeos.",
+        "eu": "LH Duala eta ikastetxeen, unibertsitateen eta enpresen arteko lankidetza indartzea prestakuntza, ikerketa eta enplegu kualifikaturako; euskal unibertsitate-gobernantza defendatzea eta Europako unibertsitate-proiektuetan parte hartzea.",
+        "oc": "Refortir era FP Duau e era collaboracion entre centres, universitats e empreses entà formacion, recèrca e emplec qualificat; deféner era governança universitària basca e participar en projèctes universitaris europèus.",
+        "en": "Strengthen Dual Vocational Training and cooperation between education centres, universities and businesses for training, research and skilled employment; defend Basque university governance and participation in European university projects."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Fortalecer la Formación Profesional Dual, favoreciendo la colaboración entre los centros formativos y las empresas y su conexión con las oportunidades de empleo."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Favorecer la colaboración entre universidades y empresas, promoviendo la formación, la investigación y la generación de empleo cualificado."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Defender la capacidad de Euskadi para decidir sobre la gobernanza de sus universidades e impulsar su participación en proyectos universitarios europeos."
+        }
+      ]
+    }
+  ],
+  "internalNotes": "The programme frames these commitments as advocacy in the Cortes Generales for Euskadi. Measures must be read within the stated Basque competences and any specific State or European legal limits; they do not imply direct State implementation of devolved policies."
+}

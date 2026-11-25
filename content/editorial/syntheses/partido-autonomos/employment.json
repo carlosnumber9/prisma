@@ -1,0 +1,259 @@
+{
+  "id": "partido-autonomos--employment",
+  "partyId": "partido-autonomos",
+  "topicId": "employment",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-employment-first-employee",
+      "title": {
+        "es": "Bonificación del primer empleado",
+        "ca": "Bonificació del primer empleat",
+        "gl": "Bonificación do primeiro empregado",
+        "eu": "Lehen langilearen kontratazio hobaria",
+        "oc": "Bonificacion deth prumèr emplegat",
+        "en": "First-employee contribution relief"
+      },
+      "text": {
+        "es": "Bonificar el 100 % de la cuota empresarial durante doce meses al autónomo persona física o microempresa que contrate indefinidamente a su primer asalariado, manteniendo una reducción del 50 % el segundo año.",
+        "ca": "Bonificar el 100 % de la quota empresarial durant dotze mesos a l’autònom persona física o microempresa que contracti indefinidament el primer assalariat, mantenint una reducció del 50 % el segon any.",
+        "gl": "Bonificar o 100 % da cota empresarial durante doce meses ao autónomo persoa física ou microempresa que contrate indefinidamente o primeiro asalariado, mantendo unha redución do 50 % o segundo ano.",
+        "eu": "Lehen soldatapeko langilea mugagabe kontratatzen duen pertsona fisiko autonomoari edo mikroenpresari enpresa kuotaren % 100eko hobaria ematea hamabi hilabetez, eta bigarren urtean % 50eko murrizketa mantentzea.",
+        "oc": "Bonificar eth 100 % dera quòta empresariau pendent dotze mesi ar autonòm persona fisica o microempresa que contracte indefinidament eth prumèr assalariat, mantenguent ua reduccion deth 50 % eth dusau an.",
+        "en": "Give individual self-employed workers or microbusinesses hiring their first employee on a permanent contract 100% employer-contribution relief for twelve months and 50% relief in the second year."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-3",
+          "quote": "Bono Primer Empleado: bonificación del 100 % de cotización el primer año"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-employer-contributions",
+      "title": {
+        "es": "Reducir cotizaciones y cubrir sustituciones",
+        "ca": "Reduir cotitzacions i cobrir substitucions",
+        "gl": "Reducir cotizacións e cubrir substitucións",
+        "eu": "Kotizazioak murriztea eta ordezkapenak estaltzea",
+        "oc": "Redusir cotizacions e caperar substitucions",
+        "en": "Reduce contributions and cover replacements"
+      },
+      "text": {
+        "es": "Reducir escalonadamente dos puntos las cotizaciones empresariales por contingencias comunes de pymes y autónomos con menos de 50 trabajadores si mantienen empleo indefinido; eximir totalmente las cotizaciones empresariales de sustituido y sustituto cuando un autónomo o pyme contrate a un desempleado por baja de enfermedad común, accidente o maternidad/paternidad.",
+        "ca": "Reduir gradualment dos punts les cotitzacions empresarials per contingències comunes de pimes i autònoms amb menys de 50 treballadors si mantenen ocupació indefinida; eximir totalment les cotitzacions empresarials de substituït i substitut quan un autònom o pime contracti un aturat per baixa de malaltia comuna, accident o maternitat/paternitat.",
+        "gl": "Reducir gradualmente dous puntos as cotizacións empresariais por continxencias comúns de pemes e autónomos con menos de 50 traballadores se manteñen emprego indefinido; eximir totalmente as cotizacións empresariais de substituído e substituto cando un autónomo ou peme contrate un desempregado por baixa de enfermidade común, accidente ou maternidade/paternidade.",
+        "eu": "50 langile baino gutxiagoko ETE eta autonomoen kontingentzia arruntengatiko enpresa kotizazioak pixkanaka bi puntu jaistea, enplegu mugagabeari eutsiz gero; gaixotasun arrunt, istripu edo amatasun/aitatasun bajak ordezkatzeko autonomo edo ETE batek langabe bat kontratatzean ordezkatuaren eta ordezkoaren enpresa kotizazioak guztiz salbuestea.",
+        "oc": "Redusir gradualament dus punts es cotizacions empresariaus per contingéncies comunes de pimes e autonòms damb mens de 50 trabalhadors se mantien emplec indefinit; eximir totaument es cotizacions empresariaus de substituït e substitut quan un autonòm o pime contracte un caumaire per baisha de malautia comuna, accident o maternitat/paternitat.",
+        "en": "Gradually cut employer common-contingency contributions by two percentage points for SMEs and self-employed employers with fewer than 50 workers, conditional on maintaining permanent employment; fully exempt employer contributions for both the absent employee and an unemployed replacement hired by a self-employed worker or SME for ordinary illness, accident or maternity/paternity leave."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Reducción progresiva de las cotizaciones sociales a cargo de la empresa"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Bonificación del 100 % en contratos de sustitución por baja médica"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-youth-and-older-hiring",
+      "title": {
+        "es": "Contratación joven y mayor de 45 años",
+        "ca": "Contractació jove i major de 45 anys",
+        "gl": "Contratación nova e maior de 45 anos",
+        "eu": "Gazteak eta 45 urtetik gorakoak kontratatzea",
+        "oc": "Contractacion joena e màger de 45 ans",
+        "en": "Hiring young and over-45 workers"
+      },
+      "text": {
+        "es": "Bonificar progresivamente durante dos años las cotizaciones de pymes que contraten indefinidamente a jóvenes sin experiencia o a desempleados de larga duración mayores de 45 años.",
+        "ca": "Bonificar progressivament durant dos anys les cotitzacions de pimes que contractin indefinidament joves sense experiència o aturats de llarga durada majors de 45 anys.",
+        "gl": "Bonificar progresivamente durante dous anos as cotizacións de pemes que contraten indefinidamente mozos sen experiencia ou desempregados de longa duración maiores de 45 anos.",
+        "eu": "Esperientziarik gabeko gazteak edo 45 urtetik gorako iraupen luzeko langabeak mugagabe kontratatzen dituzten ETEen kotizazioei bi urtez hobari progresiboak ematea.",
+        "oc": "Bonificar progressivament pendent dus ans es cotizacions de pimes que contracten indefinidament joeni sense experiéncia o caumaires de longa durada de mès de 45 ans.",
+        "en": "Give progressive contribution relief over two years to SMEs permanently hiring young people without experience or long-term unemployed people aged over 45."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Plan dual de contratación para jóvenes y mayores de 45 años"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-trade-framework",
+      "title": {
+        "es": "Flexibilidad y derechos de los TRADE",
+        "ca": "Flexibilitat i drets dels TRADE",
+        "gl": "Flexibilidade e dereitos dos TRADE",
+        "eu": "TRADEen malgutasuna eta eskubideak",
+        "oc": "Flexibilitat e drets des TRADE",
+        "en": "Flexibility and rights for dependent self-employment"
+      },
+      "text": {
+        "es": "Reformar el régimen del autónomo económicamente dependiente para garantizar horarios libres y tarifas mínimas pactadas sin asalarización forzosa, con seguros de accidentes obligatorios y derecho a desconexión.",
+        "ca": "Reformar el règim de l’autònom econòmicament dependent per garantir horaris lliures i tarifes mínimes pactades sense assalarització forçosa, amb assegurances d’accidents obligatòries i dret a desconnexió.",
+        "gl": "Reformar o réxime do autónomo economicamente dependente para garantir horarios libres e tarifas mínimas pactadas sen asalarización forzosa, con seguros de accidentes obrigatorios e dereito á desconexión.",
+        "eu": "Ekonomikoki mendeko autonomoen araubidea erreformatzea, ordutegi askatasuna eta adostutako gutxieneko tarifak bermatzeko derrigorrez soldatapeko bihurtu gabe, nahitaezko istripu aseguruarekin eta deskonexio eskubidearekin.",
+        "oc": "Reformar eth regim der autonòm economicament dependent entà garantir oraris liures e tarifes minimes acordades sense assalarizacion forçada, damb assegurances d’accidents obligatòries e dret a desconnexion.",
+        "en": "Reform economically dependent self-employment to guarantee free working schedules and agreed minimum rates without forced employee status, with mandatory accident insurance and a right to disconnect."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Estatuto del Trabajador Autónomo Económicamente Dependiente (TRADE) flexible"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-sepe-business-advice",
+      "title": {
+        "es": "Asesoramiento empresarial gratuito en el SEPE",
+        "ca": "Assessorament empresarial gratuït al SEPE",
+        "gl": "Asesoramento empresarial gratuíto no SEPE",
+        "eu": "SEPEren doako enpresa aholkularitza",
+        "oc": "Assessorament empresariau gratuït en SEPE",
+        "en": "Free business advice at SEPE"
+      },
+      "text": {
+        "es": "Integrar en oficinas de empleo consultoría financiera, fiscal y comercial gratuita con mentores para desempleados que capitalicen el paro para emprender, reorientando fondos de formación al acompañamiento práctico.",
+        "ca": "Integrar a les oficines d’ocupació consultoria financera, fiscal i comercial gratuïta amb mentors per a aturats que capitalitzin l’atur per emprendre, reorientant fons de formació a l’acompanyament pràctic.",
+        "gl": "Integrar nas oficinas de emprego consultoría financeira, fiscal e comercial gratuíta con mentores para desempregados que capitalicen o paro para emprender, reorientando fondos de formación ao acompañamento práctico.",
+        "eu": "Enplegu bulegoetan finantza, zerga eta merkataritza aholkularitza doakoa txertatzea mentoreekin, ekiteko langabezia prestazioa kapitalizatzen duten langabeentzat, prestakuntza funtsak tutoretza praktikora bideratuz.",
+        "oc": "Integrar enes oficines d’emplec consultoria financèra, fiscau e comerciau gratuïta damb mentors entà caumaires que capitalizen era prestacion entà empréner, reorientant hons de formacion ar acompanhament practic.",
+        "en": "Integrate free financial, tax and commercial mentoring into employment offices for unemployed people using a lump-sum unemployment benefit to start a business, redirecting training funds towards practical support."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Oficinas de Asesoramiento Empresarial dentro del SEPE"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-portable-fund",
+      "title": {
+        "es": "Fondo laboral individual portátil",
+        "ca": "Fons laboral individual portable",
+        "gl": "Fondo laboral individual portátil",
+        "eu": "Lan funts indibidual eramangarria",
+        "oc": "Hons laborau individuau portable",
+        "en": "Portable individual employment fund"
+      },
+      "text": {
+        "es": "Crear gradualmente una mochila austriaca de capitalización individual portátil, con aportaciones mensuales rescatables por despido, formación o jubilación, sin aumentar los costes laborales totales.",
+        "ca": "Crear gradualment una motxilla austríaca de capitalització individual portable, amb aportacions mensuals rescatables per acomiadament, formació o jubilació, sense augmentar els costos laborals totals.",
+        "gl": "Crear gradualmente unha mochila austríaca de capitalización individual portátil, con achegas mensuais rescatables por despedimento, formación ou xubilación, sen aumentar os custos laborais totais.",
+        "eu": "Pixkanaka Austriako motxila ereduko kapitalizazio funts indibidual eramangarria sortzea, kaleratze, prestakuntza edo erretiro kasuetan berreskura daitezkeen hileko ekarpenekin, guztizko lan kostuak handitu gabe.",
+        "oc": "Crear gradualament ua motchilha austriaca de capitalizacion individuau portable, damb aportacions mensuaus recuperables per acomiadament, formacion o jubilacion, sense aumentar es còsti laboraus totaus.",
+        "en": "Gradually create a portable Austrian-style individual employment savings fund with monthly contributions withdrawable for dismissal, training or retirement, without increasing total labour costs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Implantación de la Mochila Austriaca de capitalización individual"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-small-business-agreements",
+      "title": {
+        "es": "Convenios adaptados a microempresas",
+        "ca": "Convenis adaptats a microempreses",
+        "gl": "Convenios adaptados a microempresas",
+        "eu": "Mikroenpresetara egokitutako hitzarmenak",
+        "oc": "Convènis adaptadi a microempreses",
+        "en": "Collective agreements for microbusinesses"
+      },
+      "text": {
+        "es": "Adaptar la negociación colectiva de comercio y hostelería mediante cláusulas sectoriales específicas para negocios familiares de menos de diez empleados, diferenciándolos de grandes cadenas en sus condiciones operativas y salariales.",
+        "ca": "Adaptar la negociació col·lectiva de comerç i hostaleria amb clàusules sectorials específiques per a negocis familiars de menys de deu empleats, diferenciant-los de grans cadenes en les condicions operatives i salarials.",
+        "gl": "Adaptar a negociación colectiva de comercio e hostalaría mediante cláusulas sectoriais específicas para negocios familiares de menos de dez empregados, diferenciándoos das grandes cadeas nas condicións operativas e salariais.",
+        "eu": "Merkataritza eta ostalaritzako negoziazio kolektiboa egokitzea hamar langile baino gutxiagoko familia negozioentzako sektore klausula espezifikoen bidez, kate handietatik bereiziz jarduera eta soldata baldintzetan.",
+        "oc": "Adaptar era negociacion collectiva de comèrç e ostalaria damb clausules sectoriaus especifiques entà negòcis familhaus de mens de dètz emplegats, diferenciant-les des granes cadenes en condicions operatives e salariaus.",
+        "en": "Adapt retail and hospitality collective bargaining through sector-specific clauses for family businesses with fewer than ten employees, distinguishing their operational and pay conditions from large chains."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Convenio marco diferenciado para pequeña hostelería y comercio"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-rural-employment",
+      "title": {
+        "es": "Reorientar el PER al empleo agrario",
+        "ca": "Reorientar el PER a l’ocupació agrària",
+        "gl": "Reorientar o PER ao emprego agrario",
+        "eu": "PER nekazaritza enplegura bideratzea",
+        "oc": "Reorientar eth PER ar emplec agrari",
+        "en": "Redirect PER towards agricultural employment"
+      },
+      "text": {
+        "es": "Auditar el PER para corregir fraude en peonadas y convertir ayudas pasivas en incentivos a contratación agraria real, agroindustria y emprendimiento rural, manteniendo la protección de jornaleros que realmente trabajan en el campo.",
+        "ca": "Auditar el PER per corregir frau en jornades i convertir ajudes passives en incentius a contractació agrària real, agroindústria i emprenedoria rural, mantenint la protecció dels jornalers que realment treballen al camp.",
+        "gl": "Auditar o PER para corrixir fraude nas xornadas e converter axudas pasivas en incentivos á contratación agraria real, agroindustria e emprendemento rural, mantendo a protección dos xornaleiros que realmente traballan no campo.",
+        "eu": "PER auditatu, lanegunen iruzurra zuzentzeko eta laguntza pasiboak benetako nekazaritza kontrataziorako, nekazaritza industriarako eta landa ekintzailetzarako pizgarri bihurtzeko, benetan soroan lan egiten duten jornaleroen babesa mantenduz.",
+        "oc": "Auditar eth PER entà corregir frau en jornades e convertir ajudes passives en incentius ara contractacion agrària reau, agroindustria e emprenedoria rurau, mantenguent era proteccion des jornalèrs que trabalhen reaument en camp.",
+        "en": "Audit PER to correct fraudulent reporting of agricultural workdays and turn passive aid into incentives for genuine farm hiring, agroindustry and rural entrepreneurship, maintaining protection for labourers who actually work in farming."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-13",
+          "quote": "Reforma del subsidio agrario (PER) hacia el empleo productivo"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-employment-road-transport-workers",
+      "title": {
+        "es": "Condiciones del transporte por carretera",
+        "ca": "Condicions del transport per carretera",
+        "gl": "Condicións do transporte por estrada",
+        "eu": "Errepide garraioko lan baldintzak",
+        "oc": "Condicions deth transpòrt per carretèra",
+        "en": "Road transport working conditions"
+      },
+      "text": {
+        "es": "Actualizar el marco laboral del transporte profesional de mercancías y viajeros, prohibir a conductores la carga y descarga pesada y construir áreas de descanso seguras y vigiladas.",
+        "ca": "Actualitzar el marc laboral del transport professional de mercaderies i viatgers, prohibir als conductors la càrrega i descàrrega pesant i construir àrees de descans segures i vigilades.",
+        "gl": "Actualizar o marco laboral do transporte profesional de mercadorías e viaxeiros, prohibir aos condutores a carga e descarga pesada e construír áreas de descanso seguras e vixiadas.",
+        "eu": "Salgaien eta bidaiarien garraio profesionalaren lan esparrua eguneratzea, gidariei zamalan astunak egitea debekatzea eta atseden eremu seguru eta zainduak eraikitzea.",
+        "oc": "Actualizar eth marc laborau deth transpòrt professionau de mercaderies e viatgèrs, proïbir as conductors era carga e descarga pesanta e bastir aires de repòs segures e susvelhades.",
+        "en": "Update the employment framework for professional freight and passenger transport, prohibit drivers from heavy loading and unloading, and build secure, monitored rest areas."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Modernización del convenio y áreas de descanso del transporte por carretera"
+        }
+      ]
+    }
+  ]
+}

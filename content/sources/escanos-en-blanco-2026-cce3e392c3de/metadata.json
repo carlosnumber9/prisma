@@ -1,12 +1,12 @@
 {
-  "id": "escanos-en-blanco-2026-b174ec60857e",
+  "id": "escanos-en-blanco-2026-cce3e392c3de",
   "partyId": "escanos-en-blanco",
   "electionDate": "2026-11-29",
   "title": "Programa electoral de Escaños en Blanco",
   "url": "https://escanos.org/conocenos/programa-electoral-de-escanos-en-blanco/",
   "format": "html",
-  "capturedAt": "2026-11-22T11:37:10.556Z",
+  "capturedAt": "2026-11-22T17:52:06Z",
   "evidenceKind": "citation-excerpts",
-  "sha256": "b174ec60857ec1d7682e750c48cba5e511bbc76acd7b029313ae1a07f439ffd5",
-  "extractionSha256": "92dab614cc0abf34213780c28215c551c9b38f6aef6c67955ec09d84d97118a2"
+  "sha256": "cce3e392c3de335defe9300d4d9534dcc3a247b4760931a1643c0bcae4568274",
+  "extractionSha256": "3ca9d908f390eacfea81dbe9ea6390e9e5b683a8552687ae64b59313f863970c"
 }

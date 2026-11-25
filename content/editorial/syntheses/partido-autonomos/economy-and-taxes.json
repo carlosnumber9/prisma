@@ -2,9 +2,9 @@
   "id": "partido-autonomos--economy-and-taxes",
   "partyId": "partido-autonomos",
   "topicId": "economy-and-taxes",
-  "revision": 1,
-  "reviewStatus": "partial",
-  "reviewedAt": "2026-11-22T11:45:02.511Z",
+  "revision": 2,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
   "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
   "points": [
     {
@@ -32,8 +32,464 @@
           "segmentId": "page-2",
           "quote": "Exención total e inmediata de la cuota de autónomos en cualquier mes en que los rendimientos netos del trabajador por cuenta propia no superen el Salario Mínimo Interprofesional (SMI)"
         }
-      ],
-      "internalNotes": "This selected clause concerns monthly net returns at or below the minimum wage, including equality. The adjacent extension of the initial reduced contribution rate is a separate assertion not included here."
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-reduced-contributions",
+      "title": {
+        "es": "Tarifas reducidas de autónomos",
+        "ca": "Quotes reduïdes d’autònoms",
+        "gl": "Cotas reducidas de autónomos",
+        "eu": "Autonomoen kuota murriztuak",
+        "oc": "Quòtes redusides d’autonòms",
+        "en": "Reduced self-employed contributions"
+      },
+      "text": {
+        "es": "Ampliar a 24 meses la tarifa plana inicial sin burocracia previa y sustituir la devolución anual por una exención directa del 75 % de la cuota de quienes emprendan una actividad complementaria a su empleo asalariado, hasta el tope máximo de cotización.",
+        "ca": "Ampliar a 24 mesos la tarifa plana inicial sense burocràcia prèvia i substituir la devolució anual per una exempció directa del 75 % de la quota de qui iniciï una activitat complementària a la feina assalariada, fins al límit màxim de cotització.",
+        "gl": "Ampliar a 24 meses a tarifa plana inicial sen burocracia previa e substituír a devolución anual por unha exención directa do 75 % da cota de quen emprenda unha actividade complementaria ao emprego asalariado, ata o tope máximo de cotización.",
+        "eu": "Hasierako tarifa laua 24 hilabetera luzatzea, aurretiazko burokraziarik gabe, eta urteko itzulketaren ordez kuotaren % 75eko zuzeneko salbuespena ezartzea soldatapeko lanaren osagarri jarduera bat hasten dutenentzat, kotizazioaren gehieneko mugaraino.",
+        "oc": "Alargar a 24 mesi era tarifa plana iniciau sense burocracia prèvia e remplaçar era devolucion annau per ua exempcion dirècta deth 75 % dera quòta de qui emprengue ua activitat complementària ath trabalh assalariat, enquia eth limit maxim de cotizacion.",
+        "en": "Extend the initial flat reduced rate to 24 months without prior paperwork and replace annual refunds with a direct 75% contribution exemption for employees starting a supplementary self-employed activity, up to the maximum contribution ceiling."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-2",
+          "quote": "ampliando además la tarifa plana reducida inicial a 24 meses sin burocracia previa."
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Tarifa reducida real para asalariados en situación de pluriactividad"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-vat-exemption-and-cash",
+      "title": {
+        "es": "IVA franquiciado y de caja",
+        "ca": "IVA franquiciat i de caixa",
+        "gl": "IVE franquiciado e de caixa",
+        "eu": "BEZaren salbuespena eta kutxa irizpidea",
+        "oc": "IVA franquiciat e de caisha",
+        "en": "VAT exemption and cash accounting"
+      },
+      "text": {
+        "es": "Transponer inmediatamente la Directiva 2020/285 para eximir de repercutir y liquidar trimestralmente el IVA a autónomos y microempresas con facturación inferior a 85.000 € anuales; implantar el IVA de caja real para no anticipar impuestos de facturas no cobradas.",
+        "ca": "Transposar immediatament la Directiva 2020/285 per eximir de repercutir i liquidar trimestralment l’IVA autònoms i microempreses amb facturació inferior a 85.000 € anuals; implantar l’IVA de caixa real per no anticipar impostos de factures no cobrades.",
+        "gl": "Transpoñer inmediatamente a Directiva 2020/285 para eximir de repercutir e liquidar trimestralmente o IVE a autónomos e microempresas con facturación inferior a 85.000 € anuais; implantar o IVE de caixa real para non anticipar impostos de facturas non cobradas.",
+        "eu": "2020/285 Zuzentaraua berehala transposatzea, urtean 85.000 € baino gutxiago fakturatzen duten autonomoak eta mikroenpresak BEZa jasanaraztetik eta hiru hilean behin likidatzetik salbuesteko; benetako kutxa irizpidea ezartzea, kobratu gabeko fakturen zergak ez aurreratzeko.",
+        "oc": "Transpausar immediatament era Directiva 2020/285 entà eximir de repercutir e liquidar trimestraument er IVA as autonòms e microempreses damb facturacion inferiora a 85.000 € annaus; implantar er IVA de caisha reau entà non auançar impòsti de factures non cobrades.",
+        "en": "Immediately transpose Directive 2020/285 to exempt self-employed workers and microbusinesses with annual turnover below €85,000 from charging and filing quarterly VAT; introduce real cash accounting so taxes on unpaid invoices need not be advanced."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-2",
+          "quote": "IVA Franquiciado hasta 85.000 € y IVA de Caja obligatorio"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-good-faith-tax-errors",
+      "title": {
+        "es": "Derecho al error y segunda oportunidad",
+        "ca": "Dret a l’error i segona oportunitat",
+        "gl": "Dereito ao erro e segunda oportunidade",
+        "eu": "Akats eskubidea eta bigarren aukera",
+        "oc": "Dret ar error e dusau oportunitat",
+        "en": "Good-faith errors and a second chance"
+      },
+      "text": {
+        "es": "Prohibir sanciones automáticas por errores formales o discrepancias contables de buena fe sin intención de defraudar; conceder 15 días hábiles obligatorios para subsanar sin recargo y agilizar la exoneración de deudas públicas mediante la Ley de Segunda Oportunidad.",
+        "ca": "Prohibir sancions automàtiques per errors formals o discrepàncies comptables de bona fe sense intenció de defraudar; concedir 15 dies hàbils obligatoris per esmenar sense recàrrec i agilitzar l’exoneració de deutes públics mitjançant la Llei de segona oportunitat.",
+        "gl": "Prohibir sancións automáticas por erros formais ou discrepancias contables de boa fe sen intención de defraudar; conceder 15 días hábiles obrigatorios para emendar sen recarga e axilizar a exoneración de débedas públicas mediante a Lei de segunda oportunidade.",
+        "eu": "Iruzur asmorik gabeko fede oneko akats formal edo kontabilitate desadostasunengatik zehapen automatikoak debekatzea; errekargurik gabe zuzentzeko nahitaezko 15 lanegun ematea eta zor publikoen barkamena arintzea Bigarren Aukeraren Legearen bidez.",
+        "oc": "Proïbir sancions automatiques per errors formaus o discrepàncies comptables de bona fe sense intencion de defraudar; concedir obligatòriament 15 dies obrèrs entà corregir sense recargue e agilizar era exoneracion de deutes publics mejançant era Lei de Dusau Oportunitat.",
+        "en": "Ban automatic penalties for good-faith formal errors or accounting discrepancies without fraudulent intent; require 15 working days to correct them without a surcharge and expedite public-debt discharge under the Second Chance Law."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-2",
+          "quote": "Derecho al Error Tributario y Segunda Oportunidad Fiscal"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-business-expenses",
+      "title": {
+        "es": "Deducción íntegra de gastos profesionales",
+        "ca": "Deducció íntegra de despeses professionals",
+        "gl": "Dedución íntegra de gastos profesionais",
+        "eu": "Lanbide gastuen kenkari osoa",
+        "oc": "Deduccion integra de despenes professionaus",
+        "en": "Full business-expense deductions"
+      },
+      "text": {
+        "es": "Reconocer automáticamente en IRPF e IVA el 100 % de los gastos reales necesarios para la actividad, incluidos vehículo profesional, combustible, suministros de teletrabajo y manutención en jornada laboral, mediante reglas claras.",
+        "ca": "Reconèixer automàticament en IRPF i IVA el 100 % de les despeses reals necessàries per a l’activitat, inclosos vehicle professional, combustible, subministraments de teletreball i manutenció durant la jornada, amb regles clares.",
+        "gl": "Recoñecer automaticamente no IRPF e no IVE o 100 % dos gastos reais necesarios para a actividade, incluídos vehículo profesional, combustible, subministracións de teletraballo e manutención na xornada laboral, mediante regras claras.",
+        "eu": "Jarduerarako beharrezko benetako gastuen % 100 automatikoki aitortzea PFEZn eta BEZn, arau argien bidez: lanbide ibilgailua, erregaia, telelaneko hornidurak eta lanaldiko mantenua barne.",
+        "oc": "Reconéisher automaticament en IRPF e IVA eth 100 % des despenes reaus de besonh entara activitat, includidi veïcul professionau, combustible, subministraments de teletrabalh e manutencion pendent era jornada, mejançant règles clares.",
+        "en": "Automatically recognise 100% of actual expenses necessary for business activity for personal income tax and VAT, including professional vehicles, fuel, teleworking utilities and meals during working hours, under clear rules."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-3",
+          "quote": "Deducción plena y objetiva de gastos afectos al negocio"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-family-business-transfers",
+      "title": {
+        "es": "Sucesiones y relevo empresarial",
+        "ca": "Successions i relleu empresarial",
+        "gl": "Sucesións e remuda empresarial",
+        "eu": "Oinordetzak eta enpresa erreleboa",
+        "oc": "Successions e relèu empresariau",
+        "en": "Inheritance and business succession"
+      },
+      "text": {
+        "es": "Bonificar un 99 % el impuesto de sucesiones y donaciones para familiares directos en toda España; bonificar un 100 % las transmisiones patrimoniales y plusvalías al traspasar comercios o microempresas por jubilación, si el adquirente mantiene actividad y empleo al menos tres años.",
+        "ca": "Bonificar un 99 % l’impost de successions i donacions per a familiars directes arreu d’Espanya; bonificar un 100 % les transmissions patrimonials i plusvàlues en traspassar comerços o microempreses per jubilació, si l’adquirent manté activitat i ocupació almenys tres anys.",
+        "gl": "Bonificar un 99 % o imposto de sucesións e doazóns para familiares directos en toda España; bonificar un 100 % as transmisións patrimoniais e plusvalías ao traspasar comercios ou microempresas por xubilación, se o adquirente mantén actividade e emprego polo menos tres anos.",
+        "eu": "Oinordetza eta dohaintza zergan % 99ko hobaria ematea zuzeneko senideei Espainia osoan; erretiroagatik saltoki edo mikroenpresak eskualdatzean ondare eskualdaketen eta gainbalioen zergetan % 100eko hobaria ematea, erosleak jarduerari eta enpleguari gutxienez hiru urtez eusten badie.",
+        "oc": "Bonificar un 99 % er impòst de successions e donacions entà familiars dirèctes en tota Espanha; bonificar un 100 % es transmissions patrimoniaus e plusvalues en traspassar comèrci o microempreses per jubilacion, s’er aqueridor manten activitat e emplec aumens tres ans.",
+        "en": "Provide a nationwide 99% inheritance and gift tax relief for immediate relatives and 100% transfer-tax and capital-gains relief for shops or microbusinesses transferred on retirement, provided the buyer maintains activity and employment for at least three years."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-4",
+          "quote": "Supresión del Impuesto de Sucesiones y Donaciones en toda España"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-4",
+          "quote": "Exención fiscal en la transmisión y relevo de pequeños negocios"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-reduced-vat-sectors",
+      "title": {
+        "es": "IVA reducido para higiene y servicios",
+        "ca": "IVA reduït per a higiene i serveis",
+        "gl": "IVE reducido para hixiene e servizos",
+        "eu": "BEZ murriztua higienerako eta zerbitzuetarako",
+        "oc": "IVA redusit entà igièna e servicis",
+        "en": "Reduced VAT on hygiene and services"
+      },
+      "text": {
+        "es": "Aplicar permanentemente el IVA del 4 % a pañales infantiles y de adultos, compresas, tampones e higiene femenina básica; bajar definitivamente del 21 % al 10 % el IVA de peluquerías, imagen personal, estética y centros deportivos.",
+        "ca": "Aplicar permanentment l’IVA del 4 % a bolquers infantils i d’adults, compreses, tampons i higiene femenina bàsica; baixar definitivament del 21 % al 10 % l’IVA de perruqueries, imatge personal, estètica i centres esportius.",
+        "gl": "Aplicar permanentemente o IVE do 4 % a cueiros infantís e de adultos, compresas, tampóns e hixiene feminina básica; baixar definitivamente do 21 % ao 10 % o IVE de perruquerías, imaxe persoal, estética e centros deportivos.",
+        "eu": "% 4ko BEZa betiko aplikatzea haurren eta helduen pixoihalei, konpresei, tanpoiei eta emakumeen oinarrizko higiene produktuei; ile apaindegien, irudi pertsonalaren, estetikaren eta kirol zentroen BEZa % 21etik % 10era behin betiko jaistea.",
+        "oc": "Aplicar permanentament er IVA deth 4 % a bolquers infantils e d’adults, compreses, tampons e igièna femenina basica; baishar definitivament deth 21 % ath 10 % er IVA de perruqueries, imatge personau, estetica e centres esportius.",
+        "en": "Permanently apply 4% VAT to infant and adult nappies, sanitary pads, tampons and basic feminine hygiene products; permanently reduce VAT on hairdressing, personal image, beauty services and sports centres from 21% to 10%."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-4",
+          "quote": "IVA superreducido del 4 % para productos de higiene y primera necesidad"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Restitución del IVA reducido al 10 % para peluquerías, estética y gimnasios"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-commercial-rent-withholding",
+      "title": {
+        "es": "Sin retención en alquileres comerciales",
+        "ca": "Sense retenció en lloguers comercials",
+        "gl": "Sen retención en alugueiros comerciais",
+        "eu": "Atxikipenik gabeko merkataritza alokairuak",
+        "oc": "Sense retencion en loguèrs comerciaus",
+        "en": "End commercial-rent withholding"
+      },
+      "text": {
+        "es": "Suprimir la retención del 19 % en alquileres de locales para actividades económicas cuando el arrendatario sea autónomo o microempresa al corriente de sus obligaciones fiscales, sin alterar la tributación final del propietario.",
+        "ca": "Suprimir la retenció del 19 % en lloguers de locals per a activitats econòmiques quan l’arrendatari sigui autònom o microempresa al corrent de les obligacions fiscals, sense alterar la tributació final del propietari.",
+        "gl": "Suprimir a retención do 19 % en alugueiros de locais para actividades económicas cando o arrendatario sexa autónomo ou microempresa ao día nas obrigas fiscais, sen alterar a tributación final do propietario.",
+        "eu": "Jarduera ekonomikoetarako lokalen alokairuko % 19ko atxikipena kentzea, maizterra zerga betebeharrak egunean dituen autonomoa edo mikroenpresa bada, jabearen azken tributazioa aldatu gabe.",
+        "oc": "Suprimir era retencion deth 19 % en loguèrs de locaus entà activitats economiques quan er arrendatari sigue autonòm o microempresa ath dia des obligacions fiscaus, sense alterar era tributacion finau deth proprietari.",
+        "en": "Remove 19% withholding on business-premises rent when the tenant is a self-employed worker or microbusiness up to date with tax obligations, without changing the landlord’s final tax liability."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-4",
+          "quote": "Eliminación de retenciones en alquileres de locales comerciales"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-financing-and-incorporation-costs",
+      "title": {
+        "es": "Menores costes financieros y de constitución",
+        "ca": "Menys costos financers i de constitució",
+        "gl": "Menores custos financeiros e de constitución",
+        "eu": "Finantzaketa eta eratze kostu txikiagoak",
+        "oc": "Menors còsti financèrs e de constitucion",
+        "en": "Lower financing and incorporation costs"
+      },
+      "text": {
+        "es": "Obligar a la banca a asumir al menos el 50 % de notaría, gestoría y tasación en financiación empresarial, traspasos y novaciones hipotecarias; fijar un máximo de 100 € de notaría y registro para constituir telemáticamente sociedades limitadas y profesionales, eliminando tasas intermedias del BORME.",
+        "ca": "Obligar la banca a assumir almenys el 50 % de notaria, gestoria i taxació en finançament empresarial, traspassos i novacions hipotecàries; fixar un màxim de 100 € de notaria i registre per constituir telemàticament societats limitades i professionals, eliminant taxes intermèdies del BORME.",
+        "gl": "Obrigar a banca a asumir polo menos o 50 % de notaría, xestoría e taxación en financiamento empresarial, traspasos e novacións hipotecarias; fixar un máximo de 100 € de notaría e rexistro para constituír telematicamente sociedades limitadas e profesionais, eliminando taxas intermedias do BORME.",
+        "eu": "Bankuei enpresa finantzaketaren, eskualdatzeen eta hipoteka berritzeen notaritza, gestoria eta tasazio gastuen gutxienez % 50 ordainaraztea; sozietate mugatuak eta profesionalak telematikoki eratzeko notaritza eta erregistro gastuak gehienez 100 € izatea, BORMEren bitarteko tasak kenduta.",
+        "oc": "Obligar era banca a assumir aumens eth 50 % de notaria, gestoria e taxacion en finançament empresariau, traspassi e novacions ipotecàries; fixar un maxim de 100 € de notaria e registre entà constituïr telematicament societats limitades e professionaus, eliminant taxes intermediàries deth BORME.",
+        "en": "Require banks to cover at least 50% of notary, administration and valuation costs for business financing, transfers and mortgage modifications; cap notary and registry fees at €100 for online incorporation of limited and professional companies and remove intermediate BORME fees."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-4",
+          "quote": "Reparto equitativo de gastos notariales y registrales en financiación"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-4",
+          "quote": "Arancel notarial y registral reducido para constituir pymes"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-property-tax",
+      "title": {
+        "es": "Revisar el IBI y proteger el comercio",
+        "ca": "Revisar l’IBI i protegir el comerç",
+        "gl": "Revisar o IBI e protexer o comercio",
+        "eu": "Ondasun higiezinen zerga berrikustea",
+        "oc": "Revisar er IBI e protegir eth comèrç",
+        "en": "Review property tax and support shops"
+      },
+      "text": {
+        "es": "Rebajar los tipos mínimo y máximo del IBI urbano y rústico tras actualizar los valores catastrales, con bonificaciones obligatorias para locales abiertos al público en zonas afectadas por obras o caída del tráfico.",
+        "ca": "Rebaixar els tipus mínim i màxim de l’IBI urbà i rústic després d’actualitzar els valors cadastrals, amb bonificacions obligatòries per a locals oberts al públic en zones afectades per obres o caiguda del trànsit.",
+        "gl": "Rebaixar os tipos mínimo e máximo do IBI urbano e rústico tras actualizar os valores catastrais, con bonificacións obrigatorias para locais abertos ao público en zonas afectadas por obras ou caída do tráfico.",
+        "eu": "Hiri eta landa ondasun higiezinen zergaren gutxieneko eta gehieneko tasak jaistea katastro balioak eguneratu ondoren, obrek edo trafikoaren beherakadak eragindako eremuetan publikoari irekitako lokalei nahitaezko hobariak emanez.",
+        "oc": "Rebaishar es tipes minim e maxim der IBI urban e rustic dempús d’actualizar es valors cadastraus, damb bonificacions obligatòries entà locaus dubèrti ath public en zònes afectades per òbres o baishada deth transit.",
+        "en": "Lower minimum and maximum urban and rural property-tax rates after updating cadastral values, with mandatory relief for premises open to the public in areas affected by construction works or reduced traffic."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Reducción y revisión nacional de los tipos del Impuesto de Bienes Inmuebles"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-income-tax-filers",
+      "title": {
+        "es": "Umbral de renta independiente de pagadores",
+        "ca": "Llindar de renda independent dels pagadors",
+        "gl": "Limiar de renda independente dos pagadores",
+        "eu": "Ordaintzaile kopururik gabeko errenta muga",
+        "oc": "Limit de renda independent des pagadors",
+        "en": "Equal filing threshold across payers"
+      },
+      "text": {
+        "es": "Fijar en 22.000 € anuales el umbral obligatorio de declaración de la renta con independencia del número de pagadores y exigir al SEPE y a las empresas retenciones proporcionales reales en contratos temporales.",
+        "ca": "Fixar en 22.000 € anuals el llindar obligatori de declaració de renda amb independència del nombre de pagadors i exigir al SEPE i a les empreses retencions proporcionals reals en contractes temporals.",
+        "gl": "Fixar en 22.000 € anuais o limiar obrigatorio de declaración da renda con independencia do número de pagadores e esixir ao SEPE e ás empresas retencións proporcionais reais nos contratos temporais.",
+        "eu": "Errenta aitorpena nahitaez aurkezteko muga urteko 22.000 €-tan ezartzea, ordaintzaile kopurua edozein dela ere, eta SEPEri eta enpresei aldi baterako kontratuetan benetako atxikipen proportzionalak eskatzea.",
+        "oc": "Fixar en 22.000 € annaus eth limit obligatòri de declaracion dera renda damb independéncia deth nombre de pagadors e exigir ath SEPE e as empreses retencions proporcionaus reaus en contractes temporaus.",
+        "en": "Set a €22,000 annual income-tax filing threshold regardless of the number of payers and require SEPE and employers to apply realistic proportional withholding on temporary contracts."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Eliminación de penalizaciones fiscales por tener dos o más pagadores"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-ico-finance",
+      "title": {
+        "es": "Crédito ICO directo",
+        "ca": "Crèdit ICO directe",
+        "gl": "Crédito ICO directo",
+        "eu": "ICOren zuzeneko kreditua",
+        "oc": "Crèdit ICO dirècte",
+        "en": "Direct ICO financing"
+      },
+      "text": {
+        "es": "Crear financiación ICO permanente y directa para emprendedores y pymes, sin intermediación bancaria abusiva, con dos años de carencia de capital e interés referenciado al Euríbor y aval público parcial para proyectos con viabilidad técnica acreditada. Canalizar fondos europeos y reembolsos financieros a través del ICO.",
+        "ca": "Crear finançament ICO permanent i directe per a emprenedors i pimes, sense intermediació bancària abusiva, amb dos anys de carència de capital i interès referenciat a l’Euríbor i aval públic parcial per a projectes amb viabilitat tècnica acreditada. Canalitzar fons europeus i reemborsaments financers a través de l’ICO.",
+        "gl": "Crear financiamento ICO permanente e directo para emprendedores e pemes, sen intermediación bancaria abusiva, con dous anos de carencia de capital e xuro referenciado ao Euríbor e aval público parcial para proxectos con viabilidade técnica acreditada. Canalizar fondos europeos e reembolsos financeiros a través do ICO.",
+        "eu": "Ekintzaile eta ETEentzako ICOren finantzaketa iraunkor eta zuzena sortzea, bankuen abusuzko bitartekaritzarik gabe, kapitala itzultzeko bi urteko gabealdiarekin, Euriborrari lotutako interesarekin eta bideragarritasun teknikoa egiaztatutako proiektuentzako berme publiko partzialarekin. Europako funtsak eta finantza itzulketak ICOren bidez bideratzea.",
+        "oc": "Crear finançament ICO permanent e dirècte entà emprenedors e pimes, sense intermediacion bancària abusiva, damb dus ans de caréncia de capitau, interès referenciat ar Euríbor e avau public parciau entà projèctes damb viabilitat tecnica acreditada. Canalizar hons europèus e reemborsaments financèrs a trauès der ICO.",
+        "en": "Create permanent direct ICO financing for entrepreneurs and SMEs without abusive bank intermediation, with a two-year principal repayment grace period, Euribor-linked interest and partial public guarantees for projects backed by technical viability plans. Channel European funds and financial repayments through ICO."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-6",
+          "quote": "Líneas ICO directas con 2 años de carencia para nuevos proyectos"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-late-payment",
+      "title": {
+        "es": "Sancionar la morosidad",
+        "ca": "Sancionar la morositat",
+        "gl": "Sancionar a morosidade",
+        "eu": "Ordainketa berantiarrak zehatzea",
+        "oc": "Sancionar era morositat",
+        "en": "Penalise late payment"
+      },
+      "text": {
+        "es": "Aplicar sanciones económicas automáticas, intereses de demora automáticos y exclusión de contratación pública a grandes empresas y administraciones que superen los plazos legales de pago: 30 días en el sector público y 60 en el privado, detectando retrasos mediante factura electrónica B2B.",
+        "ca": "Aplicar sancions econòmiques automàtiques, interessos de demora automàtics i exclusió de contractació pública a grans empreses i administracions que superin els terminis legals de pagament: 30 dies al sector públic i 60 al privat, detectant retards amb factura electrònica B2B.",
+        "gl": "Aplicar sancións económicas automáticas, xuros de demora automáticos e exclusión da contratación pública a grandes empresas e administracións que superen os prazos legais de pagamento: 30 días no sector público e 60 no privado, detectando atrasos mediante factura electrónica B2B.",
+        "eu": "Legezko ordainketa epeak gainditzen dituzten enpresa handi eta administrazioei zehapen ekonomiko automatikoak, berandutze interes automatikoak eta kontratazio publikotik kanporatzea aplikatzea: 30 egun sektore publikoan eta 60 pribatuan; atzerapenak B2B faktura elektronikoaren bidez antzematea.",
+        "oc": "Aplicar sancions economiques automatiques, interèssi de demora automatics e exclusion dera contractacion publica as granes empreses e administracions que supèren es tèrmes legaus de pagament: 30 dies en sector public e 60 en privat, detectant retards damb factura electronica B2B.",
+        "en": "Apply automatic financial penalties, automatic late-payment interest and exclusion from public procurement to large companies and authorities exceeding payment limits of 30 days in the public sector and 60 in the private sector, detecting delays through B2B electronic invoices."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Cumplimiento estricto de la Ley de Morosidad y régimen sancionador"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-industrial-return",
+      "title": {
+        "es": "Reindustrialización e inversión",
+        "ca": "Reindustrialització i inversió",
+        "gl": "Reindustrialización e investimento",
+        "eu": "Berrindustrializazioa eta inbertsioa",
+        "oc": "Reindustrializacion e inversion",
+        "en": "Reindustrialisation and investment"
+      },
+      "text": {
+        "es": "Ofrecer incentivos fiscales a la inversión productiva, suelo industrial bonificado y deducciones por I+D+i para recuperar fábricas y centros logísticos deslocalizados por costes regulatorios.",
+        "ca": "Oferir incentius fiscals a la inversió productiva, sòl industrial bonificat i deduccions per R+D+I per recuperar fàbriques i centres logístics deslocalitzats per costos regulatoris.",
+        "gl": "Ofrecer incentivos fiscais ao investimento produtivo, solo industrial bonificado e deducións por I+D+i para recuperar fábricas e centros loxísticos deslocalizados por custos regulatorios.",
+        "eu": "Ekoizpen inbertsiorako zerga pizgarriak, industriarako lurzoru hobaria eta I+G+B kenkariak eskaintzea, araudi kostuengatik deslokalizatutako fabrikak eta logistika zentroak itzularazteko.",
+        "oc": "Auferir incentius fiscaus ara inversion productiva, solèr industriau bonificat e deduccions per R+D+i entà recuperar fabriques e centres logistics deslocalizadi per còsti regulatòris.",
+        "en": "Offer tax incentives for productive investment, discounted industrial land and R&D&I deductions to bring back factories and logistics centres relocated because of regulatory costs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Plan Industrial «Made in Spain» y retorno de empresas deslocalizadas"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-local-commerce",
+      "title": {
+        "es": "Comercio de proximidad y mercados",
+        "ca": "Comerç de proximitat i mercats",
+        "gl": "Comercio de proximidade e mercados",
+        "eu": "Hurbileko merkataritza eta merkatuak",
+        "oc": "Comèrç de proximitat e mercats",
+        "en": "Local shops and markets"
+      },
+      "text": {
+        "es": "Impulsar planes municipales con bonificaciones de tasas, carga y descarga inteligente, primera hora de aparcamiento gratuita y digitalización compartida; reducir tasas de venta ambulante y mercados, ampliar concesiones a 25 años y ayudar a su modernización energética.",
+        "ca": "Impulsar plans municipals amb bonificacions de taxes, càrrega i descàrrega intel·ligent, primera hora d’aparcament gratuïta i digitalització compartida; reduir taxes de venda ambulant i mercats, ampliar concessions a 25 anys i ajudar-ne la modernització energètica.",
+        "gl": "Impulsar plans municipais con bonificacións de taxas, carga e descarga intelixente, primeira hora de aparcadoiro gratuíta e dixitalización compartida; reducir taxas de venda ambulante e mercados, ampliar concesións a 25 anos e axudar á súa modernización enerxética.",
+        "eu": "Udal planak sustatzea, tasa hobariekin, zamalan adimendunekin, lehen orduko doako aparkalekuarekin eta digitalizazio partekatuarekin; salmenta ibiltariaren eta merkatuen tasak jaistea, emakidak 25 urtera luzatzea eta energia modernizaziorako laguntzak ematea.",
+        "oc": "Impulsar plans municipaus damb bonificacions de taxes, carga e descarga intelligenta, prumèra ora d’aparcament gratuïta e digitalizacion compartida; redusir taxes de venda ambulanta e mercats, alargar concessions a 25 ans e ajudar ara sua modernizacion energetica.",
+        "en": "Promote municipal plans with fee relief, smart loading bays, free first-hour parking and shared digitalisation; lower fees for street trading and markets, extend concessions to 25 years and support energy modernisation."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-7",
+          "quote": "Impulso a Centros Comerciales Abiertos y zonas de comercio local"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-8",
+          "quote": "Modernización de ferias, mercados municipales y venta ambulante"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-food-chain",
+      "title": {
+        "es": "Precios agrarios que cubran costes",
+        "ca": "Preus agraris que cobreixin costos",
+        "gl": "Prezos agrarios que cubran custos",
+        "eu": "Kostuak estaltzen dituzten nekazaritza prezioak",
+        "oc": "Prètzi agraris que capèren còsti",
+        "en": "Farm prices covering production costs"
+      },
+      "text": {
+        "es": "Inspeccionar los contratos agrarios para prohibir la venta a pérdidas, garantizar precios en origen que cubran costes reales y frenar márgenes especulativos, dotando a AICA de inspectores suficientes y sanción ágil.",
+        "ca": "Inspeccionar els contractes agraris per prohibir la venda a pèrdues, garantir preus en origen que cobreixin costos reals i frenar marges especulatius, dotant l’AICA d’inspectors suficients i sanció àgil.",
+        "gl": "Inspeccionar os contratos agrarios para prohibir a venda a perdas, garantir prezos en orixe que cubran custos reais e frear marxes especulativas, dotando a AICA de inspectores suficientes e sanción áxil.",
+        "eu": "Nekazaritza kontratuak ikuskatzea galerarekin saltzea debekatzeko, jatorriko prezioek benetako kostuak estaltzea bermatzeko eta marjina espekulatiboak mugatzeko, AICAri nahikoa ikuskatzaile eta zehatzeko gaitasun arina emanez.",
+        "oc": "Inspeccionar es contractes agraris entà proïbir era venda damb pèrtes, garantir prètzi en origina que capèren còsti reaus e frenar marges especulatius, dotant era AICA d’inspectors sufisents e sancion agila.",
+        "en": "Inspect agricultural contracts to prohibit below-cost sales, ensure farm-gate prices cover actual production costs and curb speculative margins, providing AICA with sufficient inspectors and swift sanctioning powers."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-13",
+          "quote": "Cumplimiento de la Ley de la Cadena Alimentaria y precios justos"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-economy-and-taxes-island-freight",
+      "title": {
+        "es": "Bonificación del transporte de mercancías",
+        "ca": "Bonificació del transport de mercaderies",
+        "gl": "Bonificación do transporte de mercadorías",
+        "eu": "Salgaien garraiorako hobaria",
+        "oc": "Bonificacion deth transpòrt de mercaderies",
+        "en": "Freight transport subsidy"
+      },
+      "text": {
+        "es": "Bonificar permanentemente el 100 % del transporte marítimo y aéreo de mercancías entre la Península, Baleares, Canarias, Ceuta y Melilla y simplificar aduanas para pymes insulares, reforzando los regímenes económicos especiales de Canarias y Baleares.",
+        "ca": "Bonificar permanentment el 100 % del transport marítim i aeri de mercaderies entre la Península, Balears, Canàries, Ceuta i Melilla i simplificar duanes per a pimes insulars, reforçant els règims econòmics especials de Canàries i Balears.",
+        "gl": "Bonificar permanentemente o 100 % do transporte marítimo e aéreo de mercadorías entre a Península, Baleares, Canarias, Ceuta e Melilla e simplificar aduanas para pemes insulares, reforzando os réximes económicos especiais de Canarias e Baleares.",
+        "eu": "Penintsula, Balearrak, Kanariak, Ceuta eta Melilla arteko salgaien itsas eta aire garraioan betiko % 100eko hobaria ematea eta uharteetako ETEen aduanak sinplifikatzea, Kanarietako eta Balearretako araubide ekonomiko bereziak indartuz.",
+        "oc": "Bonificar permanentament eth 100 % deth transpòrt maritim e aerian de mercaderies entre era Peninsula, Balears, Canàries, Ceuta e Melilla e simplificar doanes entà pimes insulares, en tot enfortir es regims economics especiaus de Canàries e Balears.",
+        "en": "Permanently subsidise 100% of maritime and air freight between the mainland, Balearic Islands, Canary Islands, Ceuta and Melilla and simplify customs for island SMEs, strengthening the Canary and Balearic special economic regimes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-15",
+          "quote": "Apoyo específico a las economías insulares y compensación de transporte"
+        }
+      ]
     }
   ]
 }

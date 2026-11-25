@@ -1,0 +1,312 @@
+{
+  "id": "eaj-pnv--employment",
+  "partyId": "eaj-pnv",
+  "topicId": "employment",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:32:02Z",
+  "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
+  "points": [
+    {
+      "id": "eaj-pnv-employment-youth-training-employment",
+      "title": {
+        "es": "Formación y empleo joven",
+        "ca": "Formació i ocupació jove",
+        "gl": "Formación e emprego xuvenil",
+        "eu": "Prestakuntza eta gazte-enplegua",
+        "oc": "Formacion e emplec joen",
+        "en": "Training and youth employment"
+      },
+      "text": {
+        "es": "Conectar formación y empleo para que las personas jóvenes accedan a trabajos de calidad acordes con su preparación.",
+        "ca": "Connectar formació i ocupació perquè les persones joves accedeixin a feines de qualitat adequades a la seva preparació.",
+        "gl": "Conectar formación e emprego para que a mocidade acceda a traballos de calidade acordes coa súa preparación.",
+        "eu": "Prestakuntza eta enplegua lotzea, gazteek beren prestakuntzari egokitutako kalitatezko lanpostuak eskuratzeko.",
+        "oc": "Connectar formacion e emplec entà qu’es joeni accedisquen a trabalhs de qualitat adaptadi ara sua preparacion.",
+        "en": "Connect training and employment so young people can enter quality jobs matching their qualifications."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-8",
+          "quote": "Favorecer medidas que mejoren la conexión entre formación y empleo, facilitando la incorporación de las personas jóvenes a puestos de trabajo de calidad y acordes con su preparación."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-basque-minimum-wage",
+      "title": {
+        "es": "Salario mínimo propio",
+        "ca": "Salari mínim propi",
+        "gl": "Salario mínimo propio",
+        "eu": "Gutxieneko soldata propioa",
+        "oc": "Salari minim pròpri",
+        "en": "A Basque minimum wage"
+      },
+      "text": {
+        "es": "Reclamar, con un nuevo estatus político, competencia plena para fijar un salario mínimo vasco adaptado al coste de vida y siempre superior al estatal, mediante diálogo social con sindicatos y organizaciones empresariales.",
+        "ca": "Reclamar, amb un nou estatus polític, competència plena per fixar un salari mínim basc adaptat al cost de vida i sempre superior a l’estatal, mitjançant diàleg social amb sindicats i organitzacions empresarials.",
+        "gl": "Reclamar, cun novo status político, competencia plena para fixar un salario mínimo vasco adaptado ao custo de vida e sempre superior ao estatal, mediante diálogo social con sindicatos e organizacións empresariais.",
+        "eu": "Estatus politiko berriaren barruan, bizi-kostuari egokitutako eta Estatukoa baino beti handiagoa den euskal gutxieneko soldata ezartzeko eskumen osoa eskatzea, sindikatuekin eta enpresaburuen erakundeekin gizarte-elkarrizketaren bidez.",
+        "oc": "Reclamar, damb un nau estatus politic, competéncia plea entà fixar un salari minim basc adaptat ath còst de vida e tostemp superior ar estatau, mejançant dialòg sociau damb sindicats e organizacions empresariaus.",
+        "en": "Seek full powers under a new political status to set a Basque minimum wage reflecting living costs and always above the State minimum, through social dialogue with unions and employers."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Reclamar, en el marco de un nuevo estatus político para Euskadi, la competencia plena para establecer un salario mínimo propio, adaptado al coste de vida y siempre por encima del mínimo estatal. Impulsar su definición mediante el diálogo social, con la participación de sindicatos y organizaciones empresariales."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-collective-bargaining",
+      "title": {
+        "es": "Convenios vascos y mejores salarios",
+        "ca": "Convenis bascos i millors salaris",
+        "gl": "Convenios vascos e mellores salarios",
+        "eu": "Euskal hitzarmenak eta soldata hobeak",
+        "oc": "Convenguts basqui e melhors salaris",
+        "en": "Basque agreements and better wages"
+      },
+      "text": {
+        "es": "Proteger el marco vasco de relaciones laborales y la prevalencia legal de convenios vascos más favorables. Negociar que la productividad mejore salarios, poder adquisitivo y reparto del valor generado.",
+        "ca": "Protegir el marc basc de relacions laborals i la prevalença legal de convenis bascos més favorables. Negociar que la productivitat millori salaris, poder adquisitiu i repartiment del valor generat.",
+        "gl": "Protexer o marco vasco de relacións laborais e a prevalencia legal de convenios vascos máis favorables. Negociar que a produtividade mellore salarios, poder adquisitivo e reparto do valor xerado.",
+        "eu": "Lan-harremanen euskal esparrua eta baldintza hobeak dituzten euskal hitzarmenen legezko lehentasuna babestea. Produktibitateak soldatak, erosteko ahalmena eta sortutako balioaren banaketa hobetu ditzan negoziatzea.",
+        "oc": "Protegir eth marc basc de relacions laboraus e era prevalença legau de convenguts basqui mès favorables. Negociar qu’era productivitat melhore salaris, poder crompador e repartiment deth valor generat.",
+        "en": "Protect the Basque labour-relations framework and lawful priority of more favourable Basque agreements. Use bargaining to translate productivity gains into better pay, purchasing power and balanced distribution of value."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Proteger un marco propio de relaciones laborales y la prevalencia de los convenios colectivos vascos, en los términos previstos legalmente, cuando establezcan condiciones más favorables para las personas trabajadoras."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Favorecer la negociación colectiva para que las mejoras de productividad se traduzcan en mejores salarios, mayor poder adquisitivo y un reparto equilibrado del valor generado."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-labour-inspection",
+      "title": {
+        "es": "Inspección contra el fraude laboral",
+        "ca": "Inspecció contra el frau laboral",
+        "gl": "Inspección contra a fraude laboral",
+        "eu": "Lan-iruzurraren aurkako ikuskaritza",
+        "oc": "Inspeccion contra eth frau laborau",
+        "en": "Inspection against labour fraud"
+      },
+      "text": {
+        "es": "Reforzar la Inspección de Trabajo para detectar y sancionar fraude, contratación irregular, falsos autónomos, economía sumergida e incumplimientos laborales.",
+        "ca": "Reforçar la Inspecció de Treball per detectar i sancionar frau, contractació irregular, falsos autònoms, economia submergida i incompliments laborals.",
+        "gl": "Reforzar a Inspección de Traballo para detectar e sancionar fraude, contratación irregular, falsos autónomos, economía somerxida e incumprimentos laborais.",
+        "eu": "Lan Ikuskaritza indartzea, iruzurra, kontratazio irregularra, autonomo faltsuak, ezkutuko ekonomia eta lan-arloko ez-betetzeak detektatzeko eta zigortzeko.",
+        "oc": "Refortir era Inspeccion de Trabalh entà detectar e sancionar frau, contractacion irregulara, faussi autonòms, economia submergida e incompliments laboraus.",
+        "en": "Strengthen labour inspection to detect and sanction fraud, irregular hiring, bogus self-employment, undeclared activity and labour-law breaches."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Detectar y sancionar mejor los abusos laborales reforzando la Inspección de Trabajo para combatir el fraude laboral, la contratación irregular, las falsas personas autónomas, la economía sumergida y los incumplimientos de la normativa laboral."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-workplace-health-equality",
+      "title": {
+        "es": "Salud, igualdad salarial y protección frente al acoso",
+        "ca": "Salut, igualtat salarial i protecció davant l’assetjament",
+        "gl": "Saúde, igualdade salarial e protección fronte ao acoso",
+        "eu": "Osasuna, soldata-berdintasuna eta jazarpenaren aurkako babesa",
+        "oc": "Salut, egalitat salariau e proteccion contra er assetjament",
+        "en": "Health, equal pay and protection against harassment"
+      },
+      "text": {
+        "es": "Mejorar la prevención y la salud física y mental mediante coordinación sanitaria, mutuas y Seguridad Social; aplicar la transparencia retributiva europea contra la desigualdad entre mujeres y hombres; exigir protocolos eficaces frente al acoso laboral, sexual y discriminatorio.",
+        "ca": "Millorar la prevenció i la salut física i mental amb coordinació sanitària, mútues i Seguretat Social; aplicar la transparència retributiva europea contra la desigualtat entre dones i homes; exigir protocols eficaços davant l’assetjament laboral, sexual i discriminatori.",
+        "gl": "Mellorar a prevención e a saúde física e mental mediante coordinación sanitaria, mutuas e Seguridade Social; aplicar a transparencia retributiva europea contra a desigualdade entre mulleres e homes; esixir protocolos eficaces fronte ao acoso laboral, sexual e discriminatorio.",
+        "eu": "Prebentzioa eta osasun fisiko zein mentala hobetzea, osasun-zerbitzuak, mutuak eta Gizarte Segurantza koordinatuz; Europako ordainsari-gardentasuna aplikatzea emakumeen eta gizonen desberdintasunaren aurka; laneko, sexu- eta diskriminazio-jazarpenaren aurkako protokolo eraginkorrak bermatzea.",
+        "oc": "Melhorar era prevencion e era salut fisica e mentau damb coordinacion sanitària, mutualitats e Seguretat Sociau; aplicar era transparéncia retributiva europèa contra era desigualtat entre hemnes e òmes; exigir protocòls eficaci contra er assetjament laborau, sexuau e discriminatòri.",
+        "en": "Improve prevention and physical and mental health through coordination of health services, mutual insurers and Social Security; apply European pay transparency against gender inequality; ensure effective workplace protocols against labour, sexual and discriminatory harassment."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Mejorar la prevención de riesgos laborales y la protección de la salud física y mental en el trabajo, reforzando la coordinación entre servicios sanitarios, mutuas y Seguridad Social."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Asegurar la aplicación de la normativa europea sobre transparencia retributiva, para detectar y corregir las desigualdades salariales entre mujeres y hombres."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Reforzar la prevención y la actuación frente al acoso laboral, sexual y discriminatorio, garantizando protocolos eficaces en las empresas."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-lifelong-training-internships",
+      "title": {
+        "es": "Formación continua y prácticas con derechos",
+        "ca": "Formació contínua i pràctiques amb drets",
+        "gl": "Formación continua e prácticas con dereitos",
+        "eu": "Etengabeko prestakuntza eta eskubidedun praktikak",
+        "oc": "Formacion contunha e practiques damb drets",
+        "en": "Lifelong training and protected placements"
+      },
+      "text": {
+        "es": "Facilitar formación continua y recualificación ante cambios tecnológicos y productivos; regular prácticas con derechos y carácter educativo, respetando las competencias vascas y la FP Dual.",
+        "ca": "Facilitar formació contínua i requalificació davant canvis tecnològics i productius; regular pràctiques amb drets i caràcter educatiu, respectant les competències basques i l’FP Dual.",
+        "gl": "Facilitar formación continua e recualificación ante cambios tecnolóxicos e produtivos; regular prácticas con dereitos e carácter educativo, respectando as competencias vascas e a FP Dual.",
+        "eu": "Aldaketa teknologiko eta produktiboetarako etengabeko prestakuntza eta birkualifikazioa erraztea; eskubideak eta hezkuntza-izaera dituzten praktikak arautzea, euskal eskumenak eta LH Duala errespetatuz.",
+        "oc": "Facilitar formacion contunha e requalificacion deuant cambis tecnologics e productius; regular practiques damb drets e caractèr educatiu, respectant es competéncies basques e era FP Duau.",
+        "en": "Facilitate lifelong training and reskilling for technological and productive changes; regulate placements to protect students’ rights and educational purpose while respecting Basque competences and Dual Vocational Training."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Facilitar el acceso de las personas trabajadoras a la formación continua y la recualificación profesional para adaptarse a los cambios tecnológicos y productivos."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Impulsar una regulación de las prácticas formativas que garantice los derechos del alumnado y preserve su carácter educativo, respetando las competencias de Euskadi y el funcionamiento de la Formación Profesional Dual."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-unemployment-36-months",
+      "title": {
+        "es": "Desempleo hasta 36 meses",
+        "ca": "Atur fins a 36 mesos",
+        "gl": "Desemprego ata 36 meses",
+        "eu": "Langabezia, 36 hilabete arte",
+        "oc": "Caumatge enquia 36 mesi",
+        "en": "Unemployment benefits up to 36 months"
+      },
+      "text": {
+        "es": "Ampliar la prestación por desempleo hasta un máximo de 36 meses, vinculada a mejorar la empleabilidad y reforzando la protección de quienes tienen más dificultades para reincorporarse.",
+        "ca": "Ampliar la prestació d’atur fins a un màxim de 36 mesos, vinculada a millorar l’ocupabilitat i reforçant la protecció de qui té més dificultats per reincorporar-se.",
+        "gl": "Ampliar a prestación por desemprego ata un máximo de 36 meses, vinculada a mellorar a empregabilidade e reforzando a protección de quen ten máis dificultades para reincorporarse.",
+        "eu": "Langabezia-prestazioa gehienez 36 hilabetera luzatzea, enplegagarritasuna hobetzeko prozesuei lotuta eta lanera itzultzeko zailtasun handienak dituztenen babesa indartuz.",
+        "oc": "Ampliar era prestacion de caumatge enquia un maxim de 36 mesi, vinculada a melhorar era emplegabilitat e refortint era proteccion de qui a mès dificultats entà reincorporar-se.",
+        "en": "Extend unemployment benefit to a maximum of 36 months, linked to employability improvements and stronger protection for people facing the greatest barriers to returning to work."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-9",
+          "quote": "Ampliar la cobertura de la prestación por desempleo hasta un máximo de 36 meses, vinculándola a procesos de mejora de la empleabilidad y reforzando la protección de las personas con mayores dificultades para reincorporarse al mercado laboral."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-productivity-public-contracts",
+      "title": {
+        "es": "Productividad y salarios en contratos públicos",
+        "ca": "Productivitat i salaris en contractes públics",
+        "gl": "Produtividade e salarios en contratos públicos",
+        "eu": "Produktibitatea eta soldatak kontratu publikoetan",
+        "oc": "Productivitat e salaris en contractes publics",
+        "en": "Productivity and wages in public contracts"
+      },
+      "text": {
+        "es": "Analizar productividad, absentismo, competitividad y salarios con administraciones, sindicatos y empresas; proponer prevención, control y bienestar físico y mental. En casos estratégicos y justificados, permitir actualizar contratos públicos para cubrir mejoras salariales pactadas y proteger empleo y continuidad del servicio.",
+        "ca": "Analitzar productivitat, absentisme, competitivitat i salaris amb administracions, sindicats i empreses; proposar prevenció, control i benestar físic i mental. En casos estratègics i justificats, permetre actualitzar contractes públics per cobrir millores salarials pactades i protegir ocupació i continuïtat del servei.",
+        "gl": "Analizar produtividade, absentismo, competitividade e salarios con administracións, sindicatos e empresas; propoñer prevención, control e benestar físico e mental. En casos estratéxicos e xustificados, permitir actualizar contratos públicos para cubrir melloras salariais pactadas e protexer emprego e continuidade do servizo.",
+        "eu": "Administrazioekin, sindikatuekin eta enpresekin produktibitatea, absentismoa, lehiakortasuna eta soldatak aztertzea; prebentzioa, kontrola eta ongizate fisiko eta mentala sustatzea. Kasu estrategiko eta justifikatuetan, kontratu publikoak eguneratzea ahalbidetzea adostutako soldata-hobekuntzak estaltzeko eta enplegua zein zerbitzuaren jarraitutasuna babesteko.",
+        "oc": "Analizar productivitat, absentisme, competitivitat e salaris damb administracions, sindicats e empreses; prepausar prevencion, contròtle e benèster fisic e mentau. En casi estrategics e justificadi, perméter actualizar contractes publics entà cobrir melhores salariaus acordades e protegir emplec e continuïtat deth servici.",
+        "en": "Analyse productivity, absence, competitiveness and pay with authorities, unions and employers; propose prevention, monitoring and physical and mental well-being measures. In strategic, justified cases, allow public-contract prices to cover agreed pay increases, protecting jobs and service continuity."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Analizar, con la participación de las administraciones, los sindicatos y las organizaciones empresariales, la productividad laboral, el absentismo, la competitividad y los salarios, y proponer medidas de prevención y control, así como actuaciones que mejoren el bienestar físico y mental de las personas trabajadoras."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-10",
+          "quote": "Evitar que las mejoras salariales pactadas pongan en riesgo servicios públicos contratados: permitir, en casos estratégicos y justificados, actualizar el precio de los contratos para cubrir esos costes y garantizar tanto el empleo como la continuidad del servicio."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-business-succession",
+      "title": {
+        "es": "Relevo empresarial y empresas de trabajadores",
+        "ca": "Relleu empresarial i empreses de treballadors",
+        "gl": "Remuda empresarial e empresas de traballadores",
+        "eu": "Enpresa-erreleboa eta langileen enpresak",
+        "oc": "Relèu empresariau e empreses de trabalhadors",
+        "en": "Business succession and worker ownership"
+      },
+      "text": {
+        "es": "Facilitar el relevo de negocios viables, especialmente familiares, para evitar cierres y proteger empleo; permitir que las plantillas asuman empresas viables mediante cooperativas o sociedades laborales capitalizando el desempleo.",
+        "ca": "Facilitar el relleu de negocis viables, especialment familiars, per evitar tancaments i protegir ocupació; permetre que les plantilles assumeixin empreses viables mitjançant cooperatives o societats laborals capitalitzant l’atur.",
+        "gl": "Facilitar a remuda de negocios viables, especialmente familiares, para evitar peches e protexer emprego; permitir que os cadros de persoal asuman empresas viables mediante cooperativas ou sociedades laborais capitalizando o desemprego.",
+        "eu": "Negozio bideragarrien, bereziki familien negozioen, erreleboa erraztea itxierak saihesteko eta enplegua babesteko; langileek enpresa bideragarriak kooperatiben edo lan-sozietateen bidez hartzea erraztea, langabezia-prestazioa kapitalizatuz.",
+        "oc": "Facilitar eth relèu de negòcis viables, sustot familhaus, entà evitar barraments e protegir emplec; perméter qu’es plantilhes assumisquen empreses viables mejançant cooperatives o societats laboraus capitalizant eth caumatge.",
+        "en": "Facilitate succession in viable businesses, especially family businesses, to avoid closures and protect jobs; help staff take over viable companies through cooperatives or worker-owned companies by capitalising unemployment benefit."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-15",
+          "quote": "Facilitar el relevo generacional de empresas y negocios viables, especialmente familiares, evitando cierres por falta de continuidad y protegiendo los empleos existentes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-15",
+          "quote": "Facilitar que las plantillas puedan hacerse cargo de empresas viables mediante cooperativas o sociedades laborales, utilizando para ello la capitalización de la prestación por desempleo."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-employment-fishing-generational-renewal",
+      "title": {
+        "es": "Formación y relevo pesquero",
+        "ca": "Formació i relleu pesquer",
+        "gl": "Formación e remuda pesqueira",
+        "eu": "Arrantza-prestakuntza eta belaunaldi-erreleboa",
+        "oc": "Formacion e relèu pesquèr",
+        "en": "Fisheries training and succession"
+      },
+      "text": {
+        "es": "Apoyar el relevo generacional y la formación marítimo-pesquera, facilitando el acceso juvenil y la continuidad empresarial.",
+        "ca": "Donar suport al relleu generacional i la formació maritimopesquera, facilitant l’accés juvenil i la continuïtat empresarial.",
+        "gl": "Apoiar a remuda xeracional e a formación marítimo-pesqueira, facilitando o acceso xuvenil e a continuidade empresarial.",
+        "eu": "Belaunaldi-erreleboa eta itsas arrantzako prestakuntza sustatzea, gazteen sarbidea eta enpresen jarraitutasuna erraztuz.",
+        "oc": "Sostier eth relèu generacionau e era formacion maritimopesquèra, facilitant er accès juveniu e era continuïtat empresariau.",
+        "en": "Support generational renewal and maritime-fisheries training, helping young people enter the sector and businesses continue."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Apoyar el relevo generacional y la formación marítimo-pesquera facilitando el acceso de las personas jóvenes a la actividad pesquera y la continuidad de las empresas del sector."
+        }
+      ]
+    }
+  ],
+  "internalNotes": "The programme frames these commitments as advocacy in the Cortes Generales for Euskadi. Measures must be read within the stated Basque competences and any specific State or European legal limits; they do not imply direct State implementation of devolved policies."
+}

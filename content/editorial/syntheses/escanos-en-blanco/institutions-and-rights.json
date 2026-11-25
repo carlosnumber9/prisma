@@ -2,10 +2,13 @@
   "id": "escanos-en-blanco--institutions-and-rights",
   "partyId": "escanos-en-blanco",
   "topicId": "institutions-and-rights",
-  "revision": 1,
-  "reviewStatus": "partial",
-  "reviewedAt": "2026-11-22T11:45:02.511Z",
-  "sourceIds": ["escanos-en-blanco-2026-b174ec60857e"],
+  "revision": 2,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": [
+    "escanos-en-blanco-2026-cce3e392c3de",
+    "escanos-en-blanco-2026-ae753a669421"
+  ],
   "points": [
     {
       "id": "escanos-en-blanco-institutions-and-rights-vacant-seats",
@@ -28,12 +31,162 @@
       "status": "approved",
       "citations": [
         {
-          "sourceId": "escanos-en-blanco-2026-b174ec60857e",
+          "sourceId": "escanos-en-blanco-2026-cce3e392c3de",
           "segmentId": "single-point-programme",
           "quote": "No tomaremos posesión del cargo."
         }
       ],
       "internalNotes": "The live programme has no newly dated 2026 edition. Article 6 of the official statutes adopts the same single-point programme for every electoral process."
+    },
+    {
+      "id": "escanos-en-blanco-institutions-and-rights-no-public-funding",
+      "title": {
+        "es": "Renuncia a remuneraciones y subvenciones",
+        "ca": "Renúncia a remuneracions i subvencions",
+        "gl": "Renuncia a remuneracións e subvencións",
+        "eu": "Ordainsariei eta dirulaguntzei uko egitea",
+        "oc": "Renóncia a remuneracions e subvencions",
+        "en": "Refuse remuneration and public subsidies"
+      },
+      "text": {
+        "es": "No percibir sueldos, dietas ni complementos al no ejercer el cargo; el partido no solicitará ni aceptará subvenciones públicas, incluidas las de escaños, votos y propaganda electoral.",
+        "ca": "No percebre sous, dietes ni complements en no exercir el càrrec; el partit no sol·licitarà ni acceptarà subvencions públiques, incloses les d’escons, vots i propaganda electoral.",
+        "gl": "Non percibir soldos, axudas de custo nin complementos ao non exercer o cargo; o partido non solicitará nin aceptará subvencións públicas, incluídas as de escanos, votos e propaganda electoral.",
+        "eu": "Karguan ez aritzeagatik soldatarik, dietarik edo osagarririk ez jasotzea; alderdiak ez du dirulaguntza publikorik eskatuko edo onartuko, eserlekuengatik, botoengatik eta hauteskunde propagandagatik ematen direnak barne.",
+        "oc": "Non percéber salaris, dietes ne complements en non exercir eth cargue; eth partit non sollicitarà ne acceptarà subvencions publiques, includides es d’escòns, vòts e propaganda electorau.",
+        "en": "Receive no salary, expenses or supplements because elected representatives will not exercise the office; the party will neither request nor accept public subsidies, including those for seats, votes and electoral mailings."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "escanos-en-blanco-2026-cce3e392c3de",
+          "segmentId": "single-point-programme",
+          "quote": "Al no ejercer como tales, no tendrán derecho a ningún tipo de remuneración económica en forma de sueldo, dietas o complementos."
+        },
+        {
+          "sourceId": "escanos-en-blanco-2026-cce3e392c3de",
+          "segmentId": "single-point-programme",
+          "quote": "Asimismo, el partido Escaños en Blanco ni solicitará ni aceptará subvenciones públicas (en particular las adjudicables por escaños, votos y envío de propaganda electoral)"
+        }
+      ]
+    },
+    {
+      "id": "escanos-en-blanco-institutions-and-rights-dissolution",
+      "title": {
+        "es": "Disolución cuando el voto en blanco deje escaños vacíos",
+        "ca": "Dissolució quan el vot en blanc deixi escons buits",
+        "gl": "Disolución cando o voto en branco deixe escanos baleiros",
+        "eu": "Boto zuriak eserleku hutsak dakartzanean desegitea",
+        "oc": "Dissolucion quan eth vòt en blanc dèishe escòns vuets",
+        "en": "Dissolve when blank votes produce vacant seats"
+      },
+      "text": {
+        "es": "Disolver el partido cuando el voto en blanco se traduzca en escaños vacíos, según el manifiesto expresamente recogido en el programa.",
+        "ca": "Dissoldre el partit quan el vot en blanc es tradueixi en escons buits, segons el manifest expressament recollit en el programa.",
+        "gl": "Disolver o partido cando o voto en branco se traduza en escanos baleiros, segundo o manifesto expresamente recollido no programa.",
+        "eu": "Alderdia desegitea boto zuriak eserleku huts bihurtzen direnean, programak berariaz jasotako manifestuaren arabera.",
+        "oc": "Dissòlver eth partit quan eth vòt en blanc se traduïsque en escòns vuets, segontes eth manifèst recuelhut exprèssament en programa.",
+        "en": "Dissolve the party when blank votes translate into vacant seats, as stated in the manifesto expressly referenced by the programme."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "escanos-en-blanco-2026-cce3e392c3de",
+          "segmentId": "single-point-programme",
+          "quote": "La fundamentación ideológica está expresada en nuestro Manifiesto, que recoge la propia disolución del partido cuando el voto en blanco se traduzca en escaños vacíos."
+        }
+      ]
+    },
+    {
+      "id": "escanos-en-blanco-institutions-and-rights-public-debate",
+      "title": {
+        "es": "Visibilizar el descontento y abrir debate público",
+        "ca": "Visibilitzar el descontentament i obrir debat públic",
+        "gl": "Visibilizar o descontento e abrir debate público",
+        "eu": "Desadostasuna erakustea eta eztabaida publikoa irekitzea",
+        "oc": "Visibilizar eth maucontentament e daurir debat public",
+        "en": "Make discontent visible and promote public debate"
+      },
+      "text": {
+        "es": "Hacer inequívocamente visible el descontento ciudadano con una clase política por la que no se sienten representados y captar la atención de medios y sociedad mediante la acción democrática de dejar escaños vacíos para generar debate público sobre los déficits de representación.",
+        "ca": "Fer inequívocament visible el descontentament ciutadà amb una classe política per la qual no se senten representats i captar l’atenció de mitjans i societat mitjançant l’acció democràtica de deixar escons buits per generar debat públic sobre els dèficits de representació.",
+        "gl": "Facer inequivocamente visible o descontento cidadán cunha clase política pola que non se senten representados e captar a atención de medios e sociedade mediante a acción democrática de deixar escanos baleiros para xerar debate público sobre os déficits de representación.",
+        "eu": "Herritarrek beren burua ordezkatuta sentitzen ez duten klase politikoarekiko desadostasuna zalantzarik gabe erakustea eta hedabideen eta gizartearen arreta erakartzea, eserlekuak hutsik uzteko ekintza demokratikoaren bidez, ordezkaritza gabeziei buruzko eztabaida publikoa sortzeko.",
+        "oc": "Hèr inequivòcament visible eth maucontentament ciutadan damb ua classa politica pera quau non se senten representadi e captar era atencion des mejans e dera societat mejançant era accion democratica de deishar escòns vuets entà generar debat public sus es deficits de representacion.",
+        "en": "Make citizens’ dissatisfaction with politicians by whom they do not feel represented unmistakably visible and attract media and public attention through the democratic action of leaving seats vacant, generating public debate about shortcomings in representation."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "escanos-en-blanco-2026-ae753a669421",
+          "segmentId": "objectives",
+          "quote": "Hacer visible, de manera inequívoca, el descontento de una parte importante de la ciudadanía con una clase política por la cual no se siente representada"
+        },
+        {
+          "sourceId": "escanos-en-blanco-2026-ae753a669421",
+          "segmentId": "objectives",
+          "quote": "generar un debate público centrado en los déficits de nuestro sistema de representación"
+        }
+      ]
+    },
+    {
+      "id": "escanos-en-blanco-institutions-and-rights-participation",
+      "title": {
+        "es": "Participación más allá de las elecciones",
+        "ca": "Participació més enllà de les eleccions",
+        "gl": "Participación máis alá das eleccións",
+        "eu": "Hauteskundeez haragoko parte hartzea",
+        "oc": "Participacion ath delà des eleccions",
+        "en": "Participation beyond elections"
+      },
+      "text": {
+        "es": "Presionar a partidos y clase política para actuar con más ética y respeto y promover iniciativas de gobierno y legislativas que fomenten la participación ciudadana más allá de las elecciones cada cuatro años.",
+        "ca": "Pressionar partits i classe política per actuar amb més ètica i respecte i promoure iniciatives de govern i legislatives que fomentin la participació ciutadana més enllà de les eleccions cada quatre anys.",
+        "gl": "Presionar partidos e clase política para actuar con máis ética e respecto e promover iniciativas de goberno e lexislativas que fomenten a participación cidadá máis alá das eleccións cada catro anos.",
+        "eu": "Alderdiei eta politikariei presioa egitea etika eta errespetu handiagoz jardun dezaten eta lau urtean behingo hauteskundeez harago herritarren parte hartzea sustatzen duten gobernu eta legegintza ekimenak bultza ditzaten.",
+        "oc": "Pressionar partits e classa politica entà actuar damb mès etica e respècte e promòir iniciatives de govèrn e legislatives que fomenten era participacion ciutadana ath delà des eleccions cada quate ans.",
+        "en": "Pressure parties and politicians to act with greater ethics and respect and promote government and legislative initiatives fostering citizen participation beyond elections held every four years."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "escanos-en-blanco-2026-ae753a669421",
+          "segmentId": "objectives",
+          "quote": "promoviendo iniciativas de gobierno y legislativas que fomenten la participación de los ciudadanos más allá de los comicios que se celebran cada cuatro años."
+        }
+      ]
+    },
+    {
+      "id": "escanos-en-blanco-institutions-and-rights-electoral-law",
+      "title": {
+        "es": "Reformar el voto en blanco para dejar escaños vacíos",
+        "ca": "Reformar el vot en blanc per deixar escons buits",
+        "gl": "Reformar o voto en branco para deixar escanos baleiros",
+        "eu": "Boto zuria erreformatzea eserlekuak hutsik uzteko",
+        "oc": "Reformar eth vòt en blanc entà deishar escòns vuets",
+        "en": "Reform blank voting to leave seats vacant"
+      },
+      "text": {
+        "es": "Modificar la ley electoral para reconocer un voto específico de electores demócratas descontentos con sus representantes que no encuentran una candidatura satisfactoria, computado a todos los efectos como una candidatura más y traducido en escaños vacíos si obtiene representación; apostar decididamente por que el voto en blanco reformulado cumpla esa función.",
+        "ca": "Modificar la llei electoral per reconèixer un vot específic d’electors demòcrates descontents amb els seus representants que no troben una candidatura satisfactòria, computat a tots els efectes com una candidatura més i traduït en escons buits si obté representació; apostar decididament perquè el vot en blanc reformulat compleixi aquesta funció.",
+        "gl": "Modificar a lei electoral para recoñecer un voto específico de electores demócratas descontentos cos seus representantes que non atopan unha candidatura satisfactoria, computado para todos os efectos como unha candidatura máis e traducido en escanos baleiros se obtén representación; apostar decididamente por que o voto en branco reformulado cumpra esa función.",
+        "eu": "Hauteskunde legea aldatzea, beren ordezkariekin desadostasunagatik hautagaitza egokirik aurkitzen ez duten hautesle demokratentzako boto espezifikoa aitortzeko, ondorio guztietarako beste hautagaitza bat bezala zenbatuz eta ordezkaritza lortuz gero eserleku huts bihurtuz; eginkizun hori boto zuri berrituak betetzearen alde irmo egitea.",
+        "oc": "Modificar era lei electorau entà reconéisher un vòt especific d’electors democrates maucontents damb es sòns representants que non tròben ua candidatura satisfasenta, comptat a toti es efèctes coma ua candidatura mès e traduït en escòns vuets se obten representacion; apostar decididament perquè eth vòt en blanc reformulat complisque aguesta foncion.",
+        "en": "Amend electoral law to recognise a dedicated vote for democratic electors dissatisfied with their representatives who find no satisfactory candidature, counted for all purposes as another candidature and producing vacant seats if it wins representation; firmly favour a reformulated blank vote fulfilling this role."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "escanos-en-blanco-2026-ae753a669421",
+          "segmentId": "electoral-reform",
+          "quote": "Este voto debería ser tenido en cuenta a todos los efectos como el de una candidatura más y, caso de conseguir alguna representación, ésta se materializará en forma de escaños vacíos."
+        },
+        {
+          "sourceId": "escanos-en-blanco-2026-ae753a669421",
+          "segmentId": "electoral-reform",
+          "quote": "Escaños en Blanco apuesta de manera decidida porque sea el voto en blanco el que, tras una conveniente reformulación, termine desempeñando esa función"
+        }
+      ]
     }
   ]
 }

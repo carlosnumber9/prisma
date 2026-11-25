@@ -1,0 +1,16 @@
+{
+  "sourceId": "escanos-en-blanco-2026-ae753a669421",
+  "sourceSha256": "ae753a669421e4dfb905f2a8b109e6bf86ca74155221aa9bcfbd7f760d48ab92",
+  "segments": [
+    {
+      "id": "objectives",
+      "section": "Con la puesta en marcha de esta iniciativa, pretendemos:",
+      "text": "Hacer visible, de manera inequívoca, el descontento de una parte importante de la ciudadanía con una clase política por la cual no se siente representada\n\ngenerar un debate público centrado en los déficits de nuestro sistema de representación\n\npromoviendo iniciativas de gobierno y legislativas que fomenten la participación de los ciudadanos más allá de los comicios que se celebran cada cuatro años."
+    },
+    {
+      "id": "electoral-reform",
+      "section": "El final de este proceso",
+      "text": "Escaños en Blanco apuesta de manera decidida porque sea el voto en blanco el que, tras una conveniente reformulación, termine desempeñando esa función\n\nEste voto debería ser tenido en cuenta a todos los efectos como el de una candidatura más y, caso de conseguir alguna representación, ésta se materializará en forma de escaños vacíos."
+    }
+  ]
+}

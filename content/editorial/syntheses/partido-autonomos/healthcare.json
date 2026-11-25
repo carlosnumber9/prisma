@@ -1,0 +1,146 @@
+{
+  "id": "partido-autonomos--healthcare",
+  "partyId": "partido-autonomos",
+  "topicId": "healthcare",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-healthcare-national-health-card",
+      "title": {
+        "es": "Tarjeta e historia clínica únicas",
+        "ca": "Targeta i història clínica úniques",
+        "gl": "Tarxeta e historia clínica únicas",
+        "eu": "Osasun txartel eta historia bakarrak",
+        "oc": "Carta e istòria clinica uniques",
+        "en": "Single health card and clinical record"
+      },
+      "text": {
+        "es": "Implantar historia clínica digital y tarjeta sanitaria única interoperables en las 17 comunidades, Ceuta y Melilla para atención primaria, especialistas y recetas, sin trámites de desplazado.",
+        "ca": "Implantar història clínica digital i targeta sanitària única interoperables a les 17 comunitats, Ceuta i Melilla per a atenció primària, especialistes i receptes, sense tràmits de desplaçat.",
+        "gl": "Implantar historia clínica dixital e tarxeta sanitaria única interoperables nas 17 comunidades, Ceuta e Melilla para atención primaria, especialistas e receitas, sen trámites de desprazado.",
+        "eu": "17 autonomia erkidegoetan, Ceutan eta Melillan elkarreragingarriak diren historia kliniko digitala eta osasun txartel bakarra ezartzea lehen arretarako, espezialistetarako eta errezetetarako, lekualdatuen izapiderik gabe.",
+        "oc": "Implantar istòria clinica digitau e carta sanitària unica interoperables enes 17 comunitats, Ceuta e Melilla entà atencion primària, especialistes e recèptes, sense tràmits de desplaçat.",
+        "en": "Introduce an interoperable digital clinical record and single health card across all 17 autonomous communities, Ceuta and Melilla for primary care, specialists and prescriptions without temporary-patient paperwork."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-10",
+          "quote": "Tarjeta Sanitaria Única interoperable en toda España"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-healthcare-health-expense-deduction",
+      "title": {
+        "es": "Deducción de gastos sanitarios",
+        "ca": "Deducció de despeses sanitàries",
+        "gl": "Dedución de gastos sanitarios",
+        "eu": "Osasun gastuen kenkaria",
+        "oc": "Deduccion de despenes sanitàries",
+        "en": "Health-expense tax deduction"
+      },
+      "text": {
+        "es": "Establecer una deducción estatal del 20 % en la cuota del IRPF por gastos sanitarios necesarios no cubiertos por la cartera pública básica: salud bucodental, óptica, audífonos y prótesis ortopédicas, con factura médica.",
+        "ca": "Establir una deducció estatal del 20 % en la quota de l’IRPF per despeses sanitàries necessàries no cobertes per la cartera pública bàsica: salut bucodental, òptica, audiòfons i pròtesis ortopèdiques, amb factura mèdica.",
+        "gl": "Establecer unha dedución estatal do 20 % na cota do IRPF por gastos sanitarios necesarios non cubertos pola carteira pública básica: saúde bucodental, óptica, audiófonos e próteses ortopédicas, con factura médica.",
+        "eu": "Estatuak % 20ko kenkaria ezartzea PFEZ kuotan, oinarrizko zerbitzu publikoek estaltzen ez dituzten beharrezko osasun gastuengatik, mediku fakturarekin: aho-hortzetako osasuna, optika, audifonoak eta protesi ortopedikoak.",
+        "oc": "Establir ua deduccion estatau deth 20 % ena quòta der IRPF per despenes sanitàries de besonh non caperades pera cartèra publica basica: salut bucodentau, optica, audiòfons e protèsis ortopediques, damb factura medica.",
+        "en": "Introduce a national deduction of 20% of necessary health expenses not covered by the basic public package from personal income-tax liability, against a medical invoice: dental care, optical care, hearing aids and orthopaedic prostheses."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Deducción del 20 % en IRPF por gafas, audífonos, ortodoncia y prótesis"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-healthcare-care-home-health-staff",
+      "title": {
+        "es": "Sanidad obligatoria en residencias",
+        "ca": "Sanitat obligatòria en residències",
+        "gl": "Sanidade obrigatoria en residencias",
+        "eu": "Egoitzetako nahitaezko osasun langileak",
+        "oc": "Sanitat obligatòria en residéncies",
+        "en": "Mandatory healthcare in care homes"
+      },
+      "text": {
+        "es": "Exigir ratios mínimos de personal sanitario y equipos de primera intervención en residencias públicas y privadas, con inspecciones sin aviso y financiación pública condicionada al cumplimiento de ratios mediante conciertos auditados.",
+        "ca": "Exigir ràtios mínimes de personal sanitari i equips de primera intervenció en residències públiques i privades, amb inspeccions sense avís i finançament públic condicionat al compliment de ràtios mitjançant concerts auditats.",
+        "gl": "Esixir ratios mínimas de persoal sanitario e equipos de primeira intervención en residencias públicas e privadas, con inspeccións sen aviso e financiamento público condicionado ao cumprimento de ratios mediante concertos auditados.",
+        "eu": "Egoitza publiko eta pribatuetan osasun langileen gutxieneko ratioak eta lehen esku hartzerako ekipamendua eskatzea, abisurik gabeko ikuskapenekin eta hitzarmen auditatuen bidez finantzaketa publikoa ratioak betetzeari lotuz.",
+        "oc": "Exigir ratios minimes de personau sanitari e equips de prumèra intervencion en residéncies publiques e privades, damb inspeccions sense avís e finançament public condicionat ath compliment de ratios mejançant concèrts auditadi.",
+        "en": "Require minimum healthcare staffing ratios and first-response equipment in public and private care homes, with unannounced inspections and audited service agreements making public funding conditional on compliance."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-11",
+          "quote": "Dotación obligatoria de enfermería y urgencias en residencias de mayores"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-healthcare-gambling-advertising",
+      "title": {
+        "es": "Prohibir la publicidad del juego",
+        "ca": "Prohibir la publicitat del joc",
+        "gl": "Prohibir a publicidade do xogo",
+        "eu": "Joko publizitatea debekatzea",
+        "oc": "Proïbir era publicitat deth jòc",
+        "en": "Ban gambling advertising"
+      },
+      "text": {
+        "es": "Prohibir totalmente la publicidad del juego y apuestas deportivas online, como la del tabaco, en medios audiovisuales, redes sociales y patrocinios deportivos para prevenir la ludopatía juvenil.",
+        "ca": "Prohibir totalment la publicitat del joc i apostes esportives en línia, com la del tabac, en mitjans audiovisuals, xarxes socials i patrocinis esportius per prevenir la ludopatia juvenil.",
+        "gl": "Prohibir totalmente a publicidade do xogo e apostas deportivas en liña, como a do tabaco, en medios audiovisuais, redes sociais e patrocinios deportivos para previr a ludopatía xuvenil.",
+        "eu": "Jokoaren eta lineako kirol apustuen publizitatea guztiz debekatzea, tabakoarena bezala, ikus-entzunezko hedabideetan, sare sozialetan eta kirol babesletzetan, gazteen ludopatia prebenitzeko.",
+        "oc": "Proïbir totaument era publicitat deth jòc e es apòstes esportives en linha, coma era deth tabac, en mejans audiovisuaus, hilats sociaus e patrocinis esportius entà previer era ludopatia juvenila.",
+        "en": "Completely ban gambling and online sports-betting advertising, as with tobacco, across audiovisual media, social networks and sports sponsorships to prevent youth gambling addiction."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-13",
+          "quote": "Prohibición total de publicidad de casas de apuestas y juego online"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-healthcare-inclusive-sport",
+      "title": {
+        "es": "Apoyo al deporte inclusivo y de base",
+        "ca": "Suport a l’esport inclusiu i de base",
+        "gl": "Apoio ao deporte inclusivo e de base",
+        "eu": "Oinarriko eta kirol inklusiboari laguntzea",
+        "oc": "Supòrt ar espòrt inclusiu e de basa",
+        "en": "Support grassroots and inclusive sport"
+      },
+      "text": {
+        "es": "Aumentar becas ADO y paralímpicas, bonificar fiscalmente el patrocinio deportivo de pymes y mejorar instalaciones municipales para deporte de base e inclusivo.",
+        "ca": "Augmentar beques ADO i paralímpiques, bonificar fiscalment el patrocini esportiu de pimes i millorar instal·lacions municipals per a esport de base i inclusiu.",
+        "gl": "Aumentar bolsas ADO e paralímpicas, bonificar fiscalmente o patrocinio deportivo de pemes e mellorar instalacións municipais para deporte de base e inclusivo.",
+        "eu": "ADO eta paralinpiar bekak handitzea, ETEen kirol babesletzei zerga hobariak ematea eta oinarriko kirol eta kirol inklusiborako udal instalazioak hobetzea.",
+        "oc": "Aumentar bèques ADO e paralimpiques, bonificar fiscaument eth patrocini esportiu de pimes e melhorar installacions municipaus entà espòrt de basa e inclusiu.",
+        "en": "Increase ADO and Paralympic grants, give SMEs tax relief for sports sponsorship and improve municipal facilities for grassroots and inclusive sport."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Impulso al deporte base, inclusivo y apoyo a deportistas olímpicos"
+        }
+      ]
+    }
+  ]
+}

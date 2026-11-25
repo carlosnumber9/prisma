@@ -1,0 +1,426 @@
+{
+  "id": "eaj-pnv--pensions-and-social-protection",
+  "partyId": "eaj-pnv",
+  "topicId": "pensions-and-social-protection",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:32:02Z",
+  "sourceIds": ["eaj-pnv-2026-5af7a5b6f67c"],
+  "points": [
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-self-employed-cessation",
+      "title": {
+        "es": "Protección por cese de actividad",
+        "ca": "Protecció per cessament d’activitat",
+        "gl": "Protección por cesamento de actividade",
+        "eu": "Jarduera uzteagatiko babesa",
+        "oc": "Proteccion per cessament d’activitat",
+        "en": "Protection when self-employment ends"
+      },
+      "text": {
+        "es": "Aproximar progresivamente la protección por cese de actividad al desempleo, simplificando el acceso ante cese involuntario; permitir compatibilidad temporal con un nuevo proyecto empresarial.",
+        "ca": "Aproximar progressivament la protecció per cessament d’activitat a l’atur, simplificant l’accés davant cessament involuntari; permetre compatibilitat temporal amb un nou projecte empresarial.",
+        "gl": "Aproximar progresivamente a protección por cesamento de actividade ao desemprego, simplificando o acceso ante cesamento involuntario; permitir compatibilidade temporal cun novo proxecto empresarial.",
+        "eu": "Jarduera uzteagatiko babesa pixkanaka langabezia-prestaziora hurbiltzea, nahi gabeko uztean sarbidea erraztuz; enpresa-proiektu berri batekin aldi baterako bateragarritasuna onartzea.",
+        "oc": "Apropar progressivament era proteccion per cessament d’activitat ath caumatge, simplificant er accès deuant cessament involontari; perméter compatibilitat temporau damb un nau projècte empresariau.",
+        "en": "Progressively bring cessation-of-activity protection closer to unemployment benefit, simplifying access after involuntary closure; allow temporary compatibility with starting a new business."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-15",
+          "quote": "Mejorar la protección de las personas autónomas cuando cesa su actividad, aproximándola progresivamente a la prestación por desempleo, simplificando los requisitos y facilitando su acceso cuando exista un cese involuntario."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-15",
+          "quote": "Permitir la compatibilidad temporal de la prestación por cese de actividad con el inicio de un nuevo proyecto empresarial, favoreciendo que las personas autónomas puedan volver a emprender."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-sea-workers-protection",
+      "title": {
+        "es": "Protección de trabajadores del mar",
+        "ca": "Protecció de treballadors del mar",
+        "gl": "Protección de traballadores do mar",
+        "eu": "Itsas langileen babesa",
+        "oc": "Proteccion des trabalhadors deth mar",
+        "en": "Protection for maritime workers"
+      },
+      "text": {
+        "es": "Mejorar la protección social del trabajo marítimo, con coeficientes reductores de jubilación para autónomos de pesca y comercialización y medidas específicas para mujeres del sector.",
+        "ca": "Millorar la protecció social del treball marítim, amb coeficients reductors de jubilació per a autònoms de pesca i comercialització i mesures específiques per a dones del sector.",
+        "gl": "Mellorar a protección social do traballo marítimo, con coeficientes redutores de xubilación para autónomos de pesca e comercialización e medidas específicas para mulleres do sector.",
+        "eu": "Itsas lanaren gizarte-babesa hobetzea, arrantzako eta merkaturatzeko autonomoentzako erretiro-koefiziente murriztaileekin eta sektoreko emakumeentzako neurri bereziekin.",
+        "oc": "Melhorar era proteccion sociau deth trabalh maritim, damb coeficients reductors de jubilacion entà autonòms de pesca e comercializacion e mesures especifiques entà hemnes deth sector.",
+        "en": "Improve maritime workers’ social protection, including retirement-reduction coefficients for self-employed fishing and marketing workers and specific measures for women in the sector."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-18",
+          "quote": "Mejorar la protección social de las personas trabajadoras del mar, incluyendo el reconocimiento de coeficientes reductores de jubilación para las personas autónomas de la pesca y la comercialización, y medidas específicas para las mujeres del sector."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-violence-victim-benefits",
+      "title": {
+        "es": "Ayudas e indemnizaciones por violencia machista",
+        "ca": "Ajuts i indemnitzacions per violència masclista",
+        "gl": "Axudas e indemnizacións por violencia machista",
+        "eu": "Indarkeria matxistagatiko laguntzak eta kalte-ordainak",
+        "oc": "Ajudes e indemnizacions per violéncia masclista",
+        "en": "Gender-violence benefits and compensation"
+      },
+      "text": {
+        "es": "Equiparar acceso y condiciones de ayudas estatales por violencia de género y sexual; compatibilizar indemnizaciones judiciales por violencia machista con pensiones no contributivas para que la reparación no perjudique prestaciones.",
+        "ca": "Equiparar accés i condicions d’ajuts estatals per violència de gènere i sexual; compatibilitzar indemnitzacions judicials per violència masclista amb pensions no contributives perquè la reparació no perjudiqui prestacions.",
+        "gl": "Equiparar acceso e condicións de axudas estatais por violencia de xénero e sexual; compatibilizar indemnizacións xudiciais por violencia machista con pensións non contributivas para que a reparación non prexudique prestacións.",
+        "eu": "Genero- eta sexu-indarkeriagatiko Estatuko laguntzen sarbidea eta baldintzak berdintzea; indarkeria matxistagatiko kalte-ordain judizialak kotizazio gabeko pentsioekin bateragarri egitea, erreparazioak prestazioak ez kaltetzeko.",
+        "oc": "Equiparar accès e condicions d’ajudes estataus per violéncia de genre e sexuau; compatibilizar indemnizacions judiciaus per violéncia masclista damb pensions non contributives entà qu’era reparacion non perjudique prestacions.",
+        "en": "Equalise access and conditions for State gender-violence and sexual-violence assistance; make court compensation for gender violence compatible with non-contributory pensions so reparation does not undermine benefits."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Equiparar los requisitos y condiciones de acceso a las ayudas económicas estatales para víctimas de violencia de género y de violencias sexuales, eliminando diferencias injustificadas."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-26",
+          "quote": "Asegurar la compatibilidad de las indemnizaciones judiciales por violencia machista con las pensiones no contributivas, evitando que la reparación económica perjudique el acceso a prestaciones sociales."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-pension-purchasing-power",
+      "title": {
+        "es": "Pensiones y poder adquisitivo",
+        "ca": "Pensions i poder adquisitiu",
+        "gl": "Pensións e poder adquisitivo",
+        "eu": "Pentsioak eta erosteko ahalmena",
+        "oc": "Pensions e poder crompador",
+        "en": "Pensions and purchasing power"
+      },
+      "text": {
+        "es": "Revalorizar pensiones anualmente conforme al IPC; mejorar progresivamente mínimas y no contributivas, atendiendo especialmente a menores ingresos y vulnerabilidad.",
+        "ca": "Revalorar pensions anualment segons l’IPC; millorar progressivament mínimes i no contributives, atenent especialment ingressos baixos i vulnerabilitat.",
+        "gl": "Revalorizar pensións anualmente conforme ao IPC; mellorar progresivamente mínimas e non contributivas, atendendo especialmente a baixos ingresos e vulnerabilidade.",
+        "eu": "Pentsioak urtero KPIaren arabera eguneratzea; gutxienekoak eta kotizazio gabekoak pixkanaka hobetzea, diru-sarrera txiki eta zaurgarritasunari arreta berezia emanez.",
+        "oc": "Revalorizar pensions annaument segontes er IPC; melhorar progressivament minimes e non contributives, atenent sustot ingrèssi baishi e vulnerabilitat.",
+        "en": "Revalue pensions annually with CPI; progressively improve minimum and non-contributory pensions, focusing on lower incomes and vulnerability."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Evitar que las pensiones pierdan poder adquisitivo: revalorizarlas anualmente conforme al IPC, protegiendo su poder adquisitivo frente al incremento del coste de la vida."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Mejorar progresivamente las pensiones mínimas y no contributivas, prestando especial atención a las personas con menores ingresos y en situación de vulnerabilidad."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-long-contribution-care-pensions",
+      "title": {
+        "es": "Carreras largas, cuidados y brecha de género",
+        "ca": "Carreres llargues, cures i bretxa de gènere",
+        "gl": "Carreiras longas, coidados e fenda de xénero",
+        "eu": "Ibilbide luzeak, zaintza eta genero-arrakala",
+        "oc": "Carrères longues, suenhs e diferéncia de genre",
+        "en": "Long careers, care and the gender pension gap"
+      },
+      "text": {
+        "es": "Eliminar penalizaciones de jubilación anticipada con más de 40 años cotizados y corregir las de ya jubilados. Compensar interrupciones, reducciones y lagunas por cuidar descendientes y familiares dependientes; computar cuidados familiares para acceso y cuantía. Favorecer jubilación más temprana de cuidadores no profesionales en convenio especial mediante coeficientes reductores.",
+        "ca": "Eliminar penalitzacions de jubilació anticipada amb més de 40 anys cotitzats i corregir les de ja jubilats. Compensar interrupcions, reduccions i llacunes per cuidar descendents i familiars dependents; computar cures familiars per a accés i quantia. Afavorir jubilació més primerenca de cuidadors no professionals en conveni especial mitjançant coeficients reductors.",
+        "gl": "Eliminar penalizacións de xubilación anticipada con máis de 40 anos cotizados e corrixir as de xa xubilados. Compensar interrupcións, reducións e lagoas por coidar descendentes e familiares dependentes; computar coidados familiares para acceso e contía. Favorecer xubilación máis temperá de coidadores non profesionais en convenio especial mediante coeficientes redutores.",
+        "eu": "40 urtetik gora kotizatutakoen erretiro aurreratuaren zigorrak ezabatzea eta jada erretiratutakoenak zuzentzea. Ondorengoak eta mendeko senideak zaintzeagatiko lan-etenak, murrizketak eta kotizazio-hutsuneak konpentsatzea; familia-zaintza pentsiorako sarbide eta zenbatekorako kontatzea. Hitzarmen bereziko zaintzaile ez-profesionalen erretiro-adina murriztea koefizienteen bidez.",
+        "oc": "Eliminar penalizacions de jubilacion anticipada damb mès de 40 ans cotizadi e corregir es de ja jubiladi. Compensar interrupcions, reduccions e lacunes per suenhar descendents e familhars dependents; computar suenhs familhaus entar accès e quantia. Favorir jubilacion mès lèu de suenhadors non professionaus en convengut especiau mejançant coeficients reductors.",
+        "en": "Remove early-retirement penalties after more than 40 contribution years and correct penalties for existing retirees. Compensate interruptions, reduced hours and contribution gaps from caring for descendants and dependent relatives; count family care for pension eligibility and amounts. Support retirement-age reductions for non-professional carers covered by the special Social Security agreement."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados, reconociendo las largas carreras laborales y promoviendo medidas para corregir las penalizaciones que afectan también a quienes ya están jubilados."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Reducir la brecha de género en las pensiones, compensando las interrupciones laborales, las reducciones de jornada y las lagunas de cotización derivadas del cuidado de descendientes y familiares dependientes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Asegurar el reconocimiento efectivo de los periodos dedicados a los cuidados familiares en la Seguridad Social, tanto para acceder a la jubilación como para calcular la cuantía de las pensiones."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Favorecer coeficientes reductores de la edad de jubilación para las personas cuidadoras no profesionales acogidas al convenio especial de la Seguridad Social, reconociendo el desgaste físico y emocional de los cuidados prolongados."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-pension-sustainability-complement",
+      "title": {
+        "es": "Pensiones públicas y previsión complementaria",
+        "ca": "Pensions públiques i previsió complementària",
+        "gl": "Pensións públicas e previsión complementaria",
+        "eu": "Pentsio publikoak eta aurreikuspen osagarria",
+        "oc": "Pensions publiques e prevision complementària",
+        "en": "Public and supplementary pensions"
+      },
+      "text": {
+        "es": "Reforzar financiación y acuerdos del Pacto de Toledo para pensiones públicas suficientes, sostenibles y solidarias entre generaciones; extender previsión de empleo por negociación colectiva y participación empresarial y laboral como complemento, nunca sustitución.",
+        "ca": "Reforçar finançament i acords del Pacte de Toledo per a pensions públiques suficients, sostenibles i solidàries entre generacions; estendre previsió d’ocupació per negociació col·lectiva i participació empresarial i laboral com a complement, mai substitució.",
+        "gl": "Reforzar financiamento e acordos do Pacto de Toledo para pensións públicas suficientes, sostibles e solidarias entre xeracións; estender previsión de emprego por negociación colectiva e participación empresarial e laboral como complemento, nunca substitución.",
+        "eu": "Finantzaketa eta Toledoko Ituneko akordioak indartzea pentsio publiko nahiko, jasangarri eta belaunaldiartean solidarioetarako; enpleguko aurreikuspena hedatzea negoziazio kolektiboarekin eta enpresa zein langileen parte-hartzearekin, osagarri gisa eta inoiz ez ordezko gisa.",
+        "oc": "Refortir finançament e acòrds deth Pacte de Toledo entà pensions publiques sufisentes, sostenibles e solidàries entre generacions; estener prevision d’emplec per negociacion collectiva e participacion empresariau e laborau coma complement, jamès substitucion.",
+        "en": "Strengthen funding and Toledo Pact agreements for adequate, sustainable public pensions with intergenerational solidarity; expand occupational provision through collective bargaining and employer and worker participation as a supplement, never a replacement."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Abogar por un sistema público de pensiones suficiente, sostenible y basado en la solidaridad entre generaciones, reforzando sus fuentes de financiación y promoviendo acuerdos estables en el marco del Pacto de Toledo."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Favorecer la extensión de los sistemas de previsión social de empleo, especialmente mediante la negociación colectiva y con participación de empresas y personas trabajadoras, como complemento y nunca como sustitución de las pensiones públicas."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-social-security-transfer",
+      "title": {
+        "es": "Gestión vasca de la Seguridad Social",
+        "ca": "Gestió basca de la Seguretat Social",
+        "gl": "Xestión vasca da Seguridade Social",
+        "eu": "Gizarte Segurantzaren euskal kudeaketa",
+        "oc": "Gestion basca dera Seguretat Sociau",
+        "en": "Basque Social Security management"
+      },
+      "text": {
+        "es": "Culminar la transferencia de gestión del régimen económico de la Seguridad Social conforme al Estatuto de Gernika, respetando unidad del sistema y solidaridad.",
+        "ca": "Culminar la transferència de gestió del règim econòmic de la Seguretat Social segons l’Estatut de Gernika, respectant unitat del sistema i solidaritat.",
+        "gl": "Culminar a transferencia de xestión do réxime económico da Seguridade Social conforme ao Estatuto de Gernika, respectando unidade do sistema e solidariedade.",
+        "eu": "Gizarte Segurantzaren araubide ekonomikoaren kudeaketa transferitzea amaitzea Gernikako Estatutuaren arabera, sistemaren batasuna eta elkartasuna errespetatuz.",
+        "oc": "Culminar era transferéncia de gestion deth regim economic dera Seguretat Sociau segontes er Estatut de Gernika, respectant unitat deth sistèma e solidaritat.",
+        "en": "Complete transfer of Social Security economic-regime management under the Gernika Statute, respecting the system’s unity and solidarity."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-31",
+          "quote": "Asegurar la culminación de la transferencia a Euskadi de la gestión del régimen económico de la Seguridad Social, conforme al Estatuto de Gernika, respetando el carácter unitario del sistema y el principio de solidaridad."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-care-benefits-services",
+      "title": {
+        "es": "Prestaciones y apoyos a quienes cuidan",
+        "ca": "Prestacions i suports a qui cuida",
+        "gl": "Prestacións e apoios a quen coida",
+        "eu": "Zaintzaileentzako prestazioak eta laguntzak",
+        "oc": "Prestacions e supòrts entà qui suenhe",
+        "en": "Benefits and support for carers"
+      },
+      "text": {
+        "es": "Favorecer una prestación digna para cuidadores no profesionales que dejen empleo o reduzcan jornada por familiares dependientes, tomando como referencia salario mínimo e intensidad. Compatibilizar prestaciones y servicios, financiar apoyo y respiro; promover Fondo Personal para Cuidados en la Comunidad según necesidades y competencias vascas.",
+        "ca": "Afavorir una prestació digna per a cuidadors no professionals que deixin feina o redueixin jornada per familiars dependents, prenent com a referència salari mínim i intensitat. Compatibilitzar prestacions i serveis, finançar suport i respir; promoure Fons Personal per a Cures en la Comunitat segons necessitats i competències basques.",
+        "gl": "Favorecer unha prestación digna para coidadores non profesionais que deixen emprego ou reduzan xornada por familiares dependentes, tomando como referencia salario mínimo e intensidade. Compatibilizar prestacións e servizos, financiar apoio e respiro; promover Fondo Persoal para Coidados na Comunidade segundo necesidades e competencias vascas.",
+        "eu": "Mendeko senideak zaintzeko lana utzi edo lanaldia murrizten duten zaintzaile ez-profesionalentzako prestazio duina sustatzea, gutxieneko soldata eta zaintza-intentsitatea erreferentziatzat hartuz. Prestazioak eta zerbitzuak bateratzea, laguntza eta atseden-zerbitzuak finantzatzea; Komunitateko Zaintzarako Funts Pertsonala sustatzea beharren eta euskal eskumenen arabera.",
+        "oc": "Favorir ua prestacion digna entà suenhadors non professionaus que dèishen emplec o redusisquen jornada per familhars dependents, prenent coma referéncia salari minim e intensitat. Compatibilizar prestacions e servicis, finançar supòrt e repaus; promòir Hons Personau entà Suenhs ena Comunitat segontes besonhs e competéncies basques.",
+        "en": "Support an adequate benefit for non-professional carers leaving work or reducing hours for dependent relatives, referencing minimum pay and care intensity. Combine benefits and services, fund support and respite, and promote a Personal Community Care Fund matching individual needs and Basque competences."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-33",
+          "quote": "Favorecer una prestación económica digna para las personas cuidadoras no profesionales que hayan abandonado su actividad laboral o reducido su jornada para atender a familiares dependientes, tomando como referencia el salario mínimo y la intensidad de los cuidados."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-33",
+          "quote": "Revisar la normativa para facilitar la compatibilidad entre prestaciones económicas y servicios de apoyo a los cuidados, evitando que las familias tengan que renunciar a recursos necesarios."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-33",
+          "quote": "Reforzar los servicios de apoyo, descanso y respiro para las familias cuidadoras, mediante la colaboración y financiación de las administraciones competentes."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-33",
+          "quote": "Favorecer un Fondo Personal para Cuidados en la Comunidad, que permita combinar prestaciones, servicios y apoyos de acuerdo con las necesidades de cada persona, respetando las competencias de las instituciones vascas."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-als-law-electrodependence",
+      "title": {
+        "es": "Ley ELA y electrodependencia",
+        "ca": "Llei ELA i electrodependència",
+        "gl": "Lei ELA e electrodependencia",
+        "eu": "ELA Legea eta elektrodependentzia",
+        "oc": "Lei ELA e electrodependéncia",
+        "en": "ALS law and electricity dependence"
+      },
+      "text": {
+        "es": "Cumplir íntegramente y financiar suficientemente la Ley ELA para ELA y otros procesos irreversibles de alta complejidad. Aprobar decreto de electrodependencia para equipos vitales; impedir cortes, acceder al bono social como vulnerable severo y bonificar consumo médico imprescindible.",
+        "ca": "Complir íntegrament i finançar suficientment la Llei ELA per a ELA i altres processos irreversibles d’alta complexitat. Aprovar decret d’electrodependència per a equips vitals; impedir talls, accedir al bo social com a vulnerable sever i bonificar consum mèdic imprescindible.",
+        "gl": "Cumprir integramente e financiar suficientemente a Lei ELA para ELA e outros procesos irreversibles de alta complexidade. Aprobar decreto de electrodependencia para equipos vitais; impedir cortes, acceder ao bono social como vulnerable severo e bonificar consumo médico imprescindible.",
+        "eu": "ELA Legea osorik bete eta behar adina finantzatzea ELArako eta konplexutasun handiko beste prozesu itzulezinetarako. Elektrodependentzia-dekretua onartzea bizirauteko ekipoetarako; hornidura-eteteak eragoztea, zaurgarri larrien gizarte-bonurako sarbidea bermatzea eta ezinbesteko osasun-kontsumoa hobaritzea.",
+        "oc": "Complir integraument e finançar sufisentament era Lei ELA entà ELA e d’auti procèssi irreversibles de nauta complexitat. Aprovar decrèt d’electrodependéncia entà equips vitaus; impedir talhs, accedir ath bon sociau coma vulnerable sevèr e bonificar consum medic imprescindible.",
+        "en": "Fully implement and sufficiently fund the ALS law for ALS and other highly complex irreversible conditions. Adopt an electricity-dependence decree for life-sustaining equipment; prevent disconnection, ensure severe-vulnerability social-tariff access and discounts for essential medical electricity consumption."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-33",
+          "quote": "Asegurar el cumplimiento íntegro y la financiación suficiente de la Ley ELA, garantizando que las personas con esclerosis lateral amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible reciban las prestaciones, la atención y los apoyos reconocidos legalmente."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-33",
+          "quote": "Promover la aprobación de un Real Decreto de Electrodependencia, que reconozca las necesidades de las personas que utilizan dispositivos médicos eléctricos esenciales para su supervivencia."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-33",
+          "quote": "Asegurar la protección frente a cortes de suministro eléctrico de las personas electrodependientes, así como su acceso al bono social en la categoría de consumidor vulnerable severo y a bonificaciones por el consumo de los equipos médicos imprescindibles."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-cume-benefit",
+      "title": {
+        "es": "Prestación por cuidado de menores enfermos",
+        "ca": "Prestació per cura de menors malalts",
+        "gl": "Prestación por coidado de menores enfermos",
+        "eu": "Adingabe gaixoak zaintzeko prestazioa",
+        "oc": "Prestacion per suenhs de menors malauts",
+        "en": "Benefit for caring for seriously ill children"
+      },
+      "text": {
+        "es": "Evaluar anualmente CUME para menores con cáncer u otras enfermedades graves y corregir barreras de acceso; estudiar extenderla a funcionarios, compatible con permisos existentes y sin perder derechos.",
+        "ca": "Avaluar anualment CUME per a menors amb càncer o altres malalties greus i corregir barreres d’accés; estudiar estendre-la a funcionaris, compatible amb permisos existents i sense perdre drets.",
+        "gl": "Avaliar anualmente CUME para menores con cancro ou outras enfermidades graves e corrixir barreiras de acceso; estudar estendela a funcionarios, compatible con permisos existentes e sen perder dereitos.",
+        "eu": "Minbizia edo beste gaixotasun larriak dituzten adingabeentzako CUME urtero ebaluatzea eta sarbide-oztopoak zuzentzea; funtzionarioei zabaltzea aztertzea, dauden baimenekin bateragarri eta eskubiderik galdu gabe.",
+        "oc": "Avalorar annaument CUME entà menors damb càncer o d’autes malauties grèus e corregir barrères d’accès; estudiar estener-la a foncionaris, compatibla damb permisi existents e sense pèrder drets.",
+        "en": "Annually evaluate CUME for caring for children with cancer or other serious illness and remove access barriers; study extending it to civil servants, compatible with existing leave and without loss of rights."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-34",
+          "quote": "Evaluar anualmente la prestación por cuidado de menores afectados por cáncer u otras enfermedades graves (CUME), identificando y corrigiendo las dificultades que impiden a las familias acceder a ella."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-34",
+          "quote": "Estudiar la extensión de la prestación CUME al personal funcionario público, garantizando su compatibilidad con los permisos existentes y evitando la pérdida de derechos."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-asbestos-compensation",
+      "title": {
+        "es": "Reparación a víctimas del amianto",
+        "ca": "Reparació a víctimes de l’amiant",
+        "gl": "Reparación a vítimas do amianto",
+        "eu": "Amiantoaren biktimentzako erreparazioa",
+        "oc": "Reparacion as victimes der amiant",
+        "en": "Compensation for asbestos victims"
+      },
+      "text": {
+        "es": "Reformar el RD 483/2025 para incluir a todos los colectivos de la Ley 21/2022; revisar cuantías, simplificar reconocimiento y pago, asegurar presupuesto suficiente, plazos ágiles y criterios homogéneos. Modificar Ley 35/2006 para eximir de IRPF indemnizaciones del fondo.",
+        "ca": "Reformar el RD 483/2025 per incloure tots els col·lectius de la Llei 21/2022; revisar quanties, simplificar reconeixement i pagament, assegurar pressupost suficient, terminis àgils i criteris homogenis. Modificar Llei 35/2006 per eximir d’IRPF indemnitzacions del fons.",
+        "gl": "Reformar o RD 483/2025 para incluír todos os colectivos da Lei 21/2022; revisar contías, simplificar recoñecemento e pagamento, asegurar orzamento suficiente, prazos áxiles e criterios homoxéneos. Modificar Lei 35/2006 para eximir de IRPF indemnizacións do fondo.",
+        "eu": "483/2025 ED erreformatzea 21/2022 Legeko kolektibo guztiak sartzeko; zenbatekoak berrikustea, aitortza eta ordainketa erraztea, aurrekontu nahikoa, epe arinak eta irizpide homogeneoak bermatzea. 35/2006 Legea aldatzea funtsaren kalte-ordainak PFEZtik salbuesteko.",
+        "oc": "Reformar eth RD 483/2025 entà includir toti es collectius dera Lei 21/2022; revisar quanties, simplificar reconeishement e pagament, assegurar pressupòst sufisent, tèrmes agils e critèris omogenèus. Modificar Lei 35/2006 entà exemptar d’IRPF indemnizacions deth hons.",
+        "en": "Amend Royal Decree 483/2025 to include all groups covered by Law 21/2022; review compensation, simplify recognition and payment, ensure sufficient funding, swift decisions and consistent criteria. Amend Law 35/2006 to exempt the fund’s compensation from income tax."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-34",
+          "quote": "Reformar el Real Decreto 483/2025 para corregir las dificultades de acceso al fondo, garantizando su aplicación a todos los colectivos beneficiarios previstos en la Ley 21/2022."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-34",
+          "quote": "Revisar las cuantías indemnizatorias y simplificar los procedimientos de reconocimiento y pago, eliminando obstáculos administrativos que retrasan las compensaciones."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-34",
+          "quote": "Modificar la Ley 35/2006 del IRPF para declarar exentas de tributación las indemnizaciones reconocidas por el Fondo de Compensación para las Víctimas del Amianto, evitando que las personas afectadas pierdan parte de la reparación que les corresponde."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-34",
+          "quote": "Asegurar una dotación presupuestaria suficiente, plazos ágiles de resolución y criterios homogéneos, garantizando que las indemnizaciones lleguen a las víctimas y sus familias sin demoras ni desigualdades."
+        }
+      ]
+    },
+    {
+      "id": "eaj-pnv-pensions-and-social-protection-child-poverty-demographic-protection",
+      "title": {
+        "es": "Infancia y sostenibilidad de la protección social",
+        "ca": "Infància i sostenibilitat de la protecció social",
+        "gl": "Infancia e sustentabilidade da protección social",
+        "eu": "Haurrak eta gizarte-babesaren jasangarritasuna",
+        "oc": "Enfància e sostenibilitat dera proteccion sociau",
+        "en": "Children and sustainable social protection"
+      },
+      "text": {
+        "es": "Reforzar prevención y lucha contra pobreza infantil con protección adecuada a infancia y adolescencia vulnerables, respetando competencias vascas; financiar de forma suficiente y sostenible el sistema público de protección social ante envejecimiento, dependencia y necesidades de generaciones presentes y futuras; acordar respuestas demográficas estables entre administraciones con gestión cercana y respeto competencial.",
+        "ca": "Reforçar prevenció i lluita contra pobresa infantil amb protecció adequada a infància i adolescència vulnerables, respectant competències basques; finançar suficientment i sosteniblement el sistema públic de protecció social davant envelliment, dependència i necessitats de generacions presents i futures; acordar respostes demogràfiques estables entre administracions amb gestió propera i respecte competencial.",
+        "gl": "Reforzar prevención e loita contra pobreza infantil con protección adecuada á infancia e adolescencia vulnerables, respectando competencias vascas; financiar de forma suficiente e sostible o sistema público de protección social ante envellecemento, dependencia e necesidades de xeracións presentes e futuras; acordar respostas demográficas estables entre administracións con xestión próxima e respecto competencial.",
+        "eu": "Haurren pobreziaren prebentzioa eta haren aurkako borroka indartzea, egoera zaurgarrian dauden haur eta nerabeentzako babes egokiarekin eta euskal eskumenak errespetatuz; gizarte-babeseko sistema publikoa behar adina eta modu jasangarrian finantzatzea zahartzeari, mendekotasunari eta egungo zein etorkizuneko belaunaldien beharrei erantzuteko; administrazioen arteko demografia-erantzun egonkorrak adostea hurbileko kudeaketarekin eta eskumenak errespetatuz.",
+        "oc": "Refortir prevencion e luta contra praubetat infantila damb proteccion adequada ara enfància e adolescéncia vulnerables, respectant competéncies basques; finançar sufisentament e sosteniblament eth sistèma public de proteccion sociau deuant vielhiment, dependéncia e besonhs de generacions presentes e futures; acordar responses demografiques estables entre administracions damb gestion pròcha e respècte competénciau.",
+        "en": "Strengthen child-poverty prevention and action with adequate protection for vulnerable children and adolescents, respecting Basque competences; sufficiently and sustainably fund the public social-protection system for ageing, dependency and the needs of present and future generations; agree stable intergovernmental responses to demographic change with local service management and respect for competences."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-35",
+          "quote": "Reforzar las políticas de prevención y lucha contra la pobreza infantil, garantizando una protección adecuada a la infancia y la adolescencia en situación de vulnerabilidad y respetando las competencias de las instituciones vascas."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-35",
+          "quote": "Apoyar una financiación suficiente y sostenible del sistema público de protección social, que permita responder al envejecimiento de la población, la dependencia y las necesidades de las generaciones presentes y futuras."
+        },
+        {
+          "sourceId": "eaj-pnv-2026-5af7a5b6f67c",
+          "segmentId": "page-35",
+          "quote": "Favorecer acuerdos estables entre administraciones para afrontar los cambios demográficos y las nuevas necesidades sociales, garantizando el respeto a las competencias de Euskadi y una gestión cercana de los servicios públicos."
+        }
+      ]
+    }
+  ],
+  "internalNotes": "The programme frames these commitments as advocacy in the Cortes Generales for Euskadi. Measures must be read within the stated Basque competences and any specific State or European legal limits; they do not imply direct State implementation of devolved policies."
+}

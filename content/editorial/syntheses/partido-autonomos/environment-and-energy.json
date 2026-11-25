@@ -1,0 +1,151 @@
+{
+  "id": "partido-autonomos--environment-and-energy",
+  "partyId": "partido-autonomos",
+  "topicId": "environment-and-energy",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:33:43.305Z",
+  "sourceIds": ["partido-autonomos-2026-2df2537bd762"],
+  "points": [
+    {
+      "id": "partido-autonomos-environment-and-energy-electricity-vat",
+      "title": {
+        "es": "Electricidad al 10 % de IVA",
+        "ca": "Electricitat al 10 % d’IVA",
+        "gl": "Electricidade ao 10 % de IVE",
+        "eu": "Argindarraren BEZa % 10era",
+        "oc": "Electricitat ath 10 % d’IVA",
+        "en": "10% electricity VAT"
+      },
+      "text": {
+        "es": "Reducir permanentemente al 10 % el IVA eléctrico para hogares y pequeños negocios con potencia inferior a 15 kW y permitir dos cambios gratuitos de potencia contratada al año para adaptarla a la estacionalidad.",
+        "ca": "Reduir permanentment al 10 % l’IVA elèctric per a llars i petits negocis amb potència inferior a 15 kW i permetre dos canvis gratuïts de potència contractada l’any per adaptar-la a l’estacionalitat.",
+        "gl": "Reducir permanentemente ao 10 % o IVE eléctrico para fogares e pequenos negocios con potencia inferior a 15 kW e permitir dous cambios gratuítos de potencia contratada ao ano para adaptala á estacionalidade.",
+        "eu": "15 kW-tik beherako potentzia duten etxe eta negozio txikientzako argindarraren BEZa betiko % 10era jaistea eta kontratatutako potentzia urtean bitan doan aldatzea ahalbidetzea, urtaroen araberako beharretara egokitzeko.",
+        "oc": "Redusir permanentament ath 10 % er IVA electric entà larèrs e petits negòcis damb poténcia inferiora a 15 kW e perméter dus cambiaments gratuïts de poténcia contractada ar an entà adaptar-la ara estacionalitat.",
+        "en": "Permanently reduce electricity VAT to 10% for homes and small businesses with contracted capacity below 15 kW and allow two free capacity changes a year to match seasonal needs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-3",
+          "quote": "Rebaja del IVA eléctrico al 10 % y optimización de potencia para pymes"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-environment-and-energy-professional-diesel",
+      "title": {
+        "es": "Devolución del gasóleo profesional",
+        "ca": "Devolució del gasoil professional",
+        "gl": "Devolución do gasóleo profesional",
+        "eu": "Lanbide gasolioaren itzulketa",
+        "oc": "Devolucion deth gasòli professionau",
+        "en": "Professional diesel refunds"
+      },
+      "text": {
+        "es": "Ampliar y devolver mensualmente de forma automática el impuesto sobre hidrocarburos para transportistas autónomos, taxistas, VTC y maquinaria agrícola, vinculando el gasóleo profesional a índices objetivos de costes energéticos.",
+        "ca": "Ampliar i retornar mensualment de manera automàtica l’impost sobre hidrocarburs per a transportistes autònoms, taxistes, VTC i maquinària agrícola, vinculant el gasoil professional a índexs objectius de costos energètics.",
+        "gl": "Ampliar e devolver mensualmente de forma automática o imposto sobre hidrocarburos para transportistas autónomos, taxistas, VTC e maquinaria agrícola, vinculando o gasóleo profesional a índices obxectivos de custos enerxéticos.",
+        "eu": "Garraiolari autonomoei, taxilariei, gidaridun alokairuko ibilgailuei eta nekazaritza makineriari hidrokarburoen zergaren itzulketa handitu eta hilero automatikoki egitea, lanbide gasolioa energia kostuen indize objektiboei lotuz.",
+        "oc": "Alargar e retornar mensuaument de manèra automatica er impòst sus idrocarburs entà transportaires autonòms, taxistes, VTC e maquinària agricòla, en tot ligar eth gasòli professionau a indèxs objectius de còsti energetics.",
+        "en": "Expand automatic monthly hydrocarbon-tax refunds for self-employed hauliers, taxi drivers, private-hire vehicles and agricultural machinery, linking professional diesel relief to objective energy-cost indices."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-5",
+          "quote": "Bonificación profesional del gasóleo y energía para transportistas"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-environment-and-energy-water-and-floods",
+      "title": {
+        "es": "Infraestructuras hídricas y prevención de inundaciones",
+        "ca": "Infraestructures hídriques i prevenció d’inundacions",
+        "gl": "Infraestruturas hídricas e prevención de inundacións",
+        "eu": "Ur azpiegiturak eta uholdeen prebentzioa",
+        "oc": "Infraestructures idriques e prevencion d’inondacions",
+        "en": "Water infrastructure and flood prevention"
+      },
+      "text": {
+        "es": "Priorizar interconexiones de cuencas, balsas, desaladoras eficientes y regadíos modernizados para garantizar agua y apoyar la extinción aérea de incendios con fondos europeos; paralizar nuevas recalificaciones en cauces y zonas inundables acreditadas, ejecutar drenaje y encauzamiento preventivos, actualizar mapas de riesgo y vincular licencias a informes de seguridad hídrica.",
+        "ca": "Prioritzar interconnexions de conques, basses, dessaladores eficients i regadius modernitzats per garantir aigua i donar suport a l’extinció aèria d’incendis amb fons europeus; paralitzar noves requalificacions en lleres i zones inundables acreditades, executar drenatge i canalització preventius, actualitzar mapes de risc i vincular llicències a informes de seguretat hídrica.",
+        "gl": "Priorizar interconexións de concas, balsas, desaladoras eficientes e regadíos modernizados para garantir auga e apoiar a extinción aérea de incendios con fondos europeos; paralizar novas recualificacións en leitos e zonas inundables acreditadas, executar drenaxe e canalización preventivas, actualizar mapas de risco e vincular licenzas a informes de seguridade hídrica.",
+        "eu": "Arroen arteko loturak, ur biltegiak, gatzgabetze planta eraginkorrak eta ureztatze modernizatua lehenestea, ura eta suteen aireko itzalketarako laguntza bermatzeko Europako funtsekin; ibai ibilgu eta egiaztatutako uholde arriskuko eremuen birkalifikazio berriak geldiaraztea, prebentziozko drainatze eta bideratze lanak egitea, arrisku mapak eguneratzea eta lizentziak ur segurtasuneko txostenei lotzea.",
+        "oc": "Priorizar interconnexions de conques, basses, dessaladores eficients e regatges modernizadi entà garantir aigua e ajudar ara extincion aeriana d’incendis damb hons europèus; paralizar naues requalificacions en lits e zònes inundables acreditades, executar drenatge e canalizacion preventius, actualizar mapes de risc e ligar licéncies a rapòrts de seguretat idrica.",
+        "en": "Prioritise inter-basin links, reservoirs, energy-efficient desalination and irrigation upgrades using European funds to secure water and support aerial firefighting; halt new land rezoning in watercourses and proven flood-risk areas, carry out preventive drainage and channel works, update risk maps and make permits conditional on water-safety reports."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-13",
+          "quote": "Plan Hidrológico Nacional y modernización de infraestructuras hídricas"
+        },
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-13",
+          "quote": "Prohibición estricta de construir en cauces y zonas inundables"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-environment-and-energy-animal-protection",
+      "title": {
+        "es": "Protección animal y mundo rural",
+        "ca": "Protecció animal i món rural",
+        "gl": "Protección animal e mundo rural",
+        "eu": "Animalien babesa eta landa eremua",
+        "oc": "Proteccion animau e mon rurau",
+        "en": "Animal protection and rural life"
+      },
+      "text": {
+        "es": "Reforzar la protección penal frente al maltrato y abandono de animales domésticos y apoyar a protectoras para esterilización y vacunación, diferenciando mascotas urbanas de animales de trabajo, caza y ganadería mediante normas consensuadas con veterinarios y sector primario.",
+        "ca": "Reforçar la protecció penal contra el maltractament i abandonament d’animals domèstics i donar suport a protectores per a esterilització i vacunació, diferenciant mascotes urbanes d’animals de treball, caça i ramaderia amb normes consensuades amb veterinaris i sector primari.",
+        "gl": "Reforzar a protección penal fronte ao maltrato e abandono de animais domésticos e apoiar protectoras para esterilización e vacinación, diferenciando mascotas urbanas de animais de traballo, caza e gandaría mediante normas consensuadas con veterinarios e sector primario.",
+        "eu": "Etxeko animalien tratu txarren eta abandonuaren aurkako zigor babesa indartzea eta babes elkarteei esterilizatzeko eta txertatzeko laguntzea, hiriko maskotak laneko, ehizako eta abeltzaintzako animalietatik bereiziz albaitariekin eta lehen sektorearekin adostutako arauen bidez.",
+        "oc": "Enfortir era proteccion penau contra eth mautractament e abandonament d’animaus domestics e ajudar protectores entà esterilizacion e vacunacion, diferenciant mascòtes urbanes d’animaus de trabalh, caça e ramaderia damb normes acordades damb veterinaris e sector primari.",
+        "en": "Strengthen criminal protection against abuse and abandonment of domestic animals and support shelters with sterilisation and vaccination, distinguishing urban pets from working, hunting and farm animals through rules agreed with veterinarians and the primary sector."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-14",
+          "quote": "Ley de Protección Animal equilibrada con el mundo rural y ganadero"
+        }
+      ]
+    },
+    {
+      "id": "partido-autonomos-environment-and-energy-energy-transition",
+      "title": {
+        "es": "Renovables y transición sin cierres prematuros",
+        "ca": "Renovables i transició sense tancaments prematurs",
+        "gl": "Renovables e transición sen peches prematuros",
+        "eu": "Berriztagarriak eta goizegi ez ixtea",
+        "oc": "Renovelables e transicion sense barraments prematurs",
+        "en": "Renewables without premature closures"
+      },
+      "text": {
+        "es": "Apoyar renovables y autoconsumo industrial sin cerrar prematuramente centrales de respaldo por motivos ideológicos ni encarecer la electricidad; evitar restricciones arbitrarias en zonas de bajas emisiones que perjudiquen al comercio y dar moratorias a vehículos de reparto de autónomos.",
+        "ca": "Donar suport a renovables i autoconsum industrial sense tancar prematurament centrals de suport per motius ideològics ni encarir l’electricitat; evitar restriccions arbitràries en zones de baixes emissions que perjudiquin el comerç i donar moratòries a vehicles de repartiment d’autònoms.",
+        "gl": "Apoiar renovables e autoconsumo industrial sen pechar prematuramente centrais de respaldo por motivos ideolóxicos nin encarecer a electricidade; evitar restricións arbitrarias en zonas de baixas emisións que prexudiquen o comercio e dar moratorias a vehículos de repartición de autónomos.",
+        "eu": "Berriztagarriak eta industriako autokontsumoa babestea, arrazoi ideologikoengatik babes zentralak goizegi itxi eta argindarra garestitu gabe; merkataritzari kalte egiten dioten emisio txikiko eremuen murrizketa arbitrarioak saihestea eta autonomoen banaketa ibilgailuei moratoriak ematea.",
+        "oc": "Ajudar renovelables e autoconsum industriau sense barrar prematurament centraus de supòrt per motius ideologics ne encarir era electricitat; evitar restriccions arbitràries en zònes de baishes emissions que perjudiquen eth comèrç e dar moratòries a veïculs de repartiment d’autonòms.",
+        "en": "Support renewables and industrial self-consumption without ideologically driven premature closures of backup power stations that raise electricity prices; avoid arbitrary low-emission-zone restrictions harming local shops and grant moratoria for self-employed delivery vehicles."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "partido-autonomos-2026-2df2537bd762",
+          "segmentId": "page-15",
+          "quote": "Transición energética realista y neutralidad tecnológica para pymes"
+        }
+      ]
+    }
+  ]
+}

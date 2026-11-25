@@ -4,7 +4,9 @@ Prisma helps citizens read reviewed summaries of official programmes for Spain's
 
 ## Current portal
 
-Fourteen formations have 232 approved proposals in six languages: PP 24, PSOE 32, VOX 44, Frente Amplio 59, Podemos 24, Frente Obrero 41, and one each for EAJ-PNV, Comuns–Front Ampli, BNG, Partido Autónomos, Por un Mundo Más Justo, Escaños en Blanco, Falange Española de las JONS and Adelante Andalucía. The 56 reviewed area syntheses remain partial; 56 other areas are pending. The public catalogue is an editorial selection, not exhaustive electoral or programme coverage.
+Fourteen formations have 393 approved proposals in six languages. EAJ-PNV has 83 points covering its 225 numbered commitments and actionable introductory material; Partido Autónomos has 75 points covering its 100 numbered measures and implementation clauses; Escaños en Blanco has six points covering its published programme and linked manifesto. Their 24 area syntheses are complete for the consulted corpus, including seven reviewed empty areas for Escaños en Blanco.
+
+The six earlier selections retain PP 24, PSOE 32, VOX 44, Frente Amplio 59, Podemos 24 and Frente Obrero 41 proposals. Comuns–Front Ampli, BNG, Por un Mundo Más Justo, Falange Española de las JONS and Adelante Andalucía still have one selected point each while whole-programme incorporation continues. Overall, 53 area syntheses remain partial and 35 are pending. The catalogue is not exhaustive electoral coverage; source-version and corpus limits remain explicit.
 
 The portal provides programme/source links, stable proposal anchors, language selection and a shared province selector. Home, party directories and topic directories use 534 proclaimed Congress formation presences across 52 provinces, linking only matching programmes and approved topic content. It has no politician profiles, individual candidate directory or Senate dataset. See [portal behaviour](docs/portal.md) and [provincial data](docs/provincial-data.md).
 
