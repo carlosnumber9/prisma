@@ -1,0 +1,75 @@
+{
+  "id": "geroa-bai--environment-and-energy",
+  "partyId": "geroa-bai",
+  "topicId": "environment-and-energy",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:50:40.349Z",
+  "sourceIds": ["geroa-bai-2026-4e011dc66095", "geroa-bai-2026-b2bb6fad0ff1"],
+  "points": [
+    {
+      "id": "geroa-bai-environment-and-energy-electricity-2030",
+      "title": {
+        "es": "Resolver la posición de Navarra en la planificación eléctrica 2030",
+        "ca": "Resoldre la posició de Navarra en la planificació elèctrica 2030",
+        "gl": "Resolver a posición de Navarra na planificación eléctrica 2030",
+        "eu": "Nafarroaren tokia 2030eko plangintza elektrikoan zehaztea",
+        "oc": "Resòlver era posicion de Navarra ena planificacion electrica 2030",
+        "en": "Settle Navarre’s position in 2030 electricity planning"
+      },
+      "text": {
+        "es": "Abordar en las Cortes Generales la posición de Navarra en la planificación eléctrica 2030, pendiente de cerrar al convocarse las elecciones.",
+        "ca": "Abordar a les Corts Generals la posició de Navarra en la planificació elèctrica 2030, pendent de tancar-se en convocar-se les eleccions.",
+        "gl": "Abordar nas Cortes Xerais a posición de Navarra na planificación eléctrica 2030, pendente de pechar ao convocarse as eleccións.",
+        "eu": "Hauteskundeak deitu zirenean zehaztu gabe zegoen Nafarroaren tokia 2030eko plangintza elektrikoan jorratzea Gorte Nagusietan.",
+        "oc": "Abordar enes Corts Generaus era posicion de Navarra ena planificacion electrica 2030, pendenta de barrar-se en convocar-se es eleccions.",
+        "en": "Address in the Cortes Generales Navarre’s position in 2030 electricity planning, still unsettled when the election was called."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-12",
+          "quote": "la posición de Navarra en la planificación eléctrica 2030"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-11",
+          "quote": "Nafarroaren posizionamendua 2030 urterako planifikazio elektrikoan"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-environment-and-energy-climate",
+      "title": {
+        "es": "Reforzar las políticas frente al cambio climático",
+        "ca": "Reforçar les polítiques davant el canvi climàtic",
+        "gl": "Reforzar as políticas fronte ao cambio climático",
+        "eu": "Klima aldaketaren aurkako politikak indartzea",
+        "oc": "Reforçar es politiques deuant deth cambiament climatic",
+        "en": "Strengthen climate policies"
+      },
+      "text": {
+        "es": "Reforzar las políticas frente al cambio climático.",
+        "ca": "Reforçar les polítiques davant el canvi climàtic.",
+        "gl": "Reforzar as políticas fronte ao cambio climático.",
+        "eu": "Klima aldaketaren aurkako politikak indartzea.",
+        "oc": "Reforçar es politiques deuant deth cambiament climatic.",
+        "en": "Strengthen policies to tackle climate change."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-14",
+          "quote": "reforzar las políticas frente al cambio climático"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-14",
+          "quote": "klima aldaketaren aurrean politikak sustatzea"
+        }
+      ]
+    }
+  ]
+}

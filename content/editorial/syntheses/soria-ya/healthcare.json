@@ -1,0 +1,38 @@
+{
+  "id": "soria-ya--healthcare",
+  "partyId": "soria-ya",
+  "topicId": "healthcare",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:47:30.805Z",
+  "sourceIds": ["soria-ya-2026-18b4c4dc4875", "soria-ya-2026-042e8da39561"],
+  "points": [
+    {
+      "id": "soria-ya-healthcare-burgos-access",
+      "title": {
+        "es": "Acceso al hospital de referencia",
+        "ca": "Accés a l’hospital de referència",
+        "gl": "Acceso ao hospital de referencia",
+        "eu": "Erreferentziazko ospitalerako sarbidea",
+        "oc": "Accès ar espitau de referéncia",
+        "en": "Access to the referral hospital"
+      },
+      "text": {
+        "es": "Impulsar la autovía Soria–Burgos para una conexión rápida y segura con el hospital de referencia de Soria, situado en Burgos.",
+        "ca": "Impulsar l’autovia Sòria–Burgos per a una connexió ràpida i segura amb l’hospital de referència de Sòria, situat a Burgos.",
+        "gl": "Impulsar a autovía Soria–Burgos para unha conexión rápida e segura co hospital de referencia de Soria, situado en Burgos.",
+        "eu": "Soria–Burgos autobia bultzatzea, Soriako erreferentziazko ospitalera, Burgosen dagoenera, azkar eta segurtasunez iristeko.",
+        "oc": "Impulsar era autovia Soria–Burgos entà ua connexion rapida e segura damb er espitau de referéncia de Soria, plaçat en Burgos.",
+        "en": "Promote the Soria–Burgos motorway for fast, safe access to Soria’s referral hospital in Burgos."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "health",
+          "quote": "Autovía Soria-Burgos: infraestructura imprescindible para garantizar conexión rápida y segura con Burgos, donde se encuentra el hospital de referencia de Soria."
+        }
+      ]
+    }
+  ]
+}

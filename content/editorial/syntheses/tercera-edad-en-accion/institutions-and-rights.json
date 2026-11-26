@@ -1,0 +1,466 @@
+{
+  "id": "tercera-edad-en-accion--institutions-and-rights",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.375Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-public-transparency",
+      "title": {
+        "es": "Contratos y cuentas abiertas",
+        "ca": "Contractes i comptes oberts",
+        "gl": "Contratos e contas abertas",
+        "eu": "Kontratu eta kontu irekiak",
+        "oc": "Contractes e compdes dubèrts",
+        "en": "Open contracts and accounts"
+      },
+      "text": {
+        "es": "Publicar contratos, subvenciones, presupuestos, ejecución y declaraciones de bienes de altos cargos en formatos claros y reutilizables.",
+        "ca": "Publicar contractes, subvencions, pressupostos, execució i declaracions de béns d’alts càrrecs en formats clars i reutilitzables.",
+        "gl": "Publicar contratos, subvencións, orzamentos, execución e declaracións de bens de altos cargos en formatos claros e reutilizables.",
+        "eu": "Kontratuak, dirulaguntzak, aurrekontuak, gauzatzea eta goi kargudunen ondasun aitorpenak formatu argi eta berrerabilgarrietan argitaratzea.",
+        "oc": "Publicar contractes, subvencions, pressupòsti, execucion e declaracions de bens de nauti cargues en formats clars e reutilizables.",
+        "en": "Publish contracts, grants, budgets, execution and senior officials’ asset declarations in clear, reusable formats."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-1",
+          "quote": "Publicar contratos, subvenciones, presupuestos, ejecución y declaraciones de bienes de altos cargos en formatos claros y reutilizables."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-spending-review",
+      "title": {
+        "es": "Revisar el gasto y las duplicidades",
+        "ca": "Revisar la despesa i les duplicitats",
+        "gl": "Revisar o gasto e as duplicidades",
+        "eu": "Gastua eta bikoiztasunak berrikustea",
+        "oc": "Revisar era despensa e es duplicitats",
+        "en": "Review spending and duplication"
+      },
+      "text": {
+        "es": "Revisar periódicamente programas y organismos para detectar duplicidades y gasto ineficaz y reorientar los recursos liberados a servicios prioritarios.",
+        "ca": "Revisar periòdicament programes i organismes per detectar duplicitats i despesa ineficaç i reorientar els recursos alliberats a serveis prioritaris.",
+        "gl": "Revisar periodicamente programas e organismos para detectar duplicidades e gasto ineficaz e reorientar os recursos liberados a servizos prioritarios.",
+        "eu": "Programak eta erakundeak aldian behin berrikustea, bikoiztasunak eta gastu eraginkortasunik gabea antzemateko eta askatutako baliabideak lehentasunezko zerbitzuetara bideratzeko.",
+        "oc": "Revisar periodicament programes e organismes entà detectar duplicitats e despensa ineficaça e reorientar es recorsi liberats a servicis prioritaris.",
+        "en": "Periodically review programmes and agencies for duplication and ineffective spending, redirecting released resources to priority services."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-1",
+          "quote": "Implantar una revisión periódica de programas y organismos para identificar duplicidades y gasto ineficaz; reorientar los recursos liberados a servicios prioritarios."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-accessible-administration",
+      "title": {
+        "es": "Trámites y atención presencial",
+        "ca": "Tràmits i atenció presencial",
+        "gl": "Trámites e atención presencial",
+        "eu": "Izapideak eta aurrez aurreko arreta",
+        "oc": "Tramits e atencion presenciau",
+        "en": "Procedures and in-person assistance"
+      },
+      "text": {
+        "es": "Simplificar trámites, fijar plazos de respuesta y permitir el seguimiento del expediente, manteniendo atención presencial para quien la necesite.",
+        "ca": "Simplificar tràmits, fixar terminis de resposta i permetre el seguiment de l’expedient, mantenint atenció presencial per a qui la necessiti.",
+        "gl": "Simplificar trámites, fixar prazos de resposta e permitir o seguimento do expediente, mantendo atención presencial para quen a necesite.",
+        "eu": "Izapideak sinplifikatu, erantzuteko epeak ezarri eta espedientearen jarraipena ahalbidetzea, behar dutenentzako aurrez aurreko arreta mantenduz.",
+        "oc": "Simplificar tramits, fixar tèrmes de responsa e perméter eth seguiment der expedient, mantenguent atencion presenciau entà qui l’age de besonh.",
+        "en": "Simplify procedures, set response deadlines and enable case tracking, retaining in-person assistance for those who need it."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-1",
+          "quote": "Simplificar trámites y fijar plazos de respuesta, con seguimiento del expediente y atención presencial para quien la necesite."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-integrity",
+      "title": {
+        "es": "Auditorías y denunciantes protegidos",
+        "ca": "Auditories i denunciants protegits",
+        "gl": "Auditorías e denunciantes protexidos",
+        "eu": "Auditoriak eta salatzaile babestuak",
+        "oc": "Auditories e denonciants protegidi",
+        "en": "Audits and protected whistleblowers"
+      },
+      "text": {
+        "es": "Reforzar auditorías, canales protegidos de denuncia y controles de conflictos de interés, con garantías para denunciantes.",
+        "ca": "Reforçar auditories, canals protegits de denúncia i controls de conflictes d’interès, amb garanties per a denunciants.",
+        "gl": "Reforzar auditorías, canles protexidas de denuncia e controis de conflitos de interese, con garantías para denunciantes.",
+        "eu": "Auditoriak, salatzeko bide babestuak eta interes gatazken kontrolak indartzea, salatzaileentzako bermeekin.",
+        "oc": "Refortir auditories, canaus protegidi de denóncia e contròtles de conflictes d’interès, damb garanties entà denonciants.",
+        "en": "Strengthen audits, protected reporting channels and conflict-of-interest controls, with safeguards for whistleblowers."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-1",
+          "quote": "Reforzar auditorías, canales protegidos de denuncia y controles de conflicto de interés, con garantías para denunciantes."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-justice-victims",
+      "title": {
+        "es": "Justicia ágil y atención a víctimas",
+        "ca": "Justícia àgil i atenció a víctimes",
+        "gl": "Xustiza áxil e atención a vítimas",
+        "eu": "Justizia arina eta biktimen arreta",
+        "oc": "Justícia agila e atencion a victimes",
+        "en": "Faster justice and victim support"
+      },
+      "text": {
+        "es": "Mejorar medios y organización judicial para reducir demoras y facilitar atención a víctimas.",
+        "ca": "Millorar mitjans i organització judicial per reduir demores i facilitar atenció a víctimes.",
+        "gl": "Mellorar medios e organización xudicial para reducir demoras e facilitar atención a vítimas.",
+        "eu": "Justiziaren baliabideak eta antolaketa hobetzea, atzerapenak murriztu eta biktimen arreta errazteko.",
+        "oc": "Melhorar mejans e organizacion judiciau entà redusir demores e facilitar atencion a victimes.",
+        "en": "Improve judicial resources and organisation to reduce delays and facilitate support for victims."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Mejorar medios y organización judicial para reducir demoras y facilitar atención a víctimas."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-police-and-fraud",
+      "title": {
+        "es": "Prevención policial y estafas",
+        "ca": "Prevenció policial i estafes",
+        "gl": "Prevención policial e estafas",
+        "eu": "Polizia prebentzioa eta iruzurrak",
+        "oc": "Prevencion policiau e estafes",
+        "en": "Police prevention and fraud"
+      },
+      "text": {
+        "es": "Reforzar prevención y coordinación policial y protección frente a ciberdelitos, estafas y delitos contra mayores.",
+        "ca": "Reforçar prevenció i coordinació policial i protecció davant ciberdelictes, estafes i delictes contra gent gran.",
+        "gl": "Reforzar prevención e coordinación policial e protección fronte a ciberdelitos, estafas e delitos contra maiores.",
+        "eu": "Polizia prebentzioa eta koordinazioa eta ziberdelituen, iruzurren eta adinekoen aurkako delituen kontrako babesa indartzea.",
+        "oc": "Refortir prevencion e coordinacion policiau e proteccion deuant ciberdelictes, estafes e delictes contra majors.",
+        "en": "Strengthen police prevention and coordination and protection against cybercrime, scams and crimes against older people."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Reforzar prevención y coordinación policial y la protección frente a ciberdelitos, estafas y delitos contra personas mayores."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-rule-of-law-privacy",
+      "title": {
+        "es": "Estado de Derecho y privacidad",
+        "ca": "Estat de dret i privacitat",
+        "gl": "Estado de Dereito e privacidade",
+        "eu": "Zuzenbide estatua eta pribatutasuna",
+        "oc": "Estat de Dret e privacitat",
+        "en": "Rule of law and privacy"
+      },
+      "text": {
+        "es": "Garantizar equilibrio de poderes, seguridad jurídica y Estado de Derecho; proteger privacidad y datos personales en servicios públicos y nuevas tecnologías.",
+        "ca": "Garantir equilibri de poders, seguretat jurídica i estat de dret; protegir privacitat i dades personals en serveis públics i noves tecnologies.",
+        "gl": "Garantir equilibrio de poderes, seguridade xurídica e Estado de Dereito; protexer privacidade e datos persoais en servizos públicos e novas tecnoloxías.",
+        "eu": "Botereen oreka, segurtasun juridikoa eta zuzenbide estatua bermatzea; zerbitzu publikoetan eta teknologia berrietan pribatutasuna eta datu pertsonalak babestea.",
+        "oc": "Garantir equilibri de poders, seguretat juridica e Estat de Dret; protegir privacitat e dades personaus en servicis publics e naues tecnologies.",
+        "en": "Guarantee the balance of powers, legal certainty and rule of law; protect privacy and personal data in public services and new technologies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Garantizar el equilibrio de poderes, la seguridad jurídica y el respeto al Estado de Derecho."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Proteger privacidad y datos personales en los servicios públicos y en el uso de nuevas tecnologías."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-migration-integration",
+      "title": {
+        "es": "Migración e integración evaluable",
+        "ca": "Migració i integració avaluable",
+        "gl": "Migración e integración avaliable",
+        "eu": "Migrazioa eta integrazio ebaluagarria",
+        "oc": "Migracion e integracion avalorabla",
+        "en": "Migration and accountable integration"
+      },
+      "text": {
+        "es": "Combatir redes de tráfico y explotación de personas cooperando con países de origen y tránsito y la UE; coordinar acogida e integración mediante idioma, formación, acceso al empleo y conocimiento de las leyes, y publicar costes, objetivos y resultados con indicadores claros.",
+        "ca": "Combatre xarxes de tràfic i explotació de persones cooperant amb països d’origen i trànsit i la UE; coordinar acollida i integració mitjançant idioma, formació, accés a l’ocupació i coneixement de les lleis, i publicar costos, objectius i resultats amb indicadors clars.",
+        "gl": "Combater redes de tráfico e explotación de persoas cooperando con países de orixe e tránsito e a UE; coordinar acollida e integración mediante idioma, formación, acceso ao emprego e coñecemento das leis, e publicar custos, obxectivos e resultados con indicadores claros.",
+        "eu": "Pertsonen trafiko eta esplotazio sareen aurka egitea jatorri eta igarobide herrialdeekin eta EBrekin lankidetzan; harrera eta integrazioa koordinatzea hizkuntza, prestakuntza, enplegurako sarbide eta legeen ezagutzaren bidez, eta kostuak, helburuak eta emaitzak adierazle argiekin argitaratzea.",
+        "oc": "Combàter hilats de trafic e explotacion de persones cooperant damb païsi d’origina e transit e era UE; coordinar acuèlh e integracion mejançant idiòma, formacion, accès ar emplec e coneishement des leis, e publicar còsti, objectius e resultats damb indicadors clars.",
+        "en": "Combat trafficking and exploitation networks in cooperation with origin and transit countries and the EU; coordinate reception and integration through language, training, access to employment and knowledge of laws, publishing costs, targets and results with clear indicators."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Combatir las redes de tráfico y explotación de personas y cooperar con países de origen y tránsito y con la Unión Europea."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Coordinar acogida e integración con itinerarios de idioma, formación, acceso al empleo y conocimiento de las leyes."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Publicar costes, objetivos y resultados de programas de acogida e integración con indicadores claros."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-public-ai-safeguards",
+      "title": {
+        "es": "Garantías en la IA pública",
+        "ca": "Garanties en la IA pública",
+        "gl": "Garantías na IA pública",
+        "eu": "AA publikoaren bermeak",
+        "oc": "Garanties ena IA publica",
+        "en": "Safeguards for public AI"
+      },
+      "text": {
+        "es": "Exigir seguridad, transparencia, supervisión humana adecuada y protección de datos en sistemas de inteligencia artificial de uso público.",
+        "ca": "Exigir seguretat, transparència, supervisió humana adequada i protecció de dades en sistemes d’intel·ligència artificial d’ús públic.",
+        "gl": "Esixir seguridade, transparencia, supervisión humana axeitada e protección de datos en sistemas de intelixencia artificial de uso público.",
+        "eu": "Erabilera publikoko adimen artifizialeko sistemetan segurtasuna, gardentasuna, giza gainbegiratze egokia eta datuen babesa eskatzea.",
+        "oc": "Exigir seguretat, transparéncia, supervision umana adequada e proteccion de dades en sistèmes d’intelligéncia artificiau d’usatge public.",
+        "en": "Require security, transparency, appropriate human oversight and data protection in AI systems for public use."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Exigir seguridad, transparencia, supervisión humana adecuada y protección de datos en sistemas de inteligencia artificial de uso público."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-free-media",
+      "title": {
+        "es": "Prensa libre y publicidad institucional",
+        "ca": "Premsa lliure i publicitat institucional",
+        "gl": "Prensa libre e publicidade institucional",
+        "eu": "Prentsa askea eta publizitate instituzionala",
+        "oc": "Premsa liura e publicitat institucionau",
+        "en": "Free press and institutional advertising"
+      },
+      "text": {
+        "es": "Proteger libertad de prensa, pluralismo e independencia profesional de los medios y publicar criterios objetivos para asignar publicidad institucional.",
+        "ca": "Protegir llibertat de premsa, pluralisme i independència professional dels mitjans i publicar criteris objectius per assignar publicitat institucional.",
+        "gl": "Protexer liberdade de prensa, pluralismo e independencia profesional dos medios e publicar criterios obxectivos para asignar publicidade institucional.",
+        "eu": "Prentsa askatasuna, aniztasuna eta hedabideen independentzia profesionala babestea eta publizitate instituzionala esleitzeko irizpide objektiboak argitaratzea.",
+        "oc": "Protegir libertat de premsa, pluralisme e independéncia professionau des mejans e publicar critèris objectius entà assignar publicitat institucionau.",
+        "en": "Protect press freedom, pluralism and media professionals’ independence and publish objective criteria for allocating institutional advertising."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Proteger libertad de prensa, pluralismo e independencia profesional de los medios."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Publicar criterios objetivos de asignación de publicidad institucional."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-violence-vulnerability",
+      "title": {
+        "es": "Prevenir violencia y proteger",
+        "ca": "Prevenir violència i protegir",
+        "gl": "Previr violencia e protexer",
+        "eu": "Indarkeria prebenitzea eta babestea",
+        "oc": "Previer violéncia e protegir",
+        "en": "Prevent violence and protect"
+      },
+      "text": {
+        "es": "Prevenir y atender la violencia y proteger a personas vulnerables con actuaciones respetuosas con la ley y la dignidad humana.",
+        "ca": "Prevenir i atendre la violència i protegir persones vulnerables amb actuacions respectuoses amb la llei i la dignitat humana.",
+        "gl": "Previr e atender a violencia e protexer persoas vulnerables con actuacións respectuosas coa lei e a dignidade humana.",
+        "eu": "Indarkeria prebenitu eta artatzea eta pertsona ahulak babestea, legea eta giza duintasuna errespetatzen dituzten jarduketekin.",
+        "oc": "Previer e atier era violéncia e protegir persones vulnerables damb actuacions respectuoses damb era lei e era dignitat umana.",
+        "en": "Prevent and address violence and protect vulnerable people through actions respecting the law and human dignity."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Prevenir y atender la violencia y proteger a personas vulnerables, con actuaciones respetuosas con la ley y la dignidad humana."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-participation-generations",
+      "title": {
+        "es": "Participación y diálogo entre generaciones",
+        "ca": "Participació i diàleg entre generacions",
+        "gl": "Participación e diálogo entre xeracións",
+        "eu": "Parte hartzea eta belaunaldien arteko elkarrizketa",
+        "oc": "Participacion e dialòg entre generacions",
+        "en": "Participation and intergenerational dialogue"
+      },
+      "text": {
+        "es": "Impulsar diálogo intergeneracional y participación ciudadana en la evaluación de servicios; abrir canales para ciudadanía, profesionales, entidades sociales y sectores afectados.",
+        "ca": "Impulsar diàleg intergeneracional i participació ciutadana en l’avaluació de serveis; obrir canals per a ciutadania, professionals, entitats socials i sectors afectats.",
+        "gl": "Impulsar diálogo interxeracional e participación cidadá na avaliación de servizos; abrir canles para cidadanía, profesionais, entidades sociais e sectores afectados.",
+        "eu": "Belaunaldien arteko elkarrizketa eta zerbitzuen ebaluazioan herritarren parte hartzea bultzatzea; herritar, profesional, gizarte erakunde eta eragindako sektoreentzako bideak irekitzea.",
+        "oc": "Impulsar dialòg intergeneracionau e participacion ciutadana ena avaloracion de servicis; daurir canaus entà ciutadania, professionaus, entitats sociaus e sectors afectats.",
+        "en": "Promote intergenerational dialogue and citizen participation in service evaluation; open channels for citizens, professionals, social organisations and affected sectors."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Impulsar diálogo intergeneracional y participación ciudadana en la evaluación de servicios."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-6",
+          "quote": "Abrir canales de participación para ciudadanía, profesionales, entidades sociales y sectores afectados."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-european-coordination",
+      "title": {
+        "es": "Coordinación europea de propuestas",
+        "ca": "Coordinació europea de propostes",
+        "gl": "Coordinación europea de propostas",
+        "eu": "Proposamenen Europako koordinazioa",
+        "oc": "Coordinacion europèa de propòstes",
+        "en": "European policy coordination"
+      },
+      "text": {
+        "es": "Coordinar posiciones europeas en energía, agricultura, seguridad, tecnología, migración y bienestar; identificar en las propuestas nacionales competencias, instrumentos de financiación y coordinación europea.",
+        "ca": "Coordinar posicions europees en energia, agricultura, seguretat, tecnologia, migració i benestar; identificar en les propostes nacionals competències, instruments de finançament i coordinació europea.",
+        "gl": "Coordinar posicións europeas en enerxía, agricultura, seguridade, tecnoloxía, migración e benestar; identificar nas propostas nacionais competencias, instrumentos de financiamento e coordinación europea.",
+        "eu": "Energia, nekazaritza, segurtasun, teknologia, migrazio eta ongizatean Europako jarrerak koordinatzea; proposamen nazionaletan eskumenak, finantzaketa tresnak eta Europako koordinazioa identifikatzea.",
+        "oc": "Coordinar posicions europèes en energia, agricultura, seguretat, tecnologia, migracion e benèster; identificar enes propòstes nacionaus competéncies, esturments de finançament e coordinacion europèa.",
+        "en": "Coordinate European positions on energy, agriculture, security, technology, migration and welfare; identify powers, funding instruments and European coordination in national proposals."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Coordinar posiciones europeas en energía, agricultura, seguridad, tecnología, migración y bienestar."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Asegurar que las propuestas nacionales identifiquen competencias, instrumentos de financiación y coordinación europea."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-international-cooperation",
+      "title": {
+        "es": "Cooperación, derechos y desarrollo",
+        "ca": "Cooperació, drets i desenvolupament",
+        "gl": "Cooperación, dereitos e desenvolvemento",
+        "eu": "Lankidetza, eskubideak eta garapena",
+        "oc": "Cooperacion, drets e desvolopament",
+        "en": "Cooperation, rights and development"
+      },
+      "text": {
+        "es": "Promover cooperación internacional para prevenir conflictos, defender derechos humanos y crear oportunidades de desarrollo.",
+        "ca": "Promoure cooperació internacional per prevenir conflictes, defensar drets humans i crear oportunitats de desenvolupament.",
+        "gl": "Promover cooperación internacional para previr conflitos, defender dereitos humanos e crear oportunidades de desenvolvemento.",
+        "eu": "Nazioarteko lankidetza sustatzea gatazkak prebenitzeko, giza eskubideak defendatzeko eta garapen aukerak sortzeko.",
+        "oc": "Promòir cooperacion internacionau entà previer conflictes, deféner drets umans e crear oportunitats de desvolopament.",
+        "en": "Promote international cooperation to prevent conflicts, defend human rights and create development opportunities."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Promover cooperación internacional orientada a prevenir conflictos, defender derechos humanos y crear oportunidades de desarrollo."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-institutions-and-rights-implementation-evaluation",
+      "title": {
+        "es": "Calendario, financiación y evaluación",
+        "ca": "Calendari, finançament i avaluació",
+        "gl": "Calendario, financiamento e avaliación",
+        "eu": "Egutegia, finantzaketa eta ebaluazioa",
+        "oc": "Calendari, finançament e avaloracion",
+        "en": "Timetables, funding and evaluation"
+      },
+      "text": {
+        "es": "Acompañar las iniciativas principales de memoria de impacto, calendario, coste e indicadores públicos. Para cada medida aplicada, la administración competente publicará situación de partida, objetivo, calendario, coste previsto, financiación e indicador de resultado; informar al menos anualmente con datos comprensibles y, cuando sea posible, por edad, territorio y vulnerabilidad. Revisar cada año los compromisos y explicar retrasos o cambios; evaluar programas relevantes antes de ampliarlos o mantenerlos, según resultados y efectos imprevistos, y actualizar propuestas ante cambios económicos, demográficos, tecnológicos y normativos.",
+        "ca": "Acompanyar les iniciatives principals de memòria d’impacte, calendari, cost i indicadors públics. Per a cada mesura aplicada, l’administració competent publicarà situació inicial, objectiu, calendari, cost previst, finançament i indicador de resultat; informar almenys anualment amb dades comprensibles i, quan sigui possible, per edat, territori i vulnerabilitat. Revisar cada any els compromisos i explicar retards o canvis; avaluar programes rellevants abans d’ampliar-los o mantenir-los, segons resultats i efectes imprevistos, i actualitzar propostes davant canvis econòmics, demogràfics, tecnològics i normatius.",
+        "gl": "Acompañar as iniciativas principais de memoria de impacto, calendario, custo e indicadores públicos. Para cada medida aplicada, a administración competente publicará situación inicial, obxectivo, calendario, custo previsto, financiamento e indicador de resultado; informar polo menos anualmente con datos comprensibles e, cando sexa posible, por idade, territorio e vulnerabilidade. Revisar cada ano os compromisos e explicar atrasos ou cambios; avaliar programas relevantes antes de amplialos ou mantelos, segundo resultados e efectos imprevistos, e actualizar propostas ante cambios económicos, demográficos, tecnolóxicos e normativos.",
+        "eu": "Ekimen nagusiei eragin memoria, egutegia, kostua eta adierazle publikoak eranstea. Administrazio eskudunak aplikatutako neurri bakoitzaren hasierako egoera, helburua, egutegia, aurreikusitako kostua, finantzaketa eta emaitza adierazlea argitaratzea; gutxienez urtero datu ulergarriekin informatzea eta, ahal denean, adinaren, lurraldearen eta ahultasunaren arabera. Konpromisoak urtero berrikusi eta atzerapenak edo aldaketak azaltzea; programa garrantzitsuak zabaldu edo mantendu aurretik ebaluatzea, emaitzak eta ustekabeko ondorioak kontuan hartuz, eta proposamenak aldaketa ekonomiko, demografiko, teknologiko eta arau aldaketen arabera eguneratzea.",
+        "oc": "Acompanhar es iniciatives principaus de memòria d’impacte, calendari, còst e indicadors publics. Entà cada mesura aplicada, era administracion competenta publicarà situacion iniciau, objectiu, calendari, còst previst, finançament e indicador de resultat; informar aumens annaument damb dades comprensibles e, quan sigue possible, per edat, territòri e vulnerabilitat. Revisar cada an es compromisi e explicar retards o cambiaments; avalorar programes relevants abans d’alargar-les o mantier-les, segontes resultats e efèctes imprevisti, e actualizar propòstes deuant cambiaments economics, demografics, tecnologics e normatius.",
+        "en": "Accompany major initiatives with impact memoranda, timetables, costs and public indicators. For each implemented measure, the competent administration will publish the baseline, objective, timetable, expected cost, funding and outcome indicator; report at least annually in understandable data, broken down where possible by age, territory and vulnerability. Review commitments annually and explain delays or changes; evaluate significant programmes before expanding or retaining them, taking account of results and unintended effects, and update proposals for economic, demographic, technological and regulatory changes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-1",
+          "quote": "Acompañar las principales iniciativas de memoria de impacto, calendario, coste estimado e indicadores públicos."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-6",
+          "quote": "La rendición de cuentas será parte del programa. Para cada medida que se ponga en marcha, la administración competente publicará una ficha con la situación de partida, el objetivo, el calendario, el coste previsto, la fuente de financiación y el indicador de resultado. Se informará del avance al menos una vez al año, con datos comprensibles y desglosados cuando sea posible por edad, territorio y situación de vulnerabilidad."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-6",
+          "quote": "Revisar cada año el avance de los compromisos y explicar retrasos o cambios."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-6",
+          "quote": "Evaluar los programas relevantes antes de ampliarlos o mantenerlos, atendiendo a resultados y efectos no previstos."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-6",
+          "quote": "Actualizar las propuestas ante cambios económicos, demográficos, tecnológicos y normativos."
+        }
+      ]
+    }
+  ]
+}

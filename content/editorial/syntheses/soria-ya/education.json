@@ -1,0 +1,38 @@
+{
+  "id": "soria-ya--education",
+  "partyId": "soria-ya",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:47:30.805Z",
+  "sourceIds": ["soria-ya-2026-18b4c4dc4875", "soria-ya-2026-042e8da39561"],
+  "points": [
+    {
+      "id": "soria-ya-education-students-and-return",
+      "title": {
+        "es": "Becas, primer empleo y retorno",
+        "ca": "Beques, primera feina i retorn",
+        "gl": "Bolsas, primeiro emprego e retorno",
+        "eu": "Bekak, lehen enplegua eta itzulera",
+        "oc": "Bèques, prumèr emplec e retorn",
+        "en": "Grants, first jobs and return"
+      },
+      "text": {
+        "es": "Ofrecer becas especiales de movilidad y residencia, prácticas remuneradas, incentivos al primer empleo y ayudas al retorno de jóvenes titulados en zonas escasamente pobladas.",
+        "ca": "Oferir beques especials de mobilitat i residència, pràctiques remunerades, incentius a la primera feina i ajuts al retorn de joves titulats en zones escassament poblades.",
+        "gl": "Ofrecer bolsas especiais de mobilidade e residencia, prácticas remuneradas, incentivos ao primeiro emprego e axudas ao retorno de mozos titulados en zonas escasamente poboadas.",
+        "eu": "Mugikortasun eta egoitza beka bereziak, ordaindutako praktikak, lehen enplegurako pizgarriak eta biztanle gutxiko eremuetara gazte tituludunak itzultzeko laguntzak eskaintzea.",
+        "oc": "Auferir bèques especiaus de mobilitat e residéncia, practiques remunerades, incentius ath prumèr emplec e ajudes ath retorn de joeni titulats en zònes damb pòga poblacion.",
+        "en": "Provide special mobility and residence grants, paid internships, first-job incentives and aid for young graduates returning to sparsely populated areas."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "education",
+          "quote": "Becas especiales de movilidad y residencia, prácticas remuneradas, incentivos al primer empleo y ayudas al retorno de jóvenes titulados en zonas escasamente pobladas."
+        }
+      ]
+    }
+  ]
+}

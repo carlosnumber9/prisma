@@ -1,0 +1,97 @@
+{
+  "id": "tercera-edad-en-accion--housing",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.362Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-housing-affordable-supply",
+      "title": {
+        "es": "Oferta asequible y rehabilitación",
+        "ca": "Oferta assequible i rehabilitació",
+        "gl": "Oferta asequible e rehabilitación",
+        "eu": "Eskaintza eskuragarria eta birgaitzea",
+        "oc": "Aufèrta accessibla e reabilitacion",
+        "en": "Affordable supply and rehabilitation"
+      },
+      "text": {
+        "es": "Aumentar vivienda asequible mediante colaboración entre administraciones, movilización de suelo disponible y rehabilitación, respetando competencias.",
+        "ca": "Augmentar habitatge assequible mitjançant col·laboració entre administracions, mobilització de sòl disponible i rehabilitació, respectant competències.",
+        "gl": "Aumentar vivenda asequible mediante colaboración entre administracións, mobilización de solo dispoñible e rehabilitación, respectando competencias.",
+        "eu": "Etxebizitza eskuragarrien eskaintza handitzea administrazioen lankidetzaren, lurzoru erabilgarria mobilizatzearen eta birgaitzearen bidez, eskumenak errespetatuz.",
+        "oc": "Aumentar abitatge accessible mejançant collaboracion entre administracions, mobilizacion de solèr disponible e reabilitacion, respectant competéncies.",
+        "en": "Increase affordable housing through cooperation between administrations, mobilisation of available land and rehabilitation, respecting their powers."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Aumentar la oferta de vivienda asequible mediante colaboración entre administraciones, movilización de suelo disponible y rehabilitación, respetando competencias."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-housing-planning-permits",
+      "title": {
+        "es": "Planeamiento y licencias ágiles",
+        "ca": "Planejament i llicències àgils",
+        "gl": "Planeamento e licenzas áxiles",
+        "eu": "Plangintza eta lizentzia arinak",
+        "oc": "Planejament e licéncies agiles",
+        "en": "Faster planning and permits"
+      },
+      "text": {
+        "es": "Reducir plazos de planeamiento y licencias con procesos transparentes y criterios de calidad urbana y ambiental.",
+        "ca": "Reduir terminis de planejament i llicències amb processos transparents i criteris de qualitat urbana i ambiental.",
+        "gl": "Reducir prazos de planeamento e licenzas con procesos transparentes e criterios de calidade urbana e ambiental.",
+        "eu": "Plangintza eta lizentzien epeak murriztea, prozesu gardenekin eta hiri zein ingurumen kalitateko irizpideekin.",
+        "oc": "Redusir tèrmes de planejament e licéncies damb procèssi transparents e critèris de qualitat urbana e ambientau.",
+        "en": "Shorten planning and permit timelines through transparent processes and urban and environmental quality criteria."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Reducir plazos de planeamiento y licencias con procesos transparentes y criterios de calidad urbana y ambiental."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-housing-accessible-and-youth-housing",
+      "title": {
+        "es": "Vivienda adaptada y emancipación",
+        "ca": "Habitatge adaptat i emancipació",
+        "gl": "Vivenda adaptada e emancipación",
+        "eu": "Etxebizitza egokitua eta emantzipazioa",
+        "oc": "Abitatge adaptat e emancipacion",
+        "en": "Adapted housing and independence"
+      },
+      "text": {
+        "es": "Facilitar vivienda adaptada a mayores y personas con discapacidad y soluciones de emancipación juvenil; impulsar adaptación de viviendas, accesibilidad universal y viviendas colaborativas.",
+        "ca": "Facilitar habitatge adaptat a gent gran i persones amb discapacitat i solucions d’emancipació juvenil; impulsar adaptació d’habitatges, accessibilitat universal i habitatges col·laboratius.",
+        "gl": "Facilitar vivenda adaptada a maiores e persoas con discapacidade e solucións de emancipación xuvenil; impulsar adaptación de vivendas, accesibilidade universal e vivendas colaborativas.",
+        "eu": "Adinekoentzako eta desgaitasuna dutenentzako etxebizitza egokitua eta gazteen emantzipaziorako aukerak erraztea; etxebizitzen egokitzapena, irisgarritasun unibertsala eta etxebizitza kolaboratiboak bultzatzea.",
+        "oc": "Facilitar abitatge adaptat a majors e persones damb discapacitat e solucions d’emancipacion juvenila; impulsar adaptacion d’abitatges, accessibilitat universau e abitatges collaboratius.",
+        "en": "Facilitate adapted housing for older people and people with disabilities and solutions for young people’s independence; promote home adaptations, universal accessibility and collaborative housing."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Facilitar vivienda adaptada para mayores y personas con discapacidad, así como soluciones de emancipación juvenil."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Impulsar adaptación de viviendas, accesibilidad universal, viviendas colaborativas y programas comunitarios contra la soledad no deseada."
+        }
+      ]
+    }
+  ]
+}

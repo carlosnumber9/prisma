@@ -1,0 +1,65 @@
+{
+  "id": "soria-ya--environment-and-energy",
+  "partyId": "soria-ya",
+  "topicId": "environment-and-energy",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:47:30.815Z",
+  "sourceIds": ["soria-ya-2026-18b4c4dc4875", "soria-ya-2026-042e8da39561"],
+  "points": [
+    {
+      "id": "soria-ya-environment-and-energy-forests",
+      "title": {
+        "es": "Bosques, industria y compensaciones",
+        "ca": "Boscos, indústria i compensacions",
+        "gl": "Montes, industria e compensacións",
+        "eu": "Basoak, industria eta konpentsazioak",
+        "oc": "Bòsqui, indústria e compensacions",
+        "en": "Forests, industry and compensation"
+      },
+      "text": {
+        "es": "Aprovechar los recursos forestales para crear industrias y empleo y reconocer y compensar económicamente a los municipios por los beneficios ambientales de sus montes.",
+        "ca": "Aprofitar els recursos forestals per crear indústries i ocupació i reconèixer i compensar econòmicament els municipis pels beneficis ambientals dels seus boscos.",
+        "gl": "Aproveitar os recursos forestais para crear industrias e emprego e recoñecer e compensar economicamente os municipios polos beneficios ambientais dos seus montes.",
+        "eu": "Baso baliabideak industria eta enplegua sortzeko baliatzea, eta udalerriei basoen ingurumen onurak aitortu eta ekonomikoki konpentsatzea.",
+        "oc": "Aprofitar es recorsi forestaus entà crear indústries e emplec e reconéisher e compensar economicament es municipis pes beneficis ambientaus des sòns bòsqui.",
+        "en": "Use forest resources to create industry and jobs, and recognise and financially compensate municipalities for their forests’ environmental benefits."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "rural",
+          "quote": "Aprovechamiento de nuestros recursos forestales, favoreciendo la creación de industrias y empleo. Reconocimiento y compensación económica a nuestros municipios por los beneficios ambientales de sus montes."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-environment-and-energy-electricity-networks",
+      "title": {
+        "es": "Redes eléctricas y compensación",
+        "ca": "Xarxes elèctriques i compensació",
+        "gl": "Redes eléctricas e compensación",
+        "eu": "Sare elektrikoak eta konpentsazioa",
+        "oc": "Hilats electrics e compensacion",
+        "en": "Electricity networks and compensation"
+      },
+      "text": {
+        "es": "Exigir inversiones urgentes en redes de transporte y distribución eléctrica para garantizar suministro y capacidad de acceso en los polos industriales sorianos, y compensaciones económicas por la energía generada.",
+        "ca": "Exigir inversions urgents en xarxes de transport i distribució elèctrica per garantir subministrament i capacitat d’accés als pols industrials sorians, i compensacions econòmiques per l’energia generada.",
+        "gl": "Esixir investimentos urxentes en redes de transporte e distribución eléctrica para garantir subministración e capacidade de acceso nos polos industriais sorianos, e compensacións económicas pola enerxía xerada.",
+        "eu": "Elektrizitatea garraiatzeko eta banatzeko sareetan premiazko inbertsioak eskatzea, Soriako industria guneetako hornidura eta sarbide ahalmena bermatzeko, eta sortutako energiagatik konpentsazio ekonomikoak eskatzea.",
+        "oc": "Exigir inversions urgentes en hilats de transpòrt e distribucion electrica entà garantir subministrament e capacitat d’accès enes pòls industriaus sorians, e compensacions economiques pera energia generada.",
+        "en": "Demand urgent investment in electricity transmission and distribution networks to guarantee supply and access capacity in Soria’s industrial hubs, and financial compensation for the energy generated."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "energy",
+          "quote": "Reclamamos inversiones urgentes en las redes de transporte y distribución que garanticen el suministro y la capacidad de acceso en nuestros polos industriales, así como compensaciones económicas por la energía generada."
+        }
+      ]
+    }
+  ]
+}

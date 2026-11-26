@@ -1,0 +1,265 @@
+{
+  "id": "geroa-bai--institutions-and-rights",
+  "partyId": "geroa-bai",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:50:40.349Z",
+  "sourceIds": ["geroa-bai-2026-4e011dc66095", "geroa-bai-2026-b2bb6fad0ff1"],
+  "points": [
+    {
+      "id": "geroa-bai-institutions-and-rights-navarre-self-government",
+      "title": {
+        "es": "Navarra como sujeto político y transferencias forales",
+        "ca": "Navarra com a subjecte polític i transferències forals",
+        "gl": "Navarra como suxeito político e transferencias forais",
+        "eu": "Nafarroa subjektu politiko eta foru transferentziak",
+        "oc": "Navarra coma subjècte politic e transferéncies foraus",
+        "en": "Navarre as a political subject and devolved powers"
+      },
+      "text": {
+        "es": "Defender a Navarra y su ciudadanía como sujeto político, rechazar las exclusiones ordenadas desde Madrid y exigir el cumplimiento de la LORAFNA en materia de transferencias, reivindicando la bilateralidad que establece.",
+        "ca": "Defensar Navarra i la seva ciutadania com a subjecte polític, rebutjar les exclusions ordenades des de Madrid i exigir el compliment de la LORAFNA en matèria de transferències, reivindicant la bilateralitat que estableix.",
+        "gl": "Defender Navarra e a súa cidadanía como suxeito político, rexeitar as exclusións ordenadas desde Madrid e esixir o cumprimento da LORAFNA en materia de transferencias, reivindicando a bilateralidade que establece.",
+        "eu": "Nafarroa eta bertako herritarrak subjektu politiko gisa defendatzea, Madrildik agindutako bazterketak arbuiatzea eta transferentzietan Foruaren Hobekuntza betetzea eskatzea, bertan ezarritako aldebikotasuna aldarrikatuz.",
+        "oc": "Deféner Navarra e era sua ciutadania coma subjècte politic, refusar es exclusions ordenades des de Madrid e exigir eth compliment dera LORAFNA en matèria de transferéncies, en tot reivindicar era bilateralitat qu’establís.",
+        "en": "Defend Navarre and its citizens as a political subject, reject exclusions ordered from Madrid and demand compliance with the LORAFNA on transfers of powers, asserting the bilateral relationship it establishes."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-7",
+          "quote": "exige el cumplimiento de lo marcado por la LORAFNA en materia de transferencias."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-7",
+          "quote": "transferentzia alorrean Foruaren Hobekuntzak dioena bete dadila eskatzen duen subjektu."
+        },
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-7",
+          "quote": "Por eso no aceptamos exclusiones ordenadas en Madrid."
+        },
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-7",
+          "quote": "Navarra, castigada por el bipartidismo cuando no se reconoce l a bilateralidad marcada en la LORAFNA"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-7",
+          "quote": "Horregatik ez dugu Madrildik agindutako bazterketarik onartzen."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-7",
+          "quote": "Foruaren Hobekuntzak ezartzen duen aldebikotasuna"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-institutions-and-rights-eu-representation",
+      "title": {
+        "es": "Voz y voto de Navarra en las instituciones europeas",
+        "ca": "Veu i vot de Navarra a les institucions europees",
+        "gl": "Voz e voto de Navarra nas institucións europeas",
+        "eu": "Nafarroak ahotsa eta botoa Europako erakundeetan",
+        "oc": "Votz e vòt de Navarra enes institucions europèes",
+        "en": "Navarre’s voice and vote in European institutions"
+      },
+      "text": {
+        "es": "Exigir una representación del Gobierno de Navarra con voz y voto en las instituciones europeas que deciden sobre competencias forales, como Ecofin, y una presencia reglada y regulada en las reuniones con la UE sobre materias de su competencia.",
+        "ca": "Exigir una representació del Govern de Navarra amb veu i vot a les institucions europees que decideixen sobre competències forals, com Ecofin, i una presència reglada i regulada a les reunions amb la UE sobre matèries de la seva competència.",
+        "gl": "Esixir unha representación do Goberno de Navarra con voz e voto nas institucións europeas que deciden sobre competencias forais, como Ecofin, e unha presenza regrada e regulada nas reunións coa UE sobre materias da súa competencia.",
+        "eu": "Foru eskumenez erabakitzen duten Europako erakundeetan, Ecofinen adibidez, Nafarroako Gobernuak ahotsa eta botoa duen ordezkaritza izatea eskatzea, eta bere eskumeneko gaiei buruz EBrekin egiten diren bileretan legez araututako presentzia izatea.",
+        "oc": "Exigir ua representacion deth Govèrn de Navarra damb votz e vòt enes institucions europèes que decidissen sus competéncies foraus, coma Ecofin, e ua preséncia reglada e regulada enes amassades damb era UE sus matèries dera sua competéncia.",
+        "en": "Demand representation of Navarre’s Government with a voice and vote in European institutions deciding on its devolved powers, such as Ecofin, and formally regulated participation in EU meetings on matters within its competence."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-7",
+          "quote": "exige la presencia de una representación del Gobierno de Navarra con voz y con voto en aquellas instituciones europeas que deciden sobre competencias forales (como es el Ecofin)."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-7",
+          "quote": "Foru eskumenengan erabakitzen duten Europako erakundeetan, hots Ecofin-en, Nafarroako Gobernuak ahots eta botodun ordezkaritza eskatzen duen subjektu"
+        },
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-12",
+          "quote": "la presencia reglada y regulada de Navarra en reuniones con la UE sobre materias reguladas por nuestra comunidad"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-12",
+          "quote": "gure komunitateak arautzen dituen gaiei buruz EBrekin egiten diren bileretan Nafarroa legez eta modu arautuan egoteko aldarrikapena"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-institutions-and-rights-official-secrets",
+      "title": {
+        "es": "Reformar la Ley de Secretos Oficiales y reconocer el daño",
+        "ca": "Reformar la Ley de Secretos Oficiales i reconèixer el dany",
+        "gl": "Reformar a Ley de Secretos Oficiales e recoñecer o dano",
+        "eu": "Sekretu Ofizialen Legea erreformatzea eta mina aitortzea",
+        "oc": "Reformar era Ley de Secretos Oficiales e reconéisher eth damnatge",
+        "en": "Reform the Official Secrets Law and acknowledge harm"
+      },
+      "text": {
+        "es": "Reformar la Ley de Secretos Oficiales para reconocer el daño causado y permitir resolver casos como el de Mikel Zabalza.",
+        "ca": "Reformar la Ley de Secretos Oficiales per reconèixer el dany causat i permetre resoldre casos com el de Mikel Zabalza.",
+        "gl": "Reformar a Ley de Secretos Oficiales para recoñecer o dano causado e permitir resolver casos como o de Mikel Zabalza.",
+        "eu": "Sekretu Ofizialen Legea erreformatzea, eragindako mina aitortzeko eta Mikel Zabalzarena bezalako kasuak argitzea ahalbidetzeko.",
+        "oc": "Reformar era Ley de Secretos Oficiales entà reconéisher eth damnatge causat e perméter resòlver casi coma eth de Mikel Zabalza.",
+        "en": "Reform the Official Secrets Law to acknowledge the harm caused and allow cases such as that of Mikel Zabalza to be resolved."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-7",
+          "quote": "exige el reconocimiento del daño causado con la reforma de la Ley de S ecretos Oficiales, que permita resolver casos como el de Mikel Zabalza"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-7",
+          "quote": "Sekretu Ofizialen Legearen erreformarekin, eragindako minaren aitortza eskatzen duen subjektu, Mikel Zabalzarena bezalako kasuak argitzea ahalbidetzeko"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-institutions-and-rights-lgtbi-rights",
+      "title": {
+        "es": "Mantener los derechos civiles LGTBI",
+        "ca": "Mantenir els drets civils LGTBI",
+        "gl": "Manter os dereitos civís LGTBI",
+        "eu": "LGTBI eskubide zibilak mantentzea",
+        "oc": "Mantier es drets civius LGTBI",
+        "en": "Preserve LGTBI civil rights"
+      },
+      "text": {
+        "es": "Mantener vigentes los derechos civiles conquistados para el colectivo LGTBI.",
+        "ca": "Mantenir vigents els drets civils conquerits per al col·lectiu LGTBI.",
+        "gl": "Manter vixentes os dereitos civís conquistados para o colectivo LGTBI.",
+        "eu": "LGTBI kolektiboarentzat lortutako eskubide zibilak indarrean mantentzea.",
+        "oc": "Mantier en vigor es drets civius conquistadi entath collectiu LGTBI.",
+        "en": "Keep the civil rights won for LGTBI people in force."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-14",
+          "quote": "mantener vigentes los derechos civiles conquistados estos años para el colectivo LGTBI."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-14",
+          "quote": "LGTBI kolektiboarentzako azken urteetan konkistaturiko eskubide zibilak indarrean mantentzea"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-institutions-and-rights-women-protection",
+      "title": {
+        "es": "Proteger a las mujeres víctimas de maltrato",
+        "ca": "Protegir les dones víctimes de maltractament",
+        "gl": "Protexer as mulleres vítimas de malos tratos",
+        "eu": "Tratu txarren biktima diren emakumeak babestea",
+        "oc": "Protegir es hemnes victimes de mautractament",
+        "en": "Protect women experiencing abuse"
+      },
+      "text": {
+        "es": "Reforzar las políticas públicas de protección de las mujeres víctimas de maltrato.",
+        "ca": "Reforçar les polítiques públiques de protecció de les dones víctimes de maltractament.",
+        "gl": "Reforzar as políticas públicas de protección das mulleres vítimas de malos tratos.",
+        "eu": "Tratu txarren biktima diren emakumeak babesteko politika publikoak indartzea.",
+        "oc": "Reforçar es politiques publiques de proteccion des hemnes victimes de mautractament.",
+        "en": "Strengthen public policies to protect women experiencing abuse."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-14",
+          "quote": "reforzando las políticas públicas de protección de mujeres víctimas de maltrato."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-14",
+          "quote": "Tratu txarren biktima diren emakumeak b abesteko politika publikoak sendotuz"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-institutions-and-rights-welcoming-territory",
+      "title": {
+        "es": "Seguir siendo tierra de acogida",
+        "ca": "Continuar sent terra d’acollida",
+        "gl": "Seguir sendo terra de acollida",
+        "eu": "Harrera lurralde izaten jarraitzea",
+        "oc": "Contunhar d’èster tèrra d’acuelhuda",
+        "en": "Remain a welcoming territory"
+      },
+      "text": {
+        "es": "Seguir siendo tierra de acogida.",
+        "ca": "Continuar sent terra d’acollida.",
+        "gl": "Seguir sendo terra de acollida.",
+        "eu": "Harrera lurralde izaten jarraitzea.",
+        "oc": "Contunhar d’èster tèrra d’acuelhuda.",
+        "en": "Remain a welcoming territory."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-14",
+          "quote": "seguir siendo tierra de acogida"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-14",
+          "quote": "arrera -lurralde izaten jarraitzea"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-institutions-and-rights-memory",
+      "title": {
+        "es": "Reforzar las políticas de memoria",
+        "ca": "Reforçar les polítiques de memòria",
+        "gl": "Reforzar as políticas de memoria",
+        "eu": "Memoria politikak indartzea",
+        "oc": "Reforçar es politiques de memòria",
+        "en": "Strengthen remembrance policies"
+      },
+      "text": {
+        "es": "Reforzar las políticas de memoria.",
+        "ca": "Reforçar les polítiques de memòria.",
+        "gl": "Reforzar as políticas de memoria.",
+        "eu": "Memoria politikak indartzea.",
+        "oc": "Reforçar es politiques de memòria.",
+        "en": "Strengthen policies on historical remembrance."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-14",
+          "quote": "reforzar las políticas de memoria."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-14",
+          "quote": "memoria politikak sendotzea."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "geroa-bai--education",
+  "partyId": "geroa-bai",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:50:40.349Z",
+  "sourceIds": ["geroa-bai-2026-4e011dc66095", "geroa-bai-2026-b2bb6fad0ff1"],
+  "points": [
+    {
+      "id": "geroa-bai-education-scholarship-powers",
+      "title": {
+        "es": "Transferir la competencia de becas",
+        "ca": "Transferir la competència de beques",
+        "gl": "Transferir a competencia de bolsas",
+        "eu": "Beken eskumena transferitzea",
+        "oc": "Transferir era competéncia de borses",
+        "en": "Transfer scholarship powers"
+      },
+      "text": {
+        "es": "Impulsar en las Cortes Generales la transferencia de la competencia de becas a Navarra, pendiente al convocarse las elecciones.",
+        "ca": "Impulsar a les Corts Generals la transferència de la competència de beques a Navarra, pendent en convocar-se les eleccions.",
+        "gl": "Impulsar nas Cortes Xerais a transferencia da competencia de bolsas a Navarra, pendente ao convocarse as eleccións.",
+        "eu": "Hauteskundeak deitu zirenean gauzatu gabe zegoen beken eskumena Nafarroari transferitzea bultzatzea Gorte Nagusietan.",
+        "oc": "Impulsar enes Corts Generaus era transferéncia dera competéncia de borses a Navarra, pendenta en convocar-se es eleccions.",
+        "en": "Pursue in the Cortes Generales the transfer of scholarship powers to Navarre, still outstanding when the election was called."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-12",
+          "quote": "la transferencia de la competencia de becas a Navarra."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-12",
+          "quote": "beken eskumenaren transferentzia."
+        }
+      ]
+    }
+  ]
+}

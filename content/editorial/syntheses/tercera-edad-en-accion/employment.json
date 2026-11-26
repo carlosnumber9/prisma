@@ -1,0 +1,102 @@
+{
+  "id": "tercera-edad-en-accion--employment",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "employment",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.368Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-employment-small-business",
+      "title": {
+        "es": "Autónomos, microempresas y pymes",
+        "ca": "Autònoms, microempreses i pimes",
+        "gl": "Autónomos, microempresas e pemes",
+        "eu": "Autonomoak, mikroenpresak eta ETEak",
+        "oc": "Autonòms, microempreses e pimes",
+        "en": "Self-employed workers and small firms"
+      },
+      "text": {
+        "es": "Reducir trámites y cargas evitables de autónomos, microempresas y pymes, mejorar su acceso a orientación y financiación y simplificar obligaciones de autónomos y pequeñas empresas, especialmente al contratar y crear actividad.",
+        "ca": "Reduir tràmits i càrregues evitables d’autònoms, microempreses i pimes, millorar-ne l’accés a orientació i finançament i simplificar obligacions d’autònoms i petites empreses, especialment en contractar i crear activitat.",
+        "gl": "Reducir trámites e cargas evitables de autónomos, microempresas e pemes, mellorar o acceso a orientación e financiamento e simplificar obrigas de autónomos e pequenas empresas, especialmente ao contratar e crear actividade.",
+        "eu": "Autonomo, mikroenpresa eta ETEen saihesteko moduko izapide eta zamak murriztea, orientazio eta finantzaketarako sarbidea hobetzea eta autonomoen eta enpresa txikien betebeharrak sinplifikatzea, bereziki kontratatzean eta jarduera sortzean.",
+        "oc": "Redusir tramits e cargues evitables d’autonòms, microempreses e pimes, melhorar-ne er accès a orientacion e finançament e simplificar obligacions d’autonòms e petites empreses, especiaument en contratar e crear activitat.",
+        "en": "Reduce avoidable procedures and burdens for self-employed workers, microbusinesses and SMEs, improve access to advice and finance and simplify obligations for self-employed workers and small firms, especially when hiring and creating activity."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Reducir trámites y cargas evitables para autónomos, microempresas y pymes y mejorar su acceso a orientación y financiación."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Simplificar obligaciones de autónomos y pequeñas empresas, especialmente cuando contratan y crean actividad."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-employment-older-workers",
+      "title": {
+        "es": "Empleo duradero y mayores de 50",
+        "ca": "Ocupació duradora i majors de 50",
+        "gl": "Emprego duradeiro e maiores de 50",
+        "eu": "Enplegu iraunkorra eta 50 urtetik gorakoak",
+        "oc": "Emplec duradèr e majors de 50",
+        "en": "Lasting employment and workers over 50"
+      },
+      "text": {
+        "es": "Impulsar el empleo de larga duración y la participación laboral de mayores de 50 años, con transmisión de conocimiento; combatir el edadismo y facilitar, con reglas claras, que quienes quieran compartan experiencia o sigan trabajando y emprendiendo.",
+        "ca": "Impulsar l’ocupació de llarga durada i la participació laboral de majors de 50 anys, amb transmissió de coneixement; combatre l’edatisme i facilitar, amb regles clares, que qui vulgui comparteixi experiència o continuï treballant i emprenent.",
+        "gl": "Impulsar o emprego de longa duración e a participación laboral de maiores de 50 anos, con transmisión de coñecemento; combater o idadismo e facilitar, con regras claras, que quen queira comparta experiencia ou siga traballando e emprendendo.",
+        "eu": "Iraupen luzeko enplegua eta 50 urtetik gorakoen lan parte hartzea bultzatzea, ezagutza transmitituz; adinkeria borrokatzea eta, arau argiekin, nahi dutenek esperientzia partekatzea edo lanean eta ekiten jarraitzea erraztea.",
+        "oc": "Impulsar er emplec de longa durada e era participacion laborau de majors de 50 ans, damb transmission de coneishement; combàter er edatisme e facilitar, damb règles clares, que qui volgue compartisque experiéncia o contunhe trabalhant e emprenent.",
+        "en": "Promote long-lasting employment and labour participation among people over 50, including knowledge transfer; combat ageism and, under clear rules, help willing people share experience or continue working and starting businesses."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Impulsar el empleo de larga duración y la participación laboral de mayores de 50 años, incluida la transmisión de conocimiento."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Combatir el edadismo y facilitar, dentro de reglas claras, que quienes lo deseen compartan experiencia o sigan trabajando y emprendiendo."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-employment-work-life-balance",
+      "title": {
+        "es": "Conciliación y corresponsabilidad",
+        "ca": "Conciliació i corresponsabilitat",
+        "gl": "Conciliación e corresponsabilidade",
+        "eu": "Kontziliazioa eta erantzukidetasuna",
+        "oc": "Conciliacion e corresponsabilitat",
+        "en": "Work-life balance and shared care"
+      },
+      "text": {
+        "es": "Favorecer conciliación y corresponsabilidad, evaluando sus efectos sobre empleo, cuidados y bienestar familiar.",
+        "ca": "Afavorir conciliació i corresponsabilitat, avaluant-ne els efectes sobre ocupació, cures i benestar familiar.",
+        "gl": "Favorecer conciliación e corresponsabilidade, avaliando os seus efectos sobre emprego, coidados e benestar familiar.",
+        "eu": "Kontziliazioa eta erantzukidetasuna sustatzea, enpleguan, zaintzan eta familiaren ongizatean dituzten ondorioak ebaluatuz.",
+        "oc": "Favorir conciliacion e corresponsabilitat, avalorant-ne es efèctes sus emplec, suenhs e benèster familhau.",
+        "en": "Support work-life balance and shared responsibilities, evaluating effects on employment, care and family wellbeing."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Favorecer la conciliación y la corresponsabilidad, evaluando sus efectos sobre empleo, cuidados y bienestar familiar."
+        }
+      ]
+    }
+  ]
+}

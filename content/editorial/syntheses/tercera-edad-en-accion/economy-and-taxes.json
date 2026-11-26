@@ -1,0 +1,188 @@
+{
+  "id": "tercera-edad-en-accion--economy-and-taxes",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.367Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-economy-and-taxes-low-income-tax-relief",
+      "title": {
+        "es": "IRPF y retirada gradual del alivio",
+        "ca": "IRPF i retirada gradual de l’alleujament",
+        "gl": "IRPF e retirada gradual do alivio",
+        "eu": "PFEZa eta arintzearen mailakako kentzea",
+        "oc": "IRPF e retirada graduau der aleugeriment",
+        "en": "Income tax and gradual relief withdrawal"
+      },
+      "text": {
+        "es": "Proponer la exención del IRPF para pensiones bajas según la renta total anual personal, incluidos ingresos ajenos a la pensión; estudiar ajustes para rentas bajas y medias de pensionistas y hogares vulnerables y un alivio que disminuya gradualmente. Diseñar su retirada para que ganar más no reduzca la renta disponible y estimar impacto y financiación.",
+        "ca": "Proposar l’exempció de l’IRPF per a pensions baixes segons la renda total anual personal, inclosos ingressos aliens a la pensió; estudiar ajustos per a rendes baixes i mitjanes de pensionistes i llars vulnerables i un alleujament que disminueixi gradualment. Dissenyar-ne la retirada perquè guanyar més no redueixi la renda disponible i estimar impacte i finançament.",
+        "gl": "Propoñer a exención do IRPF para pensións baixas segundo a renda total anual persoal, incluídos ingresos alleos á pensión; estudar axustes para rendas baixas e medias de pensionistas e fogares vulnerables e un alivio que diminúa gradualmente. Deseñar a súa retirada para que gañar máis non reduza a renda dispoñible e estimar impacto e financiamento.",
+        "eu": "Pentsio baxuei PFEZ salbuespena proposatzea pertsonaren urteko errenta osoaren arabera, pentsioaz bestelako diru sarrerak barne; pentsiodunen eta etxe ahulen errenta baxu eta ertainetarako doikuntzak eta pixkanaka murrizten den arintzea aztertzea. Kentzeko tartea diseinatzea, gehiago irabazteak errenta erabilgarria ez murrizteko, eta eragina eta finantzaketa kalkulatzea.",
+        "oc": "Proposar era exempcion der IRPF entà pensions baishes segontes era renda totau annau personau, includidi ingrèssi diferents dera pension; estudiar ajustaments entà rendes baishes e mejanes de pensionistes e larèrs vulnerables e un aleugeriment que demenisque graduaument. Dessenhar-ne era retirada entà que guanhar mès non redusisque era renda disponibla e estimar impacte e finançament.",
+        "en": "Propose income-tax exemption for low pensions based on the individual’s total annual income, including non-pension income; study adjustments for pensioners’ low and middle incomes and vulnerable households, and relief that decreases gradually. Design withdrawal so earning more does not reduce disposable income, and estimate impacts and funding."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Proponer la exención del IRPF para las pensiones bajas según la renta total anual de la persona y estudiar un alivio fiscal que disminuya gradualmente a medida que aumente dicha renta, de acuerdo con el apartado 7."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Estudiar ajustes tributarios para rentas bajas y medias de pensionistas y hogares vulnerables, con estimación de impacto y financiación."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "En el marco de estos ajustes, fijar los umbrales según la renta total anual de la persona, incluidos los ingresos distintos de la pensión. Diseñar un tramo de retirada gradual del alivio fiscal para que un aumento de renta no reduzca la renta disponible. Estimar el impacto y la financiación de ambas medidas, en coordinación con el apartado 2."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-economy-and-taxes-tax-evaluation",
+      "title": {
+        "es": "Evaluar impuestos y beneficios",
+        "ca": "Avaluar impostos i beneficis",
+        "gl": "Avaliar impostos e beneficios",
+        "eu": "Zergak eta onurak ebaluatzea",
+        "oc": "Avalorar impòsti e beneficis",
+        "en": "Evaluate taxes and reliefs"
+      },
+      "text": {
+        "es": "Evaluar impuestos y beneficios fiscales por equidad, eficacia y coste y publicar los resultados.",
+        "ca": "Avaluar impostos i beneficis fiscals per equitat, eficàcia i cost i publicar els resultats.",
+        "gl": "Avaliar impostos e beneficios fiscais por equidade, eficacia e custo e publicar os resultados.",
+        "eu": "Zergak eta zerga onurak ekitatearen, eraginkortasunaren eta kostuaren arabera ebaluatzea eta emaitzak argitaratzea.",
+        "oc": "Avalorar impòsti e beneficis fiscaus per equitat, eficàcia e còst e publicar es resultats.",
+        "en": "Evaluate taxes and tax reliefs for equity, effectiveness and cost, and publish the results."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Evaluar impuestos y beneficios fiscales por equidad, eficacia y coste, publicando sus resultados."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-economy-and-taxes-homes-savings-transfers",
+      "title": {
+        "es": "Vivienda habitual, ahorro y transmisiones",
+        "ca": "Habitatge habitual, estalvi i transmissions",
+        "gl": "Vivenda habitual, aforro e transmisións",
+        "eu": "Ohiko etxebizitza, aurrezkia eta eskualdaketak",
+        "oc": "Abitatge abituau, estauvi e transmissions",
+        "en": "Main homes, savings and transfers"
+      },
+      "text": {
+        "es": "Revisar las cargas sobre vivienda habitual, ahorro y transmisiones patrimoniales con seguridad jurídica y protección de hogares vulnerables.",
+        "ca": "Revisar les càrregues sobre habitatge habitual, estalvi i transmissions patrimonials amb seguretat jurídica i protecció de llars vulnerables.",
+        "gl": "Revisar as cargas sobre vivenda habitual, aforro e transmisións patrimoniais con seguridade xurídica e protección de fogares vulnerables.",
+        "eu": "Ohiko etxebizitzaren, aurrezkiaren eta ondare eskualdaketen zamak berrikustea, segurtasun juridikoarekin eta etxe ahulen babesarekin.",
+        "oc": "Revisar es cargues sus abitatge abituau, estauvi e transmissions patrimoniaus damb seguretat juridica e proteccion de larèrs vulnerables.",
+        "en": "Review charges on main homes, savings and asset transfers with legal certainty and protection for vulnerable households."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Revisar cargas sobre vivienda habitual, ahorro y transmisiones patrimoniales con criterios de seguridad jurídica y protección de hogares vulnerables."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-economy-and-taxes-food-producers",
+      "title": {
+        "es": "Cadena alimentaria y controles",
+        "ca": "Cadena alimentària i controls",
+        "gl": "Cadea alimentaria e controis",
+        "eu": "Elikadura katea eta kontrolak",
+        "oc": "Cadena alimentària e contròtles",
+        "en": "Food supply chain and controls"
+      },
+      "text": {
+        "es": "Mejorar transparencia de la cadena alimentaria y capacidad negociadora de productores; promover controles sanitarios y de calidad equivalentes dentro del marco europeo.",
+        "ca": "Millorar transparència de la cadena alimentària i capacitat negociadora dels productors; promoure controls sanitaris i de qualitat equivalents dins el marc europeu.",
+        "gl": "Mellorar transparencia da cadea alimentaria e capacidade negociadora dos produtores; promover controis sanitarios e de calidade equivalentes dentro do marco europeo.",
+        "eu": "Elikadura katearen gardentasuna eta ekoizleen negoziazio ahalmena hobetzea; Europako esparruan osasun eta kalitate kontrol baliokideak sustatzea.",
+        "oc": "Melhorar transparéncia dera cadena alimentària e capacitat negociadora des productors; promòir contròtles sanitaris e de qualitat equivalents laguens deth marc europèu.",
+        "en": "Improve food-supply-chain transparency and producers’ bargaining power; promote equivalent health and quality controls within the European framework."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Mejorar la transparencia de la cadena alimentaria y la capacidad negociadora de productores."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-4",
+          "quote": "Promover controles sanitarios y de calidad equivalentes dentro del marco europeo."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-economy-and-taxes-rural-services",
+      "title": {
+        "es": "Conectividad y servicios rurales",
+        "ca": "Connectivitat i serveis rurals",
+        "gl": "Conectividade e servizos rurais",
+        "eu": "Landa konektibitatea eta zerbitzuak",
+        "oc": "Connectivitat e servicis ruraus",
+        "en": "Rural connectivity and services"
+      },
+      "text": {
+        "es": "Combatir la despoblación acercando conectividad, servicios públicos y actividad económica al medio rural.",
+        "ca": "Combatre el despoblament acostant connectivitat, serveis públics i activitat econòmica al medi rural.",
+        "gl": "Combater o despoboamento achegando conectividade, servizos públicos e actividade económica ao medio rural.",
+        "eu": "Despopulazioari aurre egitea, konektibitatea, zerbitzu publikoak eta jarduera ekonomikoa landa eremura hurbilduz.",
+        "oc": "Combàter eth despoblament apropant connectivitat, servicis publics e activitat economica ath miei rurau.",
+        "en": "Combat depopulation by bringing connectivity, public services and economic activity to rural areas."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Combatir la despoblación acercando conectividad, servicios públicos y actividad económica al medio rural."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-economy-and-taxes-technology-adoption",
+      "title": {
+        "es": "Adopción tecnológica sin barreras",
+        "ca": "Adopció tecnològica sense barreres",
+        "gl": "Adopción tecnolóxica sen barreiras",
+        "eu": "Teknologiaren erabilera oztoporik gabe",
+        "oc": "Adopcion tecnologica sense barrères",
+        "en": "Accessible technology adoption"
+      },
+      "text": {
+        "es": "Apoyar a pymes y ciudadanía en la adopción tecnológica y ampliar competencias digitales para todas las edades.",
+        "ca": "Donar suport a pimes i ciutadania en l’adopció tecnològica i ampliar competències digitals per a totes les edats.",
+        "gl": "Apoiar pemes e cidadanía na adopción tecnolóxica e ampliar competencias dixitais para todas as idades.",
+        "eu": "ETEei eta herritarrei teknologia erabiltzen laguntzea eta adin guztietako gaitasun digitalak zabaltzea.",
+        "oc": "Sostier pimes e ciutadania ena adopcion tecnologica e alargar competéncies digitaus entà totes es edats.",
+        "en": "Support SMEs and citizens in adopting technology and expand digital skills for all ages."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Apoyar a pymes y ciudadanía en la adopción tecnológica y ampliar competencias digitales para todas las edades."
+        }
+      ]
+    }
+  ]
+}

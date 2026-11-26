@@ -1,0 +1,154 @@
+{
+  "id": "geroa-bai--economy-and-taxes",
+  "partyId": "geroa-bai",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:50:40.349Z",
+  "sourceIds": ["geroa-bai-2026-4e011dc66095", "geroa-bai-2026-b2bb6fad0ff1"],
+  "points": [
+    {
+      "id": "geroa-bai-economy-and-taxes-redistribution",
+      "title": {
+        "es": "Gobiernos estables y reparto de la riqueza",
+        "ca": "Governs estables i repartiment de la riquesa",
+        "gl": "Gobernos estables e reparto da riqueza",
+        "eu": "Gobernu egonkorrak eta aberastasunaren banaketa",
+        "oc": "Govèrns estables e repartiment dera riquesa",
+        "en": "Stable governments and wealth redistribution"
+      },
+      "text": {
+        "es": "Construir gobiernos estables capaces de aplicar políticas públicas de reparto de la riqueza y de hacer realidad el bienestar del conjunto más amplio de la sociedad.",
+        "ca": "Construir governs estables capaços d’aplicar polítiques públiques de repartiment de la riquesa i de fer realitat el benestar del conjunt més ampli de la societat.",
+        "gl": "Construír gobernos estables capaces de aplicar políticas públicas de reparto da riqueza e de facer realidade o benestar do conxunto máis amplo da sociedade.",
+        "eu": "Aberastasuna birbanatzeko politika publikoak gauzatzeko eta gizartearen ahalik eta zati zabalenaren ongizatea egia bihurtzeko gai diren gobernu egonkorrak eraikitzea.",
+        "oc": "Bastir govèrns estables capables d’aplicar politiques publiques de repartiment dera riquesa e de hèr realitat eth benèster deth conjunt mès ample dera societat.",
+        "en": "Build stable governments capable of implementing public policies to redistribute wealth and deliver well-being for the broadest possible part of society."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-4",
+          "quote": "construyendo gobiernos estables, capaces de políticas públicas para el reparto de la r iqueza y que hagan realidad el bienestar del conjunto más amplio de la sociedad."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-4",
+          "quote": "gobernu egonkorrak eraikiz, aberastasuna birbanatzeko politika publikoak jarduteko gai direnak eta gizarte osoaren ongizatea errealitate egiten dutenak."
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-economy-and-taxes-rail-connection",
+      "title": {
+        "es": "Obligaciones ferroviarias y conexión con la Y vasca",
+        "ca": "Obligacions ferroviàries i connexió amb la Y basca",
+        "gl": "Obrigas ferroviarias e conexión coa Y vasca",
+        "eu": "Trenbide betebeharrak eta Euskal Yrekiko lotura",
+        "oc": "Obligacions ferroviàries e connexion damb era Y basca",
+        "en": "Rail obligations and the Basque Y connection"
+      },
+      "text": {
+        "es": "Exigir el cumplimiento de las obligaciones del Estado en infraestructuras ferroviarias en Navarra y resolver la definición de la conexión ferroviaria navarra con la Y vasca.",
+        "ca": "Exigir el compliment de les obligacions de l’Estat en infraestructures ferroviàries a Navarra i resoldre la definició de la connexió ferroviària navarresa amb la Y basca.",
+        "gl": "Esixir o cumprimento das obrigas do Estado en infraestruturas ferroviarias en Navarra e resolver a definición da conexión ferroviaria navarra coa Y vasca.",
+        "eu": "Estatuak Nafarroako trenbide azpiegituretan dituen betebeharrak betetzea eskatzea eta Nafarroaren eta Euskal Yren arteko trenbide loturaren zehaztapena ebaztea.",
+        "oc": "Exigir eth compliment des obligacions der Estat en infraestructures ferroviàries en Navarra e resòlver era definicion dera connexion ferroviària navarresa damb era Y basca.",
+        "en": "Demand fulfilment of the State’s rail infrastructure obligations in Navarre and settle the definition of Navarre’s rail connection to the Basque Y."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-7",
+          "quote": "exige el cumplimiento de las obligaciones que el Estado quiere obviar en nuestro territorio en materia de infraestructuras ferroviarias o de regadío."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-7",
+          "quote": "trenbide azpiegitura edo lursail ureztatuen alorretan, Estuak gure lurraldean ahazten dituen betebeharrak bete daitezela eskatzen duen subjektu."
+        },
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-12",
+          "quote": "la definición de la co nexión ferroviaria navarra con la Y vasca"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-11",
+          "quote": "Nafarroa Euskal Y-"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-12",
+          "quote": "rekin trenbidez lotzeko zehaztapena"
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-economy-and-taxes-irrigation",
+      "title": {
+        "es": "Cumplir los compromisos de regadío",
+        "ca": "Complir els compromisos de regadiu",
+        "gl": "Cumprir os compromisos de regadío",
+        "eu": "Ureztatzeko konpromisoak betetzea",
+        "oc": "Complir es compromisi de regatge",
+        "en": "Fulfil irrigation commitments"
+      },
+      "text": {
+        "es": "Exigir al Estado que cumpla sus obligaciones y los compromisos pendientes con el regadío navarro.",
+        "ca": "Exigir a l’Estat que compleixi les seves obligacions i els compromisos pendents amb el regadiu navarrès.",
+        "gl": "Esixir ao Estado que cumpra as súas obrigas e os compromisos pendentes co regadío navarro.",
+        "eu": "Estatuak Nafarroako ureztatzeari buruz dituen betebeharrak eta bete gabeko konpromisoak betetzea eskatzea.",
+        "oc": "Exigir ar Estat que complisque es sues obligacions e es compromisi pendents damb eth regatge navarrés.",
+        "en": "Demand that the State fulfil its obligations and outstanding commitments on irrigation in Navarre."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-7",
+          "quote": "exige el cumplimiento de las obligaciones que el Estado quiere obviar en nuestro territorio en materia de infraestructuras ferroviarias o de regadío."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-7",
+          "quote": "trenbide azpiegitura edo lursail ureztatuen alorretan, Estuak gure lurraldean ahazten dituen betebeharrak bete daitezela eskatzen duen subjektu."
+        }
+      ]
+    },
+    {
+      "id": "geroa-bai-economy-and-taxes-economic-agreement",
+      "title": {
+        "es": "Mantener el Convenio Económico",
+        "ca": "Mantenir el Convenio Económico",
+        "gl": "Manter o Convenio Económico",
+        "eu": "Hitzarmen Ekonomikoa mantentzea",
+        "oc": "Mantier eth Convenio Económico",
+        "en": "Preserve the Convenio Económico"
+      },
+      "text": {
+        "es": "Defender la permanencia del Convenio Económico como herramienta básica del autogobierno de Navarra.",
+        "ca": "Defensar la permanència del Convenio Económico com a eina bàsica de l’autogovern de Navarra.",
+        "gl": "Defender a permanencia do Convenio Económico como ferramenta básica do autogoberno de Navarra.",
+        "eu": "Hitzarmen Ekonomikoaren mantentzea defendatzea, Nafarroako autogobernuaren oinarrizko tresna den heinean.",
+        "oc": "Deféner era permanéncia deth Convenio Económico coma estrument basic der autogovèrn de Navarra.",
+        "en": "Defend the continued existence of the Convenio Económico as a basic instrument of Navarre’s self-government."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-9",
+          "quote": "Geroa Bai defenderá en las urnas el próximo 29 de noviembre la permanencia del Convenio Económico como herramienta básica del autogobierno"
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-9",
+          "quote": "Geroa Baik Hitzarmen Ekonomikoaren mantentzea defendatuko du hautestontzietan, autogobernuaren oinarrizko tresna den heinean"
+        }
+      ]
+    }
+  ]
+}

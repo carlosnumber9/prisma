@@ -1,0 +1,92 @@
+{
+  "id": "soria-ya--employment",
+  "partyId": "soria-ya",
+  "topicId": "employment",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:47:30.814Z",
+  "sourceIds": ["soria-ya-2026-18b4c4dc4875", "soria-ya-2026-042e8da39561"],
+  "points": [
+    {
+      "id": "soria-ya-employment-investment-jobs",
+      "title": {
+        "es": "Inversión y empleo",
+        "ca": "Inversió i ocupació",
+        "gl": "Investimento e emprego",
+        "eu": "Inbertsioa eta enplegua",
+        "oc": "Inversion e emplec",
+        "en": "Investment and jobs"
+      },
+      "text": {
+        "es": "Establecer incentivos específicos a la inversión empresarial y la creación de empleo en territorios escasamente poblados.",
+        "ca": "Establir incentius específics a la inversió empresarial i la creació d’ocupació en territoris escassament poblats.",
+        "gl": "Establecer incentivos específicos ao investimento empresarial e á creación de emprego en territorios escasamente poboados.",
+        "eu": "Biztanle gutxiko lurraldeetan enpresa inbertsiorako eta enplegua sortzeko pizgarri bereziak ezartzea.",
+        "oc": "Establir incentius especifics ara inversion empresariau e ara creacion d’emplec en territòris damb pòga poblacion.",
+        "en": "Establish specific incentives for business investment and job creation in sparsely populated areas."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "logistics",
+          "quote": "Establecer incentivos específicos a la inversión empresarial y a la creación de empleo en territorios escasamente poblados."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-employment-business-succession",
+      "title": {
+        "es": "Relevo de negocios y explotaciones",
+        "ca": "Relleu de negocis i explotacions",
+        "gl": "Remuda de negocios e explotacións",
+        "eu": "Negozio eta ustiategien erreleboa",
+        "oc": "Relèu de negòcis e explotacions",
+        "en": "Business and farm succession"
+      },
+      "text": {
+        "es": "Dar ayudas directas, financiación, asesoramiento y apoyo a la transmisión de negocios, empresas y explotaciones agrarias de titulares que se jubilen a jóvenes, evitando cierres de actividades viables y preservando empleo y actividad en los pueblos.",
+        "ca": "Donar ajuts directes, finançament, assessorament i suport a la transmissió de negocis, empreses i explotacions agràries de titulars que es jubilin a joves, evitant tancaments d’activitats viables i preservant ocupació i activitat als pobles.",
+        "gl": "Dar axudas directas, financiamento, asesoramento e apoio á transmisión de negocios, empresas e explotacións agrarias de titulares que se xubilen a mozos, evitando peches de actividades viables e preservando emprego e actividade nas vilas.",
+        "eu": "Erretiroa hartzen duten titularren negozio, enpresa eta nekazaritza ustiategiak gazteei eskualdatzeko zuzeneko laguntzak, finantzaketa eta aholkularitza ematea, jarduera bideragarriak ixtea saihestuz eta herrietako enplegua eta jarduera babestuz.",
+        "oc": "Dar ajudes dirèctes, finançament, assessorament e supòrt ara transmission de negòcis, empreses e explotacions agràries de titulars que se jubilen a joeni, evitant barraments d’activitats viables e preservant emplec e activitat enes pòbles.",
+        "en": "Provide direct aid, finance, advice and transfer support for young people taking over businesses, companies and farms whose owners retire, preventing viable activities from closing and preserving village employment and economic activity."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "succession",
+          "quote": "Establecer ayudas directas para facilitar que jóvenes asuman negocios, empresas y explotaciones agrarias cuyos titulares se jubilen, mediante mecanismos de financiación, asesoramiento y apoyo a la transmisión de la actividad para evitar el cierre de negocios viables, preservar el empleo y la actividad en nuestros pueblos."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-employment-public-workers",
+      "title": {
+        "es": "Atraer y retener personal público",
+        "ca": "Atraure i retenir personal públic",
+        "gl": "Atraer e reter persoal público",
+        "eu": "Langile publikoak erakarri eta atxikitzea",
+        "oc": "Atraïr e retier personau public",
+        "en": "Attract and retain public staff"
+      },
+      "text": {
+        "es": "Establecer incentivos económicos, profesionales y de vivienda para atraer y retener empleados públicos en zonas despobladas, cubriendo efectivamente las plazas y asegurando continuidad y calidad de los servicios.",
+        "ca": "Establir incentius econòmics, professionals i d’habitatge per atraure i retenir empleats públics en zones despoblades, cobrint efectivament les places i assegurant continuïtat i qualitat dels serveis.",
+        "gl": "Establecer incentivos económicos, profesionais e de vivenda para atraer e reter empregados públicos en zonas despoboadas, cubrindo efectivamente as prazas e asegurando continuidade e calidade dos servizos.",
+        "eu": "Despopulatutako eremuetan langile publikoak erakarri eta atxikitzeko pizgarri ekonomikoak, profesionalak eta etxebizitzakoak ezartzea, lanpostuak benetan betez eta zerbitzuen jarraipena eta kalitatea bermatuz.",
+        "oc": "Establir incentius economics, professionaus e d’abitatge entà atraïr e retier emplegats publics en zònes despoblades, cobrint efectivament es places e assegurant continuïtat e qualitat des servicis.",
+        "en": "Establish financial, professional and housing incentives to attract and retain public employees in depopulated areas, ensuring posts are actually filled and services remain continuous and high-quality."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "services",
+          "quote": "Garantizar los servicios públicos esenciales en un máximo de 30 minutos, con independencia del lugar de residencia, mediante una financiación suficiente, estable y adaptada a la dispersión territorial y al envejecimiento de la población, incluyendo los servicios prestados por las entidades locales. Establecer incentivos económicos, profesionales y de vivienda para atraer y retener empleados públicos en zonas despobladas, asegurando la cobertura efectiva de las plazas y la continuidad y calidad de los servicios."
+        }
+      ]
+    }
+  ]
+}

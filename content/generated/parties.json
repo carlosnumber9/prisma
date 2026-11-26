@@ -43,6 +43,11 @@
       "officialWebsite": "https://frenteobrero.es/"
     },
     {
+      "id": "geroa-bai",
+      "name": "Geroa Bai",
+      "officialWebsite": "https://geroabai.eus/"
+    },
+    {
       "id": "partido-autonomos",
       "name": "Partido Autónomos",
       "officialWebsite": "https://www.partidoautonomos.es/"
@@ -68,6 +73,16 @@
       "name": "PSOE",
       "officialWebsite": "https://www.psoe.es/",
       "officialColor": "#E20025"
+    },
+    {
+      "id": "soria-ya",
+      "name": "Soria ¡YA!",
+      "officialWebsite": "https://soriaya.org/"
+    },
+    {
+      "id": "tercera-edad-en-accion",
+      "name": "Tercera Edad en Acción",
+      "officialWebsite": "https://3edad.org/"
     },
     {
       "id": "vox",

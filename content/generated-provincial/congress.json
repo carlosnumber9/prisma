@@ -1653,8 +1653,8 @@
         },
         {
           "id": "formation-tercera-edad-en-accion-3e",
-          "label": "3e",
-          "programmeId": null
+          "label": "Tercera Edad en Acción",
+          "programmeId": "tercera-edad-en-accion"
         },
         {
           "id": "frente-amplio",
@@ -1708,8 +1708,8 @@
         },
         {
           "id": "formation-geroa-bai-gbai",
-          "label": "GBAI",
-          "programmeId": null
+          "label": "Geroa Bai",
+          "programmeId": "geroa-bai"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",
@@ -2358,8 +2358,8 @@
         },
         {
           "id": "formation-soria-ya-sy",
-          "label": "SY",
-          "programmeId": null
+          "label": "Soria ¡YA!",
+          "programmeId": "soria-ya"
         },
         {
           "id": "frente-amplio",

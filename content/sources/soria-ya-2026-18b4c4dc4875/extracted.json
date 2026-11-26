@@ -1,0 +1,66 @@
+{
+  "sourceId": "soria-ya-2026-18b4c4dc4875",
+  "sourceSha256": "18b4c4dc4875923606f90aa632a29476542a1d1e2f21126b84e32bcb4c881b03",
+  "segments": [
+    {
+      "id": "agencies",
+      "section": "SORIA, SEDE DE ORGANISMOS PÚBLICOS",
+      "text": "Descentralización de organismos estatales en Soria, garantizando su funcionamiento mediante la dotación de personal, recursos y competencias reales: creación en Soria de la Academia Nacional de Bomberos Forestales y de una Unidad Militar de Emergencias (UME) permanente en Soria."
+    },
+    {
+      "id": "digital",
+      "section": "CONECTIVIDAD DIGITAL PARA TODOS",
+      "text": "Acceso a internet de alta velocidad y cobertura de telefonía móvil de calidad en todos los municipios sorianos, sin excepción."
+    },
+    {
+      "id": "education",
+      "section": "EDUCACIÓN Y TALENTO: ESTUDIAR FUERA, VOLVER A SORIA",
+      "text": "Becas especiales de movilidad y residencia, prácticas remuneradas, incentivos al primer empleo y ayudas al retorno de jóvenes titulados en zonas escasamente pobladas."
+    },
+    {
+      "id": "energy",
+      "section": "ENERGÍA DE SORIA PARA EL DESARROLLO DE SORIA",
+      "text": "Reclamamos inversiones urgentes en las redes de transporte y distribución que garanticen el suministro y la capacidad de acceso en nuestros polos industriales, así como compensaciones económicas por la energía generada."
+    },
+    {
+      "id": "health",
+      "section": "ACCESO SEGURO A LA SANIDAD",
+      "text": "Autovía Soria-Burgos: infraestructura imprescindible para garantizar conexión rápida y segura con Burgos, donde se encuentra el hospital de referencia de Soria."
+    },
+    {
+      "id": "housing",
+      "section": "PLAN DE VIVIENDA PARA ZONAS DESPOBLADAS",
+      "text": "Impulsar un programa nacional de construcción de viviendas, especialmente en el medio rural; ayudas a la rehabilitación vinculadas al alquiler asequible, garantías para propietarios que incorporen sus viviendas al mercado, incentivos para adquisición de primera vivienda y fórmulas de alquiler con opción a compra."
+    },
+    {
+      "id": "logistics",
+      "section": "Impulso logístico, inversión, emprendimiento Y NÓMADAS DIGITALES",
+      "text": "Establecer incentivos específicos a la inversión empresarial y a la creación de empleo en territorios escasamente poblados.\n\nFavorecer la atracción de profesionales y nómadas digitales mediante una reforma normativa que permita ampliar los plazos de autorización de residencia y teletrabajo para quienes se establezcan en estas provincias.\n\nImplantar una cuota reducida permanente de 80 euros mensuales para los trabajadores autónomos que desarrollen su actividad en zonas escasamente pobladas\n\nmediante el desarrollo de un puerto seco en el Alto Jalón."
+    },
+    {
+      "id": "plan",
+      "section": "PLAN EXTRAORDINARIO DE 10 AÑOS CONTRA LA DESPOBLACIÓN",
+      "text": "Ayudas al funcionamiento al máximo legal permitido por la Unión Europea.\n\nImpulsar un programa específico para Soria, con financiación estable mediante un Fondo de Inversiones para Soria (similar al existente en Teruel) que permita aplicar medidas excepcionales de fiscalidad para residentes, empresas y autónomos, así como actuaciones especiales en vivienda, empleo, inversión y servicios públicos.\n\nPLAN EXTRAORDINARIO DE 10 AÑOS CONTRA LA DESPOBLACIÓN"
+    },
+    {
+      "id": "rural",
+      "section": "IMPULSO A NUESTRO CAMPO, MONTES Y MEDIOAMBIENTE",
+      "text": "Apoyo a agricultores y ganaderos, con menos burocracia, ayudas adaptadas a las dificultades del medio rural despoblado y medidas que garanticen la rentabilidad de las explotaciones, el relevo generacional y la transformación de nuestros productos en Soria. Aprovechamiento de nuestros recursos forestales, favoreciendo la creación de industrias y empleo. Reconocimiento y compensación económica a nuestros municipios por los beneficios ambientales de sus montes.\n\nAprovechamiento de nuestros recursos forestales, favoreciendo la creación de industrias y empleo. Reconocimiento y compensación económica a nuestros municipios por los beneficios ambientales de sus montes."
+    },
+    {
+      "id": "services",
+      "section": "GARANTÍA DE SERVICIOS PÚBLICOS EN EL MEDIO RURAL",
+      "text": "Garantizar los servicios públicos esenciales en un máximo de 30 minutos, con independencia del lugar de residencia, mediante una financiación suficiente, estable y adaptada a la dispersión territorial y al envejecimiento de la población, incluyendo los servicios prestados por las entidades locales. Establecer incentivos económicos, profesionales y de vivienda para atraer y retener empleados públicos en zonas despobladas, asegurando la cobertura efectiva de las plazas y la continuidad y calidad de los servicios."
+    },
+    {
+      "id": "succession",
+      "section": "PLAN DE RELEVO GENERACIONAL",
+      "text": "Establecer ayudas directas para facilitar que jóvenes asuman negocios, empresas y explotaciones agrarias cuyos titulares se jubilen, mediante mecanismos de financiación, asesoramiento y apoyo a la transmisión de la actividad para evitar el cierre de negocios viables, preservar el empleo y la actividad en nuestros pueblos."
+    },
+    {
+      "id": "transport",
+      "section": "AUTOVÍAS Y FERROCARRIL: ACABAR CON EL AISLAMIENTO DE SORIA",
+      "text": "Electrificación y doble vía de la línea férrea Soria–Torralba, y aumento de frecuencias a Madrid.\n\nEstación de AVE en el sur de Soria, para conexión directa a Madrid-Zaragoza-Barcelona.\n\nFinalización de la A-11 hasta Valladolid y de la A-15 hasta Navarra.\n\nImpulso de las conexiones por autovía Soria–Logroño, Soria–Calamocha y Soria–Segovia y ejecución de la variante de San Esteban de Gormaz\n\nImpulso del corredor ferroviario Valladolid-Aranda-San Esteban de Gormaz- El Burgo de Osma-Soria-Zaragoza.\n\nModernización integral de la circunvalación SO-20.\n\nReapertura de la línea Soria–Castejón."
+    }
+  ]
+}

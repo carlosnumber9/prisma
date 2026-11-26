@@ -1,0 +1,372 @@
+{
+  "id": "soria-ya--economy-and-taxes",
+  "partyId": "soria-ya",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:47:30.812Z",
+  "sourceIds": ["soria-ya-2026-18b4c4dc4875", "soria-ya-2026-042e8da39561"],
+  "points": [
+    {
+      "id": "soria-ya-economy-and-taxes-ten-year-fund",
+      "title": {
+        "es": "Fondo contra la despoblación",
+        "ca": "Fons contra el despoblament",
+        "gl": "Fondo contra o despoboamento",
+        "eu": "Despopulazioaren aurkako funtsa",
+        "oc": "Hons contra eth despoblament",
+        "en": "Fund against depopulation"
+      },
+      "text": {
+        "es": "Impulsar un plan extraordinario de diez años para Soria con financiación estable mediante un Fondo de Inversiones, similar al de Teruel, medidas fiscales excepcionales para residentes, empresas y autónomos y actuaciones especiales en vivienda, empleo, inversión y servicios públicos.",
+        "ca": "Impulsar un pla extraordinari de deu anys per a Sòria amb finançament estable mitjançant un Fons d’Inversions, semblant al de Terol, mesures fiscals excepcionals per a residents, empreses i autònoms i actuacions especials en habitatge, ocupació, inversió i serveis públics.",
+        "gl": "Impulsar un plan extraordinario de dez anos para Soria con financiamento estable mediante un Fondo de Investimentos, similar ao de Teruel, medidas fiscais excepcionais para residentes, empresas e autónomos e actuacións especiais en vivenda, emprego, investimento e servizos públicos.",
+        "eu": "Soriarako hamar urteko aparteko plana bultzatzea, Teruelgoaren antzeko Inbertsio Funtsaren bidez finantzaketa egonkorra, egoiliar, enpresa eta autonomoentzako aparteko zerga neurriak eta etxebizitza, enplegu, inbertsio eta zerbitzu publikoetarako jarduketa bereziak izanik.",
+        "oc": "Impulsar un plan extraordinari de dètz ans entà Soria damb finançament estable mejançant un Hons d’Inversions, semblant ath de Teruel, mesures fiscaus excepcionaus entà residents, empreses e autonòms e actuacions especiaus en abitatge, emplec, inversion e servicis publics.",
+        "en": "Promote an exceptional ten-year plan for Soria with stable funding through an Investment Fund similar to Teruel’s, exceptional tax measures for residents, companies and self-employed workers, and special measures on housing, employment, investment and public services."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "plan",
+          "quote": "Impulsar un programa específico para Soria, con financiación estable mediante un Fondo de Inversiones para Soria (similar al existente en Teruel) que permita aplicar medidas excepcionales de fiscalidad para residentes, empresas y autónomos, así como actuaciones especiales en vivienda, empleo, inversión y servicios públicos."
+        },
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "plan",
+          "quote": "PLAN EXTRAORDINARIO DE 10 AÑOS CONTRA LA DESPOBLACIÓN"
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-operating-aid",
+      "title": {
+        "es": "Ayudas al funcionamiento",
+        "ca": "Ajuts al funcionament",
+        "gl": "Axudas ao funcionamento",
+        "eu": "Funtzionamendurako laguntzak",
+        "oc": "Ajudes ath foncionament",
+        "en": "Operating aid"
+      },
+      "text": {
+        "es": "Aplicar las ayudas al funcionamiento al máximo legal permitido por la Unión Europea.",
+        "ca": "Aplicar els ajuts al funcionament al màxim legal permès per la Unió Europea.",
+        "gl": "Aplicar as axudas ao funcionamento ao máximo legal permitido pola Unión Europea.",
+        "eu": "Europar Batasunak legez baimentzen duen gehieneko funtzionamendu laguntza aplikatzea.",
+        "oc": "Aplicar es ajudes ath foncionament ath maxim legau permetut pera Union Europèa.",
+        "en": "Apply operating aid at the maximum level legally permitted by the European Union."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "plan",
+          "quote": "Ayudas al funcionamiento al máximo legal permitido por la Unión Europea."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-a11-a15",
+      "title": {
+        "es": "Finalizar A-11 y A-15",
+        "ca": "Acabar l’A-11 i l’A-15",
+        "gl": "Rematar A-11 e A-15",
+        "eu": "A-11 eta A-15 amaitzea",
+        "oc": "Acabar A-11 e A-15",
+        "en": "Complete A-11 and A-15"
+      },
+      "text": {
+        "es": "Finalizar la A-11 hasta Valladolid y la A-15 hasta Navarra.",
+        "ca": "Acabar l’A-11 fins a Valladolid i l’A-15 fins a Navarra.",
+        "gl": "Rematar a A-11 ata Valladolid e a A-15 ata Navarra.",
+        "eu": "A-11 Valladolid arte eta A-15 Nafarroa arte amaitzea.",
+        "oc": "Acabar era A-11 enquia Valladolid e era A-15 enquia Navarra.",
+        "en": "Complete the A-11 to Valladolid and the A-15 to Navarra."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "transport",
+          "quote": "Finalización de la A-11 hasta Valladolid y de la A-15 hasta Navarra."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-motorway-links",
+      "title": {
+        "es": "Conexiones por autovía y variante",
+        "ca": "Connexions per autovia i variant",
+        "gl": "Conexións por autovía e variante",
+        "eu": "Autobia loturak eta saihesbidea",
+        "oc": "Connexions per autovia e varianta",
+        "en": "Motorway links and bypass"
+      },
+      "text": {
+        "es": "Impulsar las autovías Soria–Logroño, Soria–Calamocha y Soria–Segovia y ejecutar la variante de San Esteban de Gormaz que conecta la A11 con la N 110.",
+        "ca": "Impulsar les autovies Sòria–Logronyo, Sòria–Calamocha i Sòria–Segòvia i executar la variant de San Esteban de Gormaz que connecta l’A11 amb l’N 110.",
+        "gl": "Impulsar as autovías Soria–Logroño, Soria–Calamocha e Soria–Segovia e executar a variante de San Esteban de Gormaz que conecta a A11 coa N 110.",
+        "eu": "Soria–Logroño, Soria–Calamocha eta Soria–Segovia autobiak bultzatzea eta A11 eta N 110 lotzen dituen San Esteban de Gormazko saihesbidea egitea.",
+        "oc": "Impulsar es autovies Soria–Logroño, Soria–Calamocha e Soria–Segovia e executar era varianta de San Esteban de Gormaz que connècte era A11 damb era N 110.",
+        "en": "Promote the Soria–Logroño, Soria–Calamocha and Soria–Segovia motorways and build the San Esteban de Gormaz bypass connecting the A11 with the N 110."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "transport",
+          "quote": "Impulso de las conexiones por autovía Soria–Logroño, Soria–Calamocha y Soria–Segovia y ejecución de la variante de San Esteban de Gormaz"
+        },
+        {
+          "sourceId": "soria-ya-2026-042e8da39561",
+          "segmentId": "page-1",
+          "quote": "San Esteban de Gormaz, A11 con la N 110."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-so20",
+      "title": {
+        "es": "Modernizar la SO-20",
+        "ca": "Modernitzar la SO-20",
+        "gl": "Modernizar a SO-20",
+        "eu": "SO-20 modernizatzea",
+        "oc": "Modernizar era SO-20",
+        "en": "Modernise the SO-20"
+      },
+      "text": {
+        "es": "Modernizar integralmente la circunvalación SO-20.",
+        "ca": "Modernitzar íntegrament la circumval·lació SO-20.",
+        "gl": "Modernizar integralmente a circunvalación SO-20.",
+        "eu": "SO-20 ingurabidea osorik modernizatzea.",
+        "oc": "Modernizar integraument era circonvallacion SO-20.",
+        "en": "Comprehensively modernise the SO-20 ring road."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "transport",
+          "quote": "Modernización integral de la circunvalación SO-20."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-soria-torralba",
+      "title": {
+        "es": "Soria–Torralba y Madrid",
+        "ca": "Sòria–Torralba i Madrid",
+        "gl": "Soria–Torralba e Madrid",
+        "eu": "Soria–Torralba eta Madril",
+        "oc": "Soria–Torralba e Madrid",
+        "en": "Soria–Torralba and Madrid"
+      },
+      "text": {
+        "es": "Electrificar y dotar de doble vía la línea Soria–Torralba y aumentar las frecuencias a Madrid.",
+        "ca": "Electrificar i dotar de doble via la línia Sòria–Torralba i augmentar les freqüències a Madrid.",
+        "gl": "Electrificar e dotar de dobre vía a liña Soria–Torralba e aumentar as frecuencias a Madrid.",
+        "eu": "Soria–Torralba trenbidea elektrifikatu eta bikoiztea, eta Madrilerako maiztasunak handitzea.",
+        "oc": "Electrificar e dotar de dobla via era linha Soria–Torralba e aumentar es freqüéncies a Madrid.",
+        "en": "Electrify and double-track the Soria–Torralba railway and increase service frequencies to Madrid."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "transport",
+          "quote": "Electrificación y doble vía de la línea férrea Soria–Torralba, y aumento de frecuencias a Madrid."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-soria-castejon",
+      "title": {
+        "es": "Reabrir Soria–Castejón",
+        "ca": "Reobrir Sòria–Castejón",
+        "gl": "Reabrir Soria–Castejón",
+        "eu": "Soria–Castejón berriz irekitzea",
+        "oc": "Tornar a daurir Soria–Castejón",
+        "en": "Reopen Soria–Castejón"
+      },
+      "text": {
+        "es": "Reabrir la línea ferroviaria Soria–Castejón.",
+        "ca": "Reobrir la línia ferroviària Sòria–Castejón.",
+        "gl": "Reabrir a liña ferroviaria Soria–Castejón.",
+        "eu": "Soria–Castejón trenbidea berriz irekitzea.",
+        "oc": "Tornar a daurir era linha ferroviària Soria–Castejón.",
+        "en": "Reopen the Soria–Castejón railway."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "transport",
+          "quote": "Reapertura de la línea Soria–Castejón."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-ave-station",
+      "title": {
+        "es": "Estación de AVE al sur",
+        "ca": "Estació d’AVE al sud",
+        "gl": "Estación de AVE ao sur",
+        "eu": "AVE geltokia hegoaldean",
+        "oc": "Estacion d’AVE ath sud",
+        "en": "Southern AVE station"
+      },
+      "text": {
+        "es": "Crear una estación de AVE en el sur de Soria con conexión directa a Madrid–Zaragoza–Barcelona.",
+        "ca": "Crear una estació d’AVE al sud de Sòria amb connexió directa a Madrid–Saragossa–Barcelona.",
+        "gl": "Crear unha estación de AVE no sur de Soria con conexión directa a Madrid–Zaragoza–Barcelona.",
+        "eu": "Soriako hegoaldean AVE geltokia sortzea, Madril–Zaragoza–Bartzelonarako zuzeneko loturarekin.",
+        "oc": "Crear ua estacion d’AVE ath sud de Soria damb connexion dirècta a Madrid–Zaragoza–Barcelona.",
+        "en": "Create an AVE high-speed station in southern Soria with a direct Madrid–Zaragoza–Barcelona connection."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "transport",
+          "quote": "Estación de AVE en el sur de Soria, para conexión directa a Madrid-Zaragoza-Barcelona."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-rail-corridor",
+      "title": {
+        "es": "Corredor ferroviario transversal",
+        "ca": "Corredor ferroviari transversal",
+        "gl": "Corredor ferroviario transversal",
+        "eu": "Zeharkako trenbide korridorea",
+        "oc": "Corredor ferroviari transversau",
+        "en": "Cross-regional rail corridor"
+      },
+      "text": {
+        "es": "Impulsar el corredor Valladolid–Aranda–San Esteban de Gormaz–El Burgo de Osma–Soria–Zaragoza.",
+        "ca": "Impulsar el corredor Valladolid–Aranda–San Esteban de Gormaz–El Burgo de Osma–Sòria–Saragossa.",
+        "gl": "Impulsar o corredor Valladolid–Aranda–San Esteban de Gormaz–El Burgo de Osma–Soria–Zaragoza.",
+        "eu": "Valladolid–Aranda–San Esteban de Gormaz–El Burgo de Osma–Soria–Zaragoza korridorea bultzatzea.",
+        "oc": "Impulsar eth corredor Valladolid–Aranda–San Esteban de Gormaz–El Burgo de Osma–Soria–Zaragoza.",
+        "en": "Promote the Valladolid–Aranda–San Esteban de Gormaz–El Burgo de Osma–Soria–Zaragoza rail corridor."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "transport",
+          "quote": "Impulso del corredor ferroviario Valladolid-Aranda-San Esteban de Gormaz- El Burgo de Osma-Soria-Zaragoza."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-digital-coverage",
+      "title": {
+        "es": "Conectividad sin excepciones",
+        "ca": "Connectivitat sense excepcions",
+        "gl": "Conectividade sen excepcións",
+        "eu": "Salbuespenik gabeko konektibitatea",
+        "oc": "Connectivitat sense excepcions",
+        "en": "Connectivity without exceptions"
+      },
+      "text": {
+        "es": "Garantizar internet de alta velocidad y telefonía móvil de calidad en todos los municipios sorianos, sin excepción.",
+        "ca": "Garantir internet d’alta velocitat i telefonia mòbil de qualitat a tots els municipis sorians, sense excepció.",
+        "gl": "Garantir internet de alta velocidade e telefonía móbil de calidade en todos os municipios sorianos, sen excepción.",
+        "eu": "Soriako udalerri guztietan, salbuespenik gabe, abiadura handiko internet eta kalitatezko telefonia mugikorra bermatzea.",
+        "oc": "Garantir internet de nauta velocitat e telefonia mobila de qualitat en toti es municipis sorians, sense excepcion.",
+        "en": "Guarantee high-speed internet and quality mobile coverage in every municipality in Soria, without exception."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "digital",
+          "quote": "Acceso a internet de alta velocidad y cobertura de telefonía móvil de calidad en todos los municipios sorianos, sin excepción."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-dry-port",
+      "title": {
+        "es": "Puerto seco en Alto Jalón",
+        "ca": "Port sec a l’Alto Jalón",
+        "gl": "Porto seco no Alto Jalón",
+        "eu": "Portu lehorra Alto Jalónen",
+        "oc": "Pòrt sec en Alto Jalón",
+        "en": "Alto Jalón dry port"
+      },
+      "text": {
+        "es": "Desarrollar un puerto seco en el Alto Jalón para corregir el déficit logístico provincial, aprovechando su posición entre el corredor del Henares y el valle del Ebro.",
+        "ca": "Desenvolupar un port sec a l’Alto Jalón per corregir el dèficit logístic provincial, aprofitant la posició entre el corredor de l’Henares i la vall de l’Ebre.",
+        "gl": "Desenvolver un porto seco no Alto Jalón para corrixir o déficit loxístico provincial, aproveitando a súa posición entre o corredor do Henares e o val do Ebro.",
+        "eu": "Alto Jalónen portu lehorra garatzea probintziako defizit logistikoa zuzentzeko, Henaresko korridorearen eta Ebro haranaren arteko kokapena baliatuz.",
+        "oc": "Desvolopar un pòrt sec en Alto Jalón entà corregir eth deficit logistic provinciau, aprofitant era posicion entre eth corredor deth Henares e era val der Ebro.",
+        "en": "Develop a dry port in Alto Jalón to address the province’s logistics infrastructure deficit, using its position between the Henares corridor and the Ebro valley."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "logistics",
+          "quote": "mediante el desarrollo de un puerto seco en el Alto Jalón."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-self-employed-fee",
+      "title": {
+        "es": "Cuota permanente de 80 euros",
+        "ca": "Quota permanent de 80 euros",
+        "gl": "Cota permanente de 80 euros",
+        "eu": "80 euroko kuota iraunkorra",
+        "oc": "Quòta permanenta de 80 èuros",
+        "en": "Permanent €80 contribution"
+      },
+      "text": {
+        "es": "Implantar una cuota reducida permanente de 80 euros mensuales para autónomos que trabajen en zonas escasamente pobladas, para favorecer el emprendimiento, la continuidad de negocios y la fijación de población.",
+        "ca": "Implantar una quota reduïda permanent de 80 euros mensuals per a autònoms que treballin en zones escassament poblades, per afavorir l’emprenedoria, la continuïtat dels negocis i l’arrelament de població.",
+        "gl": "Implantar unha cota reducida permanente de 80 euros mensuais para autónomos que traballen en zonas escasamente poboadas, para favorecer o emprendemento, a continuidade dos negocios e a fixación de poboación.",
+        "eu": "Biztanle gutxiko eremuetan jarduten duten autonomoentzat hileko 80 euroko kuota murriztu iraunkorra ezartzea, ekintzailetza, negozioen jarraipena eta biztanleen errotzea bultzatzeko.",
+        "oc": "Implantar ua quòta redusida permanenta de 80 èuros mensuaus entà autonòms que trabalhen en zònes damb pòga poblacion, entà favorir era emprenedoria, era continuïtat des negòcis e era fixacion de poblacion.",
+        "en": "Introduce a permanent reduced contribution of €80 per month for self-employed workers operating in sparsely populated areas, supporting entrepreneurship, business continuity and population retention."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "logistics",
+          "quote": "Implantar una cuota reducida permanente de 80 euros mensuales para los trabajadores autónomos que desarrollen su actividad en zonas escasamente pobladas"
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-economy-and-taxes-farming",
+      "title": {
+        "es": "Rentabilidad y transformación agraria",
+        "ca": "Rendibilitat i transformació agrària",
+        "gl": "Rendibilidade e transformación agraria",
+        "eu": "Nekazaritzako errentagarritasuna eta eraldaketa",
+        "oc": "Rendabilitat e transformacion agrària",
+        "en": "Farm profitability and processing"
+      },
+      "text": {
+        "es": "Apoyar a agricultores y ganaderos con menos burocracia, ayudas adaptadas al medio rural despoblado y medidas para garantizar rentabilidad, relevo generacional y transformación de sus productos en Soria.",
+        "ca": "Donar suport a agricultors i ramaders amb menys burocràcia, ajuts adaptats al medi rural despoblat i mesures per garantir rendibilitat, relleu generacional i transformació dels seus productes a Sòria.",
+        "gl": "Apoiar agricultores e gandeiros con menos burocracia, axudas adaptadas ao medio rural despoboado e medidas para garantir rendibilidade, remuda xeracional e transformación dos seus produtos en Soria.",
+        "eu": "Nekazari eta abeltzainei laguntzea, burokrazia gutxiagorekin, despopulatutako landa eremuetara egokitutako laguntzekin eta errentagarritasuna, belaunaldi erreleboa eta produktuak Sorian eraldatzea bermatzeko neurriekin.",
+        "oc": "Sostier agricultors e ramadèrs damb mens burocràcia, ajudes adaptades ath miei rurau despoblat e mesures entà garantir rendabilitat, relèu generacionau e transformacion des sòns productes en Soria.",
+        "en": "Support farmers and livestock breeders with less bureaucracy, aid adapted to depopulated rural areas and measures ensuring profitability, generational renewal and processing of their products in Soria."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "rural",
+          "quote": "Apoyo a agricultores y ganaderos, con menos burocracia, ayudas adaptadas a las dificultades del medio rural despoblado y medidas que garanticen la rentabilidad de las explotaciones, el relevo generacional y la transformación de nuestros productos en Soria. Aprovechamiento de nuestros recursos forestales, favoreciendo la creación de industrias y empleo. Reconocimiento y compensación económica a nuestros municipios por los beneficios ambientales de sus montes."
+        }
+      ]
+    }
+  ]
+}

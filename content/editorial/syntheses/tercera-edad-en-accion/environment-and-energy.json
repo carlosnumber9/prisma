@@ -1,0 +1,107 @@
+{
+  "id": "tercera-edad-en-accion--environment-and-energy",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "environment-and-energy",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.371Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-environment-and-energy-water",
+      "title": {
+        "es": "Regadíos y planificación del agua",
+        "ca": "Regadius i planificació de l’aigua",
+        "gl": "Regadíos e planificación da auga",
+        "eu": "Ureztapena eta uraren plangintza",
+        "oc": "Irrigacion e planificacion dera aigua",
+        "en": "Irrigation and water planning"
+      },
+      "text": {
+        "es": "Modernizar regadíos y fomentar ahorro, reutilización y gestión eficiente del agua; planificarla con cooperación territorial, evidencia técnica y evaluación ambiental, usando desalación cuando sea adecuada.",
+        "ca": "Modernitzar regadius i fomentar estalvi, reutilització i gestió eficient de l’aigua; planificar-la amb cooperació territorial, evidència tècnica i avaluació ambiental, usant dessalinització quan sigui adequada.",
+        "gl": "Modernizar regadíos e fomentar aforro, reutilización e xestión eficiente da auga; planificala con cooperación territorial, evidencia técnica e avaliación ambiental, usando desalación cando sexa axeitada.",
+        "eu": "Ureztapenak modernizatzea eta ur aurrezkia, berrerabilera eta kudeaketa eraginkorra sustatzea; ura lurralde lankidetzarekin, ebidentzia teknikoarekin eta ingurumen ebaluazioarekin planifikatzea, egokia denean gatzgabetzea erabiliz.",
+        "oc": "Modernizar era irrigacion e fomentar estauvi, reutilizacion e gestion eficienta dera aigua; planificar-la damb cooperacion territoriau, evidéncia tecnica e avaloracion ambientau, emplegant dessalacion quan sigue adequada.",
+        "en": "Modernise irrigation and promote water saving, reuse and efficient management; plan water through territorial cooperation, technical evidence and environmental assessment, using desalination where appropriate."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Modernizar regadíos y fomentar ahorro, reutilización y gestión eficiente del agua."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Planificar el agua con cooperación territorial, evidencia técnica y evaluación ambiental, utilizando desalación cuando resulte adecuada."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-environment-and-energy-energy-transition",
+      "title": {
+        "es": "Eficiencia, redes y suministro",
+        "ca": "Eficiència, xarxes i subministrament",
+        "gl": "Eficiencia, redes e subministración",
+        "eu": "Eraginkortasuna, sareak eta hornidura",
+        "oc": "Eficiéncia, hilats e subministrament",
+        "en": "Efficiency, networks and supply"
+      },
+      "text": {
+        "es": "Avanzar hacia energía segura, competitiva y progresivamente descarbonizada; favorecer eficiencia, autoconsumo, almacenamiento y modernización de redes y compatibilizar protección ambiental, actividad económica y seguridad del suministro.",
+        "ca": "Avançar cap a energia segura, competitiva i progressivament descarbonitzada; afavorir eficiència, autoconsum, emmagatzematge i modernització de xarxes i compatibilitzar protecció ambiental, activitat econòmica i seguretat del subministrament.",
+        "gl": "Avanzar cara a enerxía segura, competitiva e progresivamente descarbonizada; favorecer eficiencia, autoconsumo, almacenamento e modernización de redes e compatibilizar protección ambiental, actividade económica e seguridade da subministración.",
+        "eu": "Energia seguru, lehiakor eta pixkanaka deskarbonizaturantz aurrera egitea; eraginkortasuna, autokontsumoa, biltegiratzea eta sareen modernizazioa sustatzea eta ingurumen babesa, jarduera ekonomikoa eta horniduraren segurtasuna bateratzea.",
+        "oc": "Auançar entà energia segura, competitiva e progressivament descarbonizada; favorir eficiéncia, autoconsum, emmagazinatge e modernizacion de hilats e compatibilizar proteccion ambientau, activitat economica e seguretat deth subministrament.",
+        "en": "Move towards secure, competitive and progressively decarbonised energy; support efficiency, self-consumption, storage and network modernisation while reconciling environmental protection, economic activity and supply security."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Avanzar hacia energía segura, competitiva y progresivamente descarbonizada, aprovechando la tecnología sin dejar a nadie atrás."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Favorecer eficiencia energética, autoconsumo, almacenamiento y modernización de redes."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Compatibilizar protección ambiental, actividad económica y seguridad de suministro."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-environment-and-energy-public-transport",
+      "title": {
+        "es": "Transporte público y electrificación",
+        "ca": "Transport públic i electrificació",
+        "gl": "Transporte público e electrificación",
+        "eu": "Garraio publikoa eta elektrifikazioa",
+        "oc": "Transpòrt public e electrificacion",
+        "en": "Public transport and electrification"
+      },
+      "text": {
+        "es": "Promover transporte público y electrificación donde sean eficaces, accesibles y adecuados al territorio.",
+        "ca": "Promoure transport públic i electrificació on siguin eficaços, accessibles i adequats al territori.",
+        "gl": "Promover transporte público e electrificación onde sexan eficaces, accesibles e axeitados ao territorio.",
+        "eu": "Garraio publikoa eta elektrifikazioa sustatzea eraginkorrak, irisgarriak eta lurralderako egokiak diren tokietan.",
+        "oc": "Promòir transpòrt public e electrificacion a on siguen eficaçi, accessibles e adequadi ath territòri.",
+        "en": "Promote public transport and electrification where effective, accessible and suited to the territory."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Promover transporte público y electrificación donde sean eficaces, accesibles y adecuados al territorio."
+        }
+      ]
+    }
+  ]
+}

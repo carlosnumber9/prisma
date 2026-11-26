@@ -1,0 +1,97 @@
+{
+  "id": "tercera-edad-en-accion--healthcare",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "healthcare",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.365Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-healthcare-primary-mental-chronic",
+      "title": {
+        "es": "Primaria, salud mental y prevención",
+        "ca": "Primària, salut mental i prevenció",
+        "gl": "Primaria, saúde mental e prevención",
+        "eu": "Lehen arreta, osasun mentala eta prebentzioa",
+        "oc": "Primària, salut mentau e prevencion",
+        "en": "Primary care, mental health and prevention"
+      },
+      "text": {
+        "es": "Reforzar atención primaria, salud mental, prevención y atención a enfermedades crónicas.",
+        "ca": "Reforçar atenció primària, salut mental, prevenció i atenció a malalties cròniques.",
+        "gl": "Reforzar atención primaria, saúde mental, prevención e atención a enfermidades crónicas.",
+        "eu": "Lehen arreta, osasun mentala, prebentzioa eta gaixotasun kronikoen arreta indartzea.",
+        "oc": "Refortir atencion primària, salut mentau, prevencion e atencion a malauties croniques.",
+        "en": "Strengthen primary care, mental healthcare, prevention and care for chronic conditions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Reforzar atención primaria, salud mental, prevención y atención a enfermedades crónicas."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-healthcare-staff-and-results",
+      "title": {
+        "es": "Plantillas estables e indicadores",
+        "ca": "Plantilles estables i indicadors",
+        "gl": "Cadros estables e indicadores",
+        "eu": "Lantalde egonkorrak eta adierazleak",
+        "oc": "Equipes estables e indicadors",
+        "en": "Stable staffing and indicators"
+      },
+      "text": {
+        "es": "Mejorar planificación y estabilidad de las plantillas sanitarias y publicar indicadores comparables de esperas, calidad y resultados.",
+        "ca": "Millorar planificació i estabilitat de les plantilles sanitàries i publicar indicadors comparables d’espera, qualitat i resultats.",
+        "gl": "Mellorar planificación e estabilidade dos cadros sanitarios e publicar indicadores comparables de esperas, calidade e resultados.",
+        "eu": "Osasun lantaldeen plangintza eta egonkortasuna hobetzea eta itxaronaldien, kalitatearen eta emaitzen adierazle konparagarriak argitaratzea.",
+        "oc": "Melhorar planificacion e estabilitat des equipes sanitàries e publicar indicadors comparables d’espères, qualitat e resultats.",
+        "en": "Improve healthcare workforce planning and stability and publish comparable waiting-time, quality and outcome indicators."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Mejorar la planificación y estabilidad de las plantillas sanitarias y publicar indicadores comparables de esperas, calidad y resultados."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-healthcare-continuity-and-records",
+      "title": {
+        "es": "Continuidad asistencial e historia clínica",
+        "ca": "Continuïtat assistencial i història clínica",
+        "gl": "Continuidade asistencial e historia clínica",
+        "eu": "Arretaren jarraipena eta historia klinikoa",
+        "oc": "Continuitat assistenciau e istòria clinica",
+        "en": "Continuity of care and clinical records"
+      },
+      "text": {
+        "es": "Facilitar que la información clínica siga al paciente entre territorios con estricta privacidad y seguridad; coordinar asistencia sanitaria, dependencia y servicios sociales y extender cuidados domiciliarios cuando sean adecuados.",
+        "ca": "Facilitar que la informació clínica segueixi el pacient entre territoris amb estricta privacitat i seguretat; coordinar assistència sanitària, dependència i serveis socials i estendre cures domiciliàries quan siguin adequades.",
+        "gl": "Facilitar que a información clínica siga o paciente entre territorios con estrita privacidade e seguridade; coordinar asistencia sanitaria, dependencia e servizos sociais e estender coidados domiciliarios cando sexan axeitados.",
+        "eu": "Informazio klinikoak pazienteari lurralde batetik bestera jarraitzea ahalbidetzea, pribatutasun eta segurtasun zorrotzarekin; osasun arreta, mendekotasuna eta gizarte zerbitzuak koordinatzea eta etxeko zaintza zabaltzea egokia denean.",
+        "oc": "Facilitar qu’era informacion clinica seguisque eth pacient entre territòris damb estricta privacitat e seguretat; coordinar assisténcia sanitària, dependéncia e servicis sociaus e esténer suenhs domiciliaris quan siguen adequadi.",
+        "en": "Enable clinical information to follow patients across territories with strict privacy and security; coordinate healthcare, dependency care and social services and extend home care where appropriate."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Facilitar que la información clínica acompañe al paciente entre territorios, con garantías estrictas de privacidad y seguridad."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Coordinar la asistencia sanitaria con dependencia y servicios sociales, y extender cuidados domiciliarios cuando sean adecuados."
+        }
+      ]
+    }
+  ]
+}

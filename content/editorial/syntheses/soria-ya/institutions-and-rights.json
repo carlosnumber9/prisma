@@ -1,0 +1,92 @@
+{
+  "id": "soria-ya--institutions-and-rights",
+  "partyId": "soria-ya",
+  "topicId": "institutions-and-rights",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:47:30.816Z",
+  "sourceIds": ["soria-ya-2026-18b4c4dc4875", "soria-ya-2026-042e8da39561"],
+  "points": [
+    {
+      "id": "soria-ya-institutions-and-rights-digital-nomads",
+      "title": {
+        "es": "Residencia y teletrabajo",
+        "ca": "Residència i teletreball",
+        "gl": "Residencia e teletraballo",
+        "eu": "Egoitza eta telelana",
+        "oc": "Residéncia e teletrabalh",
+        "en": "Residence and remote work"
+      },
+      "text": {
+        "es": "Reformar la normativa para ampliar los plazos de autorización de residencia y teletrabajo de profesionales y nómadas digitales que se establezcan en provincias escasamente pobladas.",
+        "ca": "Reformar la normativa per ampliar els terminis d’autorització de residència i teletreball de professionals i nòmades digitals que s’estableixin en províncies escassament poblades.",
+        "gl": "Reformar a normativa para ampliar os prazos de autorización de residencia e teletraballo de profesionais e nómades dixitais que se establezan en provincias escasamente poboadas.",
+        "eu": "Biztanle gutxiko probintzietan kokatzen diren profesionalen eta nomada digitalen egoitza eta telelan baimenen epeak luzatzeko araudia aldatzea.",
+        "oc": "Reformar era normativa entà alargar es tèrmes d’autorizacion de residéncia e teletrabalh de professionaus e nomades digitaus que s’establisquen en províncies damb pòga poblacion.",
+        "en": "Reform regulations to extend residence and remote-work authorisation periods for professionals and digital nomads settling in sparsely populated provinces."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "logistics",
+          "quote": "Favorecer la atracción de profesionales y nómadas digitales mediante una reforma normativa que permita ampliar los plazos de autorización de residencia y teletrabajo para quienes se establezcan en estas provincias."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-institutions-and-rights-services-thirty-minutes",
+      "title": {
+        "es": "Servicios a treinta minutos",
+        "ca": "Serveis a trenta minuts",
+        "gl": "Servizos a trinta minutos",
+        "eu": "Zerbitzuak hogeita hamar minutuan",
+        "oc": "Servicis a trenta menutes",
+        "en": "Services within thirty minutes"
+      },
+      "text": {
+        "es": "Garantizar servicios públicos esenciales a un máximo de 30 minutos de cualquier residencia, incluidos los de entidades locales, con financiación suficiente y estable adaptada a dispersión territorial y envejecimiento.",
+        "ca": "Garantir serveis públics essencials a un màxim de 30 minuts de qualsevol residència, inclosos els d’entitats locals, amb finançament suficient i estable adaptat a la dispersió territorial i l’envelliment.",
+        "gl": "Garantir servizos públicos esenciais a un máximo de 30 minutos de calquera residencia, incluídos os das entidades locais, con financiamento suficiente e estable adaptado á dispersión territorial e ao envellecemento.",
+        "eu": "Edozein bizilekutatik gehienez 30 minutura oinarrizko zerbitzu publikoak bermatzea, toki erakundeenak barne, lurralde sakabanaketari eta zahartzeari egokitutako finantzaketa nahiko eta egonkorrarekin.",
+        "oc": "Garantir servicis publics essenciaus a un maxim de 30 menutes de quinsevolh residéncia, includidi es d’entitats locaus, damb finançament sufisent e estable adaptat ara dispersion territoriau e ar envielhiment.",
+        "en": "Guarantee essential public services within at most 30 minutes regardless of residence, including local-authority services, with sufficient stable funding adapted to territorial dispersion and population ageing."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "services",
+          "quote": "Garantizar los servicios públicos esenciales en un máximo de 30 minutos, con independencia del lugar de residencia, mediante una financiación suficiente, estable y adaptada a la dispersión territorial y al envejecimiento de la población, incluyendo los servicios prestados por las entidades locales. Establecer incentivos económicos, profesionales y de vivienda para atraer y retener empleados públicos en zonas despobladas, asegurando la cobertura efectiva de las plazas y la continuidad y calidad de los servicios."
+        }
+      ]
+    },
+    {
+      "id": "soria-ya-institutions-and-rights-state-agencies",
+      "title": {
+        "es": "Organismos estatales en Soria",
+        "ca": "Organismes estatals a Sòria",
+        "gl": "Organismos estatais en Soria",
+        "eu": "Estatuko erakundeak Sorian",
+        "oc": "Organismes estataus en Soria",
+        "en": "State agencies in Soria"
+      },
+      "text": {
+        "es": "Descentralizar organismos estatales en Soria con personal, recursos y competencias reales; crear allí la Academia Nacional de Bomberos Forestales y una Unidad Militar de Emergencias permanente.",
+        "ca": "Descentralitzar organismes estatals a Sòria amb personal, recursos i competències reals; crear-hi l’Academia Nacional de Bomberos Forestales i una Unidad Militar de Emergencias permanent.",
+        "gl": "Descentralizar organismos estatais en Soria con persoal, recursos e competencias reais; crear alí a Academia Nacional de Bomberos Forestales e unha Unidad Militar de Emergencias permanente.",
+        "eu": "Estatuko erakundeak Sorian deszentralizatzea, benetako langile, baliabide eta eskumenekin; bertan Academia Nacional de Bomberos Forestales eta Unidad Militar de Emergencias iraunkorra sortzea.",
+        "oc": "Descentralizar organismes estataus en Soria damb personau, recorsi e competéncies reaus; crear-i era Academia Nacional de Bomberos Forestales e ua Unidad Militar de Emergencias permanenta.",
+        "en": "Decentralise state agencies to Soria with actual staff, resources and powers; establish the Academia Nacional de Bomberos Forestales and a permanent Unidad Militar de Emergencias there."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "agencies",
+          "quote": "Descentralización de organismos estatales en Soria, garantizando su funcionamiento mediante la dotación de personal, recursos y competencias reales: creación en Soria de la Academia Nacional de Bomberos Forestales y de una Unidad Militar de Emergencias (UME) permanente en Soria."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "soria-ya--housing",
+  "partyId": "soria-ya",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:47:30.804Z",
+  "sourceIds": ["soria-ya-2026-18b4c4dc4875", "soria-ya-2026-042e8da39561"],
+  "points": [
+    {
+      "id": "soria-ya-housing-rural-housing",
+      "title": {
+        "es": "Vivienda en zonas despobladas",
+        "ca": "Habitatge en zones despoblades",
+        "gl": "Vivenda en zonas despoboadas",
+        "eu": "Etxebizitza despopulatutako eremuetan",
+        "oc": "Abitatge en zònes despoblades",
+        "en": "Housing in depopulated areas"
+      },
+      "text": {
+        "es": "Impulsar un programa nacional de construcción de vivienda, especialmente rural; ayudas a rehabilitación vinculadas al alquiler asequible, garantías para propietarios que incorporen viviendas al mercado, incentivos a la primera compra y alquiler con opción a compra.",
+        "ca": "Impulsar un programa nacional de construcció d’habitatge, especialment rural; ajuts a la rehabilitació vinculats al lloguer assequible, garanties per a propietaris que incorporin habitatges al mercat, incentius a la primera compra i lloguer amb opció de compra.",
+        "gl": "Impulsar un programa nacional de construción de vivenda, especialmente rural; axudas á rehabilitación vinculadas ao alugueiro asequible, garantías para propietarios que incorporen vivendas ao mercado, incentivos á primeira compra e alugueiro con opción a compra.",
+        "eu": "Etxebizitzak eraikitzeko programa nazionala bultzatzea, bereziki landa eremuan; alokairu eskuragarriari lotutako birgaitze laguntzak, etxebizitzak merkaturatzen dituzten jabeentzako bermeak, lehen erosketarako pizgarriak eta erosteko aukerarekin alokatzea sustatzea.",
+        "oc": "Impulsar un programa nacionau de bastiment d’abitatge, especiaument rurau; ajudes ara reabilitacion ligades ath loguèr accessible, garanties entà proprietaris qu’incorpòren abitatges ath mercat, incentius ara prumèra crompa e loguèr damb opcion de crompa.",
+        "en": "Promote a national housing construction programme, especially in rural areas; rehabilitation aid tied to affordable rent, guarantees for owners bringing homes onto the market, first-home purchase incentives and rent-to-buy arrangements."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "soria-ya-2026-18b4c4dc4875",
+          "segmentId": "housing",
+          "quote": "Impulsar un programa nacional de construcción de viviendas, especialmente en el medio rural; ayudas a la rehabilitación vinculadas al alquiler asequible, garantías para propietarios que incorporen sus viviendas al mercado, incentivos para adquisición de primera vivienda y fórmulas de alquiler con opción a compra."
+        }
+      ]
+    }
+  ]
+}

@@ -70,5 +70,20 @@
     "id": "adelante-andalucia",
     "name": "Adelante Andalucía",
     "officialWebsite": "https://adelanteandalucia.org/"
+  },
+  {
+    "id": "tercera-edad-en-accion",
+    "name": "Tercera Edad en Acción",
+    "officialWebsite": "https://3edad.org/"
+  },
+  {
+    "id": "soria-ya",
+    "name": "Soria ¡YA!",
+    "officialWebsite": "https://soriaya.org/"
+  },
+  {
+    "id": "geroa-bai",
+    "name": "Geroa Bai",
+    "officialWebsite": "https://geroabai.eus/"
   }
 ]

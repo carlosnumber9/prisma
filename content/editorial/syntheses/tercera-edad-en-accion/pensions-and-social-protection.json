@@ -1,0 +1,210 @@
+{
+  "id": "tercera-edad-en-accion--pensions-and-social-protection",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "pensions-and-social-protection",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.370Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-pensions-and-social-protection-public-pensions",
+      "title": {
+        "es": "Pensiones públicas e IPC",
+        "ca": "Pensions públiques i IPC",
+        "gl": "Pensións públicas e IPC",
+        "eu": "Pentsio publikoak eta KPIa",
+        "oc": "Pensions publiques e IPC",
+        "en": "Public pensions and CPI"
+      },
+      "text": {
+        "es": "Defender un sistema público sostenible con información periódica y transparente sobre sus perspectivas y opciones de equilibrio; garantizar la revalorización automática anual de las pensiones contributivas conforme al IPC.",
+        "ca": "Defensar un sistema públic sostenible amb informació periòdica i transparent sobre les seves perspectives i opcions d’equilibri; garantir la revalorització automàtica anual de les pensions contributives segons l’IPC.",
+        "gl": "Defender un sistema público sostible con información periódica e transparente sobre as súas perspectivas e opcións de equilibrio; garantir a revalorización automática anual das pensións contributivas conforme ao IPC.",
+        "eu": "Sistema publiko jasangarria defendatzea, haren etorkizunari eta oreka aukerei buruzko aldizkako informazio gardenarekin; kotizaziopeko pentsioen urteko errebalorizazio automatikoa KPIaren arabera bermatzea.",
+        "oc": "Deféner un sistèma public sostenible damb informacion periodica e transparenta sus es sues perspectives e opcions d’equilibri; garantir era revalorizacion automatica annau des pensions contributives segontes er IPC.",
+        "en": "Defend a sustainable public pension system with regular, transparent information about its outlook and options for balance; guarantee automatic annual CPI indexation of contributory pensions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Defender un sistema público de pensiones sostenible con información periódica y transparente sobre sus perspectivas y opciones de equilibrio."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Garantizar la revalorización automática anual de las pensiones contributivas conforme a la evolución del Índice de Precios de Consumo (IPC)."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-pensions-and-social-protection-minimum-pensions",
+      "title": {
+        "es": "Equiparación de mínimas al SMI",
+        "ca": "Equiparació de mínimes a l’SMI",
+        "gl": "Equiparación de mínimas ao SMI",
+        "eu": "Gutxieneko pentsioak lanbidearteko gutxieneko soldatarekin parekatzea",
+        "oc": "Equiparacion de minimes ar SMI",
+        "en": "Minimum pensions and minimum wage"
+      },
+      "text": {
+        "es": "Equiparar las pensiones mínimas de jubilación al SMI en importes brutos anuales, en tres fases anuales que cierren cada una un tercio de la brecha inicial, actualizando la referencia si cambia el SMI. La memoria económica concretará requisitos de acceso y financiación.",
+        "ca": "Equiparar les pensions mínimes de jubilació a l’SMI en imports bruts anuals, en tres fases anuals que tanquin cadascuna un terç de la bretxa inicial, actualitzant la referència si canvia l’SMI. La memòria econòmica concretarà requisits d’accés i finançament.",
+        "gl": "Equiparar as pensións mínimas de xubilación ao SMI en importes brutos anuais, en tres fases anuais que pechen cada unha un terzo da fenda inicial, actualizando a referencia se cambia o SMI. A memoria económica concretará requisitos de acceso e financiamento.",
+        "eu": "Erretiroko gutxieneko pentsioak lanbidearteko gutxieneko soldatarekin parekatzea urteko zenbateko gordinetan, hasierako aldearen heren bana itxiko duten urteko hiru fasetan, erreferentzia eguneratuz lanbidearteko gutxieneko soldata aldatzen bada. Memoria ekonomikoak sarbide baldintzak eta finantzaketa zehaztuko ditu.",
+        "oc": "Equiparar es pensions minimes de jubilacion ar SMI en impòrts bruts annaus, en tres fases annaus que barraràn cadua un tèrç dera diferéncia iniciau, actualizant era referéncia se càmbie er SMI. Era memòria economica concretarà requisits d’accès e finançament.",
+        "en": "Equalise minimum retirement pensions with the statutory minimum wage in gross annual amounts over three annual phases, each closing one third of the initial gap and updating the reference if the minimum wage changes. The economic memorandum will specify eligibility and funding."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Equiparar progresivamente las pensiones mínimas de jubilación al Salario Mínimo Interprofesional (SMI), comparando los importes brutos anuales. Aplicar la equiparación en tres fases anuales, cerrando en cada fase un tercio de la brecha inicial y actualizando la referencia si cambia el SMI. La memoria económica concretará los requisitos de acceso y la financiación."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-pensions-and-social-protection-pensioner-costs",
+      "title": {
+        "es": "Coste de vida y compensaciones",
+        "ca": "Cost de vida i compensacions",
+        "gl": "Custo da vida e compensacións",
+        "eu": "Bizi kostua eta konpentsazioak",
+        "oc": "Còst de vida e compensacions",
+        "en": "Living costs and compensation"
+      },
+      "text": {
+        "es": "Publicar trimestralmente el coste de alimentación, vivienda, energía y medicamentos de pensionistas. Abrir una evaluación de compensaciones si el coste conjunto crece por encima del IPC general durante dos trimestres consecutivos, priorizando hogares pensionistas de menor renta y considerando su tamaño.",
+        "ca": "Publicar trimestralment el cost d’alimentació, habitatge, energia i medicaments de pensionistes. Obrir una avaluació de compensacions si el cost conjunt creix per sobre de l’IPC general durant dos trimestres consecutius, prioritzant llars pensionistes de renda més baixa i considerant-ne la mida.",
+        "gl": "Publicar trimestralmente o custo de alimentación, vivenda, enerxía e medicamentos de pensionistas. Abrir unha avaliación de compensacións se o custo conxunto medra por riba do IPC xeral durante dous trimestres consecutivos, priorizando fogares pensionistas de menor renda e considerando o seu tamaño.",
+        "eu": "Pentsiodunen elikadura, etxebizitza, energia eta sendagaien kostua hiru hilean behin argitaratzea. Konpentsazioen ebaluazioa abiatzea guztizko kostuaren hazkundeak KPI orokorrarena gainditzen badu bi hiruhileko jarraian, errenta txikieneko pentsiodunen etxeei lehentasuna emanez eta etxearen tamaina kontuan hartuz.",
+        "oc": "Publicar trimestraument eth còst d’alimentacion, abitatge, energia e medicaments de pensionistes. Daurir ua avaloracion de compensacions s’eth còst conjunt creish per dessús der IPC generau pendent dus trimestres consecutius, priorizant larèrs pensionistes de menor renda e considerant era sua dimension.",
+        "en": "Publish quarterly monitoring of pensioners’ food, housing, energy and medicine costs. Open a compensation assessment if their combined cost grows faster than general CPI for two consecutive quarters, prioritising lower-income pensioner households and accounting for household size."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Vigilar el coste de la alimentación, la vivienda, la energía y los medicamentos para proteger el poder adquisitivo de los pensionistas. Publicar un seguimiento trimestral de estos gastos. Abrir una evaluación de compensaciones cuando su coste conjunto crezca por encima del IPC general durante dos trimestres consecutivos. Priorizar a los hogares pensionistas de menor renta y tener en cuenta el tamaño del hogar."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-pensions-and-social-protection-early-retirement",
+      "title": {
+        "es": "Revisar penalizaciones por anticipación",
+        "ca": "Revisar penalitzacions per anticipació",
+        "gl": "Revisar penalizacións por anticipación",
+        "eu": "Erretiro aurreratuaren zigorrak berrikustea",
+        "oc": "Revisar penalizacions per anticipacion",
+        "en": "Review early-retirement penalties"
+      },
+      "text": {
+        "es": "Revisar coeficientes reductores por largas carreras cotizadas o trabajos especialmente penosos, peligrosos o insalubres; estudiar su reducción gradual según años cotizados y su supresión al cumplir la edad y cotización que fije la reforma. Acreditar exposición laboral mediante actividad y tiempo efectivo en el puesto; justificar requisitos y aplicación igualitaria en la memoria de impacto.",
+        "ca": "Revisar coeficients reductors per llargues carreres cotitzades o feines especialment penoses, perilloses o insalubres; estudiar-ne la reducció gradual segons anys cotitzats i la supressió en complir l’edat i cotització que fixi la reforma. Acreditar exposició laboral mitjançant activitat i temps efectiu al lloc; justificar requisits i aplicació igualitària en la memòria d’impacte.",
+        "gl": "Revisar coeficientes redutores por longas carreiras cotizadas ou traballos especialmente penosos, perigosos ou insalubres; estudar a súa redución gradual segundo anos cotizados e supresión ao cumprir a idade e cotización que fixe a reforma. Acreditar exposición laboral mediante actividade e tempo efectivo no posto; xustificar requisitos e aplicación igualitaria na memoria de impacto.",
+        "eu": "Kotizazio ibilbide luzeetako edo bereziki neketsu, arriskutsu edo osasungaitz diren lanetako koefiziente murriztaileak berrikustea; kotizatutako urteen arabera pixkanaka murriztea eta erreformak ezarritako adin eta kotizazio baldintzak betetzean kentzea aztertzea. Laneko esposizioa egindako jardueraren eta lanpostuko benetako denboraren bidez egiaztatzea; eragin memorian baldintzak eta berdintasunezko aplikazioa justifikatzea.",
+        "oc": "Revisar coeficients reductors per longues carrères cotizades o trabalhs especiaument penosi, perilhosi o insalubres; estudiar era sua reduccion graduau segontes ans cotizats e era supression en complir era edat e cotizacion que fixe era reforma. Acreditar exposicion laborau mejançant activitat e temps efectiu en pòst; justificar requisits e aplicacion igualitària ena memòria d’impacte.",
+        "en": "Review reduction coefficients for long contribution histories or particularly arduous, dangerous or unhealthy work; study gradual reductions according to years contributed and removal upon meeting the age and contribution requirements set by the reform. Prove occupational exposure through the activity performed and actual time in the job; justify requirements and equal application in the impact memorandum."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Revisar los coeficientes reductores de la jubilación anticipada en casos de largas carreras de cotización o de trabajos especialmente penosos, peligrosos o insalubres. Estudiar su reducción gradual según los años cotizados y su supresión al alcanzar los requisitos de edad y cotización que fije la reforma. En trabajos penosos, peligrosos o insalubres, acreditar la exposición mediante la actividad desempeñada y el tiempo efectivo en el puesto. La memoria de impacto justificará los requisitos y su aplicación en condiciones de igualdad."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-pensions-and-social-protection-pension-policy-accountability",
+      "title": {
+        "es": "Fichas previas y resultados anuales",
+        "ca": "Fitxes prèvies i resultats anuals",
+        "gl": "Fichas previas e resultados anuais",
+        "eu": "Aurretiko fitxak eta urteko emaitzak",
+        "oc": "Fiches prèvies e resultats annaus",
+        "en": "Advance factsheets and annual results"
+      },
+      "text": {
+        "es": "Publicar antes de aprobar cada medida sus requisitos y umbrales pendientes, calendario, coste anual previsto, financiación e indicador. Medir cada año variación real de pensiones, brecha con el SMI, ahorro fiscal por renta, cobertura de compensaciones y reducción media de penalizaciones, y revisar resultados.",
+        "ca": "Publicar abans d’aprovar cada mesura els requisits i llindars pendents, calendari, cost anual previst, finançament i indicador. Mesurar cada any variació real de pensions, bretxa amb l’SMI, estalvi fiscal per renda, cobertura de compensacions i reducció mitjana de penalitzacions, i revisar resultats.",
+        "gl": "Publicar antes de aprobar cada medida os requisitos e limiares pendentes, calendario, custo anual previsto, financiamento e indicador. Medir cada ano variación real de pensións, fenda co SMI, aforro fiscal por renda, cobertura de compensacións e redución media de penalizacións, e revisar resultados.",
+        "eu": "Neurri bakoitza onartu aurretik zehazteke dauden baldintzak eta atalaseak, egutegia, aurreikusitako urteko kostua, finantzaketa eta adierazlea argitaratzea. Urtero pentsioen benetako aldaketa, lanbidearteko gutxieneko soldatarekiko aldea, errenta mailaren araberako zerga aurrezkia, konpentsazioen estaldura eta zigorren batez besteko murrizketa neurtu eta emaitzak berrikustea.",
+        "oc": "Publicar abans d’aprovar cada mesura es requisits e lindars pendents, calendari, còst annau previst, finançament e indicador. Mesurar cada an variacion reau de pensions, diferéncia damb er SMI, estauvi fiscau per renda, cobertura de compensacions e reduccion mejana de penalizacions, e revisar resultats.",
+        "en": "Before approving each measure, publish outstanding eligibility requirements and thresholds, timetable, expected annual cost, funding and monitoring indicator. Annually measure and review real pension changes, the minimum-wage gap, tax savings by income, compensation coverage and average penalty reductions."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Publicar antes de la aprobación una ficha por medida con los requisitos y umbrales pendientes, el calendario, el coste anual previsto, la fuente de financiación y el indicador de seguimiento. Medir la variación real de las pensiones, la brecha con el SMI, el ahorro fiscal por nivel de renta, la cobertura de las compensaciones y la reducción media de las penalizaciones. Revisar los resultados cada año."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-pensions-and-social-protection-dependency-care",
+      "title": {
+        "es": "Dependencia y cuidados de calidad",
+        "ca": "Dependència i cures de qualitat",
+        "gl": "Dependencia e coidados de calidade",
+        "eu": "Mendekotasuna eta kalitatezko zaintza",
+        "oc": "Dependéncia e suenhs de qualitat",
+        "en": "Dependency and quality care"
+      },
+      "text": {
+        "es": "Priorizar la dependencia, reducir esperas y coordinar sanidad, servicios sociales y cuidados de larga duración; ampliar centros de día, atención domiciliaria y alternativas residenciales de calidad sujetas a inspección y estándares públicos.",
+        "ca": "Prioritzar la dependència, reduir esperes i coordinar sanitat, serveis socials i cures de llarga durada; ampliar centres de dia, atenció domiciliària i alternatives residencials de qualitat subjectes a inspecció i estàndards públics.",
+        "gl": "Priorizar a dependencia, reducir esperas e coordinar sanidade, servizos sociais e coidados de longa duración; ampliar centros de día, atención domiciliaria e alternativas residenciais de calidade suxeitas a inspección e estándares públicos.",
+        "eu": "Mendekotasunari lehentasuna eman, itxaronaldiak murriztu eta osasuna, gizarte zerbitzuak eta iraupen luzeko zaintza koordinatzea; eguneko zentroak, etxeko arreta eta kalitatezko egoitza aukerak zabaltzea, ikuskaritzari eta estandar publikoei lotuta.",
+        "oc": "Priorizar era dependéncia, redusir espères e coordinar sanitat, servicis sociaus e suenhs de longa durada; alargar centres de dia, atencion domiciliària e alternatives residenciaus de qualitat subjèctes a inspeccion e estandards publics.",
+        "en": "Prioritise dependency care, reduce waiting lists and coordinate healthcare, social services and long-term care; expand day centres, home care and quality residential alternatives subject to inspection and public standards."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Priorizar la atención a la dependencia, reducir listas de espera y coordinar sanidad, servicios sociales y cuidados de larga duración."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Ampliar centros de día, atención domiciliaria y alternativas residenciales de calidad, sujetas a inspección y estándares públicos."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-pensions-and-social-protection-unwanted-loneliness",
+      "title": {
+        "es": "Contra la soledad no deseada",
+        "ca": "Contra la solitud no desitjada",
+        "gl": "Contra a soidade non desexada",
+        "eu": "Nahi gabeko bakardadearen aurka",
+        "oc": "Contra era soletat non desirada",
+        "en": "Against unwanted loneliness"
+      },
+      "text": {
+        "es": "Impulsar programas comunitarios contra la soledad no deseada.",
+        "ca": "Impulsar programes comunitaris contra la solitud no desitjada.",
+        "gl": "Impulsar programas comunitarios contra a soidade non desexada.",
+        "eu": "Nahi gabeko bakardadearen aurkako komunitate programak bultzatzea.",
+        "oc": "Impulsar programes comunitaris contra era soletat non desirada.",
+        "en": "Promote community programmes against unwanted loneliness."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-2",
+          "quote": "Impulsar adaptación de viviendas, accesibilidad universal, viviendas colaborativas y programas comunitarios contra la soledad no deseada."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "geroa-bai--pensions-and-social-protection",
+  "partyId": "geroa-bai",
+  "topicId": "pensions-and-social-protection",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-25T15:50:40.349Z",
+  "sourceIds": ["geroa-bai-2026-4e011dc66095", "geroa-bai-2026-b2bb6fad0ff1"],
+  "points": [
+    {
+      "id": "geroa-bai-pensions-and-social-protection-welfare-public-services",
+      "title": {
+        "es": "Defender el bienestar y los servicios públicos",
+        "ca": "Defensar el benestar i els serveis públics",
+        "gl": "Defender o benestar e os servizos públicos",
+        "eu": "Ongizatea eta zerbitzu publikoak defendatzea",
+        "oc": "Deféner eth benèster e es servicis publics",
+        "en": "Defend welfare and public services"
+      },
+      "text": {
+        "es": "Defender el Estado del Bienestar y los servicios públicos frente a los recortes durante los próximos cuatro años.",
+        "ca": "Defensar l’estat del benestar i els serveis públics davant les retallades durant els pròxims quatre anys.",
+        "gl": "Defender o Estado do Benestar e os servizos públicos fronte aos recortes durante os próximos catro anos.",
+        "eu": "Datozen lau urteetan Ongizate Estatua eta zerbitzu publikoak murrizketen aurrean defendatzea.",
+        "oc": "Deféner er estat deth benèster e es servicis publics deuant des retalhades pendent es pròplèus quate ans.",
+        "en": "Defend the welfare state and public services against cuts over the next four years."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "geroa-bai-2026-4e011dc66095",
+          "segmentId": "page-11",
+          "quote": "Todo esto debe tener respuesta desde la izquierda plural los próxi mos cuatro años, y ese es el compromiso de Geroa Bai: la defensa el Estado de Bienestar y los servicios públicos de los recortes que se avecinan."
+        },
+        {
+          "sourceId": "geroa-bai-2026-b2bb6fad0ff1",
+          "segmentId": "page-11",
+          "quote": "Honek guztiak ezker anitzaren aldetik erantzuna behar du datozen lau urteetan, eta hori da Geroa Bairen konpromisoa: Ongizate Estatuaren defentsa eta datozen murrizketen aurrean, zerbitzu publikoen defentsa."
+        }
+      ]
+    }
+  ]
+}

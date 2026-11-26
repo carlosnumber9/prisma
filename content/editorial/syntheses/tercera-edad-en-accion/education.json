@@ -1,0 +1,183 @@
+{
+  "id": "tercera-edad-en-accion--education",
+  "partyId": "tercera-edad-en-accion",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:40:00.365Z",
+  "sourceIds": ["tercera-edad-en-accion-2026-40769885cad0"],
+  "points": [
+    {
+      "id": "tercera-edad-en-accion-education-nurseries-and-families",
+      "title": {
+        "es": "Escuelas infantiles y ayudas familiares",
+        "ca": "Escoles infantils i ajuts familiars",
+        "gl": "Escolas infantís e axudas familiares",
+        "eu": "Haur eskolak eta familientzako laguntzak",
+        "oc": "Escòles infantiles e ajudes familhaus",
+        "en": "Nurseries and family support"
+      },
+      "text": {
+        "es": "Reforzar escuelas infantiles y servicios de conciliación y evaluar las ayudas familiares por resultados y equidad.",
+        "ca": "Reforçar escoles infantils i serveis de conciliació i avaluar els ajuts familiars per resultats i equitat.",
+        "gl": "Reforzar escolas infantís e servizos de conciliación e avaliar as axudas familiares por resultados e equidade.",
+        "eu": "Haur eskolak eta kontziliazio zerbitzuak indartzea eta familientzako laguntzak emaitzen eta ekitatearen arabera ebaluatzea.",
+        "oc": "Refortir escòles infantiles e servicis de conciliacion e avalorar es ajudes familhaus per resultats e equitat.",
+        "en": "Strengthen nursery schools and work-life balance services and evaluate family assistance for results and equity."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Reforzar escuelas infantiles y servicios de conciliación y evaluar las ayudas familiares según sus resultados y equidad."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-education-education-agreement",
+      "title": {
+        "es": "Acuerdos y evaluación educativa",
+        "ca": "Acords i avaluació educativa",
+        "gl": "Acordos e avaliación educativa",
+        "eu": "Hezkuntza akordioak eta ebaluazioa",
+        "oc": "Acòrds e avaloracion educativa",
+        "en": "Education agreements and evaluation"
+      },
+      "text": {
+        "es": "Promover un marco educativo basado en acuerdos amplios y evaluación pública, dentro de las competencias constitucionales y autonómicas.",
+        "ca": "Promoure un marc educatiu basat en acords amplis i avaluació pública, dins les competències constitucionals i autonòmiques.",
+        "gl": "Promover un marco educativo baseado en acordos amplos e avaliación pública, dentro das competencias constitucionais e autonómicas.",
+        "eu": "Adostasun zabaletan eta ebaluazio publikoan oinarritutako hezkuntza esparrua sustatzea, konstituzio eta autonomia eskumenen barruan.",
+        "oc": "Promòir un marc educatiu basat en acòrds amplis e avaloracion publica, laguens des competéncies constitucionaus e autonomiques.",
+        "en": "Promote an education framework based on broad agreements and public evaluation, within constitutional and regional powers."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Promover un marco educativo fruto de acuerdos amplios y evaluación pública, dentro de las competencias constitucionales y autonómicas."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-education-vocational-dual",
+      "title": {
+        "es": "FP y formación dual",
+        "ca": "FP i formació dual",
+        "gl": "FP e formación dual",
+        "eu": "LH eta prestakuntza duala",
+        "oc": "FP e formacion duau",
+        "en": "Vocational and dual training"
+      },
+      "text": {
+        "es": "Ampliar y mejorar la Formación Profesional y la formación dual, vinculándolas a necesidades verificables de empresas y territorios y al empleo de calidad.",
+        "ca": "Ampliar i millorar la Formació Professional i la formació dual, vinculant-les a necessitats verificables d’empreses i territoris i a l’ocupació de qualitat.",
+        "gl": "Ampliar e mellorar a Formación Profesional e a formación dual, vinculándoas a necesidades verificables de empresas e territorios e ao emprego de calidade.",
+        "eu": "Lanbide Heziketa eta prestakuntza duala zabaldu eta hobetzea, enpresen eta lurraldeen behar egiaztagarriekin eta kalitatezko enpleguarekin lotuz.",
+        "oc": "Alargar e melhorar era Formacion Professionau e era formacion duau, ligant-les a besonhs verificables d’empreses e territòris e ar emplec de qualitat.",
+        "en": "Expand and improve vocational and dual training, connecting them to verifiable business and territorial needs and quality employment."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Ampliar la Formación Profesional y la formación dual, conectándolas con necesidades verificables de empresas y territorios."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Mejorar la Formación Profesional y su conexión con empleo de calidad."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-education-skills-and-retraining",
+      "title": {
+        "es": "Competencias y recualificación",
+        "ca": "Competències i requalificació",
+        "gl": "Competencias e recualificación",
+        "eu": "Gaitasunak eta birkualifikazioa",
+        "oc": "Competéncies e requalificacion",
+        "en": "Skills and retraining"
+      },
+      "text": {
+        "es": "Extender competencias digitales, financieras, cívicas y de seguridad en internet; ofrecer recualificación digital, en inteligencia artificial, energía y otros cambios que transforman los empleos.",
+        "ca": "Estendre competències digitals, financeres, cíviques i de seguretat a internet; oferir requalificació digital, en intel·ligència artificial, energia i altres canvis que transformen les feines.",
+        "gl": "Estender competencias dixitais, financeiras, cívicas e de seguridade en internet; ofrecer recualificación dixital, en intelixencia artificial, enerxía e outros cambios que transforman os empregos.",
+        "eu": "Gaitasun digitalak, finantzarioak, zibikoak eta interneteko segurtasunekoak zabaltzea; gaitasun digitaletan, adimen artifizialean, energian eta enpleguak eraldatzen dituzten beste aldaketetan birkualifikazioa eskaintzea.",
+        "oc": "Esténer competéncies digitaus, financères, civiques e de seguretat en internet; auferir requalificacion digitau, en intelligéncia artificiau, energia e d’auti cambiaments que transfòrmen es emplecs.",
+        "en": "Expand digital, financial, civic and internet-safety skills; offer retraining in digital skills, artificial intelligence, energy and other changes transforming jobs."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Extender competencias digitales, financieras, cívicas y de seguridad en internet."
+        },
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Ofrecer recualificación en competencias digitales, inteligencia artificial, energía y otros cambios que transforman los empleos."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-education-safe-ai-learning",
+      "title": {
+        "es": "Preparación para la IA",
+        "ca": "Preparació per a la IA",
+        "gl": "Preparación para a IA",
+        "eu": "AArako prestakuntza",
+        "oc": "Preparacion entara IA",
+        "en": "Preparing for AI"
+      },
+      "text": {
+        "es": "Preparar a estudiantes y trabajadores para la inteligencia artificial, promoviendo un uso seguro y responsable.",
+        "ca": "Preparar estudiants i treballadors per a la intel·ligència artificial, promovent-ne un ús segur i responsable.",
+        "gl": "Preparar estudantes e traballadores para a intelixencia artificial, promovendo un uso seguro e responsable.",
+        "eu": "Ikasleak eta langileak adimen artifizialerako prestatzea, erabilera segurua eta arduratsua sustatuz.",
+        "oc": "Preparar estudiants e trabalhadors entara intelligéncia artificiau, promovent-ne un usatge segur e responsable.",
+        "en": "Prepare students and workers for artificial intelligence, promoting safe, responsible use."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-3",
+          "quote": "Preparar a estudiantes y trabajadores para la inteligencia artificial, fomentando su uso seguro y responsable."
+        }
+      ]
+    },
+    {
+      "id": "tercera-edad-en-accion-education-media-literacy",
+      "title": {
+        "es": "Educación mediática contra el fraude",
+        "ca": "Educació mediàtica contra el frau",
+        "gl": "Educación mediática contra a fraude",
+        "eu": "Iruzurraren aurkako komunikabide hezkuntza",
+        "oc": "Educacion mediatica contra eth frau",
+        "en": "Media literacy against fraud"
+      },
+      "text": {
+        "es": "Promover educación mediática y herramientas contra estafas y contenidos fraudulentos, respetando la libertad de expresión.",
+        "ca": "Promoure educació mediàtica i eines contra estafes i continguts fraudulents, respectant la llibertat d’expressió.",
+        "gl": "Promover educación mediática e ferramentas contra estafas e contidos fraudulentos, respectando a liberdade de expresión.",
+        "eu": "Komunikabide hezkuntza eta iruzurren eta iruzurrezko edukien aurkako tresnak sustatzea, adierazpen askatasuna errespetatuz.",
+        "oc": "Promòir educacion mediatica e esturments contra estafes e contenguts fraudulents, respectant era libertat d’expression.",
+        "en": "Promote media literacy and tools against scams and fraudulent content, respecting freedom of expression."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "tercera-edad-en-accion-2026-40769885cad0",
+          "segmentId": "page-5",
+          "quote": "Promover educación mediática y herramientas contra estafas y contenidos fraudulentos, respetando la libertad de expresión."
+        }
+      ]
+    }
+  ]
+}
