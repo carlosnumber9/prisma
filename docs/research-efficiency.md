@@ -6,19 +6,19 @@ Efficiency must preserve the requested editorial scope. Whole-programme incorpor
 
 ## Models and rollout
 
-| Responsibility   | Model         | Reasoning |
-| ---------------- | ------------- | --------- |
-| Parent / Builder | `gpt-6.1-sol` | `medium`  |
-| Discovery        | `gpt-6-luna`  | `medium`  |
-| Research         | `gpt-6-luna`  | `high`    |
-| Synthesis        | `gpt-6.1-sol` | `medium`  |
-| QA               | `gpt-6.1-sol` | `high`    |
+| Responsibility   | Model        | Reasoning |
+| ---------------- | ------------ | --------- |
+| Parent / Builder | `gpt-6-luna` | `medium`  |
+| Discovery        | `gpt-6-luna` | `medium`  |
+| Research         | `gpt-6-luna` | `high`    |
+| Synthesis        | `gpt-6-luna` | `medium`  |
+| QA               | `gpt-6-luna` | `high`    |
 
 Parent defaults live in [.codex/config.toml](../.codex/config.toml). They apply to new project sessions, including other chats in this repository, unless explicitly overridden in the session. They do not change global personal settings or retrospectively prove the model of an existing session. Child profiles pin both model and reasoning. Tools, permissions, connections and the three-thread cap remain unchanged. Native role descriptions must confirm availability before reporting that a profile's settings ran. The new [Discovery profile](../.codex/agents/prisma-discovery.toml) may not be available in the current session.
 
-Discovery is limited to locating eligible official sources and checking authority, election identity, chronology, corrections and availability. It does not synthesise proposals, approve content or spawn children. Research retains its Luna/high settings for targeted deeper investigation; Synthesis and QA settings are unchanged. Standard speed is desired, but these profiles contain no supported speed control and do not establish that Standard is configured or enforced. There is no automatic weekly or token hard cap.
+Discovery is limited to locating eligible official sources and checking authority, election identity, chronology, corrections and availability. It does not synthesise proposals, approve content or spawn children. At the maintainer's explicit request to use simpler models, coordination and synthesis now default to Luna/medium and independent QA to Luna/high. Research retains Luna/high. Stronger-model escalation remains restricted to a concrete unresolved item under the escalation rules below. These defaults apply to future sessions or newly loaded profiles, not already completed work. Standard speed is desired, but these profiles contain no supported speed control and do not establish that Standard is configured or enforced. There is no automatic weekly or token hard cap.
 
-The initial split is a reliability/cost hypothesis, not a measured improvement. Official configuration supports [per-agent model and reasoning settings](https://learn.chatgpt.com/docs/agent-configuration/subagents). Lower-priced models do not necessarily use fewer tokens. Measure the same frozen task and evidence with independent QA before extending cheaper models to synthesis or QA.
+The model split is a reliability/cost hypothesis, not a measured improvement. Official configuration supports [per-agent model and reasoning settings](https://learn.chatgpt.com/docs/agent-configuration/subagents). Simpler models do not necessarily use fewer tokens. The maintainer authorised the cheaper defaults before a comparative benchmark; source fidelity, complete six-language review and independent QA remain required. Measure quality and available usage on the same frozen task before claiming savings or broadening escalation.
 
 ## Bounded handoffs
 

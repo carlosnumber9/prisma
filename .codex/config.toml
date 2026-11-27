@@ -1,6 +1,6 @@
 # Project parent/Builder defaults; explicit session choices can override them.
 # Applies to new project sessions, including non-factory chats in this repository.
-model = "gpt-6.1-sol"
+model = "gpt-6-luna"
 model_reasoning_effort = "medium"
 
 # Tools, connections and permission policy remain inherited.
