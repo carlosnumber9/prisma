@@ -122,6 +122,17 @@
       "pageCount": 14
     },
     {
+      "id": "iustitia-europa-2026-03740dc25a9e",
+      "partyId": "iustitia-europa",
+      "electionDate": "2026-11-29",
+      "title": "Contrato Electoral de Iustitia Europa",
+      "url": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf?v=1765182553",
+      "format": "pdf",
+      "capturedAt": "2026-11-26T09:39:26.935Z",
+      "sha256": "03740dc25a9e94599f7b3e085a5f24fefe8ad8aa796740dccd0dfc1b2facb5dd",
+      "pageCount": 28
+    },
+    {
       "id": "partido-autonomos-2026-2df2537bd762",
       "partyId": "partido-autonomos",
       "electionDate": "2026-11-29",

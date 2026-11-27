@@ -1,0 +1,95 @@
+{
+  "id": "iustitia-europa--education",
+  "partyId": "iustitia-europa",
+  "topicId": "education",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:52:38.172Z",
+  "sourceIds": ["iustitia-europa-2026-03740dc25a9e"],
+  "points": [
+    {
+      "id": "iustitia-europa-education-curriculum",
+      "title": {
+        "es": "Currículo, valores y autoridad docente",
+        "ca": "Currículum, valors i autoritat docent",
+        "gl": "Currículo, valores e autoridade docente",
+        "eu": "Curriculuma, balioak eta irakasleen agintea",
+        "oc": "Curriculum, valors e autoritat des docents",
+        "en": "Curriculum, values and teachers’ authority"
+      },
+      "text": {
+        "es": "Eliminar de la educación pública los contenidos que el programa califica de ideológicos, incluidos los vinculados a la Agenda 2030, género, ecologismo radical e inmigración descontrolada. Reformar todo el currículo para centrarse en conocimientos y competencias reales, educar en esfuerzo, disciplina y mérito, reforzar la autoridad docente y garantizar la libertad educativa de los padres.",
+        "ca": "Eliminar de l’educació pública els continguts que el programa qualifica d’ideològics, inclosos els vinculats a l’Agenda 2030, gènere, ecologisme radical i immigració descontrolada. Reformar tot el currículum per centrar-se en coneixements i competències reals, educar en esforç, disciplina i mèrit, reforçar l’autoritat docent i garantir la llibertat educativa dels pares.",
+        "gl": "Eliminar da educación pública os contidos que o programa cualifica de ideolóxicos, incluídos os vinculados á Axenda 2030, xénero, ecoloxismo radical e inmigración descontrolada. Reformar todo o currículo para centrarse en coñecementos e competencias reais, educar en esforzo, disciplina e mérito, reforzar a autoridade docente e garantir a liberdade educativa dos pais.",
+        "eu": "Programak ideologikotzat jotzen dituen edukiak hezkuntza publikotik kentzea, besteak beste 2030 Agendari, generoari, ekologismo erradikalari eta kontrolik gabeko immigrazioari lotutakoak. Curriculum osoa ezagutzan eta benetako gaitasunetan ardazteko erreformatzea, ahaleginean, diziplinan eta merezimenduan heztea, irakasleen agintea indartzea eta gurasoen hezkuntza askatasuna bermatzea.",
+        "oc": "Eliminar dera educacion publica es contenguts qu’eth programa qualifique d’ideologics, includidi es vinculadi ara Agenda 2030, genre, ecologisme radicau e immigracion descontrolada. Reformar tot eth curriculum entà centrar-se en coneishements e competéncies reaus, educar en esfòrç, disciplina e merit, reforçar era autoritat des docents e garantir era libertat educativa des pairs.",
+        "en": "Remove from public education content the programme describes as ideological, including content linked to Agenda 2030, gender, radical environmentalism and uncontrolled immigration. Reform the entire curriculum around knowledge and real skills, teach effort, discipline and merit, strengthen teachers’ authority and guarantee parents’ educational freedom."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-21",
+          "quote": "Eliminación de cualquier contenido ideológico en la educación pública. No más adoctrinamiento en género,"
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "ecologismo radical, inmigración descontrolada o cualquier otra agenda política impuesta desde organismos internacionales."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "Reforma completa del currículo escolar para centrarse en conocimiento y competencias reales."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "Educación en valores de esfuerzo, disciplina y mérito."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "Refuerzo de la autoridad del profesor."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "Libertad educativa para los padres."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-21",
+          "quote": "LA AGENDA 2030 EXPULSADA DE LOS CENTROS EDUCATIVOS."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-education-universities",
+      "title": {
+        "es": "Reformar la Ley de Universidades",
+        "ca": "Reformar la Ley de Universidades",
+        "gl": "Reformar a Ley de Universidades",
+        "eu": "Unibertsitate Legea erreformatzea",
+        "oc": "Reformar era Ley de Universidades",
+        "en": "Reform the Universities Law"
+      },
+      "text": {
+        "es": "Reformar la Ley de Universidades para acabar con lo que el programa denomina sectarismo ideológico.",
+        "ca": "Reformar la Ley de Universidades per posar fi al que el programa anomena sectarisme ideològic.",
+        "gl": "Reformar a Ley de Universidades para acabar co que o programa denomina sectarismo ideolóxico.",
+        "eu": "Unibertsitate Legea erreformatzea, programak sektarismo ideologikoa deitzen dionari amaiera emateko.",
+        "oc": "Reformar era Ley de Universidades entà acabar damb çò qu’eth programa nomente sectarisme ideologic.",
+        "en": "Reform the Universities Law to end what the programme calls ideological sectarianism."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "Reforma de la Ley de Universidades para acabar con el sectarismo ideológico."
+        }
+      ]
+    }
+  ]
+}

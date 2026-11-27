@@ -1,0 +1,58 @@
+{
+  "id": "iustitia-europa--healthcare",
+  "partyId": "iustitia-europa",
+  "topicId": "healthcare",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:52:38.172Z",
+  "sourceIds": ["iustitia-europa-2026-03740dc25a9e"],
+  "points": [
+    {
+      "id": "iustitia-europa-healthcare-natural-therapies",
+      "title": {
+        "es": "Integrar las terapias naturales",
+        "ca": "Integrar les teràpies naturals",
+        "gl": "Integrar as terapias naturais",
+        "eu": "Terapia naturalak integratzea",
+        "oc": "Integrar es terapies naturaus",
+        "en": "Integrate natural therapies"
+      },
+      "text": {
+        "es": "Integrar legalmente las terapias naturales en el sistema de salud, con seguridad, profesionalidad y libre acceso; eliminar barreras, reconocer profesionalmente a los terapeutas y aplicarles IVA cero. Promover la libertad de elección y poner fin a lo que el programa denomina monopolio farmacéutico e interferencias de sus grupos de presión.",
+        "ca": "Integrar legalment les teràpies naturals en el sistema de salut, amb seguretat, professionalitat i lliure accés; eliminar barreres, reconèixer professionalment els terapeutes i aplicar-los IVA zero. Promoure la llibertat d’elecció i posar fi al que el programa anomena monopoli farmacèutic i interferències dels seus grups de pressió.",
+        "gl": "Integrar legalmente as terapias naturais no sistema de saúde, con seguridade, profesionalidade e libre acceso; eliminar barreiras, recoñecer profesionalmente os terapeutas e aplicarlles IVE cero. Promover a liberdade de elección e poñer fin ao que o programa denomina monopolio farmacéutico e interferencias dos seus grupos de presión.",
+        "eu": "Terapia naturalak osasun sisteman legez integratzea, segurtasuna, profesionaltasuna eta sarbide askea bermatuz; oztopoak kentzea, terapeutei lanbide aitortza ematea eta zero BEZa aplikatzea. Aukeratzeko askatasuna sustatzea eta programak farmazia monopolioa eta haren presio taldeen esku hartzeak deitzen dituenak amaitzea.",
+        "oc": "Integrar legaument es terapies naturaus en sistèma de salut, damb seguretat, professionalitat e accès liure; eliminar barrères, reconéisher professionaument es terapeutes e aplicar-les IVA zèro. Promòir era libertat d’eleccion e acabar damb çò qu’eth programa nomente monopòli farmaceutic e interferéncies des sòns grops de pression.",
+        "en": "Legally integrate natural therapies into the health system with safety, professional standards and unrestricted access; remove barriers, recognise therapists professionally and apply zero VAT to them. Promote freedom of choice and end what the programme calls the pharmaceutical monopoly and interference by its lobby groups."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "Es el momento de integrar las terapias naturales en un marco legal sólido, garantizando seguridad, profesionalidad y acceso libre para los ciudadanos, sin barreras impuestas por el monopolio farmacéutico."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "Eliminación de barreras y reconocimiento profesional"
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-23",
+          "quote": "Fin del monopolio farmacéutico."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-23",
+          "quote": "IVA cero para terapeutas y reconocimiento profesional."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-22",
+          "quote": "El sistema de salud en España debe evolucionar hacia un modelo basado en la libertad de elección y sin interferencias de los lobbies farmacéuticos."
+        }
+      ]
+    }
+  ]
+}

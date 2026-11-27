@@ -1,0 +1,98 @@
+{
+  "id": "iustitia-europa--housing",
+  "partyId": "iustitia-europa",
+  "topicId": "housing",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:52:38.172Z",
+  "sourceIds": ["iustitia-europa-2026-03740dc25a9e"],
+  "points": [
+    {
+      "id": "iustitia-europa-housing-first-home",
+      "title": {
+        "es": "Primera vivienda para jóvenes y familias",
+        "ca": "Primer habitatge per a joves i famílies",
+        "gl": "Primeira vivenda para mozos e familias",
+        "eu": "Gazte eta familientzako lehen etxebizitza",
+        "oc": "Prumèr abitatge entà joeni e familhes",
+        "en": "First homes for young people and families"
+      },
+      "text": {
+        "es": "Establecer un plan de acceso a la primera vivienda para jóvenes y familias, con incentivos fiscales y eliminación de cargas burocráticas para la compra; suprimir el IVA en la compra de la primera vivienda.",
+        "ca": "Establir un pla d’accés al primer habitatge per a joves i famílies, amb incentius fiscals i eliminació de càrregues burocràtiques per a la compra; suprimir l’IVA en la compra del primer habitatge.",
+        "gl": "Establecer un plan de acceso á primeira vivenda para mozos e familias, con incentivos fiscais e eliminación de cargas burocráticas para a compra; suprimir o IVE na compra da primeira vivenda.",
+        "eu": "Gazte eta familientzako lehen etxebizitza eskuratzeko plana ezartzea, zerga pizgarriekin eta erosteko karga burokratikoak kenduz; lehen etxebizitza erostean BEZa kentzea.",
+        "oc": "Establir un plan d’accès ath prumèr abitatge entà joeni e familhes, damb incentius fiscaus e eliminacion de cargues burocratiques entara crompa; suprimir er IVA ena crompa deth prumèr abitatge.",
+        "en": "Establish a first-home access plan for young people and families, with tax incentives and removal of purchase-related administrative burdens; abolish VAT on first-home purchases."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-18",
+          "quote": "Se establece un plan de acceso a la primera vivienda para jóvenes y familias, con incentivos fiscales y eliminación de cargas burocráticas para la compra."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-18",
+          "quote": "Se suprime el IVA en la compra de la primera vivienda, facilitando el acceso a la propiedad."
+        }
+      ],
+      "internalNotes": "The preceding source fragment, “Ley del suelo, y expropiaciones a los Ayuntamientos”, does not specify a proposed legal change, actor or mechanism; no additional measure is inferred from it."
+    },
+    {
+      "id": "iustitia-europa-housing-rent-controls",
+      "title": {
+        "es": "Eliminar el control de alquileres",
+        "ca": "Eliminar el control dels lloguers",
+        "gl": "Eliminar o control dos alugueiros",
+        "eu": "Alokairuen kontrola kentzea",
+        "oc": "Eliminar eth contròl des loguèrs",
+        "en": "End rent controls"
+      },
+      "text": {
+        "es": "Eliminar las políticas de control de alquiler.",
+        "ca": "Eliminar les polítiques de control del lloguer.",
+        "gl": "Eliminar as políticas de control do alugueiro.",
+        "eu": "Alokairuak kontrolatzeko politikak kentzea.",
+        "oc": "Eliminar es politiques de contròl deth loguèr.",
+        "en": "End rent-control policies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-18",
+          "quote": "Se eliminan las políticas de control de alquiler que han demostrado ser ineficaces y han reducido la oferta de vivienda disponible."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-housing-evictions",
+      "title": {
+        "es": "Desalojo en menos de 24 horas",
+        "ca": "Desallotjament en menys de 24 hores",
+        "gl": "Desaloxo en menos de 24 horas",
+        "eu": "24 ordu baino lehen kaleratzea",
+        "oc": "Deslotjament en mens de 24 ores",
+        "en": "Eviction in under 24 hours"
+      },
+      "text": {
+        "es": "Proteger la propiedad privada frente a la ocupación ilegal, endurecer las penas y garantizar el desalojo en menos de 24 horas desde la denuncia ante las fuerzas y cuerpos de seguridad del Estado.",
+        "ca": "Protegir la propietat privada davant l’ocupació il·legal, endurir les penes i garantir el desallotjament en menys de 24 hores des de la denúncia davant les forces i cossos de seguretat de l’Estat.",
+        "gl": "Protexer a propiedade privada fronte á ocupación ilegal, endurecer as penas e garantir o desaloxo en menos de 24 horas desde a denuncia ante as forzas e corpos de seguridade do Estado.",
+        "eu": "Jabetza pribatua legez kanpoko okupazioaren aurrean babestea, zigorrak gogortzea eta Estatuko segurtasun indar eta kidegoetan salaketa aurkeztu eta 24 ordu baino lehen kaleratzea bermatzea.",
+        "oc": "Protegir era proprietat privada deuant dera ocupacion illegau, endurir es penes e garantir eth deslotjament en mens de 24 ores des dera denóncia deuant des fòrces e còssi de seguretat der Estat.",
+        "en": "Protect private property against unlawful occupation, increase penalties and guarantee eviction in under 24 hours after a complaint is filed with State law-enforcement bodies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-18",
+          "quote": "Se protege la propiedad privada frente a la ocupación ilegal, endureciendo las penas y garantizando el desalojo inmediato en menos de 24 horas desde la presentación de la denuncia ante las fuerzas y cuerpos de seguridad del Estado."
+        }
+      ]
+    }
+  ]
+}

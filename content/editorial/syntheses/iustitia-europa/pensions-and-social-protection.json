@@ -1,0 +1,70 @@
+{
+  "id": "iustitia-europa--pensions-and-social-protection",
+  "partyId": "iustitia-europa",
+  "topicId": "pensions-and-social-protection",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:52:38.172Z",
+  "sourceIds": ["iustitia-europa-2026-03740dc25a9e"],
+  "points": [
+    {
+      "id": "iustitia-europa-pensions-and-social-protection-pension-model",
+      "title": {
+        "es": "Contribuciones reales y ahorro complementario",
+        "ca": "Contribucions reals i estalvi complementari",
+        "gl": "Contribucións reais e aforro complementario",
+        "eu": "Benetako ekarpenak eta aurrezki osagarria",
+        "oc": "Contribucions reaus e estauvi complementari",
+        "en": "Realistic contributions and supplementary savings"
+      },
+      "text": {
+        "es": "Eliminar el factor de sostenibilidad y sustituirlo por un sistema de contribución realista para que las pensiones no dependan exclusivamente de ingresos fiscales coyunturales. Fomentar un modelo mixto con ahorro privado complementario, sin utilizarlo como excusa para reducir la parte pública.",
+        "ca": "Eliminar el factor de sostenibilitat i substituir-lo per un sistema de contribució realista perquè les pensions no depenguin exclusivament d’ingressos fiscals conjunturals. Fomentar un model mixt amb estalvi privat complementari, sense utilitzar-lo com a excusa per reduir la part pública.",
+        "gl": "Eliminar o factor de sustentabilidade e substituílo por un sistema de contribución realista para que as pensións non dependan exclusivamente de ingresos fiscais conxunturais. Fomentar un modelo mixto con aforro privado complementario, sen utilizalo como escusa para reducir a parte pública.",
+        "eu": "Jasangarritasun faktorea kentzea eta ekarpen errealisten sistema batez ordeztea, pentsioak unean uneko zerga sarreren mende soilik egon ez daitezen. Aurrezki pribatu osagarria duen eredu mistoa sustatzea, zati publikoa murrizteko aitzakia gisa erabili gabe.",
+        "oc": "Eliminar eth factor de sostenibilitat e remplaçar-lo per un sistèma de contribucion realista entà qu’es pensions non depenguen exclusivament d’ingressi fiscaus conjunturaus. Promòir un modèl mixte damb estauvi privat complementari, sense utilizar-lo coma excusa entà redusir era part publica.",
+        "en": "Abolish the sustainability factor and replace it with a realistic contribution system so pensions do not depend solely on short-term tax revenue. Encourage a mixed model with supplementary private savings, without using it as an excuse to cut the public component."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Se elimina el factor de sostenibilidad y se sustituye por un sistema de contribución realista que garantice que las pensiones no dependan exclusivamente de ingresos fiscales coyunturales."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Se fomenta un modelo mixto que permita a los trabajadores complementar su pensión con ahorro privado sin que esto suponga una excusa para reducir la parte pública."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-pensions-and-social-protection-pension-cuts",
+      "title": {
+        "es": "Condiciones frente a congelaciones y recortes",
+        "ca": "Condicions davant congelacions i retallades",
+        "gl": "Condicións fronte a conxelacións e recortes",
+        "eu": "Izozte eta murrizketen aurreko baldintzak",
+        "oc": "Condicions deuant de congelacions e retalhades",
+        "en": "Conditions on pension freezes and cuts"
+      },
+      "text": {
+        "es": "Prohibir las políticas de congelación o reducción de pensiones sin compensaciones directas y sin transparencia presupuestaria.",
+        "ca": "Prohibir les polítiques de congelació o reducció de pensions sense compensacions directes i sense transparència pressupostària.",
+        "gl": "Prohibir as políticas de conxelación ou redución de pensións sen compensacións directas e sen transparencia orzamentaria.",
+        "eu": "Zuzeneko konpentsaziorik eta aurrekontu gardentasunik gabeko pentsio izozte edo murrizketa politikak debekatzea.",
+        "oc": "Proïbir es politiques de congelacion o reduccion de pensions sense compensacions dirèctes e sense transparéncia pressupostària.",
+        "en": "Prohibit pension-freeze or pension-cut policies without direct compensation and without budget transparency."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-17",
+          "quote": "Se prohíben las políticas de congelación o reducción de pensiones sin compensaciones directas y sin transparencia presupuestaria."
+        }
+      ]
+    }
+  ]
+}

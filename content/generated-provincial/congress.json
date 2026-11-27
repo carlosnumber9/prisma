@@ -1513,8 +1513,8 @@
         },
         {
           "id": "formation-iustitia-europa-ie",
-          "label": "IE",
-          "programmeId": null
+          "label": "Iustitia Europa",
+          "programmeId": "iustitia-europa"
         },
         {
           "id": "formation-partido-animalista-con-el-medio-ambiente-pacma",

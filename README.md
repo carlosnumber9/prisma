@@ -4,7 +4,7 @@ Prisma helps citizens read reviewed summaries of official programmes for Spain's
 
 ## Current portal
 
-Seventeen formations have 550 approved proposals in six languages. EAJ-PNV has 83 points covering its 225 numbered commitments and actionable introductory material; Partido Autónomos has 75 points covering its 100 numbered measures and implementation clauses; Escaños en Blanco has six points covering its published programme and linked manifesto. Soria ¡YA! has 24 points, Geroa Bai 15 and Tercera Edad en Acción 46, covering their complete consulted programmes. These six formations have 48 complete area syntheses, including eleven reviewed empty areas.
+Eighteen formations have 592 approved proposals in six languages. EAJ-PNV has 83 points covering its 225 numbered commitments and actionable introductory material; Partido Autónomos has 75 points covering its 100 numbered measures and implementation clauses; Escaños en Blanco has six points covering its published programme and linked manifesto. Soria ¡YA! has 24 points, Geroa Bai 15, Tercera Edad en Acción 46 and Iustitia Europa 42, covering their complete consulted programmes. These seven formations have 56 complete area syntheses, including eleven reviewed empty areas.
 
 The six earlier selections retain PP 24, PSOE 32, VOX 44, Frente Amplio 59, Podemos 24 and Frente Obrero 41 proposals. Comuns–Front Ampli has 73 housing points; its other seven areas remain pending while whole-programme incorporation continues. BNG, Por un Mundo Más Justo, Falange Española de las JONS and Adelante Andalucía retain one selected point each. The catalogue is not exhaustive electoral coverage; source-version and corpus limits remain explicit.
 

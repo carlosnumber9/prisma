@@ -10244,6 +10244,1630 @@
       ]
     },
     {
+      "id": "iustitia-europa--economy-and-taxes",
+      "partyId": "iustitia-europa",
+      "topicId": "economy-and-taxes",
+      "path": "/parties/iustitia-europa/economy-and-taxes",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-economy-and-taxes-political-spending",
+          "title": {
+            "es": "Siete ministerios y recortes del gasto político",
+            "ca": "Set ministeris i retallades de la despesa política",
+            "gl": "Sete ministerios e recortes do gasto político",
+            "eu": "Zazpi ministerio eta gastu politikoaren murrizketak",
+            "oc": "Sèt ministèris e retalhades dera despensa politica",
+            "en": "Seven ministries and political spending cuts"
+          },
+          "text": {
+            "es": "Reducir los ministerios a un máximo de siete, eliminar el 75% de los asesores políticos y congelar y reducir un 20% los sueldos políticos.",
+            "ca": "Reduir els ministeris a un màxim de set, eliminar el 75% dels assessors polítics i congelar i reduir un 20% els sous polítics.",
+            "gl": "Reducir os ministerios a un máximo de sete, eliminar o 75% dos asesores políticos e conxelar e reducir un 20% os soldos políticos.",
+            "eu": "Ministerioak gehienez zazpira murriztea, aholkulari politikoen %75 kentzea eta politikarien soldatak izoztea eta %20 murriztea.",
+            "oc": "Redusir es ministèris a un maxim de sèt, eliminar eth 75% des assessors politics e congelar e redusir un 20% es salaris politics.",
+            "en": "Reduce ministries to a maximum of seven, remove 75% of political advisers and freeze and reduce political salaries by 20%."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-economy-and-taxes-public-funding",
+          "title": {
+            "es": "Fin de la financiación pública a organizaciones",
+            "ca": "Fi del finançament públic a organitzacions",
+            "gl": "Fin do financiamento público a organizacións",
+            "eu": "Erakundeen finantzaketa publikoa amaitzea",
+            "oc": "Fin deth finançament public a organizacions",
+            "en": "End public funding for organisations"
+          },
+          "text": {
+            "es": "Eliminar toda la financiación pública a partidos, sindicatos y patronales, que solo podrán sostenerse con cuotas de afiliados; prohibir todas las subvenciones a ONG y suprimir las destinadas a organizaciones ideológicas.",
+            "ca": "Eliminar tot el finançament públic a partits, sindicats i patronals, que només podran sostenir-se amb quotes d’afiliats; prohibir totes les subvencions a ONG i suprimir les destinades a organitzacions ideològiques.",
+            "gl": "Eliminar todo o financiamento público a partidos, sindicatos e patronais, que só poderán sosterse con cotas de afiliados; prohibir todas as subvencións a ONG e suprimir as destinadas a organizacións ideolóxicas.",
+            "eu": "Alderdi, sindikatu eta enpresaburuen elkarteen finantzaketa publiko osoa kentzea, afiliatuen kuotekin soilik finantzatu daitezen; GKEentzako dirulaguntza guztiak debekatzea eta erakunde ideologikoentzakoak kentzea.",
+            "oc": "Eliminar tot eth finançament public a partits, sindicats e patronaus, que sonque poderàn sostier-se damb quòtes d’afiliadi; proïbir totes es subvencions a ONG e suprimir es destinades a organizacions ideologiques.",
+            "en": "End all public funding for parties, trade unions and employers’ associations, which may be funded only by members’ dues; ban all NGO subsidies and abolish subsidies for ideological organisations."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-economy-and-taxes-public-bodies",
+          "title": {
+            "es": "Cerrar y reducir organismos públicos",
+            "ca": "Tancar i reduir organismes públics",
+            "gl": "Pechar e reducir organismos públicos",
+            "eu": "Erakunde publikoak ixtea eta murriztea",
+            "oc": "Barrar e redusir organismes publics",
+            "en": "Close and reduce public bodies"
+          },
+          "text": {
+            "es": "Cerrar inmediatamente más de 2.000 entidades, fundaciones, observatorios y organismos a los que el programa atribuye más de 6.000 millones de euros de gasto anual. Fusionar organismos duplicados, eliminar agencias innecesarias y reducir un 40% los entes con competencias superpuestas, que el programa cifra en más de 600; suprimir las diputaciones provinciales y cerrar las empresas públicas con pérdidas.",
+            "ca": "Tancar immediatament més de 2.000 entitats, fundacions, observatoris i organismes als quals el programa atribueix més de 6.000 milions d’euros de despesa anual. Fusionar organismes duplicats, eliminar agències innecessàries i reduir un 40% els ens amb competències superposades, que el programa xifra en més de 600; suprimir les diputacions provincials i tancar les empreses públiques amb pèrdues.",
+            "gl": "Pechar inmediatamente máis de 2.000 entidades, fundacións, observatorios e organismos aos que o programa atribúe máis de 6.000 millóns de euros de gasto anual. Fusionar organismos duplicados, eliminar axencias innecesarias e reducir un 40% os entes con competencias superpostas, que o programa cifra en máis de 600; suprimir as deputacións provinciais e pechar as empresas públicas con perdas.",
+            "eu": "Programak urtean 6.000 milioi eurotik gorako gastua egozten dien 2.000 erakunde, fundazio eta behatokitik gora berehala ixtea. Bikoiztutako erakundeak bateratzea, beharrezkoak ez diren agentziak kentzea eta programak 600 baino gehiago direla dioen eskumen gainjarriak dituzten erakundeak %40 murriztea; probintzia diputazioak kentzea eta galerak dituzten enpresa publikoak ixtea.",
+            "oc": "Barrar immediatament mès de 2.000 entitats, fondacions, observatòris e organismes as quaus eth programa atribuís mès de 6.000 milions d’èuros de despensa annau. Fusionar organismes duplicadi, eliminar agéncies innecessàries e redusir un 40% es entitats damb competéncies superpausades, qu’eth programa chifre en mès de 600; suprimir es deputacions provinciaus e barrar es empreses publiques damb pèrtes.",
+            "en": "Immediately close over 2,000 entities, foundations, observatories and bodies which the programme says cost over €6 billion annually. Merge duplicate bodies, eliminate unnecessary agencies and reduce bodies with overlapping powers, which the programme puts at over 600, by 40%; abolish provincial councils and close loss-making public companies."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-economy-and-taxes-subsidy-cuts",
+          "title": {
+            "es": "Recortar subvenciones y sustituirlas por rebajas fiscales",
+            "ca": "Retallar subvencions i substituir-les per rebaixes fiscals",
+            "gl": "Recortar subvencións e substituílas por rebaixas fiscais",
+            "eu": "Dirulaguntzak murriztea eta zerga murrizketez ordeztea",
+            "oc": "Retalhar subvencions e remplaçar-les per baishades fiscaus",
+            "en": "Cut subsidies and replace them with tax reductions"
+          },
+          "text": {
+            "es": "Eliminar el 80% de las subvenciones y todas las ayudas públicas directas a empresas y sectores no estratégicos, sustituyéndolas por incentivos de reducción fiscal; prohibir las subvenciones encadenadas.",
+            "ca": "Eliminar el 80% de les subvencions i tots els ajuts públics directes a empreses i sectors no estratègics, substituint-los per incentius de reducció fiscal; prohibir les subvencions encadenades.",
+            "gl": "Eliminar o 80% das subvencións e todas as axudas públicas directas a empresas e sectores non estratéxicos, substituíndoas por incentivos de redución fiscal; prohibir as subvencións encadeadas.",
+            "eu": "Dirulaguntzen %80 eta enpresa eta sektore ez estrategikoentzako zuzeneko laguntza publiko guztiak kentzea, zerga murrizketen pizgarriekin ordeztuz; kateatutako dirulaguntzak debekatzea.",
+            "oc": "Eliminar eth 80% des subvencions e totes es ajudes publiques dirèctes a empreses e sectors non estrategics, en tot remplaçar-les per incentius de reduccion fiscau; proïbir es subvencions encadenades.",
+            "en": "Eliminate 80% of subsidies and all direct public subsidies to companies and non-strategic sectors, replacing them with tax-reduction incentives; ban chains of successive subsidies."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-18",
+              "page": 18
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-18",
+              "page": 18
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-economy-and-taxes-spending-audit",
+          "title": {
+            "es": "Auditoría, gasto en tiempo real y contratación",
+            "ca": "Auditoria, despesa en temps real i contractació",
+            "gl": "Auditoría, gasto en tempo real e contratación",
+            "eu": "Auditoria, gastua denbora errealean eta kontratazioa",
+            "oc": "Auditoria, despensa en temps reau e contractacion",
+            "en": "Audit, real-time spending and procurement"
+          },
+          "text": {
+            "es": "Crear una Auditoría Independiente del Gasto Público, publicar obligatoriamente todas las partidas en un portal de consulta ciudadana en tiempo real y reformar la Ley de Contratos del Sector Público para eliminar los contratos a dedo y las adjudicaciones opacas.",
+            "ca": "Crear una Auditoría Independiente del Gasto Público, publicar obligatòriament totes les partides en un portal de consulta ciutadana en temps real i reformar la Ley de Contratos del Sector Público per eliminar els contractes a dit i les adjudicacions opaques.",
+            "gl": "Crear unha Auditoría Independiente del Gasto Público, publicar obrigatoriamente todas as partidas nun portal de consulta cidadá en tempo real e reformar a Ley de Contratos del Sector Público para eliminar os contratos a dedo e as adxudicacións opacas.",
+            "eu": "Gastu Publikoaren Auditoria Independentea sortzea, gastu partida guztiak herritarrek denbora errealean kontsultatzeko atari batean nahitaez argitaratzea eta Sektore Publikoko Kontratuen Legea erreformatzea, nahierara emandako kontratuak eta esleipen opakuak kentzeko.",
+            "oc": "Crear ua Auditoría Independiente del Gasto Público, publicar obligatòriament totes es partides en un portau de consulta ciutadana en temps reau e reformar era Ley de Contratos del Sector Público entà eliminar es contractes a dit e es adjudicacions opaques.",
+            "en": "Create an Independent Public Spending Audit, require publication of all expenditure items on a public portal for real-time consultation, and reform the Public Sector Contracts Law to end hand-picked contracts and opaque awards."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-economy-and-taxes-eu-funds",
+          "title": {
+            "es": "Revisar los fondos europeos y recuperar el control productivo",
+            "ca": "Revisar els fons europeus i recuperar el control productiu",
+            "gl": "Revisar os fondos europeos e recuperar o control produtivo",
+            "eu": "Europako funtsak berrikustea eta ekoizpenaren kontrola berreskuratzea",
+            "oc": "Revisar es hons europèus e recuperar eth contròl productiu",
+            "en": "Review EU funds and regain control over productive policy"
+          },
+          "text": {
+            "es": "Revisar todos los fondos recibidos de la UE y sus condiciones para evaluar si benefician a España; prohibir ayudas que impliquen destruir sectores estratégicos a cambio de fondos temporales y recuperar el control de las políticas industriales y agrícolas.",
+            "ca": "Revisar tots els fons rebuts de la UE i les seves condicions per avaluar si beneficien Espanya; prohibir ajuts que impliquin destruir sectors estratègics a canvi de fons temporals i recuperar el control de les polítiques industrials i agrícoles.",
+            "gl": "Revisar todos os fondos recibidos da UE e as súas condicións para avaliar se benefician a España; prohibir axudas que impliquen destruír sectores estratéxicos a cambio de fondos temporais e recuperar o control das políticas industriais e agrícolas.",
+            "eu": "EBtik jasotako funts guztiak eta haien baldintzak berrikustea, Espainiari mesede egiten dioten ebaluatzeko; aldi baterako funtsen truke sektore estrategikoak suntsitzea dakarten laguntzak debekatzea eta industria eta nekazaritza politiken kontrola berreskuratzea.",
+            "oc": "Revisar toti es hons recebudi dera UE e es sues condicions entà avalorar se beneficien Espanha; proïbir ajudes qu’impliquen destruïr sectors estrategics a cambi de hons temporaus e recuperar eth contròl des politiques industriaus e agricòles.",
+            "en": "Review all funds received from the EU and their conditions to assess whether they benefit Spain; ban subsidies involving the destruction of strategic sectors in exchange for temporary funding and regain control over industrial and agricultural policies."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-19",
+              "page": 19
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-19",
+              "page": 19
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-19",
+              "page": 19
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-economy-and-taxes-primary-sector",
+          "title": {
+            "es": "Proteger el sector primario y derogar nueve marcos normativos",
+            "ca": "Protegir el sector primari i derogar nou marcs normatius",
+            "gl": "Protexer o sector primario e derrogar nove marcos normativos",
+            "eu": "Lehen sektorea babestea eta bederatzi arau esparru indargabetzea",
+            "oc": "Protegir eth sector primari e derogar nau marcs normatius",
+            "en": "Protect the primary sector and repeal nine regulatory frameworks"
+          },
+          "text": {
+            "es": "Proteger agricultura, pesca y ganadería y exigir la derogación inmediata del Pacto Verde Europeo, la Política Agraria Común, las leyes de restauración de la naturaleza, bienestar animal, quemas, estructuras agrarias, prevención de pérdidas y desperdicio alimentario y cadena alimentaria, y de la obligación del cuaderno digital.",
+            "ca": "Protegir agricultura, pesca i ramaderia i exigir la derogació immediata del Pacte Verd Europeu, la Política Agrària Comuna, les lleis de restauració de la natura, benestar animal, cremes, estructures agràries, prevenció de pèrdues i malbaratament alimentari i cadena alimentària, i de l’obligació del quadern digital.",
+            "gl": "Protexer agricultura, pesca e gandaría e esixir a derrogación inmediata do Pacto Verde Europeo, a Política Agraria Común, as leis de restauración da natureza, benestar animal, queimas, estruturas agrarias, prevención de perdas e desperdicio alimentario e cadea alimentaria, e da obriga do caderno dixital.",
+            "eu": "Nekazaritza, arrantza eta abeltzaintza babestea eta honako hauek berehala indargabetzea eskatzea: Europako Itun Berdea, Nekazaritza Politika Bateratua, natura lehengoratzeko, animalien ongizateko, erreketei buruzko, nekazaritza egiturei buruzko, elikagai galerak eta xahuketa prebenitzeko eta elikadura kateari buruzko legeak, eta koaderno digitalaren derrigortasuna.",
+            "oc": "Protegir agricultura, pesca e ramaderia e exigir era derogacion immediata deth Pacte Verd Europèu, era Politica Agrària Comuna, es leis de restauracion dera natura, benèster animau, cremes, estructures agràries, prevencion de pèrtes e mauversament alimentari e cadea alimentària, e dera obligacion deth quadèrn digitau.",
+            "en": "Protect agriculture, fishing and livestock farming and demand immediate repeal of the European Green Deal, Common Agricultural Policy, laws on nature restoration, animal welfare, burning, agricultural structures, prevention of food loss and waste, and the food chain, and the mandatory digital farm logbook."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa--education",
+      "partyId": "iustitia-europa",
+      "topicId": "education",
+      "path": "/parties/iustitia-europa/education",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-education-curriculum",
+          "title": {
+            "es": "Currículo, valores y autoridad docente",
+            "ca": "Currículum, valors i autoritat docent",
+            "gl": "Currículo, valores e autoridade docente",
+            "eu": "Curriculuma, balioak eta irakasleen agintea",
+            "oc": "Curriculum, valors e autoritat des docents",
+            "en": "Curriculum, values and teachers’ authority"
+          },
+          "text": {
+            "es": "Eliminar de la educación pública los contenidos que el programa califica de ideológicos, incluidos los vinculados a la Agenda 2030, género, ecologismo radical e inmigración descontrolada. Reformar todo el currículo para centrarse en conocimientos y competencias reales, educar en esfuerzo, disciplina y mérito, reforzar la autoridad docente y garantizar la libertad educativa de los padres.",
+            "ca": "Eliminar de l’educació pública els continguts que el programa qualifica d’ideològics, inclosos els vinculats a l’Agenda 2030, gènere, ecologisme radical i immigració descontrolada. Reformar tot el currículum per centrar-se en coneixements i competències reals, educar en esforç, disciplina i mèrit, reforçar l’autoritat docent i garantir la llibertat educativa dels pares.",
+            "gl": "Eliminar da educación pública os contidos que o programa cualifica de ideolóxicos, incluídos os vinculados á Axenda 2030, xénero, ecoloxismo radical e inmigración descontrolada. Reformar todo o currículo para centrarse en coñecementos e competencias reais, educar en esforzo, disciplina e mérito, reforzar a autoridade docente e garantir a liberdade educativa dos pais.",
+            "eu": "Programak ideologikotzat jotzen dituen edukiak hezkuntza publikotik kentzea, besteak beste 2030 Agendari, generoari, ekologismo erradikalari eta kontrolik gabeko immigrazioari lotutakoak. Curriculum osoa ezagutzan eta benetako gaitasunetan ardazteko erreformatzea, ahaleginean, diziplinan eta merezimenduan heztea, irakasleen agintea indartzea eta gurasoen hezkuntza askatasuna bermatzea.",
+            "oc": "Eliminar dera educacion publica es contenguts qu’eth programa qualifique d’ideologics, includidi es vinculadi ara Agenda 2030, genre, ecologisme radicau e immigracion descontrolada. Reformar tot eth curriculum entà centrar-se en coneishements e competéncies reaus, educar en esfòrç, disciplina e merit, reforçar era autoritat des docents e garantir era libertat educativa des pairs.",
+            "en": "Remove from public education content the programme describes as ideological, including content linked to Agenda 2030, gender, radical environmentalism and uncontrolled immigration. Reform the entire curriculum around knowledge and real skills, teach effort, discipline and merit, strengthen teachers’ authority and guarantee parents’ educational freedom."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-21",
+              "page": 21
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-21",
+              "page": 21
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-education-universities",
+          "title": {
+            "es": "Reformar la Ley de Universidades",
+            "ca": "Reformar la Ley de Universidades",
+            "gl": "Reformar a Ley de Universidades",
+            "eu": "Unibertsitate Legea erreformatzea",
+            "oc": "Reformar era Ley de Universidades",
+            "en": "Reform the Universities Law"
+          },
+          "text": {
+            "es": "Reformar la Ley de Universidades para acabar con lo que el programa denomina sectarismo ideológico.",
+            "ca": "Reformar la Ley de Universidades per posar fi al que el programa anomena sectarisme ideològic.",
+            "gl": "Reformar a Ley de Universidades para acabar co que o programa denomina sectarismo ideolóxico.",
+            "eu": "Unibertsitate Legea erreformatzea, programak sektarismo ideologikoa deitzen dionari amaiera emateko.",
+            "oc": "Reformar era Ley de Universidades entà acabar damb çò qu’eth programa nomente sectarisme ideologic.",
+            "en": "Reform the Universities Law to end what the programme calls ideological sectarianism."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa--employment",
+      "partyId": "iustitia-europa",
+      "topicId": "employment",
+      "path": "/parties/iustitia-europa/employment",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-employment-self-employed",
+          "title": {
+            "es": "Cuota cero y fiscalidad de los autónomos",
+            "ca": "Quota zero i fiscalitat dels autònoms",
+            "gl": "Cota cero e fiscalidade dos autónomos",
+            "eu": "Autonomoen zero kuota eta fiskalitatea",
+            "oc": "Quòta zèro e fiscalitat des autonòms",
+            "en": "Zero contributions and taxation for the self-employed"
+          },
+          "text": {
+            "es": "Establecer cuota cero durante los primeros cuatro años de actividad y eliminar las cuotas en meses sin ingresos, con un modelo basado en ingresos reales. Suprimir los módulos, simplificar la tributación y la burocracia e incentivar el autoempleo con desgravaciones fiscales sin dependencia de subvenciones públicas.",
+            "ca": "Establir quota zero durant els primers quatre anys d’activitat i eliminar les quotes els mesos sense ingressos, amb un model basat en ingressos reals. Suprimir els mòduls, simplificar la tributació i la burocràcia i incentivar l’autoocupació amb desgravacions fiscals sense dependència de subvencions públiques.",
+            "gl": "Establecer cota cero durante os primeiros catro anos de actividade e eliminar as cotas nos meses sen ingresos, cun modelo baseado nos ingresos reais. Suprimir os módulos, simplificar a tributación e a burocracia e incentivar o autoemprego con desgravacións fiscais sen dependencia de subvencións públicas.",
+            "eu": "Jardueraren lehen lau urteetan zero kuota ezartzea eta diru sarrerarik gabeko hilabeteetan kuotak kentzea, benetako diru sarreretan oinarritutako ereduarekin. Moduluak kentzea, zergak eta burokrazia sinplifikatzea eta autoenplegua zerga kenkarien bidez sustatzea, dirulaguntza publikoen mende egon gabe.",
+            "oc": "Establir quòta zèro pendent es prumèrs quate ans d’activitat e eliminar es quòtes enes mesi sense ingressi, damb un modèl basat en ingressi reaus. Suprimir es mòduls, simplificar era tributacion e era burocracia e incentivar er autoemplec damb desgravacions fiscaus sense dependéncia de subvencions publiques.",
+            "en": "Set zero self-employed contributions for the first four years of activity and waive contributions in months without income, using a model based on actual income. Abolish the modules system, simplify taxation and administration, and encourage self-employment through tax relief without dependence on public subsidies."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-17",
+              "page": 17
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-17",
+              "page": 17
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-17",
+              "page": 17
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-17",
+              "page": 17
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-employment-employment-incentives",
+          "title": {
+            "es": "Convertir subsidios en incentivos al empleo",
+            "ca": "Convertir subsidis en incentius a l’ocupació",
+            "gl": "Converter subsidios en incentivos ao emprego",
+            "eu": "Subsidioak enplegu pizgarri bihurtzea",
+            "oc": "Convertir subsidis en incentius ar emplec",
+            "en": "Convert subsidies into employment incentives"
+          },
+          "text": {
+            "es": "Transformar los subsidios en incentivos al empleo.",
+            "ca": "Transformar els subsidis en incentius a l’ocupació.",
+            "gl": "Transformar os subsidios en incentivos ao emprego.",
+            "eu": "Subsidioak enplegua sustatzeko pizgarri bihurtzea.",
+            "oc": "Transformar es subsidis en incentius ar emplec.",
+            "en": "Transform subsidies into employment incentives."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-employment-police-pay",
+          "title": {
+            "es": "Unificar los sueldos policiales",
+            "ca": "Unificar els sous policials",
+            "gl": "Unificar os soldos policiais",
+            "eu": "Polizien soldatak bateratzea",
+            "oc": "Unificar es salaris policèrs",
+            "en": "Unify police pay"
+          },
+          "text": {
+            "es": "Unificar los sueldos de las fuerzas y cuerpos de seguridad; los de la Guardia Civil y la Policía Nacional nunca podrán ser inferiores a los de las policías autonómicas o locales.",
+            "ca": "Unificar els sous de les forces i cossos de seguretat; els de la Guardia Civil i la Policía Nacional mai no podran ser inferiors als de les policies autonòmiques o locals.",
+            "gl": "Unificar os soldos das forzas e corpos de seguridade; os da Guardia Civil e da Policía Nacional nunca poderán ser inferiores aos das policías autonómicas ou locais.",
+            "eu": "Segurtasun indar eta kidegoen soldatak bateratzea; Guardia Civil eta Policía Nacional kidegoetako soldatak ezin izango dira inoiz autonomia erkidegoetako edo tokiko polizienak baino txikiagoak izan.",
+            "oc": "Unificar es salaris des fòrces e còssi de seguretat; es dera Guardia Civil e era Policía Nacional jamès poderàn èster inferiors as des policies autonomiques o locaus.",
+            "en": "Unify law-enforcement pay; Guardia Civil and Policía Nacional salaries must never be lower than those of regional or local police."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-21",
+              "page": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa--environment-and-energy",
+      "partyId": "iustitia-europa",
+      "topicId": "environment-and-energy",
+      "path": "/parties/iustitia-europa/environment-and-energy",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-environment-and-energy-energy-resources",
+          "title": {
+            "es": "Nuclear, gas y nacionalización de tierras raras",
+            "ca": "Nuclear, gas i nacionalització de terres rares",
+            "gl": "Nuclear, gas e nacionalización de terras raras",
+            "eu": "Nuklearra, gasa eta lur arraroen nazionalizazioa",
+            "oc": "Nucleara, gas e nacionalizacion de tèrres rares",
+            "en": "Nuclear power, gas and nationalisation of rare earths"
+          },
+          "text": {
+            "es": "Apostar por la energía nuclear, el gas y los recursos propios, y nacionalizar las tierras raras.",
+            "ca": "Apostar per l’energia nuclear, el gas i els recursos propis, i nacionalitzar les terres rares.",
+            "gl": "Apostar pola enerxía nuclear, o gas e os recursos propios, e nacionalizar as terras raras.",
+            "eu": "Energia nuklearraren, gasaren eta bertako baliabideen alde egitea eta lur arraroak nazionalizatzea.",
+            "oc": "Apostar pera energia nucleara, eth gas e es recorsi pròpris, e nacionalizar es tèrres rares.",
+            "en": "Back nuclear power, gas and domestic resources, and nationalise rare earths."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-environment-and-energy-green-deal-renewables",
+          "title": {
+            "es": "Salir del Pacto Verde y retirar ayudas a renovables",
+            "ca": "Sortir del Pacte Verd i retirar ajuts a renovables",
+            "gl": "Saír do Pacto Verde e retirar axudas ás renovables",
+            "eu": "Itun Berdetik ateratzea eta berriztagarrien laguntzak kentzea",
+            "oc": "Gésser deth Pacte Verd e retirar ajudes a renovables",
+            "en": "Leave the Green Deal and end renewable subsidies"
+          },
+          "text": {
+            "es": "Salir del Pacto Verde Europeo, terminar las subvenciones a renovables y defender las tierras frente a los daños que el programa atribuye a sus instalaciones.",
+            "ca": "Sortir del Pacte Verd Europeu, acabar les subvencions a renovables i defensar les terres davant els danys que el programa atribueix a les seves instal·lacions.",
+            "gl": "Saír do Pacto Verde Europeo, rematar as subvencións ás renovables e defender as terras fronte aos danos que o programa atribúe ás súas instalacións.",
+            "eu": "Europako Itun Berdetik ateratzea, berriztagarrientzako dirulaguntzak amaitzea eta lurrak babestea programak instalazio horiei egozten dizkien kalteen aurrean.",
+            "oc": "Gésser deth Pacte Verd Europèu, acabar es subvencions a renovables e deféner es tèrres deuant des damnatges qu’eth programa atribuís as sues installacions.",
+            "en": "Leave the European Green Deal, end renewable-energy subsidies and protect land against the damage the programme attributes to renewable installations."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa--healthcare",
+      "partyId": "iustitia-europa",
+      "topicId": "healthcare",
+      "path": "/parties/iustitia-europa/healthcare",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-healthcare-natural-therapies",
+          "title": {
+            "es": "Integrar las terapias naturales",
+            "ca": "Integrar les teràpies naturals",
+            "gl": "Integrar as terapias naturais",
+            "eu": "Terapia naturalak integratzea",
+            "oc": "Integrar es terapies naturaus",
+            "en": "Integrate natural therapies"
+          },
+          "text": {
+            "es": "Integrar legalmente las terapias naturales en el sistema de salud, con seguridad, profesionalidad y libre acceso; eliminar barreras, reconocer profesionalmente a los terapeutas y aplicarles IVA cero. Promover la libertad de elección y poner fin a lo que el programa denomina monopolio farmacéutico e interferencias de sus grupos de presión.",
+            "ca": "Integrar legalment les teràpies naturals en el sistema de salut, amb seguretat, professionalitat i lliure accés; eliminar barreres, reconèixer professionalment els terapeutes i aplicar-los IVA zero. Promoure la llibertat d’elecció i posar fi al que el programa anomena monopoli farmacèutic i interferències dels seus grups de pressió.",
+            "gl": "Integrar legalmente as terapias naturais no sistema de saúde, con seguridade, profesionalidade e libre acceso; eliminar barreiras, recoñecer profesionalmente os terapeutas e aplicarlles IVE cero. Promover a liberdade de elección e poñer fin ao que o programa denomina monopolio farmacéutico e interferencias dos seus grupos de presión.",
+            "eu": "Terapia naturalak osasun sisteman legez integratzea, segurtasuna, profesionaltasuna eta sarbide askea bermatuz; oztopoak kentzea, terapeutei lanbide aitortza ematea eta zero BEZa aplikatzea. Aukeratzeko askatasuna sustatzea eta programak farmazia monopolioa eta haren presio taldeen esku hartzeak deitzen dituenak amaitzea.",
+            "oc": "Integrar legaument es terapies naturaus en sistèma de salut, damb seguretat, professionalitat e accès liure; eliminar barrères, reconéisher professionaument es terapeutes e aplicar-les IVA zèro. Promòir era libertat d’eleccion e acabar damb çò qu’eth programa nomente monopòli farmaceutic e interferéncies des sòns grops de pression.",
+            "en": "Legally integrate natural therapies into the health system with safety, professional standards and unrestricted access; remove barriers, recognise therapists professionally and apply zero VAT to them. Promote freedom of choice and end what the programme calls the pharmaceutical monopoly and interference by its lobby groups."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-23",
+              "page": 23
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-23",
+              "page": 23
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-22",
+              "page": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa--housing",
+      "partyId": "iustitia-europa",
+      "topicId": "housing",
+      "path": "/parties/iustitia-europa/housing",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-housing-first-home",
+          "title": {
+            "es": "Primera vivienda para jóvenes y familias",
+            "ca": "Primer habitatge per a joves i famílies",
+            "gl": "Primeira vivenda para mozos e familias",
+            "eu": "Gazte eta familientzako lehen etxebizitza",
+            "oc": "Prumèr abitatge entà joeni e familhes",
+            "en": "First homes for young people and families"
+          },
+          "text": {
+            "es": "Establecer un plan de acceso a la primera vivienda para jóvenes y familias, con incentivos fiscales y eliminación de cargas burocráticas para la compra; suprimir el IVA en la compra de la primera vivienda.",
+            "ca": "Establir un pla d’accés al primer habitatge per a joves i famílies, amb incentius fiscals i eliminació de càrregues burocràtiques per a la compra; suprimir l’IVA en la compra del primer habitatge.",
+            "gl": "Establecer un plan de acceso á primeira vivenda para mozos e familias, con incentivos fiscais e eliminación de cargas burocráticas para a compra; suprimir o IVE na compra da primeira vivenda.",
+            "eu": "Gazte eta familientzako lehen etxebizitza eskuratzeko plana ezartzea, zerga pizgarriekin eta erosteko karga burokratikoak kenduz; lehen etxebizitza erostean BEZa kentzea.",
+            "oc": "Establir un plan d’accès ath prumèr abitatge entà joeni e familhes, damb incentius fiscaus e eliminacion de cargues burocratiques entara crompa; suprimir er IVA ena crompa deth prumèr abitatge.",
+            "en": "Establish a first-home access plan for young people and families, with tax incentives and removal of purchase-related administrative burdens; abolish VAT on first-home purchases."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-18",
+              "page": 18
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-18",
+              "page": 18
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-housing-rent-controls",
+          "title": {
+            "es": "Eliminar el control de alquileres",
+            "ca": "Eliminar el control dels lloguers",
+            "gl": "Eliminar o control dos alugueiros",
+            "eu": "Alokairuen kontrola kentzea",
+            "oc": "Eliminar eth contròl des loguèrs",
+            "en": "End rent controls"
+          },
+          "text": {
+            "es": "Eliminar las políticas de control de alquiler.",
+            "ca": "Eliminar les polítiques de control del lloguer.",
+            "gl": "Eliminar as políticas de control do alugueiro.",
+            "eu": "Alokairuak kontrolatzeko politikak kentzea.",
+            "oc": "Eliminar es politiques de contròl deth loguèr.",
+            "en": "End rent-control policies."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-18",
+              "page": 18
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-housing-evictions",
+          "title": {
+            "es": "Desalojo en menos de 24 horas",
+            "ca": "Desallotjament en menys de 24 hores",
+            "gl": "Desaloxo en menos de 24 horas",
+            "eu": "24 ordu baino lehen kaleratzea",
+            "oc": "Deslotjament en mens de 24 ores",
+            "en": "Eviction in under 24 hours"
+          },
+          "text": {
+            "es": "Proteger la propiedad privada frente a la ocupación ilegal, endurecer las penas y garantizar el desalojo en menos de 24 horas desde la denuncia ante las fuerzas y cuerpos de seguridad del Estado.",
+            "ca": "Protegir la propietat privada davant l’ocupació il·legal, endurir les penes i garantir el desallotjament en menys de 24 hores des de la denúncia davant les forces i cossos de seguretat de l’Estat.",
+            "gl": "Protexer a propiedade privada fronte á ocupación ilegal, endurecer as penas e garantir o desaloxo en menos de 24 horas desde a denuncia ante as forzas e corpos de seguridade do Estado.",
+            "eu": "Jabetza pribatua legez kanpoko okupazioaren aurrean babestea, zigorrak gogortzea eta Estatuko segurtasun indar eta kidegoetan salaketa aurkeztu eta 24 ordu baino lehen kaleratzea bermatzea.",
+            "oc": "Protegir era proprietat privada deuant dera ocupacion illegau, endurir es penes e garantir eth deslotjament en mens de 24 ores des dera denóncia deuant des fòrces e còssi de seguretat der Estat.",
+            "en": "Protect private property against unlawful occupation, increase penalties and guarantee eviction in under 24 hours after a complaint is filed with State law-enforcement bodies."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-18",
+              "page": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa--institutions-and-rights",
+      "partyId": "iustitia-europa",
+      "topicId": "institutions-and-rights",
+      "path": "/parties/iustitia-europa/institutions-and-rights",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-institutions-and-rights-binding-contract",
+          "title": {
+            "es": "Contrato electoral jurídicamente vinculante",
+            "ca": "Contracte electoral jurídicament vinculant",
+            "gl": "Contrato electoral xuridicamente vinculante",
+            "eu": "Hauteskunde kontratu juridikoki loteslea",
+            "oc": "Contracte electorau juridicament vinculant",
+            "en": "Legally binding electoral contract"
+          },
+          "text": {
+            "es": "Convertir el contrato electoral en norma jurídica vinculante: ante el incumplimiento de compromisos por partidos, coaliciones o formaciones, cancelar todos los sueldos, subsidios, dietas y ayudas estatales o europeas y/o destituir a sus cargos.",
+            "ca": "Convertir el contracte electoral en norma jurídica vinculant: davant l’incompliment de compromisos per partits, coalicions o formacions, cancel·lar tots els sous, subsidis, dietes i ajuts estatals o europeus i/o destituir els seus càrrecs.",
+            "gl": "Converter o contrato electoral en norma xurídica vinculante: ante o incumprimento de compromisos por partidos, coalicións ou formacións, cancelar todos os soldos, subsidios, axudas de custo e axudas estatais ou europeas e/ou destituír os seus cargos.",
+            "eu": "Hauteskunde kontratua arau juridiko lotesle bihurtzea: alderdiek, koalizioek edo hauteskunde erakundeek konpromisoak betetzen ez badituzte, soldata, subsidio, dieta eta Estatuko edo Europako laguntza guztiak kentzea eta/edo haien kargudunak kargugabetzea.",
+            "oc": "Convertir eth contracte electorau en norma juridica vinculanta: deuant der incompliment de compromisi per partits, coalicions o formacions, cancellar toti es salaris, subsidis, dietes e ajudes estataus o europèes e/o destituïr es sòns cargues.",
+            "en": "Make the electoral contract legally binding: if parties, coalitions or electoral formations fail to fulfil their commitments, cancel all salaries, subsidies, allowances and State or European aid and/or remove their officeholders."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-8",
+              "page": 8
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-immunity",
+          "title": {
+            "es": "Eliminar inmunidad y aforamientos",
+            "ca": "Eliminar immunitat i aforaments",
+            "gl": "Eliminar inmunidade e aforamentos",
+            "eu": "Immunitatea eta foru bereziak kentzea",
+            "oc": "Eliminar immunitat e aforaments",
+            "en": "End immunity and special jurisdiction"
+          },
+          "text": {
+            "es": "Reformar la Constitución para eliminar la inmunidad parlamentaria y los aforamientos de diputados, senadores y ministros, que serán juzgados por tribunales y juzgados ordinarios.",
+            "ca": "Reformar la Constitució per eliminar la immunitat parlamentària i els aforaments de diputats, senadors i ministres, que seran jutjats per tribunals i jutjats ordinaris.",
+            "gl": "Reformar a Constitución para eliminar a inmunidade parlamentaria e os aforamentos de deputados, senadores e ministros, que serán xulgados por tribunais e xulgados ordinarios.",
+            "eu": "Konstituzioa erreformatzea diputatu, senatari eta ministroen parlamentu immunitatea eta foru bereziak kentzeko, auzitegi eta epaitegi arruntek epaitu ditzaten.",
+            "oc": "Reformar era Constitucion entà eliminar era immunitat parlamentària e es aforaments de deputats, senadors e ministres, que seràn jutjadi per tribunaus e jutjats ordinaris.",
+            "en": "Amend the Constitution to abolish parliamentary immunity and special jurisdiction for deputies, senators and ministers, who would be tried in ordinary courts."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-9",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-direct-president",
+          "title": {
+            "es": "Elegir directamente al presidente cada cuatro años",
+            "ca": "Elegir directament el president cada quatre anys",
+            "gl": "Elixir directamente o presidente cada catro anos",
+            "eu": "Presidentea zuzenean hautatzea lau urtean behin",
+            "oc": "Elegir dirèctament eth president cada quate ans",
+            "en": "Directly elect the prime minister every four years"
+          },
+          "text": {
+            "es": "Reformar la Constitución para que los ciudadanos españoles elijan al presidente del Gobierno cada cuatro años por sufragio universal, libre, igual, directo y secreto.",
+            "ca": "Reformar la Constitució perquè els ciutadans espanyols elegeixin el president del Govern cada quatre anys per sufragi universal, lliure, igual, directe i secret.",
+            "gl": "Reformar a Constitución para que os cidadáns españois elixan o presidente do Goberno cada catro anos por sufraxio universal, libre, igual, directo e secreto.",
+            "eu": "Konstituzioa erreformatzea Espainiako herritarrek Gobernuko presidentea lau urtean behin hauta dezaten, sufragio unibertsal, aske, berdin, zuzen eta sekretuaren bidez.",
+            "oc": "Reformar era Constitucion entà qu’es ciutadans espanhòls elegisquen eth president deth Govèrn cada quate ans per sufragi universau, liure, egau, dirècte e secrèt.",
+            "en": "Amend the Constitution so Spanish citizens elect the prime minister every four years by universal, free, equal, direct and secret suffrage."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-9",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-referendums",
+          "title": {
+            "es": "Referéndums vinculantes y de iniciativa ciudadana",
+            "ca": "Referèndums vinculants i d’iniciativa ciutadana",
+            "gl": "Referendos vinculantes e de iniciativa cidadá",
+            "eu": "Erreferendum lotesleak eta herri ekimenekoak",
+            "oc": "Referéndums vinculants e d’iniciativa ciutadana",
+            "en": "Binding referendums and citizen initiatives"
+          },
+          "text": {
+            "es": "Reformar la Constitución para establecer referéndums vinculantes y obligatorios y permitir su convocatoria por iniciativa ciudadana mediante recogida de firmas.",
+            "ca": "Reformar la Constitució per establir referèndums vinculants i obligatoris i permetre’n la convocatòria per iniciativa ciutadana mitjançant recollida de signatures.",
+            "gl": "Reformar a Constitución para establecer referendos vinculantes e obrigatorios e permitir a súa convocatoria por iniciativa cidadá mediante recollida de sinaturas.",
+            "eu": "Konstituzioa erreformatzea erreferendum lotesle eta nahitaezkoak ezartzeko eta sinadura bilketaren bidez herri ekimenez deitu ahal izateko.",
+            "oc": "Reformar era Constitucion entà establir referéndums vinculants e obligatòris e perméter era sua convocatòria per iniciativa ciutadana mejançant recuelhuda de signatures.",
+            "en": "Amend the Constitution to establish binding and mandatory referendums and allow citizens to initiate them by collecting signatures."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-9",
+              "page": 9
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-9",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-single-member-districts",
+          "title": {
+            "es": "Distritos uninominales y listas abiertas",
+            "ca": "Districtes uninominals i llistes obertes",
+            "gl": "Distritos uninominais e listas abertas",
+            "eu": "Kide bakarreko barrutiak eta zerrenda irekiak",
+            "oc": "Districtes uninominaus e listes dubèrtes",
+            "en": "Single-member districts and open lists"
+          },
+          "text": {
+            "es": "Sustituir la representación proporcional y las circunscripciones provinciales por un sistema mayoritario de distritos uninominales para Congreso y Senado, con elección directa de diputados y senadores en listas abiertas y sin listas cerradas de partidos.",
+            "ca": "Substituir la representació proporcional i les circumscripcions provincials per un sistema majoritari de districtes uninominals per al Congrés i el Senat, amb elecció directa de diputats i senadors en llistes obertes i sense llistes tancades de partits.",
+            "gl": "Substituír a representación proporcional e as circunscricións provinciais por un sistema maioritario de distritos uninominais para Congreso e Senado, con elección directa de deputados e senadores en listas abertas e sen listas pechadas de partidos.",
+            "eu": "Ordezkaritza proportzionala eta probintzia hautesbarrutiak Kongresurako eta Senaturako kide bakarreko barrutien gehiengo sistema batez ordeztea, diputatuak eta senatariak zuzenean zerrenda irekietan hautatuz eta alderdien zerrenda itxirik gabe.",
+            "oc": "Remplaçar era representacion proporcionau e es circonscripcions provinciaus per un sistèma majoritari de districtes uninominaus entath Congrès e eth Senat, damb eleccion dirècta de deputats e senadors en listes dubèrtes e sense listes barrades de partits.",
+            "en": "Replace proportional representation and provincial constituencies with a majoritarian single-member district system for Congress and the Senate, directly electing deputies and senators through open lists rather than closed party lists."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-9",
+              "page": 9
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-9",
+              "page": 9
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-9",
+              "page": 9
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-term-limits",
+          "title": {
+            "es": "Dos mandatos completos como máximo",
+            "ca": "Dos mandats complets com a màxim",
+            "gl": "Dous mandatos completos como máximo",
+            "eu": "Gehienez bi agintaldi oso",
+            "oc": "Dus mandats complèts coma maxim",
+            "en": "Maximum of two full terms"
+          },
+          "text": {
+            "es": "Limitar a dos mandatos completos, consecutivos o alternos, al presidente del Gobierno; extender el límite a diputados, senadores, vicepresidentes, ministros, secretarios de Estado, subsecretarios, presidentes y consejeros autonómicos, alcaldes, concejales y cualquier otro cargo electo del Ejecutivo o Legislativo.",
+            "ca": "Limitar a dos mandats complets, consecutius o alterns, el president del Govern; estendre el límit a diputats, senadors, vicepresidents, ministres, secretaris d’Estat, subsecretaris, presidents i consellers autonòmics, alcaldes, regidors i qualsevol altre càrrec electe de l’Executiu o Legislatiu.",
+            "gl": "Limitar a dous mandatos completos, consecutivos ou alternos, o presidente do Goberno; estender o límite a deputados, senadores, vicepresidentes, ministros, secretarios de Estado, subsecretarios, presidentes e conselleiros autonómicos, alcaldes, concelleiros e calquera outro cargo electo do Executivo ou Lexislativo.",
+            "eu": "Gobernuko presidentea gehienez bi agintaldi osotara mugatzea, jarraian edo txandaka; muga diputatu, senatari, presidenteorde, ministro, estatu idazkari, idazkariorde, autonomia erkidegoetako presidente eta sailburu, alkate, zinegotzi eta botere betearazle edo legegileko beste edozein hautetsiri zabaltzea.",
+            "oc": "Limitar a dus mandats complèts, consecutius o alterns, eth president deth Govèrn; esténer eth limit a deputats, senadors, vicepresidents, ministres, secretaris d’Estat, sossecretaris, presidents e conselhèrs autonomics, bailes, còssos e quinsevolh aute cargue elegit der Executiu o Legislatiu.",
+            "en": "Limit the prime minister to two full terms, consecutive or non-consecutive; extend the limit to deputies, senators, deputy prime ministers, ministers, secretaries of state, undersecretaries, regional presidents and ministers, mayors, councillors and any other elected executive or legislative officeholder."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-constitutional-court",
+          "title": {
+            "es": "Elección y garantías del Tribunal Constitucional",
+            "ca": "Elecció i garanties del Tribunal Constitucional",
+            "gl": "Elección e garantías do Tribunal Constitucional",
+            "eu": "Konstituzio Auzitegiaren hautaketa eta bermeak",
+            "oc": "Eleccion e garanties deth Tribunal Constitucional",
+            "en": "Constitutional Court selection and safeguards"
+          },
+          "text": {
+            "es": "Elegir a los magistrados del Tribunal Constitucional mediante voto directo de juristas de carrera en activo, ratificado en referéndum vinculante, entre magistrados, fiscales, abogados del Estado, catedráticos y doctores en Derecho con más de 25 años de ejercicio. Exigir 30 años sin cargo político ni militancia partidista y mandato de nueve años no renovable; prohibir cargos privados durante 15 años tras dejar el tribunal y pertenecer a asociaciones políticas o ideológicas.",
+            "ca": "Elegir els magistrats del Tribunal Constitucional mitjançant vot directe de juristes de carrera en actiu, ratificat en referèndum vinculant, entre magistrats, fiscals, advocats de l’Estat, catedràtics i doctors en Dret amb més de 25 anys d’exercici. Exigir 30 anys sense càrrec polític ni militància partidista i mandat de nou anys no renovable; prohibir càrrecs privats durant 15 anys després de deixar el tribunal i pertànyer a associacions polítiques o ideològiques.",
+            "gl": "Elixir os maxistrados do Tribunal Constitucional mediante voto directo de xuristas de carreira en activo, ratificado en referendo vinculante, entre maxistrados, fiscais, avogados do Estado, catedráticos e doutores en Dereito con máis de 25 anos de exercicio. Esixir 30 anos sen cargo político nin militancia partidista e mandato de nove anos non renovable; prohibir cargos privados durante 15 anos tras deixar o tribunal e pertencer a asociacións políticas ou ideolóxicas.",
+            "eu": "Konstituzio Auzitegiko magistratuak jardunean dauden karrerako legelarien zuzeneko botoz hautatzea, erreferendum loteslez berretsita, 25 urtetik gorako jarduna duten magistratu, fiskal, Estatuko abokatu, katedradun eta Zuzenbideko doktoreen artetik. Azken 30 urteetan kargu politikorik edo alderdiko militantziarik ez izatea eskatzea eta bederatzi urteko agintaldi berriztaezina ezartzea; auzitegia utzi ondorengo 15 urteetan kargu pribatuak hartzea debekatzea. Elkarte politiko edo ideologikoetako kide izatea ere debekatzea.",
+            "oc": "Elegir es magistrats deth Tribunal Constitucional mejançant vòt dirècte de juristes de carrèra en actiu, ratificat en referéndum vinculant, entre magistrats, fiscaus, avocats der Estat, catedratics e doctors en Dret damb mès de 25 ans d’exercici. Exigir 30 ans sense cargue politic ne militància partidista e mandat de nau ans non renovable; proïbir cargues privats pendent 15 ans dempús de deishar eth tribunau e pertànher a associacions politiques o ideologiques.",
+            "en": "Elect Constitutional Court judges by direct vote among practising career jurists, ratified by binding referendum, from judges, prosecutors, State lawyers, full professors and doctors of law with over 25 years’ professional practice. Require no political office or party membership in the previous 30 years and a non-renewable nine-year term; ban private-sector positions for 15 years after leaving the court and membership of political or ideological associations."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-10",
+              "page": 10
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-judicial-council",
+          "title": {
+            "es": "Diez miembros del CGPJ elegidos por jueces",
+            "ca": "Deu membres del CGPJ elegits per jutges",
+            "gl": "Dez membros do CGPJ elixidos por xuíces",
+            "eu": "Epaileek hautatutako BJKNko hamar kide",
+            "oc": "Dètz membres deth CGPJ elegits per jutges",
+            "en": "Ten judicial council members elected by judges"
+          },
+          "text": {
+            "es": "Reformar la Constitución para un CGPJ de diez miembros, elegidos por voto directo y secreto de todos los jueces y magistrados en activo entre jueces, magistrados, abogados del Estado, fiscales, catedráticos o doctores en Derecho con más de 20 años de experiencia profesional.",
+            "ca": "Reformar la Constitució per a un CGPJ de deu membres, elegits per vot directe i secret de tots els jutges i magistrats en actiu entre jutges, magistrats, advocats de l’Estat, fiscals, catedràtics o doctors en Dret amb més de 20 anys d’experiència professional.",
+            "gl": "Reformar a Constitución para un CGPJ de dez membros, elixidos por voto directo e secreto de todos os xuíces e maxistrados en activo entre xuíces, maxistrados, avogados do Estado, fiscais, catedráticos ou doutores en Dereito con máis de 20 anos de experiencia profesional.",
+            "eu": "Konstituzioa erreformatzea BJKNk hamar kide izan ditzan, jarduneko epaile eta magistratu guztiek boto zuzen eta sekretuz hautatuta, 20 urtetik gorako lanbide esperientzia duten epaile, magistratu, Estatuko abokatu, fiskal, katedradun edo Zuzenbideko doktoreen artetik.",
+            "oc": "Reformar era Constitucion entà un CGPJ de dètz membres, elegits per vòt dirècte e secrèt de toti es jutges e magistrats en actiu entre jutges, magistrats, avocats der Estat, fiscaus, catedratics o doctors en Dret damb mès de 20 ans d’experiéncia professionau.",
+            "en": "Amend the Constitution to create a ten-member CGPJ, elected by direct secret ballot of all serving judges, from judges, State lawyers, prosecutors, full professors or doctors of law with over 20 years’ professional experience."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-prosecutor-general",
+          "title": {
+            "es": "Fiscal General independiente del Gobierno",
+            "ca": "Fiscal General independent del Govern",
+            "gl": "Fiscal Xeral independente do Goberno",
+            "eu": "Gobernuarekiko independentea den fiskal nagusia",
+            "oc": "Fiscau Generau independent deth Govèrn",
+            "en": "Prosecutor General independent of government"
+          },
+          "text": {
+            "es": "Encargar al CGPJ el nombramiento del Fiscal General entre fiscales de reconocido prestigio con más de 20 años de ejercicio, por nueve años no renovables; garantizar autonomía plena del Ministerio Fiscal frente al Gobierno y prohibir las instrucciones del Ejecutivo. El Ministerio Fiscal actuará con criterios de legalidad, imparcialidad, neutralidad y servicio a los españoles.",
+            "ca": "Encarregar al CGPJ el nomenament del Fiscal General entre fiscals de prestigi reconegut amb més de 20 anys d’exercici, per nou anys no renovables; garantir autonomia plena del Ministeri Fiscal davant el Govern i prohibir les instruccions de l’Executiu. El Ministeri Fiscal actuarà amb criteris de legalitat, imparcialitat, neutralitat i servei als espanyols.",
+            "gl": "Encargar ao CGPJ o nomeamento do Fiscal Xeral entre fiscais de recoñecido prestixio con máis de 20 anos de exercicio, por nove anos non renovables; garantir autonomía plena do Ministerio Fiscal fronte ao Goberno e prohibir as instrucións do Executivo. O Ministerio Fiscal actuará con criterios de legalidade, imparcialidade, neutralidade e servizo aos españois.",
+            "eu": "BJKNri fiskal nagusia izendatzeko ardura ematea, 20 urtetik gorako jarduna duten ospe aitortuko fiskalen artetik, berriztatu ezin diren bederatzi urterako; Fiskaltzak Gobernuarekiko autonomia osoa izatea bermatzea eta botere betearazlearen jarraibideak debekatzea. Fiskaltzak legezkotasunaren, inpartzialtasunaren, neutraltasunaren eta espainiarren zerbitzuaren irizpideen arabera jardungo du.",
+            "oc": "Encomanar ath CGPJ eth nomenament deth Fiscau Generau entre fiscaus de prestigi reconeishut damb mès de 20 ans d’exercici, per nau ans non renovables; garantir autonomia plea deth Ministèri Fiscau deuant deth Govèrn e proïbir es instruccions der Executiu. Eth Ministèri Fiscau actuarà damb critèris de legalitat, imparcialitat, neutralitat e servici as espanhòus.",
+            "en": "Have the CGPJ appoint the Prosecutor General from distinguished prosecutors with over 20 years’ practice for a non-renewable nine-year term; guarantee the prosecution service’s full autonomy from government and prohibit executive instructions. The prosecution service will act according to legality, impartiality, neutrality and service to Spaniards."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-citizen-electoral-boards",
+          "title": {
+            "es": "Juntas electorales ciudadanas por sorteo",
+            "ca": "Juntes electorals ciutadanes per sorteig",
+            "gl": "Xuntas electorais cidadás por sorteo",
+            "eu": "Zozketaz hautatutako herritarren hauteskunde batzordeak",
+            "oc": "Juntes electoraus ciutadanes per sòrt",
+            "en": "Citizens’ electoral boards selected by lot"
+          },
+          "text": {
+            "es": "Crear por reforma constitucional juntas electorales permanentes e independientes, integradas exclusivamente por ciudadanos del censo elegidos en sorteo público, excluyendo cargos públicos, miembros de partidos y personal de la Administración en activo. Su mandato será de cinco años y retribuido; todas las deliberaciones y votaciones serán públicas y sus decisiones tendrán trazabilidad digital.",
+            "ca": "Crear per reforma constitucional juntes electorals permanents i independents, integrades exclusivament per ciutadans del cens elegits en sorteig públic, excloent càrrecs públics, membres de partits i personal de l’Administració en actiu. El seu mandat serà de cinc anys i retribuït; totes les deliberacions i votacions seran públiques i les seves decisions tindran traçabilitat digital.",
+            "gl": "Crear por reforma constitucional xuntas electorais permanentes e independentes, integradas exclusivamente por cidadáns do censo elixidos en sorteo público, excluíndo cargos públicos, membros de partidos e persoal da Administración en activo. O seu mandato será de cinco anos e retribuído; todas as deliberacións e votacións serán públicas e as súas decisións terán trazabilidade dixital.",
+            "eu": "Konstituzioa erreformatuz hauteskunde batzorde iraunkor eta independenteak sortzea, erroldako herritarrek soilik osatuak, zozketa publikoz hautatuta, kargu publikoak, alderdietako kideak eta Administrazioko jarduneko langileak baztertuz. Agintaldia bost urtekoa eta ordaindua izango da; eztabaida eta bozketa guztiak publikoak izango dira eta erabakiek trazabilitate digitala izango dute.",
+            "oc": "Crear per reforma constitucionau juntes electoraus permanentes e independentes, integrades exclusivament per ciutadans deth cens elegits en sòrt public, en tot excludir cargues publics, membres de partits e personau dera Administracion en actiu. Eth sòn mandat serà de cinc ans e retribuït; totes es deliberacions e votacions seràn publiques e es sues decisions auràn traçabilitat digitau.",
+            "en": "Create permanent independent electoral boards through constitutional reform, composed solely of citizens publicly selected by lot from the electoral roll, excluding public officeholders, party members and serving administrative staff. Members would serve paid five-year terms; all deliberations and votes would be public and decisions digitally traceable."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-former-officeholders",
+          "title": {
+            "es": "Fin de privilegios y controles tras el cese",
+            "ca": "Fi de privilegis i controls després del cessament",
+            "gl": "Fin de privilexios e controis tras o cesamento",
+            "eu": "Pribilegioen amaiera eta kargua utzi ondorengo kontrolak",
+            "oc": "Fin de privilègis e contròls dempús deth cessament",
+            "en": "End privileges and impose post-office controls"
+          },
+          "text": {
+            "es": "Suprimir privilegios estatales, autonómicos y locales de expresidentes, exministros, diputados, senadores, alcaldes y concejales, incluidas pensiones vitalicias y coches oficiales de por vida. Retirar a ex altos cargos oficinas, chóferes, asesores, escoltas, pensiones e indemnizaciones especiales fuera del régimen común; impedirles durante cinco años entrar en empresas contratistas del Estado durante su mandato, exigirles declaraciones de actividades y patrimonio durante cinco años tras el cese y sancionar el uso indebido de recursos públicos.",
+            "ca": "Suprimir privilegis estatals, autonòmics i locals d’expresidents, exministres, diputats, senadors, alcaldes i regidors, incloses pensions vitalícies i cotxes oficials de per vida. Retirar als ex alts càrrecs oficines, xofers, assessors, escortes, pensions i indemnitzacions especials fora del règim comú; impedir-los durant cinc anys entrar en empreses contractistes de l’Estat durant el seu mandat, exigir-los declaracions d’activitats i patrimoni durant cinc anys després del cessament i sancionar l’ús indegut de recursos públics.",
+            "gl": "Suprimir privilexios estatais, autonómicos e locais de expresidentes, exministros, deputados, senadores, alcaldes e concelleiros, incluídas pensións vitalicias e coches oficiais de por vida. Retirar aos ex altos cargos oficinas, choferes, asesores, escoltas, pensións e indemnizacións especiais fóra do réxime común; impedirlles durante cinco anos entrar en empresas contratistas do Estado durante o seu mandato, esixirlles declaracións de actividades e patrimonio durante cinco anos tras o cesamento e sancionar o uso indebido de recursos públicos.",
+            "eu": "Presidente ohi, ministro ohi, diputatu, senatari, alkate eta zinegotzien Estatuko, autonomia erkidegoetako eta tokiko pribilegioak kentzea, biziarteko pentsioak eta auto ofizialak barne. Goi kargudun ohiei bulegoak, gidariak, aholkulariak, eskoltak eta erregimen arruntetik kanpoko pentsio eta kalte ordain bereziak kentzea; bost urtez beren agintaldian Estatuaren kontratista izandako enpresetan sartzea galaraztea, kargua utzi ondorengo bost urteetan jarduera eta ondare aitorpenak eskatzea eta baliabide publikoen erabilera desegokia zigortzea.",
+            "oc": "Suprimir privilègis estataus, autonomics e locaus d’expresidents, exministres, deputats, senadors, bailes e còssos, includides pensions vitalícies e coches oficiaus de per vida. Retirar as ex nauti cargues burèus, menaires, assessors, escòrtes, pensions e indemnizacions especiaus dehòra deth regim comun; impedir-les pendent cinc ans entrar en empreses contractistes der Estat pendent eth sòn mandat, exigir-les declaracions d’activitats e patrimòni pendent cinc ans dempús deth cessament e sancionar er usatge indegut de recorsi publics.",
+            "en": "End State, regional and local privileges for former presidents and ministers, deputies, senators, mayors and councillors, including lifetime pensions and official cars. Remove offices, drivers, advisers, bodyguards and special pensions and compensation outside ordinary arrangements for former senior officials; bar them for five years from firms that contracted with the State during their term, require activity and asset declarations for five years after leaving office and penalise misuse of public resources."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-15",
+              "page": 15
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-11",
+              "page": 11
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-12",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-popular-prosecution",
+          "title": {
+            "es": "Blindar la acción popular contra la corrupción",
+            "ca": "Blindar l’acció popular contra la corrupció",
+            "gl": "Blindar a acción popular contra a corrupción",
+            "eu": "Ustelkeriaren aurkako herri akzioa bermatzea",
+            "oc": "Blindar era accion populara contra era corrupcion",
+            "en": "Protect popular prosecution against corruption"
+          },
+          "text": {
+            "es": "Reconocer legitimación a ciudadanos, asociaciones, partidos, plataformas y organizaciones en causas de interés general, y blindar constitucionalmente la acción popular contra corrupción, impunidad y abuso de poder; prohibir restricciones arbitrarias, requisitos discriminatorios y obstáculos normativos o procesales que impidan su ejercicio efectivo o desvirtúen la inmediatez de los procedimientos.",
+            "ca": "Reconèixer legitimació a ciutadans, associacions, partits, plataformes i organitzacions en causes d’interès general, i blindar constitucionalment l’acció popular contra corrupció, impunitat i abús de poder; prohibir restriccions arbitràries, requisits discriminatoris i obstacles normatius o processals que n’impedeixin l’exercici efectiu o desvirtuïn la immediatesa dels procediments.",
+            "gl": "Recoñecer lexitimación a cidadáns, asociacións, partidos, plataformas e organizacións en causas de interese xeral, e blindar constitucionalmente a acción popular contra corrupción, impunidade e abuso de poder; prohibir restricións arbitrarias, requisitos discriminatorios e obstáculos normativos ou procesuais que impidan o seu exercicio efectivo ou desvirtúen a inmediatez dos procedementos.",
+            "eu": "Herritar, elkarte, alderdi, plataforma eta erakundeei interes orokorreko auzietan legitimazioa aitortzea eta ustelkeriaren, zigorgabetasunaren eta botere gehiegikeriaren aurkako herri akzioa Konstituzioan bermatzea; jardun eraginkorra galarazten edo prozeduren berehalakotasuna desitxuratzen duten murrizketa arbitrarioak, eskakizun diskriminatzaileak eta arau edo prozesu oztopoak debekatzea.",
+            "oc": "Reconéisher legitimacion a ciutadans, associacions, partits, plataformes e organizacions en causes d’interès generau, e blindar constitucionaument era accion populara contra corrupcion, impunitat e abús de poder; proïbir restriccions arbitràries, requisits discriminatòris e obstacles normatius o processaus qu’empedisquen eth sòn exercici efectiu o desvirtuen era immediatesa des procediments.",
+            "en": "Give citizens, associations, parties, platforms and organisations standing in public-interest cases, and constitutionally protect popular prosecution against corruption, impunity and abuse of power; prohibit arbitrary restrictions, discriminatory requirements and legislative or procedural barriers that prevent effective exercise or undermine procedural immediacy."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-12",
+              "page": 12
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-12",
+              "page": 12
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-12",
+              "page": 12
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-eu-nato-referendums",
+          "title": {
+            "es": "Referéndums sobre permanecer en la UE y la OTAN",
+            "ca": "Referèndums sobre romandre a la UE i l’OTAN",
+            "gl": "Referendos sobre permanecer na UE e na OTAN",
+            "eu": "EBn eta NATOn jarraitzeari buruzko erreferendumak",
+            "oc": "Referéndums sus demorar ena UE e ena OTAN",
+            "en": "Referendums on EU and NATO membership"
+          },
+          "text": {
+            "es": "Convocar referéndums vinculantes para que la ciudadanía decida si España permanece en esta Unión Europea o sale de ella, y si permanece en esta OTAN o la abandona.",
+            "ca": "Convocar referèndums vinculants perquè la ciutadania decideixi si Espanya roman en aquesta Unió Europea o en surt, i si roman en aquesta OTAN o l’abandona.",
+            "gl": "Convocar referendos vinculantes para que a cidadanía decida se España permanece nesta Unión Europea ou sae dela, e se permanece nesta OTAN ou a abandona.",
+            "eu": "Herritarrek Espainiak egungo Europar Batasunean jarraitu edo handik irten, eta egungo NATOn jarraitu edo hura utzi erabakitzeko erreferendum lotesleak deitzea.",
+            "oc": "Convocar referéndums vinculants entà qu’era ciutadania decidisque se Espanha demore en aguesta Union Europèa o ne ges, e se demore en aguesta OTAN o l’abandone.",
+            "en": "Hold binding referendums for citizens to decide whether Spain remains in or leaves this European Union, and whether it remains in or leaves this NATO."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-14",
+              "page": 14
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-14",
+              "page": 14
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-14",
+              "page": 14
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-14",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-neutrality-foreign-policy",
+          "title": {
+            "es": "Neutralidad, paz y relaciones con Hispanoamérica",
+            "ca": "Neutralitat, pau i relacions amb Hispanoamèrica",
+            "gl": "Neutralidade, paz e relacións con Hispanoamérica",
+            "eu": "Neutraltasuna, bakea eta Hispanoamerikarekiko harremanak",
+            "oc": "Neutralitat, patz e relacions damb Ispanoamerica",
+            "en": "Neutrality, peace and relations with Hispanic America"
+          },
+          "text": {
+            "es": "Recuperar soberanía, abandonar los alineamientos estratégicos que el programa denomina otan-anglo-sionistas y construir relaciones con Hispanoamérica basadas en el interés nacional. Reivindicar neutralidad y paz, sin entrar en guerras extranjeras ni financiar la defensa de otros países mientras se desatienden las necesidades propias.",
+            "ca": "Recuperar sobirania, abandonar els alineaments estratègics que el programa anomena otan-anglo-sionistes i construir relacions amb Hispanoamèrica basades en l’interès nacional. Reivindicar neutralitat i pau, sense entrar en guerres estrangeres ni finançar la defensa d’altres països mentre es desatenen les necessitats pròpies.",
+            "gl": "Recuperar soberanía, abandonar os aliñamentos estratéxicos que o programa denomina otan-anglo-sionistas e construír relacións con Hispanoamérica baseadas no interese nacional. Reivindicar neutralidade e paz, sen entrar en guerras estranxeiras nin financiar a defensa doutros países mentres se desatenden as necesidades propias.",
+            "eu": "Subiranotasuna berreskuratzea, programak NATO-anglo-sionista deitzen dituen lerrokatze estrategikoak uztea eta Hispanoamerikarekin interes nazionalean oinarritutako harremanak eraikitzea. Neutraltasuna eta bakea aldarrikatzea, atzerriko gerretan sartu gabe eta beste herrialdeen defentsa finantzatu gabe norberaren beharrak artatu gabe uzten diren bitartean.",
+            "oc": "Recuperar sobeiranetat, abandonar es alinhaments estrategics qu’eth programa nomente otan-anglo-sionistes e bastir relacions damb Ispanoamerica basades en interès nacionau. Reivindicar neutralitat e patz, sense entrar en guèrres estrangères ne finançar era defensa d’auti païsi mentre se desatenen es besonhs pròpris.",
+            "en": "Regain sovereignty, abandon strategic alignments the programme calls NATO-Anglo-Zionist and build relations with Hispanic America based on the national interest. Advocate neutrality and peace, without joining foreign wars or financing other countries’ defence while neglecting domestic needs."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-13",
+              "page": 13
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-14",
+              "page": 14
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-borders",
+          "title": {
+            "es": "Cierre de la frontera sur y despliegue militar",
+            "ca": "Tancament de la frontera sud i desplegament militar",
+            "gl": "Peche da fronteira sur e despregamento militar",
+            "eu": "Hegoaldeko muga ixtea eta hedapen militarra",
+            "oc": "Barrament dera frontèra sud e desplegament militar",
+            "en": "Close the southern border and deploy armed forces"
+          },
+          "text": {
+            "es": "Cerrar totalmente la frontera sur, reforzar la valla de Ceuta y Melilla, habilitar a las Fuerzas Armadas para repeler de inmediato entradas ilegales y trasladar toda la flota de Ferrol a Canarias para patrullar el mar territorial. Desplegar Ejército y Armada en fronteras, puertos y costas, interceptar de inmediato pateras con retorno automático, cerrar rutas mediante acuerdos de repatriación inmediata y sancionar a países no colaboradores; encomendar a la Armada impedir que barcos de ONG actúen como cómplices de mafias migratorias.",
+            "ca": "Tancar totalment la frontera sud, reforçar la tanca de Ceuta i Melilla, habilitar les Forces Armades per repel·lir immediatament entrades il·legals i traslladar tota la flota de Ferrol a Canàries per patrullar el mar territorial. Desplegar Exèrcit i Armada a fronteres, ports i costes, interceptar immediatament pasteres amb retorn automàtic, tancar rutes mitjançant acords de repatriació immediata i sancionar països no col·laboradors; encomanar a l’Armada impedir que vaixells d’ONG actuïn com a còmplices de màfies migratòries.",
+            "gl": "Pechar totalmente a fronteira sur, reforzar o valo de Ceuta e Melilla, habilitar as Forzas Armadas para repeler de inmediato entradas ilegais e trasladar toda a frota de Ferrol a Canarias para patrullar o mar territorial. Despregar Exército e Armada en fronteiras, portos e costas, interceptar de inmediato embarcacións con retorno automático, pechar rutas mediante acordos de repatriación inmediata e sancionar países non colaboradores; encargar á Armada impedir que barcos de ONG actúen como cómplices de mafias migratorias.",
+            "eu": "Hegoaldeko muga guztiz ixtea, Ceuta eta Melillako hesia indartzea, Indar Armatuei legez kanpoko sarrerak berehala uxatzeko ahalmena ematea eta Ferrolgo flota osoa Kanarietara eramatea, lurralde itsasoa patruilatzeko. Lurreko Armada eta Itsas Armada mugetan, portuetan eta kostaldean hedatzea, paterak berehala geldiarazi eta automatikoki itzularaztea, berehalako aberriratze akordioen bidez bideak ixtea eta laguntzen ez duten herrialdeak zigortzea; Itsas Armadari GKEen ontziak migrazio mafien konplize izatea eragozteko ardura ematea.",
+            "oc": "Barrar totaument era frontèra sud, reforçar era barralha de Ceuta e Melilla, abilitar es Fòrces Armades entà refusar immediatament entrades illegaus e trasladar tota era flòta de Ferrol as Canàries entà patrulhar era mar territoriau. Desplegar Exercit e Armada en frontères, pòrts e còstes, interceptar immediatament embarcacions damb retorn automatic, barrar rotes mejançant acòrds de repatriacion immediata e sancionar païsi non collaboradors; encomanar ara Armada impedir que vaishèths d’ONG actuen coma complices de màfies migratòries.",
+            "en": "Completely close the southern border, reinforce the Ceuta and Melilla fence, empower the Armed Forces to repel unlawful entry immediately and transfer the entire Ferrol fleet to the Canary Islands to patrol territorial waters. Deploy the Army and Navy at borders, ports and coasts, immediately intercept migrant boats with automatic return, close routes through immediate-repatriation agreements and sanction uncooperative countries; task the Navy with preventing NGO ships from acting as accomplices of migrant-smuggling networks."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-19",
+              "page": 19
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-expulsions-asylum",
+          "title": {
+            "es": "Expulsiones, ayudas y procedimiento de asilo",
+            "ca": "Expulsions, ajuts i procediment d’asil",
+            "gl": "Expulsións, axudas e procedemento de asilo",
+            "eu": "Kanporatzeak, laguntzak eta asilo prozedura",
+            "oc": "Expulsions, ajudes e procediment d’asil",
+            "en": "Expulsions, benefits and asylum procedure"
+          },
+          "text": {
+            "es": "Reformar integralmente la Ley de Extranjería, realizar deportaciones masivas de inmigrantes en situación ilegal y negar la regularización a quienes entren ilegalmente; expulsar de inmediato a inmigrantes que cometan delitos graves o reincidan. Terminar las ayudas y subvenciones a inmigrantes en situación ilegal y modificar el procedimiento de asilo.",
+            "ca": "Reformar íntegrament la Ley de Extranjería, fer deportacions massives d’immigrants en situació il·legal i negar la regularització a qui entri il·legalment; expulsar immediatament immigrants que cometin delictes greus o reincideixin. Acabar els ajuts i subvencions a immigrants en situació il·legal i modificar el procediment d’asil.",
+            "gl": "Reformar integralmente a Ley de Extranjería, realizar deportacións masivas de inmigrantes en situación ilegal e negar a regularización a quen entre ilegalmente; expulsar de inmediato inmigrantes que cometan delitos graves ou reincidan. Rematar as axudas e subvencións a inmigrantes en situación ilegal e modificar o procedemento de asilo.",
+            "eu": "Atzerritarren Legea osorik erreformatzea, legez kanpoko egoeran dauden immigranteak masiboki deportatzea eta legez kanpo sartzen direnei erregularizatzeko eskubidea ukatzea; delitu larriak egiten dituzten edo berrerortzen diren immigranteak berehala kanporatzea. Legez kanpoko egoeran dauden immigranteentzako laguntza eta dirulaguntzak amaitzea eta asilo prozedura aldatzea.",
+            "oc": "Reformar integraument era Ley de Extranjería, hèr deportacions massives d’immigrants en situacion illegau e negar era regularizacion a qui entre illegaument; expulsar immediatament immigrants que cometen delictes grèus o reincidisquen. Acabar es ajudes e subvencions a immigrants en situacion illegau e modificar eth procediment d’asil.",
+            "en": "Comprehensively reform immigration law, carry out mass deportations of immigrants unlawfully present and deny regularisation to people entering unlawfully; immediately expel immigrants who commit serious offences or reoffend. End benefits and subsidies for immigrants unlawfully present and change the asylum procedure."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-19",
+              "page": 19
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-20",
+              "page": 20
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-police-model",
+          "title": {
+            "es": "Código penal militar y modelo policial",
+            "ca": "Codi penal militar i model policial",
+            "gl": "Código penal militar e modelo policial",
+            "eu": "Kode penal militarra eta polizia eredua",
+            "oc": "Còdi penau militar e modèl policèr",
+            "en": "Military criminal law and policing model"
+          },
+          "text": {
+            "es": "Excluir las conductas de los guardias civiles del Código Penal Militar, consultar en referéndum interno si la Guardia Civil debe desmilitarizarse o seguir siendo militar y reorganizar y redistribuir Policía Nacional y Guardia Civil según las realidades sociales y territoriales.",
+            "ca": "Excloure les conductes dels guàrdies civils del Codi Penal Militar, consultar en referèndum intern si la Guardia Civil s’ha de desmilitaritzar o continuar sent militar i reorganitzar i redistribuir Policía Nacional i Guardia Civil segons les realitats socials i territorials.",
+            "gl": "Excluír as condutas dos gardas civís do Código Penal Militar, consultar en referendo interno se a Guardia Civil debe desmilitarizarse ou seguir sendo militar e reorganizar e redistribuír Policía Nacional e Guardia Civil segundo as realidades sociais e territoriais.",
+            "eu": "Guardia zibilen jokabideak Kode Penal Militarretik kanpo uztea, barne erreferendumez Guardia Civil desmilitarizatu edo militar izaten jarraitu behar duen galdetzea, eta Policía Nacional eta Guardia Civil gizarte eta lurralde errealitateen arabera berrantolatzea eta birbanatzea.",
+            "oc": "Excludir es conductes des guàrdies civius deth Còdi Penau Militar, consultar en referéndum intèrn se era Guardia Civil s’a de desmilitarizar o contunhar d’èster militar e reorganizar e redistribuïr Policía Nacional e Guardia Civil segontes es realitats sociaus e territoriaus.",
+            "en": "Exclude Guardia Civil personnel’s conduct from the Military Criminal Code, hold an internal referendum on demilitarising the force or retaining its military status, and reorganise and redistribute the Policía Nacional and Guardia Civil according to social and territorial realities."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-21",
+              "page": 21
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-21",
+              "page": 21
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-21",
+              "page": 21
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-courts-judicial-office",
+          "title": {
+            "es": "Tribunales de Instancia y Oficina Judicial digital",
+            "ca": "Tribunals d’Instància i Oficina Judicial digital",
+            "gl": "Tribunais de Instancia e Oficina Xudicial dixital",
+            "eu": "Auzialdi Auzitegiak eta Bulego Judizial digitala",
+            "oc": "Tribunaus d’Instància e Burèu Judiciau digitau",
+            "en": "Courts of First Instance and a digital judicial office"
+          },
+          "text": {
+            "es": "Sustituir juzgados unipersonales por Tribunales de Instancia, con reparto interno de asuntos y especialización funcional; implantar una Oficina Judicial digital y profesionalizada para mejorar tiempos, recursos y atención ciudadana. Orientar la justicia al servicio público, escuchando a jueces, fiscales y abogados y superando el corporativismo y el formalismo vacío.",
+            "ca": "Substituir jutjats unipersonals per Tribunals d’Instància, amb repartiment intern d’assumptes i especialització funcional; implantar una Oficina Judicial digital i professionalitzada per millorar temps, recursos i atenció ciutadana. Orientar la justícia al servei públic, escoltant jutges, fiscals i advocats i superant el corporativisme i el formalisme buit.",
+            "gl": "Substituír xulgados unipersoais por Tribunais de Instancia, con repartición interna de asuntos e especialización funcional; implantar unha Oficina Xudicial dixital e profesionalizada para mellorar tempos, recursos e atención cidadá. Orientar a xustiza ao servizo público, escoitando xuíces, fiscais e avogados e superando o corporativismo e o formalismo baleiro.",
+            "eu": "Kide bakarreko epaitegiak Auzialdi Auzitegiez ordeztea, auzien barne banaketarekin eta espezializazio funtzionalarekin; Bulego Judizial digital eta profesionalizatua ezartzea, denborak, baliabideak eta herritarren arreta hobetzeko. Justizia zerbitzu publikora bideratzea, epaile, fiskal eta abokatuei entzunez eta korporatibismoa eta formalismo hutsa gaindituz.",
+            "oc": "Remplaçar jutjats unipersonaus per Tribunaus d’Instància, damb repartiment intèrn d’ahèrs e especializacion foncionau; implantar un Burèu Judiciau digitau e professionalizat entà melhorar temps, recorsi e atencion ciutadana. Orientar era justícia ath servici public, en tot escotar jutges, fiscaus e avocats e superar eth corporativisme e eth formalisme vueit.",
+            "en": "Replace single-judge courts with Courts of First Instance featuring internal case allocation and functional specialisation; introduce a digital, professional judicial office to improve time management, resources and citizen service. Orient justice towards public service, listening to judges, prosecutors and lawyers and moving beyond corporatism and empty formalism."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-23",
+              "page": 23
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-23",
+              "page": 23
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-legal-system-ministry",
+          "title": {
+            "es": "Ministerio del Sistema Jurídico y evaluación de leyes",
+            "ca": "Ministeri del Sistema Jurídic i avaluació de lleis",
+            "gl": "Ministerio do Sistema Xurídico e avaliación de leis",
+            "eu": "Sistema Juridikoaren Ministerioa eta legeen ebaluazioa",
+            "oc": "Ministèri deth Sistèma Juridic e avaloracion de leis",
+            "en": "Ministry of the Legal System and evaluation of laws"
+          },
+          "text": {
+            "es": "Transformar el Ministerio de Justicia en Ministerio del Sistema Jurídico para liderar la calidad legislativa, la coordinación de profesiones jurídicas y la evaluación del impacto normativo; evaluar las leyes jurídica, económica y socialmente para evitar inflación normativa e inseguridad jurídica.",
+            "ca": "Transformar el Ministeri de Justícia en Ministeri del Sistema Jurídic per liderar la qualitat legislativa, la coordinació de professions jurídiques i l’avaluació de l’impacte normatiu; avaluar les lleis jurídicament, econòmicament i socialment per evitar inflació normativa i inseguretat jurídica.",
+            "gl": "Transformar o Ministerio de Xustiza en Ministerio do Sistema Xurídico para liderar a calidade lexislativa, a coordinación de profesións xurídicas e a avaliación do impacto normativo; avaliar as leis xurídica, económica e socialmente para evitar inflación normativa e inseguridade xurídica.",
+            "eu": "Justizia Ministerioa Sistema Juridikoaren Ministerio bihurtzea, legegintza kalitatea, lanbide juridikoen koordinazioa eta arauen eraginaren ebaluazioa gidatzeko; legeak ikuspegi juridiko, ekonomiko eta sozialetik ebaluatzea, arauen gehiegizko ugaritzea eta segurtasun juridikorik eza saihesteko.",
+            "oc": "Transformar eth Ministèri de Justícia en Ministèri deth Sistèma Juridic entà liderar era qualitat legislativa, era coordinacion de professions juridiques e era avaloracion der impacte normatiu; avalorar es leis juridicament, economicament e sociaument entà evitar inflacion normativa e inseguretat juridica.",
+            "en": "Transform the Ministry of Justice into a Ministry of the Legal System to lead legislative quality, coordination of legal professions and regulatory-impact assessment; evaluate laws legally, economically and socially to prevent regulatory inflation and legal uncertainty."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-23",
+              "page": 23
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-23",
+              "page": 23
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-24",
+              "page": 24
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-agenda-2030",
+          "title": {
+            "es": "Desvincularse de la Agenda 2030 y del control supranacional",
+            "ca": "Desvincular-se de l’Agenda 2030 i del control supranacional",
+            "gl": "Desvincularse da Axenda 2030 e do control supranacional",
+            "eu": "2030 Agendatik eta nazioz gaindiko kontroletik aldentzea",
+            "oc": "Desvincular-se dera Agenda 2030 e deth contròl supranacionau",
+            "en": "Disengage from Agenda 2030 and supranational control"
+          },
+          "text": {
+            "es": "Desvincularse de cualquier política procedente de los Objetivos de Desarrollo Sostenible, terminar el control supranacional de las políticas internas y rechazar imposiciones ideológicas, económicas y sociales, defendiendo soberanía, identidad y tradiciones.",
+            "ca": "Desvincular-se de qualsevol política procedent dels Objectius de Desenvolupament Sostenible, acabar el control supranacional de les polítiques internes i rebutjar imposicions ideològiques, econòmiques i socials, defensant sobirania, identitat i tradicions.",
+            "gl": "Desvincularse de calquera política procedente dos Obxectivos de Desenvolvemento Sostible, rematar o control supranacional das políticas internas e rexeitar imposicións ideolóxicas, económicas e sociais, defendendo soberanía, identidade e tradicións.",
+            "eu": "Garapen Jasangarrirako Helburuetatik eratorritako edozein politikatik aldentzea, barne politiken nazioz gaindiko kontrola amaitzea eta inposizio ideologiko, ekonomiko eta sozialak arbuiatzea, subiranotasuna, nortasuna eta tradizioak defendatuz.",
+            "oc": "Desvincular-se de quinsevolh politica procedenta des Objectius de Desvolopament Sostenible, acabar eth contròl supranacionau des politiques intèrnes e refusar imposicions ideologiques, economiques e sociaus, en tot deféner sobeiranetat, identitat e tradicions.",
+            "en": "Disengage from any policy arising from the Sustainable Development Goals, end supranational control of domestic policies and reject ideological, economic and social impositions while defending sovereignty, identity and traditions."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-25",
+              "page": 25
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-fundamental-rights",
+          "title": {
+            "es": "Blindar derechos fundamentales y libertades",
+            "ca": "Blindar drets fonamentals i llibertats",
+            "gl": "Blindar dereitos fundamentais e liberdades",
+            "eu": "Oinarrizko eskubideak eta askatasunak bermatzea",
+            "oc": "Blindar drets fondamentaus e libertats",
+            "en": "Safeguard fundamental rights and freedoms"
+          },
+          "text": {
+            "es": "Blindar las libertades de expresión, información, ideología, circulación, individual y de asociación, y el derecho a la integridad física.",
+            "ca": "Blindar les llibertats d’expressió, informació, ideologia, circulació, individual i d’associació, i el dret a la integritat física.",
+            "gl": "Blindar as liberdades de expresión, información, ideoloxía, circulación, individual e de asociación, e o dereito á integridade física.",
+            "eu": "Adierazpen, informazio, ideologia, zirkulazio, norbanako eta elkartze askatasunak eta osotasun fisikorako eskubidea bermatzea.",
+            "oc": "Blindar es libertats d’expression, informacion, ideologia, circulacion, individuau e d’associacion, e eth dret ara integritat fisica.",
+            "en": "Safeguard freedom of expression, information, ideology, movement, individual liberty and association, and the right to physical integrity."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-26",
+              "page": 26
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-institutions-and-rights-social-controls",
+          "title": {
+            "es": "Rechazar el euro digital y los controles sociales",
+            "ca": "Rebutjar l’euro digital i els controls socials",
+            "gl": "Rexeitar o euro dixital e os controis sociais",
+            "eu": "Euro digitala eta kontrol sozialak arbuiatzea",
+            "oc": "Refusar er èuro digitau e es contròls sociaus",
+            "en": "Reject the digital euro and social controls"
+          },
+          "text": {
+            "es": "Poner fin a lo que el programa denomina eurocracia y rechazar el control social mediante euro digital, control biométrico, reconocimiento facial, zonas de bajas emisiones y restricciones pandémicas.",
+            "ca": "Posar fi al que el programa anomena eurocràcia i rebutjar el control social mitjançant euro digital, control biomètric, reconeixement facial, zones de baixes emissions i restriccions pandèmiques.",
+            "gl": "Poñer fin ao que o programa denomina eurocracia e rexeitar o control social mediante euro dixital, control biométrico, recoñecemento facial, zonas de baixas emisións e restricións pandémicas.",
+            "eu": "Programak eurokrazia deitzen dionari amaiera ematea eta euro digitalaren, kontrol biometrikoaren, aurpegi ezagutzaren, emisio gutxiko eremuen eta pandemia murrizketen bidezko kontrol soziala arbuiatzea.",
+            "oc": "Acabar damb çò qu’eth programa nomente eurocracia e refusar eth contròl sociau mejançant èuro digitau, contròl biometric, reconeishement faciau, zònes de baishes emissions e restriccions pandemiques.",
+            "en": "End what the programme calls Eurocracy and reject social control through the digital euro, biometric monitoring, facial recognition, low-emission zones and pandemic restrictions."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-26",
+              "page": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa--pensions-and-social-protection",
+      "partyId": "iustitia-europa",
+      "topicId": "pensions-and-social-protection",
+      "path": "/parties/iustitia-europa/pensions-and-social-protection",
+      "revision": 1,
+      "reviewStatus": "complete",
+      "reviewedAt": "2026-11-26T09:52:38.172Z",
+      "sourceIds": [
+        "iustitia-europa-2026-03740dc25a9e"
+      ],
+      "points": [
+        {
+          "id": "iustitia-europa-pensions-and-social-protection-pension-model",
+          "title": {
+            "es": "Contribuciones reales y ahorro complementario",
+            "ca": "Contribucions reals i estalvi complementari",
+            "gl": "Contribucións reais e aforro complementario",
+            "eu": "Benetako ekarpenak eta aurrezki osagarria",
+            "oc": "Contribucions reaus e estauvi complementari",
+            "en": "Realistic contributions and supplementary savings"
+          },
+          "text": {
+            "es": "Eliminar el factor de sostenibilidad y sustituirlo por un sistema de contribución realista para que las pensiones no dependan exclusivamente de ingresos fiscales coyunturales. Fomentar un modelo mixto con ahorro privado complementario, sin utilizarlo como excusa para reducir la parte pública.",
+            "ca": "Eliminar el factor de sostenibilitat i substituir-lo per un sistema de contribució realista perquè les pensions no depenguin exclusivament d’ingressos fiscals conjunturals. Fomentar un model mixt amb estalvi privat complementari, sense utilitzar-lo com a excusa per reduir la part pública.",
+            "gl": "Eliminar o factor de sustentabilidade e substituílo por un sistema de contribución realista para que as pensións non dependan exclusivamente de ingresos fiscais conxunturais. Fomentar un modelo mixto con aforro privado complementario, sen utilizalo como escusa para reducir a parte pública.",
+            "eu": "Jasangarritasun faktorea kentzea eta ekarpen errealisten sistema batez ordeztea, pentsioak unean uneko zerga sarreren mende soilik egon ez daitezen. Aurrezki pribatu osagarria duen eredu mistoa sustatzea, zati publikoa murrizteko aitzakia gisa erabili gabe.",
+            "oc": "Eliminar eth factor de sostenibilitat e remplaçar-lo per un sistèma de contribucion realista entà qu’es pensions non depenguen exclusivament d’ingressi fiscaus conjunturaus. Promòir un modèl mixte damb estauvi privat complementari, sense utilizar-lo coma excusa entà redusir era part publica.",
+            "en": "Abolish the sustainability factor and replace it with a realistic contribution system so pensions do not depend solely on short-term tax revenue. Encourage a mixed model with supplementary private savings, without using it as an excuse to cut the public component."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            },
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-16",
+              "page": 16
+            }
+          ]
+        },
+        {
+          "id": "iustitia-europa-pensions-and-social-protection-pension-cuts",
+          "title": {
+            "es": "Condiciones frente a congelaciones y recortes",
+            "ca": "Condicions davant congelacions i retallades",
+            "gl": "Condicións fronte a conxelacións e recortes",
+            "eu": "Izozte eta murrizketen aurreko baldintzak",
+            "oc": "Condicions deuant de congelacions e retalhades",
+            "en": "Conditions on pension freezes and cuts"
+          },
+          "text": {
+            "es": "Prohibir las políticas de congelación o reducción de pensiones sin compensaciones directas y sin transparencia presupuestaria.",
+            "ca": "Prohibir les polítiques de congelació o reducció de pensions sense compensacions directes i sense transparència pressupostària.",
+            "gl": "Prohibir as políticas de conxelación ou redución de pensións sen compensacións directas e sen transparencia orzamentaria.",
+            "eu": "Zuzeneko konpentsaziorik eta aurrekontu gardentasunik gabeko pentsio izozte edo murrizketa politikak debekatzea.",
+            "oc": "Proïbir es politiques de congelacion o reduccion de pensions sense compensacions dirèctes e sense transparéncia pressupostària.",
+            "en": "Prohibit pension-freeze or pension-cut policies without direct compensation and without budget transparency."
+          },
+          "citations": [
+            {
+              "sourceId": "iustitia-europa-2026-03740dc25a9e",
+              "segmentId": "page-17",
+              "page": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "partido-autonomos--economy-and-taxes",
       "partyId": "partido-autonomos",
       "topicId": "economy-and-taxes",

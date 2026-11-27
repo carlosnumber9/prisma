@@ -1,0 +1,80 @@
+{
+  "id": "iustitia-europa--environment-and-energy",
+  "partyId": "iustitia-europa",
+  "topicId": "environment-and-energy",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:52:38.172Z",
+  "sourceIds": ["iustitia-europa-2026-03740dc25a9e"],
+  "points": [
+    {
+      "id": "iustitia-europa-environment-and-energy-energy-resources",
+      "title": {
+        "es": "Nuclear, gas y nacionalización de tierras raras",
+        "ca": "Nuclear, gas i nacionalització de terres rares",
+        "gl": "Nuclear, gas e nacionalización de terras raras",
+        "eu": "Nuklearra, gasa eta lur arraroen nazionalizazioa",
+        "oc": "Nucleara, gas e nacionalizacion de tèrres rares",
+        "en": "Nuclear power, gas and nationalisation of rare earths"
+      },
+      "text": {
+        "es": "Apostar por la energía nuclear, el gas y los recursos propios, y nacionalizar las tierras raras.",
+        "ca": "Apostar per l’energia nuclear, el gas i els recursos propis, i nacionalitzar les terres rares.",
+        "gl": "Apostar pola enerxía nuclear, o gas e os recursos propios, e nacionalizar as terras raras.",
+        "eu": "Energia nuklearraren, gasaren eta bertako baliabideen alde egitea eta lur arraroak nazionalizatzea.",
+        "oc": "Apostar pera energia nucleara, eth gas e es recorsi pròpris, e nacionalizar es tèrres rares.",
+        "en": "Back nuclear power, gas and domestic resources, and nationalise rare earths."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "Apuesta por la energía nuclear, el gas y los recursos propios."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "Nacionalización de tierras raras."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-environment-and-energy-green-deal-renewables",
+      "title": {
+        "es": "Salir del Pacto Verde y retirar ayudas a renovables",
+        "ca": "Sortir del Pacte Verd i retirar ajuts a renovables",
+        "gl": "Saír do Pacto Verde e retirar axudas ás renovables",
+        "eu": "Itun Berdetik ateratzea eta berriztagarrien laguntzak kentzea",
+        "oc": "Gésser deth Pacte Verd e retirar ajudes a renovables",
+        "en": "Leave the Green Deal and end renewable subsidies"
+      },
+      "text": {
+        "es": "Salir del Pacto Verde Europeo, terminar las subvenciones a renovables y defender las tierras frente a los daños que el programa atribuye a sus instalaciones.",
+        "ca": "Sortir del Pacte Verd Europeu, acabar les subvencions a renovables i defensar les terres davant els danys que el programa atribueix a les seves instal·lacions.",
+        "gl": "Saír do Pacto Verde Europeo, rematar as subvencións ás renovables e defender as terras fronte aos danos que o programa atribúe ás súas instalacións.",
+        "eu": "Europako Itun Berdetik ateratzea, berriztagarrientzako dirulaguntzak amaitzea eta lurrak babestea programak instalazio horiei egozten dizkien kalteen aurrean.",
+        "oc": "Gésser deth Pacte Verd Europèu, acabar es subvencions a renovables e deféner es tèrres deuant des damnatges qu’eth programa atribuís as sues installacions.",
+        "en": "Leave the European Green Deal, end renewable-energy subsidies and protect land against the damage the programme attributes to renewable installations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "Salida del Pacto Verde Europeo."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "Fin de las subvenciones a renovables."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "Defensa de nuestras tierras que están siendo destrozadas por las estructuras de las energías renovables."
+        }
+      ]
+    }
+  ]
+}

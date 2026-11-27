@@ -1,0 +1,325 @@
+{
+  "id": "iustitia-europa--economy-and-taxes",
+  "partyId": "iustitia-europa",
+  "topicId": "economy-and-taxes",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:52:38.172Z",
+  "sourceIds": ["iustitia-europa-2026-03740dc25a9e"],
+  "points": [
+    {
+      "id": "iustitia-europa-economy-and-taxes-political-spending",
+      "title": {
+        "es": "Siete ministerios y recortes del gasto político",
+        "ca": "Set ministeris i retallades de la despesa política",
+        "gl": "Sete ministerios e recortes do gasto político",
+        "eu": "Zazpi ministerio eta gastu politikoaren murrizketak",
+        "oc": "Sèt ministèris e retalhades dera despensa politica",
+        "en": "Seven ministries and political spending cuts"
+      },
+      "text": {
+        "es": "Reducir los ministerios a un máximo de siete, eliminar el 75% de los asesores políticos y congelar y reducir un 20% los sueldos políticos.",
+        "ca": "Reduir els ministeris a un màxim de set, eliminar el 75% dels assessors polítics i congelar i reduir un 20% els sous polítics.",
+        "gl": "Reducir os ministerios a un máximo de sete, eliminar o 75% dos asesores políticos e conxelar e reducir un 20% os soldos políticos.",
+        "eu": "Ministerioak gehienez zazpira murriztea, aholkulari politikoen %75 kentzea eta politikarien soldatak izoztea eta %20 murriztea.",
+        "oc": "Redusir es ministèris a un maxim de sèt, eliminar eth 75% des assessors politics e congelar e redusir un 20% es salaris politics.",
+        "en": "Reduce ministries to a maximum of seven, remove 75% of political advisers and freeze and reduce political salaries by 20%."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Reducción del número de ministerios a un máximo de 7."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Eliminación del 75% de los asesores políticos."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Congelación y reducción del 20% en sueldos políticos."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-economy-and-taxes-public-funding",
+      "title": {
+        "es": "Fin de la financiación pública a organizaciones",
+        "ca": "Fi del finançament públic a organitzacions",
+        "gl": "Fin do financiamento público a organizacións",
+        "eu": "Erakundeen finantzaketa publikoa amaitzea",
+        "oc": "Fin deth finançament public a organizacions",
+        "en": "End public funding for organisations"
+      },
+      "text": {
+        "es": "Eliminar toda la financiación pública a partidos, sindicatos y patronales, que solo podrán sostenerse con cuotas de afiliados; prohibir todas las subvenciones a ONG y suprimir las destinadas a organizaciones ideológicas.",
+        "ca": "Eliminar tot el finançament públic a partits, sindicats i patronals, que només podran sostenir-se amb quotes d’afiliats; prohibir totes les subvencions a ONG i suprimir les destinades a organitzacions ideològiques.",
+        "gl": "Eliminar todo o financiamento público a partidos, sindicatos e patronais, que só poderán sosterse con cotas de afiliados; prohibir todas as subvencións a ONG e suprimir as destinadas a organizacións ideolóxicas.",
+        "eu": "Alderdi, sindikatu eta enpresaburuen elkarteen finantzaketa publiko osoa kentzea, afiliatuen kuotekin soilik finantzatu daitezen; GKEentzako dirulaguntza guztiak debekatzea eta erakunde ideologikoentzakoak kentzea.",
+        "oc": "Eliminar tot eth finançament public a partits, sindicats e patronaus, que sonque poderàn sostier-se damb quòtes d’afiliadi; proïbir totes es subvencions a ONG e suprimir es destinades a organizacions ideologiques.",
+        "en": "End all public funding for parties, trade unions and employers’ associations, which may be funded only by members’ dues; ban all NGO subsidies and abolish subsidies for ideological organisations."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Eliminación total de la financiación pública a partidos políticos, sindicatos y patronales. Solo podrán sostenerse con cuotas de afiliados."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Fin a las subvenciones de las ONG’s. Se prohíben todas las subvenciones a organizaciones no gubernamentales"
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Supresión de subvenciones a organizaciones ideológicas"
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-economy-and-taxes-public-bodies",
+      "title": {
+        "es": "Cerrar y reducir organismos públicos",
+        "ca": "Tancar i reduir organismes públics",
+        "gl": "Pechar e reducir organismos públicos",
+        "eu": "Erakunde publikoak ixtea eta murriztea",
+        "oc": "Barrar e redusir organismes publics",
+        "en": "Close and reduce public bodies"
+      },
+      "text": {
+        "es": "Cerrar inmediatamente más de 2.000 entidades, fundaciones, observatorios y organismos a los que el programa atribuye más de 6.000 millones de euros de gasto anual. Fusionar organismos duplicados, eliminar agencias innecesarias y reducir un 40% los entes con competencias superpuestas, que el programa cifra en más de 600; suprimir las diputaciones provinciales y cerrar las empresas públicas con pérdidas.",
+        "ca": "Tancar immediatament més de 2.000 entitats, fundacions, observatoris i organismes als quals el programa atribueix més de 6.000 milions d’euros de despesa anual. Fusionar organismes duplicats, eliminar agències innecessàries i reduir un 40% els ens amb competències superposades, que el programa xifra en més de 600; suprimir les diputacions provincials i tancar les empreses públiques amb pèrdues.",
+        "gl": "Pechar inmediatamente máis de 2.000 entidades, fundacións, observatorios e organismos aos que o programa atribúe máis de 6.000 millóns de euros de gasto anual. Fusionar organismos duplicados, eliminar axencias innecesarias e reducir un 40% os entes con competencias superpostas, que o programa cifra en máis de 600; suprimir as deputacións provinciais e pechar as empresas públicas con perdas.",
+        "eu": "Programak urtean 6.000 milioi eurotik gorako gastua egozten dien 2.000 erakunde, fundazio eta behatokitik gora berehala ixtea. Bikoiztutako erakundeak bateratzea, beharrezkoak ez diren agentziak kentzea eta programak 600 baino gehiago direla dioen eskumen gainjarriak dituzten erakundeak %40 murriztea; probintzia diputazioak kentzea eta galerak dituzten enpresa publikoak ixtea.",
+        "oc": "Barrar immediatament mès de 2.000 entitats, fondacions, observatòris e organismes as quaus eth programa atribuís mès de 6.000 milions d’èuros de despensa annau. Fusionar organismes duplicadi, eliminar agéncies innecessàries e redusir un 40% es entitats damb competéncies superpausades, qu’eth programa chifre en mès de 600; suprimir es deputacions provinciaus e barrar es empreses publiques damb pèrtes.",
+        "en": "Immediately close over 2,000 entities, foundations, observatories and bodies which the programme says cost over €6 billion annually. Merge duplicate bodies, eliminate unnecessary agencies and reduce bodies with overlapping powers, which the programme puts at over 600, by 40%; abolish provincial councils and close loss-making public companies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Cierre inmediato de más de 2.000 chiringuitos, fundaciones, observatorios y organismos que suponen un gasto de más de 6.000 millones de euros anuales."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Fusión de organismos duplicados y eliminación de agencias innecesarias."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Reducción del 40% de estos organismos."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Supresión de diputaciones provinciales."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Cierre de empresas públicas con pérdidas."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-15",
+          "quote": "Actualmente, hay más de 600 entes públicos, estatales, autonómicos y municipales con competencias superpuestas."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-economy-and-taxes-subsidy-cuts",
+      "title": {
+        "es": "Recortar subvenciones y sustituirlas por rebajas fiscales",
+        "ca": "Retallar subvencions i substituir-les per rebaixes fiscals",
+        "gl": "Recortar subvencións e substituílas por rebaixas fiscais",
+        "eu": "Dirulaguntzak murriztea eta zerga murrizketez ordeztea",
+        "oc": "Retalhar subvencions e remplaçar-les per baishades fiscaus",
+        "en": "Cut subsidies and replace them with tax reductions"
+      },
+      "text": {
+        "es": "Eliminar el 80% de las subvenciones y todas las ayudas públicas directas a empresas y sectores no estratégicos, sustituyéndolas por incentivos de reducción fiscal; prohibir las subvenciones encadenadas.",
+        "ca": "Eliminar el 80% de les subvencions i tots els ajuts públics directes a empreses i sectors no estratègics, substituint-los per incentius de reducció fiscal; prohibir les subvencions encadenades.",
+        "gl": "Eliminar o 80% das subvencións e todas as axudas públicas directas a empresas e sectores non estratéxicos, substituíndoas por incentivos de redución fiscal; prohibir as subvencións encadeadas.",
+        "eu": "Dirulaguntzen %80 eta enpresa eta sektore ez estrategikoentzako zuzeneko laguntza publiko guztiak kentzea, zerga murrizketen pizgarriekin ordeztuz; kateatutako dirulaguntzak debekatzea.",
+        "oc": "Eliminar eth 80% des subvencions e totes es ajudes publiques dirèctes a empreses e sectors non estrategics, en tot remplaçar-les per incentius de reduccion fiscau; proïbir es subvencions encadenades.",
+        "en": "Eliminate 80% of subsidies and all direct public subsidies to companies and non-strategic sectors, replacing them with tax-reduction incentives; ban chains of successive subsidies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Eliminación del 80% de las subvenciones."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-18",
+          "quote": "Se eliminan todas las subvenciones públicas directas a empresas y sectores no estratégicos, estableciendo incentivos basados en reducción fiscal y no en ayudas arbitrarias."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-18",
+          "quote": "Se prohíben las subvenciones encadenadas, evitando que ciertos sectores vivan permanentemente de fondos públicos sin aportar valor real a la economía."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-economy-and-taxes-spending-audit",
+      "title": {
+        "es": "Auditoría, gasto en tiempo real y contratación",
+        "ca": "Auditoria, despesa en temps real i contractació",
+        "gl": "Auditoría, gasto en tempo real e contratación",
+        "eu": "Auditoria, gastua denbora errealean eta kontratazioa",
+        "oc": "Auditoria, despensa en temps reau e contractacion",
+        "en": "Audit, real-time spending and procurement"
+      },
+      "text": {
+        "es": "Crear una Auditoría Independiente del Gasto Público, publicar obligatoriamente todas las partidas en un portal de consulta ciudadana en tiempo real y reformar la Ley de Contratos del Sector Público para eliminar los contratos a dedo y las adjudicaciones opacas.",
+        "ca": "Crear una Auditoría Independiente del Gasto Público, publicar obligatòriament totes les partides en un portal de consulta ciutadana en temps real i reformar la Ley de Contratos del Sector Público per eliminar els contractes a dit i les adjudicacions opaques.",
+        "gl": "Crear unha Auditoría Independiente del Gasto Público, publicar obrigatoriamente todas as partidas nun portal de consulta cidadá en tempo real e reformar a Ley de Contratos del Sector Público para eliminar os contratos a dedo e as adxudicacións opacas.",
+        "eu": "Gastu Publikoaren Auditoria Independentea sortzea, gastu partida guztiak herritarrek denbora errealean kontsultatzeko atari batean nahitaez argitaratzea eta Sektore Publikoko Kontratuen Legea erreformatzea, nahierara emandako kontratuak eta esleipen opakuak kentzeko.",
+        "oc": "Crear ua Auditoría Independiente del Gasto Público, publicar obligatòriament totes es partides en un portau de consulta ciutadana en temps reau e reformar era Ley de Contratos del Sector Público entà eliminar es contractes a dit e es adjudicacions opaques.",
+        "en": "Create an Independent Public Spending Audit, require publication of all expenditure items on a public portal for real-time consultation, and reform the Public Sector Contracts Law to end hand-picked contracts and opaque awards."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Creación de una Auditoría Independiente del Gasto Público."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Publicación obligatoria de todas las partidas de gasto en un portal de acceso público. Cualquier ciudadano podrá consultar cómo y en qué se gasta el dinero público en tiempo real."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Reforma de la Ley de Contratos del Sector Público para eliminar la concesión de contratos a dedo y las adjudicaciones opacas."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-economy-and-taxes-eu-funds",
+      "title": {
+        "es": "Revisar los fondos europeos y recuperar el control productivo",
+        "ca": "Revisar els fons europeus i recuperar el control productiu",
+        "gl": "Revisar os fondos europeos e recuperar o control produtivo",
+        "eu": "Europako funtsak berrikustea eta ekoizpenaren kontrola berreskuratzea",
+        "oc": "Revisar es hons europèus e recuperar eth contròl productiu",
+        "en": "Review EU funds and regain control over productive policy"
+      },
+      "text": {
+        "es": "Revisar todos los fondos recibidos de la UE y sus condiciones para evaluar si benefician a España; prohibir ayudas que impliquen destruir sectores estratégicos a cambio de fondos temporales y recuperar el control de las políticas industriales y agrícolas.",
+        "ca": "Revisar tots els fons rebuts de la UE i les seves condicions per avaluar si beneficien Espanya; prohibir ajuts que impliquin destruir sectors estratègics a canvi de fons temporals i recuperar el control de les polítiques industrials i agrícoles.",
+        "gl": "Revisar todos os fondos recibidos da UE e as súas condicións para avaliar se benefician a España; prohibir axudas que impliquen destruír sectores estratéxicos a cambio de fondos temporais e recuperar o control das políticas industriais e agrícolas.",
+        "eu": "EBtik jasotako funts guztiak eta haien baldintzak berrikustea, Espainiari mesede egiten dioten ebaluatzeko; aldi baterako funtsen truke sektore estrategikoak suntsitzea dakarten laguntzak debekatzea eta industria eta nekazaritza politiken kontrola berreskuratzea.",
+        "oc": "Revisar toti es hons recebudi dera UE e es sues condicions entà avalorar se beneficien Espanha; proïbir ajudes qu’impliquen destruïr sectors estrategics a cambi de hons temporaus e recuperar eth contròl des politiques industriaus e agricòles.",
+        "en": "Review all funds received from the EU and their conditions to assess whether they benefit Spain; ban subsidies involving the destruction of strategic sectors in exchange for temporary funding and regain control over industrial and agricultural policies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-19",
+          "quote": "Se establece una revisión de todos los fondos recibidos de la UE y sus condiciones, evaluando si benefician realmente a España."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-19",
+          "quote": "Se prohíben las subvenciones que impliquen la destrucción de sectores estratégicos a cambio de fondos temporales."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-19",
+          "quote": "Se recupera el control sobre las políticas industriales y agrícolas, evitando que España dependa de decisiones impuestas desde Bruselas."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-economy-and-taxes-primary-sector",
+      "title": {
+        "es": "Proteger el sector primario y derogar nueve marcos normativos",
+        "ca": "Protegir el sector primari i derogar nou marcs normatius",
+        "gl": "Protexer o sector primario e derrogar nove marcos normativos",
+        "eu": "Lehen sektorea babestea eta bederatzi arau esparru indargabetzea",
+        "oc": "Protegir eth sector primari e derogar nau marcs normatius",
+        "en": "Protect the primary sector and repeal nine regulatory frameworks"
+      },
+      "text": {
+        "es": "Proteger agricultura, pesca y ganadería y exigir la derogación inmediata del Pacto Verde Europeo, la Política Agraria Común, las leyes de restauración de la naturaleza, bienestar animal, quemas, estructuras agrarias, prevención de pérdidas y desperdicio alimentario y cadena alimentaria, y de la obligación del cuaderno digital.",
+        "ca": "Protegir agricultura, pesca i ramaderia i exigir la derogació immediata del Pacte Verd Europeu, la Política Agrària Comuna, les lleis de restauració de la natura, benestar animal, cremes, estructures agràries, prevenció de pèrdues i malbaratament alimentari i cadena alimentària, i de l’obligació del quadern digital.",
+        "gl": "Protexer agricultura, pesca e gandaría e esixir a derrogación inmediata do Pacto Verde Europeo, a Política Agraria Común, as leis de restauración da natureza, benestar animal, queimas, estruturas agrarias, prevención de perdas e desperdicio alimentario e cadea alimentaria, e da obriga do caderno dixital.",
+        "eu": "Nekazaritza, arrantza eta abeltzaintza babestea eta honako hauek berehala indargabetzea eskatzea: Europako Itun Berdea, Nekazaritza Politika Bateratua, natura lehengoratzeko, animalien ongizateko, erreketei buruzko, nekazaritza egiturei buruzko, elikagai galerak eta xahuketa prebenitzeko eta elikadura kateari buruzko legeak, eta koaderno digitalaren derrigortasuna.",
+        "oc": "Protegir agricultura, pesca e ramaderia e exigir era derogacion immediata deth Pacte Verd Europèu, era Politica Agrària Comuna, es leis de restauracion dera natura, benèster animau, cremes, estructures agràries, prevencion de pèrtes e mauversament alimentari e cadea alimentària, e dera obligacion deth quadèrn digitau.",
+        "en": "Protect agriculture, fishing and livestock farming and demand immediate repeal of the European Green Deal, Common Agricultural Policy, laws on nature restoration, animal welfare, burning, agricultural structures, prevention of food loss and waste, and the food chain, and the mandatory digital farm logbook."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "Protección del sector primario: agricultura, pesca y ganadería."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "Se exigirá la DEROGACIÓN INMEDIATA del"
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-24",
+          "quote": "PACTO VERDE EUROPEO."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "POLÍTICA AGRARIA COMÚN."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "LEY DE RESTAURACIÓN DE LA NATURALEZA."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "DEROGACIÓN DE LA LEY DE BIENESTAR ANIMAL."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "DEROGACIÓN DE LA LEY DE QUEMAS."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "DEROGACIÓN DE LA LEY DE ESTRUCTURAS AGRARIAS."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "DEROGACIÓN DE LA LEY DE PREVENCIÓN, PÉRDIDAS Y DESPERDICIO ALIMENTARIO."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "DEROGACIÓN DE LA LEY DE LA CADENA ALIMENTARIA."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-25",
+          "quote": "DEROGAR LA OBLIGATORIEDAD DE IMPLANTACIÓN DEL CUADERNO DIGITAL."
+        }
+      ]
+    }
+  ]
+}

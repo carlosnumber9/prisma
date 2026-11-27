@@ -1,0 +1,107 @@
+{
+  "id": "iustitia-europa--employment",
+  "partyId": "iustitia-europa",
+  "topicId": "employment",
+  "revision": 1,
+  "reviewStatus": "complete",
+  "reviewedAt": "2026-11-26T09:52:38.172Z",
+  "sourceIds": ["iustitia-europa-2026-03740dc25a9e"],
+  "points": [
+    {
+      "id": "iustitia-europa-employment-self-employed",
+      "title": {
+        "es": "Cuota cero y fiscalidad de los autónomos",
+        "ca": "Quota zero i fiscalitat dels autònoms",
+        "gl": "Cota cero e fiscalidade dos autónomos",
+        "eu": "Autonomoen zero kuota eta fiskalitatea",
+        "oc": "Quòta zèro e fiscalitat des autonòms",
+        "en": "Zero contributions and taxation for the self-employed"
+      },
+      "text": {
+        "es": "Establecer cuota cero durante los primeros cuatro años de actividad y eliminar las cuotas en meses sin ingresos, con un modelo basado en ingresos reales. Suprimir los módulos, simplificar la tributación y la burocracia e incentivar el autoempleo con desgravaciones fiscales sin dependencia de subvenciones públicas.",
+        "ca": "Establir quota zero durant els primers quatre anys d’activitat i eliminar les quotes els mesos sense ingressos, amb un model basat en ingressos reals. Suprimir els mòduls, simplificar la tributació i la burocràcia i incentivar l’autoocupació amb desgravacions fiscals sense dependència de subvencions públiques.",
+        "gl": "Establecer cota cero durante os primeiros catro anos de actividade e eliminar as cotas nos meses sen ingresos, cun modelo baseado nos ingresos reais. Suprimir os módulos, simplificar a tributación e a burocracia e incentivar o autoemprego con desgravacións fiscais sen dependencia de subvencións públicas.",
+        "eu": "Jardueraren lehen lau urteetan zero kuota ezartzea eta diru sarrerarik gabeko hilabeteetan kuotak kentzea, benetako diru sarreretan oinarritutako ereduarekin. Moduluak kentzea, zergak eta burokrazia sinplifikatzea eta autoenplegua zerga kenkarien bidez sustatzea, dirulaguntza publikoen mende egon gabe.",
+        "oc": "Establir quòta zèro pendent es prumèrs quate ans d’activitat e eliminar es quòtes enes mesi sense ingressi, damb un modèl basat en ingressi reaus. Suprimir es mòduls, simplificar era tributacion e era burocracia e incentivar er autoemplec damb desgravacions fiscaus sense dependéncia de subvencions publiques.",
+        "en": "Set zero self-employed contributions for the first four years of activity and waive contributions in months without income, using a model based on actual income. Abolish the modules system, simplify taxation and administration, and encourage self-employment through tax relief without dependence on public subsidies."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-17",
+          "quote": "Se establece una cuota cero para autónomos durante los primeros cuatro años de actividad, permitiendo a los nuevos emprendedores consolidarse antes de asumir impuestos desproporcionados."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-17",
+          "quote": "Se elimina la obligación de pagar cuotas en los meses sin ingresos, adoptando un modelo más flexible basado en ingresos reales."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-17",
+          "quote": "Se suprimen los módulos y se simplifica el sistema tributario para los autónomos, reduciendo burocracia y facilitando el cumplimiento fiscal."
+        },
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-17",
+          "quote": "Se incentiva el empleo autónomo mediante desgravaciones fiscales sin dependencia de subvenciones públicas."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-employment-employment-incentives",
+      "title": {
+        "es": "Convertir subsidios en incentivos al empleo",
+        "ca": "Convertir subsidis en incentius a l’ocupació",
+        "gl": "Converter subsidios en incentivos ao emprego",
+        "eu": "Subsidioak enplegu pizgarri bihurtzea",
+        "oc": "Convertir subsidis en incentius ar emplec",
+        "en": "Convert subsidies into employment incentives"
+      },
+      "text": {
+        "es": "Transformar los subsidios en incentivos al empleo.",
+        "ca": "Transformar els subsidis en incentius a l’ocupació.",
+        "gl": "Transformar os subsidios en incentivos ao emprego.",
+        "eu": "Subsidioak enplegua sustatzeko pizgarri bihurtzea.",
+        "oc": "Transformar es subsidis en incentius ar emplec.",
+        "en": "Transform subsidies into employment incentives."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-16",
+          "quote": "Transformación de los subsidios en incentivos al empleo."
+        }
+      ]
+    },
+    {
+      "id": "iustitia-europa-employment-police-pay",
+      "title": {
+        "es": "Unificar los sueldos policiales",
+        "ca": "Unificar els sous policials",
+        "gl": "Unificar os soldos policiais",
+        "eu": "Polizien soldatak bateratzea",
+        "oc": "Unificar es salaris policèrs",
+        "en": "Unify police pay"
+      },
+      "text": {
+        "es": "Unificar los sueldos de las fuerzas y cuerpos de seguridad; los de la Guardia Civil y la Policía Nacional nunca podrán ser inferiores a los de las policías autonómicas o locales.",
+        "ca": "Unificar els sous de les forces i cossos de seguretat; els de la Guardia Civil i la Policía Nacional mai no podran ser inferiors als de les policies autonòmiques o locals.",
+        "gl": "Unificar os soldos das forzas e corpos de seguridade; os da Guardia Civil e da Policía Nacional nunca poderán ser inferiores aos das policías autonómicas ou locais.",
+        "eu": "Segurtasun indar eta kidegoen soldatak bateratzea; Guardia Civil eta Policía Nacional kidegoetako soldatak ezin izango dira inoiz autonomia erkidegoetako edo tokiko polizienak baino txikiagoak izan.",
+        "oc": "Unificar es salaris des fòrces e còssi de seguretat; es dera Guardia Civil e era Policía Nacional jamès poderàn èster inferiors as des policies autonomiques o locaus.",
+        "en": "Unify law-enforcement pay; Guardia Civil and Policía Nacional salaries must never be lower than those of regional or local police."
+      },
+      "status": "approved",
+      "citations": [
+        {
+          "sourceId": "iustitia-europa-2026-03740dc25a9e",
+          "segmentId": "page-21",
+          "quote": "Unificación de sueldos de las Fuerzas y Cuerpos de Seguridad en España. Los salarios de la Guardia Civil y de la Policía Nacional nunca podrán ser inferiores a los de las policías autonómicas o locales."
+        }
+      ]
+    }
+  ]
+}

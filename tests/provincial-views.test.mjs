@@ -23,7 +23,7 @@ test('home renders the complete default provincial list and links only existing 
       parties: [{ label: 'PP', href: '/parties/pp' }],
     }),
   );
-  assert.ok(html.includes('IUSTITIA EUROPA') || html.includes('IE'));
+  assert.match(html, /iustitia europa|\bIE\b/i);
   assert.match(html, /href="\/es\/parties\/pp"/);
   assert.ok(!html.includes('/parties/formation-'));
   assert.equal((html.match(/<button[^>]*disabled=""/g) ?? []).length, 13);
