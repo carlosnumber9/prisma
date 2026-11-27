@@ -19,6 +19,7 @@ const paths = [
     .filter((name) => name.endsWith('.md'))
     .map((name) => join(root, name)),
   ...markdownFiles(join(root, 'docs')),
+  ...markdownFiles(join(root, '.opencode/agents')),
   ...markdownFiles(join(root, '.agents/skills')),
 ];
 

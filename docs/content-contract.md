@@ -74,6 +74,10 @@ Public syntheses have `id`, `partyId`, `topicId`, `path`, `revision`, `reviewSta
 
 Pending entries expose no revision, points or sources. Partial entries expose only approved-point sources; complete entries retain reviewed sources. Public sources have exactly `id`, `partyId`, `electionDate`, `title`, `url`, `format`, `capturedAt`, the recorded original `sha256` and PDF `pageCount` when applicable. Their hashes identify consulted versions rather than a downloadable local archive.
 
+## Accepted byte application
+
+OpenCode authoring can use the [accepted-batch writer](opencode.md#accepted-batch-writer) to apply exact reviewed programme/catalogue/evidence JSON and regenerate both projections. It accepts existing contract data, not a competing editorial schema. Its manifest is an external handoff with baseline/proposed hashes, an independent QA files digest and an actual maintainer/delegated authorization reference. Those declarations do not establish semantic correctness or consent by themselves. Direct editorial work remains governed by the existing skills and publication agreement.
+
 ## Generation and verification
 
 ```sh

@@ -18,6 +18,10 @@ Use Node 24.x and npm 10.8.2; `.npmrc` selects the public npm registry. Use `npm
 
 Persist code, comments and technical docs in normal English. Keep citizen-facing labels and original source quotations in their intended language. Follow the user's current conversation preferences.
 
+## Research environments
+
+For OpenCode Desktop, follow [the setup and workflow](docs/opencode.md), `opencode.jsonc` and `.opencode/agents/`. Load the shared [worker policy](docs/research-worker-policy.md); reuse existing editorial skills. Native Codex profiles retain their configured models. Run `npm run research:config` and derive current scope with `npm run research:targets`. OpenCode workers prepare external drafts; Builder applies accepted bytes with `npm run content:batch` after independent QA and actual maintainer authorization. Never silently substitute paid models or search services when free access fails.
+
 ## Editorial work
 
 Prisma's permanent electoral scope is the Spanish general election of 29 November 2026. Collect only official programme content, displayed formation identity/branding and proclaimed Congress presence by province. Do not research politicians, biographies, offices, individual affiliations, candidate names/order, substitutes or Senate lists. Do not ask for election selection again. Historical material may only identify and exclude a mismatched source.

@@ -19,7 +19,7 @@ const config = [
     files: appFiles,
   })),
   {
-    files: ['**/*.mjs'],
+    files: ['**/*.mjs', 'scripts/opencode-budget/*.js'],
     ...js.configs.recommended,
     languageOptions: {
       globals: globals.node,

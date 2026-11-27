@@ -11,6 +11,7 @@
 - Direct repository authoring under explicit maintainer acceptance is supported by the Research, Synthesis and QA profiles. Originals and handoffs stay in memory; Builder retains independent QA, shared generation and publication. Previously loaded staging-only roles require a reported default-agent fallback with the same configured settings.
 - Explicit whole-programme authoring requires full page/section review and measure-to-point coverage across all eight areas, without a point cap. Independent QA checks omissions; genuinely absent areas may be reviewed empty. This authoring rule does not assert that every existing synthesis is exhaustive.
 - Local static checks, deterministic tests, generated-content validation, bounded credential screening and a separate production-build checker. These do not prove remote CI or deployment status.
+- OpenCode Desktop profiles for ChatGPT subscription coordination/QA and temporary DeepSeek Free drafting/translation; shared worker rules, a live editorial target inventory, a V2 model-budget plugin, offline configuration checks and deterministic accepted-batch application. Account setup, current free access and PDF extraction need session inspection. No provider benchmark or desktop execution has been performed. See [OpenCode](opencode.md).
 
 ## Contextual correction form — pending
 

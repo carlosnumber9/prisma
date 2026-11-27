@@ -9,6 +9,7 @@ const roles = [
   'prisma-discovery',
   'prisma-research',
   'prisma-synthesis',
+  'prisma-translation',
   'prisma-qa',
 ];
 function requireValue(condition, message) {

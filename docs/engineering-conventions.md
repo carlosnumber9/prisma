@@ -41,6 +41,8 @@ Use targeted tests while iterating, then relevant static checks and tests before
 
 Format only intended files with explicit paths, not the whole working tree. Do not run `npm run dev`, `npm run start` or any app server unless the user explicitly requests a local run or browser testing. `npm run build` is a separate non-server check, required for portal changes before publication. Report skipped browser or build checks where relevant. Do not run migrations, linked database checks, production-provider calls or real synchronisation incidentally.
 
+`npm run research:config` checks the maintained OpenCode model/role restrictions offline. `npm run research:targets` lists current programme acquisition gaps. `npm run content:batch -- check <external-manifest>` validates an accepted batch in external staging; `apply` additionally requires its exact manifest SHA-256. See [OpenCode authoring](opencode.md) for the authorization and recovery boundary. These commands do not require provider calls or an app server.
+
 For documentation changes, verify formatting, local links, paths, commands and consistency with source. A command listed as available must exist in `package.json`; future commands must be labelled as future work.
 
 ## Quality CI

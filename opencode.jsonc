@@ -1,0 +1,129 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "openai/gpt-6.1-sol",
+  "default_agent": "prisma-builder",
+  "share": "disabled",
+  "warming": false,
+  "automations": false,
+  "websearch": false,
+  "instructions": ["docs/research-worker-policy.md"],
+  "experimental": {
+    "subagent_depth": 1
+  },
+  "policies": [
+    {
+      "action": "provider.use",
+      "resource": "*",
+      "effect": "deny"
+    },
+    {
+      "action": "provider.use",
+      "resource": "openai",
+      "effect": "allow"
+    },
+    {
+      "action": "provider.use",
+      "resource": "opencode",
+      "effect": "allow"
+    },
+    {
+      "action": "mcp.use",
+      "resource": "*",
+      "effect": "deny"
+    }
+  ],
+  "providers": {
+    "openai": {
+      "models": {
+        "gpt-6.1-sol": {
+          "settings": {
+            "reasoningEffort": "medium"
+          }
+        }
+      }
+    },
+    "opencode": {
+      "models": {
+        "deepseek-v4.1-flash-free": {
+          "body": {
+            "thinking": {
+              "type": "disabled"
+            },
+            "max_tokens": 12000
+          }
+        }
+      }
+    }
+  },
+  "permissions": [
+    {
+      "action": "*",
+      "resource": "*",
+      "effect": "ask"
+    },
+    {
+      "action": "read",
+      "resource": "*",
+      "effect": "allow"
+    },
+    {
+      "action": "glob",
+      "resource": "*",
+      "effect": "allow"
+    },
+    {
+      "action": "grep",
+      "resource": "*",
+      "effect": "allow"
+    },
+    {
+      "action": "webfetch",
+      "resource": "*",
+      "effect": "allow"
+    },
+    {
+      "action": "skill",
+      "resource": "*",
+      "effect": "allow"
+    },
+    {
+      "action": "subagent",
+      "resource": "*",
+      "effect": "deny"
+    },
+    {
+      "action": "external_directory",
+      "resource": "/private/tmp/*",
+      "effect": "allow"
+    },
+    {
+      "action": "external_directory",
+      "resource": "/tmp/*",
+      "effect": "allow"
+    }
+  ],
+  "agents": {
+    "title": {
+      "model": "opencode/deepseek-v4.1-flash-free"
+    },
+    "summary": {
+      "model": "opencode/deepseek-v4.1-flash-free"
+    },
+    "compaction": {
+      "model": "opencode/deepseek-v4.1-flash-free"
+    },
+    "build": {
+      "disabled": true
+    },
+    "plan": {
+      "disabled": true
+    },
+    "general": {
+      "disabled": true
+    },
+    "explore": {
+      "disabled": true
+    }
+  },
+  "plugins": ["./scripts/opencode-budget"]
+}

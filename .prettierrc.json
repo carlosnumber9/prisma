@@ -1,5 +1,14 @@
 {
   "singleQuote": true,
   "trailingComma": "all",
-  "proseWrap": "preserve"
+  "proseWrap": "preserve",
+  "overrides": [
+    {
+      "files": "opencode.jsonc",
+      "options": {
+        "parser": "json",
+        "trailingComma": "none"
+      }
+    }
+  ]
 }
