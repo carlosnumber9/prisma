@@ -95,7 +95,7 @@ Run `node --test tests/research-efficiency.test.mjs` for allowed-role boundaries
 
 ## OpenCode execution
 
-The [desktop guide](opencode.md) configures Sol subscription coordination/QA and exact DeepSeek Free draft workers; the table above describes native Codex, not OpenCode. Shared evidence, complete coverage, bounded retries and metrics rules apply to both. OpenCode child sessions start with fresh context; use the same validated task packets without native `fork_turns` arguments. Translation packets may specify zero web queries/opens when all relevant original context is supplied.
+The [desktop guide](opencode.md) configures ChatGPT subscription roles for coordination, Research, synthesis, translation and QA. Discovery selects zero-priced OpenCode catalog models, falling back to the cheapest current OpenAI model via existing ChatGPT OAuth; the table above describes native Codex, not OpenCode. Shared evidence, complete coverage, bounded retries and metrics rules apply to both. OpenCode child sessions start with fresh context; use the same validated task packets without native `fork_turns` arguments. Translation packets may specify zero web queries/opens when all relevant original context is supplied.
 
 `npm run research:targets` computes current missing programme associations and incomplete programme areas from validated editorial inputs. `npm run research:config` validates maintained role/model/cost defaults offline and runs in `npm run check`; it cannot authenticate accounts or inspect current provider pricing/overrides. Both are read-only and require no model API.
 

@@ -2,7 +2,7 @@
 {
   'description': 'Translate only stabilized changed programme points.',
   'mode': 'subagent',
-  'model': 'opencode/deepseek-v4.1-flash-free',
+  'model': 'openai/gpt-6-luna#low',
   'steps': 12,
   'permissions':
     [

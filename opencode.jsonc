@@ -1,7 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "model": "openai/gpt-6.1-sol",
-  "default_agent": "prisma-builder",
   "share": "disabled",
   "warming": false,
   "automations": false,
@@ -39,6 +38,25 @@
           "settings": {
             "reasoningEffort": "medium"
           }
+        },
+        "gpt-6-luna": {
+          "settings": {
+            "reasoningEffort": "medium"
+          },
+          "variants": [
+            {
+              "id": "low",
+              "settings": {
+                "reasoningEffort": "low"
+              }
+            },
+            {
+              "id": "medium",
+              "settings": {
+                "reasoningEffort": "medium"
+              }
+            }
+          ]
         }
       }
     },
@@ -111,9 +129,6 @@
     },
     "compaction": {
       "model": "opencode/deepseek-v4.1-flash-free"
-    },
-    "build": {
-      "disabled": true
     },
     "plan": {
       "disabled": true

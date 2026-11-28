@@ -2,7 +2,7 @@
 {
   'description': 'Prepare complete cited Castilian programme drafts.',
   'mode': 'subagent',
-  'model': 'opencode/deepseek-v4.1-flash-free',
+  'model': 'openai/gpt-6-luna#medium',
   'steps': 24,
   'permissions':
     [
